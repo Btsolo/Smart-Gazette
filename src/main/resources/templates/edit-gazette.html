@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Gazette</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+    </style>
+</head>
+<body class="bg-gray-100">
+
+<div class="container mx-auto max-w-2xl p-6">
+    <header class="mb-6">
+        <h1 class="text-3xl font-bold text-gray-900">Edit Gazette Entry</h1>
+        <p class="text-gray-600">Modify the details for Gazette ID: <span th:text="${gazette.id}">1</span></p>
+    </header>
+
+    <main class="bg-white rounded-lg shadow p-8">
+        <!-- form for filling in the details you are going to modify -->
+        <form th:action="@{/update}" th:object="${gazette}" method="post">
+            <input type="hidden" th:field="*{id}" />
+
+            <div class="space-y-4">
+                <div class="p-3 bg-gray-50 rounded-md border">
+                    <label class="block text-xs font-medium text-gray-500">Official Publication Date (from AI)</label>
+                    <p class="text-sm font-semibold text-gray-800" th:text="${#temporals.format(gazette.publishedDate, 'MMMM d, yyyy')}"></p>
+                </div>
+
+                <div>
+                    <label for="title" class="block text-sm font-medium text-gray-700">Title</label>
+                    <input type="text" id="title" th:field="*{title}" class="mt-1 border p-2 w-full rounded-md shadow-sm" required>
+                </div>
+
+                <div>
+                    <label for="content" class="block text-sm font-medium text-gray-700">Full Content</label>
+                    <textarea id="content" th:field="*{content}" class="mt-1 border p-2 w-full rounded-md shadow-sm" rows="6" required></textarea>
+                </div>
+
+                <div>
+                    <label for="link" class="block text-sm font-medium text-gray-700">Source Link (Optional)</label>
+                    <input type="text" id="link" th:field="*{link}" class="mt-1 border p-2 w-full rounded-md shadow-sm">
+                </div>
+
+                <div class="flex justify-end space-x-3 pt-4">
+                    <a th:href="@{/admin}" class="bg-gray-200 text-gray-700 px-4 py-2 rounded-md hover:bg-gray-300">Cancel</a>
+                    <button type="submit" class="bg-indigo-600 text-white px-4 py-2 rounded-md hover:bg-indigo-700">Save Changes</button>
+                </div>
+            </div>
+        </form>
+
+    </main>
+</div>
+
+</body>
+</html>
