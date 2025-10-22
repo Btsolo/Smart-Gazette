@@ -28,7 +28,6 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
@@ -41,42 +40,31 @@ public class GazetteService {
 
     @Value("${gemini.api.key:}")
     private String geminiApiKey;
-    @Value("${gemini.model:gemini-pro}")
+    @Value("${gemini.model:gemini-1.5-pro-latest}")
     private String geminiModel;
 
     public GazetteService(GazetteRepository gazetteRepository) {
         this.gazetteRepository = gazetteRepository;
         SimpleClientHttpRequestFactory rf = new SimpleClientHttpRequestFactory();
-        rf.setConnectTimeout(30_000);// 30s
-        rf.setReadTimeout(300_000);// 5 minutes for very complex tasks
+        rf.setConnectTimeout(30_000);
+        rf.setReadTimeout(300_000); // 5-minute timeout for complex AI tasks
         this.restTemplate = new RestTemplate(rf);
     }
 
     // --- Core Public Methods ---
-    public List<Gazette> getAllGazettes() {
-        return gazetteRepository.findAllByOrderBySourceOrderAsc();
-    }
+    public List<Gazette> getAllGazettes() { return gazetteRepository.findAllByOrderBySourceOrderAsc(); }
+    public Gazette getGazetteById(Long id) { return gazetteRepository.findById(id).orElse(null); }
+    public void deleteGazette(Long id) { gazetteRepository.deleteById(id); }
+    public Gazette saveGazette(Gazette gazette) { return gazetteRepository.save(gazette); }
 
-    public Gazette getGazetteById(Long id) {
-        return gazetteRepository.findById(id).orElse(null);
-    }
-    public void deleteGazette(Long id) {
-        gazetteRepository.deleteById(id);
-    }
-    public Gazette saveGazette(Gazette gazette) {
-        return gazetteRepository.save(gazette);
-    }
-
-    // --- Main PDF Processing Pipeline ---
+    // --- Main PDF Processing Pipeline (SIMPLIFIED) ---
     @Async
     public void processAndSavePdf(File file) {
         PDDocument document = null;
         try {
             log.info(">>>> Starting async PDF processing for file: {}", file.getName());
             document = PDDocument.load(file);
-
-            // 1. Segment the document into smaller text chunks first
-            List<String> segments = segmentDocumentByPages(document, 4); // Use a safe 4-page window
+            List<String> segments = segmentDocumentByPages(document, 4);
             if (segments.isEmpty()) {
                 log.warn("No text could be extracted from the PDF.");
                 return;
@@ -84,51 +72,22 @@ public class GazetteService {
 
             log.info("PDF split into {} segments.", segments.size());
             int sourceOrderCounter = 0;
-
-            // 2. Loop through each small segment and process it
             for (int i = 0; i < segments.size(); i++) {
                 String segment = segments.get(i);
                 log.info("-----> Processing Segment {}/{}...", i + 1, segments.size());
 
-                JSONObject triageJson = triageGazetteContent(segment);
-                if (triageJson == null) {
-                    log.warn("Triage failed for segment {}. Creating a fallback entry.", i + 1);
+                // Make ONE powerful AI call for each segment
+                List<Gazette> processedGazettes = processSegmentWithAI(segment);
+
+                if (processedGazettes.isEmpty()) {
+                    log.warn("AI returned no articles for this segment. Creating a fallback.");
                     gazetteRepository.save(createFallbackGazette(segment, sourceOrderCounter++));
-                    continue; // Move to the next segment
-                }
-
-                // 3. Process the significant notices found in THIS segment
-                JSONArray significantNotices = triageJson.optJSONArray("significant_notices");
-                if (significantNotices != null && !significantNotices.isEmpty()) {
-                    log.info("Found {} significant notices in segment {}.", significantNotices.length(), i + 1);
-                    for (Object item : significantNotices) {
-                        String noticeText = ((JSONObject) item).optString("raw_text", "");
-                        if (noticeText.isBlank()) continue;
-                        Gazette gazette = processIndividualNotice(noticeText);
-                        if (gazette == null) continue;
-                        gazette.setContent(noticeText);
+                } else {
+                    for (Gazette gazette : processedGazettes) {
                         gazette.setSourceOrder(sourceOrderCounter++);
-                        log.info("Saving significant article: '{}'", gazette.getTitle());
+                        gazette.setContent(segment); // Save the segment text for context
+                        log.info("Saving article: '{}'", gazette.getTitle());
                         gazetteRepository.save(gazette);
-                    }
-                }
-
-                // 4. Process the routine notices found in THIS segment
-                JSONArray routineNotices = triageJson.optJSONArray("routine_notices");
-                if (routineNotices != null && !routineNotices.isEmpty()) {
-                    log.info("Found {} routine notices in segment {}.", routineNotices.length(), i + 1);
-                    List<JSONObject> routineList = new ArrayList<>();
-                    routineNotices.forEach(obj -> routineList.add((JSONObject) obj));
-                    Map<String, List<JSONObject>> groupedRoutines = routineList.stream()
-                            .collect(Collectors.groupingBy(n -> n.optString("group_key", "General")));
-                    for (Map.Entry<String, List<JSONObject>> entry : groupedRoutines.entrySet()) {
-                        Gazette digestGazette = processDigest(entry.getKey(), entry.getValue());
-                        if (digestGazette == null) continue;
-                        String digestContent = entry.getValue().stream().map(n -> n.optString("raw_text")).collect(Collectors.joining("\n---\n"));
-                        digestGazette.setContent(digestContent);
-                        digestGazette.setSourceOrder(sourceOrderCounter++);
-                        log.info("Saving digest article: '{}'", digestGazette.getTitle());
-                        gazetteRepository.save(digestGazette);
                     }
                 }
             }
@@ -143,36 +102,34 @@ public class GazetteService {
         }
     }
 
-    // --- Private AI Helper Methods ---
-    private JSONObject triageGazetteContent(String segment) {
-        log.info("  -> Sending segment to AI for triage...");
-        String systemPrompt = "You are a JSON-only API. Read the text and identify distinct notices. " +
-                "Return a JSON object with two arrays: 'significant_notices' and 'routine_notices'. Each notice object must have keys: " +
-                "category, raw_text (the full notice), importance_score (0-100), and group_key. " +
-                "If you find no notices, you MUST return the structure with empty arrays. " +
-                "Do not include any text, explanations, or markdown outside of the single, valid JSON object.";
+    // --- NEW: Single, Powerful AI Method ---
+    private List<Gazette> processSegmentWithAI(String segment) {
+        String systemPrompt = "You are an expert editorial assistant. Your task is to parse a raw gazette text that may contain multiple notices. " +
+                "Identify each distinct notice and process it. You MUST return a JSON object with a single key 'articles', which holds an array of JSON objects. " +
+                "Each object in the array represents one notice and must have nine keys: 'title', 'summary', 'xSummary', 'article', 'category', 'publishedDate', 'noticeNumber', 'signatory', and 'actionableInfo'. " +
+                "If a notice is routine (like a land transfer), the 'article' can be a brief, single paragraph. If it is significant (like a new bill), the 'article' should be 300-600 words. " +
+                "For appointment gauge them on their significance to know if to produce an article explaining or not as significant can be grouped and a single article with paragraphs explaining each is produced(this can be excepted from the word limit if it exceeds)"+
+                "For the xSummary use the twitter user by the name of Moe(moneycademyke) as a guide to know how to write them ,the 'xSummary' should be not more 276 characters."+
+                "For routine notices that are very similar (e.g., multiple land title loss notices), you may group them into a single 'digest' article, using markdown lists in the 'article' field to present the information clearly. " +
+                "Return only the valid JSON object and nothing else.";
+
         String responseText = makeGeminiApiCall(systemPrompt, segment);
-        if (responseText != null) log.info("  <- Received triage response from AI.");
-        return parseSafeJson(responseText);
+        List<Gazette> processedGazettes = new ArrayList<>();
+        JSONObject parsedJson = parseSafeJson(responseText);
+
+        if (parsedJson != null && parsedJson.has("articles")) {
+            JSONArray articlesArray = parsedJson.getJSONArray("articles");
+            for (Object item : articlesArray) {
+                Gazette gazette = createGazetteFromJson((JSONObject) item);
+                if (gazette != null) {
+                    processedGazettes.add(gazette);
+                }
+            }
+        }
+        return processedGazettes;
     }
 
-    private Gazette processIndividualNotice(String noticeText) {
-        log.info("    -> Sending significant notice to AI for article generation...");
-        String systemPrompt = "You are a JSON-only API... (your individual notice prompt)";
-        String responseText = makeGeminiApiCall(systemPrompt, noticeText);
-        if (responseText != null) log.info("    <- Received article response from AI.");
-        return createGazetteFromJson(parseSafeJson(responseText));
-    }
-
-    private Gazette processDigest(String category, List<JSONObject> notices) {
-        log.info("    -> Sending {} routine notices to AI for digest generation...", notices.size());
-        String combinedText = notices.stream().map(n -> n.optString("raw_text")).collect(Collectors.joining("\n---\n"));
-        String systemPrompt = "You are a JSON-only API... (your digest prompt)";
-        String responseText = makeGeminiApiCall(systemPrompt, combinedText);
-        if (responseText != null) log.info("    <- Received digest response from AI.");
-        return createGazetteFromJson(parseSafeJson(responseText));
-    }
-
+    // --- Helper Methods ---
     private String makeGeminiApiCall(String systemPrompt, String userPrompt) {
         if (geminiApiKey == null || geminiApiKey.isBlank()) {
             log.error("Gemini API key is not configured.");
@@ -181,31 +138,27 @@ public class GazetteService {
         String apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/" + geminiModel + ":generateContent?key=" + geminiApiKey;
         HttpHeaders headers = new HttpHeaders();
         headers.setContentType(MediaType.APPLICATION_JSON);
-
         String fullPrompt = systemPrompt + "\n\n" + userPrompt;
         String requestBody = new JSONObject()
                 .put("contents", new JSONArray().put(new JSONObject()
                         .put("parts", new JSONArray().put(new JSONObject()
                                 .put("text", fullPrompt)))))
                 .toString();
-
         HttpEntity<String> entity = new HttpEntity<>(requestBody, headers);
-
         try {
             log.info("Sending request to Gemini model: {}", geminiModel);
             ResponseEntity<String> resp = restTemplate.postForEntity(apiUrl, entity, String.class);
-
-            // --- NEW LOGGING ---
-            String body = resp.getBody();
-            log.info("Gemini Raw Response: {}", body); // This will print the AI's exact response
-
-            if (resp.getStatusCode().is2xxSuccessful() && body != null) {
-                JSONObject jsonResponse = new JSONObject(body);
+            if (resp.getStatusCode().is2xxSuccessful() && resp.getBody() != null) {
+                JSONObject jsonResponse = new JSONObject(resp.getBody());
+                log.info("Gemini Raw Response Received.");
                 return jsonResponse.getJSONArray("candidates").getJSONObject(0).getJSONObject("content").getJSONArray("parts").getJSONObject(0).getString("text");
             }
-            log.warn("Gemini non-OK response: {}", resp.getStatusCode());
+        } catch (HttpClientErrorException e) {
+            log.error("Gemini client error: {} - {}", e.getStatusCode(), e.getResponseBodyAsString());
+        } catch (ResourceAccessException e) {
+            log.error("Gemini network error: {}", e.getMessage());
         } catch (Exception e) {
-            log.error("An unexpected error occurred during Gemini call: {}", e.getMessage(), e);
+            log.error("Unexpected error during Gemini call: {}", e.getMessage(), e);
         }
         return null;
     }
