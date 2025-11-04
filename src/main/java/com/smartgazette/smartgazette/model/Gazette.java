@@ -5,6 +5,8 @@ import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
+import jakarta.persistence.EnumType;
+import jakarta.persistence.Enumerated;
 
 @Entity
 @Table(name = "gazette")
@@ -21,6 +23,10 @@ public class Gazette {
     private String noticeNumber;
     private String signatory;
     private Integer sourceOrder;
+    private String gazetteVolume;
+    private String gazetteNumber;
+    private LocalDate gazetteDate;
+
 
     @Column(columnDefinition = "TEXT")
     private String content;
@@ -48,6 +54,9 @@ public class Gazette {
     @UpdateTimestamp
     @Column(name = "last_updated_at")
     private LocalDateTime lastUpdatedAt;
+
+    @Enumerated(EnumType.STRING) // This tells JPA to store the status as a readable string ("SUCCESS", "FAILED")
+    private ProcessingStatus status;
 
     // --- Constructors ---
 
@@ -196,4 +205,35 @@ public class Gazette {
         this.sourceOrder = sourceOrder;
     }
 
+    public ProcessingStatus getStatus() {
+        return status;
+    }
+
+    public void setStatus(ProcessingStatus status) {
+        this.status = status;
+    }
+
+    public String getGazetteVolume() {
+        return gazetteVolume;
+    }
+
+    public void setGazetteVolume(String gazetteVolume) {
+        this.gazetteVolume = gazetteVolume;
+    }
+
+    public String getGazetteNumber() {
+        return gazetteNumber;
+    }
+
+    public void setGazetteNumber(String gazetteNumber) {
+        this.gazetteNumber = gazetteNumber;
+    }
+
+    public LocalDate getGazetteDate() {
+        return gazetteDate;
+    }
+
+    public void setGazetteDate(LocalDate gazetteDate) {
+        this.gazetteDate = gazetteDate;
+    }
 }

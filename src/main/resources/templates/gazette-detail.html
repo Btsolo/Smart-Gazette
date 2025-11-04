@@ -52,32 +52,46 @@
                 <div class="mb-8 p-4 bg-gray-50 border border-gray-200 rounded-lg">
                     <h3 class="text-lg font-bold text-gray-800 mb-3">Key Information</h3>
                     <dl class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm">
-                        <div th:if="${!#strings.isEmpty(gazette.noticeNumber)}">
+                        <div th:if="${gazette.noticeNumber != null && !#strings.isEmpty(gazette.noticeNumber)}">
                             <dt class="font-semibold text-gray-600">Notice Number:</dt>
                             <dd class="text-gray-800" th:text="${gazette.noticeNumber}"></dd>
                         </div>
-                        <div>
-                            <dt class="font-semibold text-gray-600">Official Gazette Date:</dt>
+
+                        <div th:if="${gazette.gazetteDate != null}">
+                            <dt class="font-semibold text-gray-600">Gazette Publication Date:</dt>
+                            <dd class="text-gray-800" th:text="${#temporals.format(gazette.gazetteDate, 'MMMM d, yyyy')}"></dd>
+                        </div>
+
+                        <div th:if="${gazette.gazetteVolume != null && !#strings.isEmpty(gazette.gazetteVolume)}">
+                            <dt class="font-semibold text-gray-600">Gazette Volume:</dt>
+                            <dd class="text-gray-800" th:text="${gazette.gazetteVolume}"></dd>
+                        </div>
+
+                        <div th:if="${gazette.gazetteNumber != null && !#strings.isEmpty(gazette.gazetteNumber)}">
+                            <dt class="font-semibold text-gray-600">Gazette Number:</dt>
+                            <dd class="text-gray-800" th:text="${gazette.gazetteNumber}"></dd>
+                        </div>
+
+
+                        <div th:if="${gazette.publishedDate != null}">
+                            <dt class="font-semibold text-gray-600">Notice Effective/Mentioned Date:</dt>
                             <dd class="text-gray-800" th:text="${#temporals.format(gazette.publishedDate, 'MMMM d, yyyy')}"></dd>
                         </div>
-                        <div th:if="${!#strings.isEmpty(gazette.signatory)}">
+
+                        <div th:if="${gazette.signatory != null && !#strings.isEmpty(gazette.signatory)}">
                             <dt class="font-semibold text-gray-600">Issuing Authority:</dt>
                             <dd class="text-gray-800" th:text="${gazette.signatory}"></dd>
                         </div>
-                        <div>
+
+                        <div th:if="${gazette.systemPublishedAt != null}">
                             <dt class="font-semibold text-gray-600">Posted on Smart Gazette:</dt>
                             <dd class="text-gray-800" th:text="${#temporals.format(gazette.systemPublishedAt, 'MMMM d, yyyy h:mm a')}"></dd>
                         </div>
                     </dl>
-                    <div th:if="${!#strings.isEmpty(gazette.actionableInfo)}" class="mt-4 pt-3 border-t border-gray-200">
+                    <div th:if="${gazette.actionableInfo != null && !#strings.isEmpty(gazette.actionableInfo)}" class="mt-4 pt-3 border-t border-gray-200 sm:col-span-2">
                         <p class="text-sm text-blue-800"><span class="font-semibold">Action Required:</span> <span th:text="${gazette.actionableInfo}"></span></p>
                     </div>
                 </div>
-
-                <section class="mb-10">
-                    <h2 class="text-xl font-bold mb-4 text-gray-800">AI-Generated Summary</h2>
-                    <p class="text-gray-700 text-lg italic leading-relaxed" th:text="${gazette.summary}"></p>
-                </section>
 
                 <section>
                     <h2 class="text-xl font-bold mb-4 text-gray-800">Full Article</h2>

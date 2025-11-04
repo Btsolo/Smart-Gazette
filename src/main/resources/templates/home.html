@@ -58,10 +58,45 @@
 
                 <a th:href="@{/gazette/{id}(id=${gazette.id})}" class="block bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
                     <div class="p-6">
-                        <span th:text="${gazette.category}"
-                              th:classappend="${gazette.category == 'Finance' ? 'bg-blue-100 text-blue-800' : gazette.category == 'Appointments' ? 'bg-green-100 text-green-800' : gazette.category == 'Housing' ? 'bg-orange-100 text-orange-800' : gazette.category == 'Transport' ? 'bg-purple-100 text-purple-800' : gazette.category == 'ICT' ? 'bg-yellow-100 text-yellow-800' : gazette.category == 'Legal' ? 'bg-red-100 text-red-800' : 'bg-gray-100 text-gray-800'}"
-                              class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4">
-                        </span>
+                        <span th:switch="${gazette.category}">
+    <span th:case="'Finance'"
+          th:text="${gazette.category}"
+          class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-blue-100 text-blue-800">
+    </span>
+    <span th:case="'Appointments'"
+          th:text="${gazette.category}"
+          class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-green-100 text-green-800">
+    </span>
+    <span th:case="'Housing'"
+          th:text="${gazette.category}"
+          class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-orange-100 text-orange-800">
+     </span>
+    <span th:case="'Transport'"
+          th:text="${gazette.category}"
+          class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-purple-100 text-purple-800">
+     </span>
+    <span th:case="'ICT'"
+          th:text="${gazette.category}"
+          class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-yellow-100 text-yellow-800">
+     </span>
+    <span th:case="'Legal'"
+          th:text="${gazette.category}"
+          class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-red-100 text-red-800">
+</span>
+<span th:case="'Court_Legal'"
+      th:text="${gazette.category}"
+      class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-red-100 text-red-800">
+</span>
+     <span th:case="'Land_Property'"
+           th:text="${gazette.category}"
+           class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-teal-100 text-teal-800"> </span>
+     <span th:case="'Tenders'"
+           th:text="${gazette.category}"
+           class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-indigo-100 text-indigo-800"> </span>
+    <span th:case="*"
+          th:text="${gazette.category != null ? gazette.category : 'General'}" class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-gray-100 text-gray-800">
+    </span>
+</span>
 
                         <h3 class="text-xl font-bold text-gray-900 mb-2 leading-tight" th:text="${gazette.title}"></h3>
 

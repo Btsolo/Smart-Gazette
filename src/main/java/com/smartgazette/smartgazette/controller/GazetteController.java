@@ -23,6 +23,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.List;
+import com.smartgazette.smartgazette.model.ProcessingStatus;
 
 @Controller
 public class GazetteController {
@@ -43,7 +44,11 @@ public class GazetteController {
 
     @GetMapping("/")
     public String home(Model model) {
-        model.addAttribute("gazettes", gazetteService.getAllGazettes());
+        List<Gazette> successfulGazettes = gazetteService.getAllGazettes()
+                .stream()
+                .filter(g -> g.getStatus() == ProcessingStatus.SUCCESS)
+                .toList();
+        model.addAttribute("gazettes", successfulGazettes);
         return "home";
     }
 

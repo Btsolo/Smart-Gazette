@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "parcel_id": { "type": "string" },
+    "parties": { "type": "array", "items": { "type": "string" } },
+    "action_type": { "type": "string" },
+    "location": { "type": "string" },
+    "reference_docs": { "type": "string" },
+    "valuation": { "type": "string" }
+  }
+}

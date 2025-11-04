@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "court_name": { "type": "string" },
+    "case_reference": { "type": "string" },
+    "parties": { "type": "array", "items": { "type": "string" } },
+    "action_type": { "type": "string" },
+    "filing_deadline": { "type": "string" },
+    "judgment_summary": { "type": "string" }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "object",
+  "properties": {
+    "tender_id": { "type": "string" },
+    "procuring_entity": { "type": "string" },
+    "brief_description": { "type": "string" },
+    "deadline": { "type": "string" },
+    "contact_info": { "type": "string" },
+    "link_to_doc": { "type": "string" },
+    "award_notice": { "type": "string" },
+    "estimated_value": { "type": "string" }
+  }
+}
