@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+      th:replace="~{admin-layout :: layout(title='Log Viewer', content=~{::content}, activePage='logs')}">
+
+<th:block th:fragment="content">
+    <div class="bg-black text-green-400 font-mono p-6 rounded-lg shadow-inner h-[80vh] overflow-y-scroll">
+        <div class="flex justify-between items-center mb-4">
+            <div>
+                <p class="text-white text-lg">Smart Gazette terminal</p>
+                <p th:text="'Gazette: ' + ${gazetteFileId}"></p>
+            </div>
+            <a th:href="@{/admin/logs}" class="text-black bg-green-400 px-3 py-1 rounded hover:bg-green-300">
+                &lt; Back to Directory
+            </a>
+        </div>
+        <p class="text-white underline">Log Console</p>
+        <br>
+        <div class="whitespace-pre-wrap" th:text="${logData}">
+            ... loading logs ...
+        </div>
+    </div>
+</th:block>
+
+</html>

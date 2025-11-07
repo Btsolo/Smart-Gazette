@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+      th:replace="~{admin-layout :: layout(title='Log Viewer', content=~{::content}, activePage='logs')}">
+
+<th:block th:fragment="content">
+    <div class="bg-black text-green-400 font-mono p-6 rounded-lg shadow-inner h-[80vh] overflow-y-scroll">
+        <p class="text-white text-lg">Smart Gazette terminal</p>
+        <p>Directory: C:/Users/Edian/Gazette</p>
+        <br>
+        <p class="text-white underline">Gazette File</p>
+        <div class="grid grid-cols-3 gap-x-4">
+            <span th:each="file : ${gazetteFiles.keySet()}" class="col-span-1">
+                <a th:href="@{/admin/logs/{id}(id=${file})}" th:text="${file}" class="text-cyan-400 hover:underline"></a>
+            </span>
+        </div>
+    </div>
+</th:block>
+
+</html>

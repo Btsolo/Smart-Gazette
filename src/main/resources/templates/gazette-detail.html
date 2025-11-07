@@ -8,7 +8,58 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         body { font-family: 'Inter', sans-serif; background-color: #f9fafb; }
+
+        /* This is the magic for your plain text article fields */
         .preserve-lines { white-space: pre-wrap; }
+
+        /* --- NEW STYLES FOR TABS --- */
+        .tab-button {
+            padding: 0.75rem 1.5rem;
+            font-weight: 600;
+            color: #4B5563; /* gray-600 */
+            border-bottom: 3px solid transparent;
+            cursor: pointer;
+        }
+        .tab-button.active {
+            color: #2563EB; /* blue-600 */
+            border-bottom-color: #2563EB;
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+
+        /* --- NEW STYLES FOR FEEDBACK BUTTONS --- */
+        .feedback-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 1rem;
+            border: 1px solid #D1D5DB; /* gray-300 */
+            border-radius: 9999px; /* rounded-full */
+            font-weight: 500;
+            color: #374151; /* gray-700 */
+            background-color: #FFFFFF;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .feedback-button:hover {
+            background-color: #F9FAFB; /* gray-50 */
+            border-color: #9CA3AF; /* gray-400 */
+        }
+        .feedback-button:disabled {
+            background-color: #F3F4F6; /* gray-100 */
+            color: #9CA3AF; /* gray-400 */
+            cursor: not-allowed;
+        }
+        .feedback-button.selected {
+            border-color: #2563EB; /* blue-600 */
+            background-color: #EFF6FF; /* blue-50 */
+            color: #1D4ED8; /* blue-700 */
+        }
+
     </style>
 </head>
 <body class="text-gray-800">
@@ -18,13 +69,13 @@
     <header class="py-6">
         <div class="flex justify-between items-center border-b border-gray-200 pb-4">
             <a th:href="@{/}" class="flex items-center">
-                <img th:src="@{/img/Coat of arms.png}" alt="Smart Gazette Logo" class="h-12 w-12 mr-3">
+                <img th:src="@{/img/sg-logo.png}" alt="Smart Gazette Logo" class="h-12 w-12 mr-3">
                 <h1 class="text-2xl font-extrabold text-gray-900">Smart Gazette</h1>
             </a>
             <nav class="hidden md:flex items-center space-x-8 text-sm font-medium text-gray-600">
                 <a th:href="@{/}" class="hover:text-blue-600 transition-colors">Home</a>
-                <a href="#" class="hover:text-blue-600 transition-colors">Categories</a>
-                <a href="#" class="hover:text-blue-600 transition-colors">About</a>
+                <a th:href="@{/categories}" class="hover:text-blue-600 transition-colors">Categories</a>
+                <a th:href="@{/about}" class="hover:text-blue-600 transition-colors">About</a>
             </nav>
             <div class="md:hidden">
                 <button id="menu-toggle" aria-label="Toggle menu" class="focus:outline-none">
@@ -34,8 +85,8 @@
         </div>
         <div id="mobile-menu" class="hidden md:hidden py-4">
             <a th:href="@{/}" class="block py-2 px-4 text-sm hover:bg-gray-100">Home</a>
-            <a href="#" class="block py-2 px-4 text-sm hover:bg-gray-100">Categories</a>
-            <a href="#" class="block py-2 px-4 text-sm hover:bg-gray-100">About</a>
+            <a th:href="@{/categories}" class="block py-2 px-4 text-sm hover:bg-gray-100">Categories</a>
+            <a th:href="@{/about}" class="block py-2 px-4 text-sm hover:bg-gray-100">About</a>
         </div>
     </header>
 
@@ -44,7 +95,7 @@
             <div class="p-8 lg:p-12">
                 <header class="mb-8">
                     <div class="mb-4">
-                        <span th:text="${gazette.category}" class="inline-block px-3 py-1 text-sm font-bold rounded-full text-white bg-blue-600"></span>
+                        <span th:text="${#strings.replace(gazette.category, '_', ' ')}" class="inline-block px-3 py-1 text-sm font-bold rounded-full text-white bg-blue-600"></span>
                     </div>
                     <h1 class="text-4xl font-extrabold text-gray-900" th:text="${gazette.title}"></h1>
                 </header>
@@ -94,20 +145,133 @@
                 </div>
 
                 <section>
-                    <h2 class="text-xl font-bold mb-4 text-gray-800">Full Article</h2>
-                    <div class="prose max-w-none text-gray-800 leading-relaxed preserve-lines" th:text="${gazette.article}"></div>
+                    <div class="border-b border-gray-200 mb-6">
+                        <nav class="flex -mb-px" id="tab-buttons">
+                            <button class="tab-button active" data-tab="summary">AI-Generated Summary</button>
+                            <button class="tab-button" data-tab="original">Original Notice Text</button>
+                        </nav>
+                    </div>
+
+                    <div id="tab-panels">
+                        <div id="tab-summary" class="tab-content active">
+                            <h2 class="text-xl font-bold mb-4 text-gray-800">Full Article</h2>
+                            <div class="prose max-w-none text-gray-800 leading-relaxed preserve-lines" th:text="${gazette.article}"></div>
+                        </div>
+
+                        <div id="tab-original" class="tab-content">
+                            <h2 class="text-xl font-bold mb-4 text-gray-800">Original Notice Text</h2>
+                            <p class="text-sm text-gray-500 mb-4 italic">The following is the full, unprocessed text extracted from the original PDF notice.</p>
+                            <div class="prose max-w-none text-gray-600 leading-relaxed preserve-lines bg-gray-50 p-4 rounded-md border" th:text="${gazette.content}"></div>
+                        </div>
+                    </div>
                 </section>
+
+                <section id="feedback-section" class="mt-12 pt-8 border-t border-gray-200 text-center">
+                    <h3 class="text-lg font-semibold text-gray-800 mb-4">Was this summary helpful?</h3>
+                    <div class="flex justify-center gap-4">
+                        <button id="thumbs-up-btn" class="feedback-button" th:data-id="${gazette.id}">
+                            <span class="text-xl">👍</span> Thumbs Up
+                        </button>
+                        <button id="thumbs-down-btn" class="feedback-button" th:data-id="${gazette.id}">
+                            <span class="text-xl">👎</span> Thumbs Down
+                        </button>
+                    </div>
+                    <p id="feedback-thanks" class="mt-4 text-green-600 font-medium" style="display: none;">
+                        Thank you for your feedback!
+                    </p>
+                </section>
+
             </div>
         </article>
     </main>
 </div>
 
-<script>
+<script th:inline="javascript">
+    /*<![CDATA[*/
+
+    // --- Mobile Menu Toggle ---
     const menuToggle = document.getElementById('menu-toggle');
     const mobileMenu = document.getElementById('mobile-menu');
     menuToggle.addEventListener('click', () => {
         mobileMenu.classList.toggle('hidden');
     });
+
+    // --- NEW SCRIPT FOR TABS (PHASE 2) ---
+    const tabButtons = document.querySelectorAll('.tab-button');
+    const tabPanels = document.querySelectorAll('.tab-content');
+
+    tabButtons.forEach(button => {
+        button.addEventListener('click', () => {
+            // Deactivate all
+            tabButtons.forEach(btn => btn.classList.remove('active'));
+            tabPanels.forEach(panel => panel.classList.remove('active'));
+
+            // Activate clicked
+            button.classList.add('active');
+            const tabName = button.getAttribute('data-tab');
+            document.getElementById('tab-' + tabName).classList.add('active');
+        });
+    });
+
+    // --- NEW SCRIPT FOR FEEDBACK BUTTONS (PHASE 2) ---
+    const thumbsUpBtn = document.getElementById('thumbs-up-btn');
+    const thumbsDownBtn = document.getElementById('thumbs-down-btn');
+    const thanksMsg = document.getElementById('feedback-thanks');
+    const articleId = thumbsUpBtn.getAttribute('data-id');
+
+    // Check if feedback was already given
+    const feedbackGiven = localStorage.getItem('feedback_given_' + articleId);
+    if (feedbackGiven) {
+        disableButtons(feedbackGiven);
+    }
+
+    thumbsUpBtn.addEventListener('click', () => {
+        sendFeedback('thumbsup');
+    });
+
+    thumbsDownBtn.addEventListener('click', () => {
+        sendFeedback('thumbsdown');
+    });
+
+    function sendFeedback(type) {
+        if (localStorage.getItem('feedback_given_' + articleId)) {
+            return; // Already voted
+        }
+
+        const url = `/gazette/${articleId}/${type}`;
+
+        // This is the modern way to send a POST request from JavaScript
+        fetch(url, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        })
+            .then(response => {
+                if (response.ok) {
+                    localStorage.setItem('feedback_given_' + articleId, type);
+                    disableButtons(type);
+                    thanksMsg.style.display = 'block';
+                } else {
+                    console.error('Failed to submit feedback.');
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+    }
+
+    function disableButtons(type) {
+        thumbsUpBtn.disabled = true;
+        thumbsDownBtn.disabled = true;
+        if (type === 'thumbsup') {
+            thumbsUpBtn.classList.add('selected');
+        } else {
+            thumbsDownBtn.classList.add('selected');
+        }
+    }
+
+    /*]]>*/
 </script>
 
 </body>

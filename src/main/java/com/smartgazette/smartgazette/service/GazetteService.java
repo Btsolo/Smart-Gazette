@@ -22,6 +22,7 @@ import org.springframework.web.client.HttpClientErrorException;
 import org.springframework.web.client.HttpServerErrorException;
 import org.springframework.web.client.ResourceAccessException;
 import org.springframework.web.client.RestTemplate;
+import java.util.concurrent.atomic.AtomicBoolean;
 
 import java.io.File;
 import java.io.IOException;
@@ -41,6 +42,10 @@ public class GazetteService {
     private static final Logger log = LoggerFactory.getLogger(GazetteService.class);
     private final GazetteRepository gazetteRepository;
     private final RestTemplate restTemplate;
+
+//    Add a "Mutex Lock" to prevent concurrent processing (Fix T015) ---
+    private final AtomicBoolean isProcessing = new AtomicBoolean(false);
+    private final AtomicBoolean stopProcessing = new AtomicBoolean(false);
 
     @Value("${gemini.api.key:}")
     private String geminiApiKey;
@@ -63,14 +68,42 @@ public class GazetteService {
         this.restTemplate = new RestTemplate(rf);
     }
 
-    // --- Core Public Methods (Unchanged) ---
-    public List<Gazette> getAllGazettes() { return gazetteRepository.findAllByOrderBySourceOrderAsc(); }
+    // --- Core Public Methods ---
+
+    // --- FIX for T014 Ordering Issue ---
+    public List<Gazette> getAllGazettes() {
+        // We now use the new method that sorts by date first.
+        // This CALL now matches the simple METHOD NAME in the repository.
+        return gazetteRepository.findAllWithCorrectSorting();
+    }
+    // --- END OF FIX ---
+
     public Gazette getGazetteById(Long id) { return gazetteRepository.findById(id).orElse(null); }
     public void deleteGazette(Long id) { gazetteRepository.deleteById(id); }
     public Gazette saveGazette(Gazette gazette) { return gazetteRepository.save(gazette); }
 
+    // --- NEW: Method for the "Stop Processing" Button ---
+    public String requestStopProcessing() {
+        if (isProcessing.get()) {
+            log.warn("ADMIN REQUEST: Stop processing signal received. Will stop on next notice.");
+            stopProcessing.set(true);
+            return "Stop signal sent. Processing will halt on the next notice.";
+        } else {
+            return "No processing job is currently running.";
+        }
+    }
+
     @Async
     public void processAndSavePdf(File file) {
+        // --- FIX T015: Check and set the processing lock ---
+        if (!isProcessing.compareAndSet(false, true)) {
+            log.warn("Cannot start PDF processing. Another job (like a retry) is already in progress.");
+            return;
+        }
+
+//  Reset stop flag at the beginning of a new job ---
+        stopProcessing.set(false);
+
         JSONObject overallGazetteDetails = null; // Variable to store header info
 
         try (PDDocument document = PDDocument.load(file)) {
@@ -91,6 +124,11 @@ public class GazetteService {
                 String noticeText = notices.get(i);
                 int sourceOrder = i + 1;
                 log.info("-----> Processing Notice {}/{}...", sourceOrder, notices.size());
+                // --- NEW: Check for admin stop signal ---
+                if (stopProcessing.get()) {
+                    log.warn("Processing manually stopped by admin at notice #{}", sourceOrder);
+                    break; // Exit the for-loop
+                }
                 Gazette gazette = null;
                 try {
                     // Pass overallGazetteDetails to the processing method
@@ -135,6 +173,11 @@ public class GazetteService {
             try {
                 Files.deleteIfExists(file.toPath());
             } catch (IOException ignored) {}
+
+            // --- FIX T015: Release the processing lock ---
+            isProcessing.set(false);
+            stopProcessing.set(false); // Also reset stop flag
+            log.info("Processing lock released.");
         }
     }
 
@@ -196,35 +239,105 @@ public class GazetteService {
 
     // This new method contains our original 3-step pipeline, now operating on a safe-sized text segment.
     private Gazette processTextSegment(String textSegment, int sourceOrder, JSONObject overallGazetteDetails) {
-        // STEP 1: AI Triage
+
+        // --- STEP 1: AI Triage ---
         String category = triageNoticeCategory(textSegment);
-        if (category == null || category.equalsIgnoreCase("Miscellaneous")) {
-            log.warn("Triage failed for notice segment {}. Creating fallback.", sourceOrder); // Added log
+
+        // --- THIS IS THE FIX (P0-B from Report T013.2) ---
+        // Per Report T012/T013, Triage returning null (which defaults to "Miscellaneous")
+        // should NOT be a failure. We must allow "Miscellaneous" to process as a safety net.
+        // We only fail if Triage *itself* fails and returns null (which our code prevents).
+        // This 'if' check is now simplified to only catch a true null,
+        // allowing "Miscellaneous" to proceed.
+        if (category == null) {
+            log.warn("Triage failed AND fallback failed for notice segment {}. Creating fallback.", sourceOrder);
             return createFallbackGazette(textSegment, sourceOrder, overallGazetteDetails);
         }
+        // --- END OF FIX ---
+
         log.info("Triage complete for notice segment {}. Category: {}", sourceOrder, category);
 
-        // STEP 2: AI Extraction
+        // --- STEP 2: AI Extraction ---
         String schemaPath = "/schemas/field/" + category.toLowerCase() + ".json";
         String schemaContent = loadSchemaFile(schemaPath);
         if (schemaContent.isEmpty()) {
-            log.error("Schema file not found for category '{}' (Notice {}). Creating fallback.", category, sourceOrder); // Added log
+            log.error("Schema file not found for category '{}' (Notice {}). Creating fallback.", category, sourceOrder);
             return createFallbackGazette(textSegment, sourceOrder, overallGazetteDetails);
         }
+
+        // --- THIS IS THE NEW EXTRACTION PROMPT (P2-A from Report T012) ---
+        // It tells the AI to use the "items" wrapper.
         String extractionPrompt = """
-            You are a precise data extraction assistant...
-            SCHEMA: %s
-            TEXT TO PARSE: %s
-            """.formatted(schemaContent, textSegment);
+        You are a precise data extraction assistant. Your task is to extract structured data from the provided text.
+        Your entire response MUST be a single JSON object.
+        This object MUST have one key: "items".
+        
+        - If the text is about a SINGLE item (e.g., one appointment, one land parcel), the value for "items" should be that SINGLE JSON OBJECT.
+        - If the text is a DIGEST or list of MULTIPLE items (e.g., multiple tenders, multiple land parcels), the value for "items" should be a JSON ARRAY of those objects.
+        
+        SCHEMA (for the individual items):
+        %s
+        
+        EXAMPLE (Single Item):
+        {
+          "items": { "person_name": "Jane Doe", "position": "Director" }
+        }
+        
+        EXAMPLE (Multiple Items):
+        {
+          "items": [
+            { "parcel_id": "1", "location": "Nairobi" },
+            { "parcel_id": "2", "location": "Nakuru" }
+          ]
+        }
+        
+        TEXT TO PARSE:
+        %s
+        """.formatted(schemaContent, textSegment);
+        // --- END OF NEW PROMPT ---
+
         String jsonResponse = makeGeminiApiCall(null, extractionPrompt, geminiProModel); // Use PRO model
-        JSONObject extractedData = parseSafeJson(jsonResponse);
-        if (extractedData == null) {
-            log.error("Extraction failed for notice segment {}. Creating fallback.", sourceOrder);
+        JSONObject extractedDataWrapper = parseSafeJson(jsonResponse);
+
+        // --- NEW LOGIC: Handle the wrapper object ---
+        if (extractedDataWrapper == null || !extractedDataWrapper.has("items")) {
+            log.error("Extraction failed for notice segment {}. AI did not return a valid 'items' wrapper.", sourceOrder);
             return createFallbackGazette(textSegment, sourceOrder, overallGazetteDetails);
         }
+
+        // This variable will hold EITHER a JSONObject or a JSONArray
+        Object extractedData = extractedDataWrapper.get("items");
+        // --- END OF NEW LOGIC ---
+
         log.info("Extraction complete for notice segment {}.", sourceOrder);
 
-        // STEP 3: AI Generation
+        // --- STEP 3: AI Generation (Now in a separate, resilient method) ---
+        // We pass the raw extractedData object (JSONObject or JSONArray)
+        JSONObject generatedContent = generateNarrativeContent(extractedData, category);
+
+        if (generatedContent == null) {
+            log.error("Generation step failed for notice segment {}. Saving with extracted data only.", sourceOrder);
+            // We will proceed. createGazetteFromJson will handle the fallback state.
+        } else {
+            log.info("Generation complete for notice segment {}.", sourceOrder);
+        }
+
+        // Final Step: Map everything to our Gazette entity
+        // We pass the raw extractedData object (JSONObject or JSONArray)
+        return createGazetteFromJson(extractedData, generatedContent, textSegment, category, sourceOrder, overallGazetteDetails);
+    }
+
+    /**
+     * NEW HELPER METHOD (from Report Recommendation)
+     * This is Step 3 (Generation). It is now a separate, robust AI call.
+     * This isolates the Extraction logic from the Generation logic.
+     */
+    private JSONObject generateNarrativeContent(Object extractedData, String category) {
+
+        // Use the exact same prompt as before, but now it's in its own method.
+        // We pass 'category' in case we want to customize the prompt by category later.
+
+        // --- THIS IS THE NEW GENERATION PROMPT (P3-A / "Deadline Fix") ---
         String generationPrompt = """
         You are an expert editorial assistant for Smart Gazette. Your goal is to simplify government notices for Kenyan youth.
         Based ONLY on the structured JSON data provided below, generate a JSON object containing five fields: "title", "summary", "article", "xSummary", and "actionableInfo".
@@ -232,14 +345,20 @@ public class GazetteService {
         **Your Instructions:**
         1.  **Grouping Logic:**
             - If the category is `Land_Property` or `Tenders` and the input data contains multiple similar items (look for arrays), create a single "digest" article. Title like "Land Transfer Notices" or "New Tenders". Article uses markdown lists. Otherwise, create a normal article.
+        
         2.  **Actionable Info Logic (Tiered Approach):**
-            - Tier 1 (Action with Deadline): If input has action & deadline, state it. Ex: "Submit comments within 30 days."
-            - Tier 2 (Action without Deadline): If input has action, no deadline, state action & advise checking official sources. Ex: "Provide feedback. Check NTSA website for details."
-            - Tier 3 (Informational): For appointments etc., provide context. Ex: "Note the new EPRA board leadership."
+            - **Tier 1 (Action with Deadline):** If the input JSON has an "objection_period" (e.g., "sixty (60) days", "30 days") or a "deadline", you MUST use this value.
+              Example: "Submit objections within sixty (60) days from the notice date."
+              **CRITICAL: Do NOT say 'check the gazette' if a specific period is provided in the JSON.**
+            - **Tier 2 (Action without Deadline):** If the input has an action but NO "objection_period" or "deadline", advise checking official sources.
+              Example: "Provide feedback. Check NTSA website for details."
+            - **Tier 3 (Informational):** For appointments etc., provide context. Ex: "Note the new EPRA board leadership."
+
         3.  **Content Requirements:**
             - title: Clear, engaging headline.
             - summary: One-sentence key takeaway.
             - article: Detailed, human-readable article (200-400 words), markdown formatted.
+            CRITICAL: This field MUST be plain, human-readable text. Do NOT use any markdown formatting (like '*', '#', or '-' for lists). Write in full paragraphs.
             - xSummary:a Engagement friendly but informative summary under 276 characters, similar in tone to Moe (moneycademyke) on X.
             - actionableInfo: Text from tiered logic above.
 
@@ -256,35 +375,14 @@ public class GazetteService {
           "xSummary": "...",
           "actionableInfo": "..."
         }
-        """.formatted(extractedData.toString(2)); // Still using pretty print for input clarity
-        // =====================================================================================
-        // EDUCATIONAL NOTE: Adding detailed logging BEFORE the Generation API call.
-        // We log the prompt we are about to send.
-        // =====================================================================================
-        log.info("Attempting Generation for notice segment {} with prompt:\n{}", sourceOrder, generationPrompt);
+        """.formatted(extractedData.toString()); // <-- BUG FIX 1: Removed (2)
+        // --- END OF NEW GENERATION PROMPT ---
 
+        log.info("Attempting Generation for category {} with prompt:\n{}", category, generationPrompt);
         String generatedContentResponse = makeGeminiApiCall(null, generationPrompt, geminiProModel); // Use PRO model
-        // =====================================================================================
-        // EDUCATIONAL NOTE: Adding detailed logging AFTER the Generation API call.
-        // We log the RAW response string we received from the API, BEFORE parsing.
-        // This will tell us exactly what Gemini is sending back.
-        // =====================================================================================
-        log.info("Received RAW Generation response for notice segment {}:\n{}", sourceOrder, generatedContentResponse);
-        JSONObject generatedContent = parseSafeJson(generatedContentResponse);
-        // =====================================================================================
-        // EDUCATIONAL NOTE: Adding specific log message here if generation fails.
-        // This helps us debug if Step 3 is the problem.
-        // =====================================================================================
-        if (generatedContent == null) {
-            log.error("Generation step failed for notice segment {}. Saving with extracted data only.", sourceOrder);
-            // We will proceed but createGazetteFromJson will handle the fallback state
-        } else {
-            log.info("Generation complete for notice segment {}.", sourceOrder);
-        }
+        log.info("Received RAW Generation response:\n{}", generatedContentResponse);
 
-        // Final Step: Map everything to our Gazette entity
-        // This method now handles the case where generatedContent might be null
-        return createGazetteFromJson(extractedData, generatedContent, textSegment, category, sourceOrder, overallGazetteDetails);
+        return parseSafeJson(generatedContentResponse);
     }
 
     // New helper method to slice text into manageable pieces.
@@ -358,12 +456,12 @@ public class GazetteService {
         Classify the following gazette notice text into ONE of the following categories:
         Appointments
         Legislation
-        Tenders
-        Land_Property
-        Court_Legal
+        Tenders (for 'Invitation to Tender', 'procurement', 'bids', 'disposal of assets')
+        Land_Property (for 'Issue of Land Title', 'land acquisition', 'EIA', 'provisional certificate', 'replacement title', 'replacement of lost', 'Certificate of Lease', 'lost title deed')
+        Court_Legal (for 'Insolvency', 'probate', 'cause list', 'dissolution of marriage')
         Public_Service_HR
         Licensing
-        Company_Registrations
+        Company_Registrations (for 'incorporation', 'dissolution of company')
         Miscellaneous
 
         Your response MUST be ONLY one of the words listed above. Do not include any other text, explanation, or punctuation.
@@ -508,22 +606,213 @@ public class GazetteService {
         }
     }
 
+    //    /**
+//     * EDUCATIONAL NOTE: This method implements your retry strategy.
+//     * It finds all FAILED notices, checks why they failed, and re-runs the
+//     * specific part of the pipeline that broke.
+//     */
+    @Async
+    public void retryFailedNotices() {
+        // --- FIX T015: Check and set the processing lock ---
+        if (!isProcessing.compareAndSet(false, true)) {
+            log.warn("Cannot start RETRY job. Another job (like a PDF upload) is already in progress.");
+            return;
+        }
+
+        // --- NEW: Reset stop flag at the beginning of a new job ---
+        stopProcessing.set(false);
+        // --- END OF FIX ---
+
+        log.info("Starting retry process for FAILED notices...");
+
+        // 1. Find all failed notices
+        // --- FIX: This now calls the correctly named, correctly sorted method ---
+        List<Gazette> failedNotices = gazetteRepository.findAllWithStatusAndCorrectSorting(ProcessingStatus.FAILED);
+        if (failedNotices.isEmpty()) {
+            log.info("No FAILED notices found to retry.");
+            return;
+        }
+
+        log.info("Found {} FAILED notices to retry.", failedNotices.size());
+
+        for (Gazette notice : failedNotices) {
+            try {
+                // --- 1. Check for admin stop signal ---
+                if (stopProcessing.get()) {
+                    log.warn("Retry processing manually stopped by admin.");
+                    break; // Exit the for-loop
+                }
+                // 2. Determine the failure type based on the title
+                if (notice.getTitle().startsWith("[TRIAGE/SCHEMA FAILED]")) {
+                    // This failed at Step 1. We have the raw content. Re-run the full process.
+                    log.info("Retrying notice #{} (TRIAGE failure)...", notice.getId());
+                    // We pass null for overallGazetteDetails as we don't have it saved separately yet
+                    Gazette retriedNotice = processSingleNotice(notice.getContent(), notice.getSourceOrder(), null);
+
+                    if (retriedNotice != null && retriedNotice.getStatus() == ProcessingStatus.SUCCESS) {
+                        // Update the existing notice with the new, successful data
+                        updateExistingNotice(notice, retriedNotice);
+                        log.info("SUCCESS: Retry for notice #{} was successful.", notice.getId());
+                    } else {
+                        log.warn("FAIL: Retry for notice #{} (TRIAGE) failed again.", notice.getId());
+                    }
+
+                } else if (notice.getTitle().startsWith("[GENERATION FAILED]")) {
+                    // This failed at Step 3. We have the extracted JSON. Re-run only Generation.
+                    log.info("Retrying notice #{} (GENERATION failure)...", notice.getId());
+
+                    // --- BUG FIX: The stored JSON could be an Object OR an Array. ---
+                    // We can't just parse as JSONObject. We'll try one, then the other.
+                    Object extractedData = null;
+                    // We must get the article's text, which contains the JSON
+                    String articleJson = notice.getArticle();
+
+                    // First, we must strip the "## Extracted Data..." markdown
+                    articleJson = articleJson.replaceAll("(?s)```json\\s*(.*?)\\s*```", "$1").trim();
+
+                    try {
+                        // First, try to parse as the most common case (a single object)
+                        extractedData = new JSONObject(articleJson);
+                    } catch (JSONException e) {
+                        try {
+                            // If that fails, try to parse as an array (for digest notices)
+                            extractedData = new JSONArray(articleJson);
+                        } catch (JSONException e2) {
+                            log.error("Could not retry notice #{}: Failed to parse extracted JSON from article field. Content: {}", notice.getId(), articleJson);
+                            continue;
+                        }
+                    }
+                    // --- END OF BUG FIX ---
+
+
+                    if (extractedData == null) {
+                        log.error("Could not retry notice #{}: Failed to parse extracted JSON.", notice.getId());
+                        continue;
+                    }
+
+                    // Call Step 3 (Generation) directly
+                    Gazette generatedNotice = runGenerationStep(extractedData, notice.getContent(), notice.getCategory(), notice.getSourceOrder(), null); // Pass null for header details
+
+                    if (generatedNotice != null && generatedNotice.getStatus() == ProcessingStatus.SUCCESS) {
+                        updateExistingNotice(notice, generatedNotice);
+                        log.info("SUCCESS: Retry for notice #{} was successful.", notice.getId());
+                    } else {
+                        log.warn("FAIL: Retry for notice #{} (GENERATION) failed again.", notice.getId());
+                    }
+                }
+
+                // Add a pause to respect rate limits even during retries
+                TimeUnit.SECONDS.sleep(3);
+
+            } catch (Exception e) {
+                log.error("Unhandled exception while retrying notice #{}: {}", notice.getId(), e.getMessage());
+            }
+        }// end of for loop
+
+        log.info("Finished retry process.");
+
+        // --- FIX T015: Release the processing lock ---
+        isProcessing.set(false);
+        stopProcessing.set(false); // Also reset stop flag
+        log.info("Retry job finished. Processing lock released.");
+    }
+
+    // Helper method to run ONLY the Generation step (Step 3)
+    // --- FIX: Change signature to accept Object ---
+    private Gazette runGenerationStep(Object extractedData, String rawContent, String category, int sourceOrder, JSONObject overallGazetteDetails) {
+        log.info("Attempting Generation for retried notice...");
+
+        // --- BUG FIX 2: Replace old prompt with the NEW, CORRECT Generation Prompt ---
+        String generationPrompt = """
+        You are an expert editorial assistant for Smart Gazette. Your goal is to simplify government notices for Kenyan youth.
+        Based ONLY on the structured JSON data provided below, generate a JSON object containing five fields: "title", "summary", "article", "xSummary", and "actionableInfo".
+
+        **Your Instructions:**
+        1.  **Grouping Logic:**
+            - If the category is `Land_Property` or `Tenders` and the input data contains multiple similar items (look for arrays), create a single "digest" article. Title like "Land Transfer Notices" or "New Tenders". Article uses markdown lists. Otherwise, create a normal article.
+        
+        2.  **Actionable Info Logic (Tiered Approach):**
+            - **Tier 1 (Action with Deadline):** If the input JSON has an "objection_period" (e.g., "sixty (60) days", "30 days") or a "deadline", you MUST use this value.
+              Example: "Submit objections within sixty (60) days from the notice date."
+              **CRITICAL: Do NOT say 'check the gazette' if a specific period is provided in the JSON.**
+            - **Tier 2 (Action without Deadline):** If the input has an action but NO "objection_period" or "deadline", advise checking official sources.
+              Example: "Provide feedback. Check NTSA website for details."
+            - **Tier 3 (Informational):** For appointments etc., provide context. Ex: "Note the new EPRA board leadership."
+
+        3.  **Content Requirements:**
+            - title: Clear, engaging headline.
+            - summary: One-sentence key takeaway.
+            - article: Detailed, human-readable article (200-400 words), markdown formatted.
+              CRITICAL: This field MUST be plain, human-readable text. Do NOT use any markdown formatting (like '*', '#', or '-' for lists). Write in full paragraphs.
+            - xSummary:a Engagement friendly but informative summary under 276 characters, similar in tone to Moe (moneycademyke) on X.
+            - actionableInfo: Text from tiered logic above.
+
+        **CRITICAL: Your entire response MUST be a single, valid JSON object starting with `{` and ending with `}`. Do NOT include any text before or after the JSON object.**
+
+        **STRUCTURED DATA TO USE:**
+        %s
+
+        **OUTPUT JSON FORMAT:**
+        {
+          "title": "...",
+          "summary": "...",
+          "article": "...",
+          "xSummary": "...",
+          "actionableInfo": "..."
+        }
+        """.formatted(extractedData.toString()); // <-- BUG FIX 3: Removed (2)
+        // --- END OF FIX ---
+
+        String generatedContentResponse = makeGeminiApiCall(null, generationPrompt, geminiProModel);
+        JSONObject generatedContent = parseSafeJson(generatedContentResponse);
+
+        if (generatedContent == null) {
+            log.error("Generation step failed on retry.");
+            // Return null or a FAILED gazette object to indicate failure
+            return null;
+        }
+        log.info("Generation complete on retry.");
+        // Map and return the new, successful object
+        return createGazetteFromJson(extractedData, generatedContent, rawContent, category, sourceOrder, overallGazetteDetails);
+    }
+
+    // Helper method to update the old notice with new data
+    private void updateExistingNotice(Gazette oldNotice, Gazette newNotice) {
+        // Copy all fields from the new, successful notice to the old one
+        oldNotice.setTitle(newNotice.getTitle());
+        oldNotice.setSummary(newNotice.getSummary());
+        oldNotice.setArticle(newNotice.getArticle());
+        oldNotice.setActionableInfo(newNotice.getActionableInfo());
+        oldNotice.setXSummary(newNotice.getXSummary());
+        oldNotice.setNoticeNumber(newNotice.getNoticeNumber());
+        oldNotice.setSignatory(newNotice.getSignatory());
+        oldNotice.setPublishedDate(newNotice.getPublishedDate());
+        oldNotice.setGazetteVolume(newNotice.getGazetteVolume());
+        oldNotice.setGazetteNumber(newNotice.getGazetteNumber());
+        oldNotice.setGazetteDate(newNotice.getGazetteDate());
+        oldNotice.setStatus(ProcessingStatus.SUCCESS); // Most important!
+
+        gazetteRepository.save(oldNotice); // This will perform an UPDATE, not an INSERT
+    }
+
     // =====================================================================================
     // CHANGE 4: Add the data sanitization step here to fix the database crash.
     // =====================================================================================
-    private Gazette createGazetteFromJson(JSONObject extractedData, JSONObject generatedContent, String rawContent, String category, int order, JSONObject overallGazetteDetails) {
+    private Gazette createGazetteFromJson(Object extractedData, JSONObject generatedContent, String rawContent, String category, int order, JSONObject overallGazetteDetails) {
         // We absolutely need extractedData to proceed.
-        if (extractedData == null) {
-            log.error("Cannot create Gazette object: extractedData is null for order {}", order);
-            // Return null or throw an exception if this case should be fatal
-            // For now, let's create a minimal FAILED object
+        boolean isNull = extractedData == null;
+        boolean isEmptyArray = (extractedData instanceof JSONArray) && ((JSONArray) extractedData).isEmpty();
+
+        if (isNull || isEmptyArray) {
+            log.error("Cannot create Gazette object: extractedData is null or empty for order {}", order);
+            // ... (fallback logic) ...
             Gazette failedGazette = new Gazette();
             failedGazette.setStatus(ProcessingStatus.FAILED);
             failedGazette.setTitle("[EXTRACTION FAILED] Review Needed");
-            failedGazette.setCategory("Uncategorized");
+            failedGazette.setCategory(category); // Use the category we found
             failedGazette.setSourceOrder(order);
-            failedGazette.setContent(rawContent.replace("\u0000", ""));
-            failedGazette.setArticle("Extraction failed. Original text in content field.");
+            failedGazette.setContent(rawContent != null ? rawContent.replace("\u0000", "") : "");
+            failedGazette.setArticle("Extraction failed: AI returned null or empty 'items'. Original text in content field.");
             failedGazette.setPublishedDate(LocalDate.now());
             return failedGazette;
         }
@@ -556,7 +845,12 @@ public class GazetteService {
             gazette.setStatus(ProcessingStatus.SUCCESS);
             gazette.setTitle(generatedContent.optString("title", "Untitled Notice").replace("\u0000", ""));
             gazette.setSummary(generatedContent.optString("summary", "No summary provided.").replace("\u0000", ""));
-            gazette.setArticle(generatedContent.optString("article", extractedData.toString(2)).replace("\u0000", ""));
+
+            // --- BUG FIX 4 (in case generation succeeds but we still want to show the JSON) ---
+            // Let's decide: Article is the AI text. If we want to see the JSON, we need a new field.
+            // For now, the report says the AI Article is the goal.
+            gazette.setArticle(generatedContent.optString("article", extractedData.toString()).replace("\u0000", "")); // <-- BUG FIX 4: Removed (2)
+
             gazette.setXSummary(generatedContent.optString("xSummary", "").replace("\u0000", ""));
             gazette.setActionableInfo(generatedContent.optString("actionableInfo", "").replace("\u0000", ""));
         } else {
@@ -565,17 +859,45 @@ public class GazetteService {
             gazette.setTitle("[GENERATION FAILED] " + category + " Notice (Review Extracted Data)");
             gazette.setSummary("AI failed to generate summary. Review extracted data below.");
             // Store the extracted JSON in the article field for admin review
-            gazette.setArticle("## Extracted Data (Generation Failed):\n\n```json\n" + extractedData.toString(2).replace("\u0000", "") + "\n```");
+            // --- FIX: We must store the raw extractedData (Object or Array) ---
+            gazette.setArticle("## Extracted Data (Generation Failed):\n\n```json\n" + extractedData.toString().replace("\u0000", "") + "\n```"); // <-- BUG FIX 5: Removed (2)
             gazette.setXSummary(""); // No tweet summary if generation failed
             gazette.setActionableInfo("Review needed");
         }
 
         // --- Populate remaining fields from EXTRACTED data ---
-        gazette.setNoticeNumber(extractedData.optString("notice_id", extractedData.optString("reference_number", "")).replace("\u0000", ""));
-        gazette.setSignatory(extractedData.optString("signatory", "").replace("\u0000", ""));
+        // This logic handles both a single item (JSONObject) and multiple items (JSONArray)
+
+        String noticeNumber = "";
+        String signatory = "";
+        String dateStr = "";
+
+        if (extractedData instanceof JSONObject singleItem) {
+            // It's a single item, extract directly
+            noticeNumber = singleItem.optString("notice_id", singleItem.optString("reference_number", ""));
+            signatory = singleItem.optString("signatory", "");
+            dateStr = singleItem.optString("publication_date", singleItem.optString("effective_date", ""));
+
+        } else if (extractedData instanceof JSONArray itemArray) {
+            // It's multiple items. We'll take the info from the FIRST item as representative.
+            // This is perfect for "Digest" articles (e.g., Tenders, Land Transfers).
+            if (!itemArray.isEmpty()) {
+                JSONObject firstItem = itemArray.getJSONObject(0);
+                noticeNumber = firstItem.optString("notice_id", firstItem.optString("reference_number", ""));
+                signatory = firstItem.optString("signatory", "");
+                dateStr = firstItem.optString("publication_date", firstItem.optString("effective_date", ""));
+            }
+        }
+
+        gazette.setNoticeNumber(noticeNumber.replace("\u0000", ""));
+        gazette.setSignatory(signatory.replace("\u0000", ""));
 
         // Safely parse the date
-        String dateStr = extractedData.optString("publication_date", extractedData.optString("effective_date", ""));
+        // --- THIS IS THE FIX ---
+        // We DELETE the old, buggy line:
+        // String dateStr = extractedData.optString("publication_date", extractedData.optString("effective_date", ""));
+        // We now use the 'dateStr' variable we safely extracted above.
+        // --- END OF FIX ---
         try {
             if (!dateStr.isBlank()) gazette.setPublishedDate(LocalDate.parse(dateStr));
             else gazette.setPublishedDate(LocalDate.now());
@@ -593,7 +915,8 @@ public class GazetteService {
         g.setTitle("[TRIAGE/SCHEMA FAILED] Review Needed"); // Made title more specific
         g.setSummary("The AI failed early processing (Triage or Schema load). Raw text in Article field.");
         g.setXSummary("Processing error. Needs manual review.");
-        g.setArticle(text.replace("\u0000", ""));
+        g.setContent(text.replace("\u0000", ""));
+        g.setArticle("## AI PROCESSING FAILED (TRIAGE)\n\nThe system could not categorize this notice. The original raw text has been saved in the 'content' field, which is visible in the 'Edit' page. You can try to fix it manually or use the 'Retry FAILED Notices' button in the admin panel.");
         g.setCategory("Uncategorized");
         g.setPublishedDate(LocalDate.now());
         g.setSourceOrder(order);
@@ -630,5 +953,25 @@ public class GazetteService {
     }
     private String truncate(String s, int max) {
         return (s == null || s.length() <= max) ? s : s.substring(0, max - 3) + "...";
+    }
+
+    // --- (METRIC COLLECTION) ---
+
+    public void addThumbUp(Long id) {
+        Gazette gazette = gazetteRepository.findById(id).orElse(null);
+        if (gazette != null) {
+            gazette.setThumbsUp(gazette.getThumbsUp() + 1);
+            gazetteRepository.save(gazette);
+            log.info("Added Thumbs Up for article ID: {}", id);
+        }
+    }
+
+    public void addThumbDown(Long id) {
+        Gazette gazette = gazetteRepository.findById(id).orElse(null);
+        if (gazette != null) {
+            gazette.setThumbsDown(gazette.getThumbsDown() + 1);
+            gazetteRepository.save(gazette);
+            log.info("Added Thumbs Down for article ID: {}", id);
+        }
     }
 }

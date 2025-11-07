@@ -20,32 +20,32 @@
 <div class="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 ">
 
     <header class="py-5 text-center border-b border-gray-300">
-        <img th:src="@{/img/Coat of arms.png}" alt="Smart Gazette Logo" class="h-20 w-20 mx-auto mb-2">
+        <a th:href="@{/}"><img th:src="@{/img/sg-logo.png}" alt="Smart Gazette Logo" class="h-20 w-20 mx-auto mb-2"></a>
         <h1 class="text-4xl font-extrabold text-gray-900">Smart Gazette</h1>
         <p class="mt-2 text-lg text-gray-600">Your daily source for simplified government updates.</p>
         <div class="flex items-center justify-center mt-6">
-        <nav class="hidden md:flex items-center space-x-8 text-sm font-medium text-gray-600">
-            <a href="#" class="text-blue-600 font-semibold">Home</a>
-            <a href="#" class="hover:text-blue-600 transition-colors">Categories</a>
-            <a href="#" class="hover:text-blue-600 transition-colors">About</a>
-            <a href="#" class="hover:text-blue-600 transition-colors">Contact</a>
-        </nav>
+            <nav class="hidden md:flex items-center space-x-8 text-sm font-medium text-gray-600">
+                <a th:href="@{/}" class="text-blue-600 font-semibold">Home</a>
+                <a th:href="@{/categories}" class="hover:text-blue-600 transition-colors">Categories</a>
+                <a th:href="@{/about}" class="hover:text-blue-600 transition-colors">About</a>
+                <a th:href="@{/about} + '#contact'" class="hover:text-blue-600 transition-colors">Contact</a>
+            </nav>
 
-        <div class="md:hidden">
-            <button id="menu-toggle" aria-label="Toggle menu" class="focus:outline-none">
-                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
-                </svg>
-            </button>
+            <div class="md:hidden">
+                <button id="menu-toggle" aria-label="Toggle menu" class="focus:outline-none">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                    </svg>
+                </button>
+            </div>
         </div>
-</div>
 
-<div id="mobile-menu" class="hidden md:hidden py-4">
-    <a href="#" class="block py-2 px-4 text-sm hover:bg-gray-100">Home</a>
-    <a href="#" class="block py-2 px-4 text-sm hover:bg-gray-100">Categories</a>
-    <a href="#" class="block py-2 px-4 text-sm hover:bg-gray-100">About</a>
-    <a href="#" class="block py-2 px-4 text-sm hover:bg-gray-100">Contact</a>
-</div>
+        <div id="mobile-menu" class="hidden md:hidden py-4">
+            <a th:href="@{/}" class="block py-2 px-4 text-sm hover:bg-gray-100">Home</a>
+            <a th:href="@{/categories}" class="block py-2 px-4 text-sm hover:bg-gray-100">Categories</a>
+            <a th:href="@{/about}" class="block py-2 px-4 text-sm hover:bg-gray-100">About</a>
+            <a th:href="@{/about} + '#contact'" class="block py-2 px-4 text-sm hover:bg-gray-100">Contact</a>
+        </div>
 
     </header>
 
@@ -119,6 +119,14 @@
     </footer>
 
 </div>
+
+<script>
+    const menuToggle = document.getElementById('menu-toggle');
+    const mobileMenu = document.getElementById('mobile-menu');
+    menuToggle.addEventListener('click', () => {
+        mobileMenu.classList.toggle('hidden');
+    });
+</script>
 
 </body>
 </html>

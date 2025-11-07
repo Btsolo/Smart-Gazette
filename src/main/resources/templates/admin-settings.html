@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+      th:replace="~{admin-layout :: layout(title='Settings', content=~{::content}, activePage='settings')}">
+
+<th:block th:fragment="content">
+    <div class="bg-white p-6 rounded-lg shadow-md">
+        <h3 class="text-lg font-semibold text-gray-900 mb-4">Settings</h3>
+        <p class="text-gray-600">This page is a placeholder for future settings, such as:</p>
+        <ul class="list-disc list-inside mt-4 text-gray-600">
+            <li>API Key Management</li>
+            <li>User Accounts (Spring Security)</li>
+            <li>Notification Preferences</li>
+        </ul>
+    </div>
+</th:block>
+
+</html>

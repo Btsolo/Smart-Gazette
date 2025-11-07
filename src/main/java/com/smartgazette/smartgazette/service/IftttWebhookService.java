@@ -1,5 +1,6 @@
 package com.smartgazette.smartgazette.service;
 
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.http.HttpEntity;
@@ -15,7 +16,8 @@ public class IftttWebhookService {
     private final RestTemplate restTemplate = new RestTemplate();
 
     // IMPORTANT: Replace with your actual IFTTT URL from the Webhooks documentation page
-    private final String webhookUrl = "https://maker.ifttt.com/trigger/post_to_x/with/key/dG9GCrRRpnSdRQ2eiK_AEd";
+    @Value("${ifttt.webhook.url}")
+    private String webhookUrl;
 
     /**
      * Sends content to the IFTTT Webhook to be posted as a tweet.

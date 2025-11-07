@@ -1,13 +1,26 @@
 {
   "type": "object",
   "properties": {
-    "title": { "type": "string" },
-    "law_type": { "type": "string" },
-    "citation": { "type": "string" },
-    "enactment_date": { "type": "string", "format": "date" },
-    "summary": { "type": "string" },
-    "affected_sections": { "type": "array", "items": { "type": "string" } },
-    "notice_id": { "type": "string" },
-    "source_issue": { "type": "string" }
+    "items": {
+      "oneOf": [
+        { "$ref": "#/definitions/item" },
+        { "type": "array", "items": { "$ref": "#/definitions/item" } }
+      ]
+    }
+  },
+  "definitions": {
+    "item": {
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "law_type": { "type": "string" },
+        "citation": { "type": "string" },
+        "enactment_date": { "type": "string", "format": "date" },
+        "summary": { "type": "string" },
+        "affected_sections": { "type": "array", "items": { "type": "string" } },
+        "notice_id": { "type": "string" },
+        "source_issue": { "type": "string" }
+      }
+    }
   }
 }

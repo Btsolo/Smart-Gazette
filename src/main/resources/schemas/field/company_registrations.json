@@ -1,11 +1,24 @@
 {
   "type": "object",
   "properties": {
-    "company_name": { "type": "string" },
-    "registration_action": { "type": "string" },
-    "company_number": { "type": "string" },
-    "effective_date": { "type": "string" },
-    "directors": { "type": "array", "items": { "type": "string" } },
-    "notice_id": { "type": "string" }
+    "items": {
+      "oneOf": [
+        { "$ref": "#/definitions/item" },
+        { "type": "array", "items": { "$ref": "#/definitions/item" } }
+      ]
+    }
+  },
+  "definitions": {
+    "item": {
+      "type": "object",
+      "properties": {
+        "company_name": { "type": "string" },
+        "registration_action": { "type": "string" },
+        "company_number": { "type": "string" },
+        "effective_date": { "type": "string" },
+        "directors": { "type": "array", "items": { "type": "string" } },
+        "notice_id": { "type": "string" }
+      }
+    }
   }
 }

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" th:fragment="layout(title, content, activePage)">
+<head>
+    <meta charset="UTF-8">
+    <title th:text="${title} + ' - Smart Gazette Admin'">Admin Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+
+        /* Active sidebar link style (Matches Figma) */
+        .sidebar-link-active {
+            background-color: #F3F4F6; /* gray-100 */
+            color: #111827; /* gray-900 */
+            font-weight: 600;
+        }
+        .sidebar-link-inactive {
+            color: #6B7280; /* gray-500 */
+        }
+
+        /* Styles for collapsible sidebar (Your request) */
+        #sidebar {
+            transition: width 0.3s ease-in-out;
+        }
+        .sidebar-collapsed {
+            width: 5rem; /* 80px */
+        }
+        .sidebar-collapsed .sidebar-text {
+            display: none;
+        }
+        .sidebar-collapsed .sidebar-logo-text {
+            display: none;
+        }
+        .sidebar-collapsed .sidebar-toggle-icon {
+            transform: rotate(180deg);
+        }
+    </style>
+</head>
+<body class="bg-gray-100">
+
+<div class="flex h-screen bg-gray-50">
+    <aside id="sidebar" class="flex flex-col w-64 bg-white border-r border-gray-200 transition-all duration-300 ease-in-out">
+        <div class="flex items-center justify-between h-16 px-6 border-b border-gray-200 flex-shrink-0">
+            <div class="flex items-center gap-3">
+                <img th:src="@{/img/sg-logo.png}" alt="SG Logo" class="h-10 w-10">
+                <span class="sidebar-logo-text text-lg font-bold text-gray-900">Smart Gazette</span>
+            </div>
+            <button id="sidebar-toggle" class="p-1 rounded-md text-gray-500 hover:bg-gray-100 focus:outline-none">
+                <svg class="w-6 h-6 sidebar-toggle-icon transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
+            </button>
+        </div>
+
+        <nav class="flex-1 overflow-y-auto p-4 space-y-2">
+            <a th:href="@{/admin/dashboard}"
+               class="flex items-center gap-4 px-4 py-2.5 rounded-lg"
+               th:classappend="${activePage == 'dashboard'} ? 'sidebar-link-active' : 'sidebar-link-inactive hover:bg-gray-100'">
+                <svg class="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6-4a1 1 0 001-1v-1a1 1 0 10-2 0v1a1 1 0 001 1z"></path></svg>
+                <span class="sidebar-text text-sm font-medium">Dashboard</span>
+            </a>
+            <a th:href="@{/admin/content}"
+               class="flex items-center gap-4 px-4 py-2.5 rounded-lg"
+               th:classappend="${activePage == 'content'} ? 'sidebar-link-active' : 'sidebar-link-inactive hover:bg-gray-100'">
+                <svg class="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 12h6M7 8h6"></path></svg>
+                <span class="sidebar-text text-sm font-medium">Content Management</span>
+            </a>
+            <a th:href="@{/admin/logs}"
+               class="flex items-center gap-4 px-4 py-2.5 rounded-lg"
+               th:classappend="${activePage == 'logs'} ? 'sidebar-link-active' : 'sidebar-link-inactive hover:bg-gray-100'">
+                <svg class="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
+                <span class="sidebar-text text-sm font-medium">Log Viewer</span>
+            </a>
+            <a th:href="@{/admin/settings}"
+               class="flex items-center gap-4 px-4 py-2.5 rounded-lg"
+               th:classappend="${activePage == 'settings'} ? 'sidebar-link-active' : 'sidebar-link-inactive hover:bg-gray-100'">
+                <svg class="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.096 2.572-1.065z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+                <span class="sidebar-text text-sm font-medium">Settings</span>
+            </a>
+        </nav>
+    </aside>
+
+    <div class="flex-1 flex flex-col overflow-hidden">
+        <header class="flex justify-end items-center h-16 px-6 bg-white border-b border-gray-200">
+
+            <div class="flex items-center gap-4">
+                <div class="flex items-center gap-2 bg-gray-100 rounded-lg p-1">
+                    <button class="p-1.5 rounded-md bg-white shadow text-blue-600" title="Light Mode">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path></svg>
+                    </button>
+                    <button class="p-1.5 rounded-md text-gray-500" title="Dark Mode">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"></path></svg>
+                    </button>
+                </div>
+
+                <div class="flex items-center gap-3">
+                    <img class="w-10 h-10 rounded-full" src="https://ui-avatars.com/api/?name=Busolo+Titus&background=4F46BA&color=fff" alt="User avatar">
+                    <span class="text-sm font-medium text-gray-700">Busolo Titus</span>
+                    <svg class="w-5 h-5 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                </div>
+            </div>
+        </header>
+
+        <main class="flex-1 overflow-x-hidden overflow-y-auto bg-gray-100 p-6">
+            <th:block th:replace="${content}"></th:block>
+        </main>
+
+    </div>
+</div>
+
+<script>
+    document.getElementById('sidebar-toggle').addEventListener('click', function() {
+        document.getElementById('sidebar').classList.toggle('sidebar-collapsed');
+    });
+</script>
+
+</body>
+</html>

@@ -1,13 +1,26 @@
 {
   "type": "object",
   "properties": {
-    "person_name": { "type": "string" },
-    "position": { "type": "string" },
-    "agency": { "type": "string" },
-    "effective_date": { "type": "string", "format": "date" },
-    "appointment_type": { "type": "string" },
-    "reference_number": { "type": "string" },
-    "notice_id": { "type": "string" },
-    "source_issue": { "type": "string" }
+    "items": {
+      "oneOf": [
+        { "$ref": "#/definitions/item" },
+        { "type": "array", "items": { "$ref": "#/definitions/item" } }
+      ]
+    }
+  },
+  "definitions": {
+    "item": {
+      "type": "object",
+      "properties": {
+        "person_name": { "type": "string" },
+        "position": { "type": "string" },
+        "agency": { "type": "string" },
+        "effective_date": { "type": "string", "format": "date" },
+        "appointment_type": { "type": "string" },
+        "reference_number": { "type": "string" },
+        "notice_id": { "type": "string" },
+        "source_issue": { "type": "string" }
+      }
+    }
   }
 }

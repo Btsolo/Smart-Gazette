@@ -1,11 +1,25 @@
 {
   "type": "object",
   "properties": {
-    "parcel_id": { "type": "string" },
-    "parties": { "type": "array", "items": { "type": "string" } },
-    "action_type": { "type": "string" },
-    "location": { "type": "string" },
-    "reference_docs": { "type": "string" },
-    "valuation": { "type": "string" }
+    "items": {
+      "oneOf": [
+        { "$ref": "#/definitions/item" },
+        { "type": "array", "items": { "$ref": "#/definitions/item" } }
+      ]
+    }
+  },
+  "definitions": {
+    "item": {
+      "type": "object",
+      "properties": {
+        "parcel_id": { "type": "string" },
+        "parties": { "type": "array", "items": { "type": "string" } },
+        "action_type": { "type": "string" },
+        "location": { "type": "string" },
+        "reference_docs": { "type": "string" },
+        "valuation": { "type": "string" },
+        "objection_period": { "type": "string", "description": "The specific period for objections, e.g., 'sixty (60) days', '30 days'" }
+      }
+    }
   }
 }

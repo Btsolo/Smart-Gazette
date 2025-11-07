@@ -1,10 +1,23 @@
 {
   "type": "object",
   "properties": {
-    "notice_type": { "type": "string" },
-    "brief_text": { "type": "string" },
-    "contact_or_location": { "type": "string" },
-    "date": { "type": "string" },
-    "reference": { "type": "string" }
+    "items": {
+      "oneOf": [
+        { "$ref": "#/definitions/item" },
+        { "type": "array", "items": { "$ref": "#/definitions/item" } }
+      ]
+    }
+  },
+  "definitions": {
+    "item": {
+      "type": "object",
+      "properties": {
+        "notice_type": { "type": "string" },
+        "brief_text": { "type": "string" },
+        "contact_or_location": { "type": "string" },
+        "date": { "type": "string" },
+        "reference": { "type": "string" }
+      }
+    }
   }
 }

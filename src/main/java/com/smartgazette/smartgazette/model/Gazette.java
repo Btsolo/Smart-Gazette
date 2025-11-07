@@ -7,6 +7,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;
+import jakarta.persistence.Column;
 
 @Entity
 @Table(name = "gazette")
@@ -34,7 +35,7 @@ public class Gazette {
     @Column(columnDefinition = "TEXT")
     private String summary;
 
-    // FIX 1: Renamed from 'xsummary' to 'xSummary' to follow Java conventions
+
     @Column(length = 280)
     private String xSummary;
 
@@ -58,13 +59,19 @@ public class Gazette {
     @Enumerated(EnumType.STRING) // This tells JPA to store the status as a readable string ("SUCCESS", "FAILED")
     private ProcessingStatus status;
 
+    // --- (METRIC COLLECTION) ---
+    @Column(nullable = false, columnDefinition = "integer default 0")
+    private int thumbsUp = 0;
+
+    @Column(nullable = false, columnDefinition = "integer default 0")
+    private int thumbsDown = 0;
+
     // --- Constructors ---
 
     // No-argument constructor (required by JPA)
     public Gazette() {
     }
 
-    // FIX 2: Corrected the all-argument constructor to properly set all fields
     public Gazette(String title, String category, String link, String noticeNumber, String signatory, String content, String summary, String xSummary, String article, String actionableInfo, LocalDate publishedDate) {
         this.title = title;
         this.category = category;
@@ -235,5 +242,21 @@ public class Gazette {
 
     public void setGazetteDate(LocalDate gazetteDate) {
         this.gazetteDate = gazetteDate;
+    }
+
+    public int getThumbsUp() {
+        return thumbsUp;
+    }
+
+    public void setThumbsUp(int thumbsUp) {
+        this.thumbsUp = thumbsUp;
+    }
+
+    public int getThumbsDown() {
+        return thumbsDown;
+    }
+
+    public void setThumbsDown(int thumbsDown) {
+        this.thumbsDown = thumbsDown;
     }
 }

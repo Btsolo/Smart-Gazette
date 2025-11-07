@@ -1,11 +1,24 @@
 {
   "type": "object",
   "properties": {
-    "employee_name": { "type": "string" },
-    "grade": { "type": "string" },
-    "action": { "type": "string" },
-    "effective_date": { "type": "string" },
-    "department": { "type": "string" },
-    "prior_position": { "type": "string" }
+    "items": {
+      "oneOf": [
+        { "$ref": "#/definitions/item" },
+        { "type": "array", "items": { "$ref": "#/definitions/item" } }
+      ]
+    }
+  },
+  "definitions": {
+    "item": {
+      "type": "object",
+      "properties": {
+        "employee_name": { "type": "string" },
+        "grade": { "type": "string" },
+        "action": { "type": "string" },
+        "effective_date": { "type": "string" },
+        "department": { "type": "string" },
+        "prior_position": { "type": "string" }
+      }
+    }
   }
 }

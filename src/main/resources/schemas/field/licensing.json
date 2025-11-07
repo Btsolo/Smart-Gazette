@@ -1,12 +1,25 @@
 {
   "type": "object",
   "properties": {
-    "licensee": { "type": "string" },
-    "license_type": { "type": "string" },
-    "regulator": { "type": "string" },
-    "status": { "type": "string" },
-    "issue_date": { "type": "string" },
-    "expiry_date": { "type": "string" },
-    "license_number": { "type": "string" }
+    "items": {
+      "oneOf": [
+        { "$ref": "#/definitions/item" },
+        { "type": "array", "items": { "$ref": "#/definitions/item" } }
+      ]
+    }
+  },
+  "definitions": {
+    "item": {
+      "type": "object",
+      "properties": {
+        "licensee": { "type": "string" },
+        "license_type": { "type": "string" },
+        "regulator": { "type": "string" },
+        "status": { "type": "string" },
+        "issue_date": { "type": "string" },
+        "expiry_date": { "type": "string" },
+        "license_number": { "type": "string" }
+      }
+    }
   }
 }
