@@ -40,6 +40,10 @@
                         <input type="text" id="actionableInfo" th:field="*{actionableInfo}" class="mt-1 border p-2 w-full rounded-md shadow-sm border-gray-300">
                     </div>
 
+                    <div>
+                        <label for="link" class="block text-sm font-medium text-gray-700">Source Link</label>
+                        <input type="text" id="link" th:field="*{link}" class="mt-1 border p-2 w-full rounded-md shadow-sm border-gray-300">
+                    </div>
                     <div class="flex justify-end space-x-3 pt-4">
                         <a th:href="@{/admin/content}" class="bg-gray-200 text-gray-700 px-4 py-2 rounded-md hover:bg-gray-300">Cancel</a>
                         <button type="submit" class="bg-indigo-600 text-white px-4 py-2 rounded-md hover:bg-indigo-700">Save Changes</button>
@@ -74,10 +78,6 @@
                     <div class="p-3 bg-gray-50 rounded-md border">
                         <label class="block text-xs font-medium text-gray-500">Gazette Date</label>
                         <p class="text-sm font-semibold text-gray-800" th:text="${gazette.gazetteDate != null ? #temporals.format(gazette.gazetteDate, 'MMMM d, yyyy') : 'N/A'}">N/A</p>
-                    </div>
-                    <div>
-                        <label for="link" class="block text-sm font-medium text-gray-700">Source Link</label>
-                        <input type="text" id="link" th:field="*{link}" class="mt-1 border p-2 w-full rounded-md shadow-sm border-gray-300">
                     </div>
                 </div>
             </div>

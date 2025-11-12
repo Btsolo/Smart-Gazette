@@ -59,12 +59,19 @@ public class Gazette {
     @Enumerated(EnumType.STRING) // This tells JPA to store the status as a readable string ("SUCCESS", "FAILED")
     private ProcessingStatus status;
 
+    @Column(name = "original_pdf_path")
+    private String originalPdfPath;
+
     // --- (METRIC COLLECTION) ---
     @Column(nullable = false, columnDefinition = "integer default 0")
     private int thumbsUp = 0;
 
     @Column(nullable = false, columnDefinition = "integer default 0")
     private int thumbsDown = 0;
+
+
+    @Column(nullable = false, columnDefinition = "integer default 0")
+    private int viewCount = 0;
 
     // --- Constructors ---
 
@@ -259,4 +266,16 @@ public class Gazette {
     public void setThumbsDown(int thumbsDown) {
         this.thumbsDown = thumbsDown;
     }
+
+    public String getOriginalPdfPath() {
+        return originalPdfPath;
+    }
+
+    public void setOriginalPdfPath(String originalPdfPath) {
+        this.originalPdfPath = originalPdfPath;
+    }
+
+    public int getViewCount() { return viewCount; }
+
+    public void setViewCount(int viewCount) { this.viewCount = viewCount; }
 }

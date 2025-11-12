@@ -5,6 +5,10 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import com.smartgazette.smartgazette.model.ProcessingStatus;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
+
+import java.time.LocalDate;
 import java.util.List;
 
 
@@ -24,6 +28,13 @@ public interface GazetteRepository extends JpaRepository<Gazette, Long> {
 
     // NEW METHOD: Find all articles with a specific status, ordered correctly.
     // --- FIX: This query MUST match the main sorting order and has a simple name. ---
-    @Query("SELECT g FROM Gazette g WHERE g.status = ?1 ORDER BY g.gazetteDate DESC, g.sourceOrder ASC, g.id ASC")
-    List<Gazette> findAllWithStatusAndCorrectSorting(ProcessingStatus status);
+    @Query("SELECT g FROM Gazette g WHERE g.status = 'SUCCESS' ORDER BY g.gazetteDate DESC, g.sourceOrder ASC, g.id ASC")
+    Page<Gazette> findAllSuccessfulWithCorrectSorting(Pageable pageable);
+
+    // NEW METHOD for Phase 2.7
+    List<Gazette> findAllByGazetteDateAndOriginalPdfPathIsNull(LocalDate gazetteDate);
+
+    // !!! ADD THIS NEW METHOD FOR THE RETRY FEATURE !!!
+    @Query("SELECT g FROM Gazette g WHERE g.status = 'FAILED' ORDER BY g.gazetteDate DESC, g.sourceOrder ASC, g.id ASC")
+    List<Gazette> findAllFailedWithCorrectSorting();
 }

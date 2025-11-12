@@ -7,14 +7,50 @@
     <div th:if="${message}" class="mb-4 p-4 bg-green-100 text-green-800 rounded-md" th:text="${message}"></div>
     <div th:if="${error}" class="mb-4 p-4 bg-red-100 text-red-800 rounded-md" th:text="${error}"></div>
 
+    <div class="flex justify-between items-center mb-6 p-4 bg-white rounded-lg shadow-md">
+        <div>
+            <h2 class="text-xl font-bold text-gray-900">Content Management</h2>
+            <p class="text-sm text-gray-500 hidden md:block">Manage, edit, and publish all processed notices.</p>
+        </div>
+
+        <div class="flex items-center gap-2 md:gap-3">
+
+            <a th:href="@{/admin/export/excel}" title="Export All (Excel)"
+               class="flex items-center text-sm font-medium text-gray-700 bg-white p-2 md:px-3 md:py-1.5 border border-gray-300 rounded-md shadow-sm hover:bg-gray-50">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+                <span class="hidden md:inline ml-2">Export All</span>
+            </a>
+
+            <a th:href="@{/admin/retry-failed}" title="Retry All FAILED"
+               class="flex items-center text-sm font-medium text-yellow-600 p-2 md:px-3 md:py-1.5 border border-yellow-300 rounded-md shadow-sm bg-yellow-50 hover:bg-yellow-100"
+               onclick="return confirm('This will attempt to re-process all FAILED notices. This may take time. Continue?')">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m-15.357-2a8.001 8.001 0 0015.357 2m0 0H15"></path></svg>
+                <span class="hidden md:inline ml-2">Retry All</span>
+            </a>
+
+            <a th:href="@{/admin/stop-processing}" title="Stop Processing"
+               class="flex items-center text-sm font-medium bg-red-600 text-white p-2 md:px-3 md:py-1.5 rounded-md hover:bg-red-700"
+               onclick="return confirm('Are you sure you want to stop any active processing? The job will stop after the current notice is finished.')">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636"></path></svg>
+                <span class="hidden md:inline ml-2">Stop</span>
+            </a>
+
+            <a th:href="@{/add}" title="Add New Gazette"
+               class="flex items-center bg-blue-600 text-white p-2 md:px-4 md:py-2 rounded-md hover:bg-blue-700 text-sm font-medium">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path></svg>
+                <span class="hidden md:inline ml-2">+ Add New</span>
+            </a>
+        </div>
+    </div>
+
     <div class="bg-white rounded-lg shadow-md">
 
         <div class="flex justify-between items-center p-4 border-b border-gray-200">
             <div class="flex items-center gap-3">
-                <button id="bulk-export-btn" class="flex items-center gap-2 text-sm font-medium text-gray-500 px-3 py-1.5 border border-gray-300 rounded-md shadow-sm hover:bg-gray-50 opacity-50 cursor-not-allowed" disabled>
-                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
-                    Export
-                </button>
+                <span class="text-sm font-medium text-gray-700">
+                    <span id="selected-count">0</span> selected
+                </span>
+
                 <button id="bulk-post-btn" class="flex items-center gap-2 text-sm font-medium text-gray-500 px-3 py-1.5 border border-gray-300 rounded-md shadow-sm hover:bg-gray-50 opacity-50 cursor-not-allowed" disabled>
                     <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 16 16"><path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.602.75zM10.454 13.5h1.17l-6.61-7.54H3.74l6.715 7.54z"/></svg>
                     Post to X
@@ -23,16 +59,10 @@
                     <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
                     Delete
                 </button>
-                <a th:href="@{/admin/retry-failed}" class="flex items-center gap-2 text-sm font-medium text-yellow-600 px-3 py-1.5 border border-yellow-300 rounded-md shadow-sm bg-yellow-50 hover:bg-yellow-100"
-                   onclick="return confirm('This will attempt to re-process all FAILED notices. This may take time. Continue?')">
-                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m-15.357-2a8.001 8.001 0 0015.357 2m0 0H15"></path></svg>
-                    Retry FAILED
-                </a>
             </div>
-
-            <a th:href="@{/add}" class="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700 text-sm font-medium">
-                + Add New Gazette
-            </a>
+            <div class="text-sm text-gray-500">
+                Filters (coming soon)
+            </div>
         </div>
 
         <div class="overflow-x-auto">
@@ -90,7 +120,6 @@
         const selectAll = document.getElementById('select-all-checkbox');
         const items = document.querySelectorAll('.item-checkbox');
         const countSpan = document.getElementById('selected-count');
-        const exportBtn = document.getElementById('bulk-export-btn');
         const postBtn = document.getElementById('bulk-post-btn');
         const deleteBtn = document.getElementById('bulk-delete-btn');
 
@@ -99,12 +128,12 @@
             countSpan.textContent = count;
 
             if (count > 0) {
-                [exportBtn, postBtn, deleteBtn].forEach(btn => {
+                [postBtn, deleteBtn].forEach(btn => {
                     btn.classList.remove('opacity-50', 'cursor-not-allowed');
                     btn.disabled = false;
                 });
             } else {
-                [exportBtn, postBtn, deleteBtn].forEach(btn => {
+                [postBtn, deleteBtn].forEach(btn => {
                     btn.classList.add('opacity-50', 'cursor-not-allowed');
                     btn.disabled = true;
                 });

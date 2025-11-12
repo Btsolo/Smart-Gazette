@@ -7,26 +7,34 @@ import com.smartgazette.smartgazette.service.IftttWebhookService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.core.io.InputStreamResource;
+import org.springframework.core.io.Resource;
+import org.springframework.core.io.UrlResource;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.data.domain.Page;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MaxUploadSizeExceededException;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
+
 
 import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.List;
 import com.smartgazette.smartgazette.model.ProcessingStatus;
 import java.util.stream.Collectors;
 import java.util.Map;
 import java.util.LinkedHashMap;
+import java.util.Comparator;
+import java.net.MalformedURLException;
 
 @Controller
 public class GazetteController {
@@ -46,18 +54,25 @@ public class GazetteController {
     // --- Public Page Display Methods ---
 
     @GetMapping("/")
-    public String home(Model model) {
-        List<Gazette> successfulGazettes = gazetteService.getAllGazettes()
-                .stream()
-                .filter(g -> g.getStatus() == ProcessingStatus.SUCCESS)
-                .toList();
+    public String home(Model model, @RequestParam(name = "page", defaultValue = "1") int pageNum) {
+        int pageSize = 20; // As you requested
+        Page<Gazette> page = gazetteService.listSuccessfulGazettesPaginated(pageNum, pageSize);
+
+        List<Gazette> successfulGazettes = page.getContent();
+
         model.addAttribute("gazettes", successfulGazettes);
+        model.addAttribute("currentPage", pageNum);
+        model.addAttribute("totalPages", page.getTotalPages());
+        model.addAttribute("totalItems", page.getTotalElements());
+
         return "home";
     }
 
     @GetMapping("/gazette/{id}")
     public String viewGazetteDetail(@PathVariable Long id, Model model) {
-        Gazette g = gazetteService.getGazetteById(id);
+        // --- INCREMENTS THE VIEW COUNT ---
+        Gazette g = gazetteService.incrementViewCount(id);
+
         if (g == null) return "redirect:/";
         model.addAttribute("gazette", g);
         return "gazette-detail";
@@ -99,35 +114,79 @@ public class GazetteController {
     @GetMapping("/admin/dashboard")
     public String showAdminMetrics(Model model) {
         List<Gazette> allGazettes = gazetteService.getAllGazettes();
-        long total = allGazettes.size();
-        long successful = allGazettes.stream().filter(g -> g.getStatus() == ProcessingStatus.SUCCESS).count();
-        long failed = total - successful;
-        double rate = (total > 0) ? ((double) successful / total) * 100.0 : 0.0;
+        List<Gazette> successList = allGazettes.stream().filter(g -> g.getStatus() == ProcessingStatus.SUCCESS).toList();
+        List<Gazette> failedList = allGazettes.stream().filter(g -> g.getStatus() == ProcessingStatus.FAILED).toList();
 
-        // Metrics for KPI cards (from image_66c020.png)
-        model.addAttribute("totalArticles", total);
-        model.addAttribute("successfulArticles", successful);
-        model.addAttribute("failedArticles", failed);
-        model.addAttribute("successRate", rate);
+        // --- 1. KPI CARDS (From your Figma design) ---
+        long totalArticles = allGazettes.size();
+        long failedArticles = failedList.size(); // This is your "API Errors"
+        long successfulArticles = successList.size();
+        double successRate = (totalArticles > 0) ? ((double) successfulArticles / totalArticles) * 100.0 : 0.0;
 
-        // Data for "Processing over time" chart (placeholder data for now)
-        model.addAttribute("chartLabels", List.of("01", "03", "05", "07", "09", "11", "13", "15", "17", "19", "21", "23", "25", "27", "29"));
-        model.addAttribute("chartData", List.of(5, 7, 15, 20, 18, 7, 7, 8, 11, 2, 9, 0, 8, 11, 3));
+        // --- 2. DEEPER ENGAGEMENT METRICS (Your Request) ---
+        long totalViews = successList.stream().mapToLong(Gazette::getViewCount).sum();
+        long totalThumbsUp = successList.stream().mapToLong(Gazette::getThumbsUp).sum();
+        long totalThumbsDown = successList.stream().mapToLong(Gazette::getThumbsDown).sum();
+        long totalEngagement = totalViews + totalThumbsUp + totalThumbsDown; // Simple engagement metric
 
-        // Data for "Website Traffic" chart (placeholder)
-        model.addAttribute("trafficLabels", List.of("02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"));
-        model.addAttribute("websiteTrafficData", List.of(20, 25, 22, 30, 45, 40, 50, 60, 55, 70, 75));
-        model.addAttribute("xTrafficData", List.of(10, 15, 12, 20, 35, 30, 40, 50, 45, 60, 65));
+        // --- 3. PASS ALL DATA TO THE MODEL ---
 
-        // Data for Category Pie Chart (from image_66c038.png)
-        Map<String, Long> categoryCounts = allGazettes.stream()
+        // Processing Cluster
+        model.addAttribute("totalArticles", totalArticles);
+        model.addAttribute("successfulArticles", successfulArticles);
+        model.addAttribute("failedArticles", failedArticles);
+        model.addAttribute("successRate", successRate);
+
+        // Engagement Cluster
+        model.addAttribute("totalEngagement", totalEngagement);
+        model.addAttribute("totalViews", totalViews);
+        model.addAttribute("totalThumbsUp", totalThumbsUp);
+        model.addAttribute("totalThumbsDown", totalThumbsDown);
+
+        // --- 4. CATEGORY PIE CHART (Real Data) ---
+        Map<String, Long> categoryCounts = successList.stream()
                 .filter(g -> g.getCategory() != null)
                 .collect(Collectors.groupingBy(Gazette::getCategory, Collectors.counting()));
 
         model.addAttribute("categoryLabels", categoryCounts.keySet());
         model.addAttribute("categoryData", categoryCounts.values());
 
-        return "admin-dashboard"; // Renders admin-dashboard.html
+        // --- 5. "AI INSIGHTS" & ERROR BREAKDOWN (Live Data) ---
+        Map<String, Long> errorReasonCounts = failedList.stream()
+                .map(g -> {
+                    String summary = g.getSummary();
+                    if (summary == null) return "Unknown Reason";
+                    if (summary.startsWith("The AI failed during processing. Reason: ")) {
+                        return summary.replace("The AI failed during processing. Reason: ", "");
+                    }
+                    if (summary.startsWith("AI failed to generate summary.")) {
+                        return "Generation Failed";
+                    }
+                    return "Unknown Failure";
+                })
+                .collect(Collectors.groupingBy(reason -> reason, Collectors.counting()));
+
+        model.addAttribute("errorReasonCounts", errorReasonCounts);
+
+        List<Gazette> topArticles = successList.stream()
+                .filter(g -> g.getThumbsUp() > 0)
+                .sorted(Comparator.comparing(Gazette::getThumbsUp).reversed())
+                .limit(3) // Top 3
+                .toList();
+        model.addAttribute("topArticles", topArticles);
+
+        // --- 6. PLACEHOLDERS (For charts we'll implement later) ---
+        // This is for your "Processing over time" stacked bar chart
+        model.addAttribute("processingDayLabels", List.of("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"));
+        model.addAttribute("processingSuccessData", List.of(20, 30, 45, 50, 23, 34, 40));
+        model.addAttribute("processingFailData", List.of(2, 1, 0, 3, 1, 0, 2));
+
+        // This is for your "Website Traffic" line chart
+        model.addAttribute("trafficLabels", List.of("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"));
+        model.addAttribute("websiteTrafficData", List.of(150, 220, 200, 310, 350, 300, 400));
+        model.addAttribute("socialTrafficData", List.of(50, 60, 55, 80, 100, 90, 120)); // Placeholder for "X Traffic"
+
+        return "admin-dashboard";
     }
 
     @GetMapping("/admin/content")
@@ -265,6 +324,35 @@ public class GazetteController {
         String message = gazetteService.requestStopProcessing();
         redirectAttributes.addFlashAttribute("message", message);
         return "redirect:/admin/dashboard";
+    }
+
+    // --- NEW ENDPOINT FOR PDF DOWNLOAD ---
+    @GetMapping("/gazette/pdf/{id}")
+    @ResponseBody
+    public ResponseEntity<Resource> servePdf(@PathVariable Long id) {
+        Gazette gazette = gazetteService.getGazetteById(id);
+        if (gazette == null || gazette.getOriginalPdfPath() == null) {
+            log.warn("PDF download request failed: No gazette or path found for ID {}", id);
+            return ResponseEntity.notFound().build();
+        }
+
+        try {
+            Path pdfPath = Paths.get(gazette.getOriginalPdfPath());
+            Resource resource = new UrlResource(pdfPath.toUri());
+
+            if (resource.exists() || resource.isReadable()) {
+                log.info("Serving PDF: {}", pdfPath);
+                return ResponseEntity.ok()
+                        .header(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_PDF_VALUE)
+                        .body(resource);
+            } else {
+                log.error("Could not read PDF file: {}", gazette.getOriginalPdfPath());
+                return ResponseEntity.notFound().build();
+            }
+        } catch (MalformedURLException e) {
+            log.error("Malformed URL for PDF path: {}", gazette.getOriginalPdfPath(), e);
+            return ResponseEntity.badRequest().build();
+        }
     }
 
     static {

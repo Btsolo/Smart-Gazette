@@ -7,219 +7,234 @@
     <div th:if="${message}" class="mb-4 p-4 bg-green-100 text-green-800 rounded-md" th:text="${message}"></div>
     <div th:if="${error}" class="mb-4 p-4 bg-red-100 text-red-800 rounded-md" th:text="${error}"></div>
 
-    <div class="flex justify-between items-center mb-6">
-        <h1 class="text-3xl font-bold text-gray-900">Dashboard</h1>
-        <a th:href="@{/admin/stop-processing}"
-           class="bg-red-600 text-white px-4 py-2 rounded-md hover:bg-red-700 text-sm font-medium flex items-center gap-2"
-           onclick="return confirm('Are you sure you want to stop any active processing? The job will stop after the current notice is finished.')">
-            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636"></path></svg>
-            Stop Processing
-        </a>
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">Dashboard</h1>
+
+    <div class="mb-8">
+        <h2 class="text-xl font-semibold text-gray-800 mb-4">Processing &amp; API Status</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <p class="text-sm font-medium text-gray-500">Total Articles</p>
+                <p class="text-3xl font-bold text-gray-900" th:text="${totalArticles}">0</p>
+                <p class="text-xs text-gray-500" th:text="${successfulArticles} + ' Successful'">0 Successful</p>
+            </div>
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <p class="text-sm font-medium text-gray-500">API Errors (Failed)</p>
+                <p class="text-3xl font-bold text-red-600" th:text="${failedArticles}">0</p>
+                <p class="text-xs text-gray-500" th:text="${#numbers.formatDecimal(successRate, 0, 1) + '% Success Rate'}">0.0%</p>
+            </div>
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <p class="text-sm font-medium text-gray-500">Processing Time (Avg)</p>
+                <p class="text-3xl font-bold text-gray-900">~1m 30s</p>
+                <p class="text-xs text-gray-500">(Placeholder)</p>
+            </div>
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <p class="text-sm font-medium text-gray-500">Failure Reason Breakdown</p>
+                <div class="space-y-1 mt-2 overflow-y-auto h-20">
+                    <p th:if="${#maps.isEmpty(errorReasonCounts)}" class="text-sm text-gray-500">🎉 No errors</p>
+                    <div th:each="entry : ${errorReasonCounts}" class="flex justify-between text-xs">
+                        <span class="text-gray-600 truncate" th:title="${entry.key}" th:text="${entry.key}">Extraction failed</span>
+                        <span class="font-medium text-red-600" th:text="${entry.value}">0</span>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-6">
-        <div class="bg-white p-6 rounded-lg shadow-md flex items-center gap-6">
-            <div class="p-4 rounded-full bg-blue-100 flex-shrink-0">
-                <svg class="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+    <div class="mb-8">
+        <h2 class="text-xl font-semibold text-gray-800 mb-4">User Engagement</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <p class="text-sm font-medium text-gray-500">Total Engagement</p>
+                <p class="text-3xl font-bold text-gray-900" th:text="${totalEngagement}">0</p>
+                <p class="text-xs text-gray-500">Views + Feedback</p>
             </div>
-            <div>
-                <p class="text-3xl font-bold text-gray-900" th:text="${totalArticles}">567</p>
-                <h3 class="text-sm font-medium text-gray-500">Articles Processed (T015)</h3>
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <p class="text-sm font-medium text-gray-500">Article Views</p>
+                <p class="text-3xl font-bold text-gray-900" th:text="${totalViews}">0</p>
+                <p class="text-xs text-gray-500">Total clicks on articles</p>
             </div>
-        </div>
-
-        <div class="bg-white p-6 rounded-lg shadow-md flex items-center gap-6">
-            <div class="p-4 rounded-full bg-green-100 flex-shrink-0">
-                <svg class="w-8 h-8 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <p class="text-sm font-medium text-gray-500">User Feedback</p>
+                <p class="text-3xl font-bold text-green-600" th:text="${totalThumbsUp}">0 <span class="text-gray-400">/</span>
+                    <span class="text-red-600" th:text="${totalThumbsDown}">0</span>
+                </p>
+                <p class="text-xs text-gray-500">👍 Thumbs Up / 👎 Thumbs Down</p>
             </div>
-            <div>
-                <p class="text-3xl font-bold text-gray-900" th:text="${#numbers.formatDecimal(successRate, 0, 1) + '%'}">98.9%</p>
-                <h3 class="text-sm font-medium text-gray-500">Success Rate (T015)</h3>
-                <p class="text-xs text-gray-500" th:text="${successfulArticles} + ' Successful'">561 Successful</p>
-            </div>
-        </div>
-
-        <div class="bg-white p-6 rounded-lg shadow-md flex items-center gap-6">
-            <div class="p-4 rounded-full bg-red-100 flex-shrink-0">
-                <svg class="w-8 h-8 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636"></path></svg>
-            </div>
-            <div>
-                <p class="text-3xl font-bold text-gray-900" th:text="${failedArticles}">6</p>
-                <h3 class="text-sm font-medium text-gray-500">Failed Notices (T015)</h3>
-                <p classs="text-xs text-gray-500">Ready for retry</p>
-            </div>
-        </div>
-
-        <div class="bg-white p-6 rounded-lg shadow-md flex items-center gap-6">
-            <div class="p-4 rounded-full bg-yellow-100 flex-shrink-0">
-                <svg class="w-8 h-8 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
-            </div>
-            <div>
-                <p class="text-3xl font-bold text-gray-900">0</p> <h3 class="text-sm font-medium text-gray-500">API Errors (Last 24h)</h3>
-                <p class="text-xs text-gray-500">From Cloud Logging</p>
+            <div class="bg-white p-6 rounded-lg shadow-md">
+                <p class="text-sm font-medium text-gray-500">Social Clicks (TBD)</p>
+                <p class="text-3xl font-bold text-gray-900">0</p>
+                <p class="text-xs text-gray-500">(Placeholder)</p>
             </div>
         </div>
     </div>
 
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-6">
-
-        <div class="lg:col-span-1 space-y-4">
-            <div class="flex items-center gap-2">
-                <span class="relative flex h-3 w-3">
-                    <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
-                    <span class="relative inline-flex rounded-full h-3 w-3 bg-green-500"></span>
-                </span>
-                <h3 class="text-lg font-semibold text-gray-900">AI Insights - Test T015</h3>
-            </div>
-
-            <div class="bg-white rounded-lg border-l-4 border-yellow-500 p-4 shadow-md">
-                <div class="flex items-start gap-3">
-                    <svg class="w-5 h-5 text-yellow-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
-                    <div class="flex-1">
-                        <p class="text-sm font-medium text-gray-900">Triage Mismatch (FIXED)</p>
-                        <p class="text-sm text-gray-600 mt-1">
-                            46 Land_Property notices were mis-categorized. (P0 Fix Deployed)
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="bg-white rounded-lg border-l-4 border-blue-500 p-4 shadow-md">
-                <div class="flex items-start gap-3">
-                    <svg class="w-5 h-5 text-blue-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                    <div class="flex-1">
-                        <p class="text-sm font-medium text-gray-900">Concurrent Jobs (FIXED)</p>
-                        <p class="text-sm text-gray-600 mt-1">
-                            Concurrent processing lock (AtomicBoolean) has been implemented. (P1 Fix Deployed)
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="bg-white rounded-lg border-l-4 border-red-500 p-4 shadow-md">
-                <div class="flex items-start gap-3">
-                    <svg class="w-5 h-5 text-red-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                    <div class="flex-1">
-                        <p class="text-sm font-medium text-gray-900">Long Notice Timeouts (FIXED)</p>
-                        <p class="text-sm text-gray-600 mt-1">
-                            API read timeout increased to 5 minutes. (P0 Fix Deployed)
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
 
         <div class="lg:col-span-2 bg-white p-6 rounded-lg shadow-md">
             <div class="flex justify-between items-center mb-4">
-                <h3 class="text-lg font-semibold text-gray-900">Traffic Report (Placeholder)</h3>
+                <h3 class="text-lg font-semibold text-gray-900">Processing Activity</h3>
                 <div class="flex items-center gap-1 bg-gray-100 p-1 rounded-lg">
-                    <button id="show-website-btn" class="text-xs px-3 py-1 bg-white rounded-md font-medium text-gray-800 shadow-sm">Website Traffic</button>
-                    <button id="show-x-btn" class="text-xs px-3 py-1 rounded-md font-medium text-gray-500 hover:bg-gray-200">X Traffic</button>
+                    <button id="show-processing-btn" class="chart-tab-btn active">Over Time</button>
+                    <button id="show-traffic-btn" class="chart-tab-btn">Traffic (Demo)</button>
                 </div>
             </div>
             <div class="h-80">
-                <canvas id="viewsChart"></canvas>
+                <canvas id="mainChart"></canvas>
             </div>
         </div>
-    </div>
 
-    <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-6">
-        <div class="lg:col-span-2 bg-white p-6 rounded-lg shadow-md">
-            <h3 class="text-lg font-semibold text-gray-900">Processing Over Time (Placeholder)</h3>
-            <div class="h-80">
-                <canvas id="processingChart"></canvas>
-            </div>
-        </div>
         <div class="lg:col-span-1 bg-white p-6 rounded-lg shadow-md">
-            <h3 class="text-lg font-semibold text-gray-900">Category Breakdown (Live)</h3>
+            <h3 class="text-lg font-semibold text-gray-900">Category Breakdown</h3>
             <div class="h-80 flex items-center justify-center">
                 <canvas id="categoryChart"></canvas>
             </div>
         </div>
     </div>
 
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-6">
+        <div class="lg:col-span-2 bg-white p-6 rounded-lg shadow-md">
+            <h3 class="text-lg font-semibold text-gray-900 mb-4">Live Insights (From Data)</h3>
+            <div class="space-y-4 h-80 overflow-y-auto">
+
+                <div class="flex items-start gap-3 p-3 bg-gray-50 border border-gray-200 rounded-lg">
+                    <svg class="w-5 h-5 text-gray-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 14v6m-3-3h6M6 10h2a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v2a2 2 0 002 2zm10 0h2a2 2 0 002-2V6a2 2 0 00-2-2h-2a2 2 0 00-2 2v2a2 2 0 002 2zM6 20h2a2 2 0 002-2v-2a2 2 0 00-2-2H6a2 2 0 00-2 2v2a2 2 0 002 2z"></path></svg>
+                    <div>
+                        <p class="text-sm font-medium text-gray-900">Automated AI Report (Future)</p>
+                        <p class="text-sm text-gray-600">This widget will show daily insights from an AI analysis of system logs and performance data.</p>
+                    </div>
+                </div>
+
+                <div th:each="entry : ${errorReasonCounts}" class="flex items-start gap-3 p-3 bg-red-50 border border-red-200 rounded-lg">
+                    <svg class="w-5 h-5 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
+                    <div>
+                        <p class="text-sm font-medium text-gray-900"><span th:text="${entry.value}">0</span> Notices Failed</p>
+                        <p class="text-sm text-gray-600" th:text="${'Reason: ' + entry.key}">Reason: Extraction failed</p>
+                    </div>
+                </div>
+
+                <div th:each="article : ${topArticles}" class="flex items-start gap-3 p-3 bg-blue-50 border border-blue-200 rounded-lg">
+                    <svg class="w-5 h-5 text-blue-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                    <div>
+                        <p class="text-sm font-medium text-gray-900">Top Article: <span th:text="${article.thumbsUp} + ' 👍'">0</span></p>
+                        <a th:href="@{/gazette/{id}(id=${article.id})}" target="_blank" class="text-sm text-gray-600 hover:underline" th:text="${article.title}">Top performing article title</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="lg:col-span-1 bg-white p-6 rounded-lg shadow-md">
+            <h3 class="text-lg font-semibold text-gray-900">User Feedback (Live)</h3>
+            <div class="h-80 flex items-center justify-center">
+                <canvas id="feedbackChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+
     <script th:inline="javascript">
         /*<![CDATA[*/
 
         // === Data from Controller ===
         const trafficLabels = /*[[${trafficLabels}]]*/ [];
-        const websiteData = /*[[${websiteTrafficData}]]*/ [];
-        const xData = /*[[${xTrafficData}]]*/ [];
+        const websiteTrafficData = /*[[${websiteTrafficData}]]*/ [];
+        const socialTrafficData = /*[[${socialTrafficData}]]*/ [];
 
-        const processingLabels = /*[[${chartLabels}]]*/ [];
-        const processingData = /*[[${chartData}]]*/ [];
+        const processingLabels = /*[[${processingDayLabels}]]*/ [];
+        const processingSuccessData = /*[[${processingSuccessData}]]*/ [];
+        const processingFailData = /*[[${processingFailData}]]*/ [];
 
         const categoryLabels = /*[[${categoryLabels}]]*/ [];
         const categoryData = /*[[${categoryData}]]*/ [];
 
-        // --- Chart 1: Traffic Chart (with TABS) ---
-        const ctxViews = document.getElementById('viewsChart').getContext('2d');
-        const viewsChart = new Chart(ctxViews, {
+        const feedbackLabels = /*[[${feedbackLabels}]]*/ [];
+        const feedbackData = /*[[${feedbackData}]]*/ [];
+
+
+        // --- Chart 1: Main Tabbed Chart ---
+        const ctxMain = document.getElementById('mainChart').getContext('2d');
+
+        // --- NEW: Stacked Bar Chart for Processing (Your Request) ---
+        const processingDataset = {
+            type: 'bar',
+            label: 'Success',
+            data: processingSuccessData,
+            backgroundColor: 'rgba(37, 99, 235, 0.6)', // Blue
+            stack: 'processingStack'
+        };
+        const processingFailedDataset = {
+            type: 'bar',
+            label: 'Failed',
+            data: processingFailData,
+            backgroundColor: 'rgba(239, 68, 68, 0.6)', // Red
+            stack: 'processingStack'
+        };
+
+        const trafficDataset = {
             type: 'line',
+            label: 'Website Traffic (Views)',
+            data: websiteTrafficData,
+            borderColor: '#2563EB',
+            backgroundColor: 'rgba(37, 99, 235, 0.1)',
+            fill: true,
+            tension: 0.4,
+            hidden: true // Hidden by default
+        };
+
+        const mainChart = new Chart(ctxMain, {
             data: {
-                labels: trafficLabels,
-                datasets: [
-                    {
-                        label: 'Website Traffic',
-                        data: websiteData,
-                        borderColor: '#2563EB', // Blue
-                        backgroundColor: 'rgba(37, 99, 235, 0.1)',
-                        fill: true,
-                        tension: 0.4
-                    },
-                    {
-                        label: 'X Traffic',
-                        data: xData,
-                        borderColor: '#4B5563', // Gray
-                        backgroundColor: 'rgba(75, 85, 99, 0.1)',
-                        fill: true,
-                        tension: 0.4,
-                        hidden: true
-                    }
-                ]
+                labels: processingLabels, // Default to processing labels
+                datasets: [processingDataset, processingFailedDataset, trafficDataset]
             },
-            options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true } } }
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: { stacked: true }, // Stack the bars
+                    y: { stacked: true, beginAtZero: true }
+                },
+                plugins: {
+                    legend: { display: true } // Show legend for Success/Fail
+                }
+            }
         });
 
         // --- Tab logic for chart ---
-        const webBtn = document.getElementById('show-website-btn');
-        const xBtn = document.getElementById('show-x-btn');
+        const trafficBtn = document.getElementById('show-traffic-btn');
+        const processingBtn = document.getElementById('show-processing-btn');
 
-        webBtn.addEventListener('click', () => {
-            viewsChart.data.datasets[0].hidden = false;
-            viewsChart.data.datasets[1].hidden = true;
-            viewsChart.update();
-            webBtn.classList.add('bg-white', 'shadow-sm', 'text-gray-800');
-            xBtn.classList.remove('bg-white', 'shadow-sm', 'text-gray-800');
+        function updateTabs(activeBtn) {
+            [trafficBtn, processingBtn].forEach(btn => btn.classList.remove('active'));
+            activeBtn.classList.add('active');
+        }
+
+        trafficBtn.addEventListener('click', () => {
+            mainChart.data.datasets[0].hidden = true;  // Success
+            mainChart.data.datasets[1].hidden = true;  // Fail
+            mainChart.data.datasets[2].hidden = false; // Traffic
+            mainChart.data.labels = trafficLabels;
+            mainChart.options.scales.x.stacked = false; // Unstack for line chart
+            mainChart.options.scales.y.stacked = false;
+            mainChart.options.plugins.legend.display = false;
+            mainChart.update();
+            updateTabs(trafficBtn);
         });
 
-        xBtn.addEventListener('click', () => {
-            viewsChart.data.datasets[0].hidden = true;
-            viewsChart.data.datasets[1].hidden = false;
-            viewsChart.update();
-            xBtn.classList.add('bg-white', 'shadow-sm', 'text-gray-800');
-            webBtn.classList.remove('bg-white', 'shadow-sm', 'text-gray-800');
+        processingBtn.addEventListener('click', () => {
+            mainChart.data.datasets[0].hidden = false; // Success
+            mainChart.data.datasets[1].hidden = false; // Fail
+            mainChart.data.datasets[2].hidden = true;  // Traffic
+            mainChart.data.labels = processingLabels;
+            mainChart.options.scales.x.stacked = true; // Re-stack for bar chart
+            mainChart.options.scales.y.stacked = true;
+            mainChart.options.plugins.legend.display = true;
+            mainChart.update();
+            updateTabs(processingBtn);
         });
 
-        // --- Chart 2: Processing Over Time ---
-        const ctxProcessing = document.getElementById('processingChart').getContext('2d');
-        new Chart(ctxProcessing, {
-            type: 'bar',
-            data: {
-                labels: processingLabels,
-                datasets: [{
-                    label: 'Articles Processed',
-                    data: processingData,
-                    backgroundColor: 'rgba(37, 99, 235, 0.6)',
-                    borderColor: '#2563EB',
-                    borderWidth: 1
-                }]
-            },
-            options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true } } }
-        });
-
-        // --- Chart 3: Category Pie Chart ---
+        // --- Chart 2: Category Pie Chart (Your Request) ---
         const ctxCategory = document.getElementById('categoryChart').getContext('2d');
         new Chart(ctxCategory, {
-            type: 'doughnut',
+            type: 'pie', // Changed from doughnut
             data: {
                 labels: categoryLabels,
                 datasets: [{
@@ -231,8 +246,60 @@
                     ],
                 }]
             },
-            options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'right' } } }
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { position: 'right' }
+                }
+            }
         });
+
+        // --- Chart 3: User Feedback Bar Chart ---
+        const ctxFeedback = document.getElementById('feedbackChart').getContext('2d');
+        new Chart(ctxFeedback, {
+            type: 'bar',
+            data: {
+                labels: feedbackLabels,
+                datasets: [{
+                    label: 'Total Votes',
+                    data: feedbackData,
+                    backgroundColor: ['#10B981', '#EF4444'], // Green for Up, Red for Down
+                    borderColor: ['#059669', '#DC2626'],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: { y: { beginAtZero: true } },
+                plugins: { legend: { display: false } }
+            }
+        });
+
+        // --- Helper styles for tabbed buttons ---
+        const style = document.createElement('style');
+        style.innerHTML = `
+            .chart-tab-btn {
+                padding: 0.25rem 0.75rem;
+                font-size: 0.75rem;
+                border-radius: 0.375rem;
+                font-weight: 500;
+                color: #4B5563;
+                background-color: transparent;
+                border: none;
+                cursor: pointer;
+            }
+            .chart-tab-btn:hover {
+                background-color: #E5E7EB;
+            }
+            .chart-tab-btn.active {
+                background-color: #FFFFFF;
+                color: #111827;
+                box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+            }
+        `;
+        document.head.appendChild(style);
 
         /*]]>*/
     </script>

@@ -9,45 +9,46 @@
     <style>
         body { font-family: 'Inter', sans-serif; }
 
-        /* Active sidebar link style (Matches Figma) */
-        .sidebar-link-active {
-            background-color: #F3F4F6; /* gray-100 */
-            color: #111827; /* gray-900 */
-            font-weight: 600;
-        }
-        .sidebar-link-inactive {
-            color: #6B7280; /* gray-500 */
-        }
-
-        /* Styles for collapsible sidebar (Your request) */
+        /* --- NEW SIDEBAR STYLES --- */
         #sidebar {
+            width: 16rem; /* 256px - Expanded */
             transition: width 0.3s ease-in-out;
+            z-index: 20; /* Keep sidebar on top */
         }
-        .sidebar-collapsed {
-            width: 5rem; /* 80px */
+        #main-content {
+            padding-left: 16rem; /* Match sidebar width */
+            transition: padding-left 0.3s ease-in-out;
+        }
+        #sidebar.sidebar-collapsed {
+            width: 5rem; /* 80px - Collapsed */
+        }
+        #sidebar.sidebar-collapsed + #main-content {
+            padding-left: 5rem; /* Match collapsed sidebar width */
         }
         .sidebar-collapsed .sidebar-text {
             display: none;
         }
-        .sidebar-collapsed .sidebar-logo-text {
-            display: none;
+        .sidebar-collapsed .flex-1 a {
+            justify-content: center; /* Center icons */
         }
-        .sidebar-collapsed .sidebar-toggle-icon {
-            transform: rotate(180deg);
+        /* --- END NEW SIDEBAR STYLES --- */
+
+        .sidebar-link-active {
+            background-color: #F3F4F6;
+            color: #111827;
+            font-weight: 600;
+        }
+        .sidebar-link-inactive {
+            color: #6B7280;
         }
     </style>
 </head>
 <body class="bg-gray-100">
 
 <div class="flex h-screen bg-gray-50">
-    <aside id="sidebar" class="flex flex-col w-64 bg-white border-r border-gray-200 transition-all duration-300 ease-in-out">
-        <div class="flex items-center justify-between h-16 px-6 border-b border-gray-200 flex-shrink-0">
-            <div class="flex items-center gap-3">
-                <img th:src="@{/img/sg-logo.png}" alt="SG Logo" class="h-10 w-10">
-                <span class="sidebar-logo-text text-lg font-bold text-gray-900">Smart Gazette</span>
-            </div>
+    <aside id="sidebar" class="flex flex-col fixed inset-y-0 left-0 bg-white shadow-lg">
+        <div class="flex items-center justify-end h-16 px-6 flex-shrink-0">
             <button id="sidebar-toggle" class="p-1 rounded-md text-gray-500 hover:bg-gray-100 focus:outline-none">
-                <svg class="w-6 h-6 sidebar-toggle-icon transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
             </button>
         </div>
 
@@ -79,8 +80,13 @@
         </nav>
     </aside>
 
-    <div class="flex-1 flex flex-col overflow-hidden">
-        <header class="flex justify-end items-center h-16 px-6 bg-white border-b border-gray-200">
+    <div id="main-content" class="flex-1 flex flex-col overflow-hidden">
+
+        <header class="flex justify-between items-center h-16 px-6 bg-white border-b border-gray-200">
+            <div class="flex items-center gap-3">
+                <img th:src="@{/img/sg-logo.png}" alt="SG Logo" class="h-10 w-10">
+                <span class="text-lg font-bold text-gray-900">Smart Gazette</span>
+            </div>
 
             <div class="flex items-center gap-4">
                 <div class="flex items-center gap-2 bg-gray-100 rounded-lg p-1">
@@ -108,8 +114,24 @@
 </div>
 
 <script>
-    document.getElementById('sidebar-toggle').addEventListener('click', function() {
-        document.getElementById('sidebar').classList.toggle('sidebar-collapsed');
+    const sidebar = document.getElementById('sidebar');
+    const toggleBtn = document.getElementById('sidebar-toggle');
+
+    // Icons for the button
+    const collapseIcon = `<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>`;
+    const expandIcon = `<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>`;
+
+    // Set initial state
+    toggleBtn.innerHTML = collapseIcon;
+
+    toggleBtn.addEventListener('click', function() {
+        sidebar.classList.toggle('sidebar-collapsed');
+        // Check current state and set the correct icon
+        if (sidebar.classList.contains('sidebar-collapsed')) {
+            toggleBtn.innerHTML = expandIcon;
+        } else {
+            toggleBtn.innerHTML = collapseIcon;
+        }
     });
 </script>
 
