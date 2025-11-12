@@ -35,6 +35,13 @@
                 <span class="hidden md:inline ml-2">Stop</span>
             </a>
 
+            <a th:href="@{/admin/run-scraper}" title="Run Scraper Now"
+               class="flex items-center text-sm font-medium text-white bg-green-600 p-2 md:px-3 md:py-1.5 rounded-md shadow-sm hover:bg-green-700"
+               onclick="return confirm('This will check Kenya Law for a new gazette and process it. Continue?')">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0zM10 7v3m0 0v3m0-3h3m-3 0H7"></path></svg>
+                <span class="hidden md:inline ml-2">Check for New</span>
+            </a>
+
             <a th:href="@{/add}" title="Add New Gazette"
                class="flex items-center bg-blue-600 text-white p-2 md:px-4 md:py-2 rounded-md hover:bg-blue-700 text-sm font-medium">
                 <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path></svg>

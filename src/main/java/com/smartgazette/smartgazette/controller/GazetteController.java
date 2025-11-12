@@ -2,6 +2,7 @@ package com.smartgazette.smartgazette.controller;
 
 import com.smartgazette.smartgazette.model.Gazette;
 import com.smartgazette.smartgazette.service.ExcelExportService;
+import com.smartgazette.smartgazette.service.GazetteScrapingService;
 import com.smartgazette.smartgazette.service.GazetteService;
 import com.smartgazette.smartgazette.service.IftttWebhookService;
 import org.slf4j.Logger;
@@ -44,11 +45,13 @@ public class GazetteController {
     private final GazetteService gazetteService;
     private final IftttWebhookService iftttWebhookService;
     private final ExcelExportService excelExportService;
+    private final GazetteScrapingService scrapingService;
 
-    public GazetteController(GazetteService gazetteService, IftttWebhookService iftttWebhookService, ExcelExportService excelExportService) {
+    public GazetteController(GazetteService gazetteService, IftttWebhookService iftttWebhookService, ExcelExportService excelExportService, GazetteScrapingService scrapingService) {
         this.gazetteService = gazetteService;
         this.iftttWebhookService = iftttWebhookService;
         this.excelExportService = excelExportService;
+        this.scrapingService = scrapingService;
     }
 
     // --- Public Page Display Methods ---
@@ -380,6 +383,15 @@ public class GazetteController {
     public String handleMaxSize(MaxUploadSizeExceededException ex, RedirectAttributes redirectAttributes) {
         log.warn("Upload rejected: file too large");
         redirectAttributes.addFlashAttribute("error", "File is too large.");
+        return "redirect:/admin/content";
+    }
+
+    // --- NEW ENDPOINT FOR MANUAL SCRAPING ---
+    @GetMapping("/admin/run-scraper")
+    public String runScraperManually(RedirectAttributes redirectAttributes) {
+        log.info("Manual scrape trigger received from admin.");
+        scrapingService.runScraperManually();
+        redirectAttributes.addFlashAttribute("message", "Scraper job started in the background. Refresh in a few minutes.");
         return "redirect:/admin/content";
     }
 }

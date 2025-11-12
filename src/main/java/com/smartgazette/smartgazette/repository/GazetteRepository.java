@@ -10,6 +10,7 @@ import org.springframework.data.domain.Pageable;
 
 import java.time.LocalDate;
 import java.util.List;
+import java.util.Optional;
 
 
 @Repository
@@ -37,4 +38,11 @@ public interface GazetteRepository extends JpaRepository<Gazette, Long> {
     // !!! ADD THIS NEW METHOD FOR THE RETRY FEATURE !!!
     @Query("SELECT g FROM Gazette g WHERE g.status = 'FAILED' ORDER BY g.gazetteDate DESC, g.sourceOrder ASC, g.id ASC")
     List<Gazette> findAllFailedWithCorrectSorting();
+
+    // !!! ADD THIS NEW METHOD FOR THE SCRAPER !!!
+    List<Gazette> findAllByGazetteNumber(String gazetteNumber);
+
+    // !!! ADD THIS NEW, MORE PRECISE METHOD FOR THE SCRAPER !!!
+    Optional<Gazette> findFirstByGazetteNumberAndGazetteDate(String gazetteNumber, LocalDate gazetteDate);
+
 }
