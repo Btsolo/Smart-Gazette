@@ -955,4 +955,10 @@ public class GazetteService {
         Pageable pageable = PageRequest.of(pageNum - 1, pageSize);
         return gazetteRepository.findAllSuccessfulWithCorrectSorting(pageable);
     }
+
+    // --- NEW METHOD FOR CATEGORY PAGE ---
+    public Page<Gazette> listSuccessfulGazettesByCategory(String category, int pageNum, int pageSize) {
+        Pageable pageable = PageRequest.of(pageNum - 1, pageSize);
+        return gazetteRepository.findAllSuccessfulByCategory(category, pageable);
+    }
 }

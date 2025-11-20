@@ -83,14 +83,17 @@ public class GazetteController {
 
     @GetMapping("/categories")
     public String showCategoriesPage(Model model) {
-        // This is based on your new Figma design
+
         Map<String, String> categories = new LinkedHashMap<>();
-        categories.put("Legislation", "Info about legislation related notices");
-        categories.put("Land_Property", "Info about Land Property related notices");
-        categories.put("Appointments", "Info about Appointments related notices");
-        categories.put("Company_Registration", "Info about Company Registration related notices");
-        categories.put("Court_Legal", "Info about Court Legal related notices");
-        categories.put("Tenders", "Info about Tenders related notices");
+        categories.put("Appointments", "Public service appointments and board changes.");
+        categories.put("Legislation", "New acts, bills, and legislative supplements.");
+        categories.put("Tenders", "Procurement notices and invitations to tender.");
+        categories.put("Land_Property", "Land acquisition, disposal, and title deed notices.");
+        categories.put("Court_Legal", "Probate, administration, and other court notices.");
+        categories.put("Public_Service_HR", "Promotions, transfers, and HR notices.");
+        categories.put("Licensing", "Applications and grants for various licenses.");
+        categories.put("Company_Registrations", "Company incorporation and dissolution notices.");
+        categories.put("Miscellaneous", "Other public notices and general information.");
 
         model.addAttribute("categories", categories);
         return "categories";
@@ -393,5 +396,22 @@ public class GazetteController {
         scrapingService.runScraperManually();
         redirectAttributes.addFlashAttribute("message", "Scraper job started in the background. Refresh in a few minutes.");
         return "redirect:/admin/content";
+    }
+
+    // --- NEW ENDPOINT FOR CATEGORY PAGE ---
+    @GetMapping("/category/{categoryName}")
+    public String showCategoryPage(@PathVariable String categoryName,
+                                   @RequestParam(name = "page", defaultValue = "1") int pageNum,
+                                   Model model) {
+        int pageSize = 20; // Uses the same pagination as your homepage
+        Page<Gazette> page = gazetteService.listSuccessfulGazettesByCategory(categoryName, pageNum, pageSize);
+
+        model.addAttribute("gazettes", page.getContent());
+        model.addAttribute("currentPage", pageNum);
+        model.addAttribute("totalPages", page.getTotalPages());
+        model.addAttribute("totalItems", page.getTotalElements());
+        model.addAttribute("categoryName", categoryName.replace("_", " ")); // For the title
+
+        return "category-view"; // We will create this new HTML file
     }
 }

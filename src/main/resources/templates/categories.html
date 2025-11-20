@@ -7,7 +7,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
-        body { font-family: 'Inter', sans-serif; background-color: #FFFFFF; }
+        body { font-family: 'Inter', sans-serif; background-color: #F9FAFB; }
     </style>
 </head>
 <body class="text-gray-800">
@@ -16,43 +16,59 @@
 
     <header class="py-6 flex justify-between items-center border-b border-gray-200">
         <a th:href="@{/}" class="flex items-center gap-2">
-            <img th:src="@{/img/sg-logo.png}" alt="Smart Gazette Logo" class="h-12 w-12">
-            <span class="text-xl font-bold text-gray-900">SMART GAZETTE</span>
+            <div class="flex items-center gap-2">
+                <svg class="h-10 w-10 text-gray-800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M2.222 17.026l5.071 5.07c1.32.128 2.678-.204 3.738-.97L17.7 14.46a2 2 0 0 0 0-2.828l-.707-.707a2 2 0 0 0-2.828 0l-6.666 6.666a4.23 4.23 0 0 1-.97.74z"></path>
+                    <path d="M18.864 12.35a2 2 0 0 1 0-2.828l.707-.707a2 2 0 0 1 2.828 0l-6.666 6.666a2 2 0 0 1-2.828 0l-.707-.707a2 2 0 0 1 0-2.828l6.666-6.666z"></path>
+                    <path d="M10.116 11.218a2 2 0 0 1 2.828 0l.707.707a2 2 0 0 1 0 2.828l-6.666 6.666a2 2 0 0 1-2.828 0l-.707-.707a2 2 0 0 1 0-2.828l6.666-6.666z"></path>
+                    <path d="M2.43 14.192l-1.92 1.92a1 1 0 0 0 0 1.414l.706.708a1 1 0 0 0 1.414 0l1.92-1.92-2.12-2.122z"></path>
+                    <path d="M8.58 7.842l2.121-2.12a1 1 0 0 0 0-1.414l-.707-.708a1 1 0 0 0-1.414 0l-2.121 2.121 2.12 2.12zM12.44 3.98l-2.12 2.121 2.12 2.121 2.122-2.12a1 1 0 0 0 0-1.415l-.707-.707a1 1 0 0 0-1.414 0zM8.58 11.708l-2.12 2.121 2.12 2.121 2.121-2.12-2.12-2.12z"></path>
+                </svg>
+                <span class="text-xl font-bold text-gray-900">SMART GAZETTE</span>
+            </div>
         </a>
-        <nav class="hidden md:flex items-center space-x-10 text-sm font-semibold uppercase text-gray-600">
-            <a th:href="@{/}" class="hover:text-black transition-colors">Home</a>
-            <a th:href="@{/categories}" class="text-black">Categories</a>
-            <a th:href="@{/about}" class="hover:text-black transition-colors">About</a>
-            <a th:href="@{/about} + '#contact'" class="hover:text-black transition-colors">Contact Us</a>
+        <nav class="flex items-center justify-center flex-wrap mt-6 space-x-6 text-sm font-medium text-gray-600">
+            <a th:href="@{/}" class="text-blue-600 font-semibold py-1">Home</a>
+            <a th:href="@{/categories}" class="hover:text-blue-600 transition-colors py-1">Categories</a>
+            <a th:href="@{/about}" class="hover:text-blue-600 transition-colors py-1">About</a>
+            <a th:href="@{/about} + '#contact'" class="hover:text-blue-600 transition-colors py-1">Contact</a>
         </nav>
     </header>
 
     <main class="py-16">
+        <div class="text-center mb-12">
+            <h1 class="text-4xl font-extrabold text-gray-900">Explore by Category</h1>
+            <p class="mt-2 text-lg text-gray-600">Find the notices that matter most to you.</p>
+        </div>
+
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 
             <th:block th:with="colors = ${ {
-                'Legislation': 'bg-blue-600',
-                'Land_Property': 'bg-gray-700',
-                'Appointments': 'bg-blue-600',
-                'Company_Registration': 'bg-gray-700',
-                'Court_Legal': 'bg-blue-600',
-                'Tenders': 'bg-gray-700'
+                'Appointments': 'bg-green-500',
+                'Legislation': 'bg-gray-500',
+                'Tenders': 'bg-indigo-500',
+                'Land_Property': 'bg-teal-500',
+                'Court_Legal': 'bg-red-500',
+                'Public_Service_HR': 'bg-yellow-500',
+                'Licensing': 'bg-purple-500',
+                'Company_Registrations': 'bg-blue-500',
+                'Miscellaneous': 'bg-gray-500'
             } }">
 
-                <div th:each="category : ${categories.keySet()}"
-                     class="rounded-lg shadow-lg overflow-hidden text-white"
-                     th:classappend="${colors[category.replace(' ', '_')]} ?: 'bg-gray-600'">
-
-                    <a href="#" class="block p-6">
-                        <div class="flex items-center justify-center h-16 w-16 rounded-lg bg-black bg-opacity-20 mb-4">
-                            <svg class="h-8 w-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 12h6M7 8h6"></path></svg>
+                <div th:each="entry : ${categories}">
+                    <a th:href="@{/category/{name}(name=${entry.key})}" class="block bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden h-full">
+                        <div class="p-6">
+                            <div class="h-12 w-12 rounded-lg flex items-center justify-center mb-4"
+                                 th:classappend="${colors[entry.key]} ?: 'bg-gray-500'">
+                                <svg class="h-6 w-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 12h6M7 8h6"></path></svg>
+                            </div>
+                            <h3 class="text-xl font-bold text-gray-900 mb-2 leading-tight" th:text="${#strings.replace(entry.key, '_', ' ')}">
+                                Category Name
+                            </h3>
+                            <p class="text-gray-600 text-sm mb-4" th:text="${entry.value}">
+                                Category description placeholder.
+                            </p>
                         </div>
-                        <h3 class="text-2xl font-bold text-white mb-2" th:text="${#strings.replace(category, '_', ' ')}">
-                            Category Name
-                        </h3>
-                        <p class="text-blue-100 text-sm" th:text="${categories[category]}">
-                            Here we have information about...
-                        </p>
                     </a>
                 </div>
 

@@ -46,7 +46,7 @@
 <body class="bg-gray-100">
 
 <div class="flex h-screen bg-gray-50">
-    <aside id="sidebar" class="flex flex-col fixed inset-y-0 left-0 bg-white shadow-lg">
+    <aside id="sidebar" class="flex flex-col fixed inset-y-0 left-0 bg-white shadow-lg sidebar-collapsed">
         <div class="flex items-center justify-end h-16 px-6 flex-shrink-0">
             <button id="sidebar-toggle" class="p-1 rounded-md text-gray-500 hover:bg-gray-100 focus:outline-none">
             </button>
@@ -84,8 +84,16 @@
 
         <header class="flex justify-between items-center h-16 px-6 bg-white border-b border-gray-200">
             <div class="flex items-center gap-3">
-                <img th:src="@{/img/sg-logo.png}" alt="SG Logo" class="h-10 w-10">
-                <span class="text-lg font-bold text-gray-900">Smart Gazette</span>
+                <div class="flex items-center gap-2">
+                    <svg class="h-10 w-10 text-gray-800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M2.222 17.026l5.071 5.07c1.32.128 2.678-.204 3.738-.97L17.7 14.46a2 2 0 0 0 0-2.828l-.707-.707a2 2 0 0 0-2.828 0l-6.666 6.666a4.23 4.23 0 0 1-.97.74z"></path>
+                        <path d="M18.864 12.35a2 2 0 0 1 0-2.828l.707-.707a2 2 0 0 1 2.828 0l-6.666 6.666a2 2 0 0 1-2.828 0l-.707-.707a2 2 0 0 1 0-2.828l6.666-6.666z"></path>
+                        <path d="M10.116 11.218a2 2 0 0 1 2.828 0l.707.707a2 2 0 0 1 0 2.828l-6.666 6.666a2 2 0 0 1-2.828 0l-.707-.707a2 2 0 0 1 0-2.828l6.666-6.666z"></path>
+                        <path d="M2.43 14.192l-1.92 1.92a1 1 0 0 0 0 1.414l.706.708a1 1 0 0 0 1.414 0l1.92-1.92-2.12-2.122z"></path>
+                        <path d="M8.58 7.842l2.121-2.12a1 1 0 0 0 0-1.414l-.707-.708a1 1 0 0 0-1.414 0l-2.121 2.121 2.12 2.12zM12.44 3.98l-2.12 2.121 2.12 2.121 2.122-2.12a1 1 0 0 0 0-1.415l-.707-.707a1 1 0 0 0-1.414 0zM8.58 11.708l-2.12 2.121 2.12 2.121 2.121-2.12-2.12-2.12z"></path>
+                    </svg>
+                    <span class="text-xl font-bold text-gray-900">SMART GAZETTE</span>
+                </div>
             </div>
 
             <div class="flex items-center gap-4">
@@ -98,6 +106,13 @@
                     </button>
                 </div>
 
+                <a th:href="@{/}" target="_blank"
+                   class="flex items-center gap-2 text-sm font-medium text-gray-600 hover:text-blue-600 p-2 rounded-lg hover:bg-gray-100"
+                   title="Open Public Homepage">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                    <span class="hidden md:inline">View Site</span>
+                </a>
+                
                 <div class="flex items-center gap-3">
                     <img class="w-10 h-10 rounded-full" src="https://ui-avatars.com/api/?name=Busolo+Titus&background=4F46BA&color=fff" alt="User avatar">
                     <span class="text-sm font-medium text-gray-700">Busolo Titus</span>
@@ -122,7 +137,7 @@
     const expandIcon = `<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>`;
 
     // Set initial state
-    toggleBtn.innerHTML = collapseIcon;
+    toggleBtn.innerHTML = expandIcon;
 
     toggleBtn.addEventListener('click', function() {
         sidebar.classList.toggle('sidebar-collapsed');

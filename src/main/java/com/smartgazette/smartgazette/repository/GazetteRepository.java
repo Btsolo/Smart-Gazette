@@ -45,4 +45,7 @@ public interface GazetteRepository extends JpaRepository<Gazette, Long> {
     // !!! ADD THIS NEW, MORE PRECISE METHOD FOR THE SCRAPER !!!
     Optional<Gazette> findFirstByGazetteNumberAndGazetteDate(String gazetteNumber, LocalDate gazetteDate);
 
+    // --- NEW METHOD FOR CATEGORY PAGE ---
+    @Query("SELECT g FROM Gazette g WHERE g.category = ?1 AND g.status = 'SUCCESS' ORDER BY g.gazetteDate DESC, g.sourceOrder ASC, g.id ASC")
+    Page<Gazette> findAllSuccessfulByCategory(String category, Pageable pageable);
 }
