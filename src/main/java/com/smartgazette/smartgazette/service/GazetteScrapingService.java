@@ -41,17 +41,12 @@ public class GazetteScrapingService {
         this.gazetteRepository = gazetteRepository;
     }
 
-    /**
-     * This is the final, robust 2-STEP scraping method.
-     * 1. Scrapes listings page to find the latest gazette's "details page".
-     * 2. Scrapes the "details page" to find the real "Download PDF" link.
-     */
     @Scheduled(cron = "0 0 5 * * MON-FRI", zone = "Africa/Nairobi")
     public void scrapeForNewGazettes() {
         log.info("--- 🤖 STARTING SCHEDULED GAZETTE SCRAPE ---");
 
         int maxRetries = 3;
-        int retryDelay = 5000; // 5 seconds
+        int retryDelay = 5000;
 
         for (int attempt = 1; attempt <= maxRetries; attempt++) {
             try {
@@ -61,16 +56,15 @@ public class GazetteScrapingService {
                 String scrapeUrl = KENYA_LAW_GAZETTE_URL + currentYear;
                 log.info("Scraping URL: {}", scrapeUrl);
 
-                // --- STEP 1: Get the Main Listings Page ---
+                // Step 1: Get Listings Page
                 Document doc = Jsoup.connect(scrapeUrl)
-                        .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
-                        .header("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8")
+                        .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64)")
+                        .header("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
                         .referrer("https://www.google.com/")
                         .followRedirects(true)
-                        .timeout(60000) // 60 seconds
+                        .timeout(60000)
                         .get();
 
-                // Find the first link in the table (the one to the details page)
                 Element latestGazetteLink = doc.select("td.cell-title a[href^='/akn/ke/officialGazette/']").first();
 
                 if (latestGazetteLink == null) {
@@ -85,7 +79,6 @@ public class GazetteScrapingService {
                     }
                 }
 
-                // --- Extract Info (This is all working) ---
                 String detailsPageUrl = latestGazetteLink.attr("abs:href");
                 String linkText = latestGazetteLink.text();
                 String gazetteNumber = linkText.replace("Kenya Gazette ", "").trim();
@@ -93,7 +86,7 @@ public class GazetteScrapingService {
 
                 log.info("Found latest gazette: Number='{}', Date='{}', URL='{}'", gazetteNumber, gazetteDate, detailsPageUrl);
 
-                // --- Check for Duplicates (This is all working) ---
+                // Check duplicates
                 if (gazetteDate != null) {
                     Optional<Gazette> existing = gazetteRepository.findFirstByGazetteNumberAndGazetteDate(gazetteNumber, gazetteDate);
                     if (existing.isPresent()) {
@@ -103,16 +96,14 @@ public class GazetteScrapingService {
                     }
                 }
 
-                // --- STEP 2: Go to the Details Page to find the PDF link ---
+                // Step 2: Get Details Page
                 log.info("New gazette found! Navigating to details page: {}", detailsPageUrl);
                 Document detailsDoc = Jsoup.connect(detailsPageUrl)
                         .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64)")
-                        .referrer(scrapeUrl) // Act like we clicked the link
+                        .referrer(scrapeUrl)
                         .timeout(60000)
                         .get();
 
-                // --- THIS IS THE FINAL FIX (based on your HTML source) ---
-                // We are looking for the link with the text "Download PDF"
                 Element pdfLink = detailsDoc.select("a:contains(Download PDF)").first();
 
                 if (pdfLink == null) {
@@ -126,22 +117,20 @@ public class GazetteScrapingService {
                     return;
                 }
 
-                // The link should be .../eng@2025-11-07/source
                 String pdfUrl = pdfLink.attr("abs:href");
                 log.info("Found download URL: {}", pdfUrl);
 
-                // --- STEP 3: Download the PDF ---
+                // Step 3: Download PDF
                 log.info("Downloading PDF...");
                 Connection.Response pdfResponse = Jsoup.connect(pdfUrl)
                         .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64)")
-                        .referrer(detailsPageUrl) // Act like we clicked the download button
+                        .referrer(detailsPageUrl)
                         .ignoreContentType(true)
                         .followRedirects(true)
-                        .timeout(120000) // 2 minutes for large PDFs
+                        .timeout(120000)
                         .maxBodySize(0)
                         .execute();
 
-                // Check if the downloaded file is actually a PDF
                 String contentType = pdfResponse.contentType();
                 if (contentType == null || !contentType.contains("application/pdf")) {
                     log.error("Downloaded file is NOT a PDF! Content-Type: {}. Halting.", contentType);
@@ -152,19 +141,29 @@ public class GazetteScrapingService {
                 byte[] pdfBytes = pdfResponse.bodyAsBytes();
                 log.info("PDF downloaded successfully ({} bytes)", pdfBytes.length);
 
-                // --- STEP 4: Save to temp file and send to AI pipeline ---
-                Path tempPath = Files.createTempFile("scraped-gazette-", ".pdf");
-                File tempFile = tempPath.toFile();
+                // --- CRITICAL FIX: Save directly to PERMANENT storage ---
+                File storageDir = new File("storage/gazettes/");
+                if (!storageDir.exists()) {
+                    storageDir.mkdirs();
+                }
 
-                try (FileOutputStream out = new FileOutputStream(tempFile)) {
+                // Create a clean filename
+                String safeGazetteNumber = gazetteNumber.replaceAll("[^a-zA-Z0-9.-]", "_");
+                String fileName = safeGazetteNumber + "_" + (gazetteDate != null ? gazetteDate : "unknown_date") + ".pdf";
+                File destinationFile = new File(storageDir, fileName);
+
+                try (FileOutputStream out = new FileOutputStream(destinationFile)) {
                     out.write(pdfBytes);
                 }
 
-                log.info("Saved to temp file: {}", tempFile.getPath());
-                gazetteService.processAndSavePdf(tempFile);
+                String finalPdfPath = destinationFile.getAbsolutePath();
+                log.info("Saved PDF to permanent storage: {}", finalPdfPath);
+
+                // Pass the PERMANENT file to the service
+                gazetteService.processAndSavePdf(destinationFile, finalPdfPath);
 
                 log.info("--- 🤖 SCHEDULED SCRAPE FINISHED (SUCCESS) ---");
-                return; // Success - exit retry loop
+                return;
 
             } catch (IOException e) {
                 log.error("Scrape attempt {}/{} failed: {}", attempt, maxRetries, e.getMessage());
@@ -173,7 +172,7 @@ public class GazetteScrapingService {
                     log.info("Waiting {} seconds before retry...", retryDelay / 1000);
                     try {
                         Thread.sleep(retryDelay);
-                        retryDelay *= 2; // Exponential backoff (5s, 10s, 20s)
+                        retryDelay *= 2;
                     } catch (InterruptedException ie) {
                         Thread.currentThread().interrupt();
                         return;
@@ -190,39 +189,31 @@ public class GazetteScrapingService {
         log.info("--- 🤖 SCHEDULED SCRAPE FINISHED (FAILED) ---");
     }
 
-    /**
-     * Helper method to find the date in the same table row as the link
-     */
     private LocalDate findDateInTableRow(Element link) {
         try {
             Element row = link.closest("tr");
-            if (row == null) {
-                log.warn("Could not find parent <tr> for link. Cannot parse date.");
-                return null;
-            }
-
-            // Find the last 'td' (table data) element in that row
+            if (row == null) return null;
             Element dateCell = row.select("td").last();
-            String dateText = dateCell.text(); // e.g., "7 November 2025"
-
-            // Define the format of the date
+            String dateText = dateCell.text();
             DateTimeFormatter formatter = DateTimeFormatter.ofPattern("d MMMM yyyy", Locale.ENGLISH);
-
-            // Parse the date
             return LocalDate.parse(dateText, formatter);
-
         } catch (Exception e) {
-            log.warn("Could not parse date from table row (Text: '{}'). Error: {}", (link.closest("tr") != null ? link.closest("tr").text() : "N/A"), e.getMessage());
-            return null; // Return null if parsing fails
+            return null;
         }
     }
 
-    /**
-     * This is a helper method to allow you to manually test the scraper.
-     */
+    private String extractIdentifierFromUrl(String url) {
+        try {
+            String[] parts = url.split("/");
+            String fileName = parts[parts.length - 1];
+            return fileName.replace(".pdf", "");
+        } catch (Exception e) {
+            return url;
+        }
+    }
+
     public void runScraperManually() {
         log.info("--- 👨‍💻 MANUAL SCRAPE TRIGGERED ---");
-        // We run this in a new thread so it doesn't block the UI
         new Thread(this::scrapeForNewGazettes).start();
     }
 }

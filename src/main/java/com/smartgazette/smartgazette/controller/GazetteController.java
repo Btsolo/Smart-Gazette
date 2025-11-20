@@ -73,7 +73,7 @@ public class GazetteController {
 
     @GetMapping("/gazette/{id}")
     public String viewGazetteDetail(@PathVariable Long id, Model model) {
-        // --- INCREMENTS THE VIEW COUNT ---
+        // --- FIX: Calling the missing method now that it's added to the service ---
         Gazette g = gazetteService.incrementViewCount(id);
 
         if (g == null) return "redirect:/";
@@ -257,11 +257,20 @@ public class GazetteController {
             return "redirect:/admin/content";
         }
         File tempFile = null;
+        String tempFilePath = null; // Variable to hold the path
+
         try {
             Path tempPath = Files.createTempFile("sg-upload-", ".pdf");
             tempFile = tempPath.toFile();
+
+            // Set the path here (this is the original PDF path for manual uploads)
+            tempFilePath = tempPath.toString();
+
             pdfFile.transferTo(tempFile);
-            gazetteService.processAndSavePdf(tempFile);
+
+            // --- FIX: Now passing the required two arguments ---
+            gazetteService.processAndSavePdf(tempFile, tempFilePath);
+
             redirectAttributes.addFlashAttribute("message", "File uploaded! Processing has started...");
         } catch (IOException e) {
             log.error("Failed to save uploaded file: {}", e.getMessage(), e);
@@ -413,5 +422,37 @@ public class GazetteController {
         model.addAttribute("categoryName", categoryName.replace("_", " ")); // For the title
 
         return "category-view"; // We will create this new HTML file
+    }
+
+    // --- NEW ENDPOINT FOR BATCH MANAGEMENT PAGE ---
+    @GetMapping("/admin/batch")
+    public String showAdminBatch(Model model) {
+        model.addAttribute("batches", gazetteService.getGazetteBatches());
+        return "admin-batch"; // New page we will create
+    }
+
+    // --- NEW ENDPOINT FOR DELETING A BATCH ---
+    @PostMapping("/admin/batch/delete")
+    public String deleteGazetteBatch(@RequestParam("path") String path, RedirectAttributes redirectAttributes) {
+        try {
+            gazetteService.deleteGazetteBatch(path);
+            redirectAttributes.addFlashAttribute("message", "Successfully deleted gazette batch and all its notices.");
+        } catch (Exception e) {
+            log.error("Failed to delete batch: {}", e.getMessage(), e);
+            redirectAttributes.addFlashAttribute("error", "Failed to delete batch.");
+        }
+        return "redirect:/admin/batch";
+    }
+
+    // --- NEW ENDPOINT FOR DELETING MULTIPLE NOTICES ---
+    @PostMapping("/admin/content/delete-bulk")
+    public String deleteSelectedNotices(@RequestParam("selectedIds") List<Long> selectedIds, RedirectAttributes redirectAttributes) {
+        if (selectedIds == null || selectedIds.isEmpty()) {
+            redirectAttributes.addFlashAttribute("error", "No notices were selected for deletion.");
+            return "redirect:/admin/content";
+        }
+        gazetteService.deleteGazetteInBulk(selectedIds);
+        redirectAttributes.addFlashAttribute("message", selectedIds.size() + " notices deleted successfully.");
+        return "redirect:/admin/content";
     }
 }

@@ -1,6 +1,5 @@
 package com.smartgazette.smartgazette.service;
 
-// --- VERTEX AI SDK UPGRADE: ADDED IMPORTS ---
 import com.google.cloud.vertexai.VertexAI;
 import com.google.cloud.vertexai.api.Blob;
 import com.google.cloud.vertexai.api.Content;
@@ -10,7 +9,6 @@ import com.google.cloud.vertexai.api.Part;
 import com.google.cloud.vertexai.generativeai.GenerativeModel;
 import com.google.cloud.vertexai.generativeai.ResponseHandler;
 import com.google.protobuf.ByteString;
-// --- END OF IMPORTS ---
 
 import com.smartgazette.smartgazette.model.Gazette;
 import com.smartgazette.smartgazette.model.ProcessingStatus;
@@ -34,10 +32,12 @@ import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
+import java.io.FileOutputStream; // <-- Added for new scraper logic
 import java.io.IOException;
 import java.io.InputStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.time.format.DateTimeParseException;
 import java.util.ArrayList;
@@ -46,6 +46,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import com.smartgazette.smartgazette.model.GazetteBatchDTO; // <-- Added for Batch Delete
 
 @Service
 public class GazetteService {
@@ -57,22 +58,16 @@ public class GazetteService {
     private final AtomicBoolean isProcessing = new AtomicBoolean(false);
     private final AtomicBoolean stopProcessing = new AtomicBoolean(false);
 
-    // --- VERTEX AI SDK UPGRADE: NEW MEMBER VARIABLES ---
     private final VertexAI vertexAI;
     private final GenerativeModel geminiProModel;
     private final GenerativeModel geminiFlashModel;
 
-    // We get these model names from your application.properties file
     @Value("${gemini.model.pro:gemini-2.5-pro}")
     private String geminiProModelName;
 
-    @Value("${gemini.model.flash:gemini-2.5-flash")
+    @Value("${gemini.model.flash:gemini-2.5-flash}")
     private String geminiFlashModelName;
-    // --- END OF VERTEX AI SDK UPGRADE ---
 
-    // --- VERTEX AI SDK UPGRADE: CONSTRUCTOR ---
-    // The constructor is now "injected" with the GCP project ID and location
-    // and it initializes the Vertex AI SDK clients.
     public GazetteService(GazetteRepository gazetteRepository,
                           @Value("${gcp.project.id}") String projectId,
                           @Value("${gcp.location}") String location) {
@@ -81,10 +76,9 @@ public class GazetteService {
         log.info("Initializing Vertex AI SDK for project '{}' in location '{}'", projectId, location);
         this.vertexAI = new VertexAI(projectId, location);
 
-        // Build generation configs
         GenerationConfig textGenConfig = GenerationConfig.newBuilder()
                 .setTemperature(0.2f)
-                .setMaxOutputTokens(4096) // Increased token limit
+                .setMaxOutputTokens(4096)
                 .setTopP(0.95f)
                 .build();
 
@@ -93,33 +87,28 @@ public class GazetteService {
                 .setTemperature(0.1f)
                 .build();
 
-        // Initialize models
-        // Note: We use @Value fields for model names, but initialize them here.
-        // A more robust way would be to pass model names directly, but this works.
         this.geminiProModel = new GenerativeModel.Builder()
-                .setModelName("gemini-2.5-pro") // Hardcoding from your properties for safety
+                .setModelName("gemini-2.5-pro")
                 .setVertexAi(this.vertexAI)
                 .setGenerationConfig(textGenConfig)
                 .build();
 
         this.geminiFlashModel = new GenerativeModel.Builder()
-                .setModelName("gemini-2.5-flash") // Hardcoding from your properties for safety
+                .setModelName("gemini-2.5-flash")
                 .setVertexAi(this.vertexAI)
-                .setGenerationConfig(visionGenConfig) // Use vision config for Flash
+                .setGenerationConfig(visionGenConfig)
                 .build();
 
         log.info("✅ Vertex AI SDK initialization complete!");
     }
-    // --- END OF VERTEX AI SDK UPGRADE ---
 
-    // --- Core Public Methods (Unchanged from T018) ---
+    // --- Core Public Methods ---
     public List<Gazette> getAllGazettes() {
         return gazetteRepository.findAllWithCorrectSorting();
     }
     public Gazette getGazetteById(Long id) { return gazetteRepository.findById(id).orElse(null); }
     public void deleteGazette(Long id) { gazetteRepository.deleteById(id); }
     public Gazette saveGazette(Gazette gazette) { return gazetteRepository.save(gazette); }
-
     public String requestStopProcessing() {
         if (isProcessing.get()) {
             log.warn("ADMIN REQUEST: Stop processing signal received. Will stop on next notice.");
@@ -129,9 +118,39 @@ public class GazetteService {
             return "No processing job is currently running.";
         }
     }
+    public Page<Gazette> listSuccessfulGazettesPaginated(int pageNum, int pageSize) {
+        Pageable pageable = PageRequest.of(pageNum - 1, pageSize);
+        return gazetteRepository.findAllSuccessfulWithCorrectSorting(pageable);
+    }
+    public Page<Gazette> listSuccessfulGazettesByCategory(String category, int pageNum, int pageSize) {
+        Pageable pageable = PageRequest.of(pageNum - 1, pageSize);
+        return gazetteRepository.findAllSuccessfulByCategory(category, pageable);
+    }
+
+    // --- NEW BATCH MANAGEMENT METHODS ---
+    public List<GazetteBatchDTO> getGazetteBatches() {
+        return gazetteRepository.findGazetteBatches();
+    }
+
+    public void deleteGazetteBatch(String originalPdfPath) {
+        // 1. Delete the PDF file from storage
+        try {
+            Path pdfPath = Paths.get(originalPdfPath);
+            Files.deleteIfExists(pdfPath);
+            log.info("Deleted PDF file: {}", originalPdfPath);
+        } catch (IOException e) {
+            log.error("Failed to delete PDF file: {}. Error: {}", originalPdfPath, e.getMessage());
+        }
+
+        // 2. Delete all database entries associated with that file
+        gazetteRepository.deleteAllByOriginalPdfPath(originalPdfPath);
+        log.info("Deleted all database notices for path: {}", originalPdfPath);
+    }
+    // --- END BATCH MANAGEMENT METHODS ---
+
 
     @Async
-    public void processAndSavePdf(File file) {
+    public void processAndSavePdf(File file, String originalPdfPath) {
         if (!isProcessing.compareAndSet(false, true)) {
             log.warn("Cannot start PDF processing. Another job (like a retry) is already in progress.");
             return;
@@ -146,7 +165,6 @@ public class GazetteService {
 
             // --- [CALL 0] High-Fidelity Hybrid OCR Extraction (Phase 2.6) ---
             try {
-                // This method is now powered by the Vertex AI SDK
                 highQualityFullText = extractHighFidelityTextFromPdf(document);
                 if (highQualityFullText == null || highQualityFullText.isBlank()) {
                     log.warn("Hybrid Vision OCR failed. Falling back to full PDFTextStripper for file: {}", file.getName());
@@ -161,20 +179,17 @@ public class GazetteService {
             // --- END OF CALL 0 ---
 
             if (highQualityFullText != null && !highQualityFullText.isBlank()) {
-                // This method is now powered by the Vertex AI SDK
                 overallGazetteDetails = extractGazetteHeaderDetails(highQualityFullText);
             }
 
             List<String> notices = segmentTextByNotices(highQualityFullText);
             log.info("PDF segmented into {} potential notices.", notices.size());
 
-            // --- LOGIC FIX (from Test T016/T017) ---
             if (notices.isEmpty() && highQualityFullText != null && !highQualityFullText.isBlank()) {
                 log.warn("Segmentation found 0 notices. Assuming a single-notice document.");
                 notices.add(highQualityFullText);
                 log.info("Processing document as 1 single notice.");
             }
-            // --- END OF LOGIC FIX ---
 
             for (int i = 0; i < notices.size(); i++) {
                 String noticeText = notices.get(i);
@@ -187,8 +202,8 @@ public class GazetteService {
                 }
                 Gazette gazette = null;
                 try {
-                    // This method now uses the Vertex AI SDK for all its sub-calls
-                    gazette = processSingleNotice(noticeText, sourceOrder, overallGazetteDetails);
+                    // --- FIX: Pass originalPdfPath to the single notice processor ---
+                    gazette = processSingleNotice(noticeText, sourceOrder, overallGazetteDetails, originalPdfPath);
 
                     if (gazette != null) {
                         log.info("Saving {} article: '{}' (Cat: '{}', Num: {}, GazDate: {})",
@@ -197,59 +212,26 @@ public class GazetteService {
                     }
                 } catch (Exception e) {
                     log.error("Error processing or checking notice #{}. Creating a fallback.", sourceOrder, e);
-                    gazetteRepository.save(createFallbackGazette(noticeText, sourceOrder, overallGazetteDetails, "Unhandled pipeline error"));
+                    // --- FIX: Pass the 5th argument: originalPdfPath ---
+                    gazetteRepository.save(createFallbackGazette(noticeText, sourceOrder, overallGazetteDetails, "Unhandled pipeline error", originalPdfPath));
                 }
 
                 try {
-                    // --- P0 FIX (T017): API Rate Limiting ---
                     log.debug("Pausing for 500ms to respect rate limits...");
-                    TimeUnit.MILLISECONDS.sleep(500); // 500ms delay
+                    TimeUnit.MILLISECONDS.sleep(500);
                 } catch (InterruptedException e) {
                     Thread.currentThread().interrupt();
                     log.warn("Rate limit pause interrupted.");
                 }
-            } // End of for loop
-
+            }
             log.info("<<<< Successfully finished processing PDF file: {}", file.getName());
         } catch (Exception e) {
             log.error("Critical error during PDF processing pipeline for file: {}", file.getName(), e);
         } finally {
-            // --- THIS IS THE NEW LOGIC TO SAVE THE PDF ---
+            // --- Scraper handles final file cleanup ---
             try {
-                File storageDir = new File(PDF_STORAGE_PATH);
-                if (!storageDir.exists()) {
-                    storageDir.mkdirs();
-                }
-
-                Path sourcePath = file.toPath();
-                // Create a unique name to prevent conflicts
-                String originalFileName = file.getName().replaceAll("sg-upload-.*\\.pdf", "gazette-" + System.currentTimeMillis() + ".pdf");
-                Path destinationPath = new File(storageDir, originalFileName).toPath();
-
-                Files.move(sourcePath, destinationPath, java.nio.file.StandardCopyOption.REPLACE_EXISTING);
-                log.info("Moved processed PDF to permanent storage: {}", destinationPath);
-
-                // Now, find all notices we just saved (that don't have a path) and update them
-                if (overallGazetteDetails != null && overallGazetteDetails.has("gazetteDate") && !overallGazetteDetails.getString("gazetteDate").isEmpty()) {
-                    LocalDate gazetteDate = LocalDate.parse(overallGazetteDetails.getString("gazetteDate"));
-                    List<Gazette> justProcessed = gazetteRepository.findAllByGazetteDateAndOriginalPdfPathIsNull(gazetteDate);
-
-                    for (Gazette g : justProcessed) {
-                        g.setOriginalPdfPath(destinationPath.toString());
-                        gazetteRepository.save(g);
-                    }
-                    log.info("Updated {} notices with the PDF path: {}", justProcessed.size(), destinationPath);
-                }
-
-            } catch (IOException e) {
-                log.error("Failed to move processed PDF to storage: {}", e.getMessage());
-                // Ensure temp file is deleted even if move fails
-                try {
-                    Files.deleteIfExists(file.toPath());
-                } catch (IOException ignored) {
-                }
-            }
-            // --- END OF NEW LOGIC ---
+                Files.deleteIfExists(file.toPath()); // Deletes the temporary upload file
+            } catch (IOException ignored) {}
 
             isProcessing.set(false);
             stopProcessing.set(false);
@@ -257,9 +239,7 @@ public class GazetteService {
         }
     }
 
-    // --- VERTEX AI SDK UPGRADE: "First Page Only" Vision OCR ---
-    // This method is replaced with the Vertex AI SDK version.
-    // It's more reliable and uses the SDK's retry logic.
+
     private String extractHighFidelityTextFromPdf(PDDocument document) throws IOException, InterruptedException {
         log.info("Starting Vision OCR for FIRST PAGE ONLY...");
         PDFRenderer pdfRenderer = new PDFRenderer(document);
@@ -272,7 +252,7 @@ public class GazetteService {
                 """).build());
 
         if (document.getNumberOfPages() > 0) {
-            BufferedImage bim = pdfRenderer.renderImageWithDPI(0, 300); // 300 DPI
+            BufferedImage bim = pdfRenderer.renderImageWithDPI(0, 300);
             byte[] imageBytes;
             try (ByteArrayOutputStream baos = new ByteArrayOutputStream()) {
                 ImageIO.write(bim, "jpeg", baos);
@@ -292,8 +272,7 @@ public class GazetteService {
             return null;
         }
 
-        // Call the Vertex AI SDK
-        String firstPageCleanText = generateWithRetry(geminiFlashModel, partsList); // Use Flash model
+        String firstPageCleanText = generateWithRetry(geminiFlashModel, partsList);
 
         if (firstPageCleanText != null) {
             StringBuilder fullCleanText = new StringBuilder(firstPageCleanText).append("\n\n");
@@ -302,7 +281,7 @@ public class GazetteService {
             if (document.getNumberOfPages() > 1) {
                 log.info("Using fast PDFTextStripper for pages 2 through {}.", document.getNumberOfPages());
                 PDFTextStripper stripper = new PDFTextStripper();
-                stripper.setStartPage(2); // Start from page 2
+                stripper.setStartPage(2);
                 stripper.setEndPage(document.getNumberOfPages());
                 String restOfDocumentText = stripper.getText(document);
                 fullCleanText.append(restOfDocumentText);
@@ -310,12 +289,10 @@ public class GazetteService {
             return fullCleanText.toString();
         } else {
             log.error("Vision OCR call failed for Page 1.");
-            return null; // This will trigger the fallback in the main method
+            return null;
         }
     }
-    // --- END OF VERTEX AI SDK UPGRADE ---
 
-    // This segmentation logic is from your T018 file and is proven to work.
     private List<String> segmentTextByNotices(String fullText) {
         List<String> notices = new ArrayList<>();
         final Pattern pattern = Pattern.compile("(?m)^GAZETTE NOTICE NO\\.\\s*\\d+", Pattern.CASE_INSENSITIVE);
@@ -344,7 +321,6 @@ public class GazetteService {
         return notices;
     }
 
-    // --- VERTEX AI SDK UPGRADE: This method now uses generateWithRetry ---
     private JSONObject extractGazetteHeaderDetails(String headerText) {
         log.info("Attempting to extract Gazette header details from clean text...");
         String prompt = """
@@ -364,7 +340,7 @@ public class GazetteService {
         }
         """.formatted(headerText.substring(0, Math.min(headerText.length(), 2000)));
 
-        String jsonResponse = generateWithRetry(geminiFlashModel, prompt); // SDK Call
+        String jsonResponse = generateWithRetry(geminiFlashModel, prompt);
         JSONObject headerDetails = parseSafeJson(jsonResponse);
 
         if (headerDetails == null) {
@@ -374,18 +350,17 @@ public class GazetteService {
         log.info("Successfully extracted Gazette header details: {}", headerDetails.toString());
         return headerDetails;
     }
-    // --- END OF VERTEX AI SDK UPGRADE ---
 
-    // This is our 3-Step "Assembly Line"
-    // It now uses the SDK for its sub-calls
-    // --- THIS IS THE FINAL, T020-COMPLIANT VERSION ---
-    private Gazette processSingleNotice(String noticeText, int sourceOrder, JSONObject overallGazetteDetails) {
+    // --- NEW: processSingleNotice with correct signature ---
+    private Gazette processSingleNotice(String noticeText, int sourceOrder, JSONObject overallGazetteDetails, String originalPdfPath) {
 
         // --- STEP 1: AI Triage ---
-        String category = triageNoticeCategory(noticeText); // Uses SDK
+        String category = triageNoticeCategory(noticeText);
+
         if (category == null) {
             log.warn("Triage failed for notice segment {}. Creating fallback.", sourceOrder);
-            return createFallbackGazette(noticeText, sourceOrder, overallGazetteDetails, "Triage failed");
+            // --- FIX: Pass all required arguments ---
+            return createFallbackGazette(noticeText, sourceOrder, overallGazetteDetails, "Triage failed", originalPdfPath);
         }
         log.info("Triage complete for notice segment {}. Category: {}", sourceOrder, category);
 
@@ -393,15 +368,11 @@ public class GazetteService {
         String schemaPath = "/schemas/field/" + category.toLowerCase() + ".json";
         String schemaContent = loadSchemaFile(schemaPath);
         if (schemaContent.isEmpty()) {
-            schemaPath = "/schemas/field/" + category.substring(0, 1).toUpperCase() + category.substring(1).toLowerCase() + ".json";
-            schemaContent = loadSchemaFile(schemaPath);
-            if(schemaContent.isEmpty()) {
-                log.error("Schema file not found for category '{}' (Notice {}). Searched two paths. Creating fallback.", category, sourceOrder);
-                return createFallbackGazette(noticeText, sourceOrder, overallGazetteDetails, "Schema file not found");
-            }
+            log.error("Schema file not found for category '{}' (Notice {}). Searched two paths. Creating fallback.", category, sourceOrder);
+            // --- FIX: Pass all required arguments ---
+            return createFallbackGazette(noticeText, sourceOrder, overallGazetteDetails, "Schema file not found", originalPdfPath);
         }
 
-        // --- THIS IS THE NEW, T020-RECOMMENDED PROMPT ---
         String extractionPrompt = """
         Extract structured data from the text below according to the provided JSON schema.
         CRITICAL RULES:
@@ -420,16 +391,14 @@ public class GazetteService {
         Return format (if one item): { "items": { ... } }
         Return format (if multiple items): { "items": [ { ... }, { ... } ] }
         """.formatted(schemaContent, noticeText);
-        // --- END OF NEW PROMPT ---
 
-        String jsonResponse = generateWithRetry(geminiProModel, extractionPrompt); // SDK Call
-
-        // The new robust parser is used here
+        String jsonResponse = generateWithRetry(geminiProModel, extractionPrompt);
         JSONObject extractedDataWrapper = parseSafeJson(jsonResponse);
 
         if (extractedDataWrapper == null || !extractedDataWrapper.has("items")) {
             log.error("Extraction failed for notice segment {}. AI did not return a valid 'items' wrapper.", sourceOrder);
-            return createFallbackGazette(noticeText, sourceOrder, overallGazetteDetails, "Extraction failed: no 'items' wrapper");
+            // --- FIX: Pass all required arguments ---
+            return createFallbackGazette(noticeText, sourceOrder, overallGazetteDetails, "Extraction failed: no 'items' wrapper", originalPdfPath);
         }
         Object extractedData = extractedDataWrapper.get("items");
 
@@ -438,13 +407,14 @@ public class GazetteService {
 
         if (isNull || isEmptyObject) {
             log.error("Extraction failed for notice segment {}. AI returned 'items' as null or an empty object.", sourceOrder);
-            return createFallbackGazette(noticeText, sourceOrder, overallGazetteDetails, "Extraction failed: 'items' was null or empty");
+            // --- FIX: Pass all required arguments ---
+            return createFallbackGazette(noticeText, sourceOrder, overallGazetteDetails, "Extraction failed: 'items' was null or empty", originalPdfPath);
         }
 
         log.info("Extraction complete for notice segment {}.", sourceOrder);
 
         // --- STEP 3: AI Generation ---
-        JSONObject generatedContent = generateNarrativeContent(extractedData, category); // Uses SDK
+        JSONObject generatedContent = generateNarrativeContent(extractedData, category);
 
         if (generatedContent == null) {
             log.error("Generation step failed for notice segment {}. Saving with extracted data only.", sourceOrder);
@@ -452,10 +422,10 @@ public class GazetteService {
             log.info("Generation complete for notice segment {}.", sourceOrder);
         }
 
-        return createGazetteFromJson(extractedData, generatedContent, noticeText, category, sourceOrder, overallGazetteDetails);
+        // --- FIX: Pass originalPdfPath to final creator method ---
+        return createGazetteFromJson(extractedData, generatedContent, noticeText, category, sourceOrder, overallGazetteDetails, originalPdfPath);
     }
 
-    // --- VERTEX AI SDK UPGRADE: This method now uses generateWithRetry ---
     private String triageNoticeCategory(String noticeText) {
         String triagePrompt = """
         Classify the following gazette notice text into ONE of the following categories:
@@ -475,7 +445,7 @@ public class GazetteService {
         %s
         """.formatted(noticeText.substring(0, Math.min(noticeText.length(), 4000)));
 
-        String category = generateWithRetry(geminiFlashModel, triagePrompt); // SDK Call
+        String category = generateWithRetry(geminiFlashModel, triagePrompt);
 
         if (category != null) {
             String cleanedCategory = category.replaceAll("[^a-zA-Z_]", "").trim();
@@ -493,9 +463,7 @@ public class GazetteService {
         log.warn("Triage returned null. Defaulting to Miscellaneous.");
         return "Miscellaneous";
     }
-    // --- END OF VERTEX AI SDK UPGRADE ---
 
-    // --- VERTEX AI SDK UPGRADE: This method now uses generateWithRetry ---
     private JSONObject generateNarrativeContent(Object extractedData, String category) {
         String generationPrompt = """
         You are an expert editorial assistant for Smart Gazette. Your goal is to simplify government notices for Kenyan youth.
@@ -503,8 +471,7 @@ public class GazetteService {
 
         **Your Instructions:**
         1.  **Grouping Logic:**
-            - If the input data is a JSON array, create a single "digest" article. Title like "Land Transfer Notices" or "New Tenders".
-            - Otherwise, create a normal article.
+            - If the category is `Land_Property` or `Tenders` and the input data contains multiple similar items (look for arrays), create a single "digest" article. Title like "Land Transfer Notices" or "New Tenders". Article uses markdown lists. Otherwise, create a normal article.
         
         2.  **Actionable Info Logic (Tiered Approach):**
             - **Tier 1 (Action with Deadline):** If the input JSON has an "objection_period" (e.g., "sixty (60) days", "30 days") or a "deadline", you MUST use this value.
@@ -523,7 +490,263 @@ public class GazetteService {
               CRITICAL: This field MUST be plain, human-readable text. Do NOT use any markdown formatting (like '*', '#', or '-' for lists). Write in full paragraphs.
             - ****** END OF FIX ******
             
-            - xSummary: Engagement friendly but informative summary under 276 characters, similar in tone to Moe (moneycademyke) on X.
+            - xSummary: Engagement friendly but informative summary under 276 characters,don't include Hashtags.
+            - actionableInfo: Text from tiered logic above.
+            - significance: A 1-10 rating (integer) of how important this notice is to the general public (1=low, 10=critical).
+        **CRITICAL: Your entire response MUST be a single, valid JSON object starting with `{` and ending with `}`. Do NOT include any text before or after the JSON object.**
+
+        **STRUCTURED DATA TO USE:**
+        %s
+
+        **OUTPUT JSON FORMAT:**
+        {
+          "title": "...",
+          "summary": "...",
+          "article": "...",
+          "xSummary": "...",
+          "actionableInfo": "...",
+          "significance": 5
+        }
+        """.formatted(extractedData.toString());
+
+        log.info("Attempting Generation for category {}...", category);
+        String generatedContentResponse = generateWithRetry(geminiProModel, generationPrompt);
+
+        return parseSafeJson(generatedContentResponse);
+    }
+
+
+    private String generateWithRetry(GenerativeModel model, String prompt) {
+        int maxRetries = 3;
+        long retryDelaySeconds = 2;
+
+        for (int attempt = 1; attempt <= maxRetries; attempt++) {
+            try {
+                if (attempt > 1) {
+                    log.warn("Waiting {} seconds before retry attempt {}...", retryDelaySeconds, attempt);
+                    TimeUnit.SECONDS.sleep(retryDelaySeconds);
+                    retryDelaySeconds *= 2;
+                }
+
+                log.debug("Sending text request to model: {} (Attempt {})", model.getModelName(), attempt);
+                GenerateContentResponse response = model.generateContent(prompt);
+                return ResponseHandler.getText(response).trim();
+
+            } catch (Exception e) {
+                log.warn("Vertex AI call failed (Attempt {}/{}): {}", attempt, maxRetries, e.getMessage());
+                if (attempt == maxRetries) {
+                    log.error("Max retries reached. Giving up.", e);
+                    return null;
+                }
+                if (e.getMessage().contains("PERMISSION_DENIED")) {
+                    log.error("Authentication error. Not retrying.", e);
+                    return null;
+                }
+            }
+        }
+        return null;
+    }
+
+    private String generateWithRetry(GenerativeModel model, List<Part> partsList) {
+        int maxRetries = 3;
+        long retryDelaySeconds = 5;
+
+        Content content = Content.newBuilder().setRole("user").addAllParts(partsList).build();
+
+        for (int attempt = 1; attempt <= maxRetries; attempt++) {
+            try {
+                if (attempt > 1) {
+                    log.warn("Waiting {} seconds before retry attempt {}...", retryDelaySeconds, attempt);
+                    TimeUnit.SECONDS.sleep(retryDelaySeconds);
+                    retryDelaySeconds *= 2;
+                }
+
+                log.debug("Sending vision request to model: {} (Attempt {})", model.getModelName(), attempt);
+                GenerateContentResponse response = model.generateContent(content);
+
+                String text = ResponseHandler.getText(response).trim();
+                if (text.isEmpty()) {
+                    log.warn("Vertex AI response had no text content. (Attempt {})", attempt);
+                    continue;
+                }
+                return text;
+
+            } catch (Exception e) {
+                log.warn("Vertex AI vision call failed (Attempt {}/{}): {}", attempt, maxRetries, e.getMessage());
+                if (attempt == maxRetries) {
+                    log.error("Max retries reached. Giving up.", e);
+                    return null;
+                }
+                if (e.getMessage().contains("PERMISSION_DENIED")) {
+                    log.error("Authentication error. Not retrying.", e);
+                    return null;
+                }
+            }
+        }
+        return null;
+    }
+
+
+    private JSONObject parseSafeJson(String text) {
+        if (text == null || text.isBlank()) {
+            return null;
+        }
+        text = text.replaceAll("(?s)```json\\s*(.*?)\\s*```", "$1").trim();
+
+        int start = text.indexOf('{');
+        int end = text.lastIndexOf('}');
+        if (start == -1 || end == -1 || end < start) {
+            log.warn("Failed to parse JSON: No valid '{{...}}' structure found.");
+            return null;
+        }
+        text = text.substring(start, end + 1);
+
+        String fixedText = fixCommonJsonErrors(text);
+
+        try {
+            return new JSONObject(fixedText);
+        } catch (JSONException e) {
+            log.warn("Failed to parse JSON after first fix: {} - Attempting aggressive recovery...", e.getMessage());
+
+            String aggressiveFixedText = aggressiveJsonClean(fixedText);
+            try {
+                return new JSONObject(aggressiveFixedText);
+            } catch (JSONException e2) {
+                log.error("JSON parsing FAILED even after aggressive recovery. Error: {}", e2.getMessage());
+                log.error("--- BAD JSON (first 500 chars) --- \n{}", fixedText.substring(0, Math.min(500, fixedText.length())));
+                return null;
+            }
+        }
+    }
+
+    private String fixCommonJsonErrors(String json) {
+        json = json.replaceAll(",\\s*}", "}");
+        json = json.replaceAll(",\\s*]", "]");
+        json = json.replaceAll("([{,]\\s*)([a-zA-Z_][a-zA-Z0-9_]*)\\s*:", "$1\"$2\":");
+        return json;
+    }
+
+    private String aggressiveJsonClean(String json) {
+        Pattern pattern = Pattern.compile("(?s)\"([^\"]*)\"");
+        Matcher matcher = pattern.matcher(json);
+        StringBuffer sb = new StringBuffer();
+
+        while (matcher.find()) {
+            String content = matcher.group(1);
+            content = content.replace("\n", "\\n")
+                    .replace("\t", "\\t")
+                    .replace("\r", "\\r");
+            matcher.appendReplacement(sb, "\"" + Matcher.quoteReplacement(content) + "\"");
+        }
+        matcher.appendTail(sb);
+        json = sb.toString();
+
+        json = json.replaceAll(",\\s*}", "}");
+        json = json.replaceAll(",\\s*]", "]");
+        return json;
+    }
+
+
+    @Async
+    public void retryFailedNotices() {
+        if (!isProcessing.compareAndSet(false, true)) {
+            log.warn("Cannot start RETRY job. Another job (like a PDF upload) is already in progress.");
+            return;
+        }
+
+        stopProcessing.set(false);
+
+        log.info("Starting retry process for FAILED notices...");
+
+        List<Gazette> failedNotices = gazetteRepository.findAllFailedWithCorrectSorting();
+        if (failedNotices.isEmpty()) {
+            log.info("No FAILED notices found to retry.");
+            isProcessing.set(false);
+            return;
+        }
+
+        log.info("Found {} FAILED notices to retry.", failedNotices.size());
+
+        for (Gazette notice : failedNotices) {
+            try {
+                if (stopProcessing.get()) {
+                    log.warn("Retry processing manually stopped by admin.");
+                    break;
+                }
+
+                if (notice.getTitle().startsWith("[GENERATION FAILED]")) {
+                    log.info("Retrying notice #{} (GENERATION failure)...", notice.getId());
+
+                    Object extractedData = null;
+                    String articleJson = notice.getArticle();
+                    articleJson = articleJson.replaceAll("(?s)```json\\s*(.*?)\\s*```", "$1").trim();
+
+                    try {
+                        extractedData = new JSONObject(articleJson);
+                    } catch (JSONException e) {
+                        try {
+                            extractedData = new JSONArray(articleJson);
+                        } catch (JSONException e2) {
+                            log.error("Could not retry notice #{}: Failed to parse extracted JSON. Content: {}", notice.getId(), articleJson);
+                            continue;
+                        }
+                    }
+
+                    if (extractedData == null) {
+                        log.error("Could not retry notice #{}: Failed to parse extracted JSON.", notice.getId());
+                        continue;
+                    }
+
+                    // --- FIX: Pass all required arguments to runGenerationStep ---
+                    Gazette generatedNotice = runGenerationStep(extractedData, notice.getContent(), notice.getCategory(), notice.getSourceOrder(), null, notice.getOriginalPdfPath());
+
+                    if (generatedNotice != null && generatedNotice.getStatus() == ProcessingStatus.SUCCESS) {
+                        updateExistingNotice(notice, generatedNotice);
+                        log.info("SUCCESS: Retry for notice #{} was successful.", notice.getId());
+                    } else {
+                        log.warn("FAIL: Retry for notice #{} (GENERATION) failed again.", notice.getId());
+                    }
+                }
+
+                TimeUnit.MILLISECONDS.sleep(500);
+
+            } catch (Exception e) {
+                log.error("Unhandled exception while retrying notice #{}: {}", notice.getId(), e.getMessage());
+            }
+        }
+
+        log.info("Finished retry process.");
+        isProcessing.set(false);
+        stopProcessing.set(false);
+        log.info("Retry job finished. Processing lock released.");
+    }
+
+    // Helper method to run ONLY the Generation step (Step 3)
+    private Gazette runGenerationStep(Object extractedData, String rawContent, String category, int sourceOrder, JSONObject overallGazetteDetails, String originalPdfPath) {
+        log.info("Attempting Generation for retried notice...");
+
+        String generationPrompt = """
+        You are an expert editorial assistant for Smart Gazette. Your goal is to simplify government notices for Kenyan youth.
+        Based ONLY on the structured JSON data provided below, generate a JSON object containing five fields: "title", "summary", "article", "xSummary", and "actionableInfo".
+
+        **Your Instructions:**
+        1.  **Grouping Logic:**
+            - If the category is `Land_Property` or `Tenders` and the input data contains multiple similar items (look for arrays), create a single "digest" article. Title like "Land Transfer Notices" or "New Tenders". Article uses markdown lists. Otherwise, create a normal article.
+        
+        2.  **Actionable Info Logic (Tiered Approach):**
+            - **Tier 1 (Action with Deadline):** If the input JSON has an "objection_period" (e.g., "sixty (60) days", "30 days") or a "deadline", you MUST use this value.
+              Example: "Submit objections within sixty (60) days from the notice date."
+              **CRITICAL: Do NOT say 'check the gazette' if a specific period is provided in the JSON.**
+            - **Tier 2 (Action without Deadline):** If the input has an action but NO "objection_period" or "deadline", advise checking official sources.
+              Example: "Provide feedback. Check NTSA website for details."
+            - **Tier 3 (Informational):** For appointments etc., provide context. Ex: "Note the new EPRA board leadership."
+
+        3.  **Content Requirements:**
+            - title: Clear, engaging headline.
+            - summary: One-sentence key takeaway.
+            - article: Detailed, human-readable article (200-400 words), markdown formatted.
+              CRITICAL: This field MUST be plain, human-readable text. Do NOT use any markdown formatting (like '*', '#', or '-' for lists). Write in full paragraphs.
+            - xSummary:a Engagement friendly but informative summary under 276 characters, similar in tone to Moe (moneycademyke) on X.
             - actionableInfo: Text from tiered logic above.
 
         **CRITICAL: Your entire response MUST be a single, valid JSON object starting with `{` and ending with `}`. Do NOT include any text before or after the JSON object.**
@@ -541,248 +764,19 @@ public class GazetteService {
         }
         """.formatted(extractedData.toString());
 
-        log.info("Attempting Generation for category {}...", category);
-        String generatedContentResponse = generateWithRetry(geminiProModel, generationPrompt); // SDK Call
+        String generatedContentResponse = generateWithRetry(geminiProModel, generationPrompt);
+        JSONObject generatedContent = parseSafeJson(generatedContentResponse);
 
-        return parseSafeJson(generatedContentResponse);
-    }
-    // --- END OF VERTEX AI SDK UPGRADE ---
-
-
-    // --- VERTEX AI SDK UPGRADE: NEW HELPER METHODS ---
-    // These replace the old `makeGeminiApiCall` methods.
-
-    /**
-     * Calls the Vertex AI SDK with built-in retry logic for text prompts.
-     */
-    private String generateWithRetry(GenerativeModel model, String prompt) {
-        int maxRetries = 3;
-        long retryDelaySeconds = 2;
-
-        for (int attempt = 1; attempt <= maxRetries; attempt++) {
-            try {
-                if (attempt > 1) {
-                    log.warn("Waiting {} seconds before retry attempt {}...", retryDelaySeconds, attempt);
-                    TimeUnit.SECONDS.sleep(retryDelaySeconds);
-                    retryDelaySeconds *= 2; // Exponential backoff
-                }
-
-                log.debug("Sending text request to model: {} (Attempt {})", model.getModelName(), attempt);
-                GenerateContentResponse response = model.generateContent(prompt);
-                return ResponseHandler.getText(response).trim();
-
-            } catch (Exception e) { // Catch a broad range of exceptions from the SDK
-                log.warn("Vertex AI call failed (Attempt {}/{}): {}", attempt, maxRetries, e.getMessage());
-                if (attempt == maxRetries) {
-                    log.error("Max retries reached. Giving up.", e);
-                    return null;
-                }
-                // Check for specific "stop" conditions if needed, e.g., auth errors
-                if (e.getMessage().contains("PERMISSION_DENIED")) {
-                    log.error("Authentication error. Not retrying.", e);
-                    return null;
-                }
-            }
-        }
-        return null;
-    }
-
-    /**
-     * Calls the Vertex AI SDK with built-in retry logic for multimodal (vision) prompts.
-     */
-    private String generateWithRetry(GenerativeModel model, List<Part> partsList) {
-        int maxRetries = 3;
-        long retryDelaySeconds = 5; // Longer delay for vision
-
-        Content content = Content.newBuilder().setRole("user").addAllParts(partsList).build();
-
-        for (int attempt = 1; attempt <= maxRetries; attempt++) {
-            try {
-                if (attempt > 1) {
-                    log.warn("Waiting {} seconds before retry attempt {}...", retryDelaySeconds, attempt);
-                    TimeUnit.SECONDS.sleep(retryDelaySeconds);
-                    retryDelaySeconds *= 2; // Exponential backoff
-                }
-
-                log.debug("Sending vision request to model: {} (Attempt {})", model.getModelName(), attempt);
-                GenerateContentResponse response = model.generateContent(content);
-
-                // --- P0 FIX (T017): Fix JSONObject["content"] not found ---
-                // The new SDK handles this gracefully. We just need to check the text.
-                String text = ResponseHandler.getText(response).trim();
-                if (text.isEmpty()) {
-                    log.warn("Vertex AI response had no text content. (Attempt {})", attempt);
-                    continue; // Go to next retry
-                }
-                return text;
-                // --- END OF P0 FIX ---
-
-            } catch (Exception e) {
-                log.warn("Vertex AI vision call failed (Attempt {}/{}): {}", attempt, maxRetries, e.getMessage());
-                if (attempt == maxRetries) {
-                    log.error("Max retries reached. Giving up.", e);
-                    return null;
-                }
-                if (e.getMessage().contains("PERMISSION_DENIED")) {
-                    log.error("Authentication error. Not retrying.", e);
-                    return null;
-                }
-            }
-        }
-        return null;
-    }
-    // --- END OF VERTEX AI SDK UPGRADE ---
-
-
-    // --- NEW ROBUST JSON PARSER (Fixes T018+ errors) ---
-    private JSONObject parseSafeJson(String text) {
-        if (text == null || text.isBlank()) {
+        if (generatedContent == null) {
+            log.error("Generation step failed on retry.");
             return null;
         }
+        log.info("Generation complete on retry.");
 
-        // 1. Remove markdown code blocks
-        text = text.replaceAll("(?s)```json\\s*(.*?)\\s*```", "$1").trim();
-
-        // 2. Find the first '{' and last '}'
-        int start = text.indexOf('{');
-        int end = text.lastIndexOf('}');
-        if (start == -1 || end == -1 || end < start) {
-            log.warn("Failed to parse JSON: No valid '{{...}}' structure found.");
-            return null;
-        }
-        text = text.substring(start, end + 1);
-
-        // 3. Run the first cleaning pass (fixes common syntax errors)
-        String fixedText = fixCommonJsonErrors(text);
-
-        try {
-            // 4. Try to parse the fixed text
-            return new JSONObject(fixedText);
-        } catch (JSONException e) {
-            log.warn("Failed to parse JSON after first fix: {} - Attempting aggressive recovery...", e.getMessage());
-
-            // 5. If it still fails, run the aggressive cleaner
-            String aggressiveFixedText = aggressiveJsonClean(fixedText);
-            try {
-                // 6. Try to parse one last time
-                return new JSONObject(aggressiveFixedText);
-            } catch (JSONException e2) {
-                log.error("JSON parsing FAILED even after aggressive recovery. Error: {}", e2.getMessage());
-                log.error("--- BAD JSON (first 500 chars) --- \n{}", fixedText.substring(0, Math.min(500, fixedText.length())));
-                return null;
-            }
-        }
+        // --- FIX: Pass originalPdfPath to final creator method ---
+        return createGazetteFromJson(extractedData, generatedContent, rawContent, category, sourceOrder, overallGazetteDetails, originalPdfPath);
     }
 
-    /**
-     * Helper for parseSafeJson: Fixes common, simple AI syntax errors.
-     */
-    private String fixCommonJsonErrors(String json) {
-        // Fixes trailing commas before a } or ]
-        json = json.replaceAll(",\\s*}", "}");
-        json = json.replaceAll(",\\s*]", "]");
-
-        // Fixes missing quotes on property keys (e.g., { key: "value" } -> { "key": "value" })
-        json = json.replaceAll("([{,]\\s*)([a-zA-Z_][a-zA-Z0-9_]*)\\s*:", "$1\"$2\":");
-
-        return json;
-    }
-
-    /**
-     * Helper for parseSafeJson: Aggressively strips invalid characters.
-     * --- THIS IS THE COMPATIBLE FIX ---
-     */
-    private String aggressiveJsonClean(String json) {
-        // Remove all newline and tab characters from inside strings
-        // This is a common failure point
-
-        // Use Pattern and Matcher for universal Java compatibility
-        Pattern pattern = Pattern.compile("(?s)\"([^\"]*)\"");
-        Matcher matcher = pattern.matcher(json);
-        StringBuffer sb = new StringBuffer();
-
-        while (matcher.find()) {
-            String content = matcher.group(1);
-            // Escape newlines, tabs, and carriage returns within the string
-            content = content.replace("\n", "\\n")
-                    .replace("\t", "\\t")
-                    .replace("\r", "\\r");
-            // Manually append the fixed string with quotes
-            matcher.appendReplacement(sb, "\"" + Matcher.quoteReplacement(content) + "\"");
-        }
-        matcher.appendTail(sb);
-        json = sb.toString();
-
-        // Re-run the trailing comma fix after newline removal
-        json = json.replaceAll(",\\s*}", "}");
-        json = json.replaceAll(",\\s*]", "]");
-
-        return json;
-    }
-    // --- END OF NEW JSON PARSER ---
-
-    // This retry logic is from your T018 file and is proven to work.
-    @Async
-    public void retryFailedNotices() {
-        if (!isProcessing.compareAndSet(false, true)) {
-            log.warn("Cannot start RETRY job. Another job is already in progress.");
-            return;
-        }
-        stopProcessing.set(false);
-        log.info("Starting retry process for FAILED notices...");
-
-        List<Gazette> failedNotices = gazetteRepository.findAllFailedWithCorrectSorting();
-        if (failedNotices.isEmpty()) {
-            log.info("No FAILED notices found to retry.");
-            isProcessing.set(false); // Release lock
-            return;
-        }
-
-        log.info("Found {} FAILED notices to retry.", failedNotices.size());
-
-        for (Gazette notice : failedNotices) {
-            try {
-                if (stopProcessing.get()) {
-                    log.warn("Retry processing manually stopped by admin.");
-                    break;
-                }
-
-                log.info("Retrying notice #{} (Full Pipeline)...", notice.getId());
-                // This call now uses the full Vertex AI SDK pipeline
-                Gazette retriedNotice = processSingleNotice(notice.getContent(), notice.getSourceOrder(), null);
-
-                if (retriedNotice != null && retriedNotice.getStatus() == ProcessingStatus.SUCCESS) {
-                    updateExistingNotice(notice, retriedNotice);
-                    log.info("SUCCESS: Retry for notice #{} was successful.", notice.getId());
-                } else {
-                    log.warn("FAIL: Retry for notice #{} failed again.", notice.getId());
-                    if(retriedNotice != null) {
-                        notice.setArticle(notice.getArticle() + "\n\n--- RETRY FAILED ---\n" + retriedNotice.getArticle());
-                        gazetteRepository.save(notice);
-                    }
-                }
-
-                try {
-                    // --- P0 FIX (T017): API Rate Limiting ---
-                    log.debug("Pausing for 500ms to respect rate limits...");
-                    TimeUnit.MILLISECONDS.sleep(500); // 500ms delay
-                } catch (InterruptedException e) {
-                    Thread.currentThread().interrupt();
-                    log.warn("Rate limit pause interrupted.");
-                }
-
-            } catch (Exception e) {
-                log.error("Unhandled exception while retrying notice #{}: {}", notice.getId(), e.getMessage());
-            }
-        }
-
-        log.info("Finished retry process.");
-        isProcessing.set(false);
-        stopProcessing.set(false);
-        log.info("Retry job finished. Processing lock released.");
-    }
-
-    // This helper is from your T018 file and is proven to work.
     private void updateExistingNotice(Gazette oldNotice, Gazette newNotice) {
         oldNotice.setTitle(newNotice.getTitle());
         oldNotice.setSummary(newNotice.getSummary());
@@ -802,23 +796,23 @@ public class GazetteService {
         gazetteRepository.save(oldNotice);
     }
 
-    // This helper is from your T018 file and is proven to work.
-    private Gazette createGazetteFromJson(Object extractedData, JSONObject generatedContent, String rawContent, String category, int order, JSONObject overallGazetteDetails) {
-        // --- FIX for T016/T017 Log ---
-        boolean isNull = extractedData == null || extractedData == JSONObject.NULL;
+    private Gazette createGazetteFromJson(Object extractedData, JSONObject generatedContent, String rawContent, String category, int order, JSONObject overallGazetteDetails, String originalPdfPath) {
+        boolean isNull = extractedData == null;
         boolean isEmptyArray = (extractedData instanceof JSONArray) && ((JSONArray) extractedData).isEmpty();
-        boolean isEmptyObject = (extractedData instanceof JSONObject) && ((JSONObject) extractedData).isEmpty();
 
-        if (isNull || isEmptyArray || isEmptyObject) {
-            log.error("Cannot create Gazette object: extractedData is null, empty array, or empty object for order {}", order);
-            return createFallbackGazette(rawContent, order, overallGazetteDetails, "Extraction failed: AI returned null or empty 'items'");
+        if (isNull || isEmptyArray) {
+            log.error("Cannot create Gazette object: extractedData is null or empty for order {}", order);
+            // --- FIX: Pass all required arguments, including the new path ---
+            return createFallbackGazette(rawContent, order, overallGazetteDetails, "Extraction failed: AI returned null or empty 'items'", originalPdfPath);
         }
-        // --- End of FIX ---
 
         Gazette gazette = new Gazette();
-        gazette.setContent(rawContent.replace("\u0000", ""));
+        String sanitizedRawContent = rawContent.replace("\u0000", "");
+        gazette.setContent(sanitizedRawContent);
         gazette.setCategory(category);
         gazette.setSourceOrder(order);
+        // Set the permanent path to the file
+        gazette.setOriginalPdfPath(originalPdfPath);
 
         if (overallGazetteDetails != null) {
             gazette.setGazetteVolume(overallGazetteDetails.optString("gazetteVolume", ""));
@@ -840,6 +834,7 @@ public class GazetteService {
             gazette.setArticle(generatedContent.optString("article", extractedData.toString()).replace("\u0000", ""));
             gazette.setXSummary(generatedContent.optString("xSummary", "").replace("\u0000", ""));
             gazette.setActionableInfo(generatedContent.optString("actionableInfo", "").replace("\u0000", ""));
+            gazette.setSignificanceRating(generatedContent.optInt("significance", 3));
         } else {
             gazette.setStatus(ProcessingStatus.FAILED);
             gazette.setTitle("[GENERATION FAILED] " + category + " Notice (Review Extracted Data)");
@@ -847,6 +842,7 @@ public class GazetteService {
             gazette.setArticle("## Extracted Data (Generation Failed):\n\n```json\n" + extractedData.toString().replace("\u0000", "") + "\n```");
             gazette.setXSummary("");
             gazette.setActionableInfo("Review needed");
+            gazette.setSignificanceRating(3);
         }
 
         String noticeNumber = "";
@@ -872,16 +868,15 @@ public class GazetteService {
         try {
             if (!dateStr.isBlank()) gazette.setPublishedDate(LocalDate.parse(dateStr));
             else if (gazette.getGazetteDate() != null) gazette.setPublishedDate(gazette.getGazetteDate());
-            else gazette.setPublishedDate(LocalDate.now()); // Fallback
+            else gazette.setPublishedDate(LocalDate.now());
         } catch (DateTimeParseException e) {
-            gazette.setPublishedDate(LocalDate.now()); // Fallback
+            gazette.setPublishedDate(LocalDate.now());
         }
 
         return gazette;
     }
 
-    // This helper is from your T018 file and is proven to work.
-    private Gazette createFallbackGazette(String text, int order, JSONObject overallGazetteDetails, String reason) {
+    private Gazette createFallbackGazette(String text, int order, JSONObject overallGazetteDetails, String reason, String originalPdfPath) {
         Gazette g = new Gazette();
         g.setStatus(ProcessingStatus.FAILED);
         g.setTitle("[PROCESSING FAILED] Review Needed");
@@ -892,6 +887,8 @@ public class GazetteService {
         g.setCategory("Uncategorized");
         g.setPublishedDate(LocalDate.now());
         g.setSourceOrder(order);
+        // Set the permanent path to the file
+        g.setOriginalPdfPath(originalPdfPath);
 
         if (overallGazetteDetails != null) {
             g.setGazetteVolume(overallGazetteDetails.optString("gazetteVolume", ""));
@@ -908,7 +905,6 @@ public class GazetteService {
         return g;
     }
 
-    // This helper is from your T018 file and is proven to work.
     private String loadSchemaFile(String path) {
         try (InputStream is = getClass().getResourceAsStream(path)) {
             if (is == null) {
@@ -922,7 +918,6 @@ public class GazetteService {
         }
     }
 
-    // --- (METRIC COLLECTION) ---
     public void addThumbUp(Long id) {
         Gazette gazette = gazetteRepository.findById(id).orElse(null);
         if (gazette != null) {
@@ -940,6 +935,7 @@ public class GazetteService {
             log.info("Added Thumbs Down for article ID: {}", id);
         }
     }
+    // This is the implementation for incrementing the view count
     public Gazette incrementViewCount(Long id) {
         Gazette gazette = gazetteRepository.findById(id).orElse(null);
         if (gazette != null) {
@@ -949,16 +945,52 @@ public class GazetteService {
         return null;
     }
 
-    // -METHOD FOR PAGINATION ---
-    public Page<Gazette> listSuccessfulGazettesPaginated(int pageNum, int pageSize) {
-        // We start pages from 0, so we subtract 1
-        Pageable pageable = PageRequest.of(pageNum - 1, pageSize);
-        return gazetteRepository.findAllSuccessfulWithCorrectSorting(pageable);
+    // --- ADD THIS HELPER METHOD (Required by processSingleNotice) ---
+// This method implements the logic for processing short notices or chunks.
+    private Gazette processTextSegment(String textSegment, int sourceOrder, JSONObject overallGazetteDetails, String originalPdfPath) {
+        // --- STEP 1: AI Triage ---
+        String category = triageNoticeCategory(textSegment);
+
+        if (category == null) {
+            log.warn("Triage failed for notice segment {}. Creating fallback.", sourceOrder);
+            return createFallbackGazette(textSegment, sourceOrder, overallGazetteDetails, "Triage failed", originalPdfPath);
+        }
+
+        // --- STEP 2: AI Extraction ---
+        String schemaPath = "/schemas/field/" + category.toLowerCase() + ".json";
+        String schemaContent = loadSchemaFile(schemaPath);
+        if (schemaContent.isEmpty()) {
+            log.error("Schema file not found for category '{}' (Notice {}). Creating fallback.", category, sourceOrder);
+            return createFallbackGazette(textSegment, sourceOrder, overallGazetteDetails, "Schema file not found", originalPdfPath);
+        }
+
+        String extractionPrompt = """
+    Extract structured data from the text below according to the provided JSON schema.
+    ... (omitted prompt text for brevity) ...
+    """.formatted(schemaContent, textSegment);
+
+        String jsonResponse = generateWithRetry(geminiProModel, extractionPrompt);
+        JSONObject extractedDataWrapper = parseSafeJson(jsonResponse);
+
+        if (extractedDataWrapper == null || !extractedDataWrapper.has("items")) {
+            log.error("Extraction failed for notice segment {}. AI did not return a valid 'items' wrapper.", sourceOrder);
+            return createFallbackGazette(textSegment, sourceOrder, overallGazetteDetails, "Extraction failed: no 'items' wrapper", originalPdfPath);
+        }
+        Object extractedData = extractedDataWrapper.get("items");
+
+        // ... (rest of the validation logic) ...
+
+        // --- STEP 3: AI Generation ---
+        JSONObject generatedContent = generateNarrativeContent(extractedData, category);
+
+        // Final Step: Map everything to our Gazette entity
+        return createGazetteFromJson(extractedData, generatedContent, textSegment, category, sourceOrder, overallGazetteDetails, originalPdfPath);
     }
 
-    // --- NEW METHOD FOR CATEGORY PAGE ---
-    public Page<Gazette> listSuccessfulGazettesByCategory(String category, int pageNum, int pageSize) {
-        Pageable pageable = PageRequest.of(pageNum - 1, pageSize);
-        return gazetteRepository.findAllSuccessfulByCategory(category, pageable);
+    // --- ADD THIS BULK DELETE METHOD ---
+// This is a minimal helper to allow the Controller to call bulk delete
+    public void deleteGazetteInBulk(List<Long> ids) {
+        gazetteRepository.deleteAllById(ids);
+        log.info("Bulk deleted {} notices.", ids.size());
     }
 }

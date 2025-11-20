@@ -73,6 +73,9 @@ public class Gazette {
     @Column(nullable = false, columnDefinition = "integer default 0")
     private int viewCount = 0;
 
+    @Column(nullable = false, columnDefinition = "integer default 0")
+    private int significanceRating = 0;
+
     // --- Constructors ---
 
     // No-argument constructor (required by JPA)
@@ -278,4 +281,8 @@ public class Gazette {
     public int getViewCount() { return viewCount; }
 
     public void setViewCount(int viewCount) { this.viewCount = viewCount; }
+
+    public int getSignificanceRating() { return significanceRating; }
+
+    public void setSignificanceRating(int significanceRating) { this.significanceRating = significanceRating;  }
 }
