@@ -30,11 +30,7 @@ import org.springframework.data.domain.Pageable;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
-import java.io.ByteArrayOutputStream;
-import java.io.File;
-import java.io.FileOutputStream; // <-- Added for new scraper logic
-import java.io.IOException;
-import java.io.InputStream;
+import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -61,6 +57,8 @@ public class GazetteService {
     private final VertexAI vertexAI;
     private final GenerativeModel geminiProModel;
     private final GenerativeModel geminiFlashModel;
+    private final IftttWebhookService iftttWebhookService;
+    private final ExcelExportService excelExportService;
 
     @Value("${gemini.model.pro:gemini-2.5-pro}")
     private String geminiProModelName;
@@ -69,9 +67,13 @@ public class GazetteService {
     private String geminiFlashModelName;
 
     public GazetteService(GazetteRepository gazetteRepository,
+                          IftttWebhookService iftttWebhookService,
+                          ExcelExportService excelExportService, // <-- ADD PARAM
                           @Value("${gcp.project.id}") String projectId,
                           @Value("${gcp.location}") String location) {
         this.gazetteRepository = gazetteRepository;
+        this.iftttWebhookService = iftttWebhookService;
+        this.excelExportService = excelExportService;
 
         log.info("Initializing Vertex AI SDK for project '{}' in location '{}'", projectId, location);
         this.vertexAI = new VertexAI(projectId, location);
@@ -811,7 +813,6 @@ public class GazetteService {
         gazette.setContent(sanitizedRawContent);
         gazette.setCategory(category);
         gazette.setSourceOrder(order);
-        // Set the permanent path to the file
         gazette.setOriginalPdfPath(originalPdfPath);
 
         if (overallGazetteDetails != null) {
@@ -862,6 +863,16 @@ public class GazetteService {
             }
         }
 
+        if (noticeNumber.isEmpty()) {
+            // Look for pattern "GAZETTE NOTICE NO. 1234" in the raw text
+            Pattern p = Pattern.compile("GAZETTE NOTICE NO\\.\\s*(\\d+)", Pattern.CASE_INSENSITIVE);
+            Matcher m = p.matcher(rawContent);
+            if (m.find()) {
+                noticeNumber = m.group(1); // Capture just the digits
+                log.info("Recovered missing notice number using Regex: {}", noticeNumber);
+            }
+        }
+
         gazette.setNoticeNumber(noticeNumber.replace("\u0000", ""));
         gazette.setSignatory(signatory.replace("\u0000", ""));
 
@@ -871,6 +882,12 @@ public class GazetteService {
             else gazette.setPublishedDate(LocalDate.now());
         } catch (DateTimeParseException e) {
             gazette.setPublishedDate(LocalDate.now());
+        }
+
+        // --- IMPLEMENT AUTONOMOUS POSTING ---
+        if (gazette.getStatus() == ProcessingStatus.SUCCESS && gazette.getSignificanceRating() >= 8) {
+            log.info("Autonomous Posting: Notice #{} has High Significance ({}). Posting to X...", gazette.getId(), gazette.getSignificanceRating());
+            iftttWebhookService.postTweet(gazette.getXSummary());
         }
 
         return gazette;
@@ -987,10 +1004,16 @@ public class GazetteService {
         return createGazetteFromJson(extractedData, generatedContent, textSegment, category, sourceOrder, overallGazetteDetails, originalPdfPath);
     }
 
-    // --- ADD THIS BULK DELETE METHOD ---
+    // --- BULK DELETE METHOD ---
 // This is a minimal helper to allow the Controller to call bulk delete
     public void deleteGazetteInBulk(List<Long> ids) {
         gazetteRepository.deleteAllById(ids);
         log.info("Bulk deleted {} notices.", ids.size());
+    }
+    // --- Export Batch to Excel Stream ---
+    public ByteArrayInputStream exportBatchToExcel(String originalPdfPath) {
+        List<Gazette> batchNotices = gazetteRepository.findAllByOriginalPdfPath(originalPdfPath);
+        log.info("Exporting batch for path: {}. Found {} notices.", originalPdfPath, batchNotices.size());
+        return excelExportService.generateExcelReport(batchNotices);
     }
 }

@@ -3,15 +3,56 @@
       th:replace="~{admin-layout :: layout(title='Settings', content=~{::content}, activePage='settings')}">
 
 <th:block th:fragment="content">
-    <div class="bg-white p-6 rounded-lg shadow-md">
-        <h3 class="text-lg font-semibold text-gray-900 mb-4">Settings</h3>
-        <p class="text-gray-600">This page is a placeholder for future settings, such as:</p>
-        <ul class="list-disc list-inside mt-4 text-gray-600">
-            <li>API Key Management</li>
-            <li>User Accounts (Spring Security)</li>
-            <li>Notification Preferences</li>
-        </ul>
+    <div class="max-w-4xl mx-auto space-y-6">
+
+        <div class="bg-white rounded-lg shadow-md overflow-hidden">
+            <div class="p-6 border-b border-gray-200">
+                <h2 class="text-lg font-medium text-gray-900">Admin Profile</h2>
+                <p class="mt-1 text-sm text-gray-500">Manage your account information.</p>
+            </div>
+            <div class="p-6 flex items-center gap-6">
+                <img class="h-20 w-20 rounded-full" src="https://ui-avatars.com/api/?name=Busolo+Titus&background=4F46BA&color=fff&size=128" alt="">
+                <div class="space-y-1">
+                    <h3 class="text-lg font-medium text-gray-900">Busolo Titus</h3>
+                    <p class="text-sm text-gray-500">Super Admin</p>
+                    <p class="text-sm text-gray-500">admin@smartgazette.ke</p>
+                </div>
+                <div class="ml-auto">
+                    <button class="px-4 py-2 border border-gray-300 rounded-md text-sm font-medium text-gray-700 hover:bg-gray-50">Edit Profile</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="bg-white rounded-lg shadow-md overflow-hidden">
+            <div class="p-6 border-b border-gray-200">
+                <h2 class="text-lg font-medium text-gray-900">System Automation</h2>
+                <p class="mt-1 text-sm text-gray-500">Configure AI autonomous behavior.</p>
+            </div>
+            <div class="p-6 space-y-6">
+                <div class="flex items-center justify-between">
+                    <div>
+                        <h3 class="text-sm font-medium text-gray-900">Autonomous Social Posting</h3>
+                        <p class="text-sm text-gray-500">Automatically post notices with High Significance (>8) to X.</p>
+                    </div>
+                    <button type="button" class="bg-gray-200 relative inline-flex h-6 w-11 flex-shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none focus:ring-2 focus:ring-indigo-600 focus:ring-offset-2" role="switch" aria-checked="false">
+                        <span aria-hidden="true" class="translate-x-0 pointer-events-none inline-block h-5 w-5 transform rounded-full bg-white shadow ring-0 transition duration-200 ease-in-out"></span>
+                    </button>
+                </div>
+                <div class="flex items-center justify-between">
+                    <div>
+                        <h3 class="text-sm font-medium text-gray-900">Daily Scraper Schedule</h3>
+                        <p class="text-sm text-gray-500">Run scraper automatically at 5:00 AM (EAT).</p>
+                    </div>
+                    <button type="button" class="bg-indigo-600 relative inline-flex h-6 w-11 flex-shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none focus:ring-2 focus:ring-indigo-600 focus:ring-offset-2" role="switch" aria-checked="true">
+                        <span aria-hidden="true" class="translate-x-5 pointer-events-none inline-block h-5 w-5 transform rounded-full bg-white shadow ring-0 transition duration-200 ease-in-out"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="px-6 py-3 bg-gray-50 text-right">
+                <button type="submit" class="inline-flex justify-center rounded-md border border-transparent bg-indigo-600 py-2 px-4 text-sm font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none">Save Settings</button>
+            </div>
+        </div>
+
     </div>
 </th:block>
-
 </html>

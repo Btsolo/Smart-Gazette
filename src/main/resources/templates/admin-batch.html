@@ -34,10 +34,21 @@
                         <span th:if="${batch.failedCount == 0}" class="text-green-600" th:text="${batch.failedCount}">0</span>
                     </td>
                     <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
-                        <form th:action="@{/admin/batch/delete}" method="post" onsubmit="return confirm('WARNING: Are you sure you want to delete this entire batch (' + [[${batch.gazetteNumber}]] + ') and all ' + [[${batch.noticeCount}]] + ' associated notices? This cannot be undone.')">
-                            <input type="hidden" name="path" th:value="${batch.originalPdfPath}" />
-                            <button type="submit" class="text-red-600 hover:text-red-900">Delete Batch</button>
-                        </form>
+                        <div class="flex justify-end gap-2">
+                            <form th:action="@{/admin/batch/export}" method="post" target="_blank">
+                                <input type="hidden" name="path" th:value="${batch.originalPdfPath}" />
+                                <button type="submit" class="text-blue-600 hover:text-blue-900 bg-blue-50 px-3 py-1 rounded hover:bg-blue-100 border border-blue-200">
+                                    Export
+                                </button>
+                            </form>
+
+                            <form th:action="@{/admin/batch/delete}" method="post" onsubmit="return confirm('WARNING: Delete this entire batch?')">
+                                <input type="hidden" name="path" th:value="${batch.originalPdfPath}" />
+                                <button type="submit" class="text-red-600 hover:text-red-900 bg-red-50 px-3 py-1 rounded hover:bg-red-100 border border-red-200">
+                                    Delete
+                                </button>
+                            </form>
+                        </div>
                     </td>
                 </tr>
                 <tr th:if="${#lists.isEmpty(batches)}">

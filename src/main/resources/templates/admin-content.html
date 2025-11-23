@@ -15,34 +15,33 @@
 
         <div class="flex items-center gap-2 md:gap-3">
 
-            <a th:href="@{/admin/export/excel}" title="Export All (Excel)"
-               class="flex items-center text-sm font-medium text-gray-700 bg-white p-2 md:px-3 md:py-1.5 border border-gray-300 rounded-md shadow-sm hover:bg-gray-50">
-                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
-                <span class="hidden md:inline ml-2">Export All</span>
+            <a th:href="@{/admin/batch}" title="View Batch Management Page"
+               class="flex items-center text-sm font-medium text-gray-700 bg-gray-100 p-2 md:px-3 md:py-1.5 border border-gray-300 rounded-md shadow-sm hover:bg-gray-200">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M5 7h14"></path></svg>
+                <span class="hidden md:inline ml-2">Batches</span>
             </a>
 
-            <a th:href="@{/admin/retry-failed}" title="Retry All FAILED"
+            <a th:href="@{/admin/export/excel}" title="Export All Data to Excel"
+               class="flex items-center text-sm font-medium text-gray-700 bg-white p-2 md:px-3 md:py-1.5 border border-gray-300 rounded-md shadow-sm hover:bg-gray-50">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+                <span class="hidden md:inline ml-2">Export</span>
+            </a>
+
+            <a th:href="@{/admin/retry-failed}" title="Retry Processing for Failed Notices"
                class="flex items-center text-sm font-medium text-yellow-600 p-2 md:px-3 md:py-1.5 border border-yellow-300 rounded-md shadow-sm bg-yellow-50 hover:bg-yellow-100"
                onclick="return confirm('This will attempt to re-process all FAILED notices. This may take time. Continue?')">
                 <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m-15.357-2a8.001 8.001 0 0015.357 2m0 0H15"></path></svg>
-                <span class="hidden md:inline ml-2">Retry All</span>
+                <span class="hidden md:inline ml-2">Retry</span>
             </a>
 
-            <a th:href="@{/admin/stop-processing}" title="Stop Processing"
+            <a th:href="@{/admin/stop-processing}" title="Stop Current Processing Job"
                class="flex items-center text-sm font-medium bg-red-600 text-white p-2 md:px-3 md:py-1.5 rounded-md hover:bg-red-700"
-               onclick="return confirm('Are you sure you want to stop any active processing? The job will stop after the current notice is finished.')">
+               onclick="return confirm('Are you sure you want to stop? The job will stop after the current notice.')">
                 <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636"></path></svg>
                 <span class="hidden md:inline ml-2">Stop</span>
             </a>
 
-            <a th:href="@{/admin/run-scraper}" title="Run Scraper Now"
-               class="flex items-center text-sm font-medium text-white bg-green-600 p-2 md:px-3 md:py-1.5 rounded-md shadow-sm hover:bg-green-700"
-               onclick="return confirm('This will check Kenya Law for a new gazette and process it. Continue?')">
-                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0zM10 7v3m0 0v3m0-3h3m-3 0H7"></path></svg>
-                <span class="hidden md:inline ml-2">Check for New</span>
-            </a>
-
-            <a th:href="@{/add}" title="Add New Gazette"
+            <a th:href="@{/add}" title="Manually Upload Gazette PDF"
                class="flex items-center bg-blue-600 text-white p-2 md:px-4 md:py-2 rounded-md hover:bg-blue-700 text-sm font-medium">
                 <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path></svg>
                 <span class="hidden md:inline ml-2">Add New</span>
@@ -58,18 +57,13 @@
                 <span class="text-sm font-medium text-gray-700">
                     <span id="selected-count">0</span> selected
                 </span>
-
-                    <button id="bulk-post-btn" type="button" class="flex items-center gap-2 text-sm font-medium text-gray-500 px-3 py-1.5 border border-gray-300 rounded-md shadow-sm hover:bg-gray-50 opacity-50 cursor-not-allowed" disabled>
-                        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 16 16"><path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.602.75zM10.454 13.5h1.17l-6.61-7.54H3.74l6.715 7.54z"/></svg>
-                        Post to X
-                    </button>
-                    <button id="bulk-delete-btn" type="submit" class="flex items-center gap-2 text-sm font-medium text-red-600 px-3 py-1.5 border border-red-300 rounded-md shadow-sm bg-red-50 hover:bg-red-100 opacity-50 cursor-not-allowed" disabled>
+                    <button id="bulk-delete-btn" type="submit" class="flex items-center gap-2 text-sm font-medium text-red-600 px-3 py-1.5 border border-red-300 rounded-md shadow-sm bg-red-50 hover:bg-red-100 opacity-50 cursor-not-allowed" disabled title="Delete Selected Items">
                         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
-                        Delete
+                        Delete Selected
                     </button>
                 </div>
                 <div class="text-sm text-gray-500">
-                    Filters (coming soon)
+                    Filters coming soon
                 </div>
             </div>
 
@@ -82,9 +76,11 @@
                         </th>
                         <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">ID</th>
                         <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Title</th>
-                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Notice #</th> <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Category</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Notice #</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Category</th>
                         <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Status</th>
-                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Signif.</th> <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Gazette Date</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider" title="AI Significance Rating (1-10)">Signif.</th>
+                        <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Gazette Date (Official)</th>
                         <th class="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
                     </tr>
                     </thead>
@@ -94,31 +90,37 @@
                             <input type="checkbox" name="selectedIds" class="rounded border-gray-300 item-checkbox" th:value="${gazette.id}">
                         </td>
                         <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900" th:text="${gazette.id}"></td>
+
                         <td class="px-6 py-4 max-w-xs truncate text-sm text-gray-900 font-medium">
                             <a th:href="@{/gazette/{id}(id=${gazette.id})}" class="hover:text-blue-600" th:title="${gazette.title}" th:text="${gazette.title}"></a>
                         </td>
-                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500" th:text="${gazette.noticeNumber}"></td> <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-700 font-medium" th:text="${#strings.replace(gazette.category, '_', ' ')}"></td>
+                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500" th:text="${gazette.noticeNumber}"></td>
+                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-700 font-medium" th:text="${#strings.replace(gazette.category, '_', ' ')}"></td>
                         <td class="px-6 py-4 whitespace-nowrap">
                             <span th:if="${gazette.status.name() == 'SUCCESS'}" class="px-2.5 py-0.5 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">Success</span>
                             <span th:if="${gazette.status.name() == 'FAILED'}" class="px-2.5 py-0.5 inline-flex text-xs leading-5 font-semibold rounded-full bg-red-100 text-red-800">Failed</span>
                         </td>
-                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900 font-bold" th:text="${gazette.significanceRating}"></td> <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-600" th:text="${gazette.gazetteDate != null ? #temporals.format(gazette.gazetteDate, 'yyyy-MM-dd') : 'N/A'}"></td>
+                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900 font-bold text-center" th:text="${gazette.significanceRating}"></td>
+                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-600" th:text="${gazette.gazetteDate != null ? #temporals.format(gazette.gazetteDate, 'yyyy-MM-dd') : 'N/A'}"></td>
                         <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
+
                             <div x-data="{ open: false }" @click.outside="open = false" class="relative inline-block text-left">
-                                <button @click="open = !open" class="inline-flex items-center text-gray-500 hover:text-gray-700 p-1 rounded-full hover:bg-gray-100">
+                                <button type="button" @click="open = !open" class="inline-flex items-center justify-center w-8 h-8 text-gray-500 hover:text-gray-700 rounded-full hover:bg-gray-100 focus:outline-none" title="More Actions">
                                     <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20"><path d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z"></path></svg>
                                 </button>
-                                <div x-show="open" x-transition
-                                     class="origin-top-right absolute right-0 mt-2 w-48 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 z-10">
+                                <div x-show="open" x-transition.origin.top.right
+                                     class="absolute right-0 mt-2 w-48 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 z-20"
+                                     style="display: none;">
                                     <div class="py-1">
                                         <a th:href="@{/edit/{id}(id=${gazette.id})}" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">Edit/Review</a>
                                         <a th:href="@{/ifttt-post/{id}(id=${gazette.id})}" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
                                            onclick="return confirm('Confirm post to X for Significance ' + [[${gazette.significanceRating}]] + '?')">Post to X</a>
-                                        <a th:href="@{/delete/{id}(id=${gazette.id})}" class="block px-4 py-2 text-sm text-red-600 hover:bg-red-100"
-                                           onclick="return confirm('Are you sure you want to delete this single notice?')">Delete</a>
+                                        <a th:href="@{/delete/{id}(id=${gazette.id})}" class="block px-4 py-2 text-sm text-red-600 hover:bg-red-50"
+                                           onclick="return confirm('Delete this notice?')">Delete</a>
                                     </div>
                                 </div>
                             </div>
+
                         </td>
                     </tr>
                     <tr th:if="${#lists.isEmpty(gazettes)}">
@@ -131,59 +133,36 @@
     </div>
 
     <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
-
     <script th:inline="javascript">
         /*<![CDATA[*/
-
-        // --- Logic for bulk action buttons (Updated to match new form) ---
         const selectAll = document.getElementById('select-all-checkbox');
         const items = document.querySelectorAll('.item-checkbox');
         const countSpan = document.getElementById('selected-count');
-        const postBtn = document.getElementById('bulk-post-btn');
-        const deleteBtn = document.getElementById('bulk-delete-btn'); // Now the submit button
+        const deleteBtn = document.getElementById('bulk-delete-btn');
 
         function updateButtons() {
             const count = document.querySelectorAll('input[name="selectedIds"]:checked').length;
             countSpan.textContent = count;
-
             if (count > 0) {
-                [postBtn].forEach(btn => {
-                    btn.classList.remove('opacity-50', 'cursor-not-allowed');
-                    btn.disabled = false;
-                });
                 deleteBtn.classList.remove('opacity-50', 'cursor-not-allowed');
                 deleteBtn.disabled = false;
-
             } else {
-                [postBtn].forEach(btn => {
-                    btn.classList.add('opacity-50', 'cursor-not-allowed');
-                    btn.disabled = true;
-                });
                 deleteBtn.classList.add('opacity-50', 'cursor-not-allowed');
                 deleteBtn.disabled = true;
             }
         }
 
         selectAll.addEventListener('change', (e) => {
-            items.forEach(item => {
-                item.checked = e.target.checked;
-            });
+            items.forEach(item => { item.checked = e.target.checked; });
             updateButtons();
         });
 
         items.forEach(item => {
-            item.addEventListener('change', () => {
-                if (!item.checked) {
-                    selectAll.checked = false;
-                }
-                updateButtons();
-            });
+            item.addEventListener('change', updateButtons);
         });
 
-        // Initial update
         window.onload = updateButtons;
         /*]]>*/
     </script>
-
 </th:block>
 </html>

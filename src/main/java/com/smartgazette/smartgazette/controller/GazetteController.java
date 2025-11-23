@@ -338,7 +338,7 @@ public class GazetteController {
     public String stopProcessing(RedirectAttributes redirectAttributes) {
         String message = gazetteService.requestStopProcessing();
         redirectAttributes.addFlashAttribute("message", message);
-        return "redirect:/admin/dashboard";
+        return "redirect:/admin/content";
     }
 
     // --- NEW ENDPOINT FOR PDF DOWNLOAD ---
@@ -454,5 +454,41 @@ public class GazetteController {
         gazetteService.deleteGazetteInBulk(selectedIds);
         redirectAttributes.addFlashAttribute("message", selectedIds.size() + " notices deleted successfully.");
         return "redirect:/admin/content";
+    }
+
+    // --- MOCK LOGIN LOGIC ---
+    @PostMapping("/login")
+    public String processLogin(@RequestParam("username") String username,
+                               @RequestParam("password") String password,
+                               RedirectAttributes redirectAttributes) {
+        // Simple hardcoded check for the demo
+        if ("admin".equals(username) && "password".equals(password)) {
+            return "redirect:/admin/dashboard";
+        } else {
+            redirectAttributes.addAttribute("error", "true");
+            return "redirect:/login";
+        }
+    }
+
+    // ---BATCH EXPORT ---
+    @PostMapping("/admin/batch/export")
+    public ResponseEntity<InputStreamResource> exportBatch(@RequestParam("path") String path) {
+        ByteArrayInputStream in = gazetteService.exportBatchToExcel(path);
+
+        // Create a clean filename from the path
+        String filename = "batch_export.xlsx";
+        try {
+            File f = new File(path);
+            filename = "Export_" + f.getName().replace(".pdf", "") + ".xlsx";
+        } catch (Exception e) {}
+
+        HttpHeaders headers = new HttpHeaders();
+        headers.add("Content-Disposition", "attachment; filename=" + filename);
+
+        return ResponseEntity
+                .ok()
+                .headers(headers)
+                .contentType(MediaType.APPLICATION_OCTET_STREAM)
+                .body(new InputStreamResource(in));
     }
 }

@@ -1,10 +1,7 @@
 package com.smartgazette.smartgazette.service;
 
 import com.smartgazette.smartgazette.model.Gazette;
-import org.apache.poi.ss.usermodel.Cell;
-import org.apache.poi.ss.usermodel.Row;
-import org.apache.poi.ss.usermodel.Sheet;
-import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.springframework.stereotype.Service;
 
@@ -16,70 +13,83 @@ import java.util.List;
 @Service
 public class ExcelExportService {
 
-    /**
-     * Generates an Excel report from a list of Gazette notices.
-     * PER FIX T014: This method now EXCLUDES the 'article' and 'content' fields
-     * to prevent errors from exceeding the 32,767 character cell limit.
-     */
     public ByteArrayInputStream generateExcelReport(List<Gazette> gazettes) {
-        // We use try-with-resources to ensure the workbook is closed properly
         try (Workbook workbook = new XSSFWorkbook(); ByteArrayOutputStream out = new ByteArrayOutputStream()) {
 
-            // Create a new sheet in the workbook
             Sheet sheet = workbook.createSheet("Gazettes");
 
-            // --- FIX: Define ONLY exportable fields (no article, content) ---
+            // --- NEW: Extended Headers with ALL Info ---
             String[] headers = {
-                    "ID", "Title", "Summary", "Category", "Status",
-                    "Notice Number", "Gazette Date", "Gazette Number",
-                    "Actionable Info", "Published Date", "Signatory"
+                    "ID", "Title", "Category", "Status", "Significance",
+                    "Notice #", "Gazette Date", "Gazette Vol", "Signatory",
+                    "Summary", "X-Summary", "Actionable Info",
+                    "Article (Full)", "Original Content",
+                    "Views", "Thumbs Up", "Thumbs Down",
+                    "Created At", "Last Updated"
             };
 
-            // Create a header row
+            // Create Header Row with Bold Font
             Row headerRow = sheet.createRow(0);
+            CellStyle headerStyle = workbook.createCellStyle();
+            Font font = workbook.createFont();
+            font.setBold(true);
+            headerStyle.setFont(font);
+
             for (int col = 0; col < headers.length; col++) {
                 Cell cell = headerRow.createCell(col);
                 cell.setCellValue(headers[col]);
+                cell.setCellStyle(headerStyle);
             }
 
-            // --- FIX: Populate data rows (EXCLUDING article and content) ---
+            // Populate Data
             int rowIdx = 1;
-            for (Gazette gazette : gazettes) {
+            for (Gazette g : gazettes) {
                 Row row = sheet.createRow(rowIdx++);
 
-                row.createCell(0).setCellValue(gazette.getId() != null ? gazette.getId() : 0L);
-                row.createCell(1).setCellValue(gazette.getTitle() != null ? gazette.getTitle() : "");
-                row.createCell(2).setCellValue(gazette.getSummary() != null ? gazette.getSummary() : "");
-                row.createCell(3).setCellValue(gazette.getCategory() != null ? gazette.getCategory() : "");
-                row.createCell(4).setCellValue(gazette.getStatus() != null ? gazette.getStatus().toString() : "");
-                row.createCell(5).setCellValue(gazette.getNoticeNumber() != null ? gazette.getNoticeNumber() : "");
-                row.createCell(6).setCellValue(gazette.getGazetteDate() != null ? gazette.getGazetteDate().toString() : "");
-                row.createCell(7).setCellValue(gazette.getGazetteNumber() != null ? gazette.getGazetteNumber() : "");
+                row.createCell(0).setCellValue(g.getId() != null ? g.getId() : 0);
+                row.createCell(1).setCellValue(safeStr(g.getTitle()));
+                row.createCell(2).setCellValue(safeStr(g.getCategory()));
+                row.createCell(3).setCellValue(g.getStatus() != null ? g.getStatus().toString() : "");
+                row.createCell(4).setCellValue(g.getSignificanceRating());
 
-                // --- FIX: Add truncation safety for Actionable Info ---
-                String actionableInfo = gazette.getActionableInfo();
-                if (actionableInfo != null && actionableInfo.length() > 32000) {
-                    actionableInfo = actionableInfo.substring(0, 31997) + "...";
-                }
-                row.createCell(8).setCellValue(actionableInfo != null ? actionableInfo : "");
+                row.createCell(5).setCellValue(safeStr(g.getNoticeNumber()));
+                row.createCell(6).setCellValue(g.getGazetteDate() != null ? g.getGazetteDate().toString() : "");
+                row.createCell(7).setCellValue(safeStr(g.getGazetteVolume()));
+                row.createCell(8).setCellValue(safeStr(g.getSignatory()));
 
-                row.createCell(9).setCellValue(gazette.getPublishedDate() != null ? gazette.getPublishedDate().toString() : "");
-                row.createCell(10).setCellValue(gazette.getSignatory() != null ? gazette.getSignatory() : "");
+                // Content Fields (Truncated to 32k chars to prevent Excel crash)
+                row.createCell(9).setCellValue(truncate(g.getSummary()));
+                row.createCell(10).setCellValue(truncate(g.getXSummary()));
+                row.createCell(11).setCellValue(truncate(g.getActionableInfo()));
+                row.createCell(12).setCellValue(truncate(g.getArticle()));
+                row.createCell(13).setCellValue(truncate(g.getContent()));
+
+                // Metrics
+                row.createCell(14).setCellValue(g.getViewCount());
+                row.createCell(15).setCellValue(g.getThumbsUp());
+                row.createCell(16).setCellValue(g.getThumbsDown());
+
+                // Timestamps
+                row.createCell(17).setCellValue(g.getSystemPublishedAt() != null ? g.getSystemPublishedAt().toString() : "");
+                row.createCell(18).setCellValue(g.getLastUpdatedAt() != null ? g.getLastUpdatedAt().toString() : "");
             }
 
-            // Auto-size columns for readability
-            for (int i = 0; i < headers.length; i++) {
-                sheet.autoSizeColumn(i);
-            }
-
-            // Write the workbook to an in-memory output stream
             workbook.write(out);
-
-            // Return an InputStream from the in-memory byte array
             return new ByteArrayInputStream(out.toByteArray());
         } catch (IOException e) {
-            // Updated error message for clarity
             throw new RuntimeException("Failed to generate Excel file: " + e.getMessage(), e);
         }
+    }
+
+    // Helper to handle nulls
+    private String safeStr(String s) {
+        return s != null ? s : "";
+    }
+
+    // Helper to prevent Excel cell overflow (max 32,767 chars)
+    private String truncate(String s) {
+        if (s == null) return "";
+        if (s.length() > 32000) return s.substring(0, 32000) + "...[TRUNCATED]";
+        return s;
     }
 }

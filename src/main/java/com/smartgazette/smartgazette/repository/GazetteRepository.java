@@ -46,6 +46,8 @@ public interface GazetteRepository extends JpaRepository<Gazette, Long> {
             "GROUP BY g.originalPdfPath, g.gazetteDate, g.gazetteNumber " +
             "ORDER BY g.gazetteDate DESC, g.gazetteNumber DESC")
     List<GazetteBatchDTO> findGazetteBatches();
+    // --- NEW METHOD FOR BATCH EXPORT ---
+    List<Gazette> findAllByOriginalPdfPath(String originalPdfPath);
 
     @Transactional
     @Modifying
