@@ -120,13 +120,48 @@ public class GazetteService {
             return "No processing job is currently running.";
         }
     }
-    public Page<Gazette> listSuccessfulGazettesPaginated(int pageNum, int pageSize) {
+    public Page<Gazette> listSuccessfulGazettesPaginated(int pageNum, int pageSize, String filter) {
         Pageable pageable = PageRequest.of(pageNum - 1, pageSize);
-        return gazetteRepository.findAllSuccessfulWithCorrectSorting(pageable);
+
+        if ("popular".equals(filter)) {
+            return gazetteRepository.findAllSuccessfulOrderByPopularity(pageable);
+        } else if ("significant".equals(filter)) {
+            return gazetteRepository.findAllSuccessfulOrderBySignificance(pageable);
+        } else {
+            // DEFAULT: "latest" now means "Recently Processed" (ID DESC)
+            return gazetteRepository.findAllSuccessfulOrderByRecentlyProcessed(pageable);
+        }
     }
-    public Page<Gazette> listSuccessfulGazettesByCategory(String category, int pageNum, int pageSize) {
+
+    public Page<Gazette> listSuccessfulGazettesByCategory(String category, int pageNum, int pageSize, String filter) {
         Pageable pageable = PageRequest.of(pageNum - 1, pageSize);
-        return gazetteRepository.findAllSuccessfulByCategory(category, pageable);
+
+        if ("popular".equals(filter)) {
+            return gazetteRepository.findAllSuccessfulOrderByPopularity(pageable);
+        } else if ("significant".equals(filter)) {
+            return gazetteRepository.findAllSuccessfulOrderBySignificance(pageable);
+        } else {
+            // DEFAULT: "latest" now means "Recently Processed" (ID DESC)
+            return gazetteRepository.findAllSuccessfulOrderByRecentlyProcessed(pageable);
+        }
+    }
+
+    public List<Gazette> getAllGazettes(String filter) {
+        if ("oldest".equals(filter)) {
+            return gazetteRepository.findAllWithCorrectSorting();
+        } else if ("popular".equals(filter)) {
+            return gazetteRepository.findAllOrderByPopularity();
+        } else if ("significant".equals(filter)) {
+            return gazetteRepository.findAllOrderBySignificance();
+        } else {
+            // DEFAULT: "latest" (Recently Processed / ID DESC)
+            return gazetteRepository.findAllOrderByRecentlyProcessed();
+        }
+    }
+
+    // --- NEW: Batch Filter ---
+    public List<Gazette> getGazettesByBatch(String gazetteNumber) {
+        return gazetteRepository.findAllByGazetteNumber(gazetteNumber);
     }
 
     // --- NEW BATCH MANAGEMENT METHODS ---
@@ -230,11 +265,6 @@ public class GazetteService {
         } catch (Exception e) {
             log.error("Critical error during PDF processing pipeline for file: {}", file.getName(), e);
         } finally {
-            // --- Scraper handles final file cleanup ---
-            try {
-                Files.deleteIfExists(file.toPath()); // Deletes the temporary upload file
-            } catch (IOException ignored) {}
-
             isProcessing.set(false);
             stopProcessing.set(false);
             log.info("Processing lock released.");
@@ -995,12 +1025,8 @@ public class GazetteService {
         }
         Object extractedData = extractedDataWrapper.get("items");
 
-        // ... (rest of the validation logic) ...
-
         // --- STEP 3: AI Generation ---
         JSONObject generatedContent = generateNarrativeContent(extractedData, category);
-
-        // Final Step: Map everything to our Gazette entity
         return createGazetteFromJson(extractedData, generatedContent, textSegment, category, sourceOrder, overallGazetteDetails, originalPdfPath);
     }
 

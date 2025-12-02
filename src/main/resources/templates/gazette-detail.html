@@ -5,164 +5,122 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title th:text="${gazette.title} + ' - Smart Gazette'">Gazette Detail</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = { darkMode: 'class' }
+    </script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
-        body { font-family: 'Inter', sans-serif; background-color: #f9fafb; }
-
-        /* This is the magic for your plain text article fields */
+        body { font-family: 'Inter', sans-serif; }
         .preserve-lines { white-space: pre-wrap; }
-
-        /* --- NEW STYLES FOR TABS --- */
+        /* Tabs */
         .tab-button {
             padding: 0.75rem 1.5rem;
             font-weight: 600;
-            color: #4B5563; /* gray-600 */
+            color: #4B5563;
             border-bottom: 3px solid transparent;
             cursor: pointer;
         }
+        .dark .tab-button { color: #9CA3AF; }
         .tab-button.active {
-            color: #2563EB; /* blue-600 */
+            color: #2563EB;
             border-bottom-color: #2563EB;
         }
-        .tab-content {
-            display: none;
-        }
-        .tab-content.active {
-            display: block;
-        }
-
-        /* --- NEW STYLES FOR FEEDBACK BUTTONS --- */
-        .feedback-button {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.5rem;
-            padding: 0.5rem 1rem;
-            border: 1px solid #D1D5DB; /* gray-300 */
-            border-radius: 9999px; /* rounded-full */
-            font-weight: 500;
-            color: #374151; /* gray-700 */
-            background-color: #FFFFFF;
-            cursor: pointer;
-            transition: all 0.2s ease;
-        }
-        .feedback-button:hover {
-            background-color: #F9FAFB; /* gray-50 */
-            border-color: #9CA3AF; /* gray-400 */
-        }
-        .feedback-button:disabled {
-            background-color: #F3F4F6; /* gray-100 */
-            color: #9CA3AF; /* gray-400 */
-            cursor: not-allowed;
-        }
-        .feedback-button.selected {
-            border-color: #2563EB; /* blue-600 */
-            background-color: #EFF6FF; /* blue-50 */
-            color: #1D4ED8; /* blue-700 */
-        }
-
+        .dark .tab-button.active { color: #60A5FA; border-bottom-color: #60A5FA; }
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
     </style>
 </head>
-<body class="text-gray-800">
+<body class="bg-gray-50 dark:bg-gray-900 text-gray-800 dark:text-gray-100 transition-colors duration-200">
 
 <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
 
-    <header class="py-6">
-        <div class="flex justify-between items-center border-b border-gray-200 pb-4">
-            <a th:href="@{/}" class="flex items-center">
-                <div class="flex items-center gap-2">
-                    <svg class="h-10 w-10 text-gray-800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
-                        <path d="M2.222 17.026l5.071 5.07c1.32.128 2.678-.204 3.738-.97L17.7 14.46a2 2 0 0 0 0-2.828l-.707-.707a2 2 0 0 0-2.828 0l-6.666 6.666a4.23 4.23 0 0 1-.97.74z"></path>
-                        <path d="M18.864 12.35a2 2 0 0 1 0-2.828l.707-.707a2 2 0 0 1 2.828 0l-6.666 6.666a2 2 0 0 1-2.828 0l-.707-.707a2 2 0 0 1 0-2.828l6.666-6.666z"></path>
-                        <path d="M10.116 11.218a2 2 0 0 1 2.828 0l.707.707a2 2 0 0 1 0 2.828l-6.666 6.666a2 2 0 0 1-2.828 0l-.707-.707a2 2 0 0 1 0-2.828l6.666-6.666z"></path>
-                        <path d="M2.43 14.192l-1.92 1.92a1 1 0 0 0 0 1.414l.706.708a1 1 0 0 0 1.414 0l1.92-1.92-2.12-2.122z"></path>
-                        <path d="M8.58 7.842l2.121-2.12a1 1 0 0 0 0-1.414l-.707-.708a1 1 0 0 0-1.414 0l-2.121 2.121 2.12 2.12zM12.44 3.98l-2.12 2.121 2.12 2.121 2.122-2.12a1 1 0 0 0 0-1.415l-.707-.707a1 1 0 0 0-1.414 0zM8.58 11.708l-2.12 2.121 2.12 2.121 2.121-2.12-2.12-2.12z"></path>
-                    </svg>
-                    <span class="text-xl font-bold text-gray-900">SMART GAZETTE</span>
-                </div>
-            </a>
-            <nav class="hidden md:flex items-center space-x-8 text-sm font-medium text-gray-600">
-                <a th:href="@{/}" class="hover:text-blue-600 transition-colors">Home</a>
-                <a th:href="@{/categories}" class="hover:text-blue-600 transition-colors">Categories</a>
-                <a th:href="@{/about}" class="hover:text-blue-600 transition-colors">About</a>
+    <header class="py-5 flex justify-between items-center border-b border-gray-300 dark:border-gray-700 relative">
+        <a th:href="@{/}" class="flex items-center gap-2">
+            <svg class="h-10 w-10 text-gray-800 dark:text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M2.222 17.026l5.071 5.07c1.32.128 2.678-.204 3.738-.97L17.7 14.46a2 2 0 0 0 0-2.828l-.707-.707a2 2 0 0 0-2.828 0l-6.666 6.666a4.23 4.23 0 0 1-.97.74z"></path>
+                <path d="M18.864 12.35a2 2 0 0 1 0-2.828l.707-.707a2 2 0 0 1 2.828 0l-6.666 6.666a2 2 0 0 1-2.828 0l-.707-.707a2 2 0 0 1 0-2.828l6.666-6.666z"></path>
+                <path d="M10.116 11.218a2 2 0 0 1 2.828 0l.707.707a2 2 0 0 1 0 2.828l-6.666 6.666a2 2 0 0 1-2.828 0l-.707-.707a2 2 0 0 1 0-2.828l6.666-6.666z"></path>
+            </svg>
+            <span class="text-xl font-bold text-gray-900 dark:text-white">SMART GAZETTE</span>
+        </a>
+
+        <div class="flex items-center gap-4">
+            <nav class="hidden md:flex items-center space-x-6 text-sm font-medium text-gray-600 dark:text-gray-300">
+                <a th:href="@{/}" class="hover:text-blue-600 dark:hover:text-blue-400">Home</a>
+                <a th:href="@{/categories}" class="hover:text-blue-600 dark:hover:text-blue-400">Categories</a>
             </nav>
-            <div class="md:hidden">
-                <button id="menu-toggle" aria-label="Toggle menu" class="focus:outline-none">
-                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
-                </button>
-            </div>
-        </div>
-        <div id="mobile-menu" class="hidden md:hidden py-4">
-            <a th:href="@{/}" class="block py-2 px-4 text-sm hover:bg-gray-100">Home</a>
-            <a th:href="@{/categories}" class="block py-2 px-4 text-sm hover:bg-gray-100">Categories</a>
-            <a th:href="@{/about}" class="block py-2 px-4 text-sm hover:bg-gray-100">About</a>
+            <button onclick="toggleDarkMode()" class="p-2 rounded-full bg-gray-200 dark:bg-gray-700 text-gray-600 dark:text-yellow-300 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors shadow-sm" title="Toggle Theme">
+                <svg class="w-5 h-5 dark:hidden" fill="currentColor" viewBox="0 0 20 20">
+                    <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path>
+                </svg>
+                <svg class="w-5 h-5 hidden dark:block" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
+                </svg>
+            </button>
         </div>
     </header>
 
     <main class="py-10">
-        <article class="bg-white rounded-lg shadow-lg overflow-hidden">
+        <article class="bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden">
             <div class="p-8 lg:p-12">
-                <header class="mb-8">
-                    <div class="mb-4">
-                        <span th:text="${#strings.replace(gazette.category, '_', ' ')}" class="inline-block px-3 py-1 text-sm font-bold rounded-full text-white bg-blue-600"></span>
+
+                <div class="mb-4">
+                    <span th:text="${#strings.replace(gazette.category, '_', ' ')}" class="inline-block px-3 py-1 text-sm font-bold rounded-full text-white bg-blue-600"></span>
+                </div>
+
+                <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900 dark:text-white mb-8" th:text="${gazette.title}"></h1>
+
+                <div class="mb-8 border border-gray-200 dark:border-gray-600 rounded-lg overflow-hidden">
+                    <div class="bg-gray-50 dark:bg-gray-700/30 p-4 border-b border-gray-200 dark:border-gray-600">
+                        <h3 class="text-lg font-bold text-gray-900 dark:text-white">Key Information</h3>
                     </div>
-                    <h1 class="text-4xl font-extrabold text-gray-900" th:text="${gazette.title}"></h1>
-                </header>
-
-                <div class="mb-8 p-4 bg-gray-50 border border-gray-200 rounded-lg">
-                    <h3 class="text-lg font-bold text-gray-800 mb-3">Key Information</h3>
-                    <dl class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm">
-                        <div th:if="${gazette.noticeNumber != null && !#strings.isEmpty(gazette.noticeNumber)}">
-                            <dt class="font-semibold text-gray-600">Notice Number:</dt>
-                            <dd class="text-gray-800" th:text="${gazette.noticeNumber}"></dd>
+                    <div class="p-6 grid grid-cols-1 md:grid-cols-2 gap-y-6 gap-x-8 text-sm">
+                        <div>
+                            <span class="block text-gray-500 dark:text-gray-400 font-medium mb-1">Notice Number:</span>
+                            <span class="block text-gray-900 dark:text-white font-semibold" th:text="${gazette.noticeNumber != null ? gazette.noticeNumber : 'N/A'}"></span>
                         </div>
-
-                        <div th:if="${gazette.gazetteDate != null}">
-                            <dt class="font-semibold text-gray-600">Gazette Publication Date:</dt>
-                            <dd class="text-gray-800" th:text="${#temporals.format(gazette.gazetteDate, 'MMMM d, yyyy')}"></dd>
+                        <div>
+                            <span class="block text-gray-500 dark:text-gray-400 font-medium mb-1">Gazette Publication Date:</span>
+                            <span class="block text-gray-900 dark:text-white font-semibold" th:text="${gazette.gazetteDate != null ? #temporals.format(gazette.gazetteDate, 'MMMM d, yyyy') : 'N/A'}"></span>
                         </div>
-
-                        <div th:if="${gazette.gazetteVolume != null && !#strings.isEmpty(gazette.gazetteVolume)}">
-                            <dt class="font-semibold text-gray-600">Gazette Volume:</dt>
-                            <dd class="text-gray-800" th:text="${gazette.gazetteVolume}"></dd>
+                        <div>
+                            <span class="block text-gray-500 dark:text-gray-400 font-medium mb-1">Gazette Volume:</span>
+                            <span class="block text-gray-900 dark:text-white font-semibold" th:text="${gazette.gazetteVolume != null ? gazette.gazetteVolume : 'N/A'}"></span>
                         </div>
-
-                        <div th:if="${gazette.gazetteNumber != null && !#strings.isEmpty(gazette.gazetteNumber)}">
-                            <dt class="font-semibold text-gray-600">Gazette Number:</dt>
-                            <dd class="text-gray-800" th:text="${gazette.gazetteNumber}"></dd>
+                        <div>
+                            <span class="block text-gray-500 dark:text-gray-400 font-medium mb-1">Gazette Number:</span>
+                            <span class="block text-gray-900 dark:text-white font-semibold" th:text="${gazette.gazetteNumber != null ? gazette.gazetteNumber : 'N/A'}"></span>
                         </div>
-
-
-                        <div th:if="${gazette.publishedDate != null}">
-                            <dt class="font-semibold text-gray-600">Notice Effective/Mentioned Date:</dt>
-                            <dd class="text-gray-800" th:text="${#temporals.format(gazette.publishedDate, 'MMMM d, yyyy')}"></dd>
+                        <div>
+                            <span class="block text-gray-500 dark:text-gray-400 font-medium mb-1">Notice Effective/Mentioned Date:</span>
+                            <span class="block text-gray-900 dark:text-white font-semibold" th:text="${gazette.publishedDate != null ? #temporals.format(gazette.publishedDate, 'MMMM d, yyyy') : 'N/A'}"></span>
                         </div>
-
-                        <div th:if="${gazette.signatory != null && !#strings.isEmpty(gazette.signatory)}">
-                            <dt class="font-semibold text-gray-600">Issuing Authority:</dt>
-                            <dd class="text-gray-800" th:text="${gazette.signatory}"></dd>
+                        <div>
+                            <span class="block text-gray-500 dark:text-gray-400 font-medium mb-1">Posted on Smart Gazette:</span>
+                            <span class="block text-gray-900 dark:text-white font-semibold" th:text="${gazette.systemPublishedAt != null ? #temporals.format(gazette.systemPublishedAt, 'MMMM d, yyyy h:mm a') : 'N/A'}"></span>
                         </div>
-
-                        <div th:if="${gazette.systemPublishedAt != null}">
-                            <dt class="font-semibold text-gray-600">Posted on Smart Gazette:</dt>
-                            <dd class="text-gray-800" th:text="${#temporals.format(gazette.systemPublishedAt, 'MMMM d, yyyy h:mm a')}"></dd>
-                        </div>
-                    </dl>
-                    <div th:if="${gazette.originalPdfPath != null}" class="mt-4 pt-4 border-t border-gray-200">
-                        <a th:href="@{/gazette/pdf/{id}(id=${gazette.id})}"
-                           target="_blank"
-                           class="inline-flex items-center gap-2 px-4 py-2 bg-blue-600 text-white text-sm font-medium rounded-md hover:bg-blue-700">
-                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
-                            View Original PDF
-                        </a>
                     </div>
-                    <div th:if="${gazette.actionableInfo != null && !#strings.isEmpty(gazette.actionableInfo)}" class="mt-4 pt-3 border-t border-gray-200 sm:col-span-2">
-                        <p class="text-sm text-blue-800"><span class="font-semibold">Action Required:</span> <span th:text="${gazette.actionableInfo}"></span></p>
+
+                    <div class="px-6 pb-6">
+                        <div th:if="${gazette.originalPdfPath != null}">
+                            <a th:href="@{/gazette/pdf/{id}(id=${gazette.id})}" target="_blank" class="inline-flex items-center justify-center px-4 py-2 bg-blue-600 text-white font-semibold text-sm rounded hover:bg-blue-700 transition-colors shadow-sm">
+                                <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+                                View Original PDF
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="bg-blue-50 dark:bg-blue-900/20 p-4 border-t border-gray-200 dark:border-gray-600">
+                        <p class="text-sm text-blue-900 dark:text-blue-200">
+                            <span class="font-bold">Action Required:</span>
+                            <span th:text="${gazette.actionableInfo != null ? gazette.actionableInfo : 'No specific action mentioned. Stay informed.'}"></span>
+                        </p>
                     </div>
                 </div>
 
                 <section>
-                    <div class="border-b border-gray-200 mb-6">
-                        <nav class="flex -mb-px" id="tab-buttons">
+                    <div class="border-b border-gray-200 dark:border-gray-700 mb-6">
+                        <nav class="flex -mb-px space-x-8">
                             <button class="tab-button active" data-tab="summary">AI-Generated Summary</button>
                             <button class="tab-button" data-tab="original">Original Notice Text</button>
                         </nav>
@@ -170,152 +128,88 @@
 
                     <div id="tab-panels">
                         <div id="tab-summary" class="tab-content active">
-                            <h2 class="text-xl font-bold mb-4 text-gray-800">Full Article</h2>
-                            <div class="prose max-w-none text-gray-800 leading-relaxed preserve-lines" th:text="${gazette.article}"></div>
+                            <h2 class="text-lg font-bold text-gray-900 dark:text-white mb-4">Full Article</h2>
+                            <div class="prose dark:prose-invert max-w-none text-gray-800 dark:text-gray-200 leading-relaxed preserve-lines" th:text="${gazette.article}"></div>
                         </div>
 
                         <div id="tab-original" class="tab-content">
-                            <h2 class="text-xl font-bold mb-4 text-gray-800">Original Notice Text</h2>
-
-                            <div class="bg-blue-50 border-l-4 border-blue-500 p-4 mb-4">
-                                <div class="flex">
-                                    <div class="flex-shrink-0">
-                                        <svg class="h-5 w-5 text-blue-400" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"/></svg>
-                                    </div>
-                                    <div class="ml-3">
-                                        <p class="text-sm text-blue-700">
-                                            To see this notice in the official document:
-                                            <a th:if="${gazette.originalPdfPath != null}" th:href="@{/gazette/pdf/{id}(id=${gazette.id})}" target="_blank" class="font-bold underline hover:text-blue-600">
-                                                Open the Original PDF
-                                            </a>
-                                            <span th:unless="${gazette.originalPdfPath != null}">Open the PDF</span>
-                                            and use <strong>Ctrl+F</strong> (or Cmd+F) to search for:
-                                            <span class="font-mono bg-blue-100 px-1 rounded" th:text="${gazette.noticeNumber}">NOTICE NO</span>
-                                        </p>
-                                    </div>
-                                </div>
+                            <div class="bg-yellow-50 dark:bg-yellow-900/20 border-l-4 border-yellow-400 p-4 mb-4">
+                                <p class="text-sm text-yellow-800 dark:text-yellow-200">
+                                    <strong>Tip:</strong> Use <kbd class="font-mono bg-white dark:bg-gray-800 px-1 rounded border">Ctrl + F</kbd> (or Cmd + F) and type the Notice Number <strong th:text="${gazette.noticeNumber}"></strong> to quickly find this notice in the original document.
+                                </p>
                             </div>
-                            <p class="text-sm text-gray-500 mb-4 italic">The following is the full, unprocessed text extracted from the original PDF notice.</p>
-                            <div class="prose max-w-none text-gray-600 leading-relaxed preserve-lines bg-gray-50 p-4 rounded-md border" th:text="${gazette.content}"></div>
+                            <div class="prose max-w-none text-gray-600 dark:text-gray-400 leading-relaxed preserve-lines bg-gray-50 dark:bg-gray-900 p-4 rounded-md border dark:border-gray-700 font-mono text-sm" th:text="${gazette.content}"></div>
                         </div>
                     </div>
                 </section>
 
-                <section id="feedback-section" class="mt-12 pt-8 border-t border-gray-200 text-center">
-                    <h3 class="text-lg font-semibold text-gray-800 mb-4">Was this summary helpful?</h3>
+                <section class="mt-12 pt-8 border-t border-gray-200 dark:border-gray-700 text-center">
+                    <h3 class="text-lg font-semibold text-gray-800 dark:text-white mb-4">Was this summary helpful?</h3>
                     <div class="flex justify-center gap-4">
-                        <button id="thumbs-up-btn" class="feedback-button" th:data-id="${gazette.id}">
-                            <span class="text-xl">👍</span> Thumbs Up
+                        <button id="thumbs-up-btn" th:data-id="${gazette.id}" class="px-6 py-2 rounded-full border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600 text-gray-700 dark:text-gray-200 font-medium flex items-center gap-2 transition-colors">
+                            <span>👍 Thumbs Up</span>
                         </button>
-                        <button id="thumbs-down-btn" class="feedback-button" th:data-id="${gazette.id}">
-                            <span class="text-xl">👎</span> Thumbs Down
+                        <button id="thumbs-down-btn" th:data-id="${gazette.id}" class="px-6 py-2 rounded-full border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600 text-gray-700 dark:text-gray-200 font-medium flex items-center gap-2 transition-colors">
+                            <span>👎 Thumbs Down</span>
                         </button>
                     </div>
-                    <p id="feedback-thanks" class="mt-4 text-green-600 font-medium" style="display: none;">
-                        Thank you for your feedback!
-                    </p>
+                    <p id="feedback-thanks" class="text-green-600 dark:text-green-400 font-medium mt-4 hidden">Thank you for your feedback!</p>
+
+                    <div class="mt-8 pt-6 border-t border-gray-100 dark:border-gray-800">
+                        <p class="text-xs text-gray-400 dark:text-gray-500 italic">
+                            Disclaimer: This summary was generated by AI (Smart Gazette Engine) for informational purposes. Please verify details with the Original Notice Text or the official PDF.
+                        </p>
+                    </div>
                 </section>
-
-                <div class="mt-8 pt-6 border-t border-gray-100 text-center">
-                    <p class="text-xs text-gray-400 italic">
-                        Disclaimer: This summary was generated by AI (Smart Gazette Engine) for informational purposes.
-                        Please verify details with the <span class="font-semibold">Original Notice Text</span> or the official PDF.
-                    </p>
-                </div>
             </div>
-        </article>
-
         </article>
     </main>
 </div>
 
-<script th:inline="javascript">
-    /*<![CDATA[*/
+<script>
+    const html = document.documentElement;
+    if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        html.classList.add('dark');
+    } else {
+        html.classList.remove('dark');
+    }
+    function toggleDarkMode() {
+        if (html.classList.contains('dark')) {
+            html.classList.remove('dark'); localStorage.setItem('theme', 'light');
+        } else {
+            html.classList.add('dark'); localStorage.setItem('theme', 'dark');
+        }
+    }
 
-    // --- Mobile Menu Toggle ---
-    const menuToggle = document.getElementById('menu-toggle');
-    const mobileMenu = document.getElementById('mobile-menu');
-    menuToggle.addEventListener('click', () => {
-        mobileMenu.classList.toggle('hidden');
-    });
-
-    // --- NEW SCRIPT FOR TABS (PHASE 2) ---
     const tabButtons = document.querySelectorAll('.tab-button');
     const tabPanels = document.querySelectorAll('.tab-content');
-
     tabButtons.forEach(button => {
         button.addEventListener('click', () => {
-            // Deactivate all
             tabButtons.forEach(btn => btn.classList.remove('active'));
             tabPanels.forEach(panel => panel.classList.remove('active'));
-
-            // Activate clicked
             button.classList.add('active');
             const tabName = button.getAttribute('data-tab');
             document.getElementById('tab-' + tabName).classList.add('active');
         });
     });
 
-    // --- NEW SCRIPT FOR FEEDBACK BUTTONS (PHASE 2) ---
     const thumbsUpBtn = document.getElementById('thumbs-up-btn');
     const thumbsDownBtn = document.getElementById('thumbs-down-btn');
     const thanksMsg = document.getElementById('feedback-thanks');
-    const articleId = thumbsUpBtn.getAttribute('data-id');
-
-    // Check if feedback was already given
-    const feedbackGiven = localStorage.getItem('feedback_given_' + articleId);
-    if (feedbackGiven) {
-        disableButtons(feedbackGiven);
-    }
-
-    thumbsUpBtn.addEventListener('click', () => {
-        sendFeedback('thumbsup');
-    });
-
-    thumbsDownBtn.addEventListener('click', () => {
-        sendFeedback('thumbsdown');
-    });
-
-    function sendFeedback(type) {
-        if (localStorage.getItem('feedback_given_' + articleId)) {
-            return; // Already voted
-        }
-
-        const url = `/gazette/${articleId}/${type}`;
-
-        // This is the modern way to send a POST request from JavaScript
-        fetch(url, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            }
-        })
-            .then(response => {
-                if (response.ok) {
-                    localStorage.setItem('feedback_given_' + articleId, type);
-                    disableButtons(type);
+    if(thumbsUpBtn){
+        const articleId = thumbsUpBtn.getAttribute('data-id');
+        thumbsUpBtn.addEventListener('click', () => sendFeedback(articleId, 'thumbsup'));
+        thumbsDownBtn.addEventListener('click', () => sendFeedback(articleId, 'thumbsdown'));
+        function sendFeedback(id, type) {
+            fetch(`/gazette/${id}/${type}`, { method: 'POST' }).then(res => {
+                if(res.ok) {
                     thanksMsg.style.display = 'block';
-                } else {
-                    console.error('Failed to submit feedback.');
+                    thumbsUpBtn.disabled = true;
+                    thumbsDownBtn.disabled = true;
                 }
-            })
-            .catch(error => {
-                console.error('Error:', error);
             });
-    }
-
-    function disableButtons(type) {
-        thumbsUpBtn.disabled = true;
-        thumbsDownBtn.disabled = true;
-        if (type === 'thumbsup') {
-            thumbsUpBtn.classList.add('selected');
-        } else {
-            thumbsDownBtn.classList.add('selected');
         }
     }
-
-    /*]]>*/
 </script>
-
 </body>
 </html>

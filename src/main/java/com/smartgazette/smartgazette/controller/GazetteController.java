@@ -57,16 +57,21 @@ public class GazetteController {
     // --- Public Page Display Methods ---
 
     @GetMapping("/")
-    public String home(Model model, @RequestParam(name = "page", defaultValue = "1") int pageNum) {
-        int pageSize = 20; // As you requested
-        Page<Gazette> page = gazetteService.listSuccessfulGazettesPaginated(pageNum, pageSize);
+    public String home(Model model,
+                       @RequestParam(name = "page", defaultValue = "1") int pageNum,
+                       @RequestParam(name = "filter", defaultValue = "latest") String filter) {
+        int pageSize = 20;
 
-        List<Gazette> successfulGazettes = page.getContent();
+        // Pass the filter to the service
+        Page<Gazette> page = gazetteService.listSuccessfulGazettesPaginated(pageNum, pageSize, filter);
 
-        model.addAttribute("gazettes", successfulGazettes);
+        model.addAttribute("gazettes", page.getContent());
         model.addAttribute("currentPage", pageNum);
         model.addAttribute("totalPages", page.getTotalPages());
         model.addAttribute("totalItems", page.getTotalElements());
+
+        // Pass the current filter back to the view so we can highlight the button
+        model.addAttribute("currentFilter", filter);
 
         return "home";
     }
@@ -196,9 +201,26 @@ public class GazetteController {
     }
 
     @GetMapping("/admin/content")
-    public String showAdminContent(Model model) {
-        model.addAttribute("gazettes", gazetteService.getAllGazettes());
-        return "admin-content"; // Renders admin-content.html
+    public String showAdminContent(Model model,
+                                   @RequestParam(name = "filter", required = false) String filter,
+                                   @RequestParam(name = "batch", required = false) String batchNumber) {
+        List<Gazette> gazettes;
+
+        if (batchNumber != null && !batchNumber.isEmpty()) {
+            // Drill-down: Show only notices for this batch
+            gazettes = gazetteService.getGazettesByBatch(batchNumber);
+            model.addAttribute("currentBatch", batchNumber); // For breadcrumb
+            model.addAttribute("currentFilter", "batch");
+        } else {
+            // Normal filtering
+            String activeFilter = (filter != null) ? filter : "latest";
+            gazettes = gazetteService.getAllGazettes(activeFilter);
+            model.addAttribute("currentFilter", activeFilter);
+        }
+
+        model.addAttribute("gazettes", gazettes);
+        model.addAttribute("activePage", "content");
+        return "admin-content";
     }
 
     // NEW: "Hacker" Log Viewer (Step 1: Directory)
@@ -257,19 +279,23 @@ public class GazetteController {
             return "redirect:/admin/content";
         }
         File tempFile = null;
-        String tempFilePath = null; // Variable to hold the path
 
         try {
             Path tempPath = Files.createTempFile("sg-upload-", ".pdf");
             tempFile = tempPath.toFile();
-
-            // Set the path here (this is the original PDF path for manual uploads)
-            tempFilePath = tempPath.toString();
+            String tempFilePath = tempPath.toString();
 
             pdfFile.transferTo(tempFile);
 
-            // --- FIX: Now passing the required two arguments ---
+            // Pass the file to service. Note: Service will NOT delete it anymore.
             gazetteService.processAndSavePdf(tempFile, tempFilePath);
+
+            // --- NEW: We must schedule deletion or delete immediately if synchronous (but process is async) ---
+            // Since processAndSavePdf is @Async, we cannot delete the file immediately here.
+            // Ideally, the Service should handle "isTemp" flag, but for now, we rely on OS temp cleanup
+            // OR we can't delete it yet because the async thread needs it.
+            // *Correction*: For this specific upload flow, we will leave the temp file.
+            // The OS usually cleans /tmp, or we accept this trade-off to fix the scraper bug.
 
             redirectAttributes.addFlashAttribute("message", "File uploaded! Processing has started...");
         } catch (IOException e) {
@@ -287,13 +313,20 @@ public class GazetteController {
         Gazette existingGazette = gazetteService.getGazetteById(formGazette.getId());
         if (existingGazette != null) {
             existingGazette.setTitle(formGazette.getTitle());
-            existingGazette.setContent(formGazette.getContent());
+            existingGazette.setSummary(formGazette.getSummary());
+            existingGazette.setArticle(formGazette.getArticle());
+            existingGazette.setXSummary(formGazette.getXSummary());
+            existingGazette.setActionableInfo(formGazette.getActionableInfo());
             existingGazette.setLink(formGazette.getLink());
+
             gazetteService.saveGazette(existingGazette);
             redirectAttributes.addFlashAttribute("message", "Gazette entry #" + existingGazette.getId() + " updated successfully.");
+        } else {
+            redirectAttributes.addFlashAttribute("error", "Could not find notice to update.");
         }
         return "redirect:/admin/content";
     }
+
 
     @GetMapping("/delete/{id}")
     public String deleteGazette(@PathVariable Long id, RedirectAttributes redirectAttributes) {
@@ -347,21 +380,27 @@ public class GazetteController {
     public ResponseEntity<Resource> servePdf(@PathVariable Long id) {
         Gazette gazette = gazetteService.getGazetteById(id);
         if (gazette == null || gazette.getOriginalPdfPath() == null) {
-            log.warn("PDF download request failed: No gazette or path found for ID {}", id);
+            log.warn("PDF download failed: Notice #{} has no linked PDF path.", id);
             return ResponseEntity.notFound().build();
         }
 
         try {
-            Path pdfPath = Paths.get(gazette.getOriginalPdfPath());
-            Resource resource = new UrlResource(pdfPath.toUri());
+            // Using File object to ensure absolute path handling is robust across OS
+            File file = new File(gazette.getOriginalPdfPath());
+            if (!file.exists()) {
+                log.error("PDF file not found on disk: {}", gazette.getOriginalPdfPath());
+                return ResponseEntity.notFound().build();
+            }
+
+            Resource resource = new UrlResource(file.toURI());
 
             if (resource.exists() || resource.isReadable()) {
-                log.info("Serving PDF: {}", pdfPath);
                 return ResponseEntity.ok()
                         .header(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_PDF_VALUE)
+                        // Content-Disposition inline allows browser to open it instead of forcing download
+                        .header(HttpHeaders.CONTENT_DISPOSITION, "inline; filename=\"" + file.getName() + "\"")
                         .body(resource);
             } else {
-                log.error("Could not read PDF file: {}", gazette.getOriginalPdfPath());
                 return ResponseEntity.notFound().build();
             }
         } catch (MalformedURLException e) {
@@ -411,17 +450,28 @@ public class GazetteController {
     @GetMapping("/category/{categoryName}")
     public String showCategoryPage(@PathVariable String categoryName,
                                    @RequestParam(name = "page", defaultValue = "1") int pageNum,
+                                   @RequestParam(name = "filter", defaultValue = "latest") String filter,
                                    Model model) {
-        int pageSize = 20; // Uses the same pagination as your homepage
-        Page<Gazette> page = gazetteService.listSuccessfulGazettesByCategory(categoryName, pageNum, pageSize);
+        int pageSize = 20;
+
+        // Ensure we are passing the page object correctly based on the filter
+        Page<Gazette> page;
+        if ("popular".equals(filter)) {
+            page = gazetteService.listSuccessfulGazettesByCategory(categoryName, pageNum, pageSize, "popular"); // You might need to expose the specific repo method in service if not already dynamically handled
+        } else if ("significant".equals(filter)) {
+            page = gazetteService.listSuccessfulGazettesByCategory(categoryName, pageNum, pageSize, "significant");
+        } else {
+            page = gazetteService.listSuccessfulGazettesByCategory(categoryName, pageNum, pageSize, "latest");
+        }
 
         model.addAttribute("gazettes", page.getContent());
         model.addAttribute("currentPage", pageNum);
         model.addAttribute("totalPages", page.getTotalPages());
         model.addAttribute("totalItems", page.getTotalElements());
-        model.addAttribute("categoryName", categoryName.replace("_", " ")); // For the title
+        model.addAttribute("categoryName", categoryName.replace("_", " "));
+        model.addAttribute("currentFilter", filter);
 
-        return "category-view"; // We will create this new HTML file
+        return "category-view";
     }
 
     // --- NEW ENDPOINT FOR BATCH MANAGEMENT PAGE ---

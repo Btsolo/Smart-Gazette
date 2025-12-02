@@ -15,7 +15,6 @@ public class IftttWebhookService {
 
     private final RestTemplate restTemplate = new RestTemplate();
 
-    // IMPORTANT: Replace with your actual IFTTT URL from the Webhooks documentation page
     @Value("${ifttt.webhook.url}")
     private String webhookUrl;
 

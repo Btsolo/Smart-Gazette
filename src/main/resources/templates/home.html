@@ -5,147 +5,132 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Smart Gazette - Home</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F9FAFB;
-        }
-    </style>
+    <style> body { font-family: 'Inter', sans-serif; } </style>
+    <script> tailwind.config = { darkMode: 'class' } </script>
 </head>
-<body class="text-gray-800">
+<body class="bg-gray-50 dark:bg-gray-900 text-gray-800 dark:text-gray-100 transition-colors duration-200">
 
-<div class="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 ">
+<div class="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
 
-    <header class="py-5 text-center border-b border-gray-300">
-        <div class="flex items-center justify-center gap-2">
-            <svg class="h-10 w-10 text-gray-800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M2.222 17.026l5.071 5.07c1.32.128 2.678-.204 3.738-.97L17.7 14.46a2 2 0 0 0 0-2.828l-.707-.707a2 2 0 0 0-2.828 0l-6.666 6.666a4.23 4.23 0 0 1-.97.74z"></path>
-                <path d="M18.864 12.35a2 2 0 0 1 0-2.828l.707-.707a2 2 0 0 1 2.828 0l-6.666 6.666a2 2 0 0 1-2.828 0l-.707-.707a2 2 0 0 1 0-2.828l6.666-6.666z"></path>
-                <path d="M10.116 11.218a2 2 0 0 1 2.828 0l.707.707a2 2 0 0 1 0 2.828l-6.666 6.666a2 2 0 0 1-2.828 0l-.707-.707a2 2 0 0 1 0-2.828l6.666-6.666z"></path>
-                <path d="M2.43 14.192l-1.92 1.92a1 1 0 0 0 0 1.414l.706.708a1 1 0 0 0 1.414 0l1.92-1.92-2.12-2.122z"></path>
-                <path d="M8.58 7.842l2.121-2.12a1 1 0 0 0 0-1.414l-.707-.708a1 1 0 0 0-1.414 0l-2.121 2.121 2.12 2.12zM12.44 3.98l-2.12 2.121 2.12 2.121 2.122-2.12a1 1 0 0 0 0-1.415l-.707-.707a1 1 0 0 0-1.414 0zM8.58 11.708l-2.12 2.121 2.12 2.121 2.121-2.12-2.12-2.12z"></path>
-            </svg>
-            <span class="text-xl font-bold text-gray-900">SMART GAZETTE</span>
+    <header class="py-8 border-b border-gray-300 dark:border-gray-700 relative">
+
+        <div class="flex flex-col items-center justify-center space-y-4">
+
+            <a th:href="@{/}" class="flex items-center gap-3 group">
+                <svg class="h-10 w-10 text-gray-900 dark:text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M2.222 17.026l5.071 5.07c1.32.128 2.678-.204 3.738-.97L17.7 14.46a2 2 0 0 0 0-2.828l-.707-.707a2 2 0 0 0-2.828 0l-6.666 6.666a4.23 4.23 0 0 1-.97.74z"></path>
+                    <path d="M18.864 12.35a2 2 0 0 1 0-2.828l.707-.707a2 2 0 0 1 2.828 0l-6.666 6.666a2 2 0 0 1-2.828 0l-.707-.707a2 2 0 0 1 0-2.828l6.666-6.666z"></path>
+                    <path d="M10.116 11.218a2 2 0 0 1 2.828 0l.707.707a2 2 0 0 1 0 2.828l-6.666 6.666a2 2 0 0 1-2.828 0l-.707-.707a2 2 0 0 1 0-2.828l6.666-6.666z"></path>
+                </svg>
+                <span class="text-2xl font-extrabold text-gray-900 dark:text-white tracking-tight group-hover:opacity-80 transition-opacity">SMART GAZETTE</span>
+            </a>
+
+            <p class="text-gray-500 dark:text-gray-400 text-sm font-medium">Your daily source for simplified government updates.</p>
+
+            <nav class="flex items-center space-x-8 text-sm font-medium text-gray-600 dark:text-gray-300 pt-2">
+                <a th:href="@{/}" class="text-blue-600 dark:text-blue-400 font-bold border-b-2 border-blue-600 dark:border-blue-400 pb-0.5">Home</a>
+                <a th:href="@{/categories}" class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors pb-0.5 border-b-2 border-transparent hover:border-blue-600 dark:hover:border-blue-400">Categories</a>
+                <a th:href="@{/about}" class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors pb-0.5 border-b-2 border-transparent hover:border-blue-600 dark:hover:border-blue-400">About</a>
+                <a th:href="@{/about} + '#contact'" class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors pb-0.5 border-b-2 border-transparent hover:border-blue-600 dark:hover:border-blue-400">Contact</a>
+            </nav>
         </div>
-        <p class="mt-2 text-lg text-gray-600">Your daily source for simplified government updates.</p>
 
-        <nav class="flex items-center justify-center flex-wrap mt-6 space-x-6 text-sm font-medium text-gray-600">
-            <a th:href="@{/}" class="text-blue-600 font-semibold py-1">Home</a>
-            <a th:href="@{/categories}" class="hover:text-blue-600 transition-colors py-1">Categories</a>
-            <a th:href="@{/about}" class="hover:text-blue-600 transition-colors py-1">About</a>
-            <a th:href="@{/about} + '#contact'" class="hover:text-blue-600 transition-colors py-1">Contact</a>
-        </nav>
+        <div class="absolute top-8 right-0">
+            <button onclick="toggleDarkMode()" class="p-2 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-yellow-300 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors shadow-sm" title="Toggle Theme">
+                <svg class="w-5 h-5 dark:hidden" fill="currentColor" viewBox="0 0 20 20"><path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path></svg>
+                <svg class="w-5 h-5 hidden dark:block" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path></svg>
+            </button>
+        </div>
     </header>
 
     <main class="py-12">
-        <h2 class="text-2xl font-bold text-gray-900 mb-8">Latest Summaries</h2>
+        <div class="flex justify-between items-center mb-8">
+            <h2 class="text-2xl font-bold text-gray-900 dark:text-white">
+                <span th:if="${currentFilter == 'popular'}">Most Popular Summaries</span>
+                <span th:if="${currentFilter == 'significant'}">Most Significant Summaries</span>
+                <span th:unless="${currentFilter == 'popular' || currentFilter == 'significant'}">Latest Summaries</span>
+            </h2>
+
+            <div class="relative" x-data="{ open: false }">
+                <button @click="open = !open" @click.outside="open = false" class="flex items-center gap-2 px-4 py-2 bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-700 rounded-lg shadow-sm hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors">
+                    <span class="text-sm font-medium text-gray-700 dark:text-gray-200">Filters</span>
+                    <svg class="w-4 h-4 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                </button>
+                <div x-show="open" class="absolute right-0 mt-2 w-48 bg-white dark:bg-gray-800 rounded-md shadow-xl py-1 z-10 border border-gray-100 dark:border-gray-700" style="display: none;">
+                    <a th:href="@{/(filter='latest')}" class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-blue-50 dark:hover:bg-gray-700">Latest</a>
+                    <a th:href="@{/(filter='popular')}" class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-blue-50 dark:hover:bg-gray-700">Most Popular</a>
+                    <a th:href="@{/(filter='significant')}" class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-blue-50 dark:hover:bg-gray-700">Most Significant</a>
+                </div>
+            </div>
+        </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-
             <div th:each="gazette : ${gazettes}">
-
-                <a th:href="@{/gazette/{id}(id=${gazette.id})}" class="block bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden">
+                <a th:href="@{/gazette/{id}(id=${gazette.id})}" class="block bg-white dark:bg-gray-800 rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden h-full">
                     <div class="p-6">
                         <span th:switch="${gazette.category}">
-    <span th:case="'Finance'"
-          th:text="${gazette.category}"
-          class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-blue-100 text-blue-800">
-    </span>
-    <span th:case="'Appointments'"
-          th:text="${gazette.category}"
-          class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-green-100 text-green-800">
-    </span>
-    <span th:case="'Housing'"
-          th:text="${gazette.category}"
-          class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-orange-100 text-orange-800">
-     </span>
-    <span th:case="'Transport'"
-          th:text="${gazette.category}"
-          class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-purple-100 text-purple-800">
-     </span>
-    <span th:case="'ICT'"
-          th:text="${gazette.category}"
-          class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-yellow-100 text-yellow-800">
-     </span>
-    <span th:case="'Legal'"
-          th:text="${gazette.category}"
-          class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-red-100 text-red-800">
-</span>
-<span th:case="'Court_Legal'"
-      th:text="${gazette.category}"
-      class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-red-100 text-red-800">
-</span>
-     <span th:case="'Land_Property'"
-           th:text="${gazette.category}"
-           class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-teal-100 text-teal-800"> </span>
-     <span th:case="'Tenders'"
-           th:text="${gazette.category}"
-           class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-indigo-100 text-indigo-800"> </span>
-    <span th:case="*"
-          th:text="${gazette.category != null ? gazette.category : 'General'}" class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-gray-100 text-gray-800">
-    </span>
-</span>
+                            <span th:case="'Legislation'" th:text="${gazette.category}" class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200"></span>
+                            <span th:case="'Appointments'" th:text="${gazette.category}" class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-green-100 text-green-800 dark:bg-green-900/50 dark:text-green-300"></span>
+                            <span th:case="'Tenders'" th:text="${gazette.category}" class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-orange-100 text-orange-800 dark:bg-orange-900/50 dark:text-orange-300"></span>
+                            <span th:case="'Land_Property'" th:text="${gazette.category}" class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-teal-100 text-teal-800 dark:bg-teal-900/50 dark:text-teal-300"></span>
+                            <span th:case="'Court_Legal'" th:text="${gazette.category}" class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-red-100 text-red-800 dark:bg-red-900/50 dark:text-red-300"></span>
+                            <span th:case="'Public_Service_HR'" th:text="${gazette.category}" class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-yellow-100 text-yellow-800 dark:bg-yellow-900/50 dark:text-yellow-300"></span>
+                            <span th:case="'Licensing'" th:text="${gazette.category}" class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-purple-100 text-purple-800 dark:bg-purple-900/50 dark:text-purple-300"></span>
+                            <span th:case="'Company_Registrations'" th:text="${gazette.category}" class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-pink-100 text-pink-800 dark:bg-pink-900/50 dark:text-pink-300"></span>
 
-                        <h3 class="text-xl font-bold text-gray-900 mb-2 leading-tight" th:text="${gazette.title}"></h3>
+                            <span th:case="*" th:text="${gazette.category != null ? gazette.category : 'General'}" class="inline-block px-3 py-1 text-xs font-semibold rounded-full mb-4 bg-blue-100 text-blue-800 dark:bg-blue-900/50 dark:text-blue-300"></span>
+                        </span>
 
-                        <p class="text-gray-600 text-sm mb-4" th:text="${gazette.summary}"></p>
+                        <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2 leading-tight" th:text="${gazette.title}"></h3>
+                        <p class="text-gray-600 dark:text-gray-300 text-sm mb-4 line-clamp-3" th:text="${gazette.summary}"></p>
 
-                        <p class="text-xs text-gray-500" th:text="'Posted: ' + ${#temporals.format(gazette.systemPublishedAt, 'MMMM d, h:mm a')}"></p>
+                        <div class="flex justify-between items-center mt-4">
+                            <p class="text-xs text-gray-500 dark:text-gray-400" th:text="'Posted: ' + ${#temporals.format(gazette.systemPublishedAt, 'MMM d, h:mm a')}"></p>
+
+                            <span th:if="${gazette.significanceRating >= 8}" class="text-xs font-bold text-red-600 dark:text-red-400 flex items-center gap-1">
+                                <svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M12.395 2.553a1 1 0 00-1.45-.385c-.345.23-.614.558-.822.88-.214.33-.403.713-.57 1.116-.334.804-.614 1.768-.84 2.734a31.365 31.365 0 00-.613 3.58 2.64 2.64 0 01-.945-1.067c-.328-.68-.398-1.534-.298-2.54a1 1 0 00-1.712-1.223c-.78 1.092-1.317 2.47-1.474 3.916-.164 1.514.215 3.08.97 4.385.73 1.258 1.764 2.3 2.97 3.003a8.975 8.975 0 003.545 1.01 9.096 9.096 0 004.947-1.396c1.23-.87 2.053-2.152 2.272-3.64.22-1.498-.135-3.033-.94-4.242-1.228-1.842-3.193-4.37-5.023-6.195zM9.5 13a1.5 1.5 0 113 0 1.5 1.5 0 01-3 0z" clip-rule="evenodd" /></svg>
+                                High Impact
+                            </span>
+                        </div>
                     </div>
                 </a>
             </div>
 
             <div th:if="${#lists.isEmpty(gazettes)}" class="md:col-span-2 text-center py-12">
-                <p class="text-gray-500">No gazette summaries have been published yet. Check back soon!</p>
+                <p class="text-gray-500 dark:text-gray-400">No gazette summaries have been published yet.</p>
             </div>
         </div>
     </main>
 
-    <nav class="flex items-center justify-between border-t border-gray-200 px-4 sm:px-0"
-         th:if="${totalPages > 1}">
-
+    <nav class="flex items-center justify-between border-t border-gray-200 dark:border-gray-700 px-4 sm:px-0 mt-8 pt-4" th:if="${totalPages > 1}">
         <div class="flex-1">
-            <a th:href="@{/(page=${currentPage - 1})}"
-               th:class="${currentPage > 1} ? 'inline-flex items-center border-t-2 border-transparent pr-1 pt-4 text-sm font-medium text-gray-500 hover:border-gray-300 hover:text-gray-700' : 'hidden'">
-                <svg class="mr-3 h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M12.79 5.23a.75.75 0 01-.02 1.06L8.832 10l3.938 3.71a.75.75 0 11-1.04 1.08l-4.5-4.25a.75.75 0 010-1.08l4.5-4.25a.75.75 0 011.06.02z" clip-rule="evenodd" />
-                </svg>
-                Previous
-            </a>
+            <a th:href="@{/(page=${currentPage - 1})}" th:class="${currentPage > 1} ? 'text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-white' : 'hidden'">Previous</a>
         </div>
-
-        <div class="hidden md:flex">
-            <span class="inline-flex items-center border-t-2 border-indigo-500 px-4 pt-4 text-sm font-medium text-indigo-600" th:text="'Page ' + ${currentPage} + ' of ' + ${totalPages}"></span>
-        </div>
-
         <div class="flex-1 flex justify-end">
-            <a th:href="@{/(page=${currentPage + 1})}"
-               th:class="${currentPage < totalPages} ? 'inline-flex items-center border-t-2 border-transparent pl-1 pt-4 text-sm font-medium text-gray-500 hover:border-gray-300 hover:text-gray-700' : 'hidden'">
-                Next
-                <svg class="ml-3 h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fill-rule="evenodd" d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z" clip-rule="evenodd" />
-                </svg>
-            </a>
+            <a th:href="@{/(page=${currentPage + 1})}" th:class="${currentPage < totalPages} ? 'text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-white' : 'hidden'">Next</a>
         </div>
     </nav>
 
-    <footer class="mt-12 py-8 border-t border-gray-200 text-center text-sm text-gray-500">
+    <footer class="mt-12 py-8 border-t border-gray-200 dark:border-gray-700 text-center text-sm text-gray-500 dark:text-gray-400">
         <p>&copy; 2025 Smart Gazette. All Rights Reserved.</p>
-        <p class="mt-1">Empowering Kenyan Youth with Civic Information.</p>
     </footer>
 
 </div>
 
+<script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 <script>
-    const menuToggle = document.getElementById('menu-toggle');
-    const mobileMenu = document.getElementById('mobile-menu');
-    menuToggle.addEventListener('click', () => {
-        mobileMenu.classList.toggle('hidden');
-    });
+    const html = document.documentElement;
+    if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        html.classList.add('dark');
+    }
+    function toggleDarkMode() {
+        if (html.classList.contains('dark')) {
+            html.classList.remove('dark'); localStorage.setItem('theme', 'light');
+        } else {
+            html.classList.add('dark'); localStorage.setItem('theme', 'dark');
+        }
+    }
 </script>
-
 </body>
 </html>

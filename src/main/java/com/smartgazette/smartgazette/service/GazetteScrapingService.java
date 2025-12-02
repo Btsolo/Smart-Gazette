@@ -147,16 +147,19 @@ public class GazetteScrapingService {
                     storageDir.mkdirs();
                 }
 
-                // Create a clean filename
-                String safeGazetteNumber = gazetteNumber.replaceAll("[^a-zA-Z0-9.-]", "_");
-                String fileName = safeGazetteNumber + "_" + (gazetteDate != null ? gazetteDate : "unknown_date") + ".pdf";
+                // 1. Construct a clean, professional filename
+                // Format: Kenya_Gazette_Vol_CXXVII_No_225_Dated_2025-11-07.pdf
+                String safeNumber = gazetteNumber.replaceAll("[^a-zA-Z0-9]", "_");
+                String safeDate = (gazetteDate != null) ? gazetteDate.toString() : "Unknown_Date";
+                String fileName = "Kenya_Gazette_" + safeNumber + "_Dated_" + safeDate + ".pdf";
+
                 File destinationFile = new File(storageDir, fileName);
 
                 try (FileOutputStream out = new FileOutputStream(destinationFile)) {
                     out.write(pdfBytes);
                 }
 
-                String finalPdfPath = destinationFile.getAbsolutePath();
+                String finalPdfPath = destinationFile.getAbsolutePath(); // Use Absolute Path to avoid "file not found" errors
                 log.info("Saved PDF to permanent storage: {}", finalPdfPath);
 
                 // Pass the PERMANENT file to the service

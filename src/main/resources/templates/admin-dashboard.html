@@ -7,33 +7,33 @@
     <div th:if="${message}" class="mb-4 p-4 bg-green-100 text-green-800 rounded-md" th:text="${message}"></div>
     <div th:if="${error}" class="mb-4 p-4 bg-red-100 text-red-800 rounded-md" th:text="${error}"></div>
 
-    <h1 class="text-3xl font-bold text-gray-900 mb-6">Dashboard</h1>
+    <h1 class="text-3xl font-bold text-gray-900 dark:text-white mb-6">Dashboard</h1>
 
     <div class="mb-8">
-        <h2 class="text-xl font-semibold text-gray-800 mb-4">Processing &amp; API Status</h2>
+        <h2 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-4">Processing &amp; API Status</h2>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-            <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="text-sm font-medium text-gray-500">Total Articles</p>
-                <p class="text-3xl font-bold text-gray-900" th:text="${totalArticles}">0</p>
-                <p class="text-xs text-gray-500" th:text="${successfulArticles} + ' Successful'">0 Successful</p>
+            <div class="bg-white dark:bg-gray-700 p-6 rounded-lg shadow-md transition-colors duration-200">
+                <p class="text-sm font-medium text-gray-500 dark:text-gray-300">Total Articles</p>
+                <p class="text-3xl font-bold text-gray-900 dark:text-white" th:text="${totalArticles}">0</p>
+                <p class="text-xs text-gray-500 dark:text-gray-400" th:text="${successfulArticles} + ' Successful'">0 Successful</p>
             </div>
-            <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="text-sm font-medium text-gray-500">API Errors (Failed)</p>
-                <p class="text-3xl font-bold text-red-600" th:text="${failedArticles}">0</p>
-                <p class="text-xs text-gray-500" th:text="${#numbers.formatDecimal(successRate, 0, 1) + '% Success Rate'}">0.0%</p>
+            <div class="bg-white dark:bg-gray-700 p-6 rounded-lg shadow-md transition-colors duration-200">
+                <p class="text-sm font-medium text-gray-500 dark:text-gray-300">API Errors (Failed)</p>
+                <p class="text-3xl font-bold text-red-600 dark:text-red-400" th:text="${failedArticles}">0</p>
+                <p class="text-xs text-gray-500 dark:text-gray-400" th:text="${#numbers.formatDecimal(successRate, 0, 1) + '% Success Rate'}">0.0%</p>
             </div>
-            <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="text-sm font-medium text-gray-500">Processing Time (Avg)</p>
-                <p class="text-3xl font-bold text-gray-900">~1m 30s</p>
-                <p class="text-xs text-gray-500">(Placeholder)</p>
+            <div class="bg-white dark:bg-gray-700 p-6 rounded-lg shadow-md transition-colors duration-200">
+                <p class="text-sm font-medium text-gray-500 dark:text-gray-300">Processing Time (Avg)</p>
+                <p class="text-3xl font-bold text-gray-900 dark:text-white">~1m 30s</p>
+                <p class="text-xs text-gray-500 dark:text-gray-400">(Placeholder)</p>
             </div>
-            <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="text-sm font-medium text-gray-500">Failure Reason Breakdown</p>
-                <div class="space-y-1 mt-2 overflow-y-auto h-20">
-                    <p th:if="${#maps.isEmpty(errorReasonCounts)}" class="text-sm text-gray-500">🎉 No errors</p>
+            <div class="bg-white dark:bg-gray-700 p-6 rounded-lg shadow-md transition-colors duration-200">
+                <p class="text-sm font-medium text-gray-500 dark:text-gray-300">Failure Reason Breakdown</p>
+                <div class="space-y-1 mt-2 overflow-y-auto h-20 scrollbar-thin scrollbar-thumb-gray-400 dark:scrollbar-thumb-gray-600">
+                    <p th:if="${#maps.isEmpty(errorReasonCounts)}" class="text-sm text-gray-500 dark:text-gray-400">✅ No errors</p>
                     <div th:each="entry : ${errorReasonCounts}" class="flex justify-between text-xs">
-                        <span class="text-gray-600 truncate" th:title="${entry.key}" th:text="${entry.key}">Extraction failed</span>
-                        <span class="font-medium text-red-600" th:text="${entry.value}">0</span>
+                        <span class="text-gray-600 dark:text-gray-300 truncate" th:title="${entry.key}" th:text="${entry.key}">Extraction failed</span>
+                        <span class="font-medium text-red-600 dark:text-red-400" th:text="${entry.value}">0</span>
                     </div>
                 </div>
             </div>
@@ -41,41 +41,45 @@
     </div>
 
     <div class="mb-8">
-        <h2 class="text-xl font-semibold text-gray-800 mb-4">User Engagement</h2>
+        <h2 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-4">User Engagement</h2>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-            <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="text-sm font-medium text-gray-500">Total Engagement</p>
-                <p class="text-3xl font-bold text-gray-900" th:text="${totalEngagement}">0</p>
-                <p class="text-xs text-gray-500">Views + Feedback</p>
+            <div class="bg-white dark:bg-gray-700 p-6 rounded-lg shadow-md transition-colors duration-200">
+                <p class="text-sm font-medium text-gray-500 dark:text-gray-300">Total Engagement</p>
+                <p class="text-3xl font-bold text-gray-900 dark:text-white" th:text="${totalEngagement}">0</p>
+                <p class="text-xs text-gray-500 dark:text-gray-400">Views + Feedback</p>
             </div>
-            <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="text-sm font-medium text-gray-500">Article Views</p>
-                <p class="text-3xl font-bold text-gray-900" th:text="${totalViews}">0</p>
-                <p class="text-xs text-gray-500">Total clicks on articles</p>
+            <div class="bg-white dark:bg-gray-700 p-6 rounded-lg shadow-md transition-colors duration-200">
+                <p class="text-sm font-medium text-gray-500 dark:text-gray-300">Article Views</p>
+                <p class="text-3xl font-bold text-gray-900 dark:text-white" th:text="${totalViews}">0</p>
+                <p class="text-xs text-gray-500 dark:text-gray-400">Total clicks on articles</p>
             </div>
-            <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="text-sm font-medium text-gray-500">User Feedback</p>
-                <p class="text-3xl font-bold text-green-600" th:text="${totalThumbsUp}">0 <span class="text-gray-400">/</span>
-                    <span class="text-red-600" th:text="${totalThumbsDown}">0</span>
+            <div class="bg-white dark:bg-gray-700 p-6 rounded-lg shadow-md transition-colors duration-200">
+                <p class="text-sm font-medium text-gray-500 dark:text-gray-300">User Feedback</p>
+                <div class="flex items-baseline gap-2 mt-1">
+                    <p class="text-3xl font-bold text-green-600 dark:text-green-400" th:text="${totalThumbsUp}">0</p>
+                    <span class="text-gray-400">/</span>
+                    <p class="text-xl font-semibold text-red-500 dark:text-red-400" th:text="${totalThumbsDown}">0</p>
+                </div>
+                <p class="text-xs text-gray-500 dark:text-gray-400 mt-1">
+                    <span class="text-green-600 dark:text-green-400 font-medium">👍 Likes</span> vs <span class="text-red-500 dark:text-red-400 font-medium">👎 Dislikes</span>
                 </p>
-                <p class="text-xs text-gray-500">👍 Thumbs Up / 👎 Thumbs Down</p>
             </div>
-            <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="text-sm font-medium text-gray-500">Social Clicks (TBD)</p>
-                <p class="text-3xl font-bold text-gray-900">0</p>
-                <p class="text-xs text-gray-500">(Placeholder)</p>
+            <div class="bg-white dark:bg-gray-700 p-6 rounded-lg shadow-md transition-colors duration-200">
+                <p class="text-sm font-medium text-gray-500 dark:text-gray-300">Social Clicks (TBD)</p>
+                <p class="text-3xl font-bold text-gray-900 dark:text-white">0</p>
+                <p class="text-xs text-gray-500 dark:text-gray-400">(Placeholder)</p>
             </div>
         </div>
     </div>
 
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-6">
 
-        <div class="lg:col-span-2 bg-white p-6 rounded-lg shadow-md">
+        <div class="lg:col-span-2 bg-white dark:bg-gray-700 p-6 rounded-lg shadow-md transition-colors duration-200">
             <div class="flex justify-between items-center mb-4">
-                <h3 class="text-lg font-semibold text-gray-900">Processing Activity</h3>
-                <div class="flex items-center gap-1 bg-gray-100 p-1 rounded-lg">
-                    <button id="show-processing-btn" class="chart-tab-btn active">Over Time</button>
-                    <button id="show-traffic-btn" class="chart-tab-btn">Traffic (Demo)</button>
+                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Processing Activity</h3>
+                <div class="flex items-center gap-1 bg-gray-100 dark:bg-gray-600 p-1 rounded-lg">
+                    <button id="show-processing-btn" class="chart-tab-btn active text-gray-700 dark:text-gray-200">Over Time</button>
+                    <button id="show-traffic-btn" class="chart-tab-btn text-gray-700 dark:text-gray-200">Traffic (Demo)</button>
                 </div>
             </div>
             <div class="h-80">
@@ -83,8 +87,8 @@
             </div>
         </div>
 
-        <div class="lg:col-span-1 bg-white p-6 rounded-lg shadow-md">
-            <h3 class="text-lg font-semibold text-gray-900">Category Breakdown</h3>
+        <div class="lg:col-span-1 bg-white dark:bg-gray-700 p-6 rounded-lg shadow-md transition-colors duration-200">
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Category Breakdown</h3>
             <div class="h-80 flex items-center justify-center">
                 <canvas id="categoryChart"></canvas>
             </div>
@@ -92,38 +96,38 @@
     </div>
 
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-6">
-        <div class="lg:col-span-2 bg-white p-6 rounded-lg shadow-md">
-            <h3 class="text-lg font-semibold text-gray-900 mb-4">Live Insights (From Data)</h3>
-            <div class="space-y-4 h-80 overflow-y-auto">
+        <div class="lg:col-span-2 bg-white dark:bg-gray-700 p-6 rounded-lg shadow-md transition-colors duration-200">
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-4">Live Insights (From Data)</h3>
+            <div class="space-y-4 h-80 overflow-y-auto scrollbar-thin scrollbar-thumb-gray-400 dark:scrollbar-thumb-gray-600">
 
-                <div class="flex items-start gap-3 p-3 bg-gray-50 border border-gray-200 rounded-lg">
-                    <svg class="w-5 h-5 text-gray-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 14v6m-3-3h6M6 10h2a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v2a2 2 0 002 2zm10 0h2a2 2 0 002-2V6a2 2 0 00-2-2h-2a2 2 0 00-2 2v2a2 2 0 002 2zM6 20h2a2 2 0 002-2v-2a2 2 0 00-2-2H6a2 2 0 00-2 2v2a2 2 0 002 2z"></path></svg>
+                <div class="flex items-start gap-3 p-3 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-600 rounded-lg">
+                    <svg class="w-5 h-5 text-gray-500 dark:text-gray-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 14v6m-3-3h6M6 10h2a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v2a2 2 0 002 2zm10 0h2a2 2 0 002-2V6a2 2 0 00-2-2h-2a2 2 0 00-2 2v2a2 2 0 002 2zM6 20h2a2 2 0 002-2v-2a2 2 0 00-2-2H6a2 2 0 00-2 2v2a2 2 0 002 2z"></path></svg>
                     <div>
-                        <p class="text-sm font-medium text-gray-900">Automated AI Report (Future)</p>
-                        <p class="text-sm text-gray-600">This widget will show daily insights from an AI analysis of system logs and performance data.</p>
+                        <p class="text-sm font-medium text-gray-900 dark:text-white">Automated AI Report (Future)</p>
+                        <p class="text-sm text-gray-600 dark:text-gray-400">This widget will show daily insights from an AI analysis of system logs and performance data.</p>
                     </div>
                 </div>
 
-                <div th:each="entry : ${errorReasonCounts}" class="flex items-start gap-3 p-3 bg-red-50 border border-red-200 rounded-lg">
-                    <svg class="w-5 h-5 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
+                <div th:each="entry : ${errorReasonCounts}" class="flex items-start gap-3 p-3 bg-red-50 dark:bg-red-900/20 border border-red-200 dark:border-red-800 rounded-lg">
+                    <svg class="w-5 h-5 text-red-600 dark:text-red-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
                     <div>
-                        <p class="text-sm font-medium text-gray-900"><span th:text="${entry.value}">0</span> Notices Failed</p>
-                        <p class="text-sm text-gray-600" th:text="${'Reason: ' + entry.key}">Reason: Extraction failed</p>
+                        <p class="text-sm font-medium text-gray-900 dark:text-white"><span th:text="${entry.value}">0</span> Notices Failed</p>
+                        <p class="text-sm text-gray-600 dark:text-gray-300" th:text="${'Reason: ' + entry.key}">Reason: Extraction failed</p>
                     </div>
                 </div>
 
-                <div th:each="article : ${topArticles}" class="flex items-start gap-3 p-3 bg-blue-50 border border-blue-200 rounded-lg">
-                    <svg class="w-5 h-5 text-blue-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                <div th:each="article : ${topArticles}" class="flex items-start gap-3 p-3 bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-lg">
+                    <svg class="w-5 h-5 text-blue-600 dark:text-blue-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                     <div>
-                        <p class="text-sm font-medium text-gray-900">Top Article: <span th:text="${article.thumbsUp} + ' 👍'">0</span></p>
-                        <a th:href="@{/gazette/{id}(id=${article.id})}" target="_blank" class="text-sm text-gray-600 hover:underline" th:text="${article.title}">Top performing article title</a>
+                        <p class="text-sm font-medium text-gray-900 dark:text-white">Top Article: <span th:text="${article.thumbsUp} + ' 👍'">0</span></p>
+                        <a th:href="@{/gazette/{id}(id=${article.id})}" target="_blank" class="text-sm text-gray-600 dark:text-gray-300 hover:underline hover:text-blue-500" th:text="${article.title}">Top performing article title</a>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="lg:col-span-1 bg-white p-6 rounded-lg shadow-md">
-            <h3 class="text-lg font-semibold text-gray-900">User Feedback (Live)</h3>
+        <div class="lg:col-span-1 bg-white dark:bg-gray-700 p-6 rounded-lg shadow-md transition-colors duration-200">
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">User Feedback (Live)</h3>
             <div class="h-80 flex items-center justify-center">
                 <canvas id="feedbackChart"></canvas>
             </div>
@@ -133,6 +137,10 @@
 
     <script th:inline="javascript">
         /*<![CDATA[*/
+
+        // Set global chart defaults for dark mode visibility
+        Chart.defaults.color = '#9CA3AF'; // Text color
+        Chart.defaults.borderColor = 'rgba(156, 163, 175, 0.2)'; // Grid color
 
         // === Data from Controller ===
         const trafficLabels = /*[[${trafficLabels}]]*/ [];
@@ -153,7 +161,6 @@
         // --- Chart 1: Main Tabbed Chart ---
         const ctxMain = document.getElementById('mainChart').getContext('2d');
 
-        // --- NEW: Stacked Bar Chart for Processing (Your Request) ---
         const processingDataset = {
             type: 'bar',
             label: 'Success',
@@ -182,18 +189,18 @@
 
         const mainChart = new Chart(ctxMain, {
             data: {
-                labels: processingLabels, // Default to processing labels
+                labels: processingLabels,
                 datasets: [processingDataset, processingFailedDataset, trafficDataset]
             },
             options: {
                 responsive: true,
                 maintainAspectRatio: false,
                 scales: {
-                    x: { stacked: true }, // Stack the bars
+                    x: { stacked: true },
                     y: { stacked: true, beginAtZero: true }
                 },
                 plugins: {
-                    legend: { display: true } // Show legend for Success/Fail
+                    legend: { display: true }
                 }
             }
         });
@@ -203,16 +210,16 @@
         const processingBtn = document.getElementById('show-processing-btn');
 
         function updateTabs(activeBtn) {
-            [trafficBtn, processingBtn].forEach(btn => btn.classList.remove('active'));
-            activeBtn.classList.add('active');
+            [trafficBtn, processingBtn].forEach(btn => btn.classList.remove('active', 'bg-white', 'dark:bg-gray-500', 'shadow'));
+            activeBtn.classList.add('active', 'bg-white', 'dark:bg-gray-500', 'shadow');
         }
 
         trafficBtn.addEventListener('click', () => {
-            mainChart.data.datasets[0].hidden = true;  // Success
-            mainChart.data.datasets[1].hidden = true;  // Fail
-            mainChart.data.datasets[2].hidden = false; // Traffic
+            mainChart.data.datasets[0].hidden = true;
+            mainChart.data.datasets[1].hidden = true;
+            mainChart.data.datasets[2].hidden = false;
             mainChart.data.labels = trafficLabels;
-            mainChart.options.scales.x.stacked = false; // Unstack for line chart
+            mainChart.options.scales.x.stacked = false;
             mainChart.options.scales.y.stacked = false;
             mainChart.options.plugins.legend.display = false;
             mainChart.update();
@@ -220,21 +227,25 @@
         });
 
         processingBtn.addEventListener('click', () => {
-            mainChart.data.datasets[0].hidden = false; // Success
-            mainChart.data.datasets[1].hidden = false; // Fail
-            mainChart.data.datasets[2].hidden = true;  // Traffic
+            mainChart.data.datasets[0].hidden = false;
+            mainChart.data.datasets[1].hidden = false;
+            mainChart.data.datasets[2].hidden = true;
             mainChart.data.labels = processingLabels;
-            mainChart.options.scales.x.stacked = true; // Re-stack for bar chart
+            mainChart.options.scales.x.stacked = true;
             mainChart.options.scales.y.stacked = true;
             mainChart.options.plugins.legend.display = true;
             mainChart.update();
             updateTabs(processingBtn);
         });
 
-        // --- Chart 2: Category Pie Chart (Your Request) ---
+        // Init state for tabs
+        processingBtn.classList.add('bg-white', 'dark:bg-gray-500', 'shadow');
+
+
+        // --- Chart 2: Category Pie Chart ---
         const ctxCategory = document.getElementById('categoryChart').getContext('2d');
         new Chart(ctxCategory, {
-            type: 'pie', // Changed from doughnut
+            type: 'pie',
             data: {
                 labels: categoryLabels,
                 datasets: [{
@@ -244,6 +255,7 @@
                         '#3B82F6', '#10B981', '#F59E0B', '#EF4444', '#8B5CF6',
                         '#EC4899', '#14B8A6', '#6366F1', '#84CC16'
                     ],
+                    borderColor: 'rgba(255, 255, 255, 0.1)'
                 }]
             },
             options: {
@@ -264,7 +276,7 @@
                 datasets: [{
                     label: 'Total Votes',
                     data: feedbackData,
-                    backgroundColor: ['#10B981', '#EF4444'], // Green for Up, Red for Down
+                    backgroundColor: ['#10B981', '#EF4444'],
                     borderColor: ['#059669', '#DC2626'],
                     borderWidth: 1
                 }]
@@ -285,18 +297,16 @@
                 font-size: 0.75rem;
                 border-radius: 0.375rem;
                 font-weight: 500;
-                color: #4B5563;
                 background-color: transparent;
                 border: none;
                 cursor: pointer;
+                transition: all 0.2s;
             }
             .chart-tab-btn:hover {
-                background-color: #E5E7EB;
+                background-color: rgba(0,0,0,0.05);
             }
-            .chart-tab-btn.active {
-                background-color: #FFFFFF;
-                color: #111827;
-                box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+            .dark .chart-tab-btn:hover {
+                background-color: rgba(255,255,255,0.1);
             }
         `;
         document.head.appendChild(style);
