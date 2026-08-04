@@ -16,11 +16,16 @@
         "position": { "type": "string" },
         "agency": { "type": "string" },
         "effective_date": { "type": "string", "format": "date" },
-        "appointment_type": { "type": "string" },
+        "term_length": { "type": "string", "description": "e.g. 'three (3) years', 'five (5) years'" },
+        "appointment_type": { "type": "string", "description": "e.g. 'appointment', 're-appointment', 'revocation'" },
+        "appointing_authority": { "type": "string", "description": "e.g. 'Cabinet Secretary for Roads and Transport', 'Governor, Migori County'" },
+
+        "revokes_gn_number": { "type": "string", "description": "If this notice revokes an earlier appointment, the cited Gazette Notice number, e.g. '16166/2023' — leave empty if none cited" },
+
         "reference_number": { "type": "string" },
         "notice_id": { "type": "string" },
         "source_issue": { "type": "string" }
       }
     }
   }
-}]
+}

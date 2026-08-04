@@ -13,10 +13,16 @@
       "type": "object",
       "properties": {
         "company_name": { "type": "string" },
-        "registration_action": { "type": "string" },
+        "registration_action": { "type": "string", "description": "e.g. 'incorporation', 'intended dissolution', 'appointment of receiver', 'business transfer'" },
         "company_number": { "type": "string" },
         "effective_date": { "type": "string" },
         "directors": { "type": "array", "items": { "type": "string" } },
+
+        "appointed_party": { "type": "string", "description": "Name of receiver/manager/insolvency practitioner if this is a receivership notice — leave empty for ordinary incorporation/dissolution notices" },
+        "appointed_party_role": { "type": "string", "description": "e.g. 'Receiver and Manager', 'Liquidator'" },
+
+        "transferee_name": { "type": "string", "description": "For business transfer notices — the party the business is being transferred to" },
+
         "notice_id": { "type": "string" }
       }
     }

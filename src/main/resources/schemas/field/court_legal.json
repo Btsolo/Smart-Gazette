@@ -12,12 +12,23 @@
     "item": {
       "type": "object",
       "properties": {
-        "court_name": { "type": "string" },
-        "case_reference": { "type": "string" },
-        "parties": { "type": "array", "items": { "type": "string" } },
-        "action_type": { "type": "string" },
-        "filing_deadline": { "type": "string" },
-        "judgment_summary": { "type": "string" }
+        "court_name": { "type": "string", "description": "e.g. 'High Court of Kenya at Nairobi' or 'Chief Magistrate's Court at Kisumu'" },
+        "case_reference": { "type": "string", "description": "The CAUSE NO., e.g. 'E63 of 2025'" },
+        "notice_subtype": { "type": "string", "description": "e.g. 'Grant of Probate', 'Letters of Administration Intestate', 'Resealing of Grant', 'Succession Cause'" },
+
+        "deceased_name": { "type": "string", "description": "Full name of the deceased, including any 'alias' variants exactly as written" },
+        "date_of_death": { "type": "string", "description": "Date of death if stated" },
+        "place_of_death": { "type": "string", "description": "Place/institution of death if stated, e.g. 'Kenyatta National Hospital'" },
+        "deceased_residence": { "type": "string", "description": "Deceased's stated place of residence, e.g. 'late of Nyacaba, Thika West'" },
+
+        "petitioner_names": { "type": "array", "items": { "type": "string" }, "description": "Names of all applicants/petitioners" },
+        "petitioner_relationship": { "type": "string", "description": "e.g. 'widow', 'son and daughter-in-law', 'executors named in the will'" },
+
+        "action_type": { "type": "string", "description": "e.g. 'grant of probate', 'letters of administration intestate', 'resealing of grant'" },
+        "filing_deadline": { "type": "string", "description": "Objection window, e.g. 'thirty (30) days from the date of publication'" },
+        "judgment_summary": { "type": "string" },
+
+        "advocate_firm": { "type": "string", "description": "Advocates representing the petitioner, if stated, e.g. 'Messrs. Muriungi & Co.'" }
       }
     }
   }

@@ -34,3 +34,13 @@ build/
 
 # Google Cloud Keys
 vertex-ai-key.json
+
+# Secrets — never commit
+.env
+src/main/resources/application.properties
+
+# Stored gazette PDFs — data, not source code
+storage/
+
+# Stray embedded git repo
+src/.claude/

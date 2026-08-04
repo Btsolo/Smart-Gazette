@@ -1,6 +1,6 @@
 spring.application.name=Smart Gazette
 # --- Database Connection ---
-spring.datasource.url=jdbc:postgresql://localhost:5432/smart_gazette
+spring.datasource.url=jdbc:postgresql://localhost:ghgh/smart_gazette
 spring.datasource.username=postgres
 spring.datasource.password=root
 
@@ -17,10 +17,15 @@ spring.thymeleaf.cache=false
 spring.servlet.multipart.max-file-size=50MB
 spring.servlet.multipart.max-request-size=50MB
 
-# Google Cloud Vertex AI Configuration
-gcp.project.id=gen-lang-client-0920577457
-gcp.location=us-central1
+# Groq - handles all text calls (triage, extraction, generation)
+groq.api.key=fbhththtyhtght
+groq.model.pro=llama-3.3-70b-versatile
+groq.model.flash=llama-3.1-8b-instant
 
+# Gemini - handles vision OCR only (one call per PDF)
+gemini.api.key=AQ.rgggtrertetr
+gemini.model.ocr=gemini-2.5-flash
+gemini.model.flashLite=gemini-3.1-flash-lite
 
 #Ifttt Info
-ifttt.webhook.url=https://maker.ifttt.com/trigger/post_to_x/with/key/dG9GCrRRpnSdRQ2eiK_AEd
+ifttt.webhook.url=https://maker.ifttt.com/trigger/post_to_x/with/key/tghtgtgrg

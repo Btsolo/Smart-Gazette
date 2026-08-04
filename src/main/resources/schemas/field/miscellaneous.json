@@ -12,11 +12,13 @@
     "item": {
       "type": "object",
       "properties": {
-        "notice_type": { "type": "string" },
+        "notice_type": { "type": "string", "description": "Best-guess label for what kind of notice this is, e.g. 'Corrigendum', 'Closure of Access Road', 'Task Force Constitution', 'County Assembly Sitting'" },
         "brief_text": { "type": "string" },
         "contact_or_location": { "type": "string" },
         "date": { "type": "string" },
-        "reference": { "type": "string" }
+        "reference": { "type": "string" },
+
+        "referenced_gn_number": { "type": "string", "description": "If this notice explicitly amends/corrects/extends an earlier Gazette Notice (corrigenda pattern: 'IN Gazette Notice No. X of YYYY, amend...'), the G.N. number being referenced — leave empty if none cited" }
       }
     }
   }

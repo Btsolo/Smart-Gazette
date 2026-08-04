@@ -105,19 +105,6 @@
             <version>3.0.0</version>
         </dependency>
 
-        <!-- Google Cloud Vertex AI - Updated for correct API -->
-        <dependency>
-            <groupId>com.google.cloud</groupId>
-            <artifactId>google-cloud-aiplatform</artifactId>
-            <version>3.48.0</version>
-        </dependency>
-        <!-- Google Cloud Vertex AI SDK - CORRECT VERSION -->
-        <dependency>
-            <groupId>com.google.cloud</groupId>
-            <artifactId>google-cloud-vertexai</artifactId>
-            <version>1.0.0</version>
-        </dependency>
-
         <dependency>
             <groupId>org.jsoup</groupId>
             <artifactId>jsoup</artifactId>

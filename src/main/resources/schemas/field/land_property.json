@@ -12,10 +12,20 @@
     "item": {
       "type": "object",
       "properties": {
-        "parcel_id": { "type": "string" },
-        "parties": { "type": "array", "items": { "type": "string" } },
+        "notice_subtype": { "type": "string", "description": "e.g. 'Issue of Provisional Certificate', 'Replacement Title', 'Reconstruction of Lost Land Register', 'Registration of Instrument', 'Cancellation of Title Deed'" },
+        "is_ownership_change": { "type": "boolean", "description": "true only for genuine ownership-transfer notices (Registration of Instrument, Cancellation) — false for lost-document reissuance where the existing owner is just getting a replacement document" },
+
+        "parcel_id": { "type": "string", "description": "The L.R./title number, e.g. 'L.R. No. 24371/124' or 'Kiambaa/Kanunga/2545'" },
+        "document_type": { "type": "string", "description": "e.g. 'title deed', 'green card', 'white card', 'certificate of lease', 'land register'" },
+
+        "parties": { "type": "array", "items": { "type": "string" }, "description": "Current registered proprietor(s)" },
+        "new_owner": { "type": "string", "description": "Only populated when is_ownership_change is true — the party receiving the parcel" },
+
+        "succession_cause_number": { "type": "string", "description": "If this notice cites a probate/succession cause (common in Registration of Instrument notices), the cause number, e.g. 'Succession Cause No. 1668 of 2020'" },
+
         "action_type": { "type": "string" },
-        "location": { "type": "string" },
+        "county": { "type": "string", "description": "County or district the parcel sits in" },
+        "registrar_name": { "type": "string", "description": "Name of the signing Land Registrar/Registrar of Titles" },
         "reference_docs": { "type": "string" },
         "valuation": { "type": "string" },
         "objection_period": { "type": "string", "description": "The specific period for objections, e.g., 'sixty (60) days', '30 days'" }

@@ -24,6 +24,14 @@ public class Gazette {
     private String noticeNumber;
     private String signatory;
     private Integer sourceOrder;
+
+    // Links a sub-case split out of a multi-case notice (e.g. one
+    // "GAZETTE NOTICE NO." containing several "CAUSE NO." entries)
+    // back to the shared parent gazette notice number. Null for
+    // ordinary single-case notices.
+    @Column(name = "parent_notice_number")
+    private String parentNoticeNumber;
+
     private String gazetteVolume;
     private String gazetteNumber;
     private LocalDate gazetteDate;
@@ -220,6 +228,14 @@ public class Gazette {
 
     public void setSourceOrder(Integer sourceOrder) {
         this.sourceOrder = sourceOrder;
+    }
+
+    public String getParentNoticeNumber() {
+        return parentNoticeNumber;
+    }
+
+    public void setParentNoticeNumber(String parentNoticeNumber) {
+        this.parentNoticeNumber = parentNoticeNumber;
     }
 
     public ProcessingStatus getStatus() {
