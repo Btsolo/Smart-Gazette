@@ -2,5 +2,6 @@ package com.smartgazette.smartgazette.model;
 
 public enum ProcessingStatus {
     SUCCESS, // For successfully processed articles
-    FAILED   // For articles that failed and need review
+    PARTIAL, // Extraction succeeded, generation pending/failed — extractedDataJson is retryable
+    FAILED   // Failed before extraction completed — nothing structured to retry from
 }

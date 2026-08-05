@@ -1,5 +1,6 @@
 package com.smartgazette.smartgazette.service;
 
+import com.smartgazette.smartgazette.model.ProcessingStage;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.http.*;
 import java.util.Base64;
@@ -532,6 +533,13 @@ TEXT:
 
         log.info("Extraction complete for notice segment {}.", sourceOrder);
 
+        Gazette checkpoint = createFallbackGazette(segment.rawText(), sourceOrder, overallGazetteDetails, "Awaiting generation", originalPdfPath);
+        checkpoint.setStatus(ProcessingStatus.PARTIAL);// provisional — overwritten on success
+        checkpoint.setProcessingStage(ProcessingStage.EXTRACTED);
+        checkpoint.setExtractedDataJson(extractedData.toString());
+        checkpoint.setCategory(category);
+        Gazette saved = gazetteRepository.save(checkpoint);
+
         JSONObject generatedContent = generateNarrativeContent(extractedData, category);
 
         if (generatedContent == null) {
@@ -540,8 +548,9 @@ TEXT:
             log.info("Generation complete for notice segment {}.", sourceOrder);
         }
 
-        // rawText() preserved for DB — never the truncated version
-        return createGazetteFromJson(extractedData, generatedContent, segment.rawText(), category, sourceOrder, overallGazetteDetails, originalPdfPath);
+        // rawText() preserved for DB — never the truncated version. Reuses the
+        // checkpoint row (`saved`) instead of creating a duplicate.
+        return createGazetteFromJson(saved, extractedData, generatedContent, segment.rawText(), category, sourceOrder, overallGazetteDetails, originalPdfPath);
     }
 
     /**
@@ -1392,32 +1401,49 @@ DATA:
                     break;
                 }
 
-                if (notice.getTitle().startsWith("[GENERATION FAILED]")) {
-                    log.info("Retrying notice #{} (GENERATION failure)...", notice.getId());
+                if (notice.getProcessingStage() == ProcessingStage.EXTRACTED && notice.getExtractedDataJson() != null) {
+                    log.info("Retrying notice #{} (stage-aware: EXTRACTED, resuming from stored extraction)...", notice.getId());
 
+                    Object extractedData;
+                    try {
+                        extractedData = new JSONObject(notice.getExtractedDataJson());
+                    } catch (JSONException e) {
+                        try {
+                            extractedData = new JSONArray(notice.getExtractedDataJson());
+                        } catch (JSONException e2) {
+                            log.error("Could not retry notice #{}: stored extractedDataJson is unparseable.", notice.getId());
+                            continue;
+                        }
+                    }
+
+                    Gazette generatedNotice = runGenerationStep(extractedData, notice.getContent(), notice.getCategory(), notice.getSourceOrder(), null, notice.getOriginalPdfPath());
+
+                    if (generatedNotice != null && generatedNotice.getStatus() == ProcessingStatus.SUCCESS) {
+                        updateExistingNotice(notice, generatedNotice);
+                        log.info("SUCCESS: Retry for notice #{} was successful.", notice.getId());
+                    } else {
+                        log.warn("FAIL: Retry for notice #{} (GENERATION) failed again.", notice.getId());
+                    }
+                } else if (notice.getTitle().startsWith("[GENERATION FAILED]")) {
+                    // Legacy path — old rows saved before this checkpoint system existed,
+                    // where extraction data is embedded as markdown in `article` instead
+                    // of a proper extractedDataJson column. Keep this as a fallback for
+                    // any pre-existing FAILED rows still in the database.
+                    log.info("Retrying notice #{} (legacy GENERATION-FAILED string parse)...", notice.getId());
                     Object extractedData = null;
                     String articleJson = notice.getArticle();
                     articleJson = articleJson.replaceAll("(?s)```json\\s*(.*?)\\s*```", "$1").trim();
-
                     try {
                         extractedData = new JSONObject(articleJson);
                     } catch (JSONException e) {
                         try {
                             extractedData = new JSONArray(articleJson);
                         } catch (JSONException e2) {
-                            log.error("Could not retry notice #{}: Failed to parse extracted JSON. Content: {}", notice.getId(), articleJson);
+                            log.error("Could not retry notice #{}: Failed to parse extracted JSON.", notice.getId());
                             continue;
                         }
                     }
-
-                    if (extractedData == null) {
-                        log.error("Could not retry notice #{}: Failed to parse extracted JSON.", notice.getId());
-                        continue;
-                    }
-
-                    // --- FIX: Pass all required arguments to runGenerationStep ---
                     Gazette generatedNotice = runGenerationStep(extractedData, notice.getContent(), notice.getCategory(), notice.getSourceOrder(), null, notice.getOriginalPdfPath());
-
                     if (generatedNotice != null && generatedNotice.getStatus() == ProcessingStatus.SUCCESS) {
                         updateExistingNotice(notice, generatedNotice);
                         log.info("SUCCESS: Retry for notice #{} was successful.", notice.getId());
@@ -1501,6 +1527,97 @@ DATA:
         oldNotice.setStatus(ProcessingStatus.SUCCESS);
 
         gazetteRepository.save(oldNotice);
+    }
+
+    private Gazette createGazetteFromJson(Gazette existing, Object extractedData, JSONObject generatedContent,
+                                          String rawContent, String category, int order,
+                                          JSONObject overallGazetteDetails, String originalPdfPath) {
+        if (existing == null) {
+            return createGazetteFromJson(extractedData, generatedContent, rawContent, category, order, overallGazetteDetails, originalPdfPath);
+        }
+        // Reuse the checkpoint row instead of creating a duplicate — same fields
+        // as createGazetteFromJson, just written onto `existing` and returned
+        // instead of `new Gazette()`.
+        boolean isNull = extractedData == null;
+        boolean isEmptyArray = (extractedData instanceof JSONArray) && ((JSONArray) extractedData).isEmpty();
+        if (isNull || isEmptyArray) {
+            log.error("Cannot update checkpoint Gazette id {}: extractedData is null or empty for order {}", existing.getId(), order);
+            return createFallbackGazette(rawContent, order, overallGazetteDetails, "Extraction failed: AI returned null or empty 'items'", originalPdfPath);
+        }
+
+        String sanitizedRawContent = rawContent.replace("\u0000", "");
+        existing.setContent(sanitizedRawContent);
+        existing.setCategory(category);
+        existing.setSourceOrder(order);
+        existing.setOriginalPdfPath(originalPdfPath);
+
+        if (overallGazetteDetails != null) {
+            existing.setGazetteVolume(overallGazetteDetails.optString("gazetteVolume", ""));
+            existing.setGazetteNumber(overallGazetteDetails.optString("gazetteNumber", ""));
+            try {
+                String dateStr = overallGazetteDetails.optString("gazetteDate");
+                if (dateStr != null && !dateStr.isBlank()) {
+                    existing.setGazetteDate(LocalDate.parse(dateStr));
+                }
+            } catch (DateTimeParseException | JSONException e) {
+                log.warn("Could not parse gazetteDate from header: {}", overallGazetteDetails.optString("gazetteDate"));
+            }
+        }
+
+        if (generatedContent != null) {
+            existing.setStatus(ProcessingStatus.SUCCESS);
+            existing.setProcessingStage(ProcessingStage.GENERATED);
+            existing.setTitle(generatedContent.optString("title", "Untitled Notice").replace("\u0000", ""));
+            existing.setSummary(generatedContent.optString("summary", "No summary provided.").replace("\u0000", ""));
+            existing.setArticle(generatedContent.optString("article", extractedData.toString()).replace("\u0000", ""));
+            existing.setXSummary(generatedContent.optString("xSummary", "").replace("\u0000", ""));
+            existing.setActionableInfo(generatedContent.optString("actionableInfo", "").replace("\u0000", ""));
+            existing.setSignificanceRating(generatedContent.optInt("significance", 3));
+        } else {
+            // Stays PARTIAL — extractedDataJson is already saved, so this row
+            // is retryable via retryFailedNotices() without redoing extraction.
+            existing.setStatus(ProcessingStatus.PARTIAL);
+            existing.setTitle("[GENERATION FAILED] " + category + " Notice (Review Extracted Data)");
+            existing.setSummary("AI failed to generate summary. Extraction data preserved for retry.");
+        }
+
+        String noticeNumber = "", signatory = "", dateStr = "";
+        if (extractedData instanceof JSONObject singleItem) {
+            noticeNumber = singleItem.optString("notice_id", singleItem.optString("reference_number", ""));
+            signatory = singleItem.optString("signatory", "");
+            dateStr = singleItem.optString("publication_date", singleItem.optString("effective_date", ""));
+        } else if (extractedData instanceof JSONArray itemArray && !itemArray.isEmpty()) {
+            JSONObject firstItem = itemArray.getJSONObject(0);
+            noticeNumber = firstItem.optString("notice_id", firstItem.optString("reference_number", ""));
+            signatory = firstItem.optString("signatory", "");
+            dateStr = firstItem.optString("publication_date", firstItem.optString("effective_date", ""));
+        }
+
+        if (noticeNumber.isEmpty()) {
+            Pattern p = Pattern.compile("GAZETTE NOTICE NO\\.\\s*(\\d+)", Pattern.CASE_INSENSITIVE);
+            Matcher m = p.matcher(rawContent);
+            if (m.find()) {
+                noticeNumber = m.group(1);
+                log.info("Recovered missing notice number using Regex: {}", noticeNumber);
+            }
+        }
+        existing.setNoticeNumber(noticeNumber.replace("\u0000", ""));
+        existing.setSignatory(signatory.replace("\u0000", ""));
+
+        try {
+            if (!dateStr.isBlank()) existing.setPublishedDate(LocalDate.parse(dateStr));
+            else if (existing.getGazetteDate() != null) existing.setPublishedDate(existing.getGazetteDate());
+            else existing.setPublishedDate(LocalDate.now());
+        } catch (DateTimeParseException e) {
+            existing.setPublishedDate(LocalDate.now());
+        }
+
+        if (existing.getStatus() == ProcessingStatus.SUCCESS && existing.getSignificanceRating() >= 8) {
+            log.info("Autonomous Posting: Notice #{} has High Significance ({}). Posting to X...", existing.getId(), existing.getSignificanceRating());
+            iftttWebhookService.postTweet(existing.getXSummary());
+        }
+
+        return existing;
     }
 
     private Gazette createGazetteFromJson(Object extractedData, JSONObject generatedContent, String rawContent, String category, int order, JSONObject overallGazetteDetails, String originalPdfPath) {

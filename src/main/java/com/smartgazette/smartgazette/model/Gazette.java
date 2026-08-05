@@ -70,6 +70,14 @@ public class Gazette {
     @Column(name = "original_pdf_path")
     private String originalPdfPath;
 
+    @Enumerated(EnumType.STRING)
+    @Column(name = "processing_stage")
+    private ProcessingStage processingStage;
+
+    @Column(name = "extracted_data_json", columnDefinition = "TEXT")
+    private String extractedDataJson;
+
+
     // --- (METRIC COLLECTION) ---
     @Column(nullable = false, columnDefinition = "integer default 0")
     private int thumbsUp = 0;
@@ -83,6 +91,7 @@ public class Gazette {
 
     @Column(nullable = false, columnDefinition = "integer default 0")
     private int significanceRating = 0;
+
 
     // --- Constructors ---
 
@@ -294,11 +303,35 @@ public class Gazette {
         this.originalPdfPath = originalPdfPath;
     }
 
-    public int getViewCount() { return viewCount; }
+    public int getViewCount() {
+        return viewCount;
+    }
 
-    public void setViewCount(int viewCount) { this.viewCount = viewCount; }
+    public void setViewCount(int viewCount) {
+        this.viewCount = viewCount;
+    }
 
-    public int getSignificanceRating() { return significanceRating; }
+    public int getSignificanceRating() {
+        return significanceRating;
+    }
 
-    public void setSignificanceRating(int significanceRating) { this.significanceRating = significanceRating;  }
+    public void setSignificanceRating(int significanceRating) {
+        this.significanceRating = significanceRating;
+    }
+
+    public ProcessingStage getProcessingStage() {
+        return processingStage;
+    }
+
+    public void setProcessingStage(ProcessingStage processingStage) {
+        this.processingStage = processingStage;
+    }
+
+    public String getExtractedDataJson() {
+        return extractedDataJson;
+    }
+
+    public void setExtractedDataJson(String extractedDataJson) {
+        this.extractedDataJson = extractedDataJson;
+    }
 }

@@ -23,7 +23,7 @@ public interface GazetteRepository extends JpaRepository<Gazette, Long> {
     @Query("SELECT g FROM Gazette g ORDER BY g.gazetteDate DESC, g.sourceOrder ASC, g.id ASC")
     List<Gazette> findAllWithCorrectSorting();
 
-    @Query("SELECT g FROM Gazette g WHERE g.status = 'FAILED' ORDER BY g.gazetteDate DESC, g.sourceOrder ASC, g.id ASC")
+    @Query("SELECT g FROM Gazette g WHERE g.status IN ('FAILED', 'PARTIAL') ORDER BY g.gazetteDate DESC, g.sourceOrder ASC, g.id ASC")
     List<Gazette> findAllFailedWithCorrectSorting();
 
     // --- PAGINATION METHODS ---
