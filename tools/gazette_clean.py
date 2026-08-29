@@ -118,42 +118,83 @@ def clean(text):
 
 def apply_ascending_lock(res):
     """
-    Gazette notice numbers ascend monotonically through an issue. Any header
-    whose number is not greater than the last accepted one is either:
-      (a) a split header - the extractor cut the final digit(s) onto the next
-          line, e.g. "NO. 1900" followed by "3 HIGH COURT" (really 19003), or
-      (b) a cross-reference to an earlier notice, e.g. a revocation citing
-          "GAZETTE NOTICE NO. 719" inside notice 1341.
-    We repair (a) by absorbing the stray leading digits, and demote (b) to
-    ordinary body text so it never creates a phantom notice boundary.
+    Gazette notice numbers ascend monotonically through an issue, but the text
+    also contains cross-references to earlier notices ("IN Gazette Notice No.
+    14410 of 2023, amend..."). Those look identical to real headers.
+
+    A single-pass "must exceed the previous" rule fails when a cross-reference
+    appears BEFORE the first real notice - as in issues that open with a
+    CORRIGENDA section - because the high reference number then rejects every
+    genuine header that follows.
+
+    So we keep the largest strictly-ascending subset of candidates (a longest
+    increasing subsequence in document order). Real headers form one long
+    ascending run; cross-references are isolated outliers that fall outside it.
+    Each candidate may also be considered in a repaired form, for headers whose
+    trailing digits were split onto the following line ("NO. 1900" + "3 HIGH").
     """
     lines = res.split('\n')
-    out, last, i = [], 0, 0
-    while i < len(lines):
-        ln = lines[i]
+
+    # ---- collect candidates, each with one or two possible values ----------
+    cands = []          # dict: line, variants [(value, absorb_next, tail_text)]
+    for i, ln in enumerate(lines):
         m = re.match(r'^GAZETTE NOTICE NO\. (\d+)\s*(.*)$', ln)
         if not m:
-            out.append(ln); i += 1; continue
-        num, rest = int(m.group(1)), m.group(2)
-        if num > last:
-            last = num; out.append(ln); i += 1; continue
-        # repair (a): stray digits trail on this line, or open the next line
-        tail = rest if rest else (lines[i+1] if i+1 < len(lines) else '')
-        dm = re.match(r'^(\d+)\s+(.*)$', tail.strip())
+            continue
+        num_s, rest = m.group(1), m.group(2)
+        variants = [(int(num_s), False, rest)]
+        nxt = rest if rest else (lines[i + 1] if i + 1 < len(lines) else '')
+        dm = re.match(r'^(\d+)\s+(.*)$', nxt.strip())
         if dm:
-            merged = int(m.group(1) + dm.group(1))
-            if merged > last:
-                last = merged
-                out.append('GAZETTE NOTICE NO. %d' % merged)
-                if rest:
-                    i += 1
-                else:
-                    out.append(dm.group(2)); i += 2
-                continue
-        # (b) cross-reference: demote so it never starts a notice
-        out.append('Gazette Notice No. %d %s' % (num, rest)); i += 1
-    return '\n'.join(out)
+            variants.append((int(num_s + dm.group(1)), not rest, dm.group(2)))
+        cands.append({'line': i, 'variants': variants})
 
+    if not cands:
+        return res
+
+    # ---- longest strictly-increasing subsequence over (candidate, variant) --
+    flat = [(ci, vi, v[0]) for ci, c in enumerate(cands)
+            for vi, v in enumerate(c['variants'])]
+    n = len(flat)
+    best = [1] * n
+    prev = [-1] * n
+    for k in range(n):
+        ck, _, vk = flat[k]
+        for j in range(k):
+            cj, _, vj = flat[j]
+            if cj < ck and vj < vk and best[j] + 1 > best[k]:
+                best[k] = best[j] + 1
+                prev[k] = j
+    end_k = max(range(n), key=lambda k: best[k])
+
+    keep = {}
+    k = end_k
+    while k != -1:
+        ci, vi, _ = flat[k]
+        keep[cands[ci]['line']] = cands[ci]['variants'][vi]
+        k = prev[k]
+
+    # ---- rewrite ------------------------------------------------------------
+    out, skip = [], set()
+    for i, ln in enumerate(lines):
+        if i in skip:
+            continue
+        m = re.match(r'^GAZETTE NOTICE NO\. (\d+)\s*(.*)$', ln)
+        if not m:
+            out.append(ln)
+            continue
+        if i in keep:
+            value, absorb, tail = keep[i]
+            out.append(('GAZETTE NOTICE NO. %d' % value).rstrip())
+            if absorb:
+                skip.add(i + 1)
+                if tail:
+                    out.append(tail)
+            elif tail:
+                out.append(tail)
+        else:
+            out.append(('Gazette Notice No. %s %s' % (m.group(1), m.group(2))).rstrip())
+    return '\n'.join(out)
 
 if __name__ == '__main__':
     data = open(sys.argv[1], 'rb').read()
