@@ -73,6 +73,7 @@ def _names(raw):
         p = _t(p)
         if p:
             p = re.sub(r'^(?:both|all)\s+', '', p, flags=re.I)
+            p = re.sub(r'[,\s]+(?:both|all)$', '', p, flags=re.I).strip(' ,.')
             out.append(p)
     return out
 

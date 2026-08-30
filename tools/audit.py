@@ -76,6 +76,38 @@ def check_schema_alignment(sample_outputs):
             out.append((mod, 'ok', 'matches %s exactly (%d fields)' % (schema, len(want))))
     return out
 
+def check_generation(samples):
+    """Every extracted record must render, and the rendered output must be
+    complete, correctly shaped, and free of the formatting defects that have
+    shown up in practice (glued sentences, uppercase courts, clipped fields)."""
+    G = load('generate')
+    REQUIRED = {'title', 'summary', 'article', 'xSummary', 'actionableInfo', 'significance'}
+    out = []
+    for mod, cat in (('probate_template', 'court_legal'), ('land_template', 'land_property')):
+        rec = samples.get(mod)
+        if rec is None:
+            out.append((cat, 'skip', 'no sample record')); continue
+        art = G.generate(cat, rec)
+        if art is None:
+            out.append((cat, 'ERROR', 'extracted record did not render')); continue
+        missing = REQUIRED - set(art)
+        if missing:
+            out.append((cat, 'ERROR', 'missing output keys: %s' % sorted(missing))); continue
+        probs = []
+        # xSummary is only populated when significance clears the posting
+        # threshold, so an empty one is correct for routine notices.
+        if art['xSummary'] is not None and len(art['xSummary']) > 240:
+            probs.append('xSummary over 240 chars')
+        if art['xSummary'] is not None and art['significance'] < 8:
+            probs.append('xSummary populated below the posting threshold')
+        if art['article'].count('\n\n') != 2:      probs.append('article is not 3 paragraphs')
+        if re.search(r'[a-z]\.[A-Z]', art['article']): probs.append('missing space after a full stop')
+        if re.search(r'\b(OF|AT|THE)\b', art['title']): probs.append('uppercase small word in title')
+        if re.search(r'\s-\s(?:in|law)\b', art['article']): probs.append('spaced hyphen in compound')
+        if not isinstance(art['significance'], int):  probs.append('significance is not an int')
+        out.append((cat, 'ERROR' if probs else 'ok', '; '.join(probs) or 'renders cleanly, 3 paragraphs, all keys'))
+    return out
+
 def behavioural():
     P, L, C = load('probate_template'), load('land_template'), load('corrigenda_template')
     cases = [
@@ -128,7 +160,12 @@ if __name__ == '__main__':
         print('  %-5s %-20s %s' % (sev, mod, msg))
         if sev == 'ERROR': fail += 1
 
-    print('\n== 4. behavioural ==')
+    print('\n== 4. generation output ==')
+    for cat, sev, msg in check_generation(samples):
+        print('  %-5s %-20s %s' % (sev, cat, msg))
+        if sev == 'ERROR': fail += 1
+
+    print('\n== 5. behavioural ==')
     for lbl, sev, _ in behavioural():
         print('  %-5s %s' % (sev, lbl))
         if sev == 'ERROR': fail += 1

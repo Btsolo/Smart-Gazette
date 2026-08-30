@@ -28,7 +28,7 @@ RE_CAUSE = re.compile(
 RE_ACTION = re.compile(
     r'for\s+(?:a|the)\s+(?P<action>'
     r'grant\s+of\s+letters\s+of\s+administration(?:\s+intestate|\s+testate)?|'
-    r'grant\s+of\s+probate[a-z\s]*?|'
+    r'grant\s+of\s+probate(?:\s+of\s+the\s+(?:last\s+)?(?:written\s+)?will(?:\s+and\s+testament)?)?|'
     r'resealing\s+of\s+a\s+grant[a-z\s]*?'
     r')\s*(?:to\s+the\s+estate\s+of|(?:written|last)?\s*will\s+of)\s+(?P<tail>.+)$',
     re.S | re.I)
@@ -43,7 +43,8 @@ RE_DEATH = re.compile(
     re.S | re.I)
 
 RE_COURT    = re.compile(r'IN\s+THE\s+(?P<court>(?:HIGH\s*COURT|CHIEF\s*MAGISTRATE|SENIOR\s*PRINCIPAL\s*MAGISTRATE|PRINCIPAL\s*MAGISTRATE|SENIOR\s*RESIDENT\s*MAGISTRATE|RESIDENT\s*MAGISTRATE)[^\n]{0,60}?)\s*(?:PROBATE|\n)', re.I)
-RE_DEADLINE = re.compile(r'within\s+(?P<deadline>[a-z\-]+\s*\(\s*\d+\s*\)\s*days(?:\s+from[^\.]{0,50})?)', re.I)
+RE_DEADLINE = re.compile(r'within\s+(?P<deadline>[a-z\-]+\s*\(\s*\d+\s*\)\s*days'
+                         r'(?:\s+from\s+the\s+date\s+of\s+publication)?)', re.I)
 RE_ADVOCATE = re.compile(r'through\s+(?:Messrs\.?\s*)?(?P<advocates>.+?),\s*advocates?', re.I)
 RE_ADDRESS  = re.compile(r'(?:all\s+of|of)\s+(?P<address>P\.?\s*O\.?\s*Box[^,]*(?:,\s*[^,]*)?)', re.I)
 RE_RELATION = re.compile(r"the\s+deceased'?s?\s+(?P<relationship>[a-z\s\-]+?)\s*,", re.I)
@@ -54,6 +55,9 @@ def _t(s):
 def _tidy(s):
     if not s: return None
     s = re.sub(r'\s+', ' ', s).strip(' ,.')
+    # the fragment-joiner sometimes glues an ordinal to a month ("15thMarch")
+    s = re.sub(r'(\d(?:st|nd|rd|th))([A-Z])', r'\1 \2', s)
+    s = re.sub(r'([a-z])([A-Z])(?=[a-z])', r'\1 \2', s) if re.search(r'\d', s) else s
     # drop quantifiers the name-splitter can trail ("... Kasi, both")
     s = re.sub(r'[,\s]+(both|all)$', '', s, flags=re.I).strip(' ,.')
     return s or None
