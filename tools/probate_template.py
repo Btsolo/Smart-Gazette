@@ -37,14 +37,19 @@ RE_ACTION = re.compile(
 # the comma before "who" is not always present after the extractor's joins.
 RE_DEATH = re.compile(
     r'^(?P<deceased>.+?)'
-    r'(?:,\s*late\s+of\s+(?P<residence>[^,]+?))?'
+    r'(?:\s*,?\s*late\s+of\s+(?P<residence>.+?))?'
     r'[,\s]*who\s+died\s*(?:at\s+(?P<place>.+?)|(?P<there>there))?'
     r'[,\s]*on\s+(?P<date>\d{1,2}\s*(?:st|nd|rd|th)?\s*[A-Za-z]+\s*,?\s*\d{4})',
     re.S | re.I)
 
+RE_COURT    = re.compile(r'IN\s+THE\s+(?P<court>(?:HIGH\s*COURT|CHIEF\s*MAGISTRATE|SENIOR\s*PRINCIPAL\s*MAGISTRATE|PRINCIPAL\s*MAGISTRATE|SENIOR\s*RESIDENT\s*MAGISTRATE|RESIDENT\s*MAGISTRATE)[^\n]{0,60}?)\s*(?:PROBATE|\n)', re.I)
+RE_DEADLINE = re.compile(r'within\s+(?P<deadline>[a-z\-]+\s*\(\s*\d+\s*\)\s*days(?:\s+from[^\.]{0,50})?)', re.I)
 RE_ADVOCATE = re.compile(r'through\s+(?:Messrs\.?\s*)?(?P<advocates>.+?),\s*advocates?', re.I)
 RE_ADDRESS  = re.compile(r'(?:all\s+of|of)\s+(?P<address>P\.?\s*O\.?\s*Box[^,]*(?:,\s*[^,]*)?)', re.I)
 RE_RELATION = re.compile(r"the\s+deceased'?s?\s+(?P<relationship>[a-z\s\-]+?)\s*,", re.I)
+
+def _t(s):
+    return _tidy(s)
 
 def _tidy(s):
     if not s: return None
@@ -61,7 +66,13 @@ def _names(raw):
     parts = [p for p in re.split(r'[|]', raw)]
     return [_tidy(p) for p in parts if _tidy(p)]
 
-def extract(block):
+def extract(block, notice=None):
+    """block  = one CAUSE NO. segment.
+    notice = the full notice text, if available. The court name and the
+    objection deadline are stated once per notice (in the header and the
+    closing paragraph), not inside each cause block, so they are read from
+    the notice when it is supplied."""
+    ctx = notice if notice else block
     m = RE_CAUSE.search(block)
     if not m: return None
     body = m.group('body')
@@ -88,17 +99,22 @@ def extract(block):
     cut = min(cuts) if cuts else len(pet_seg)
     names = _names(pet_seg[:cut])
 
+    # Field names follow schemas/court_legal.json exactly.
+    act = _t(a.group('action')).lower()
     out = {
-        'case_reference': _tidy(re.sub(r'\s', '', m.group('case_ref')) + ' OF ' + re.sub(r'\s','',m.group('case_year'))),
-        'action_type': _tidy(a.group('action')).lower(),
-        'petitioner_names': names,
-        'petitioner_address': _tidy(addr.group('address')) if addr else None,
+        'court_name':              _t(RE_COURT.search(ctx).group('court')) if RE_COURT.search(ctx) else None,
+        'case_reference':          _tidy(re.sub(r'\s', '', m.group('case_ref')) + ' OF ' + re.sub(r'\s','',m.group('case_year'))),
+        'notice_subtype':          act.title(),
+        'deceased_name':           _tidy(d.group('deceased')),
+        'date_of_death':           _tidy(d.group('date')),
+        'place_of_death':          _tidy(d.group('place')) if d.group('place') else (_tidy(d.group('residence')) if d.group('there') else None),
+        'deceased_residence':      _tidy(d.group('residence')),
+        'petitioner_names':        names,
         'petitioner_relationship': _tidy(rel.group('relationship')) if rel else None,
-        'advocate_firm': _tidy(adv.group('advocates')) if adv else None,
-        'deceased_name': _tidy(d.group('deceased')),
-        'deceased_residence': _tidy(d.group('residence')),
-        'place_of_death': _tidy(d.group('place')) if d.group('place') else (_tidy(d.group('residence')) if d.group('there') else None),
-        'date_of_death': _tidy(d.group('date')),
+        'action_type':             act,
+        'filing_deadline':         _t(RE_DEADLINE.search(ctx).group('deadline')) if RE_DEADLINE.search(ctx) else None,
+        'judgment_summary':        None,
+        'advocate_firm':           _tidy(adv.group('advocates')) if adv else None,
     }
     # required fields
     if not (out['deceased_name'] and out['date_of_death'] and out['petitioner_names']):

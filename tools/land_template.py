@@ -19,7 +19,7 @@ def tol(word):
     ("proprietors" can arrive as "proprie tors" or "propriet ors")."""
     return r'\s*'.join(re.escape(ch) for ch in word)
 
-RE_ACT   = re.compile(r'THE\s+LAND\s+(?:REGISTRATION|TITLES?)\s+ACT', FLAGS)
+RE_ACT   = re.compile(r'THE\s*LAND\s+(?:REGISTRATION|TITLES?)\s+ACT', FLAGS)
 RE_SUBJ  = re.compile(r'ISSUE\s+OF\s+A\s+(?P<subject>(?:NEW\s+)?(?:PROVISIONAL\s+)?'
                       r'(?:LAND\s+)?(?:CERTIFICATE|TITLE|LEASE)[A-Z\s]*?)(?=WHEREAS|\s*$)', FLAGS)
 
@@ -55,6 +55,8 @@ RE_INSTR = re.compile(r'by\s+virtue\s+of\s+a\s+(?P<instrument>[a-z\s]+?)\s*,', F
 RE_IR    = re.compile(tol('registered') + r'\s+as\s+(?:I\.?\s*R\.?|C\.?\s*R\.?)\s*(?P<ir>[\w/\-\.]+)', FLAGS)
 RE_LOST  = re.compile(r'show\s+that\s+the\s+said\s*(?P<lost>.+?)\s*(?:issued\s+thereof\s*)?has\s+been\s+lost', FLAGS)
 RE_DAYS  = re.compile(r'expiration\s+of\s+(?P<period>[a-z\-]+)\s*\(\s*(?P<days>\d+)\s*\)\s*days', FLAGS)
+RE_REGISTRAR = re.compile(r'([A-Z][A-Za-z\.\s\']{3,40}?)\s*,\s*(?:MR\s*/?\s*\d+\s*)?(?:Land\s*|Deputy\s*|District\s*)?Registrar(?:\s*of\s*Titles)?', FLAGS)
+RE_CAUSE_REF = re.compile(r'(?:succession\s+)?cause\s+no\.?\s*(?P<cause>[A-Z]?\d+\s*of\s*\d{4})', FLAGS)
 RE_DATED = re.compile(r'Dated\s+the\s+(?P<dated>\d{1,2}\s*(?:st|nd|rd|th)?\s*[A-Za-z]+\s*,?\s*\d{4})', FLAGS)
 
 def _t(s):
@@ -92,24 +94,30 @@ def extract(notice):
     dated = RE_DATED.search(notice)
     subj  = RE_SUBJ.search(notice)
 
+    # Field names follow schemas/land_property.json exactly, so the output
+    # drops straight into the same pipeline slot as the AI extraction.
+    doc  = _t(lost.group('lost')) if lost else None
+    period = None
+    if days:
+        period = '%s (%s) days' % (_t(days.group('period')), days.group('days'))
+
     out = {
-        'notice_subtype':      _t(subj.group('subject')) if subj else 'Issue of a Provisional Certificate',
-        'proprietor_names':    _names(p.group('names')),
-        'proprietor_address':  _t(p.group('address')),
-        'property_reference':  _t(lr.group('lr')) if lr else None,
-        'area':                _t(RE_AREA.search(notice).group('area')) if RE_AREA.search(notice) else None,
-        'tenure':              (_t(p.group('tenure'))
-                                if p.group('tenure') and re.search(r'freehold|leasehold|absolute|ownership', p.group('tenure'), re.I)
-                                else None),
-        'location':            _t(loc.group('location')) if loc else None,
-        'district':            _t(loc.group('district')) if loc else (_t(loc2.group('district')) if loc2 else None),
-        'instrument':          _t(instr.group('instrument')) if instr else None,
-        'registration_number': _t(ir.group('ir')) if ir else None,
-        'lost_document':       _t(lost.group('lost')) if lost else None,
-        'objection_days':      int(days.group('days')) if days else None,
-        'dated':               _t(dated.group('dated')) if dated else None,
+        'notice_subtype':          _t(subj.group('subject')) if subj else 'Issue of a Provisional Certificate',
+        'is_ownership_change':     False,   # lost-document notices never transfer ownership
+        'parcel_id':               _t(lr.group('lr')) if lr else None,
+        'document_type':           doc,
+        'parties':                 _names(p.group('names')),
+        'new_owner':               None,
+        'succession_cause_number': _t(RE_CAUSE_REF.search(notice).group('cause')) if RE_CAUSE_REF.search(notice) else None,
+        'action_type':             'replacement of lost document',
+        'county':                  (_t(loc.group('district')) if loc
+                                    else (_t(loc2.group('district')) if loc2 else None)),
+        'registrar_name':          _t(RE_REGISTRAR.search(notice).group(1)) if RE_REGISTRAR.search(notice) else None,
+        'reference_docs':          _t(ir.group('ir')) if ir else None,
+        'valuation':               _t(RE_AREA.search(notice).group('area')) if RE_AREA.search(notice) else None,
+        'objection_period':        period,
     }
-    if not (out['proprietor_names'] and out['property_reference']):
+    if not (out['parties'] and out['parcel_id']):
         return None
     return out
 
