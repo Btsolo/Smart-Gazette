@@ -46,8 +46,13 @@ def clean(text):
 
     # Note: 'AZET T? E' tolerates the source typo "GAZETE" (one T) seen in
     # Vol. CXXVII No. 266 notice 19127.
+    # Case-sensitive on purpose. Real headers are set in small caps and come
+    # out of the extractor as all-uppercase fragments ("G AZETTE N OTICE N O.").
+    # Cross-references inside corrigenda are ordinary mixed case ("IN Gazette
+    # Notice No. 5520 of 2026, amend ..."), so requiring uppercase keeps them
+    # out of the candidate set entirely.
     t = re.sub(r'G\s*A\s*Z\s*E\s*T\s*T?\s*E\s*N\s*O\s*T\s*I\s*C\s*E\s*N\s*O\s*\.\s*([\d\s]*\d)(?=\s*\n\s*[A-Z])',
-               lambda m: '\n@@HDR@@' + re.sub(r'\s', '', m.group(1)) + '\n', t, flags=re.I)
+               lambda m: '\n@@HDR@@' + re.sub(r'\s', '', m.group(1)) + '\n', t)
     t = re.sub(r'C\s*A\s*U\s*S\s*E\s*N\s*O\s*\.\s*', '\n@@CAUSE@@ ', t, flags=re.I)
     t = re.sub(r'T\s*AKE\s+N\s*OTICE', 'TAKE NOTICE', t, flags=re.I)
     t = re.sub(r'P\s*ROBATE\s+AND\s+A\s*DMINISTRATION', 'PROBATE AND ADMINISTRATION', t, flags=re.I)
