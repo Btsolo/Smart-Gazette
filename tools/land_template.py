@@ -11,6 +11,12 @@ occasionally drops or adds a space ("parcelof", "TITLEWHEREAS", "proprie tor").
 Returns None when required fields are missing, so the caller falls back to AI.
 """
 import re
+import os, importlib.util
+_ns = importlib.util.spec_from_file_location('names', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'names.py'))
+NAMES = importlib.util.module_from_spec(_ns); _ns.loader.exec_module(NAMES)
+import os, importlib.util as _il
+_pn = _il.spec_from_file_location("proper_nouns", os.path.join(os.path.dirname(os.path.abspath(__file__)), "proper_nouns.py"))
+PN = _il.module_from_spec(_pn); _pn.loader.exec_module(PN)
 
 FLAGS = re.I | re.S
 
@@ -29,7 +35,7 @@ RE_PROP  = re.compile(
     r'WHEREAS\s+(?P<names>.+?)\s*,?\s*'
     r'(?:of\s+(?P<address>P\.?\s*O\.?\s*Box[^,]*(?:,\s*[^,]*?)?)\s*,?\s*)?'
     r'(?:in\s+the\s+Republic\s+of\s+Kenya\s*,?\s*)?'
-    r'(?:is|are)?\s*(?:directors?\s+of\s+[^,]+,\s*)?' + tol('registered') +
+    r'(?:is|are)?\s*(?:the\s+)?(?:directors?\s+of\s+[^,]+,\s*)?' + tol('registered') +
     r'(?:\s+as\s+' + tol('proprietor') + r's?)?'
     r'(?P<tenure>.{0,70}?)\s*of\s*all\s*th(?:at|ose)', FLAGS)
 
@@ -39,8 +45,11 @@ RE_PROP  = re.compile(
 #   "... registered under the title No. Njoro/Ngata Block 2/2"
 RE_LR    = re.compile(r'known\s+as\s+(?P<lr>.+?)\s*,\s*'
                       r'(?=containing|situate|by\s+virtue|and\s+whereas|' + tol('registered') + r')', FLAGS)
-RE_LR2   = re.compile(tol('registered') + r'\s+under\s*(?:the\s*)?title\s+No\.?\s*'
-                      r'(?P<lr>.+?)\s*(?:,\s*(?=and\s+whereas|by\s+virtue|containing|situate)|\.\s|$)', FLAGS)
+# "title No." or "title Nos." - the plural form lists several parcels, and the
+# whole list is the identifier, so it is captured intact.
+RE_LR2   = re.compile(tol('registered') + r'\s+under\s*(?:the\s*)?title\s+Nos?\.?\s*'
+                      r'(?P<lr>.+?)\s*(?:,?\s*respectively)?\s*'
+                      r'(?:,\s*(?=and\s+whereas|by\s+virtue|containing|situate)|\.\s|$)', FLAGS)
 
 RE_AREA  = re.compile(r'containing\s+(?P<area>[\d\.]+\s*(?:hectares?|acres?))', FLAGS)
 # Location appears in several forms:
@@ -65,17 +74,13 @@ def _t(s):
     return s or None
 
 def _names(raw):
+    """Split a party clause into individual names, then hand each to the
+    shared proper-noun cleaner (see names.py)."""
     if not raw: return []
     raw = re.sub(r'\(\d+\)', '|', raw)
     raw = re.sub(r'\s+and\s+', '|', raw)
-    out = []
-    for p in raw.split('|'):
-        p = _t(p)
-        if p:
-            p = re.sub(r'^(?:both|all)\s+', '', p, flags=re.I)
-            p = re.sub(r'[,\s]+(?:both|all)$', '', p, flags=re.I).strip(' ,.')
-            out.append(p)
-    return out
+    cleaned, _ = NAMES.clean_names([p for p in raw.split('|')])
+    return cleaned
 
 def extract(notice):
     """notice = full text of one GAZETTE NOTICE block."""
@@ -107,7 +112,7 @@ def extract(notice):
         'is_ownership_change':     False,   # lost-document notices never transfer ownership
         'parcel_id':               _t(lr.group('lr')) if lr else None,
         'document_type':           doc,
-        'parties':                 _names(p.group('names')),
+        'parties':                 PN.repair_names(_names(p.group('names'))),
         'new_owner':               None,
         'succession_cause_number': _t(RE_CAUSE_REF.search(notice).group('cause')) if RE_CAUSE_REF.search(notice) else None,
         'action_type':             'replacement of lost document',
@@ -118,7 +123,12 @@ def extract(notice):
         'valuation':               _t(RE_AREA.search(notice).group('area')) if RE_AREA.search(notice) else None,
         'objection_period':        period,
     }
-    if not (out['parties'] and out['parcel_id']):
+    # The parcel id is the key a reader looks the notice up by. A fragment
+    # like "s" (from a mis-parsed "title Nos.") is worse than no extraction,
+    # because it stores an unfindable record. Reject it and let the AI path
+    # handle the notice instead.
+    pid = out['parcel_id']
+    if not (out['parties'] and pid and len(pid) >= 4 and re.search(r'\d', pid)):
         return None
     return out
 

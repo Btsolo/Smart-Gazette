@@ -297,45 +297,62 @@ def _drop_unused_tweet(article):
     return article
 
 def group_land(records, issue_label=None):
-    """One digest article over a batch of lost-document land notices."""
+    """One digest over a batch of lost-document land notices, organised by
+    county.
+
+    Presented singly these notices are tedious and near-identical; presented
+    together they are a usable reference. The parcel id is the key - it is how
+    a reader finds their own parcel - so members are keyed on it and sorted
+    within each county.
+    """
     recs = [r for r in records if r and r.get('parcel_id')]
     if len(recs) < 3:
-        return None                      # not worth grouping
+        return None
 
-    counties = [normalise_county(r.get('county')) for r in recs]
-    counties = [c for c in counties if c]
-    spread   = sorted(set(counties))
-    docs     = [r.get('document_type') for r in recs if r.get('document_type')]
-    common   = max(set(docs), key=docs.count) if docs else 'title document'
+    by_county = {}
+    for r in recs:
+        c = normalise_county(r.get('county')) or 'County not stated'
+        by_county.setdefault(c, []).append({
+            'parcel_id':  r.get('parcel_id'),           # the key a reader looks up
+            'parties':    r.get('parties'),
+            'document':   r.get('document_type'),
+            'sub_county': r.get('sub_county'),
+            'objection_period': r.get('objection_period'),
+        })
+    for c in by_county:
+        by_county[c].sort(key=lambda m: (m['parcel_id'] or ''))
+
+    named   = sorted(c for c in by_county if c != 'County not stated')
+    docs    = [r.get('document_type') for r in recs if r.get('document_type')]
+    common  = max(set(docs), key=docs.count) if docs else 'title document'
     common_pl = _plural(common)
-    periods  = [r.get('objection_period') for r in recs if r.get('objection_period')]
-    period   = max(set(periods), key=periods.count) if periods else None
-
+    periods = [r.get('objection_period') for r in recs if r.get('objection_period')]
+    period  = max(set(periods), key=periods.count) if periods else None
     n = len(recs)
-    where = ('across %d counties' % len(spread) if len(spread) > 3
-             else 'in %s' % _join(spread) if spread else '')
-    title = _clip('%d replacement %s gazetted%s'
-                  % (n, common_pl, (' ' + where) if where else ''), 90)
 
-    summary = _sentence('%d parcels have had their %s reported lost%s, and '
-                        'replacements will be issued unless objections are received'
+    where = ('across %d counties' % len(named) if len(named) > 3
+             else 'in %s' % _join(named) if named else '')
+    title   = _clip('%d replacement %s gazetted%s' % (n, common_pl, (' ' + where) if where else ''), 90)
+    summary = _sentence('%d parcels have had their %s reported lost%s, and replacements '
+                        'will be issued unless objections are received'
                         % (n, common_pl, (' ' + where) if where else ''))
 
-    p1 = _sentence('The Land Registrar has advertised %d notices of lost %s in this '
-                   'issue%s' % (n, common_pl, (', ' + where) if where else ''))
-    if spread and len(spread) <= 8:
-        p1 += ' ' + _sentence('The parcels lie in %s' % _join(spread))
+    p1 = _sentence('The Land Registrar has advertised %d notices of lost %s in this issue%s'
+                   % (n, common_pl, (', ' + where) if where else ''))
+    top = sorted(by_county.items(), key=lambda kv: -len(kv[1]))[:4]
+    if top:
+        p1 += ' ' + _sentence('The largest groups are %s'
+                              % _join(['%s (%d)' % (c, len(m)) for c, m in top if c != 'County not stated']))
 
-    p2 = ('Each notice follows the same course: the registered proprietor has '
-          'reported the original document lost, the Registrar is satisfied by the '
-          'evidence produced, and a replacement is to be issued. Anyone holding an '
-          'original document for one of these parcels, or claiming an interest in '
-          'it, is affected.')
+    p2 = ('Each notice follows the same course: the registered proprietor has reported '
+          'the original document lost, the Registrar is satisfied by the evidence '
+          'produced, and a replacement is to be issued. Anyone holding an original '
+          'document for one of these parcels, or claiming an interest in it, is affected.')
 
-    p3 = (_sentence('Objections must reach the Land Registrar within %s of the '
-                    'respective notice' % period) if period
+    p3 = (_sentence('Objections must reach the Land Registrar within %s of the respective notice'
+                    % period) if period
           else 'Objections must reach the Land Registrar within the period stated in each notice.')
-    p3 += ' The individual notices below carry the parcel numbers and registered proprietors.'
+    p3 += ' The table below lists every parcel by county, with its registered proprietor.'
 
     return {
         'title': title,
@@ -347,10 +364,22 @@ def group_land(records, issue_label=None):
                            'Objections must reach the Land Registrar within the stated period.'),
         'significance': 3,
         'grouped_count': n,
-        'members': [{'parcel_id': r.get('parcel_id'),
-                     'parties': r.get('parties'),
-                     'county': normalise_county(r.get('county'))} for r in recs],
+        'counties': len(named),
+        'by_county': by_county,          # county -> [ {parcel_id, parties, ...} ]
     }
+
+def render_group_table(digest):
+    """Markdown table for the digest, grouped by county and keyed on parcel id."""
+    if not digest: return ''
+    out = []
+    for county in sorted(digest['by_county'], key=lambda c: (c == 'County not stated', c)):
+        members = digest['by_county'][county]
+        out.append('\n**%s** (%d)\n' % (county, len(members)))
+        out.append('| Parcel | Registered proprietor |')
+        out.append('|---|---|')
+        for m in members:
+            out.append('| %s | %s |' % (m['parcel_id'] or '-', _join(m['parties']) or '-'))
+    return '\n'.join(out)
 
 GROUPERS = {'land_property': group_land}
 

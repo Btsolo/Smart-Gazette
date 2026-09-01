@@ -108,6 +108,42 @@ def check_generation(samples):
         out.append((cat, 'ERROR' if probs else 'ok', '; '.join(probs) or 'renders cleanly, 3 paragraphs, all keys'))
     return out
 
+def check_key_fields(samples):
+    """Names and parcel ids carry the record. A wrong name makes a notice
+    unsearchable; a wrong parcel id makes it unfindable by the one person who
+    needs it. Both are checked across the corpus, not just on a sample."""
+    import glob as _g
+    N  = load('names'); L = load('land_template'); P = load('probate_template')
+    GC = load('gazette_clean')
+    names, parcels = [], []
+    for f in sorted(_g.glob('/mnt/user-data/uploads/raw*.txt'))[:6]:
+        d = open(f, 'rb').read()
+        try:    raw = d.decode('utf-16')
+        except  UnicodeError: raw = d.decode('utf-8', errors='replace')
+        c = GC.apply_ascending_lock(GC.clean(raw))
+        for n in re.split(r'(?=GAZETTE NOTICE NO\. \d+)', c):
+            if not n.startswith('GAZETTE'): continue
+            r = L.extract(n)
+            if r:
+                names += r.get('parties') or []
+                parcels.append(r.get('parcel_id'))
+            for b in [x for x in re.split(r'(?=CAUSE NO\.)', n) if x.startswith('CAUSE NO.')]:
+                pr = P.extract(b, n)
+                if pr:
+                    names += pr.get('petitioner_names') or []
+                    if pr.get('deceased_name'): names.append(pr['deceased_name'])
+    out = []
+    if names:
+        clean = sum(1 for x in names if not N.looks_suspect(x))
+        pct = 100.0 * clean / len(names)
+        out.append(('names', 'ok' if pct >= 95 else 'ERROR',
+                    '%d checked, %.1f%% clean (threshold 95%%)' % (len(names), pct)))
+    if parcels:
+        bad = sum(1 for p in parcels if not p or len(p) < 4)
+        out.append(('parcel_id', 'ok' if bad == 0 else 'ERROR',
+                    '%d checked, %d unusable as a key' % (len(parcels), bad)))
+    return out
+
 def behavioural():
     P, L, C = load('probate_template'), load('land_template'), load('corrigenda_template')
     cases = [
@@ -165,7 +201,12 @@ if __name__ == '__main__':
         print('  %-5s %-20s %s' % (sev, cat, msg))
         if sev == 'ERROR': fail += 1
 
-    print('\n== 5. behavioural ==')
+    print('\n== 5. key fields (names, parcel ids) ==')
+    for what, sev, msg in check_key_fields(samples):
+        print('  %-5s %-20s %s' % (sev, what, msg))
+        if sev == 'ERROR': fail += 1
+
+    print('\n== 6. behavioural ==')
     for lbl, sev, _ in behavioural():
         print('  %-5s %s' % (sev, lbl))
         if sev == 'ERROR': fail += 1

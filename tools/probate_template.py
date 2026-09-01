@@ -6,6 +6,12 @@ standard Kenyan probate grammar. Returns None when any required field is
 missing, so the caller can fall back to the AI path for irregular notices.
 """
 import re
+import os, importlib.util
+_ns = importlib.util.spec_from_file_location('names', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'names.py'))
+NAMES = importlib.util.module_from_spec(_ns); _ns.loader.exec_module(NAMES)
+import os, importlib.util as _il
+_pn = _il.spec_from_file_location("proper_nouns", os.path.join(os.path.dirname(os.path.abspath(__file__)), "proper_nouns.py"))
+PN = _il.module_from_spec(_pn); _pn.loader.exec_module(PN)
 
 # The standard grammar, in pieces so each part can fail independently:
 #   CAUSE NO. <ref> OF <year>
@@ -63,12 +69,13 @@ def _tidy(s):
     return s or None
 
 def _names(raw):
-    """Split '(1) A, (2) B and (3) C' or 'A and B' into a list."""
+    """Split '(1) A, (2) B and (3) C' into a list, then hand each name to the
+    shared proper-noun cleaner (see names.py)."""
     if not raw: return []
     raw = re.sub(r'\(\d+\)', '|', raw)
     raw = re.sub(r'\s+and\s+', '|', raw)
-    parts = [p for p in re.split(r'[|]', raw)]
-    return [_tidy(p) for p in parts if _tidy(p)]
+    cleaned, _ = NAMES.clean_names(re.split(r'[|]', raw))
+    return cleaned
 
 def extract(block, notice=None):
     """block  = one CAUSE NO. segment.
@@ -109,11 +116,11 @@ def extract(block, notice=None):
         'court_name':              _t(RE_COURT.search(ctx).group('court')) if RE_COURT.search(ctx) else None,
         'case_reference':          _tidy(re.sub(r'\s', '', m.group('case_ref')) + ' OF ' + re.sub(r'\s','',m.group('case_year'))),
         'notice_subtype':          act.title(),
-        'deceased_name':           _tidy(d.group('deceased')),
+        'deceased_name':           PN.repair_name(_tidy(d.group('deceased'))),
         'date_of_death':           _tidy(d.group('date')),
         'place_of_death':          _tidy(d.group('place')) if d.group('place') else (_tidy(d.group('residence')) if d.group('there') else None),
         'deceased_residence':      _tidy(d.group('residence')),
-        'petitioner_names':        names,
+        'petitioner_names':        PN.repair_names(names),
         'petitioner_relationship': _tidy(rel.group('relationship')) if rel else None,
         'action_type':             act,
         'filing_deadline':         _t(RE_DEADLINE.search(ctx).group('deadline')) if RE_DEADLINE.search(ctx) else None,
