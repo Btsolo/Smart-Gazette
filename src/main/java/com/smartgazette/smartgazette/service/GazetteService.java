@@ -84,16 +84,26 @@ public class GazetteService {
 
     private final IftttWebhookService iftttWebhookService;
     private final ExcelExportService excelExportService;
+    private final PdfInspectorService pdfInspectorService;
+    private final GazetteTextCleaner gazetteTextCleaner;
+    private final GeographyService geographyService;
+
 
 
     public GazetteService(GazetteRepository gazetteRepository,
                           IftttWebhookService iftttWebhookService,
-                          ExcelExportService excelExportService) {
+                          ExcelExportService excelExportService,
+                          PdfInspectorService pdfInspectorService,
+                          GazetteTextCleaner gazetteTextCleaner,
+                          GeographyService geographyService  ) {
         this.gazetteRepository = gazetteRepository;
         this.iftttWebhookService = iftttWebhookService;
         this.excelExportService = excelExportService;
+        this.pdfInspectorService = pdfInspectorService;
+        this.gazetteTextCleaner = gazetteTextCleaner;
+        this.geographyService = geographyService;
         this.restTemplate = new RestTemplate();
-        log.info("✅ GazetteService initialized with AI Studio REST client.");
+        log.info("✅ GazetteService initialized.");
     }
 
     // --- Core Public Methods ---
@@ -192,19 +202,42 @@ public class GazetteService {
         try (PDDocument document = PDDocument.load(file)) {
             log.info(">>>> Starting async PDF processing for file: {}", file.getName());
 
-            // --- [CALL 0] High-Fidelity Hybrid OCR Extraction (Phase 2.6) ---
+            // --- [CALL 0] Text extraction ---
+            //
+            // Three tiers, each falling back to the next:
+            //   1. pdf-inspector  correct multi-column reading order (needs cleaning)
+            //   2. legacy hybrid  Vision OCR page 1 + PDFTextStripper for the rest
+            //   3. PDFTextStripper alone
+            //
+            // Only tier 1 output goes through the cleaner. The legacy tiers produce a
+            // different shape of text and the cleaner's joining rules would damage it.
             try {
-                highQualityFullText = extractHighFidelityTextFromPdf(document);
+                if (pdfInspectorService.isInspectorEnabled()) {
+                    String rawInspectorText = pdfInspectorService.extractText(file);
+                    if (rawInspectorText != null) {
+                        highQualityFullText = gazetteTextCleaner.clean(rawInspectorText);
+                        log.info("Extraction engine: pdf-inspector + cleaner ({} chars raw -> {} cleaned).",
+                                rawInspectorText.length(), highQualityFullText.length());
+                    } else {
+                        log.warn("pdf-inspector returned nothing. Falling back to the legacy hybrid path.");
+                    }
+                }
+
                 if (highQualityFullText == null || highQualityFullText.isBlank()) {
-                    log.warn("Hybrid Vision OCR failed. Falling back to full PDFTextStripper for file: {}", file.getName());
-                    highQualityFullText = new PDFTextStripper().getText(document);
-                } else {
-                    log.info("Successfully extracted hybrid text (Vision P1 + Stripper P2+).");
+                    highQualityFullText = extractHighFidelityTextFromPdf(document);
+                    if (highQualityFullText == null || highQualityFullText.isBlank()) {
+                        log.warn("Hybrid Vision OCR failed. Falling back to full PDFTextStripper for file: {}",
+                                file.getName());
+                        highQualityFullText = new PDFTextStripper().getText(document);
+                    } else {
+                        log.info("Extraction engine: legacy hybrid (Vision P1 + Stripper P2+).");
+                    }
                 }
             } catch (Exception e) {
-                log.error("Critical error during Hybrid OCR step. Falling back to PDFTextStripper.", e);
+                log.error("Critical error during text extraction. Falling back to PDFTextStripper.", e);
                 highQualityFullText = new PDFTextStripper().getText(document);
             }
+
             // --- END OF CALL 0 ---
 
             if (highQualityFullText != null && !highQualityFullText.isBlank()) {
@@ -219,11 +252,11 @@ public class GazetteService {
                 notices.add(NoticeSegment.of(1, highQualityFullText));
             }
 
-// --- Task 2.4a: pre-categorize every segment up front ---
-// This was previously done inside processSingleNotice per-notice; doing it
-// here instead means triage runs exactly once per segment (no behavior
-// change in cost) but now ALSO lets us group same-category segments
-// before extraction, which is what makes batching possible.
+            // --- Task 2.4a: pre-categorize every segment up front ---
+            // This was previously done inside processSingleNotice per-notice; doing it
+            // here instead means triage runs exactly once per segment (no behavior
+            // change in cost) but now ALSO lets us group same-category segments
+            // before extraction, which is what makes batching possible.
             List<NoticeSegment> categorized = new ArrayList<>();
             for (NoticeSegment segment : notices) {
                 String category = triageNoticeCategory(segment.rawText());
@@ -277,7 +310,18 @@ public class GazetteService {
                     break;
                 }
                 try {
-                    if (segment.isMultiCase()) {
+                    // Only Court_Legal notices carry several genuinely
+                    // independent cases. Corrigenda quote cause numbers inside
+                    // their correction text ("...CAUSE NO. E148 of 2024 ' to
+                    // read '..."), so splitting them on CAUSE NO. shatters one
+                    // notice into fragments — 63 apparent blocks from 8 real
+                    // corrigenda in one tested issue.
+                    String preCat = keywordPreFilter(segment.rawText());
+                    boolean splitByCause = segment.isMultiCase()
+                            && !"Corrigenda".equals(preCat)
+                            && !"Change_of_Name".equals(preCat);
+
+                    if (splitByCause) {
                         List<Gazette> subCases = processMultiCaseNotice(segment, overallGazetteDetails, originalPdfPath);
                         for (Gazette g : subCases) {
                             log.info("Saving {} sub-case: '{}' (Parent: {})",
@@ -369,8 +413,17 @@ public class GazetteService {
 
     private List<NoticeSegment> segmentTextByNotices(String fullText) {
         List<NoticeSegment> notices = new ArrayList<>();
-        final Pattern pattern = Pattern.compile("(?m)^GAZETTE NOTICE NO\\.\\s*\\d+", Pattern.CASE_INSENSITIVE);
+
+        // CASE-SENSITIVE on purpose. Real headers are set in small caps and reach
+        // us as all-uppercase. Cross-references inside corrigenda are ordinary
+        // mixed case ("IN Gazette Notice No. 5520 of 2026, amend ..."), and
+        // GazetteTextCleaner's boundary lock has already demoted any it rejected
+        // to that form. Matching case-insensitively would re-admit every one of
+        // them as a false notice boundary.
+
+        final Pattern pattern = Pattern.compile("(?m)^GAZETTE NOTICE NO\\.\\s*\\d+");
         Matcher matcher = pattern.matcher(fullText);
+
         int lastEnd = 0;
         while (matcher.find()) {
             if (matcher.start() > lastEnd) {
@@ -388,10 +441,48 @@ public class GazetteService {
             }
         }
 
-        if (!notices.isEmpty() && !pattern.matcher(notices.get(0).rawText()).find()) {
-            log.info("Removing potential header text from segmentation.");
-            notices.remove(0);
+        // The first segment is everything preceding the first header: masthead,
+        // contents index, library stamp. Two cases, and the old code only handled
+        // one — it discarded the segment outright, which also threw away the first
+        // real notice whenever that notice began on the same page as the masthead.
+        // That is why 13497 went missing and the issue appeared to start at 13498.
+        if (!notices.isEmpty()) {
+            String first = notices.get(0).rawText();
+            Matcher fm = pattern.matcher(first);
+            if (fm.find()) {
+                if (fm.start() > 0) {
+                    // A real notice is in here, preceded by preamble: trim the
+                    // preamble and keep the notice.
+                    log.info("Trimming leading masthead / contents index from the first notice.");
+                    notices.set(0, NoticeSegment.of(1, first.substring(fm.start()).trim()));
+                }
+                // fm.start() == 0 means the segment is already a clean notice.
+            } else {
+                // No header at all: the whole segment is preamble.
+                log.info("Removing leading non-notice text (masthead / contents index) from segmentation.");
+                notices.remove(0);
+                List<NoticeSegment> renumbered = new ArrayList<>(notices.size());
+                for (int i = 0; i < notices.size(); i++) {
+                    renumbered.add(NoticeSegment.of(i + 1, notices.get(i).rawText()));
+                }
+                notices = renumbered;
+            }
         }
+
+        // ... the ascending sanity check stays exactly as it is ...
+        int previous = -1;
+        for (NoticeSegment seg : notices) {
+            Matcher m = Pattern.compile("GAZETTE NOTICE NO\\.\\s*(\\d+)").matcher(seg.rawText());
+            if (m.find()) {
+                int current = Integer.parseInt(m.group(1));
+                if (previous > 0 && current <= previous) {
+                    log.warn("Notice numbers are not ascending ({} follows {}). "
+                            + "Was the text cleaned before segmentation?", current, previous);
+                }
+                previous = current;
+            }
+        }
+
         return notices;
     }
 
@@ -569,7 +660,10 @@ TEXT:
      * on parentNoticeNumber + a per-case suffix in noticeNumber to keep
      * them distinguishable, since sourceOrder's job is "position in the
      * gazette issue", not "which sub-case is this".
+     *
      */
+
+
     private List<Gazette> processMultiCaseNotice(NoticeSegment segment, JSONObject overallGazetteDetails, String originalPdfPath) {
         List<Gazette> results = new ArrayList<>();
         int sourceOrder = segment.sourceOrder();
@@ -669,69 +763,130 @@ TEXT:
      * RETURNS: category string if confident match found, null if ambiguous.
      * null means "I don't know — ask the AI".
      */
+    /**
+     * Stage 0: rule-based pre-classification, before any AI call.
+     *
+     * WHY THIS EXISTS
+     * Kenya Gazette notices use highly predictable legal language. Classifying
+     * them by keyword is free and deterministic; the AI only sees what the rules
+     * cannot place.
+     *
+     * WHY THE TEXT IS SQUASHED FIRST
+     * The upstream fragment-joiner sometimes drops a space, so "land registrar"
+     * can arrive as "landregistrar" and "THE LAND REGISTRATION ACT" as
+     * "THE LANDREGISTRATION ACT". Removing all whitespace from both the haystack
+     * and the keys makes the match immune to that.
+     *
+     * @return a category, or null meaning "ambiguous — ask the AI".
+     */
+    /**
+     * Stage 0: rule-based pre-classification, before any AI call.
+     *
+     * WHY THE KEYS ARE WHAT THEY ARE
+     * Every keyword below was scored against 1,965 real notices whose category was
+     * established independently, from the Act and subject line in the notice's own
+     * heading block (see tools/keyword_probability.py). Only keys that were right
+     * at least 95% of the time survived. The measured result for this set is 98.5%
+     * coverage at 99.9% precision.
+     *
+     * THE TRAP THIS REPLACES
+     * The previous key set classified Court_Legal on "letters of administration",
+     * "succession cause" and "deceased". Those phrases are not distinctive: a land
+     * title notice for a deceased proprietor cites the succession that transferred
+     * the title. Measured precision was 47.6%, 0.0% and 32.0% respectively - the
+     * "succession cause" key sent 248 land notices to the wrong schema and never
+     * once got a probate notice right. The keys kept below are ones land notices
+     * never contain.
+     *
+     * The general pattern: single generic words steal (election notices are full
+     * of "nomination", "appoints", "tender", "permit"); multi-word phrases drawn
+     * from an Act's own formula do not.
+     *
+     * WHY THE TEXT IS SQUASHED FIRST
+     * The upstream fragment-joiner sometimes drops a space, so "land registrar"
+     * can arrive as "landregistrar" and "THE LAND REGISTRATION ACT" as
+     * "THE LANDREGISTRATION ACT". Removing all whitespace from both the haystack
+     * and the keys makes matching immune to that.
+     *
+     * @return a category, or null meaning "ambiguous - ask the AI".
+     */
     private String keywordPreFilter(String noticeText) {
-        String text = noticeText.toLowerCase();
+        if (noticeText == null || noticeText.isBlank()) {
+            return null;
+        }
+        String squashed = noticeText.toLowerCase().replaceAll("\\s+", "");
 
-        // Court_Legal — probate, succession, administration of estates
-        if (text.contains("letters of administration")
-                || text.contains("grant of probate")
-                || text.contains("succession cause")
-                || text.contains("insolvency")
-                || text.contains("dissolution of marriage")) {
+        // Corrigenda first: a correction to a probate notice contains probate
+        // language, but what it IS is a correction.
+        if (containsAny(squashed, "corrigendum", "corrigenda")) {
+            return "Corrigenda";
+        }
+
+        // Change_of_Name - 100% precision on 262 notices.
+        if (containsAny(squashed, "changeofname", "byadeedpoll", "deedpoll")) {
+            return "Change_of_Name";
+        }
+
+        // Court_Legal - only phrases land notices never use.
+        // ("probateandadministration" 100%, "intestate" 99.5%,
+        //  "takenoticethatanapplication" 98.9%)
+        if (containsAny(squashed,
+                "probateandadministration", "intestate",
+                "takenoticethatanapplication", "grantofprobate", "intheestateof")) {
             return "Court_Legal";
         }
 
-        // Land_Property — title deeds, leases, EIA reports
-        if (text.contains("title deed")
-                || text.contains("certificate of lease")
-                || text.contains("land title")
-                || text.contains("land registrar")
-                || text.contains("environmental impact")
-                || text.contains("provisional certificate")) {
+        // Land_Property - every key below scored 100%.
+        if (containsAny(squashed,
+                "landregistrationact", "landregistrar", "registeredasproprietor",
+                "titledeed", "hasbeenlost", "provisionalcertificate", "certificateoflease")) {
             return "Land_Property";
         }
 
-        // Tenders — procurement, disposal of assets
-        if (text.contains("invitation to tender")
-                || text.contains("request for proposal")
-                || text.contains("procurement")
-                || text.contains("disposal of assets")
-                || text.contains("expression of interest")) {
-            return "Tenders";
-        }
-
-        // Appointments
-        if (text.contains("is hereby appointed")
-                || text.contains("are hereby appointed")
-                || text.contains("appointment of")) {
-            return "Appointments";
-        }
-
-        // Company_Registrations — incorporation and dissolution
-        if (text.contains("hereby incorporated")
-                || text.contains("certificate of incorporation")
-                || text.contains("dissolution of")) {
+        if (containsAny(squashed, "companiesact", "insolvencyact", "struckoff")) {
             return "Company_Registrations";
         }
 
-        // Legislation — bills, acts, regulations
-        if (text.contains("bill, 20")
-                || text.contains("act, 20")
-                || text.contains("regulations, 20")
-                || text.contains("legal notice")) {
+        if (containsAny(squashed, "electionsact", "statutoryinstruments", "bill,20")) {
             return "Legislation";
         }
 
-        // Licensing
-        if (text.contains("licence")
-                || text.contains("license")
-                || text.contains("permit")) {
+        if (containsAny(squashed, "miningact")) {           // 92.9%
             return "Licensing";
         }
 
-        // No confident match — return null so AI triage handles it
+        if (containsAny(squashed, "retirement")) {
+            return "Public_Service_HR";
+        }
+
+        if (containsAny(squashed, "reappointment")) {
+            return "Appointments";
+        }
+
+        // Deliberately absent, with measured precision:
+        //   appoints (18.2%), appointmentof (40.0%), nomination (0%),
+        //   nominationof (0%), licence (68.8%), licensing (25.0%), permit (0%),
+        //   tender (0%), promotion (42.9%), regulations,20 (77.3%)
+        // Each of these steals mainly from Legislation. Notice 13502, an election
+        // notice, was filed as an Appointment because "nomination of political
+        // party candidates" matched "nominationof".
+        //
+        // Tenders and Public_Service_HR have almost no reliable keys - 1 and 2
+        // notices across the whole corpus - so they fall through to AI triage,
+        // which is the right outcome for categories this rare.
+
         return null;
     }
+
+    private boolean containsAny(String haystack, String... keys) {
+        for (String k : keys) {
+            if (haystack.contains(k)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
 
     /**
      * Task 2.4a — sub-pattern detector for batchable Land_Property notices.
@@ -912,7 +1067,7 @@ DATA:
 
         if (generatedContentResponse == null) {
             log.warn("Gemini unavailable or rate-limited. Falling back to Groq for this notice's generation.");
-            String genModel = List.of("Court_Legal", "Land_Property", "Company_Registrations", "Licensing")
+            String genModel = List.of("Court_Legal", "Land_Property", "Company_Registrations", "Licensing","Corrigenda", "Change_of_Name", "County_Government")
                     .contains(category) ? groqFlashModelName : groqProModelName;
             generatedContentResponse = generateWithRetry(genModel, generationPrompt);
         }
@@ -1600,6 +1755,9 @@ DATA:
                 noticeNumber = m.group(1);
                 log.info("Recovered missing notice number using Regex: {}", noticeNumber);
             }
+            // Store bare digits. The AI returns "GAZETTE NOTICE NO. 13498" while the
+          // regex recovery returns "13498"; an index over both formats is useless.
+            noticeNumber = noticeNumber.replaceAll("(?i)GAZETTE\\s*NOTICE\\s*NO\\.?\\s*", "").trim();
         }
         existing.setNoticeNumber(noticeNumber.replace("\u0000", ""));
         existing.setSignatory(signatory.replace("\u0000", ""));
@@ -1695,6 +1853,9 @@ DATA:
                 noticeNumber = m.group(1); // Capture just the digits
                 log.info("Recovered missing notice number using Regex: {}", noticeNumber);
             }
+            // Store bare digits. The AI returns "GAZETTE NOTICE NO. 13498" while the
+            // regex recovery returns "13498"; an index over both formats is useless.
+            noticeNumber = noticeNumber.replaceAll("(?i)GAZETTE\\s*NOTICE\\s*NO\\.?\\s*", "").trim();
         }
 
         gazette.setNoticeNumber(noticeNumber.replace("\u0000", ""));
