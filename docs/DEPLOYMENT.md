@@ -17,6 +17,10 @@ JRE. This page lists everything the deployment depends on.
   05:00 Africa/Nairobi (`scraper.enabled=true`, the default), downloads the
   newest gazette from Kenya Law and processes it (AI calls to Groq / Gemini).
   A staging copy can set `scraper.enabled=false`.
+  **Before production:** Kenya Law's terms of use prohibit scraping and ask
+  for an email to access data in bulk. The owner is asking Kenya Law for
+  permission / a data feed for the daily gazette; until then the scraper's
+  use is the owner's decision.
 - **No social posting**: `social.posting.enabled` defaults to `false`; no IFTTT
   setting is needed. (An old commit on `main` contains the owner's real IFTTT
   webhook URL; the owner should delete or regenerate it in IFTTT.)

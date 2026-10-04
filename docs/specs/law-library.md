@@ -1,6 +1,6 @@
 # Spec: law library — the laws notices cite, stored, linked and quoted
 
-Status: **draft for your review** (4 Oct 2026) · Phase 4d
+Status: **decisions made** (4 Oct 2026: all Acts wanted, first batch 40, template sentence + checked AI quotes, current version with its date) · source access pending · Phase 4d
 
 ## 1. Requirement
 
@@ -98,10 +98,15 @@ link and implied sections (labelled), each with the version date and the
 source link.
 
 **5. Building the library.** `tools/build_law_reference.py` in batch mode
-from a list in citation order (`python tools/law_refs.py` "add next"). Each
-source page is downloaded once into `raw/law/` (gitignored) — with your
-approval for the downloads — and rebuilt when Kenya Law publishes a newer
-version. A health number tracks "citations resolved" per issue, and unknown
+from a list in citation order (`python tools/law_refs.py` "add next").
+**Source access:** Kenya Law's terms of use prohibit scraping and bulk
+downloading (they ask for an email for bulk access), and its robots.txt
+blocks AI agents. So the laws come from (a) Kenya Law's bulk data, requested
+by email (info@kenyalaw.org), or Laws.Africa's licensed content API (Kenya
+Law's technology partner), or (b) until then, pages saved by hand in a
+browser into `raw/law/` (gitignored), as the first two laws were. The
+builder reads the same Akoma Ntoso HTML either way, and a law is rebuilt
+when a newer version is published. A health number tracks "citations resolved" per issue, and unknown
 Act names are listed for the next batch.
 
 ## 4. Rules and fail-safe
@@ -136,11 +141,7 @@ Act names are listed for the next batch.
 
 ## 7. Questions for you
 
-1. **Downloads:** each Act is one page from Kenya Law (new.kenyalaw.org).
-   Approve fetching the first batch (~17 pages)? Kenya Law's terms of use
-   should be checked before bulk download.
-2. **First batch size:** top ~17 (recommended), or top 40?
-3. **AI quotes or template sentence only?** Recommended: both — the template
-   sentence always; AI explanation allowed only with the quote checker.
-4. **Old versions:** show the current version with its date (recommended),
-   or keep point-in-time versions so a 2022 notice shows the 2022 text?
+Answered 4 Oct 2026: all Acts (first batch: the top 40 by citations); both
+the template sentence and checked AI quotes; the current version with its
+date. Open: how the source pages are obtained (§3.5) — bulk access from
+Kenya Law / Laws.Africa, or hand-saved pages for the first 40.
