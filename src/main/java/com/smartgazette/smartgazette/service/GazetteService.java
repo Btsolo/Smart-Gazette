@@ -123,6 +123,9 @@ public class GazetteService {
     public List<Gazette> getAllGazettes() {
         return gazetteRepository.findAllWithCorrectSorting();
     }
+    /** True while a PDF (or a retry run) is being processed - one job at a time. */
+    public boolean isBusy() { return isProcessing.get(); }
+
     public Gazette getGazetteById(Long id) { return gazetteRepository.findById(id).orElse(null); }
     public void deleteGazette(Long id) { gazetteRepository.deleteById(id); }
     public Gazette saveGazette(Gazette gazette) { return gazetteRepository.save(gazette); }

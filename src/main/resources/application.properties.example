@@ -56,8 +56,13 @@ figures.ocr.models-dir=/app/models/ppocr
 # --- Switches for a deployment ---
 # admin pages (upload / edit / delete) have no real login yet: off = read-only site (default)
 admin.enabled=false
-# the Monday-Friday 05:00 Kenya Law scrape (default on)
+# the nightly Kenya Law scrape (default on): every day at 22:00 Nairobi time, checks the newest
+# few gazettes and processes each new one, one at a time, 5 s between requests
 scraper.enabled=true
+scraper.cron=0 0 22 * * *
+scraper.zone=Africa/Nairobi
+scraper.max-per-run=5
+scraper.pause-seconds=5
 # how the scraper names itself to Kenya Law (honest identification, no browser disguise)
 scraper.user-agent=SmartGazette/1.0 (+https://github.com/Btsolo/Smart-Gazette)
 # social posting through IFTTT (default off; ifttt.webhook.url is then not needed)

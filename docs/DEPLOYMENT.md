@@ -13,14 +13,17 @@ JRE. This page lists everything the deployment depends on.
   pages have no real login yet (Spring Security is the next roadmap stage),
   so they stay off on any server. Never set `admin.enabled=true` on a
   public server.
-- **New gazettes arrive by themselves**: the scraper runs Monday-Friday at
-  05:00 Africa/Nairobi (`scraper.enabled=true`, the default), downloads the
-  newest gazette from Kenya Law and processes it (AI calls to Groq / Gemini).
-  A staging copy can set `scraper.enabled=false`.
-  **Before production:** Kenya Law's terms of use prohibit scraping and ask
-  for an email to access data in bulk. The owner is asking Kenya Law for
-  permission / a data feed for the daily gazette; until then the scraper's
-  use is the owner's decision.
+- **New gazettes arrive by themselves**: every evening at 22:00
+  Africa/Nairobi (`scraper.cron`, default `0 0 22 * * *` - a notice published
+  during the day is on the site the same night) the scraper checks the newest
+  5 gazettes on Kenya Law (`scraper.max-per-run`), downloads each one not
+  processed yet and processes them one at a time (AI calls to Groq / Gemini).
+  It names itself (`scraper.user-agent`) and waits 5 s between requests
+  (`scraper.pause-seconds`, Kenya Law's crawl delay). A gazette whose
+  processing failed is tried again the next night. A staging copy can set
+  `scraper.enabled=false`.
+  **Authorisation:** Kenya Law's terms of use restrict scraping; the owner is
+  asking Kenya Law for permission / a data feed.
 - **No social posting**: `social.posting.enabled` defaults to `false`; no IFTTT
   setting is needed. (An old commit on `main` contains the owner's real IFTTT
   webhook URL; the owner should delete or regenerate it in IFTTT.)
@@ -97,7 +100,7 @@ or mount a properties file.
 | `spring.datasource.url` / `username` / `password` | password: yes | the production database |
 | `groq.api.key`, `gemini.api.key` | yes | the owner's keys |
 | `admin.enabled` | no | leave out (= `false`, read-only) |
-| `scraper.enabled` | no | `true` in production, `false` in staging if wanted |
+| `scraper.enabled`, `scraper.cron` | no | `true` / `0 0 22 * * *` in production; `scraper.enabled=false` in staging if wanted |
 | `social.posting.enabled`, `ifttt.webhook.url` | url: yes | leave out (no posting yet) |
 | `extraction.engine` | no | **`inspector`** (the code default is `legacy`) |
 | `extraction.inspector.script` | no | absolute path to `tools/inspect_positions.js` (the default `tools/inspect.js` is the old extractor) |
