@@ -63,6 +63,13 @@ scraper.cron=0 0 22 * * *
 scraper.zone=Africa/Nairobi
 scraper.max-per-run=5
 scraper.pause-seconds=5
+# the nightly retry of notices that failed (mostly AI-call failures): 03:00 Nairobi time, through
+# the same pipeline as a new gazette (templates first, then AI); each notice at most 3 times
+retry.enabled=true
+retry.cron=0 0 3 * * *
+retry.zone=Africa/Nairobi
+retry.max-per-run=100
+retry.max-attempts=3
 # how the scraper names itself to Kenya Law (honest identification, no browser disguise)
 scraper.user-agent=SmartGazette/1.0 (+https://github.com/Btsolo/Smart-Gazette)
 # social posting through IFTTT (default off; ifttt.webhook.url is then not needed)

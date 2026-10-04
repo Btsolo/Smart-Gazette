@@ -23,6 +23,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.scheduling.annotation.Async;
+import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
@@ -1857,159 +1858,160 @@ DATA:
     }
 
 
+    /** The automatic retry: on by default (the deployed site has no admin button). */
+    @Value("${retry.enabled:true}")
+    private boolean retryEnabled;
+
+    /** At most this many notices per retry run (each may cost AI calls). */
+    @Value("${retry.max-per-run:100}")
+    private int retryMaxPerRun;
+
+    /** A notice is retried at most this many times, then left for review. */
+    @Value("${retry.max-attempts:3}")
+    private int retryMaxAttempts;
+
+    /**
+     * Every night at 03:00 Nairobi time by default - after the 22:00 scrape has
+     * finished and once the AI providers' limits have had time to recover.
+     * retry.cron / retry.zone change it.
+     */
+    @Scheduled(cron = "${retry.cron:0 0 3 * * *}", zone = "${retry.zone:Africa/Nairobi}")
+    public void scheduledRetry() {
+        if (retryEnabled) retryFailedNotices();
+    }
+
+    /**
+     * Retries FAILED / PARTIAL notices through the same procedure a new gazette
+     * goes through (the fallback for AI-call failures):
+     * <ul>
+     *   <li>extraction already done (stage EXTRACTED) - only the article is
+     *       written again, with the pipeline's own generation step;</li>
+     *   <li>failed before or during extraction - the whole single-notice
+     *       pipeline again: category, templates first, the AI extraction call
+     *       only if no template reads it, tables, article.</li>
+     * </ul>
+     * The gazette details (volume, number, date, extraction source) come from
+     * the stored notice, and the result replaces the failed row (one row per
+     * notice). Each notice is tried at most retry.max-attempts times.
+     */
     @Async
     public void retryFailedNotices() {
         if (!isProcessing.compareAndSet(false, true)) {
             log.warn("Cannot start RETRY job. Another job (like a PDF upload) is already in progress.");
             return;
         }
-
         stopProcessing.set(false);
-
-        log.info("Starting retry process for FAILED notices...");
-
-        List<Gazette> failedNotices = gazetteRepository.findAllFailedWithCorrectSorting();
-        if (failedNotices.isEmpty()) {
-            log.info("No FAILED notices found to retry.");
-            isProcessing.set(false);
-            return;
-        }
-
-        log.info("Found {} FAILED notices to retry.", failedNotices.size());
-
-        for (Gazette notice : failedNotices) {
-            try {
+        int tried = 0, resumed = 0, rerun = 0, succeeded = 0, gaveUp = 0;
+        try {
+            List<Gazette> failedNotices = gazetteRepository.findAllFailedWithCorrectSorting();
+            log.info("Retry: {} FAILED/PARTIAL notices found.", failedNotices.size());
+            for (Gazette notice : failedNotices) {
                 if (stopProcessing.get()) {
                     log.warn("Retry processing manually stopped by admin.");
                     break;
                 }
-
-                if (notice.getProcessingStage() == ProcessingStage.EXTRACTED && notice.getExtractedDataJson() != null) {
-                    log.info("Retrying notice #{} (stage-aware: EXTRACTED, resuming from stored extraction)...", notice.getId());
-
-                    Object extractedData;
-                    try {
-                        extractedData = new JSONObject(notice.getExtractedDataJson());
-                    } catch (JSONException e) {
-                        try {
-                            extractedData = new JSONArray(notice.getExtractedDataJson());
-                        } catch (JSONException e2) {
-                            log.error("Could not retry notice #{}: stored extractedDataJson is unparseable.", notice.getId());
-                            continue;
-                        }
-                    }
-
-                    Gazette generatedNotice = runGenerationStep(extractedData, notice.getContent(), notice.getCategory(), notice.getSourceOrder(), null, notice.getOriginalPdfPath());
-
-                    if (generatedNotice != null && generatedNotice.getStatus() == ProcessingStatus.SUCCESS) {
-                        updateExistingNotice(notice, generatedNotice);
-                        log.info("SUCCESS: Retry for notice #{} was successful.", notice.getId());
+                if (tried >= retryMaxPerRun) break;
+                if (notice.getRetryCount() >= retryMaxAttempts) { gaveUp++; continue; }
+                tried++;
+                notice.setRetryCount(notice.getRetryCount() + 1);
+                notice = gazetteRepository.save(notice);
+                try {
+                    Gazette result;
+                    Object stored = storedExtraction(notice);
+                    if (stored != null) {
+                        resumed++;
+                        log.info("Retry notice #{} ({}): extraction stored - writing the article again.", notice.getId(), notice.getNoticeNumber());
+                        JSONObject generated = generateNarrativeContent(forGeneration(stored), notice.getCategory());
+                        result = createGazetteFromJson(notice, stored, generated, notice.getContent(), notice.getCategory(),
+                                notice.getSourceOrder() == null ? 0 : notice.getSourceOrder(), detailsOf(notice), notice.getOriginalPdfPath());
+                        result = gazetteRepository.save(result);
                     } else {
-                        log.warn("FAIL: Retry for notice #{} (GENERATION) failed again.", notice.getId());
+                        rerun++;
+                        log.info("Retry notice #{} ({}): failed before the article - running the notice pipeline again.", notice.getId(), notice.getNoticeNumber());
+                        result = rerunPipeline(notice);
                     }
-                } else if (notice.getTitle().startsWith("[GENERATION FAILED]")) {
-                    // Legacy path — old rows saved before this checkpoint system existed,
-                    // where extraction data is embedded as markdown in `article` instead
-                    // of a proper extractedDataJson column. Keep this as a fallback for
-                    // any pre-existing FAILED rows still in the database.
-                    log.info("Retrying notice #{} (legacy GENERATION-FAILED string parse)...", notice.getId());
-                    Object extractedData = null;
-                    String articleJson = notice.getArticle();
-                    articleJson = articleJson.replaceAll("(?s)```json\\s*(.*?)\\s*```", "$1").trim();
-                    try {
-                        extractedData = new JSONObject(articleJson);
-                    } catch (JSONException e) {
-                        try {
-                            extractedData = new JSONArray(articleJson);
-                        } catch (JSONException e2) {
-                            log.error("Could not retry notice #{}: Failed to parse extracted JSON.", notice.getId());
-                            continue;
-                        }
-                    }
-                    Gazette generatedNotice = runGenerationStep(extractedData, notice.getContent(), notice.getCategory(), notice.getSourceOrder(), null, notice.getOriginalPdfPath());
-                    if (generatedNotice != null && generatedNotice.getStatus() == ProcessingStatus.SUCCESS) {
-                        updateExistingNotice(notice, generatedNotice);
-                        log.info("SUCCESS: Retry for notice #{} was successful.", notice.getId());
+                    if (result != null && result.getStatus() == ProcessingStatus.SUCCESS) {
+                        succeeded++;
+                        log.info("Retry notice #{}: SUCCESS ('{}').", result.getId(), result.getTitle());
                     } else {
-                        log.warn("FAIL: Retry for notice #{} (GENERATION) failed again.", notice.getId());
+                        log.warn("Retry notice #{}: failed again (attempt {}/{}).", notice.getId(), notice.getRetryCount(), retryMaxAttempts);
                     }
+                } catch (Exception e) {
+                    log.error("Retry notice #{}: unhandled error: {}", notice.getId(), e.getMessage(), e);
                 }
-
                 TimeUnit.MILLISECONDS.sleep(500);
+            }
+        } catch (InterruptedException e) {
+            Thread.currentThread().interrupt();
+        } catch (Exception e) {
+            log.error("Retry job failed: {}", e.getMessage(), e);
+        } finally {
+            isProcessing.set(false);
+            stopProcessing.set(false);
+            log.info("Retry job finished: {} tried ({} article only, {} full pipeline), {} succeeded, {} left after {} attempts. Lock released.",
+                    tried, resumed, rerun, succeeded, gaveUp, retryMaxAttempts);
+        }
+    }
 
-            } catch (Exception e) {
-                log.error("Unhandled exception while retrying notice #{}: {}", notice.getId(), e.getMessage());
+    /** The extraction a failed notice already has: the checkpoint column, or the
+     *  legacy "[GENERATION FAILED]" rows that kept it as JSON in `article`. */
+    private Object storedExtraction(Gazette notice) {
+        String json = null;
+        if (notice.getProcessingStage() == ProcessingStage.EXTRACTED && notice.getExtractedDataJson() != null) {
+            json = notice.getExtractedDataJson();
+        } else if (notice.getTitle() != null && notice.getTitle().startsWith("[GENERATION FAILED]") && notice.getArticle() != null) {
+            json = notice.getArticle().replaceAll("(?s)```json\\s*(.*?)\\s*```", "$1").trim();
+        }
+        if (json == null) return null;
+        try {
+            JSONObject o = new JSONObject(json);
+            return o.isEmpty() ? null : o;                    // nothing extracted: run the pipeline again
+        } catch (JSONException e) {
+            try {
+                JSONArray a = new JSONArray(json);
+                return a.isEmpty() ? null : a;
+            } catch (JSONException e2) {
+                log.warn("Retry notice #{}: stored extraction is unreadable - running the pipeline again.", notice.getId());
+                return null;
             }
         }
-
-        log.info("Finished retry process.");
-        isProcessing.set(false);
-        stopProcessing.set(false);
-        log.info("Retry job finished. Processing lock released.");
     }
 
-    // Helper method to run ONLY the Generation step (Step 3)
-    private Gazette runGenerationStep(Object extractedData, String rawContent, String category, int sourceOrder, JSONObject overallGazetteDetails, String originalPdfPath) {
-        log.info("Attempting Generation for retried notice...");
+    /** The gazette details the pipeline passes along, rebuilt from the stored notice. */
+    static JSONObject detailsOf(Gazette notice) {
+        JSONObject d = new JSONObject();
+        if (notice.getGazetteVolume() != null) d.put("gazetteVolume", notice.getGazetteVolume());
+        if (notice.getGazetteNumber() != null) d.put("gazetteNumber", notice.getGazetteNumber());
+        if (notice.getGazetteDate() != null) d.put("gazetteDate", notice.getGazetteDate().toString());
+        if (notice.getExtractionSource() != null) d.put("extractionSource", notice.getExtractionSource());
+        return d;
+    }
 
-        String generationPrompt = """
-TASK: Fill the output template below using only the data provided. Do not add information not present in the data.
-
-OUTPUT TEMPLATE — fill every field, no exceptions:
-{
-  "title": "[One clear headline, max 12 words, no punctuation at end]",
-  "summary": "[One sentence. What happened and who it affects. Max 25 words.]",
-  "article": "[Three paragraphs. Paragraph 1: what the notice says. Paragraph 2: who is affected and what it means. Paragraph 3: what action is needed and by when. Plain text only, no markdown, no bullet points, no headers.]",
-  "xSummary": "[Max 240 characters. Same information as summary but conversational. No hashtags.]",
-  "actionableInfo": "[One sentence. If a deadline exists in the data, state it exactly. If no deadline, state the key action required.]",
-  "significance": [integer 1-10, where 1=routine administrative, 5=affects a specific group, 10=affects all Kenyans]
-}
-
-RULES:
-- First character of response must be { and last must be }.
-- No text before or after the JSON.
-- Fill every field. No field may be null or empty.
-- Do not use markdown formatting anywhere inside the JSON values.
-- Do not use bullet points, asterisks, or hyphens inside article or any other field.
-- significance must be a bare integer, not a string.
-
-DATA:
-%s
-""".formatted(extractedData.toString());
-
-        String generatedContentResponse = generateWithRetry(
-                List.of("Court_Legal", "Land_Property", "Company_Registrations", "Licensing")
-                        .contains(category) ? groqFlashModelName : groqProModelName,
-                generationPrompt);
-        JSONObject generatedContent = parseSafeJson(generatedContentResponse);
-
-        if (generatedContent == null) {
-            log.error("Generation step failed on retry.");
-            return null;
+    /**
+     * The single-notice pipeline again for a notice that failed before its
+     * article. The pipeline saves its own checkpoint row once extraction works;
+     * then that row is the notice and the old failed row is removed, so there
+     * is still one row per notice.
+     */
+    private Gazette rerunPipeline(Gazette old) {
+        int order = old.getSourceOrder() == null ? 0 : old.getSourceOrder();
+        String category = triageNoticeCategory(old.getContent());
+        NoticeSegment segment = NoticeSegment.of(order, old.getContent()).withCategory(category);
+        Gazette result = processSingleNotice(segment, detailsOf(old), old.getOriginalPdfPath());
+        if (result == null) return old;
+        if (result.getId() == null) {
+            // no checkpoint was saved: the notice failed again at the same point
+            return result.getStatus() == ProcessingStatus.SUCCESS ? replace(old, result) : old;
         }
-        log.info("Generation complete on retry.");
-
-        // --- FIX: Pass originalPdfPath to final creator method ---
-        return createGazetteFromJson(extractedData, generatedContent, rawContent, category, sourceOrder, overallGazetteDetails, originalPdfPath);
+        return replace(old, result);
     }
 
-    private void updateExistingNotice(Gazette oldNotice, Gazette newNotice) {
-        oldNotice.setTitle(newNotice.getTitle());
-        oldNotice.setSummary(newNotice.getSummary());
-        oldNotice.setArticle(newNotice.getArticle());
-        oldNotice.setActionableInfo(newNotice.getActionableInfo());
-        oldNotice.setXSummary(newNotice.getXSummary());
-        oldNotice.setNoticeNumber(newNotice.getNoticeNumber());
-        oldNotice.setSignatory(newNotice.getSignatory());
-        oldNotice.setPublishedDate(newNotice.getPublishedDate());
-        oldNotice.setGazetteVolume(newNotice.getGazetteVolume());
-        oldNotice.setGazetteNumber(newNotice.getGazetteNumber());
-        oldNotice.setGazetteDate(newNotice.getGazetteDate());
-        oldNotice.setCategory(newNotice.getCategory());
-        oldNotice.setContent(newNotice.getContent());
-        oldNotice.setStatus(ProcessingStatus.SUCCESS);
-
-        gazetteRepository.save(oldNotice);
+    private Gazette replace(Gazette old, Gazette fresh) {
+        fresh.setParentNoticeNumber(old.getParentNoticeNumber());     // a sub-case stays a sub-case
+        fresh.setRetryCount(old.getRetryCount());
+        Gazette saved = gazetteRepository.save(fresh);
+        if (!old.getId().equals(saved.getId())) gazetteRepository.delete(old);
+        return saved;
     }
 
     private Gazette createGazetteFromJson(Gazette existing, Object extractedData, JSONObject generatedContent,

@@ -24,6 +24,13 @@ JRE. This page lists everything the deployment depends on.
   `scraper.enabled=false`.
   **Authorisation:** Kenya Law's terms of use restrict scraping; the owner is
   asking Kenya Law for permission / a data feed.
+- **Failed notices are retried by themselves**: every night at 03:00
+  (`retry.cron`) notices that failed - mostly AI calls that hit a rate limit or
+  returned bad JSON - go through the same pipeline as a new gazette again
+  (templates first, then the AI), at most 3 times each (`retry.max-attempts`).
+  On the first test, 3 of 4 failed notices were recovered; the fourth is a
+  140,000-character notice larger than the free Groq tier's 8,000 tokens per
+  minute.
 - **No social posting**: `social.posting.enabled` defaults to `false`; no IFTTT
   setting is needed. (An old commit on `main` contains the owner's real IFTTT
   webhook URL; the owner should delete or regenerate it in IFTTT.)
