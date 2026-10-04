@@ -23,7 +23,11 @@ def _t(s):
 def _digits(s):
     return re.sub(r'\s', '', s) if s else None
 
-def extract(block):
+def extract(block, notice=None):
+    """block = the CAUSE NO. segment; notice = the whole notice. The corrected
+    notice is named BEFORE the cause ("IN Gazette Notice No. 5121 of 2022,
+    CAUSE NO. ..."), outside the block - so it is searched in the notice too
+    (amends_notice was always empty when only the block was searched)."""
     c = RE_CAUSE.search(block)
     a = RE_AMEND.search(block)
     if not (c and a):
@@ -34,7 +38,9 @@ def extract(block):
                    'to_read': _t(m.group('new'))}
                   for m in RE_AMEND.finditer(block)]
 
-    r = RE_REF.search(block)
+    # (not the corrigendum's own header line "GAZETTE NOTICE NO. 2")
+    body = re.sub(r'^\s*GAZETTE NOTICE NO\.[^\n]*\n', '', notice) if notice else None
+    r = RE_REF.search(block) or (RE_REF.search(body) if body else None)
     return {
         'notice_subtype': 'Corrigendum',
         'cause_reference': '%s of %s' % (_digits(c.group('cause')), _digits(c.group('cause_year'))),
@@ -42,6 +48,44 @@ def extract(block):
         'amends_notice_year': _digits(r.group('ref_year')) if r and r.group('ref_year') else None,
         'amendments': amendments,
     }
+
+# --- corrections with no CAUSE NO. (fix 4) ---------------------------------
+# Most numbered corrigenda are not probate corrections: appointment names,
+# NLC land-acquisition schedules, IEBC "delete and insert" instructions.
+# They share one shape: which notice is corrected, then what changes.
+RE_TARGET = re.compile(
+    r'(?:IN|in|further\s+to)\s+(?:the\s+)?(?:Kenya\s+)?Gaz+et+e\s+Notices?\s+Nos?\.?\s*(?P<ref>\d[\d\s]{0,6}\d|\d)'
+    r'(?:\s*of\s*(?P<year>(?:19|20)\d\d))?', re.I)
+# (Gaz+et+e: the source misspells it - "Gazzette" 2022/283/15995, "GAZETE" lesson 8)
+# printed as "A" to read "B" - quotes are often missing on one side in the source
+RE_AMEND_LOOSE = re.compile(
+    r'amend\s*the\s+(?P<field>.+?)\s*printed\s+as\s*"?\s*(?P<old>[^"\n]+?)\s*"?\s*to\s+read\s*"?\s*(?P<new>[^"\n]+?)\s*"?\s*(?:\.|;|$)',
+    re.I | re.M)
+# numbered delete / insert / replace instructions (IEBC, schedules)
+RE_INSTR = re.compile(r'^\s*\d{1,3}\.\s+(?P<text>[^\n]*\b(?:delete|insert|replace|substitute|amend)\b[^\n]*)', re.I | re.M)
+
+
+def extract_notice(notice):
+    """A correction notice without a CAUSE NO.: needs the corrected notice
+    number and at least one stated change. Returns None otherwise (-> AI)."""
+    t = RE_TARGET.search(notice)
+    if not t:
+        return None
+    amendments = [{'field': _t(m.group('field')), 'printed_as': _t(m.group('old')), 'to_read': _t(m.group('new'))}
+                  for m in RE_AMEND_LOOSE.finditer(notice)]
+    if not amendments:
+        amendments = [{'field': 'instruction', 'printed_as': None, 'to_read': _t(m.group('text'))}
+                      for m in RE_INSTR.finditer(notice)]
+    if not amendments:
+        return None
+    return {
+        'notice_subtype': 'Corrigendum',
+        'cause_reference': None,
+        'amends_notice': _digits(t.group('ref')),
+        'amends_notice_year': t.group('year'),
+        'amendments': amendments,
+    }
+
 
 if __name__ == '__main__':
     import sys, json, glob, os

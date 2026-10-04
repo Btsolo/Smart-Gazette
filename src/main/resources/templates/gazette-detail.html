@@ -26,6 +26,7 @@
             border-bottom-color: #2563EB;
         }
         .dark .tab-button.active { color: #60A5FA; border-bottom-color: #60A5FA; }
+        .figure-toggle.active { background: #2563EB; color: #fff; border-color: #2563EB; }
         .tab-content { display: none; }
         .tab-content.active { display: block; }
     </style>
@@ -69,6 +70,13 @@
                 </div>
 
                 <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900 dark:text-white mb-8" th:text="${gazette.title}"></h1>
+
+                <div th:if="${gazette.fromOcr}" class="mb-6 bg-amber-50 dark:bg-amber-900/20 border-l-4 border-amber-500 p-4 rounded-r-md">
+                    <p class="text-sm text-amber-900 dark:text-amber-200">
+                        <strong>Read from a scanned copy.</strong> This Gazette issue was published as a scan, so its text
+                        was read by OCR. Names, dates and numbers may contain reading errors - check them against the original PDF.
+                    </p>
+                </div>
 
                 <div class="mb-8 border border-gray-200 dark:border-gray-600 rounded-lg overflow-hidden">
                     <div class="bg-gray-50 dark:bg-gray-700/30 p-4 border-b border-gray-200 dark:border-gray-600">
@@ -123,6 +131,12 @@
                         <nav class="flex -mb-px space-x-8">
                             <button class="tab-button active" data-tab="summary">AI-Generated Summary</button>
                             <button class="tab-button" data-tab="original">Original Notice Text</button>
+                            <button class="tab-button" data-tab="tables" th:if="${tables != null and !tables.isEmpty()}"
+                                    th:text="'Tables (' + ${tables.size()} + ')'">Tables</button>
+                            <button class="tab-button" data-tab="figures" th:if="${!mainFigures.isEmpty() or !otherFigures.isEmpty()}"
+                                    th:text="'Figures (' + ${mainFigures.size() + otherFigures.size()} + ')'">Figures</button>
+                            <button class="tab-button" data-tab="laws" th:if="${lawRefs != null and !lawRefs.isEmpty()}"
+                                    th:text="'Laws Cited (' + ${lawRefs.size()} + ')'">Laws Cited</button>
                         </nav>
                     </div>
 
@@ -138,7 +152,90 @@
                                     <strong>Tip:</strong> Use <kbd class="font-mono bg-white dark:bg-gray-800 px-1 rounded border">Ctrl + F</kbd> (or Cmd + F) and type the Notice Number <strong th:text="${gazette.noticeNumber}"></strong> to quickly find this notice in the original document.
                                 </p>
                             </div>
-                            <div class="prose max-w-none text-gray-600 dark:text-gray-400 leading-relaxed preserve-lines bg-gray-50 dark:bg-gray-900 p-4 rounded-md border dark:border-gray-700 font-mono text-sm" th:text="${gazette.content}"></div>
+                            <div class="prose max-w-none text-gray-600 dark:text-gray-400 leading-relaxed preserve-lines bg-gray-50 dark:bg-gray-900 p-4 rounded-md border dark:border-gray-700 font-mono text-sm"><th:block th:each="part : ${contentParts}"><span th:if="${part.figure() == null}" th:text="${part.text()}"></span><a th:if="${part.figure() != null}" th:href="@{/figures/{id}(id=${part.figure().id})}" target="_blank" class="block my-2 not-prose"><img th:src="@{/figures/{id}(id=${part.figure().id})}" th:alt="${part.figure().kindLabel}" loading="lazy" class="max-h-96 max-w-full rounded border border-gray-200 dark:border-gray-700 bg-white"></a></th:block></div>
+                        </div>
+
+                        <div id="tab-tables" class="tab-content" th:if="${tables != null and !tables.isEmpty()}">
+                            <p class="text-sm text-gray-600 dark:text-gray-400 mb-4">
+                                The tables printed in this notice, row by row. Check figures against the original PDF.
+                            </p>
+                            <div th:each="t, ts : ${tables}" class="mb-8">
+                                <p class="text-xs text-gray-500 dark:text-gray-400 mb-1"
+                                   th:text="'Table ' + ${ts.count} + ' - ' + ${t.rows().size()} + ' rows'">Table 1</p>
+                                <div class="overflow-x-auto rounded-md border border-gray-200 dark:border-gray-700">
+                                    <table class="min-w-full text-sm text-left text-gray-800 dark:text-gray-200">
+                                        <thead th:if="${t.columns() != null}" class="bg-gray-100 dark:bg-gray-800">
+                                            <tr><th th:each="c : ${t.columns()}" class="px-3 py-2 font-semibold" th:text="${c}"></th></tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr th:each="r, rs : ${t.rows()}" th:if="${rs.index < 300}"
+                                                class="border-t border-gray-100 dark:border-gray-700">
+                                                <td th:each="c : ${r}" class="px-3 py-1 align-top" th:text="${c}"></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <p th:if="${t.rows().size() > 300}" class="text-xs italic text-gray-500 mt-1"
+                                   th:text="'Showing the first 300 of ' + ${t.rows().size()} + ' rows - the full table is in the original PDF.'"></p>
+                            </div>
+                        </div>
+
+                        <div id="tab-figures" class="tab-content" th:if="${!mainFigures.isEmpty() or !otherFigures.isEmpty()}">
+                            <p class="text-sm text-gray-600 dark:text-gray-400 mb-4">
+                                The images printed in this notice. A faded or brown-paper scan also has a cleaned copy:
+                                it only removes the paper tone and sharpens the lines, nothing is added. The original is always kept.
+                            </p>
+                            <div th:each="f : ${mainFigures}" class="figure-card mb-8 rounded-md border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-4">
+                                <div class="flex flex-wrap items-center justify-between gap-2 mb-3">
+                                    <p class="font-semibold text-gray-900 dark:text-white">
+                                        <span th:text="${f.kindLabel}">Map</span>
+                                        <span class="font-normal text-sm text-gray-500 dark:text-gray-400" th:text="' - page ' + ${f.page}"></span>
+                                    </p>
+                                    <div th:if="${f.cleanFilePath != null}" class="flex gap-1 text-sm">
+                                        <button type="button" class="figure-toggle active px-3 py-1 rounded border dark:border-gray-600" data-version="clean">Cleaned</button>
+                                        <button type="button" class="figure-toggle px-3 py-1 rounded border dark:border-gray-600" data-version="original">Original</button>
+                                    </div>
+                                </div>
+                                <a th:href="@{/figures/{id}(id=${f.id},clean=${f.cleanFilePath != null})}" target="_blank" class="figure-link block">
+                                    <img class="figure-img max-w-full rounded border border-gray-200 dark:border-gray-700 bg-white"
+                                         th:src="@{/figures/{id}(id=${f.id},clean=${f.cleanFilePath != null})}"
+                                         th:attr="data-original=@{/figures/{id}(id=${f.id})},data-clean=@{/figures/{id}(id=${f.id},clean=true)}"
+                                         th:alt="${f.kindLabel}" loading="lazy">
+                                </a>
+                                <p th:if="${f.rotate == 180}" class="text-xs italic text-gray-500 mt-1">This map was scanned upside down; the cleaned copy is turned the right way up.</p>
+                                <details th:if="${f.ocrText != null and !f.ocrText.isBlank()}" class="mt-3 text-sm">
+                                    <summary class="cursor-pointer text-gray-600 dark:text-gray-400">Text read on the image (OCR - check against the image)</summary>
+                                    <div class="mt-2 preserve-lines text-gray-800 dark:text-gray-200 font-mono text-xs" th:text="${f.ocrText}"></div>
+                                </details>
+                            </div>
+                            <div th:if="${!otherFigures.isEmpty()}">
+                                <h3 class="text-sm font-semibold text-gray-700 dark:text-gray-300 mb-2">Other images (logos, stamps, seals, marks)</h3>
+                                <div class="flex flex-wrap gap-3">
+                                    <a th:each="f : ${otherFigures}" th:href="@{/figures/{id}(id=${f.id})}" target="_blank"
+                                       class="block rounded border border-gray-200 dark:border-gray-700 bg-white p-1" th:title="${f.kindLabel} + ' - page ' + ${f.page}">
+                                        <img th:src="@{/figures/{id}(id=${f.id})}" th:alt="${f.kindLabel}" loading="lazy" class="h-16 w-auto">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="tab-laws" class="tab-content" th:if="${lawRefs != null and !lawRefs.isEmpty()}">
+                            <p class="text-sm text-gray-600 dark:text-gray-400 mb-4">
+                                The provisions this notice relies on, as published by Kenya Law. Select one to read it.
+                            </p>
+                            <details th:each="ref : ${lawRefs}" class="mb-3 rounded-md border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
+                                <summary class="cursor-pointer px-4 py-3 font-semibold text-gray-900 dark:text-white">
+                                    <span th:text="${ref.label()}">Article 179(2)</span>
+                                    <span class="font-normal text-gray-600 dark:text-gray-400"> of the </span>
+                                    <span class="font-normal text-gray-600 dark:text-gray-400" th:text="${ref.lawTitle()}">Constitution of Kenya</span>
+                                    <span class="font-normal text-gray-500 dark:text-gray-400" th:if="${ref.title() != null}" th:text="' - ' + ${ref.title()}"></span>
+                                </summary>
+                                <div class="px-4 pb-4 text-sm text-gray-800 dark:text-gray-200 leading-relaxed preserve-lines"
+                                     th:if="${ref.found()}" th:text="${ref.text()}"></div>
+                                <div class="px-4 pb-4 text-sm italic text-gray-500 dark:text-gray-400" th:unless="${ref.found()}">
+                                    The text of this law is not in Smart Gazette yet.
+                                </div>
+                            </details>
                         </div>
                     </div>
                 </section>
@@ -180,6 +277,18 @@
             html.classList.add('dark'); localStorage.setItem('theme', 'dark');
         }
     }
+
+    // figures: cleaned <-> original
+    document.querySelectorAll('.figure-card').forEach(card => {
+        const img = card.querySelector('.figure-img'), link = card.querySelector('.figure-link');
+        card.querySelectorAll('.figure-toggle').forEach(btn => btn.addEventListener('click', () => {
+            card.querySelectorAll('.figure-toggle').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            const src = btn.dataset.version === 'clean' ? img.dataset.clean : img.dataset.original;
+            img.src = src;
+            link.href = src;
+        }));
+    });
 
     const tabButtons = document.querySelectorAll('.tab-button');
     const tabPanels = document.querySelectorAll('.tab-content');

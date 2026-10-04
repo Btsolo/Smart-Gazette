@@ -1,0 +1,1320 @@
+{
+ "_about": "Smart Gazette lexicon: Kenya Gazette terms with plain-English definitions, variants (abbreviations, spellings, inflections) and synonyms. 'entries' is curated by hand; 'observed_spelling_variants' is mined from the corpus by tools/build_lexicon.py. Definitions are general explanations for readers, not legal advice. Uses: keyword matching (variants/synonyms map to the canonical term), article generation (definitions), word repair (every variant is a valid word).",
+ "entries": [
+  {
+   "term": "letters of administration intestate",
+   "type": "probate",
+   "definition": "Court authority for someone to manage and distribute the estate of a person who died without a valid will.",
+   "variants": [
+    "letters of administration",
+    "grant of letters of administration intestate",
+    "L.A."
+   ],
+   "synonyms": [
+    "grant of administration"
+   ],
+   "categories": [
+    "Court_Legal"
+   ],
+   "corpus_count": {
+    "letters of administration intestate": 0,
+    "letters of administration": 0,
+    "grant of letters of administration intestate": 0,
+    "L.A.": 81,
+    "grant of administration": 0
+   }
+  },
+  {
+   "term": "grant of probate",
+   "type": "probate",
+   "definition": "Court confirmation that the executor named in a will may administer the deceased person's estate.",
+   "variants": [
+    "probate",
+    "grant of probate of written will",
+    "probate of the will"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Court_Legal"
+   ],
+   "corpus_count": {
+    "grant of probate": 0,
+    "probate": 8255,
+    "grant of probate of written will": 0,
+    "probate of the will": 0
+   }
+  },
+  {
+   "term": "resealing of grant",
+   "type": "probate",
+   "definition": "Recognition in Kenya of a probate or administration grant issued by a court in another country.",
+   "variants": [
+    "resealing of a grant",
+    "reseal"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Court_Legal"
+   ],
+   "corpus_count": {
+    "resealing of grant": 0,
+    "resealing of a grant": 0,
+    "reseal": 0
+   }
+  },
+  {
+   "term": "succession cause",
+   "type": "probate",
+   "definition": "A court case about the estate of a deceased person; each has a cause number such as E123 of 2024.",
+   "variants": [
+    "cause no.",
+    "cause number",
+    "succession case",
+    "probate and administration cause"
+   ],
+   "synonyms": [
+    "probate case"
+   ],
+   "categories": [
+    "Court_Legal",
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "succession cause": 0,
+    "cause no.": 0,
+    "cause number": 0,
+    "succession case": 0,
+    "probate and administration cause": 0,
+    "probate case": 0
+   }
+  },
+  {
+   "term": "intestate",
+   "type": "probate",
+   "definition": "Having died without a valid will.",
+   "variants": [
+    "intestacy"
+   ],
+   "synonyms": [
+    "without a will"
+   ],
+   "categories": [
+    "Court_Legal"
+   ],
+   "corpus_count": {
+    "intestate": 35534,
+    "intestacy": 0,
+    "without a will": 0
+   }
+  },
+  {
+   "term": "testate",
+   "type": "probate",
+   "definition": "Having died with a valid will.",
+   "variants": [],
+   "synonyms": [
+    "with a will"
+   ],
+   "categories": [
+    "Court_Legal"
+   ],
+   "corpus_count": {
+    "testate": 297,
+    "with a will": 0
+   }
+  },
+  {
+   "term": "executor",
+   "type": "role",
+   "definition": "The person named in a will to carry out its instructions.",
+   "variants": [
+    "executors",
+    "executrix"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Court_Legal"
+   ],
+   "corpus_count": {
+    "executor": 252,
+    "executors": 191,
+    "executrix": 81
+   }
+  },
+  {
+   "term": "administrator",
+   "type": "role",
+   "definition": "The person appointed by the court to manage an estate when there is no will (or no executor).",
+   "variants": [
+    "administrators",
+    "administratrix"
+   ],
+   "synonyms": [
+    "personal representative",
+    "legal representative"
+   ],
+   "categories": [
+    "Court_Legal",
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "administrator": 1052,
+    "administrators": 361,
+    "administratrix": 13,
+    "personal representative": 0,
+    "legal representative": 0
+   }
+  },
+  {
+   "term": "petitioner",
+   "type": "role",
+   "definition": "The person who applies to the court, for example for a grant of letters of administration.",
+   "variants": [
+    "petitioners",
+    "applicant",
+    "applicants"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Court_Legal"
+   ],
+   "corpus_count": {
+    "petitioner": 70,
+    "petitioners": 23,
+    "applicant": 507,
+    "applicants": 194
+   }
+  },
+  {
+   "term": "deceased",
+   "type": "probate",
+   "definition": "The person who has died and whose estate is the subject of the notice.",
+   "variants": [
+    "the deceased",
+    "deceased's",
+    "the late"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Court_Legal"
+   ],
+   "corpus_count": {
+    "deceased": 3854,
+    "the deceased": 0,
+    "deceased's": 0,
+    "the late": 0
+   }
+  },
+  {
+   "term": "alias",
+   "type": "name",
+   "definition": "Introduces another name the same person is known by.",
+   "variants": [
+    "also known as",
+    "a.k.a."
+   ],
+   "synonyms": [],
+   "categories": [
+    "Court_Legal",
+    "Change_of_Name"
+   ],
+   "corpus_count": {
+    "alias": 13239,
+    "also known as": 0,
+    "a.k.a.": 3
+   }
+  },
+  {
+   "term": "objection period",
+   "type": "procedure",
+   "definition": "The time (usually 30 or 60 days from publication) within which anyone can object before the court or registrar acts.",
+   "variants": [
+    "within thirty (30) days",
+    "expiration of sixty (60) days"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Court_Legal",
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "objection period": 0,
+    "within thirty (30) days": 0,
+    "expiration of sixty (60) days": 0
+   }
+  },
+  {
+   "term": "Messrs.",
+   "type": "abbreviation",
+   "definition": "Plural of 'Mr', used before the name of a law firm acting for a petitioner.",
+   "variants": [
+    "Messrs",
+    "M/s",
+    "M/s."
+   ],
+   "synonyms": [],
+   "categories": [
+    "Court_Legal"
+   ],
+   "corpus_count": {
+    "Messrs.": 1606,
+    "Messrs": 1606,
+    "M/s": 341,
+    "M/s.": 341
+   }
+  },
+  {
+   "term": "Land Registration Act",
+   "type": "statute",
+   "definition": "The 2012 Act (No. 3 of 2012) governing registration of land titles; most title-replacement notices are made under it.",
+   "variants": [
+    "the Land Registration Act, 2012",
+    "No. 3 of 2012",
+    "Cap. 300"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "Land Registration Act": 0,
+    "the Land Registration Act, 2012": 0,
+    "No. 3 of 2012": 0,
+    "Cap. 300": 0
+   }
+  },
+  {
+   "term": "Land Act",
+   "type": "statute",
+   "definition": "The 2012 Act (No. 6 of 2012) on land administration, including compulsory acquisition of land for public projects.",
+   "variants": [
+    "the Land Act, 2012",
+    "No. 6 of 2012"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "Land Act": 0,
+    "the Land Act, 2012": 0,
+    "No. 6 of 2012": 0
+   }
+  },
+  {
+   "term": "title deed",
+   "type": "land document",
+   "definition": "The document showing who owns a parcel of land.",
+   "variants": [
+    "land title deed",
+    "certificate of title",
+    "title"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "title deed": 0,
+    "land title deed": 0,
+    "certificate of title": 0,
+    "title": 25746
+   }
+  },
+  {
+   "term": "certificate of lease",
+   "type": "land document",
+   "definition": "The document showing a registered leasehold interest in land.",
+   "variants": [
+    "certificate of leases"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "certificate of lease": 0,
+    "certificate of leases": 0
+   }
+  },
+  {
+   "term": "provisional certificate",
+   "type": "land document",
+   "definition": "A replacement title or lease certificate issued when the original is lost.",
+   "variants": [
+    "provisional certificate of title",
+    "provisional certificate of lease"
+   ],
+   "synonyms": [
+    "replacement certificate"
+   ],
+   "categories": [
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "provisional certificate": 0,
+    "provisional certificate of title": 0,
+    "provisional certificate of lease": 0,
+    "replacement certificate": 0
+   }
+  },
+  {
+   "term": "green card",
+   "type": "land document",
+   "definition": "The registry record card for a parcel, used to reconstruct a lost land register.",
+   "variants": [
+    "green cards"
+   ],
+   "synonyms": [
+    "land register card"
+   ],
+   "categories": [
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "green card": 5,
+    "green cards": 0,
+    "land register card": 0
+   }
+  },
+  {
+   "term": "land register",
+   "type": "land document",
+   "definition": "The official registry record of a parcel's ownership and dealings.",
+   "variants": [
+    "register"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "land register": 0,
+    "register": 5052
+   }
+  },
+  {
+   "term": "registered proprietor",
+   "type": "role",
+   "definition": "The person or company recorded in the land register as owner.",
+   "variants": [
+    "registered as proprietor",
+    "registered proprietors",
+    "proprietor"
+   ],
+   "synonyms": [
+    "registered owner"
+   ],
+   "categories": [
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "registered proprietor": 0,
+    "registered as proprietor": 0,
+    "registered proprietors": 0,
+    "proprietor": 8316,
+    "registered owner": 0
+   }
+  },
+  {
+   "term": "L.R. No.",
+   "type": "abbreviation",
+   "definition": "Land Reference Number: the identifier of a surveyed parcel, e.g. L.R. No. 209/1234/5.",
+   "variants": [
+    "L.R. No",
+    "LR No.",
+    "L.R No.",
+    "Land Reference Number"
+   ],
+   "synonyms": [
+    "parcel number"
+   ],
+   "categories": [
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "L.R. No.": 0,
+    "L.R. No": 0,
+    "LR No.": 0,
+    "L.R No.": 0,
+    "Land Reference Number": 0,
+    "parcel number": 0
+   }
+  },
+  {
+   "term": "I.R.",
+   "type": "abbreviation",
+   "definition": "Inland Registry: prefix of a title registration number (e.g. I.R. 89101/1).",
+   "variants": [
+    "IR"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "I.R.": 74,
+    "IR": 74
+   }
+  },
+  {
+   "term": "C.R.",
+   "type": "abbreviation",
+   "definition": "Coast Registry: prefix of a title registration number for land registered at the coast.",
+   "variants": [
+    "CR"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "C.R.": 74,
+    "CR": 74
+   }
+  },
+  {
+   "term": "Registrar of Titles",
+   "type": "office",
+   "definition": "The official who signs land title notices.",
+   "variants": [
+    "Land Registrar",
+    "Deputy Land Registrar",
+    "District Land Registrar"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "Registrar of Titles": 0,
+    "Land Registrar": 0,
+    "Deputy Land Registrar": 0,
+    "District Land Registrar": 0
+   }
+  },
+  {
+   "term": "compulsory acquisition",
+   "type": "procedure",
+   "definition": "The Government taking private land for a public project, with compensation, under Part VIII of the Land Act.",
+   "variants": [
+    "intention to acquire land",
+    "inquiry"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "compulsory acquisition": 0,
+    "intention to acquire land": 0,
+    "inquiry": 441
+   }
+  },
+  {
+   "term": "registration of instrument",
+   "type": "land procedure",
+   "definition": "Registering a document (such as a transfer or a transmission after a death) against a parcel.",
+   "variants": [
+    "registration of instruments"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Land_Property"
+   ],
+   "corpus_count": {
+    "registration of instrument": 0,
+    "registration of instruments": 0
+   }
+  },
+  {
+   "term": "Gazette Notice",
+   "type": "document",
+   "definition": "A numbered notice published in the Kenya Gazette; numbers restart each year.",
+   "variants": [
+    "Gazette Notice No.",
+    "Kenya Gazette Notice",
+    "G.N."
+   ],
+   "synonyms": [],
+   "categories": [],
+   "corpus_count": {
+    "Gazette Notice": 0,
+    "Gazette Notice No.": 0,
+    "Kenya Gazette Notice": 0,
+    "G.N.": 10
+   }
+  },
+  {
+   "term": "corrigendum",
+   "type": "procedure",
+   "definition": "A correction to an earlier Gazette notice.",
+   "variants": [
+    "corrigenda"
+   ],
+   "synonyms": [
+    "correction"
+   ],
+   "categories": [
+    "Corrigenda"
+   ],
+   "corpus_count": {
+    "corrigendum": 101,
+    "corrigenda": 105,
+    "correction": 13
+   }
+  },
+  {
+   "term": "Cap.",
+   "type": "abbreviation",
+   "definition": "Chapter: the number of an Act in the Laws of Kenya, e.g. Cap. 160.",
+   "variants": [
+    "Cap",
+    "Chapter"
+   ],
+   "synonyms": [],
+   "categories": [],
+   "corpus_count": {
+    "Cap.": 4155,
+    "Cap": 4155,
+    "Chapter": 59
+   }
+  },
+  {
+   "term": "L.N.",
+   "type": "abbreviation",
+   "definition": "Legal Notice: the number of a piece of subsidiary legislation.",
+   "variants": [
+    "Legal Notice No.",
+    "LN"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Legislation"
+   ],
+   "corpus_count": {
+    "L.N.": 4,
+    "Legal Notice No.": 0,
+    "LN": 4
+   }
+  },
+  {
+   "term": "P.O. Box",
+   "type": "abbreviation",
+   "definition": "Post office box address, often followed by a postal code, e.g. P.O. Box 30041-00100, Nairobi.",
+   "variants": [
+    "P. O. Box",
+    "PO Box",
+    "P.O Box"
+   ],
+   "synonyms": [],
+   "categories": [],
+   "corpus_count": {
+    "P.O. Box": 0,
+    "P. O. Box": 0,
+    "PO Box": 0,
+    "P.O Box": 0
+   }
+  },
+  {
+   "term": "deed poll",
+   "type": "document",
+   "definition": "A legal document by which a person formally changes their name.",
+   "variants": [
+    "by a deed poll"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Change_of_Name"
+   ],
+   "corpus_count": {
+    "deed poll": 0,
+    "by a deed poll": 0
+   }
+  },
+  {
+   "term": "change of name",
+   "type": "procedure",
+   "definition": "A notice that a person has abandoned a former name and assumed a new one.",
+   "variants": [
+    "abandoned the use of",
+    "assumed the name"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Change_of_Name"
+   ],
+   "corpus_count": {
+    "change of name": 0,
+    "abandoned the use of": 0,
+    "assumed the name": 0
+   }
+  },
+  {
+   "term": "IEBC",
+   "type": "office",
+   "definition": "Independent Electoral and Boundaries Commission: runs elections and voter registration.",
+   "variants": [
+    "Independent Electoral and Boundaries Commission",
+    "the Commission"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Elections"
+   ],
+   "note": "the full name also appears in National Treasury budget tables - not a safe keyword on its own",
+   "corpus_count": {
+    "IEBC": 191,
+    "Independent Electoral and Boundaries Commission": 0,
+    "the Commission": 0
+   }
+  },
+  {
+   "term": "returning officer",
+   "type": "role",
+   "definition": "The official who runs an election in a county, constituency or ward and declares the result.",
+   "variants": [
+    "returning officers",
+    "deputy returning officer",
+    "constituency returning officer",
+    "county returning officer"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Elections"
+   ],
+   "corpus_count": {
+    "returning officer": 0,
+    "returning officers": 0,
+    "deputy returning officer": 0,
+    "constituency returning officer": 0,
+    "county returning officer": 0
+   }
+  },
+  {
+   "term": "election petition",
+   "type": "procedure",
+   "definition": "A court case challenging an election result.",
+   "variants": [
+    "election petitions"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Elections",
+    "Court_Legal"
+   ],
+   "corpus_count": {
+    "election petition": 0,
+    "election petitions": 0
+   }
+  },
+  {
+   "term": "by-election",
+   "type": "procedure",
+   "definition": "An election held to fill a vacancy between general elections.",
+   "variants": [
+    "by election",
+    "bye-election"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Elections"
+   ],
+   "corpus_count": {
+    "by-election": 0,
+    "by election": 0,
+    "bye-election": 0
+   }
+  },
+  {
+   "term": "Registrar of Political Parties",
+   "type": "office",
+   "definition": "Registers political parties and records changes to their officials.",
+   "variants": [],
+   "synonyms": [],
+   "categories": [
+    "Elections"
+   ],
+   "note": "also appears in National Treasury budget tables",
+   "corpus_count": {
+    "Registrar of Political Parties": 0
+   }
+  },
+  {
+   "term": "County Assembly",
+   "type": "office",
+   "definition": "The elected legislature of a county government.",
+   "variants": [
+    "county assemblies",
+    "the Assembly"
+   ],
+   "synonyms": [],
+   "categories": [
+    "County_Government"
+   ],
+   "corpus_count": {
+    "County Assembly": 0,
+    "county assemblies": 0,
+    "the Assembly": 0
+   }
+  },
+  {
+   "term": "standing orders",
+   "type": "procedure",
+   "definition": "The rules of procedure of a legislature; special sittings of county assemblies are called under them.",
+   "variants": [
+    "standing order"
+   ],
+   "synonyms": [],
+   "categories": [
+    "County_Government"
+   ],
+   "corpus_count": {
+    "standing orders": 0,
+    "standing order": 0
+   }
+  },
+  {
+   "term": "County Public Service Board",
+   "type": "office",
+   "definition": "The body that hires and manages county government staff.",
+   "variants": [
+    "CPSB"
+   ],
+   "synonyms": [],
+   "categories": [
+    "County_Government",
+    "Public_Service_HR"
+   ],
+   "corpus_count": {
+    "County Public Service Board": 0,
+    "CPSB": 10
+   }
+  },
+  {
+   "term": "environmental impact assessment",
+   "type": "procedure",
+   "definition": "A study of a project's environmental effects, published for public comment by NEMA.",
+   "variants": [
+    "EIA",
+    "EIA study report",
+    "environmental impact assessment study report"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Environment"
+   ],
+   "corpus_count": {
+    "environmental impact assessment": 0,
+    "EIA": 84,
+    "EIA study report": 0,
+    "environmental impact assessment study report": 0
+   }
+  },
+  {
+   "term": "NEMA",
+   "type": "office",
+   "definition": "National Environment Management Authority.",
+   "variants": [
+    "National Environment Management Authority"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Environment"
+   ],
+   "corpus_count": {
+    "NEMA": 993,
+    "National Environment Management Authority": 0
+   }
+  },
+  {
+   "term": "disposal of uncollected goods",
+   "type": "procedure",
+   "definition": "Notice that goods left with a business will be sold unless the owner collects them and pays charges.",
+   "variants": [
+    "uncollected goods"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Uncollected_Goods"
+   ],
+   "corpus_count": {
+    "disposal of uncollected goods": 0,
+    "uncollected goods": 0
+   }
+  },
+  {
+   "term": "auctioneer",
+   "type": "role",
+   "definition": "A licensed person who sells goods or property by public auction.",
+   "variants": [
+    "auctioneers"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Uncollected_Goods"
+   ],
+   "corpus_count": {
+    "auctioneer": 21,
+    "auctioneers": 595
+   }
+  },
+  {
+   "term": "unclaimed financial assets",
+   "type": "procedure",
+   "definition": "Money or assets held for owners who cannot be traced, reported to the Unclaimed Financial Assets Authority.",
+   "variants": [
+    "UFAA",
+    "Unclaimed Financial Assets Authority"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Public_Finance"
+   ],
+   "corpus_count": {
+    "unclaimed financial assets": 0,
+    "UFAA": 4,
+    "Unclaimed Financial Assets Authority": 0
+   }
+  },
+  {
+   "term": "exchequer",
+   "type": "finance",
+   "definition": "The Government's main account; exchequer statements report money released from the Consolidated Fund.",
+   "variants": [
+    "exchequer issues",
+    "Consolidated Fund"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Public_Finance"
+   ],
+   "corpus_count": {
+    "exchequer": 226,
+    "exchequer issues": 0,
+    "Consolidated Fund": 0
+   }
+  },
+  {
+   "term": "tariff",
+   "type": "finance",
+   "definition": "An approved schedule of charges, e.g. water and sewerage tariffs approved by WASREB.",
+   "variants": [
+    "tariffs",
+    "tariff structure"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Water_Tariffs"
+   ],
+   "corpus_count": {
+    "tariff": 708,
+    "tariffs": 282,
+    "tariff structure": 0
+   }
+  },
+  {
+   "term": "WASREB",
+   "type": "office",
+   "definition": "Water Services Regulatory Board: approves water tariffs.",
+   "variants": [
+    "Water Services Regulatory Board"
+   ],
+   "synonyms": [],
+   "categories": [
+    "Water_Tariffs"
+   ],
+   "corpus_count": {
+    "WASREB": 228,
+    "Water Services Regulatory Board": 0
+   }
+  }
+ ],
+ "observed_spelling_variants": [
+  {
+   "canonical": "centre",
+   "variants": [
+    "center",
+    "centre"
+   ],
+   "counts": {
+    "centre": 1616,
+    "center": 374
+   }
+  },
+  {
+   "canonical": "favour",
+   "variants": [
+    "favor",
+    "favour"
+   ],
+   "counts": {
+    "favour": 1092,
+    "favor": 28
+   }
+  },
+  {
+   "canonical": "licence",
+   "variants": [
+    "licence",
+    "license"
+   ],
+   "counts": {
+    "licence": 805,
+    "license": 129
+   }
+  },
+  {
+   "canonical": "meter",
+   "variants": [
+    "meter",
+    "metre"
+   ],
+   "counts": {
+    "metre": 10,
+    "meter": 409
+   }
+  },
+  {
+   "canonical": "meters",
+   "variants": [
+    "meters",
+    "metres"
+   ],
+   "counts": {
+    "metres": 8,
+    "meters": 345
+   }
+  },
+  {
+   "canonical": "programme",
+   "variants": [
+    "program",
+    "programme"
+   ],
+   "counts": {
+    "programme": 256,
+    "program": 71
+   }
+  },
+  {
+   "canonical": "organization",
+   "variants": [
+    "organisation",
+    "organization"
+   ],
+   "counts": {
+    "organisation": 16,
+    "organization": 288
+   }
+  },
+  {
+   "canonical": "authorized",
+   "variants": [
+    "authorised",
+    "authorized"
+   ],
+   "counts": {
+    "authorised": 37,
+    "authorized": 223
+   }
+  },
+  {
+   "canonical": "labour",
+   "variants": [
+    "labor",
+    "labour"
+   ],
+   "counts": {
+    "labour": 229,
+    "labor": 23
+   }
+  },
+  {
+   "canonical": "minimize",
+   "variants": [
+    "minimise",
+    "minimize"
+   ],
+   "counts": {
+    "minimise": 23,
+    "minimize": 186
+   }
+  },
+  {
+   "canonical": "colour",
+   "variants": [
+    "color",
+    "colour"
+   ],
+   "counts": {
+    "colour": 185,
+    "color": 23
+   }
+  },
+  {
+   "canonical": "centres",
+   "variants": [
+    "centers",
+    "centres"
+   ],
+   "counts": {
+    "centres": 159,
+    "centers": 7
+   }
+  },
+  {
+   "canonical": "recognised",
+   "variants": [
+    "recognised",
+    "recognized"
+   ],
+   "counts": {
+    "recognised": 83,
+    "recognized": 72
+   }
+  },
+  {
+   "canonical": "sensitize",
+   "variants": [
+    "sensitise",
+    "sensitize"
+   ],
+   "counts": {
+    "sensitise": 8,
+    "sensitize": 133
+   }
+  },
+  {
+   "canonical": "marginalized",
+   "variants": [
+    "marginalised",
+    "marginalized"
+   ],
+   "counts": {
+    "marginalised": 12,
+    "marginalized": 75
+   }
+  },
+  {
+   "canonical": "unauthorized",
+   "variants": [
+    "unauthorised",
+    "unauthorized"
+   ],
+   "counts": {
+    "unauthorised": 10,
+    "unauthorized": 62
+   }
+  },
+  {
+   "canonical": "judgment",
+   "variants": [
+    "judgement",
+    "judgment"
+   ],
+   "counts": {
+    "judgement": 26,
+    "judgment": 42
+   }
+  },
+  {
+   "canonical": "authorization",
+   "variants": [
+    "authorisation",
+    "authorization"
+   ],
+   "counts": {
+    "authorisation": 7,
+    "authorization": 58
+   }
+  },
+  {
+   "canonical": "mobilization",
+   "variants": [
+    "mobilisation",
+    "mobilization"
+   ],
+   "counts": {
+    "mobilisation": 18,
+    "mobilization": 38
+   }
+  },
+  {
+   "canonical": "sensitization",
+   "variants": [
+    "sensitisation",
+    "sensitization"
+   ],
+   "counts": {
+    "sensitisation": 6,
+    "sensitization": 50
+   }
+  },
+  {
+   "canonical": "organizing",
+   "variants": [
+    "organising",
+    "organizing"
+   ],
+   "counts": {
+    "organising": 9,
+    "organizing": 43
+   }
+  },
+  {
+   "canonical": "realised",
+   "variants": [
+    "realised",
+    "realized"
+   ],
+   "counts": {
+    "realised": 33,
+    "realized": 8
+   }
+  },
+  {
+   "canonical": "specialized",
+   "variants": [
+    "specialised",
+    "specialized"
+   ],
+   "counts": {
+    "specialised": 5,
+    "specialized": 31
+   }
+  },
+  {
+   "canonical": "amortised",
+   "variants": [
+    "amortised",
+    "amortized"
+   ],
+   "counts": {
+    "amortised": 28,
+    "amortized": 6
+   }
+  },
+  {
+   "canonical": "centralized",
+   "variants": [
+    "centralised",
+    "centralized"
+   ],
+   "counts": {
+    "centralised": 11,
+    "centralized": 21
+   }
+  },
+  {
+   "canonical": "formalisation",
+   "variants": [
+    "formalisation",
+    "formalization"
+   ],
+   "counts": {
+    "formalisation": 22,
+    "formalization": 9
+   }
+  },
+  {
+   "canonical": "colours",
+   "variants": [
+    "colors",
+    "colours"
+   ],
+   "counts": {
+    "colours": 17,
+    "colors": 12
+   }
+  },
+  {
+   "canonical": "categorisation",
+   "variants": [
+    "categorisation",
+    "categorization"
+   ],
+   "counts": {
+    "categorisation": 15,
+    "categorization": 9
+   }
+  },
+  {
+   "canonical": "neighbors",
+   "variants": [
+    "neighbors",
+    "neighbours"
+   ],
+   "counts": {
+    "neighbours": 7,
+    "neighbors": 16
+   }
+  },
+  {
+   "canonical": "standardized",
+   "variants": [
+    "standardised",
+    "standardized"
+   ],
+   "counts": {
+    "standardised": 5,
+    "standardized": 17
+   }
+  },
+  {
+   "canonical": "behaviour",
+   "variants": [
+    "behavior",
+    "behaviour"
+   ],
+   "counts": {
+    "behaviour": 13,
+    "behavior": 7
+   }
+  },
+  {
+   "canonical": "utilize",
+   "variants": [
+    "utilise",
+    "utilize"
+   ],
+   "counts": {
+    "utilise": 5,
+    "utilize": 14
+   }
+  },
+  {
+   "canonical": "customisation",
+   "variants": [
+    "customisation",
+    "customization"
+   ],
+   "counts": {
+    "customisation": 9,
+    "customization": 9
+   }
+  },
+  {
+   "canonical": "realising",
+   "variants": [
+    "realising",
+    "realizing"
+   ],
+   "counts": {
+    "realising": 7,
+    "realizing": 7
+   }
+  },
+  {
+   "canonical": "derecognized",
+   "variants": [
+    "derecognised",
+    "derecognized"
+   ],
+   "counts": {
+    "derecognised": 5,
+    "derecognized": 9
+   }
+  }
+ ]
+}

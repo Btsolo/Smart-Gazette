@@ -1,9 +1,14 @@
 package com.smartgazette.smartgazette.controller;
 
 import com.smartgazette.smartgazette.model.Gazette;
+import com.smartgazette.smartgazette.model.NoticeFigure;
+import com.smartgazette.smartgazette.service.FigureClassifier;
+import com.smartgazette.smartgazette.service.FigureService;
+import com.smartgazette.smartgazette.repository.NoticeFigureRepository;
 import com.smartgazette.smartgazette.service.ExcelExportService;
 import com.smartgazette.smartgazette.service.GazetteScrapingService;
 import com.smartgazette.smartgazette.service.GazetteService;
+import com.smartgazette.smartgazette.service.LawReferenceService;
 import com.smartgazette.smartgazette.service.IftttWebhookService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -46,8 +51,16 @@ public class GazetteController {
     private final IftttWebhookService iftttWebhookService;
     private final ExcelExportService excelExportService;
     private final GazetteScrapingService scrapingService;
+    private final LawReferenceService lawReferenceService;
+    private final FigureService figureService;
+    private final NoticeFigureRepository noticeFigureRepository;
 
-    public GazetteController(GazetteService gazetteService, IftttWebhookService iftttWebhookService, ExcelExportService excelExportService, GazetteScrapingService scrapingService) {
+    public GazetteController(GazetteService gazetteService, IftttWebhookService iftttWebhookService, ExcelExportService excelExportService, GazetteScrapingService scrapingService,
+                             LawReferenceService lawReferenceService, FigureService figureService,
+                             NoticeFigureRepository noticeFigureRepository) {
+        this.lawReferenceService = lawReferenceService;
+        this.figureService = figureService;
+        this.noticeFigureRepository = noticeFigureRepository;
         this.gazetteService = gazetteService;
         this.iftttWebhookService = iftttWebhookService;
         this.excelExportService = excelExportService;
@@ -83,7 +96,59 @@ public class GazetteController {
 
         if (g == null) return "redirect:/";
         model.addAttribute("gazette", g);
+        // the Constitution / Act provisions the notice cites, shown beside it
+        model.addAttribute("lawRefs", lawReferenceService.refs(g.getContent()));
+        // the notice's tables as rows and columns (fix 8: table lane cells)
+        model.addAttribute("tables", g.getContent() == null ? java.util.List.of()
+                : com.smartgazette.smartgazette.service.TableExtractor.tables(g.getContent()));
+        // the images the notice prints (docs/specs/figures.md): the meaningful kinds
+        // with the article, stamps / logos / marks listed as "other images"
+        List<NoticeFigure> figures = gazetteService.figuresOf(g);
+        model.addAttribute("mainFigures", figures.stream().filter(NoticeFigure::isMeaningful).toList());
+        model.addAttribute("otherFigures", figures.stream().filter(f -> !f.isMeaningful()).toList());
+        model.addAttribute("contentParts", contentParts(g.getContent(), figures));
         return "gazette-detail";
+    }
+
+    /** A piece of the original notice text: plain text, or the figure a marker stands for. */
+    public record ContentPart(String text, NoticeFigure figure) {}
+
+    /** The notice text split at its [[FIGURE:p.k]] markers, so the page shows each
+     *  image where it is printed; a marker without a stored figure is dropped. */
+    static List<ContentPart> contentParts(String content, List<NoticeFigure> figures) {
+        List<ContentPart> parts = new java.util.ArrayList<>();
+        if (content == null) return parts;
+        Map<String, NoticeFigure> byId = new java.util.HashMap<>();
+        for (NoticeFigure f : figures) byId.put(f.getFigureId(), f);
+        java.util.regex.Matcher m = FigureClassifier.MARK.matcher(content);
+        int at = 0;
+        while (m.find()) {
+            if (m.start() > at) parts.add(new ContentPart(content.substring(at, m.start()), null));
+            NoticeFigure f = byId.get(m.group(1) + "." + m.group(2));
+            if (f != null) parts.add(new ContentPart(null, f));
+            at = m.end();
+        }
+        if (at < content.length()) parts.add(new ContentPart(content.substring(at), null));
+        return parts;
+    }
+
+    /** A figure's image: the original crop, or with ?clean=true its cleaned copy. */
+    @GetMapping("/figures/{id}")
+    public ResponseEntity<Resource> figureImage(@PathVariable Long id, @RequestParam(defaultValue = "false") boolean clean) {
+        NoticeFigure f = noticeFigureRepository.findById(id).orElse(null);
+        if (f == null) return ResponseEntity.notFound().build();
+        String rel = clean && f.getCleanFilePath() != null ? f.getCleanFilePath() : f.getFilePath();
+        Path root = figureService.root().normalize();
+        Path file = root.resolve(rel).normalize();
+        if (!file.startsWith(root) || !Files.isRegularFile(file)) return ResponseEntity.notFound().build();
+        try {
+            return ResponseEntity.ok()
+                    .contentType(MediaType.IMAGE_PNG)
+                    .header(HttpHeaders.CACHE_CONTROL, "max-age=86400")
+                    .body(new UrlResource(file.toUri()));
+        } catch (MalformedURLException e) {
+            return ResponseEntity.notFound().build();
+        }
     }
 
     @GetMapping("/categories")
@@ -98,6 +163,11 @@ public class GazetteController {
         categories.put("Public_Service_HR", "Promotions, transfers, and HR notices.");
         categories.put("Licensing", "Applications and grants for various licenses.");
         categories.put("Company_Registrations", "Company incorporation and dissolution notices.");
+        categories.put("County_Government", "County assemblies, executives and county laws.");
+        categories.put("Elections", "IEBC notices, candidates, results, by-elections and political parties.");
+        categories.put("Uncollected_Goods", "Goods and vehicles to be sold unless their owners collect them.");
+        categories.put("Environment", "Environmental impact assessments and NEMA notices.");
+        categories.put("Utility_Tariffs", "Approved water and electricity tariffs.");
         categories.put("Miscellaneous", "Other public notices and general information.");
 
         model.addAttribute("categories", categories);

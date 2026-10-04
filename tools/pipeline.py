@@ -30,10 +30,21 @@ L  = _load('land_template')
 C  = _load('corrigenda_template')
 GEN= _load('generate')
 CEN= _load('category_census')
+VR = _load('vocab_repair')
+
+_VOCAB = None
+def vocab():
+    """Corpus dictionary, loaded once (36k words, ~0.3 MB)."""
+    global _VOCAB
+    if _VOCAB is None:
+        _VOCAB = VR.load_corpus_vocab()
+    return _VOCAB
 
 # ---------------------------------------------------------------- lane 0
 def classify_document(raw):
     """Decide which processing lane a document needs, before any cleaning."""
+    if G.one_char_per_line(raw):
+        return 'SCANNED', 'text layer is one character per line - unreadable, needs OCR'
     sample = raw[:400000]
     glued   = len(re.findall(r'[A-Za-z]{24,}', sample))
     headers = len(re.findall(r'G\s*A\s*Z\s*E\s*T\s*T?\s*E\s*N\s*O\s*T\s*I\s*C\s*E\s*N\s*O', raw))
@@ -68,7 +79,7 @@ def route_notice(notice):
     cat = CEN.categorise(notice)
 
     if cat == 'court_legal':
-        blocks = [b for b in re.split(r'(?=CAUSE NO\.)', notice) if b.startswith('CAUSE NO.')]
+        blocks = P.split_causes(notice)       # not split at "(Formerly CAUSE NO. ...)"
         if not blocks:
             return cat, [], [], 'ai'
         recs = [P.extract(b, notice) for b in blocks]
@@ -85,7 +96,9 @@ def route_notice(notice):
 
     if cat == 'Corrigenda':
         blocks = [b for b in re.split(r'(?=CAUSE NO\.)', notice) if b.startswith('CAUSE NO.')]
-        r = C.extract(blocks[0]) if blocks else None
+        r = C.extract(blocks[0], notice) if blocks else None
+        if not r:
+            r = C.extract_notice(notice)      # corrections with no CAUSE NO. (fix 4)
         if not r: return cat, [], [], 'ai'
         a = GEN.generate(cat, r)
         return (cat, [r], [a], 'template') if a else (cat, [r], [], 'ai')
@@ -93,13 +106,23 @@ def route_notice(notice):
     return cat, [], [], 'ai'          # no template for this category yet
 
 # ---------------------------------------------------------------- driver
-def process(raw_path):
+def read_raw(raw_path):
+    """UTF-16 only when a BOM says so (PowerShell's `>`). Trying utf-16 first
+    "succeeds" on most UTF-8 files and returns garbage - 19 of 35 UTF-8 raw
+    files for 2023 decoded that way and the pipeline reported 0 notices."""
     data = open(raw_path, 'rb').read()
-    try:    raw = data.decode('utf-16')
-    except  UnicodeError: raw = data.decode('utf-8', errors='replace')
+    if data[:2] in (b'\xff\xfe', b'\xfe\xff'):
+        return data.decode('utf-16')
+    return data.decode('utf-8', errors='replace').replace('\r\n', '\n')
+
+
+def process(raw_path):
+    raw = read_raw(raw_path)
 
     lane, why = classify_document(raw)
-    cleaned = G.apply_ascending_lock(G.clean(raw))
+    # fix 2: re-cut broken words with the corpus dictionary, before the lock
+    # (lesson 36; tools/vocab_repair.py, dictionary tools/gazette_vocab.txt)
+    cleaned = G.apply_ascending_lock(VR.repair(G.clean(raw), vocab()))
     notices = [n for n in re.split(r'(?=GAZETTE NOTICE NO\. \d+)', cleaned)
                if n.startswith('GAZETTE NOTICE NO.')]
 

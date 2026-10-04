@@ -37,19 +37,30 @@ RE_PROP  = re.compile(
     r'(?:in\s+the\s+Republic\s+of\s+Kenya\s*,?\s*)?'
     r'(?:is|are)?\s*(?:the\s+)?(?:directors?\s+of\s+[^,]+,\s*)?' + tol('registered') +
     r'(?:\s+as\s+' + tol('proprietor') + r's?)?'
-    r'(?P<tenure>.{0,70}?)\s*of\s*all\s*th(?:at|ose)', FLAGS)
+    # "of all that piece" or, in ~130 notices a year, "of that piece" (fix 4)
+    r'(?P<tenure>.{0,70}?)\s*of\s*(?:all\s*)?th(?:at|ose)', FLAGS)
 
 # Property references appear in several shapes and positions:
 #   "... known as L.R. No. 2177, situate ..."
 #   "... situate in Kisumu County, known as Kisumu/Nyahera/2033, by virtue ..."
 #   "... registered under the title No. Njoro/Ngata Block 2/2"
-RE_LR    = re.compile(r'known\s+as\s+(?P<lr>.+?)\s*,\s*'
-                      r'(?=containing|situate|by\s+virtue|and\s+whereas|' + tol('registered') + r')', FLAGS)
+# Fix 5: the comma before the next clause is optional - OCR drops it and
+# some born-digital notices omit it, and the parcel then ran on to the next
+# comma ("Mombasa BlockXXV/49 situate in Mombasa ...": 240 such ids, 2023+2025
+# and the scans).
+RE_LR    = re.compile(r'known\s+as\s+(?P<lr>.+?)(?:\s*,\s*|\s+)'
+                      r'(?=containing|situate|measuring|(?:by\s+)?virtue|and\s+whereas|' + tol('registered') + r')', FLAGS)
 # "title No." or "title Nos." - the plural form lists several parcels, and the
 # whole list is the identifier, so it is captured intact.
-RE_LR2   = re.compile(tol('registered') + r'\s+under\s*(?:the\s*)?title\s+Nos?\.?\s*'
+# Fix 4: "registered under" is sometimes missing ("piece of land title No.
+# Kilifi/Jilore/259"), and a full stop after a single initial is part of the
+# parcel name, not its end ("E. Bukusu/N. Sangalo/3026" was cut to "E").
+RE_LR2   = re.compile(r'(?:' + tol('registered') + r'\s+under\s*(?:the\s*)?)?ti?tle\s+Nos?\.?\s*'
                       r'(?P<lr>.+?)\s*(?:,?\s*respectively)?\s*'
-                      r'(?:,\s*(?=and\s+whereas|by\s+virtue|containing|situate)|\.\s|$)', FLAGS)
+                      r'(?:(?:\s*,\s*|\s+)(?=and\s+whereas|(?:by\s+)?virtue|containing|situate|measuring)|(?<!\b[A-Z])\.\s|$)', FLAGS)
+# Last resort: the registry number is the only identifier ("registered as
+# C.R. 9172/1" - coast registry leaseholds).
+RE_LR3   = re.compile(tol('registered') + r'\s+as\s+(?P<lr>(?:C|I)\.?\s*R\.?\s*(?:No\.?\s*)?\d+(?:\s*/\s*\d+)+)', FLAGS)
 
 RE_AREA  = re.compile(r'containing\s+(?P<area>[\d\.]+\s*(?:hectares?|acres?))', FLAGS)
 # Location appears in several forms:
@@ -90,7 +101,7 @@ def extract(notice):
     if not p:
         return None
 
-    lr    = RE_LR.search(notice) or RE_LR2.search(notice)
+    lr    = RE_LR.search(notice) or RE_LR2.search(notice) or RE_LR3.search(notice)
     loc   = RE_LOC.search(notice)
     loc2  = (RE_LOC2.search(notice) or RE_LOC3.search(notice)) if not loc else None
     instr = RE_INSTR.search(notice)

@@ -22,7 +22,10 @@ gazette kenya publication days thirty date same issue unless shown contrary appe
 respect entered proceed application applications having made this order box po
 registrar district deputy senior principal magistrate chief high resident county
 act cap constitution government public service board members chairperson secretary
-notified pursuant provisions section reference period appointment following persons'''.split())
+notified pursuant provisions section reference period appointment following persons
+amend printed read land title parcel situate proprietor lost replacement objection'''.split())
+# (last line: present in the Java port but missing here until fix 5 - found
+# when scan text glued "land"+"contaiming" and "read"+"Kiambu" in Python only)
 
 def is_word(tok):
     t = tok.strip(".,;:()'\"-").lower()
@@ -37,11 +40,29 @@ P_PRINT = re.compile(r'PRINTED AND|GOVERNMENT PRINTER', re.I)
 def looks_like_year(n):
     return 1900 <= n <= 2100
 
+# A date line ending a sentence of content ("... who died on" / "Dated the")
+# rather than sitting in a running header (lesson 22).
+P_CONTENT_BEFORE_DATE = re.compile(r'(?:\bon|\bthe|\bof|\bdated|\bdied|,)\s*$', re.I)
+
+def one_char_per_line(text):
+    """pdf-inspector output with ~1 character per line (some scans, lesson 20):
+    unreadable, and Stage 2 would never flush its buffer."""
+    lines = [l for l in text.split('\n') if l.strip()]
+    return len(lines) > 20000 and sum(len(l.strip()) for l in lines) / len(lines) < 3
+
 def clean(text):
+    if one_char_per_line(text):
+        return ''                       # no usable text layer -> scan lane
+
     # ---- Stage 0: encoding + canonicalize fragmented markers --------------
-    t = text
+    t = text.replace('\x00', '')        # NUL after a header hid it (lesson 21)
     for a, b in [('ÔÇÖ', "'"), ('ÔÇô', '-'), ('ÔÇö', '—'),
                  ('ÔÇ£', '"'), ('ÔÇØ', '"'), ('ÔÇ¥', '"')]:
+        t = t.replace(a, b)
+    # Real Unicode punctuation (UTF-8 input) as well as the mojibake above:
+    # the templates match ASCII quotes and apostrophes (lesson 25).
+    for a, b in [('’', "'"), ('‘', "'"), ('“', '"'), ('”', '"'),
+                 ('–', '-'), ('—', '-')]:
         t = t.replace(a, b)
 
     # Note: 'AZET T? E' tolerates the source typo "GAZETE" (one T) seen in
@@ -51,7 +72,12 @@ def clean(text):
     # Cross-references inside corrigenda are ordinary mixed case ("IN Gazette
     # Notice No. 5520 of 2026, amend ..."), so requiring uppercase keeps them
     # out of the candidate set entirely.
-    t = re.sub(r'G\s*A\s*Z\s*E\s*T\s*T?\s*E\s*N\s*O\s*T\s*I\s*C\s*E\s*N\s*O\s*\.\s*([\d\s]*\d)(?=\s*\n\s*[A-Z])',
+    # The number is followed by the title either on the next line or on the
+    # same line ("NO. 7653 THE PUBLIC HOLIDAYS ACT", lesson 21) - but never by
+    # "OF <year>": that is an uppercase cross-reference ("NO. 6865 OF 2017",
+    # "NO. 2690 / OF 2016", lesson 29).
+    t = re.sub(r'G\s*A\s*Z\s*E\s*T\s*T?\s*E\s*N\s*O\s*T\s*I\s*C\s*E\s*N\s*O\s*\.\s*([\d\s]*\d)'
+               r'(?!\s*OF\s+\d{4})(?=\s*\n\s*[A-Z]|[ \t]+[A-Z]{2})',
                lambda m: '\n@@HDR@@' + re.sub(r'\s', '', m.group(1)) + '\n', t)
     t = re.sub(r'C\s*A\s*U\s*S\s*E\s*N\s*O\s*\.\s*', '\n@@CAUSE@@ ', t, flags=re.I)
     t = re.sub(r'T\s*AKE\s+N\s*OTICE', 'TAKE NOTICE', t, flags=re.I)
@@ -63,13 +89,28 @@ def clean(text):
     # A bare number is only a page number if a running header appeared just
     # before it. Otherwise it is content (most importantly, a year such as
     # "2025" that got split onto its own line by the extractor).
-    kept, since_header = [], 99
-    for ln in t.split('\n'):
+    lines = t.split('\n')
+    near_gaz = set()                    # line indices within 3 lines of THE KENYA GAZETTE
+    for i, ln in enumerate(lines):
+        if P_GAZ.match(ln.strip()):
+            near_gaz.update(range(i - 3, i + 4))
+    kept, since_header, prev = [], 99, ''
+    for i, ln in enumerate(lines):
         s = ln.strip()
         if not s:
             kept.append(ln); since_header += 1; continue
-        if P_GAZ.match(s) or P_DATE.match(s):
+        if P_GAZ.match(s):
+            # the running head marks a page break; the marker lets Stage 2
+            # recognise a table header repeated at the top of the next page
+            since_header = 0; kept.append('@@PAGE@@'); continue
+        # A date line is a running-header dateline only next to THE KENYA
+        # GAZETTE and not when it completes a sentence ("who died on" / "Dated
+        # the"). Otherwise it is content - a date of death or signature date
+        # (lesson 22: ~480 a year were deleted, and the reset then let the
+        # following split year be deleted as a page number).
+        if P_DATE.match(s) and i in near_gaz and not P_CONTENT_BEFORE_DATE.search(prev):
             since_header = 0; continue
+        prev = s
         if P_PRINT.search(s):
             continue
         m = P_NUM.match(s)
@@ -84,6 +125,7 @@ def clean(text):
 
     # ---- Stage 2: join fragments ------------------------------------------
     out, buf = [], ''
+    page_top, page_first = False, set()   # indices of the first table row on a page
     def flush():
         nonlocal buf
         if buf.strip():
@@ -94,17 +136,35 @@ def clean(text):
         s = ln.strip()
         if not s:
             continue
+        if s == '@@PAGE@@':
+            page_top = True; continue
         if s.startswith('@@HDR@@'):
+            page_top = False
             flush(); out.append('GAZETTE NOTICE NO. ' + s.replace('@@HDR@@', '').strip()); continue
         if s.startswith('@@CAUSE@@'):
             flush(); buf = 'CAUSE NO. ' + s.replace('@@CAUSE@@', '').strip(); continue
+        # a table row (fix 7: cells marked " | " by the extractor) stands on
+        # its own line - joined into a paragraph its row boundary is lost.
+        # Before the numbered-item rule: rows often start "1. | 233426 | ..."
+        # (a row whose last cell is empty ends " |" once trailing spaces go, fix 7b)
+        if ' | ' in s or s.endswith(' |'):
+            flush()
+            if page_top:
+                page_first.add(len(out)); page_top = False
+            out.append(s); continue
+        # top-of-page text other than a short caption ("SCHEDULE-(Contd.)")
+        # means the page does not open with a continued table
+        if page_top and len(s.split()) > 6:
+            page_top = False
         if re.match(r'^(\d+\.|\([a-z]\)|\([ivx]+\))\s', s):
             flush(); buf = s; continue
         if not buf:
             buf = s
         else:
             prev, nxt = buf[-1], s[0]
-            last_tok = buf.split()[-1] if buf.split() else ''
+            # last word only: re-splitting the whole buffer per line was
+            # quadratic and hung for hours on long unpunctuated text (lesson 20)
+            last_tok = buf.rsplit(None, 1)[-1] if buf.strip() else ''
             if nxt in '.,;:)]':
                 buf += s
             elif prev in '([':
@@ -117,8 +177,38 @@ def clean(text):
             flush()
     flush()
 
-    res = re.sub(r'\s{2,}', ' ', '\n'.join(out))
+    res = re.sub(r'\s{2,}', ' ', '\n'.join(drop_repeated_table_headers(out, page_first)))
     return re.sub(r'\n{3,}', '\n\n', res)
+
+
+# the separator line inspect_positions.js writes under a table header row
+DASH_ROW = re.compile(r'^-{3}(?: \| -{3})+$')
+
+
+def drop_repeated_table_headers(lines, page_first):
+    """A table continued on the next page repeats its header row ("Parcel No. |
+    Registered Owner (s) | Area") as the FIRST row of the new page. Such a row
+    - no digits, identical to an earlier cell row of the same notice - is
+    dropped, so the continued table reads as one (fix 7). Only page-first rows:
+    data rows without digits repeat legitimately ("Ward Administrator |
+    Ex-Officio Member" once per ward - 899 rows were dropped when any repeat
+    counted)."""
+    seen, out, dropped = set(), [], False
+    for i, l in enumerate(lines):
+        if dropped and DASH_ROW.match(l):       # its "--- | ---" separator (fix 8)
+            dropped = False
+            continue
+        dropped = False
+        if l.startswith('GAZETTE NOTICE NO.'):
+            seen = set()
+        elif ' | ' in l and not re.search(r'\d', l) and not DASH_ROW.match(l):
+            key = re.sub(r'\s+', ' ', l).strip().lower()
+            if key in seen and i in page_first:
+                dropped = True
+                continue
+            seen.add(key)
+        out.append(l)
+    return out
 
 
 def apply_ascending_lock(res):

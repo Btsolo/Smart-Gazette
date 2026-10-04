@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@firecrawl/pdf-inspector": "1.15.0"
+  }
+}

@@ -28,4 +28,35 @@ gemini.model.ocr=gemini-2.5-flash
 gemini.model.flashLite=gemini-3.1-flash-lite
 
 #Ifttt Info
-ifttt.webhook.url=https://maker.ifttt.com/trigger/post_to_x/with/key/tghtgtgrg
+ifttt.webhook.url=https://maker.ifttt.com/trigger/<event>/with/key/<your-key>
+# --- Extraction (lessons 35, 42, 53-55) ---
+# inspector = positions extractor (tools/inspect_positions.js, needs Node + `npm ci` in tools/
+# and poppler's pdftocairo); legacy = the old PDFBox path. Production must use inspector.
+extraction.engine=inspector
+extraction.inspector.script=/app/tools/inspect_positions.js
+extraction.inspector.node=node
+extraction.inspector.timeout-seconds=300
+# scan lane: Tesseract + poppler (pdfimages, pdftoppm) on the PATH, or full paths here
+extraction.scan.enabled=true
+extraction.scan.workers=4
+extraction.scan.dpi=300
+extraction.scan.tesseract=tesseract
+extraction.scan.pdftoppm=pdftoppm
+extraction.scan.pdfimages=pdfimages
+
+# --- Figures (docs/specs/figures.md) ---
+# figures.dir and storage/gazettes/ must be persistent volumes on a server
+figures.enabled=true
+figures.dir=/data/figures
+figures.dpi=200
+# PP-OCRv6 models + character list (tools/fetch_ocr_models.py, SHA256SUMS); without them
+# figures fall back to Tesseract
+figures.ocr.models-dir=/app/models/ppocr
+
+# --- Switches for a deployment ---
+# admin pages (upload / edit / delete) have no real login yet: off = read-only site (default)
+admin.enabled=false
+# the Monday-Friday 05:00 Kenya Law scrape (default on)
+scraper.enabled=true
+# social posting through IFTTT (default off; ifttt.webhook.url is then not needed)
+social.posting.enabled=false

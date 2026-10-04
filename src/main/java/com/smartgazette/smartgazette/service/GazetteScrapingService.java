@@ -41,7 +41,19 @@ public class GazetteScrapingService {
         this.gazetteRepository = gazetteRepository;
     }
 
+    /** The daily scrape (on by default; a staging copy can switch it off). */
+    @org.springframework.beans.factory.annotation.Value("${scraper.enabled:true}")
+    private boolean scraperEnabled;
+
     @Scheduled(cron = "0 0 5 * * MON-FRI", zone = "Africa/Nairobi")
+    public void scheduledScrape() {
+        if (!scraperEnabled) {
+            log.info("Scheduled gazette scrape is switched off (scraper.enabled=false).");
+            return;
+        }
+        scrapeForNewGazettes();
+    }
+
     public void scrapeForNewGazettes() {
         log.info("--- 🤖 STARTING SCHEDULED GAZETTE SCRAPE ---");
 

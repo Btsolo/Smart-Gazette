@@ -1,0 +1,59 @@
+{
+  "type": "object",
+  "description": "Elections: notices by the Independent Electoral and Boundaries Commission (IEBC), the Registrar of Political Parties and the courts about elections - voter registration, returning officers, polling and tallying centres, candidates, results, by-elections, election petitions and political party registration.",
+  "properties": {
+    "items": {
+      "oneOf": [
+        { "$ref": "#/definitions/item" },
+        { "type": "array", "items": { "$ref": "#/definitions/item" } }
+      ]
+    }
+  },
+  "required": ["items"],
+  "definitions": {
+    "item": {
+      "type": "object",
+      "properties": {
+        "notice_subtype": {
+          "type": "string",
+          "enum": ["voter_registration", "returning_officer_appointment", "polling_or_tallying_centres",
+                   "candidate_list", "declaration_of_results", "election_petition", "by_election",
+                   "suspension_or_postponement", "election_regulations", "party_registration",
+                   "party_change_of_officials", "party_change_of_particulars", "other"],
+          "description": "What the notice does."
+        },
+        "election": { "type": "string", "description": "Which election, e.g. 'General Election, 9 August 2022' or 'Kiambu Senator by-election'." },
+        "election_date": { "type": "string", "description": "Date of the election, as printed." },
+        "electoral_level": {
+          "type": "string",
+          "enum": ["presidential", "governor", "senator", "national_assembly", "woman_representative", "mca", "eala", "other", ""],
+          "description": "Level of the elective post, if one is named."
+        },
+        "county": { "type": "string", "description": "County, if named. MUST be one of the 47 canonical names in geography.json." },
+        "constituency": { "type": "string", "description": "Constituency, if named. Validate against geography.json." },
+        "ward": { "type": "string", "description": "Ward, if named. Validate against geography.json." },
+        "persons": {
+          "type": "array",
+          "description": "People named in the notice or its schedule.",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "role": { "type": "string", "enum": ["returning_officer", "deputy_returning_officer", "candidate", "elected", "petitioner", "respondent", "judge", "party_official", "other"] },
+              "party": { "type": "string" },
+              "county": { "type": "string" },
+              "constituency": { "type": "string" },
+              "ward": { "type": "string" }
+            }
+          }
+        },
+        "political_party": { "type": "string", "description": "Party name, for Political Parties Act notices." },
+        "petition_number": { "type": "string", "description": "Election petition number, e.g. 'E001 of 2022'." },
+        "issuing_authority": { "type": "string", "description": "e.g. IEBC Chairperson, Registrar of Political Parties, Chief Justice." },
+        "legal_basis": { "type": "string", "description": "Provision relied on, e.g. 'Article 88 (4) of the Constitution; section 4 of the IEBC Act'." },
+        "deadline": { "type": "string", "description": "Any date by which the public must act (objections, claims), as printed." },
+        "signatory": { "type": "string", "description": "Person signing the notice." }
+      }
+    }
+  }
+}

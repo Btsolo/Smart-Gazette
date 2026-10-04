@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
+import java.util.Locale;
 import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -58,9 +59,13 @@ public class GazetteTextCleaner {
     // ordinary mixed case ("IN Gazette Notice No. 5520 of 2026, amend ..."),
     // so requiring uppercase keeps them out of the candidate set entirely.
     // This single detail took precision from 99.29% to 100%.
+    // The number is followed by the title on the next line OR on the same line
+    // ("NO. 7653 THE PUBLIC HOLIDAYS ACT", 2026 No 90) - but never by
+    // "OF <year>": that is an uppercase cross-reference ("NO. 6865 OF 2017").
+    // Mirrors tools/gazette_clean.py (lessons 21, 29).
     private static final Pattern P_HEADER = Pattern.compile(
             "G\\s*A\\s*Z\\s*E\\s*T\\s*T?\\s*E\\s*N\\s*O\\s*T\\s*I\\s*C\\s*E\\s*N\\s*O\\s*\\.\\s*"
-                    + "([\\d\\s]*\\d)(?=\\s*\\n\\s*[A-Z])");
+                    + "([\\d\\s]*\\d)(?!\\s*OF\\s+\\d{4})(?=\\s*\\n\\s*[A-Z]|[ \\t]+[A-Z]{2})");
 
     private static final Pattern P_CAUSE = Pattern.compile(
             "C\\s*A\\s*U\\s*S\\s*E\\s*N\\s*O\\s*\\.\\s*", Pattern.CASE_INSENSITIVE);
@@ -76,6 +81,10 @@ public class GazetteTextCleaner {
     private static final Pattern P_DATELINE = Pattern.compile(
             "^\\s*\\d{1,2}(st|nd|rd|th)\\s+\\w+,?\\s+\\d{4}\\s*$", Pattern.CASE_INSENSITIVE);
     private static final Pattern P_BARE_NUMBER = Pattern.compile("^\\s*\\[?(\\d{1,5})\\]?\\s*$");
+    // A date line that completes a sentence ("... who died on" / "Dated the")
+    // is content, not a running-header dateline (lesson 22).
+    private static final Pattern P_CONTENT_BEFORE_DATE = Pattern.compile(
+            "(?:\\bon|\\bthe|\\bof|\\bdated|\\bdied|,)\\s*$", Pattern.CASE_INSENSITIVE);
     private static final Pattern P_PRINTER =
             Pattern.compile("PRINTED AND|GOVERNMENT PRINTER", Pattern.CASE_INSENSITIVE);
 
@@ -114,13 +123,55 @@ public class GazetteTextCleaner {
         if (raw == null || raw.isBlank()) {
             return "";
         }
+        if (isOneCharPerLine(raw)) {
+            // Some scans give ~1 character per line: unreadable, and stage 2
+            // would never flush its buffer. Empty result = route to OCR (lesson 20).
+            log.warn("Text layer is one character per line ({} chars) - needs the scan lane.", raw.length());
+            return "";
+        }
         String staged = joinFragments(stripRunningHeaders(canonicalise(raw)));
+        // fix 2: re-cut broken words with the Gazette dictionary, before the
+        // lock - same place as tools/pipeline.py
+        VocabRepair repair = repairer();
+        if (repair != null) {
+            staged = repair.repair(staged);
+        }
         return applyAscendingLock(staged);
+    }
+
+    private static volatile VocabRepair REPAIR;
+    private static volatile boolean repairLoaded;
+
+    /** Loaded once; null (repair skipped) if the dictionary resource is missing. */
+    static VocabRepair repairer() {
+        if (!repairLoaded) {
+            synchronized (GazetteTextCleaner.class) {
+                if (!repairLoaded) {
+                    REPAIR = VocabRepair.fromClasspath("/vocab/gazette_vocab.txt");
+                    repairLoaded = true;
+                }
+            }
+        }
+        return REPAIR;
+    }
+
+    /** Mirrors gazette_clean.one_char_per_line. */
+    static boolean isOneCharPerLine(String text) {
+        long lines = 0, chars = 0;
+        for (String l : text.split("\n")) {
+            String s = l.trim();
+            if (!s.isEmpty()) {
+                lines++;
+                chars += s.length();
+            }
+        }
+        return lines > 20000 && (double) chars / lines < 3;
     }
 
     // ==================================================================== 0
     private String canonicalise(String input) {
-        String t = input;
+        // A NUL after a header hid the notice (2023 No 26 / 1150, lesson 21).
+        String t = input.replace("\u0000", "");
 
         // Mojibake: UTF-8 punctuation decoded as windows-1252.
         t = t.replace("\u00d4\u00c7\u00d6", "'")
@@ -128,6 +179,12 @@ public class GazetteTextCleaner {
              .replace("\u00d4\u00c7\u00f6", "\u2014")
              .replace("\u00d4\u00c7\u00a3", "\"")
              .replace("\u00d4\u00c7\u00d8", "\"");
+
+        // Real Unicode punctuation as well: the templates match ASCII quotes and
+        // apostrophes ("deceased's", printed as "X" to read "Y") - lesson 25.
+        t = t.replace('\u2019', '\'').replace('\u2018', '\'')
+             .replace('\u201c', '"').replace('\u201d', '"')
+             .replace('\u2013', '-').replace('\u2014', '-');
 
         // Markers are canonicalised to sentinels first, so the joiner in stage 2
         // cannot glue them into neighbouring prose. The digit group tolerates
@@ -152,17 +209,39 @@ public class GazetteTextCleaner {
         StringBuilder out = new StringBuilder(input.length());
         int sinceHeader = 99;
 
-        for (String line : lines) {
+        // Line indices within 3 lines of a THE KENYA GAZETTE running header.
+        Set<Integer> nearGazette = new HashSet<>();
+        for (int i = 0; i < lines.length; i++) {
+            if (P_RUNNING_HEADER.matcher(lines[i].trim()).matches()) {
+                for (int k = i - 3; k <= i + 3; k++) nearGazette.add(k);
+            }
+        }
+        String prev = "";
+
+        for (int i = 0; i < lines.length; i++) {
+            String line = lines[i];
             String s = line.trim();
             if (s.isEmpty()) {
                 out.append(line).append('\n');
                 sinceHeader++;
                 continue;
             }
-            if (P_RUNNING_HEADER.matcher(s).matches() || P_DATELINE.matcher(s).matches()) {
+            if (P_RUNNING_HEADER.matcher(s).matches()) {
+                // page break marker: lets Stage 2 recognise a table header
+                // repeated at the top of the next page (fix 7)
+                sinceHeader = 0;
+                out.append("@@PAGE@@\n");
+                continue;
+            }
+            // A date line is a dateline only next to THE KENYA GAZETTE and not
+            // when it completes a sentence; otherwise it is a date of death or
+            // a signature date (lesson 22: ~480 a year were being deleted).
+            if (P_DATELINE.matcher(s).matches() && nearGazette.contains(i)
+                    && !P_CONTENT_BEFORE_DATE.matcher(prev).find()) {
                 sinceHeader = 0;
                 continue;
             }
+            prev = s;
             if (P_PRINTER.matcher(s).find()) {
                 continue;
             }
@@ -187,13 +266,20 @@ public class GazetteTextCleaner {
     private String joinFragments(String input) {
         List<String> out = new ArrayList<>();
         StringBuilder buf = new StringBuilder();
+        boolean pageTop = false;
+        Set<Integer> pageFirst = new HashSet<>();      // first table row on a page
 
         for (String line : input.split("\n", -1)) {
             String s = line.trim();
             if (s.isEmpty()) {
                 continue;
             }
+            if (s.equals("@@PAGE@@")) {
+                pageTop = true;
+                continue;
+            }
             if (s.startsWith("@@HDR@@")) {
+                pageTop = false;
                 flush(buf, out);
                 out.add("GAZETTE NOTICE NO. " + s.substring("@@HDR@@".length()).trim());
                 continue;
@@ -202,6 +288,23 @@ public class GazetteTextCleaner {
                 flush(buf, out);
                 buf.append("CAUSE NO. ").append(s.substring("@@CAUSE@@".length()).trim());
                 continue;
+            }
+            // A table row (fix 7: cells marked " | " by inspect_positions.js)
+            // stands on its own line; joined into a paragraph its row boundary
+            // is lost. Before the list-item rule: rows start "1. | 233426 | ...".
+            // (a row whose last cell is empty ends " |" once trailing spaces go, fix 7b)
+            if (s.contains(" | ") || s.endsWith(" |")) {
+                flush(buf, out);
+                if (pageTop) {
+                    pageFirst.add(out.size());
+                    pageTop = false;
+                }
+                out.add(s);
+                continue;
+            }
+            // top-of-page text other than a short caption: no continued table
+            if (pageTop && s.split("\\s+").length > 6) {
+                pageTop = false;
             }
             if (P_LIST_ITEM.matcher(s).find()) {
                 flush(buf, out);
@@ -213,8 +316,13 @@ public class GazetteTextCleaner {
             } else {
                 char prev = buf.charAt(buf.length() - 1);
                 char next = s.charAt(0);
-                String[] toks = buf.toString().split("\\s+");
-                String lastTok = toks.length > 0 ? toks[toks.length - 1] : "";
+                // Last word only. Splitting the whole buffer on every line was
+                // quadratic and hung for hours on unpunctuated text (lesson 20).
+                int end = buf.length();
+                while (end > 0 && Character.isWhitespace(buf.charAt(end - 1))) end--;
+                int startTok = end;
+                while (startTok > 0 && !Character.isWhitespace(buf.charAt(startTok - 1))) startTok--;
+                String lastTok = buf.substring(startTok, end);
 
                 if (".,;:)]".indexOf(next) >= 0 || "([".indexOf(prev) >= 0) {
                     buf.append(s);
@@ -230,7 +338,44 @@ public class GazetteTextCleaner {
             }
         }
         flush(buf, out);
-        return String.join("\n", out).replaceAll("\n{3,}", "\n\n");
+        return String.join("\n", dropRepeatedTableHeaders(out, pageFirst)).replaceAll("\n{3,}", "\n\n");
+    }
+
+    private static final Pattern P_DIGIT = Pattern.compile("\\d");
+    // the separator line inspect_positions.js writes under a table header row
+    private static final Pattern P_DASH_ROW = Pattern.compile("^-{3}(?: \\| -{3})+$");
+
+    /**
+     * Mirrors gazette_clean.drop_repeated_table_headers: a table continued on
+     * the next page repeats its header row as the FIRST row of the page; that
+     * row (no digits, identical to an earlier cell row of the same notice) is
+     * dropped. Only page-first rows: data rows without digits repeat
+     * legitimately ("Ward Administrator | Ex-Officio Member").
+     */
+    static List<String> dropRepeatedTableHeaders(List<String> lines, Set<Integer> pageFirst) {
+        Set<String> seen = new HashSet<>();
+        List<String> out = new ArrayList<>(lines.size());
+        boolean dropped = false;
+        for (int i = 0; i < lines.size(); i++) {
+            String l = lines.get(i);
+            if (dropped && P_DASH_ROW.matcher(l).matches()) {   // its "--- | ---" separator (fix 8)
+                dropped = false;
+                continue;
+            }
+            dropped = false;
+            if (l.startsWith("GAZETTE NOTICE NO.")) {
+                seen = new HashSet<>();
+            } else if (l.contains(" | ") && !P_DIGIT.matcher(l).find() && !P_DASH_ROW.matcher(l).matches()) {
+                String key = l.replaceAll("\\s+", " ").trim().toLowerCase(Locale.ROOT);
+                if (seen.contains(key) && pageFirst.contains(i)) {
+                    dropped = true;
+                    continue;
+                }
+                seen.add(key);
+            }
+            out.add(l);
+        }
+        return out;
     }
 
     private void flush(StringBuilder buf, List<String> out) {

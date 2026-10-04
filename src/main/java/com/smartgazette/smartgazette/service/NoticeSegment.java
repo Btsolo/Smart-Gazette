@@ -41,24 +41,29 @@ public record NoticeSegment(
         );
     }
 
+    // A figure marker ("[[FIGURE:3.1]]", docs/specs/figures.md) shows the page
+    // where an image sits; it means nothing to an AI model
+    private static final Pattern FIGURE_MARK = Pattern.compile(" ?\\[\\[FIGURE:\\d+\\.\\d+\\]\\]");
+
     // Text to actually send to AI — respects token budget
     public String textForProcessing() {
-        if (!isOversized) return rawText;
+        String text = FIGURE_MARK.matcher(rawText).replaceAll("");
+        if (!isOversized) return text;
 
         // Find clean sentence boundary near 14000 chars (~3500 tokens)
         int targetChar = 14000;
-        if (rawText.length() <= targetChar) return rawText;
+        if (text.length() <= targetChar) return text;
 
-        String candidate = rawText.substring(0, targetChar);
+        String candidate = text.substring(0, targetChar);
         int lastPeriod = Math.max(
                 candidate.lastIndexOf(".\n"),
                 candidate.lastIndexOf(". ")
         );
 
         if (lastPeriod > targetChar * 0.7) {
-            return rawText.substring(0, lastPeriod + 1);
+            return text.substring(0, lastPeriod + 1);
         }
-        return rawText.substring(0, targetChar);
+        return text.substring(0, targetChar);
     }
 
     /**

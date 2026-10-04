@@ -44,3 +44,17 @@ storage/
 
 # Stray embedded git repo
 src/.claude/
+
+# Env files anywhere
+*.env
+
+# Generated corpus output
+raw/
+cleaned/
+reports/
+tools/node_modules/
+
+# figures cut from the corpus (docs/specs/figures.md) - corpus data, never pushed
+figures/
+# OCR models for figures (31 MB, tools/fetch_ocr_models.py)
+models/

@@ -92,6 +92,11 @@ public class Gazette {
     @Column(nullable = false, columnDefinition = "integer default 0")
     private int significanceRating = 0;
 
+    /** Where the notice text came from: "text-layer" or "ocr-tesseract" (scan
+     *  lane, fix 5 - lower confidence: names and numbers may carry OCR errors). */
+    @Column(name = "extraction_source", length = 32)
+    private String extractionSource;
+
 
     // --- Constructors ---
 
@@ -309,6 +314,18 @@ public class Gazette {
 
     public void setViewCount(int viewCount) {
         this.viewCount = viewCount;
+    }
+
+    public String getExtractionSource() {
+        return extractionSource;
+    }
+
+    public void setExtractionSource(String extractionSource) {
+        this.extractionSource = extractionSource;
+    }
+
+    public boolean isFromOcr() {
+        return extractionSource != null && extractionSource.startsWith("ocr");
     }
 
     public int getSignificanceRating() {

@@ -53,7 +53,7 @@ def clean_name(raw):
         extras['capacity'] = re.sub(r'^\s*,?\s*as\s+(?:the\s+)?', '', m.group(0)).strip(' ,.')
         s = CAPACITY.sub('', s)
 
-    s = ADDRESS.sub('', s)          # "Peter Thuo, of P.O. Box 24" -> "Peter Thuo"
+    s = ADDRESS.sub('', s)          # "John Doe, of P.O. Box 24" -> "John Doe"
     s = PAREN_ANY.sub(' ', s)       # any remaining parenthetical aside
     s = LEAD_QUANT.sub('', s)
     s = QUANTIFIER.sub('', s)
