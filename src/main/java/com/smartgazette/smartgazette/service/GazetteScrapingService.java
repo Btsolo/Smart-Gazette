@@ -41,6 +41,11 @@ public class GazetteScrapingService {
         this.gazetteRepository = gazetteRepository;
     }
 
+    /** Who is asking: Kenya Law's terms ask for responsible use, so the scraper
+     *  names itself instead of posing as a browser. */
+    @org.springframework.beans.factory.annotation.Value("${scraper.user-agent:SmartGazette/1.0 (+https://github.com/Btsolo/Smart-Gazette)}")
+    private String userAgent;
+
     /** The daily scrape (on by default; a staging copy can switch it off). */
     @org.springframework.beans.factory.annotation.Value("${scraper.enabled:true}")
     private boolean scraperEnabled;
@@ -70,9 +75,8 @@ public class GazetteScrapingService {
 
                 // Step 1: Get Listings Page
                 Document doc = Jsoup.connect(scrapeUrl)
-                        .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64)")
+                        .userAgent(userAgent)
                         .header("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
-                        .referrer("https://www.google.com/")
                         .followRedirects(true)
                         .timeout(60000)
                         .get();
@@ -111,7 +115,7 @@ public class GazetteScrapingService {
                 // Step 2: Get Details Page
                 log.info("New gazette found! Navigating to details page: {}", detailsPageUrl);
                 Document detailsDoc = Jsoup.connect(detailsPageUrl)
-                        .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64)")
+                        .userAgent(userAgent)
                         .referrer(scrapeUrl)
                         .timeout(60000)
                         .get();
@@ -135,7 +139,7 @@ public class GazetteScrapingService {
                 // Step 3: Download PDF
                 log.info("Downloading PDF...");
                 Connection.Response pdfResponse = Jsoup.connect(pdfUrl)
-                        .userAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64)")
+                        .userAgent(userAgent)
                         .referrer(detailsPageUrl)
                         .ignoreContentType(true)
                         .followRedirects(true)

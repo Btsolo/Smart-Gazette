@@ -58,5 +58,7 @@ figures.ocr.models-dir=/app/models/ppocr
 admin.enabled=false
 # the Monday-Friday 05:00 Kenya Law scrape (default on)
 scraper.enabled=true
+# how the scraper names itself to Kenya Law (honest identification, no browser disguise)
+scraper.user-agent=SmartGazette/1.0 (+https://github.com/Btsolo/Smart-Gazette)
 # social posting through IFTTT (default off; ifttt.webhook.url is then not needed)
 social.posting.enabled=false
