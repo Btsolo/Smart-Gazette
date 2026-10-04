@@ -1,0 +1,47 @@
+{
+  "type": "object",
+  "description": "Utility Tariffs: prices for water and electricity set by the regulators - Water Services Regulatory Board (WASREB) approved tariffs for water companies, and Energy and Petroleum Regulatory Authority (EPRA) electricity tariff schedules, tariff applications and decisions. The tariff tables are often long and span pages.",
+  "properties": {
+    "items": {
+      "oneOf": [
+        { "$ref": "#/definitions/item" },
+        { "type": "array", "items": { "$ref": "#/definitions/item" } }
+      ]
+    }
+  },
+  "required": ["items"],
+  "definitions": {
+    "item": {
+      "type": "object",
+      "properties": {
+        "utility_type": { "type": "string", "enum": ["water", "electricity", "petroleum", "other"] },
+        "notice_subtype": {
+          "type": "string",
+          "enum": ["approved_tariff", "tariff_schedule", "tariff_application", "tariff_decision", "pass_through_charges", "guidelines", "other"],
+          "description": "What the notice does."
+        },
+        "regulator": { "type": "string", "description": "e.g. Water Services Regulatory Board, Energy and Petroleum Regulatory Authority." },
+        "service_provider": { "type": "string", "description": "Utility the tariff applies to, e.g. 'Nairobi City Water and Sewerage Company'." },
+        "service_area": { "type": "string", "description": "Area served, as printed." },
+        "county": { "type": "string", "description": "County, if named. MUST be one of the 47 canonical names in geography.json." },
+        "effective_period": { "type": "string", "description": "Period the tariff applies to, e.g. '2023/24 - 2026/27'." },
+        "effective_date": { "type": "string", "description": "Date the tariff takes effect, as printed." },
+        "tariff_bands": {
+          "type": "array",
+          "description": "Rows of the tariff table.",
+          "items": {
+            "type": "object",
+            "properties": {
+              "customer_category": { "type": "string", "description": "e.g. Domestic, Commercial, Institutions." },
+              "consumption_band": { "type": "string", "description": "e.g. '0-6 m3', '0-30 kWh'." },
+              "rate": { "type": "string", "description": "Price as printed, with unit, e.g. 'KSh 53 per m3'." },
+              "period": { "type": "string", "description": "Year of the tariff, if the table has one column per year." }
+            }
+          }
+        },
+        "other_charges": { "type": "array", "items": { "type": "string" }, "description": "Levies, connection or fixed charges, as printed." },
+        "signatory": { "type": "string", "description": "Person signing the notice." }
+      }
+    }
+  }
+}

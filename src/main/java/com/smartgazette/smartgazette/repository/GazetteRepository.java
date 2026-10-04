@@ -71,6 +71,9 @@ public interface GazetteRepository extends JpaRepository<Gazette, Long> {
     List<Gazette> findAllByGazetteNumber(String gazetteNumber);
     Optional<Gazette> findFirstByGazetteNumberAndGazetteDate(String gazetteNumber, LocalDate gazetteDate);
 
+    /** A gazette PDF counts as processed once any notice points at it. */
+    boolean existsByOriginalPdfPath(String originalPdfPath);
+
     @Query("SELECT new com.smartgazette.smartgazette.model.GazetteBatchDTO(" +
             "g.originalPdfPath, g.gazetteDate, g.gazetteNumber, COUNT(g), " +
             "SUM(CASE WHEN g.status = 'FAILED' THEN 1 ELSE 0 END)) " +

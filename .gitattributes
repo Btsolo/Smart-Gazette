@@ -3,3 +3,6 @@
 # Ignore environment files
 .env
 
+# shell scripts and the OCR character list must keep Unix line endings on any checkout
+*.sh text eol=lf
+tools/ocr/*.txt text eol=lf

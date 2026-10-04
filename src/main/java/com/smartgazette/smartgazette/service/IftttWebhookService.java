@@ -15,14 +15,22 @@ public class IftttWebhookService {
 
     private final RestTemplate restTemplate = new RestTemplate();
 
-    @Value("${ifttt.webhook.url}")
+    @Value("${ifttt.webhook.url:}")
     private String webhookUrl;
+
+    /** Social posting is off unless switched on: the deployed version has no
+     *  posting yet (the pipeline is kept for later). */
+    @Value("${social.posting.enabled:false}")
+    private boolean postingEnabled;
 
     /**
      * Sends content to the IFTTT Webhook to be posted as a tweet.
      * @param tweetContent The text content of the tweet to post.
      */
     public void postTweet(String tweetContent) {
+        if (!postingEnabled || webhookUrl == null || webhookUrl.isBlank()) {
+            return;                                   // posting switched off (social.posting.enabled)
+        }
         HttpHeaders headers = new HttpHeaders();
         headers.setContentType(MediaType.APPLICATION_JSON);
 

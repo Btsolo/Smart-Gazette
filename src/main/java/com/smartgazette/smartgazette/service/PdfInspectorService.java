@@ -61,9 +61,11 @@ public class PdfInspectorService {
     @Value("${extraction.inspector.node:node}")
     private String nodeCommand;
 
-    /** A 100-page gazette extracts in well under a second; 120s is a generous
-     *  ceiling that still guarantees we never hang the async worker forever. */
-    @Value("${extraction.inspector.timeout-seconds:120}")
+    /** Reading the ruling lines of ruled tables (fix 7b, poppler pdftocairo)
+     *  makes a typical gazette take a few seconds and the largest registers
+     *  up to ~2 minutes; 300s still guarantees we never hang the async worker
+     *  forever. */
+    @Value("${extraction.inspector.timeout-seconds:300}")
     private long timeoutSeconds;
 
     public boolean isInspectorEnabled() {
@@ -77,6 +79,16 @@ public class PdfInspectorService {
      *         Never throws — the caller falls back to PDFBox on null.
      */
     public String extractText(File pdf) {
+        return extractText(pdf, null);
+    }
+
+    /**
+     * As {@link #extractText(File)}, and also writes the gazette's figure list
+     * (every image placement: page, box, pixel size) to {@code figuresOut}
+     * for FigureService (docs/specs/figures.md). The text carries a
+     * [[FIGURE:p.k]] marker where each image sits either way.
+     */
+    public String extractText(File pdf, File figuresOut) {
         if (pdf == null || !pdf.isFile()) {
             log.warn("pdf-inspector: file is missing or not a regular file: {}", pdf);
             return null;
@@ -92,10 +104,13 @@ public class PdfInspectorService {
         long start = System.currentTimeMillis();
         Process process = null;
         try {
-            ProcessBuilder pb = new ProcessBuilder(
-                    nodeCommand,
-                    script.getAbsolutePath(),
-                    pdf.getAbsolutePath());
+            java.util.List<String> cmd = new java.util.ArrayList<>(java.util.List.of(
+                    nodeCommand, script.getAbsolutePath(), pdf.getAbsolutePath()));
+            if (figuresOut != null) {
+                cmd.add("--figures");
+                cmd.add(figuresOut.getAbsolutePath());
+            }
+            ProcessBuilder pb = new ProcessBuilder(cmd);
 
             // Run with the script's own folder as the working directory, so
             // Node resolves node_modules relative to the script rather than

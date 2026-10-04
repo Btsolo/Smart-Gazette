@@ -38,7 +38,8 @@ TRUTH = [
     ('Change_of_Name',        r'CHANGE\s*OF\s*NAME'),
     ('land_property',         r'THE\s*LAND\s*(?:R\s*E\s*G\s*I\s*S\s*T\s*R\s*A\s*T\s*I\s*O\s*N|TITLES?)\s*ACT'),
     ('company_registrations', r'THE\s*COMPANIES\s*ACT|THE\s*INSOLVENCY\s*ACT'),
-    ('Legislation',           r'THE\s*ELECTIONS?\s*ACT|THE\s*STATUTORY\s*INSTRUMENTS\s*ACT|\bBILL\b|L\.N\.\s*\d+'),
+    ('Elections',             r'THE\s*ELECTIONS?\s*ACT|POLITICAL\s*PARTIES\s*ACT|INDEPENDENT\s*ELECTORAL'),
+    ('Legislation',           r'THE\s*STATUTORY\s*INSTRUMENTS\s*ACT|\bBILL\b|L\.N\.\s*\d+'),
     ('licensing',             r'THE\s*MINING\s*ACT|LICEN[CS]E\s*NO|THE\s*BETTING'),
     ('tenders',               r'INVITATION\s*TO\s*TENDER|PREQUALIFICATION'),
     ('public_service_hr',     r'\bPROMOTION\b|\bREDESIGNATION\b|\bRETIREMENT\b'),
@@ -68,10 +69,11 @@ CANDIDATES = {
     'company_registrations': ['companiesact', 'struckoff', 'dissolutionof',
                               'certificateofincorporation', 'insolvencyact'],
     'Legislation': ['bill,20', 'legalnotice', 'statutoryinstruments', 'regulations,20',
-                    'electionsact', 'isherebyenacted'],
+                    'isherebyenacted'],
+    'Elections': ['electionsact', 'politicalpartiesact', 'registrationofvoters', 'by-election'],
     'licensing': ['licence', 'license', 'permit', 'miningact', 'licensing'],
     'tenders': ['tender', 'procurement', 'expressionofinterest', 'prequalification'],
-    'public_service_hr': ['promotion', 'redesignation', 'retirement', 'transferofservice'],
+    'public_service_hr': ['redesignation', 'transferofservice'],
 }
 
 def main():
@@ -87,8 +89,8 @@ def main():
             continue
         seen.add(stem)
         d = open(f, 'rb').read()
-        try:    t = d.decode('utf-16')
-        except  UnicodeError: t = d.decode('utf-8', errors='replace')
+        # UTF-16 only with a BOM; utf-16-first silently garbles UTF-8 input
+        t = d.decode('utf-16') if d[:2] in (b'\xff\xfe', b'\xfe\xff') else d.decode('utf-8', errors='replace')
         c = G.apply_ascending_lock(G.clean(t))
         for n in re.split(r'(?=GAZETTE NOTICE NO\. \d+)', c):
             if n.startswith('GAZETTE NOTICE NO.'):

@@ -53,6 +53,14 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
+            <!-- jsonassert brings android-json, whose org.json classes (JSONException is
+                 checked) shadow org.json:json in tests: VerifyError on GazetteService -->
+            <exclusions>
+                <exclusion>
+                    <groupId>com.vaadin.external.google</groupId>
+                    <artifactId>android-json</artifactId>
+                </exclusion>
+            </exclusions>
         </dependency>
 
         <!-- Database Dependencies -->
@@ -109,6 +117,18 @@
             <groupId>org.jsoup</groupId>
             <artifactId>jsoup</artifactId>
             <version>1.17.2</version>
+        </dependency>
+
+        <!-- Figures (docs/specs/figures.md): PP-OCRv6 (the models RapidOCR uses) run on ONNX Runtime
+             by service.PpOcr - reads the text on maps, charts and table images better than Tesseract
+             (tools/figure_ocr_eval.py). Page text stays on Tesseract. Models: figures.ocr.models-dir. -->
+        <dependency>
+            <groupId>com.microsoft.onnxruntime</groupId>
+            <artifactId>onnxruntime</artifactId>
+            <!-- 1.20.0: the newest release whose Windows DLL starts with the Visual C++ runtime
+                 bundled in JDK 17.0.10 (14.29); 1.21+ fail with "DLL initialization routine failed".
+                 1.20 is also the first to read the PP-OCRv6 models (ONNX IR version 10). -->
+            <version>1.20.0</version>
         </dependency>
 
     </dependencies>

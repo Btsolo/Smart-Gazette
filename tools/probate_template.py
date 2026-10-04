@@ -28,30 +28,65 @@ RE_CAUSE = re.compile(
     r'By\s+(?P<body>.+?)(?=\s*(?:CAUSE NO\.|GAZETTE NOTICE NO\.|$))',
     re.S)
 
-# Two connectors lead to the deceased's name: "to the estate of" (most
-# notices) and "will of" (probate-of-will notices, which name the testator
-# directly rather than the estate).
+# Connectors to the deceased's name: "to the estate of" (most notices), "will
+# of" (probate of a will names the testator) and their Gazette variants.
+# Fix 4 (2022-2026 measured): "for grant" without a/the, "of written will"
+# without "the" (~280 blocks a year), "estate X" without "of", and other
+# grant types (ad litem, ad colligenda bona, with the will annexed, limited).
 RE_ACTION = re.compile(
-    r'for\s+(?:a|the)\s+(?P<action>'
-    r'grant\s+of\s+letters\s+of\s+administration(?:\s+intestate|\s+testate)?|'
-    r'grant\s+of\s+probate(?:\s+of\s+the\s+(?:last\s+)?(?:written\s+)?will(?:\s+and\s+testament)?)?|'
-    r'resealing\s+of\s+a\s+grant[a-z\s]*?'
-    r')\s*(?:to\s+the\s+estate\s+of|(?:written|last)?\s*will\s+of)\s+(?P<tail>.+)$',
+    r'for\s+(?:a\s+|the\s+)?(?P<action>'
+    r'(?:limited\s+)?grant\s+of\s+letters\s+of\s+administration'
+    r'(?:\s+(?:intestate|testate|with\s+(?:the\s+)?will\s+annexed|ad\s+colligenda\s+bona|ad\s+litem))?|'
+    r'grant\s+of\s+probate|'
+    r'resealing\s+of\s+(?:a\s+|the\s+)?grant[a-z\s]*?|'
+    r'limited\s+grant[a-z\s]*?'
+    # "probate of written will to the estate of X" (285 blocks, 2022-2026,
+    # none read until a Java unit test written from a real notice shape hit it)
+    r')\s*(?:of\s+(?:the\s+)?(?:last\s+)?(?:written\s+|oral\s+)?will(?:\s+and\s+testament)?\s+(?:to\s+the\s+estate\s+)?of'
+    r'|to\s+the\s+estate(?:\s+of)?'
+    r'|in\s+respect\s+of\s+the\s+estate\s+of'
+    r'|(?:written|last)?\s*will\s+of)\s+(?P<tail>.+)$',
     re.S | re.I)
 
-# Place of death is optional ("who died on 23rd July, 2024" is common) and
-# the comma before "who" is not always present after the extractor's joins.
+# Place and date of death are both optional. Forms seen in 2022-2026:
+#   who died at X on 7th May, 2020   | who died on 7th May, 2020
+#   who died in/along/near X, on ... | who died at X, 6th April, 1998 (no "on")
+#   who died at X in 1978 (year only)| who died at X.  (no date in the notice)
+# A missing date is stored as None rather than rejecting the whole record:
+# the schema does not require it and the article generator handles it.
+_DATE = r'\d{1,2}\s*(?:st|nd|rd|th)?\s*[A-Za-z]+\s*,?\s*\d{4}'
 RE_DEATH = re.compile(
     r'^(?P<deceased>.+?)'
     r'(?:\s*,?\s*late\s+of\s+(?P<residence>.+?))?'
-    r'[,\s]*who\s+died\s*(?:at\s+(?P<place>.+?)|(?P<there>there))?'
-    r'[,\s]*on\s+(?P<date>\d{1,2}\s*(?:st|nd|rd|th)?\s*[A-Za-z]+\s*,?\s*\d{4})',
+    r'[,\s]*who\s+died\s*(?:(?:at|in|along|near|on\s+the)\s+(?P<place>.+?)|(?P<there>there))??'
+    r'(?:[,\s]*(?:on|n)?\s*(?P<date>' + _DATE + r')'
+    r'|(?:\s+in)?\s+(?P<year>(?:18|19|20)\d\d)(?=\s*[.,]?\s*(?:\n|$))'
+    r'|\s*(?=\.\s*(?:\n|$)|\n|$))',
     re.S | re.I)
+
+# "(Formerly CAUSE NO. ...)" / "(as consolidated with CAUSE NO. ...)" quote a
+# second cause number inside the header; splitting there cut the record in two.
+_INNER_CAUSE = re.compile(r'(\((?:\s*formerly|\s*as\s+consolidated\s+with)\s*)CAUSE\s+NO\.', re.I)
+
+
+def split_causes(notice):
+    """CAUSE NO. blocks of a probate notice, not split at a cause number quoted
+    inside a parenthesis."""
+    t = _INNER_CAUSE.sub(lambda m: m.group(1) + 'CAUSE NO.', notice)
+    return [b.replace('CAUSE NO.', 'CAUSE NO.') for b in re.split(r'(?=CAUSE NO\.)', t) if b.startswith('CAUSE NO.')]
 
 RE_COURT    = re.compile(r'IN\s+THE\s+(?P<court>(?:HIGH\s*COURT|CHIEF\s*MAGISTRATE|SENIOR\s*PRINCIPAL\s*MAGISTRATE|PRINCIPAL\s*MAGISTRATE|SENIOR\s*RESIDENT\s*MAGISTRATE|RESIDENT\s*MAGISTRATE)[^\n]{0,60}?)\s*(?:PROBATE|\n)', re.I)
 RE_DEADLINE = re.compile(r'within\s+(?P<deadline>[a-z\-]+\s*\(\s*\d+\s*\)\s*days'
                          r'(?:\s+from\s+the\s+date\s+of\s+publication)?)', re.I)
-RE_ADVOCATE = re.compile(r'through\s+(?:Messrs\.?\s*)?(?P<advocates>.+?),\s*advocates?', re.I)
+# The firm ends at ", advocates" - or, as most notices are printed, at
+# " of <Town>, for a grant" / ", for a grant" with no "advocates" at all
+# (advocate_firm was filled for only 3-5% of records before fix 4).
+# re.S: the firm's initials can be split over a line ("A. B." / "Example & Co.").
+RE_ADVOCATE = re.compile(
+    r'through\s+(?:Messrs\.?|M/s\.?)?\s*(?P<advocates>.+?)'
+    r'(?:,?\s+advocates?\b'
+    r'|,?\s+(?:of|in)\s+[A-Z][A-Za-z\'-]+(?:\s+[A-Z][A-Za-z\'-]+)?\s*,?\s*(?=for\b)'
+    r'|,\s*(?=for\s+(?:a\s+|the\s+)?(?:grant|resealing|limited|confirmation)))', re.I | re.S)
 RE_ADDRESS  = re.compile(r'(?:all\s+of|of)\s+(?P<address>P\.?\s*O\.?\s*Box[^,]*(?:,\s*[^,]*)?)', re.I)
 RE_RELATION = re.compile(r"the\s+deceased'?s?\s+(?P<relationship>[a-z\s\-]+?)\s*,", re.I)
 
@@ -97,9 +132,18 @@ def extract(block, notice=None):
 
     # petitioner segment is everything before the action clause
     pet_seg = body[:a.start()]
-    adv = RE_ADVOCATE.search(pet_seg)
+    # searched in the whole body: the firm often ends at ", for a grant", which
+    # lies just past pet_seg - but the match must start before the action clause
+    adv = RE_ADVOCATE.search(body)
+    if adv and adv.start() >= a.start():
+        adv = None
     addr = RE_ADDRESS.search(pet_seg)
     rel = RE_RELATION.search(pet_seg)
+    rel_text = _tidy(rel.group('relationship')) if rel else None
+    # "the executor(s) named in the deceased's last will" -> executor(s)
+    ex = re.search(r'the\s+(executors?|executrix)\s+named', pet_seg, re.I)
+    if ex and (not rel_text or re.search(r'will$', rel_text, re.I)):
+        rel_text = ex.group(1).lower()
 
     # Names run from the start up to whichever marker comes first. The
     # ", of " fallback catches overseas addresses that are not P.O. Boxes
@@ -117,18 +161,22 @@ def extract(block, notice=None):
         'case_reference':          _tidy(re.sub(r'\s', '', m.group('case_ref')) + ' OF ' + re.sub(r'\s','',m.group('case_year'))),
         'notice_subtype':          act.title(),
         'deceased_name':           PN.repair_name(_tidy(d.group('deceased'))),
-        'date_of_death':           _tidy(d.group('date')),
+        'date_of_death':           _tidy(d.group('date')) or _tidy(d.group('year')),
         'place_of_death':          _tidy(d.group('place')) if d.group('place') else (_tidy(d.group('residence')) if d.group('there') else None),
         'deceased_residence':      _tidy(d.group('residence')),
         'petitioner_names':        PN.repair_names(names),
-        'petitioner_relationship': _tidy(rel.group('relationship')) if rel else None,
+        'petitioner_relationship': rel_text,
         'action_type':             act,
         'filing_deadline':         _t(RE_DEADLINE.search(ctx).group('deadline')) if RE_DEADLINE.search(ctx) else None,
         'judgment_summary':        None,
         'advocate_firm':           _tidy(adv.group('advocates')) if adv else None,
     }
-    # required fields
-    if not (out['deceased_name'] and out['date_of_death'] and out['petitioner_names']):
+    # required fields (date of death is optional since fix 4: ~200 notices a
+    # year print none, and a year-only date is kept as the year)
+    if not (out['deceased_name'] and out['petitioner_names']):
+        return None
+    # a deceased "name" that swallowed the clause is a mis-parse, not a name
+    if len(out['deceased_name']) > 80 or re.search(r'\bwho\s+died\b', out['deceased_name'], re.I):
         return None
     return out
 

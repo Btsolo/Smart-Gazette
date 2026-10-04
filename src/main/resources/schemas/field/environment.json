@@ -1,0 +1,35 @@
+{
+  "type": "object",
+  "description": "Environment: notices under the Environmental Management and Co-ordination Act, mostly National Environment Management Authority (NEMA) invitations to comment on an Environmental Impact Assessment (EIA) study report for a proposed project; also environment committees and strategic environmental assessments.",
+  "properties": {
+    "items": {
+      "oneOf": [
+        { "$ref": "#/definitions/item" },
+        { "type": "array", "items": { "$ref": "#/definitions/item" } }
+      ]
+    }
+  },
+  "required": ["items"],
+  "definitions": {
+    "item": {
+      "type": "object",
+      "properties": {
+        "notice_subtype": {
+          "type": "string",
+          "enum": ["eia_study_report", "strategic_environmental_assessment", "environment_committee", "regulations", "other"],
+          "description": "What the notice does."
+        },
+        "project_name": { "type": "string", "description": "Name of the proposed project." },
+        "proponent": { "type": "string", "description": "Company or body proposing the project." },
+        "project_description": { "type": "string", "description": "One or two sentences on what will be built or done." },
+        "location": { "type": "string", "description": "Where the project is, as printed (plot, area, town)." },
+        "county": { "type": "string", "description": "County. MUST be one of the 47 canonical names in geography.json." },
+        "anticipated_impacts": { "type": "array", "items": { "type": "string" }, "description": "Impacts listed in the notice (e.g. noise, dust, waste)." },
+        "mitigation_measures": { "type": "array", "items": { "type": "string" }, "description": "Proposed measures listed in the notice." },
+        "where_to_inspect": { "type": "string", "description": "Offices where the report can be read." },
+        "comment_deadline": { "type": "string", "description": "Period for public comments, as printed (e.g. 'within thirty (30) days')." },
+        "signatory": { "type": "string", "description": "e.g. Director-General, NEMA." }
+      }
+    }
+  }
+}

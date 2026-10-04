@@ -1,0 +1,39 @@
+{
+  "type": "object",
+  "description": "Uncollected Goods: notices under the Disposal of Uncollected Goods Act by auctioneers, garages and storage yards - the owner must collect the goods and pay charges by a deadline, or they will be sold.",
+  "properties": {
+    "items": {
+      "oneOf": [
+        { "$ref": "#/definitions/item" },
+        { "type": "array", "items": { "$ref": "#/definitions/item" } }
+      ]
+    }
+  },
+  "required": ["items"],
+  "definitions": {
+    "item": {
+      "type": "object",
+      "properties": {
+        "issuer": { "type": "string", "description": "Auctioneer, garage or yard giving the notice." },
+        "issuer_location": { "type": "string", "description": "Where the goods are held, as printed." },
+        "goods": {
+          "type": "array",
+          "description": "Each item listed (often a vehicle).",
+          "items": {
+            "type": "object",
+            "properties": {
+              "description": { "type": "string", "description": "e.g. 'Toyota Probox'." },
+              "registration_number": { "type": "string", "description": "Vehicle registration, e.g. 'KCA 123A', if a vehicle." },
+              "owner": { "type": "string", "description": "Owner or person who left the goods, if named." }
+            }
+          }
+        },
+        "collection_deadline": { "type": "string", "description": "Date or period by which the owner must collect, as printed (e.g. 'within thirty (30) days')." },
+        "charges": { "type": "string", "description": "Storage or repair charges the owner must pay, if stated." },
+        "sale_method": { "type": "string", "description": "e.g. 'public auction', 'private treaty'." },
+        "contact": { "type": "string", "description": "Address or telephone for the owner to contact." },
+        "signatory": { "type": "string", "description": "Person signing the notice." }
+      }
+    }
+  }
+}

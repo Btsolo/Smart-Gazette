@@ -1,5 +1,7 @@
 package com.smartgazette.smartgazette.service;
 
+import com.smartgazette.smartgazette.service.templates.NoticeTemplates;
+
 import com.smartgazette.smartgazette.model.ProcessingStage;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.http.*;
@@ -9,6 +11,8 @@ import java.util.Map;
 import com.smartgazette.smartgazette.model.Gazette;
 import com.smartgazette.smartgazette.model.ProcessingStatus;
 import com.smartgazette.smartgazette.repository.GazetteRepository;
+import com.smartgazette.smartgazette.model.NoticeFigure;
+import com.smartgazette.smartgazette.repository.NoticeFigureRepository;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.rendering.PDFRenderer;
 import org.apache.pdfbox.text.PDFTextStripper;
@@ -19,6 +23,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.scheduling.annotation.Async;
+import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
@@ -87,6 +92,9 @@ public class GazetteService {
     private final PdfInspectorService pdfInspectorService;
     private final GazetteTextCleaner gazetteTextCleaner;
     private final GeographyService geographyService;
+    private final ScanLaneService scanLaneService;
+    private final FigureService figureService;
+    private final NoticeFigureRepository noticeFigureRepository;
 
 
 
@@ -95,13 +103,19 @@ public class GazetteService {
                           ExcelExportService excelExportService,
                           PdfInspectorService pdfInspectorService,
                           GazetteTextCleaner gazetteTextCleaner,
-                          GeographyService geographyService  ) {
+                          GeographyService geographyService,
+                          ScanLaneService scanLaneService,
+                          FigureService figureService,
+                          NoticeFigureRepository noticeFigureRepository) {
         this.gazetteRepository = gazetteRepository;
         this.iftttWebhookService = iftttWebhookService;
         this.excelExportService = excelExportService;
         this.pdfInspectorService = pdfInspectorService;
         this.gazetteTextCleaner = gazetteTextCleaner;
         this.geographyService = geographyService;
+        this.scanLaneService = scanLaneService;
+        this.figureService = figureService;
+        this.noticeFigureRepository = noticeFigureRepository;
         this.restTemplate = new RestTemplate();
         log.info("✅ GazetteService initialized.");
     }
@@ -110,6 +124,9 @@ public class GazetteService {
     public List<Gazette> getAllGazettes() {
         return gazetteRepository.findAllWithCorrectSorting();
     }
+    /** True while a PDF (or a retry run) is being processed - one job at a time. */
+    public boolean isBusy() { return isProcessing.get(); }
+
     public Gazette getGazetteById(Long id) { return gazetteRepository.findById(id).orElse(null); }
     public void deleteGazette(Long id) { gazetteRepository.deleteById(id); }
     public Gazette saveGazette(Gazette gazette) { return gazetteRepository.save(gazette); }
@@ -184,6 +201,16 @@ public class GazetteService {
         // 2. Delete all database entries associated with that file
         gazetteRepository.deleteAllByOriginalPdfPath(originalPdfPath);
         log.info("Deleted all database notices for path: {}", originalPdfPath);
+
+        // 3. Its figures (docs/specs/figures.md): the records and their image files
+        for (NoticeFigure f : noticeFigureRepository.findAll()) {
+            if (!originalPdfPath.equals(f.getOriginalPdfPath())) continue;
+            for (String rel : new String[]{f.getFilePath(), f.getCleanFilePath()}) {
+                if (rel == null) continue;
+                try { Files.deleteIfExists(figureService.root().resolve(rel)); } catch (IOException ignored) { }
+            }
+        }
+        noticeFigureRepository.deleteAllByOriginalPdfPath(originalPdfPath);
     }
     // --- END BATCH MANAGEMENT METHODS ---
 
@@ -198,6 +225,7 @@ public class GazetteService {
 
         JSONObject overallGazetteDetails = null;
         String highQualityFullText = null;
+        File figuresJson = null;          // the extractor's list of image placements (figures)
 
         try (PDDocument document = PDDocument.load(file)) {
             log.info(">>>> Starting async PDF processing for file: {}", file.getName());
@@ -211,9 +239,32 @@ public class GazetteService {
             //
             // Only tier 1 output goes through the cleaner. The legacy tiers produce a
             // different shape of text and the cleaner's joining rules would damage it.
+            String extractionSource = "text-layer";
             try {
-                if (pdfInspectorService.isInspectorEnabled()) {
-                    String rawInspectorText = pdfInspectorService.extractText(file);
+                // Fix 5: a scanned gazette has no usable text layer (pdf-inspector
+                // finds 0-1 notices), so it is read by OCR and repaired first.
+                if (scanLaneService.isScanned(file, document.getNumberOfPages())) {
+                    String ocr = scanLaneService.ocrText(file, document.getNumberOfPages());
+                    if (ocr != null && !ocr.isBlank()) {
+                        highQualityFullText = ScanLaneService.dropOutliers(gazetteTextCleaner.clean(ocr));
+                        extractionSource = "ocr-tesseract";
+                        log.info("Extraction engine: scan lane (Tesseract + OCR repair + cleaner), {} chars.",
+                                highQualityFullText.length());
+                    }
+                }
+
+                if ((highQualityFullText == null || highQualityFullText.isBlank())
+                        && pdfInspectorService.isInspectorEnabled()) {
+                    if (figureService.isEnabled()) figuresJson = File.createTempFile("figures-", ".json");
+                    String rawInspectorText = pdfInspectorService.extractText(file, figuresJson);
+                    if (rawInspectorText != null && scanLaneService.isEnabled()) {
+                        // pages without a text layer (scanned maps or pages) are read by OCR
+                        ScanLaneService.Filled filled = scanLaneService.fillTextlessPages(file, rawInspectorText);
+                        if (!filled.pages().isEmpty()) {
+                            rawInspectorText = filled.text();
+                            extractionSource = "text-layer+ocr";
+                        }
+                    }
                     if (rawInspectorText != null) {
                         highQualityFullText = gazetteTextCleaner.clean(rawInspectorText);
                         log.info("Extraction engine: pdf-inspector + cleaner ({} chars raw -> {} cleaned).",
@@ -241,8 +292,20 @@ public class GazetteService {
             // --- END OF CALL 0 ---
 
             if (highQualityFullText != null && !highQualityFullText.isBlank()) {
-                overallGazetteDetails = extractGazetteHeaderDetails(highQualityFullText);
+                // read from the cover ("Vol. CXXVIII-No. 166 ... NAIROBI, 18th
+                // September, 2026"); the AI only when the cover text lacks it
+                overallGazetteDetails = GazetteHeaderParser.parse(highQualityFullText);
+                if (overallGazetteDetails != null) {
+                    log.info("Gazette header read from the cover: {}", overallGazetteDetails);
+                } else {
+                    overallGazetteDetails = extractGazetteHeaderDetails(highQualityFullText);
+                }
             }
+            if (overallGazetteDetails == null) {
+                overallGazetteDetails = new JSONObject();
+            }
+            // every notice of this PDF records where its text came from (OCR = lower confidence)
+            overallGazetteDetails.put("extractionSource", extractionSource);
 
             List<NoticeSegment> notices = segmentTextByNotices(highQualityFullText);
             log.info("PDF segmented into {} potential notices.", notices.size());
@@ -352,16 +415,48 @@ public class GazetteService {
                     log.warn("Rate limit pause interrupted.");
                 }
             }
+            // figures last: the articles are saved first, and a failure here costs
+            // only figures (FigureService never throws)
+            saveFigures(file, originalPdfPath, figuresJson, highQualityFullText);
             log.info("<<<< Successfully finished processing PDF file: {}", file.getName());
         } catch (Exception e) {
             log.error("Critical error during PDF processing pipeline for file: {}", file.getName(), e);
         } finally {
+            if (figuresJson != null) figuresJson.delete();
             isProcessing.set(false);
             stopProcessing.set(false);
             log.info("Processing lock released.");
         }
     }
 
+
+    /**
+     * Every image the gazette prints, tied to its notice (docs/specs/figures.md).
+     * Re-processing the same PDF replaces its figures.
+     */
+    private void saveFigures(File pdf, String originalPdfPath, File figuresJson, String text) {
+        if (figuresJson == null || !figuresJson.isFile() || text == null) return;
+        try {
+            String json = Files.readString(figuresJson.toPath(), java.nio.charset.StandardCharsets.UTF_8);
+            List<NoticeFigure> figs = figureService.capture(pdf, originalPdfPath, json, text);
+            if (figs.isEmpty()) return;
+            noticeFigureRepository.deleteAllByOriginalPdfPath(originalPdfPath);
+            noticeFigureRepository.saveAll(figs);
+            log.info("Saved {} figures ({} linked to a notice).", figs.size(),
+                    figs.stream().filter(f -> f.getNoticeNumber() != null).count());
+        } catch (Exception e) {
+            log.error("Figures could not be saved for {} - the notices are not affected.", pdf.getName(), e);
+        }
+    }
+
+    /** The figures of one notice (a sub-case shows its parent notice's figures). */
+    public List<NoticeFigure> figuresOf(Gazette g) {
+        if (g == null || g.getOriginalPdfPath() == null) return List.of();
+        String num = g.getParentNoticeNumber() != null ? g.getParentNoticeNumber() : g.getNoticeNumber();
+        if (num == null) return List.of();
+        return noticeFigureRepository.findByOriginalPdfPathAndNoticeNumberOrderByPageAscIdAsc(
+                g.getOriginalPdfPath(), num.replaceAll("\\D", ""));
+    }
 
     private String extractHighFidelityTextFromPdf(PDDocument document) throws IOException, InterruptedException {
         log.info("Starting Vision OCR for FIRST PAGE ONLY...");
@@ -574,6 +669,20 @@ TEXT:
         }
         log.info("Processing notice segment {}. Category: {}", sourceOrder, category);
 
+        // Rule-based templates first (probate, land, corrigenda, change of
+        // name): an exact, free extraction; the AI extraction call is only for
+        // what they cannot read (tools/ measured ~96% probate blocks, ~93%
+        // land, 98% deed polls).
+        Object templated = templateExtract(category, segment.rawText(), sourceOrder);
+        if (templated == null && segment.isOversized()) {
+            // too long for one AI extraction (it would be truncated or refused -
+            // "Payload Too Large" in the No 166 test run): its tables, as printed
+            templated = tableRecord(segment.rawText(), sourceOrder, "oversized");
+        }
+        if (templated != null) {
+            return finishExtracted(templated, segment.rawText(), category, sourceOrder, overallGazetteDetails, originalPdfPath);
+        }
+
         String schemaPath = "/schemas/field/" + category.toLowerCase() + ".json";
         String schemaContent = loadSchemaFile(schemaPath);
         if (schemaContent.isEmpty()) {
@@ -610,6 +719,10 @@ TEXT:
 
         if (extractedDataWrapper == null || !extractedDataWrapper.has("items")) {
             log.error("Extraction failed for notice segment {}. AI did not return a valid 'items' wrapper.", sourceOrder);
+            Object tables = tableRecord(segment.rawText(), sourceOrder, "AI extraction failed");
+            if (tables != null) {
+                return finishExtracted(tables, segment.rawText(), category, sourceOrder, overallGazetteDetails, originalPdfPath);
+            }
             return createFallbackGazette(segment.rawText(), sourceOrder, overallGazetteDetails, "Extraction failed: no 'items' wrapper", originalPdfPath);
         }
         Object extractedData = extractedDataWrapper.get("items");
@@ -619,6 +732,10 @@ TEXT:
 
         if (isNull || isEmptyObject) {
             log.error("Extraction failed for notice segment {}. AI returned 'items' as null or empty.", sourceOrder);
+            Object tables = tableRecord(segment.rawText(), sourceOrder, "AI extraction empty");
+            if (tables != null) {
+                return finishExtracted(tables, segment.rawText(), category, sourceOrder, overallGazetteDetails, originalPdfPath);
+            }
             return createFallbackGazette(segment.rawText(), sourceOrder, overallGazetteDetails, "Extraction failed: 'items' was null or empty", originalPdfPath);
         }
 
@@ -684,6 +801,14 @@ TEXT:
         log.info("Notice {} is multi-case (parent G.N. {}, category {}): splitting into {} sub-cases.",
                 sourceOrder, parentNoticeNumber, knownCategory, caseChunks.size());
 
+        // The probate template reads the WHOLE notice (the court and the
+        // objection deadline are printed once, not per cause). When it reads
+        // every cause and the count matches the chunks, record i is sub-case
+        // i - no AI extraction at all. (Counts differ when a cause quotes
+        // "(Formerly CAUSE NO. ...)": then each chunk takes its own path.)
+        Object wholeNotice = templateExtract(knownCategory, segment.rawText(), sourceOrder);
+        JSONArray perCause = wholeNotice instanceof JSONArray arr && arr.length() == caseChunks.size() ? arr : null;
+
         for (int i = 0; i < caseChunks.size(); i++) {
             String caseText = caseChunks.get(i);
             int caseIndex = i + 1;
@@ -693,7 +818,14 @@ TEXT:
 
             Gazette gazette;
             try {
-                gazette = processTextSegment(caseText, sourceOrder, overallGazetteDetails, originalPdfPath, knownCategory);
+                if (perCause != null) {
+                    Object extracted = perCause.get(i);
+                    JSONObject generated = generateNarrativeContent(extracted, knownCategory);
+                    gazette = createGazetteFromJson(extracted, generated, caseText, knownCategory, sourceOrder,
+                            overallGazetteDetails, originalPdfPath);
+                } else {
+                    gazette = processTextSegment(caseText, sourceOrder, overallGazetteDetails, originalPdfPath, knownCategory);
+                }
             } catch (Exception e) {
                 log.error("Error processing sub-case {}/{} of parent G.N. {}.",
                         caseIndex, caseChunks.size(), parentNoticeNumber, e);
@@ -827,6 +959,30 @@ TEXT:
             return "Change_of_Name";
         }
 
+        // Elections, Uncollected_Goods, Environment, Utility_Tariffs and
+        // County_Government - read from the UPPERCASE heading only (fix 6;
+        // mirrors category_census.heading_category). 1,356 notices in
+        // 2022-2026; AI triage calls 2,821 -> 1,574.
+        String byHeading = CategoryRules.headingCategory(noticeText);
+        if (byHeading != null) {
+            return byHeading;
+        }
+
+        // Land title notice whose BODY cites a succession cause ("whereas the
+        // Chief Magistrate's Court ... in succession cause ... has issued grant
+        // of letters of administration intestate"): its HEADING is the Land
+        // Registration / Titles Act, so it is land. Checked before the court
+        // keys ("intestate" fires on it). Mirrors category_census.categorise
+        // (fix 4, lesson 12).
+        String head = noticeText.length() > 300 ? noticeText.substring(0, 300) : noticeText;
+        String headSquashed = head.toLowerCase().replaceAll("\\s+", "");
+        // "thelandact": acquisition inquiries and schedules (99 notices 2022-26
+        // went to AI triage; test run No 166: an acquisition schedule failed there)
+        if (containsAny(headSquashed, "thelandregistrationact", "thelandtitleact", "thelandtitlesact", "thelandact")
+                && !headSquashed.contains("probateandadministration")) {
+            return "Land_Property";
+        }
+
         // Court_Legal - only phrases land notices never use.
         // ("probateandadministration" 100%, "intestate" 99.5%,
         //  "takenoticethatanapplication" 98.9%)
@@ -847,16 +1003,18 @@ TEXT:
             return "Company_Registrations";
         }
 
-        if (containsAny(squashed, "electionsact", "statutoryinstruments", "bill,20")) {
+        // An Elections Act notice whose heading did not say so (fix 6 step 3:
+        // moved from Legislation; the 3 notices it still caught are election notices)
+        if (containsAny(squashed, "electionsact")) {
+            return "Elections";
+        }
+
+        if (containsAny(squashed, "statutoryinstruments", "bill,20")) {
             return "Legislation";
         }
 
         if (containsAny(squashed, "miningact")) {           // 92.9%
             return "Licensing";
-        }
-
-        if (containsAny(squashed, "retirement")) {
-            return "Public_Service_HR";
         }
 
         if (containsAny(squashed, "reappointment")) {
@@ -866,7 +1024,9 @@ TEXT:
         // Deliberately absent, with measured precision:
         //   appoints (18.2%), appointmentof (40.0%), nomination (0%),
         //   nominationof (0%), licence (68.8%), licensing (25.0%), permit (0%),
-        //   tender (0%), promotion (42.9%), regulations,20 (77.3%)
+        //   tender (0%), promotion (42.9%), regulations,20 (77.3%),
+        //   retirement (0% of 7 in 2022-2026: Retirement Benefits Authority
+        //   appointments, judiciary vacancies - fix 6 step 3)
         // Each of these steals mainly from Legislation. Notice 13502, an election
         // notice, was filed as an Appointment because "nomination of political
         // party candidates" matched "nominationof".
@@ -947,6 +1107,11 @@ TEXT:
     Public_Service_HR
     Licensing
     Company_Registrations (for 'incorporation', 'dissolution of company')
+    County_Government (for 'County Assembly', 'County Executive', 'County Governments Act', a county's own Act)
+    Elections (for 'IEBC', 'returning officer', 'by-election', 'Political Parties Act', 'election petition')
+    Uncollected_Goods (for 'Disposal of Uncollected Goods Act', goods or vehicles to be sold unless collected)
+    Environment (for 'Environmental Impact Assessment', 'NEMA', 'Environmental Management and Co-ordination Act')
+    Utility_Tariffs (for water or electricity 'tariff', 'WASREB', 'EPRA')
     Miscellaneous
 
     Your response MUST be ONLY one of the words listed above. Do not include any other text, explanation, or punctuation.
@@ -974,7 +1139,8 @@ TEXT:
             String cleanedCategory = category.replaceAll("[^a-zA-Z_]", "").trim();
             List<String> validCategories = List.of(
                     "Appointments", "Legislation", "Tenders", "Land_Property", "Court_Legal",
-                    "Public_Service_HR", "Licensing", "Company_Registrations", "Miscellaneous"
+                    "Public_Service_HR", "Licensing", "Company_Registrations", "County_Government",
+                    "Elections", "Uncollected_Goods", "Environment", "Utility_Tariffs", "Miscellaneous"
             );
             if (validCategories.contains(cleanedCategory)) {
                 return cleanedCategory;
@@ -1067,7 +1233,8 @@ DATA:
 
         if (generatedContentResponse == null) {
             log.warn("Gemini unavailable or rate-limited. Falling back to Groq for this notice's generation.");
-            String genModel = List.of("Court_Legal", "Land_Property", "Company_Registrations", "Licensing","Corrigenda", "Change_of_Name", "County_Government")
+            String genModel = List.of("Court_Legal", "Land_Property", "Company_Registrations", "Licensing","Corrigenda", "Change_of_Name", "County_Government",
+                    "Uncollected_Goods", "Environment")
                     .contains(category) ? groqFlashModelName : groqProModelName;
             generatedContentResponse = generateWithRetry(genModel, generationPrompt);
         }
@@ -1332,12 +1499,174 @@ DATA:
             // The same object IS both the extracted data and the generated content —
             // createGazetteFromJson reads extraction fields off extractedData and
             // generation fields off generatedContent, so we pass itemData as both.
-            Gazette gazette = createGazetteFromJson(itemData, itemData, segment.rawText(),
+            // where a template reads the notice, its exact fields are the
+            // extracted data; the batch item still supplies the article
+            Object templated = templateExtract(category, segment.rawText(), segment.sourceOrder());
+            Gazette gazette = createGazetteFromJson(templated != null ? templated : itemData, itemData, segment.rawText(),
                     category, segment.sourceOrder(), overallGazetteDetails, originalPdfPath);
             results.add(gazette);
         }
 
         return results;
+    }
+
+    /**
+     * Rule-based extraction (service.templates, ported from tools/ and
+     * parity-tested on 16,860 notices). Returns the "items" value - an object,
+     * or an array for a probate notice with several causes - or null when no
+     * template reads the notice. A template error never breaks the pipeline.
+     */
+    private Object templateExtract(String category, String text, int sourceOrder) {
+        try {
+            Object r = NoticeTemplates.extract(category, text);
+            if (r == null) {
+                return null;
+            }
+            Object json = toJson(r);
+            if (json instanceof JSONArray arr && arr.length() == 1) {
+                json = arr.get(0);
+            }
+            log.info("Notice {} ({}) extracted by template - no AI extraction call.", sourceOrder, category);
+            return json;
+        } catch (Exception e) {
+            log.warn("Template extraction failed for notice {} ({}); using the AI path.", sourceOrder, category, e);
+            return null;
+        }
+    }
+
+    /**
+     * The notice's tables as its extracted data (fix 8 TableExtractor): for a
+     * table notice with no template that the AI cannot extract - oversized, or
+     * the call failed (customs goods lists, party officials, acquisition
+     * schedules in the No 166 test run were saved as FAILED). Exact rows, as
+     * printed; null when the notice has no table of >= 5 rows.
+     */
+    private Object tableRecord(String text, int sourceOrder, String why) {
+        try {
+            List<TableExtractor.Table> ts = TableExtractor.tables(text);
+            int rows = 0;
+            JSONArray arr = new JSONArray();
+            for (TableExtractor.Table t : ts) {
+                rows += t.rows().size();
+                JSONObject o = new JSONObject();
+                o.put("caption", t.caption() == null ? JSONObject.NULL : t.caption());
+                o.put("columns", t.columns() == null ? JSONObject.NULL : new JSONArray(t.columns()));
+                o.put("rows", new JSONArray(t.rows()));
+                arr.put(o);
+            }
+            if (rows < 5) {
+                return null;
+            }
+            String first = text.contains("\n") ? text.substring(text.indexOf('\n') + 1) : text;
+            JSONObject rec = new JSONObject();
+            rec.put("notice_subtype", first.substring(0, Math.min(160, first.length())).replaceAll("\\s+", " ").trim());
+            rec.put("tables", arr);
+            rec.put("rows_total", rows);
+            log.info("Notice {}: {} - its {} table rows are the extracted data.", sourceOrder, why, rows);
+            return rec;
+        } catch (Exception e) {
+            log.warn("Table record failed for notice {}.", sourceOrder, e);
+            return null;
+        }
+    }
+
+    /** Map/List from the templates -> org.json, keeping null fields as JSON null. */
+    private static Object toJson(Object v) {
+        if (v == null) {
+            return JSONObject.NULL;
+        }
+        if (v instanceof Map<?, ?> m) {
+            JSONObject o = new JSONObject();
+            for (Map.Entry<?, ?> e : m.entrySet()) {
+                o.put(String.valueOf(e.getKey()), toJson(e.getValue()));
+            }
+            return o;
+        }
+        if (v instanceof List<?> l) {
+            JSONArray a = new JSONArray();
+            for (Object x : l) {
+                a.put(toJson(x));
+            }
+            return a;
+        }
+        return v;
+    }
+
+    /**
+     * What the article-writing call needs from a template result: a parcel
+     * schedule can list hundreds of parcels, so each section keeps its first
+     * 20 plus its count (the stored record keeps them all).
+     */
+    private static Object forGeneration(Object extracted) {
+        if (!(extracted instanceof JSONObject o) || !(o.has("sections") || o.has("tables"))) {
+            return extracted;
+        }
+        JSONObject copy = new JSONObject(o.toString());
+        if (copy.has("tables")) {                     // table records: first 20 rows per table
+            JSONArray ts = copy.getJSONArray("tables");
+            for (int i = 0; i < ts.length(); i++) {
+                JSONObject t = ts.getJSONObject(i);
+                JSONArray rows = t.getJSONArray("rows");
+                if (rows.length() > 20) {
+                    JSONArray head = new JSONArray();
+                    for (int k = 0; k < 20; k++) head.put(rows.get(k));
+                    t.put("rows", head);
+                    t.put("rows_total", rows.length());
+                }
+            }
+            return copy;
+        }
+        JSONArray secs = copy.getJSONArray("sections");
+        for (int i = 0; i < secs.length(); i++) {
+            JSONObject sec = secs.getJSONObject(i);
+            JSONArray parcels = sec.optJSONArray("parcels");
+            if (parcels != null && parcels.length() > 20) {
+                JSONArray head = new JSONArray();
+                for (int k = 0; k < 20; k++) {
+                    head.put(parcels.get(k));
+                }
+                sec.put("parcels", head);
+                sec.put("parcels_total", parcels.length());
+            }
+        }
+        return copy;
+    }
+
+    /** Checkpoint, article generation and save for template-extracted data
+     *  (the same steps processSingleNotice runs after an AI extraction). */
+    private Gazette finishExtracted(Object extractedData, String rawText, String category, int sourceOrder,
+                                    JSONObject overallGazetteDetails, String originalPdfPath) {
+        Gazette checkpoint = createFallbackGazette(rawText, sourceOrder, overallGazetteDetails, "Awaiting generation", originalPdfPath);
+        checkpoint.setStatus(ProcessingStatus.PARTIAL);
+        checkpoint.setProcessingStage(ProcessingStage.EXTRACTED);
+        checkpoint.setExtractedDataJson(extractedData.toString());
+        checkpoint.setCategory(category);
+        Gazette saved = gazetteRepository.save(checkpoint);
+        JSONObject generatedContent = generateNarrativeContent(forGeneration(extractedData), category);
+        if (generatedContent == null) {
+            log.error("Generation step failed for notice segment {}. Saving with extracted data only.", sourceOrder);
+        }
+        return createGazetteFromJson(saved, extractedData, generatedContent, rawText, category, sourceOrder, overallGazetteDetails, originalPdfPath);
+    }
+
+    private static final Pattern OWN_NOTICE_NUMBER = Pattern.compile("^\\s*GAZETTE NOTICE NO\\.\\s*(\\d+)");
+
+    /**
+     * The notice number: from the notice's own header line ("GAZETTE NOTICE
+     * NO. 15161" -> "15161") - exact and independent of the AI; otherwise the
+     * AI's value; always bare digits. (Test run 3 Oct 2026: the AI wrote the
+     * whole phrase into the field for 2 notices, and 4 failed notices were
+     * saved with no number at all.)
+     */
+    static String resolveNoticeNumber(String aiValue, String rawContent) {
+        if (rawContent != null) {
+            Matcher m = OWN_NOTICE_NUMBER.matcher(rawContent);
+            if (m.find()) {
+                return m.group(1);
+            }
+        }
+        String v = aiValue == null ? "" : aiValue;
+        return v.replaceAll("(?i)GAZETTE\\s*NOTICE\\s*NO\\.?\\s*", "").trim();
     }
 
     private JSONObject parseSafeJson(String text) {
@@ -1529,159 +1858,160 @@ DATA:
     }
 
 
+    /** The automatic retry: on by default (the deployed site has no admin button). */
+    @Value("${retry.enabled:true}")
+    private boolean retryEnabled;
+
+    /** At most this many notices per retry run (each may cost AI calls). */
+    @Value("${retry.max-per-run:100}")
+    private int retryMaxPerRun;
+
+    /** A notice is retried at most this many times, then left for review. */
+    @Value("${retry.max-attempts:3}")
+    private int retryMaxAttempts;
+
+    /**
+     * Every night at 03:00 Nairobi time by default - after the 22:00 scrape has
+     * finished and once the AI providers' limits have had time to recover.
+     * retry.cron / retry.zone change it.
+     */
+    @Scheduled(cron = "${retry.cron:0 0 3 * * *}", zone = "${retry.zone:Africa/Nairobi}")
+    public void scheduledRetry() {
+        if (retryEnabled) retryFailedNotices();
+    }
+
+    /**
+     * Retries FAILED / PARTIAL notices through the same procedure a new gazette
+     * goes through (the fallback for AI-call failures):
+     * <ul>
+     *   <li>extraction already done (stage EXTRACTED) - only the article is
+     *       written again, with the pipeline's own generation step;</li>
+     *   <li>failed before or during extraction - the whole single-notice
+     *       pipeline again: category, templates first, the AI extraction call
+     *       only if no template reads it, tables, article.</li>
+     * </ul>
+     * The gazette details (volume, number, date, extraction source) come from
+     * the stored notice, and the result replaces the failed row (one row per
+     * notice). Each notice is tried at most retry.max-attempts times.
+     */
     @Async
     public void retryFailedNotices() {
         if (!isProcessing.compareAndSet(false, true)) {
             log.warn("Cannot start RETRY job. Another job (like a PDF upload) is already in progress.");
             return;
         }
-
         stopProcessing.set(false);
-
-        log.info("Starting retry process for FAILED notices...");
-
-        List<Gazette> failedNotices = gazetteRepository.findAllFailedWithCorrectSorting();
-        if (failedNotices.isEmpty()) {
-            log.info("No FAILED notices found to retry.");
-            isProcessing.set(false);
-            return;
-        }
-
-        log.info("Found {} FAILED notices to retry.", failedNotices.size());
-
-        for (Gazette notice : failedNotices) {
-            try {
+        int tried = 0, resumed = 0, rerun = 0, succeeded = 0, gaveUp = 0;
+        try {
+            List<Gazette> failedNotices = gazetteRepository.findAllFailedWithCorrectSorting();
+            log.info("Retry: {} FAILED/PARTIAL notices found.", failedNotices.size());
+            for (Gazette notice : failedNotices) {
                 if (stopProcessing.get()) {
                     log.warn("Retry processing manually stopped by admin.");
                     break;
                 }
-
-                if (notice.getProcessingStage() == ProcessingStage.EXTRACTED && notice.getExtractedDataJson() != null) {
-                    log.info("Retrying notice #{} (stage-aware: EXTRACTED, resuming from stored extraction)...", notice.getId());
-
-                    Object extractedData;
-                    try {
-                        extractedData = new JSONObject(notice.getExtractedDataJson());
-                    } catch (JSONException e) {
-                        try {
-                            extractedData = new JSONArray(notice.getExtractedDataJson());
-                        } catch (JSONException e2) {
-                            log.error("Could not retry notice #{}: stored extractedDataJson is unparseable.", notice.getId());
-                            continue;
-                        }
-                    }
-
-                    Gazette generatedNotice = runGenerationStep(extractedData, notice.getContent(), notice.getCategory(), notice.getSourceOrder(), null, notice.getOriginalPdfPath());
-
-                    if (generatedNotice != null && generatedNotice.getStatus() == ProcessingStatus.SUCCESS) {
-                        updateExistingNotice(notice, generatedNotice);
-                        log.info("SUCCESS: Retry for notice #{} was successful.", notice.getId());
+                if (tried >= retryMaxPerRun) break;
+                if (notice.getRetryCount() >= retryMaxAttempts) { gaveUp++; continue; }
+                tried++;
+                notice.setRetryCount(notice.getRetryCount() + 1);
+                notice = gazetteRepository.save(notice);
+                try {
+                    Gazette result;
+                    Object stored = storedExtraction(notice);
+                    if (stored != null) {
+                        resumed++;
+                        log.info("Retry notice #{} ({}): extraction stored - writing the article again.", notice.getId(), notice.getNoticeNumber());
+                        JSONObject generated = generateNarrativeContent(forGeneration(stored), notice.getCategory());
+                        result = createGazetteFromJson(notice, stored, generated, notice.getContent(), notice.getCategory(),
+                                notice.getSourceOrder() == null ? 0 : notice.getSourceOrder(), detailsOf(notice), notice.getOriginalPdfPath());
+                        result = gazetteRepository.save(result);
                     } else {
-                        log.warn("FAIL: Retry for notice #{} (GENERATION) failed again.", notice.getId());
+                        rerun++;
+                        log.info("Retry notice #{} ({}): failed before the article - running the notice pipeline again.", notice.getId(), notice.getNoticeNumber());
+                        result = rerunPipeline(notice);
                     }
-                } else if (notice.getTitle().startsWith("[GENERATION FAILED]")) {
-                    // Legacy path — old rows saved before this checkpoint system existed,
-                    // where extraction data is embedded as markdown in `article` instead
-                    // of a proper extractedDataJson column. Keep this as a fallback for
-                    // any pre-existing FAILED rows still in the database.
-                    log.info("Retrying notice #{} (legacy GENERATION-FAILED string parse)...", notice.getId());
-                    Object extractedData = null;
-                    String articleJson = notice.getArticle();
-                    articleJson = articleJson.replaceAll("(?s)```json\\s*(.*?)\\s*```", "$1").trim();
-                    try {
-                        extractedData = new JSONObject(articleJson);
-                    } catch (JSONException e) {
-                        try {
-                            extractedData = new JSONArray(articleJson);
-                        } catch (JSONException e2) {
-                            log.error("Could not retry notice #{}: Failed to parse extracted JSON.", notice.getId());
-                            continue;
-                        }
-                    }
-                    Gazette generatedNotice = runGenerationStep(extractedData, notice.getContent(), notice.getCategory(), notice.getSourceOrder(), null, notice.getOriginalPdfPath());
-                    if (generatedNotice != null && generatedNotice.getStatus() == ProcessingStatus.SUCCESS) {
-                        updateExistingNotice(notice, generatedNotice);
-                        log.info("SUCCESS: Retry for notice #{} was successful.", notice.getId());
+                    if (result != null && result.getStatus() == ProcessingStatus.SUCCESS) {
+                        succeeded++;
+                        log.info("Retry notice #{}: SUCCESS ('{}').", result.getId(), result.getTitle());
                     } else {
-                        log.warn("FAIL: Retry for notice #{} (GENERATION) failed again.", notice.getId());
+                        log.warn("Retry notice #{}: failed again (attempt {}/{}).", notice.getId(), notice.getRetryCount(), retryMaxAttempts);
                     }
+                } catch (Exception e) {
+                    log.error("Retry notice #{}: unhandled error: {}", notice.getId(), e.getMessage(), e);
                 }
-
                 TimeUnit.MILLISECONDS.sleep(500);
+            }
+        } catch (InterruptedException e) {
+            Thread.currentThread().interrupt();
+        } catch (Exception e) {
+            log.error("Retry job failed: {}", e.getMessage(), e);
+        } finally {
+            isProcessing.set(false);
+            stopProcessing.set(false);
+            log.info("Retry job finished: {} tried ({} article only, {} full pipeline), {} succeeded, {} left after {} attempts. Lock released.",
+                    tried, resumed, rerun, succeeded, gaveUp, retryMaxAttempts);
+        }
+    }
 
-            } catch (Exception e) {
-                log.error("Unhandled exception while retrying notice #{}: {}", notice.getId(), e.getMessage());
+    /** The extraction a failed notice already has: the checkpoint column, or the
+     *  legacy "[GENERATION FAILED]" rows that kept it as JSON in `article`. */
+    private Object storedExtraction(Gazette notice) {
+        String json = null;
+        if (notice.getProcessingStage() == ProcessingStage.EXTRACTED && notice.getExtractedDataJson() != null) {
+            json = notice.getExtractedDataJson();
+        } else if (notice.getTitle() != null && notice.getTitle().startsWith("[GENERATION FAILED]") && notice.getArticle() != null) {
+            json = notice.getArticle().replaceAll("(?s)```json\\s*(.*?)\\s*```", "$1").trim();
+        }
+        if (json == null) return null;
+        try {
+            JSONObject o = new JSONObject(json);
+            return o.isEmpty() ? null : o;                    // nothing extracted: run the pipeline again
+        } catch (JSONException e) {
+            try {
+                JSONArray a = new JSONArray(json);
+                return a.isEmpty() ? null : a;
+            } catch (JSONException e2) {
+                log.warn("Retry notice #{}: stored extraction is unreadable - running the pipeline again.", notice.getId());
+                return null;
             }
         }
-
-        log.info("Finished retry process.");
-        isProcessing.set(false);
-        stopProcessing.set(false);
-        log.info("Retry job finished. Processing lock released.");
     }
 
-    // Helper method to run ONLY the Generation step (Step 3)
-    private Gazette runGenerationStep(Object extractedData, String rawContent, String category, int sourceOrder, JSONObject overallGazetteDetails, String originalPdfPath) {
-        log.info("Attempting Generation for retried notice...");
+    /** The gazette details the pipeline passes along, rebuilt from the stored notice. */
+    static JSONObject detailsOf(Gazette notice) {
+        JSONObject d = new JSONObject();
+        if (notice.getGazetteVolume() != null) d.put("gazetteVolume", notice.getGazetteVolume());
+        if (notice.getGazetteNumber() != null) d.put("gazetteNumber", notice.getGazetteNumber());
+        if (notice.getGazetteDate() != null) d.put("gazetteDate", notice.getGazetteDate().toString());
+        if (notice.getExtractionSource() != null) d.put("extractionSource", notice.getExtractionSource());
+        return d;
+    }
 
-        String generationPrompt = """
-TASK: Fill the output template below using only the data provided. Do not add information not present in the data.
-
-OUTPUT TEMPLATE — fill every field, no exceptions:
-{
-  "title": "[One clear headline, max 12 words, no punctuation at end]",
-  "summary": "[One sentence. What happened and who it affects. Max 25 words.]",
-  "article": "[Three paragraphs. Paragraph 1: what the notice says. Paragraph 2: who is affected and what it means. Paragraph 3: what action is needed and by when. Plain text only, no markdown, no bullet points, no headers.]",
-  "xSummary": "[Max 240 characters. Same information as summary but conversational. No hashtags.]",
-  "actionableInfo": "[One sentence. If a deadline exists in the data, state it exactly. If no deadline, state the key action required.]",
-  "significance": [integer 1-10, where 1=routine administrative, 5=affects a specific group, 10=affects all Kenyans]
-}
-
-RULES:
-- First character of response must be { and last must be }.
-- No text before or after the JSON.
-- Fill every field. No field may be null or empty.
-- Do not use markdown formatting anywhere inside the JSON values.
-- Do not use bullet points, asterisks, or hyphens inside article or any other field.
-- significance must be a bare integer, not a string.
-
-DATA:
-%s
-""".formatted(extractedData.toString());
-
-        String generatedContentResponse = generateWithRetry(
-                List.of("Court_Legal", "Land_Property", "Company_Registrations", "Licensing")
-                        .contains(category) ? groqFlashModelName : groqProModelName,
-                generationPrompt);
-        JSONObject generatedContent = parseSafeJson(generatedContentResponse);
-
-        if (generatedContent == null) {
-            log.error("Generation step failed on retry.");
-            return null;
+    /**
+     * The single-notice pipeline again for a notice that failed before its
+     * article. The pipeline saves its own checkpoint row once extraction works;
+     * then that row is the notice and the old failed row is removed, so there
+     * is still one row per notice.
+     */
+    private Gazette rerunPipeline(Gazette old) {
+        int order = old.getSourceOrder() == null ? 0 : old.getSourceOrder();
+        String category = triageNoticeCategory(old.getContent());
+        NoticeSegment segment = NoticeSegment.of(order, old.getContent()).withCategory(category);
+        Gazette result = processSingleNotice(segment, detailsOf(old), old.getOriginalPdfPath());
+        if (result == null) return old;
+        if (result.getId() == null) {
+            // no checkpoint was saved: the notice failed again at the same point
+            return result.getStatus() == ProcessingStatus.SUCCESS ? replace(old, result) : old;
         }
-        log.info("Generation complete on retry.");
-
-        // --- FIX: Pass originalPdfPath to final creator method ---
-        return createGazetteFromJson(extractedData, generatedContent, rawContent, category, sourceOrder, overallGazetteDetails, originalPdfPath);
+        return replace(old, result);
     }
 
-    private void updateExistingNotice(Gazette oldNotice, Gazette newNotice) {
-        oldNotice.setTitle(newNotice.getTitle());
-        oldNotice.setSummary(newNotice.getSummary());
-        oldNotice.setArticle(newNotice.getArticle());
-        oldNotice.setActionableInfo(newNotice.getActionableInfo());
-        oldNotice.setXSummary(newNotice.getXSummary());
-        oldNotice.setNoticeNumber(newNotice.getNoticeNumber());
-        oldNotice.setSignatory(newNotice.getSignatory());
-        oldNotice.setPublishedDate(newNotice.getPublishedDate());
-        oldNotice.setGazetteVolume(newNotice.getGazetteVolume());
-        oldNotice.setGazetteNumber(newNotice.getGazetteNumber());
-        oldNotice.setGazetteDate(newNotice.getGazetteDate());
-        oldNotice.setCategory(newNotice.getCategory());
-        oldNotice.setContent(newNotice.getContent());
-        oldNotice.setStatus(ProcessingStatus.SUCCESS);
-
-        gazetteRepository.save(oldNotice);
+    private Gazette replace(Gazette old, Gazette fresh) {
+        fresh.setParentNoticeNumber(old.getParentNoticeNumber());     // a sub-case stays a sub-case
+        fresh.setRetryCount(old.getRetryCount());
+        Gazette saved = gazetteRepository.save(fresh);
+        if (!old.getId().equals(saved.getId())) gazetteRepository.delete(old);
+        return saved;
     }
 
     private Gazette createGazetteFromJson(Gazette existing, Object extractedData, JSONObject generatedContent,
@@ -1707,8 +2037,9 @@ DATA:
         existing.setOriginalPdfPath(originalPdfPath);
 
         if (overallGazetteDetails != null) {
-            existing.setGazetteVolume(overallGazetteDetails.optString("gazetteVolume", ""));
-            existing.setGazetteNumber(overallGazetteDetails.optString("gazetteNumber", ""));
+            existing.setGazetteVolume(overallGazetteDetails.optString("gazetteVolume", null));
+            existing.setExtractionSource(overallGazetteDetails.optString("extractionSource", null));
+            existing.setGazetteNumber(overallGazetteDetails.optString("gazetteNumber", null));
             try {
                 String dateStr = overallGazetteDetails.optString("gazetteDate");
                 if (dateStr != null && !dateStr.isBlank()) {
@@ -1748,17 +2079,7 @@ DATA:
             dateStr = firstItem.optString("publication_date", firstItem.optString("effective_date", ""));
         }
 
-        if (noticeNumber.isEmpty()) {
-            Pattern p = Pattern.compile("GAZETTE NOTICE NO\\.\\s*(\\d+)", Pattern.CASE_INSENSITIVE);
-            Matcher m = p.matcher(rawContent);
-            if (m.find()) {
-                noticeNumber = m.group(1);
-                log.info("Recovered missing notice number using Regex: {}", noticeNumber);
-            }
-            // Store bare digits. The AI returns "GAZETTE NOTICE NO. 13498" while the
-          // regex recovery returns "13498"; an index over both formats is useless.
-            noticeNumber = noticeNumber.replaceAll("(?i)GAZETTE\\s*NOTICE\\s*NO\\.?\\s*", "").trim();
-        }
+        noticeNumber = resolveNoticeNumber(noticeNumber, rawContent);
         existing.setNoticeNumber(noticeNumber.replace("\u0000", ""));
         existing.setSignatory(signatory.replace("\u0000", ""));
 
@@ -1767,7 +2088,8 @@ DATA:
             else if (existing.getGazetteDate() != null) existing.setPublishedDate(existing.getGazetteDate());
             else existing.setPublishedDate(LocalDate.now());
         } catch (DateTimeParseException e) {
-            existing.setPublishedDate(LocalDate.now());
+            // printed template dates: the issue's date, not today
+            existing.setPublishedDate(existing.getGazetteDate() != null ? existing.getGazetteDate() : LocalDate.now());
         }
 
         if (existing.getStatus() == ProcessingStatus.SUCCESS && existing.getSignificanceRating() >= 8) {
@@ -1796,8 +2118,9 @@ DATA:
         gazette.setOriginalPdfPath(originalPdfPath);
 
         if (overallGazetteDetails != null) {
-            gazette.setGazetteVolume(overallGazetteDetails.optString("gazetteVolume", ""));
-            gazette.setGazetteNumber(overallGazetteDetails.optString("gazetteNumber", ""));
+            gazette.setGazetteVolume(overallGazetteDetails.optString("gazetteVolume", null));
+            gazette.setExtractionSource(overallGazetteDetails.optString("extractionSource", null));
+            gazette.setGazetteNumber(overallGazetteDetails.optString("gazetteNumber", null));
             try {
                 String dateStr = overallGazetteDetails.optString("gazetteDate");
                 if (dateStr != null && !dateStr.isBlank()) {
@@ -1845,20 +2168,11 @@ DATA:
             }
         }
 
-        if (noticeNumber.isEmpty()) {
-            // Look for pattern "GAZETTE NOTICE NO. 1234" in the raw text
-            Pattern p = Pattern.compile("GAZETTE NOTICE NO\\.\\s*(\\d+)", Pattern.CASE_INSENSITIVE);
-            Matcher m = p.matcher(rawContent);
-            if (m.find()) {
-                noticeNumber = m.group(1); // Capture just the digits
-                log.info("Recovered missing notice number using Regex: {}", noticeNumber);
-            }
-            // Store bare digits. The AI returns "GAZETTE NOTICE NO. 13498" while the
-            // regex recovery returns "13498"; an index over both formats is useless.
-            noticeNumber = noticeNumber.replaceAll("(?i)GAZETTE\\s*NOTICE\\s*NO\\.?\\s*", "").trim();
-        }
-
+        noticeNumber = resolveNoticeNumber(noticeNumber, rawContent);
         gazette.setNoticeNumber(noticeNumber.replace("\u0000", ""));
+        if (gazette.getExtractedDataJson() == null && extractedData != null) {
+            gazette.setExtractedDataJson(extractedData.toString());
+        }
         gazette.setSignatory(signatory.replace("\u0000", ""));
 
         try {
@@ -1866,7 +2180,9 @@ DATA:
             else if (gazette.getGazetteDate() != null) gazette.setPublishedDate(gazette.getGazetteDate());
             else gazette.setPublishedDate(LocalDate.now());
         } catch (DateTimeParseException e) {
-            gazette.setPublishedDate(LocalDate.now());
+            // templates keep dates as printed ("28th November, 2025"): fall back
+            // to the issue's date, not today
+            gazette.setPublishedDate(gazette.getGazetteDate() != null ? gazette.getGazetteDate() : LocalDate.now());
         }
 
         // --- IMPLEMENT AUTONOMOUS POSTING ---
@@ -1889,12 +2205,15 @@ DATA:
         g.setCategory("Uncategorized");
         g.setPublishedDate(LocalDate.now());
         g.setSourceOrder(order);
+        // a failed notice still has a number: it is printed on its first line
+        g.setNoticeNumber(resolveNoticeNumber("", text));
         // Set the permanent path to the file
         g.setOriginalPdfPath(originalPdfPath);
 
         if (overallGazetteDetails != null) {
-            g.setGazetteVolume(overallGazetteDetails.optString("gazetteVolume", ""));
-            g.setGazetteNumber(overallGazetteDetails.optString("gazetteNumber", ""));
+            g.setGazetteVolume(overallGazetteDetails.optString("gazetteVolume", null));
+            g.setExtractionSource(overallGazetteDetails.optString("extractionSource", null));
+            g.setGazetteNumber(overallGazetteDetails.optString("gazetteNumber", null));
             try {
                 String dateStr = overallGazetteDetails.optString("gazetteDate");
                 if (dateStr != null && !dateStr.isBlank()) {
@@ -1960,6 +2279,13 @@ DATA:
         if (category == null) {
             log.warn("Triage failed for notice segment {}. Creating fallback.", sourceOrder);
             return createFallbackGazette(textSegment, sourceOrder, overallGazetteDetails, "Triage failed", originalPdfPath);
+        }
+
+        // rule-based template first (see processSingleNotice)
+        Object templated = templateExtract(category, textSegment, sourceOrder);
+        if (templated != null) {
+            JSONObject generated = generateNarrativeContent(forGeneration(templated), category);
+            return createGazetteFromJson(templated, generated, textSegment, category, sourceOrder, overallGazetteDetails, originalPdfPath);
         }
 
         String schemaPath = "/schemas/field/" + category.toLowerCase() + ".json";
