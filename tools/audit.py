@@ -144,6 +144,30 @@ def check_key_fields(samples):
                     '%d checked, %d unusable as a key' % (len(parcels), bad)))
     return out
 
+def check_reference_freshness():
+    """Reference watch (docs/specs/reference-watch.md): the watchers still see
+    the signs they exist for (ERROR if not), and the law copies due for a check
+    (WARN). The full corpus run: python tools/reference_watch.py"""
+    sys.path.insert(0, HERE)
+    import reference_watch as W
+    out = []
+    cases = [
+        ('a newer amendment Act is flagged', 'the Water (Amendment) Act, 2099 amends section 72 of the Water Act',
+         lambda f: any(x['watcher'] == 'law.amended_after_copy' and x['key'] == 'water_act' for x in f)),
+        ('an amendment already in our copy is not', 'the Urban Areas and Cities (Amendment) Act, 2019',
+         lambda f: not f),
+        ('a section our copy lacks is flagged', 'pursuant to section 999 of the Land Act, 2012',
+         lambda f: any(x['watcher'] == 'law.missing_section' and x['detail'] == 's.999' for x in f)),
+        ('an amending supplement is flagged', 'KENYA GAZETTE SUPPLEMENT\nAN ACT of Parliament to amend the Land Act',
+         lambda f: any(x['watcher'] == 'law.amending_supplement' and x['key'] == 'land_act' for x in f)),
+    ]
+    for label, text, ok in cases:
+        out.append(('watch: ' + label, 'ok' if ok(W.flags(text)) else 'ERROR'))
+    for f in W.old_copies():
+        out.append(('law copy due for a check: %s (text as at %s)' % (f['key'], f['detail']), 'WARN'))
+    return out
+
+
 def check_escapes():
     """Escapes lost on the way into a source file: in Java "\\s" is a regex escape
     only when written "\\\\s" - a single "\\s" compiles silently to a space (Java 15+);
@@ -567,6 +591,11 @@ if __name__ == '__main__':
 
     print('\n== 7. source escapes ==')
     for lbl, sev in check_escapes():
+        print('  %-5s %s' % (sev, lbl))
+        if sev == 'ERROR': fail += 1
+
+    print('\n== 8. reference freshness ==')
+    for lbl, sev in check_reference_freshness():
         print('  %-5s %s' % (sev, lbl))
         if sev == 'ERROR': fail += 1
 

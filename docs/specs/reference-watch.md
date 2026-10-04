@@ -1,6 +1,6 @@
 # Spec: reference watch — notice when reference data may be out of date
 
-Status: **draft for your review** (5 Oct 2026) · Phase 4b (future-proofing)
+Status: **built** (5 Oct 2026; supplements fetched, flags to the log) · Phase 4b (future-proofing)
 
 ## 1. Requirement
 
@@ -101,3 +101,29 @@ version date, so a rebuild only shows real changes in git.
    notices + your checks?
 2. **Where flags reach you before the review queue exists:** the log only,
    or also a short email when a new flag appears?
+
+## 7. As built (5 Oct 2026)
+
+Answers: supplements are fetched (the scraper sends whatever new PDFs Kenya
+Law lists; a supplement is recognised by its masthead and has no notice
+headers); flags go to the log for now.
+
+- `tools/reference_watch.py` = Java `ReferenceWatch`, parity 21,250 / 21,250
+  notices. Corpus: 4 flags - Water Act s.158 (x9), EAC Customs Management
+  Act s.248 (x2, our scan lacks it), Elections Act s.1A (x2), Universities
+  Act s.2A (x1). 0 amendment Acts newer than our copies. law.not_held: 17
+  Acts cited >= 5 times (Public Audit Act 10, ...). law.old_copy (5 years):
+  Constitution 2010, Disposal of Uncollected Goods 1987, EAC CMA 2008.
+- Found on the way: subsections with a capital letter ("(1A)", "(2D)") were
+  read as section numbers - fixed in law_refs.py and LawReferenceService.
+- `ReferenceFlag` table; `REFERENCE-WATCH` WARN line per new flag; daily
+  review 07:00 (`reference-watch.cron`) closes answered flags and logs a
+  summary; a dismissed flag stays dismissed.
+- Gazette Supplements: recognised before any AI call, watched, not
+  processed as notices (tested in the app with the County Allocation of
+  Revenue Act 2026 supplement).
+- A no-change rebuild of the library leaves the law files as they were.
+- audit.py section 8: the watchers' self-test + copies due for a check.
+- Not built yet: `geography.unknown_place` (needs ward names read from
+  county notices) and the scraper check that Kenya Law's listing includes
+  supplements (to confirm on the live site).

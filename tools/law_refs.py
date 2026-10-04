@@ -85,7 +85,7 @@ def refs(notice):
             continue                     # "Article 5 of the Treaty", an Act's own article
         if kind.startswith('s') and key == 'constitution':
             continue                     # "section 7 of the Sixth Schedule" - handled below
-        for one in re.finditer(r'(\d+[A-Z]?)((?:\s*\(\s*[0-9a-z]{1,4}\s*\))*)', m.group('list')):
+        for one in re.finditer(r'(\d+[A-Z]?)((?:\s*\(\s*[0-9a-zA-Z]{1,4}\s*\))*)', m.group('list')):
             clause = re.sub(r'\s+', '', one.group(2))
             first = re.match(r'\(\d+\)', clause)          # keep the sub-article, e.g. (2)
             add(key, one.group(1), first.group(0) if first else None)

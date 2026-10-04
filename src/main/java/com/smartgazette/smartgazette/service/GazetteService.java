@@ -95,6 +95,7 @@ public class GazetteService {
     private final ScanLaneService scanLaneService;
     private final FigureService figureService;
     private final LawReferenceService lawReferenceService;
+    private final ReferenceWatch referenceWatch;
     private final NoticeFigureRepository noticeFigureRepository;
 
 
@@ -108,7 +109,8 @@ public class GazetteService {
                           ScanLaneService scanLaneService,
                           FigureService figureService,
                           NoticeFigureRepository noticeFigureRepository,
-                          LawReferenceService lawReferenceService) {
+                          LawReferenceService lawReferenceService,
+                          ReferenceWatch referenceWatch) {
         this.gazetteRepository = gazetteRepository;
         this.iftttWebhookService = iftttWebhookService;
         this.excelExportService = excelExportService;
@@ -119,6 +121,7 @@ public class GazetteService {
         this.figureService = figureService;
         this.noticeFigureRepository = noticeFigureRepository;
         this.lawReferenceService = lawReferenceService;
+        this.referenceWatch = referenceWatch;
         this.restTemplate = new RestTemplate();
         log.info("✅ GazetteService initialized.");
     }
@@ -127,6 +130,15 @@ public class GazetteService {
     public List<Gazette> getAllGazettes() {
         return gazetteRepository.findAllWithCorrectSorting();
     }
+    /** A Kenya Gazette Supplement (Acts, Bills, Legal Notices): its masthead says so
+     *  near the top, and it carries no "GAZETTE NOTICE NO." headers. */
+    static boolean isGazetteSupplement(String text) {
+        if (text == null || text.isBlank()) return false;
+        String head = text.length() > 2000 ? text.substring(0, 2000) : text;
+        return head.toUpperCase(java.util.Locale.ROOT).replaceAll("\\s+", " ").contains("KENYA GAZETTE SUPPLEMENT")
+                && !text.contains("GAZETTE NOTICE NO");
+    }
+
     /** True while a PDF (or a retry run) is being processed - one job at a time. */
     public boolean isBusy() { return isProcessing.get(); }
 
@@ -294,6 +306,15 @@ public class GazetteService {
 
             // --- END OF CALL 0 ---
 
+            // a Kenya Gazette Supplement (Acts, Bills, Legal Notices) has no notices:
+            // it is read for changes to the laws we hold (reference watch) - before
+            // any AI call, and never turned into one giant "notice"
+            if (isGazetteSupplement(highQualityFullText)) {
+                log.info("{} is a Kenya Gazette Supplement: watched for law changes, not processed as notices.", file.getName());
+                referenceWatch.watch(List.of(highQualityFullText), originalPdfPath);
+                return;
+            }
+
             if (highQualityFullText != null && !highQualityFullText.isBlank()) {
                 // read from the cover ("Vol. CXXVIII-No. 166 ... NAIROBI, 18th
                 // September, 2026"); the AI only when the cover text lacks it
@@ -421,6 +442,8 @@ public class GazetteService {
             // figures last: the articles are saved first, and a failure here costs
             // only figures (FigureService never throws)
             saveFigures(file, originalPdfPath, figuresJson, highQualityFullText);
+            // reference watch: do the notices show that a law we hold has changed?
+            referenceWatch.watch(notices.stream().map(NoticeSegment::rawText).toList(), originalPdfPath);
             log.info("<<<< Successfully finished processing PDF file: {}", file.getName());
         } catch (Exception e) {
             log.error("Critical error during PDF processing pipeline for file: {}", file.getName(), e);

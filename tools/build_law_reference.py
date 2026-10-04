@@ -261,6 +261,15 @@ def build_pdfs(folder):
         check = d.pop('check')
         key = key_of(d['title'] or os.path.splitext(os.path.basename(f))[0])
         out = os.path.join(OUT_DIR, key + '.json')
+        # a rebuild that changes nothing keeps the file as it was (git then shows
+        # only real updates - docs/specs/reference-watch.md §3.5)
+        if os.path.exists(out):
+            old = json.load(open(out, encoding='utf-8'))
+            if old.get('version_date') == d['version_date'] and old.get('provisions') == d['provisions'] \
+                    and old.get('schedules') == d['schedules']:
+                d['retrieved'] = old.get('retrieved', d['retrieved'])
+            else:
+                print('  %s changed: version %s -> %s' % (key, old.get('version_date'), d['version_date']))
         json.dump(d, open(out, 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=1)
         catalog.append({'key': key, 'title': d['title'], 'citation': d['citation'],
                         'version_date': d['version_date'], 'source_url': d['source_url'],

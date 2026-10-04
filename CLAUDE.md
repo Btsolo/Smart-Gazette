@@ -463,6 +463,14 @@ example notices are in `reports/FINDINGS.md`.
     stored text + AI quotes checked word for word. Kenya Law forbids bulk
     downloads: the user saves the PDFs. A Java string `"\s"` (one backslash)
     instead of `"\\s"` compiles silently to a space - audit check 7.
+59. **Reference watch** (`tools/reference_watch.py` = Java `ReferenceWatch`,
+    parity 21,250): law changes arrive in Kenya Gazette Supplements, not
+    notices; the precise signals are a cited section our copy lacks and an
+    amendment Act newer than our copy. Flags (log `REFERENCE-WATCH`, table
+    `reference_flag`, daily summary) carry evidence + the exact action and
+    close themselves after a rebuild; never edit legal text automatically.
+    Supplements are recognised before any AI call and not made into notices.
+    audit section 8. "(1A)" subsections were misread as sections - fixed.
 
 ## What I want from the corpus run
 

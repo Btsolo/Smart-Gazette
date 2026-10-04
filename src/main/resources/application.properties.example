@@ -74,3 +74,12 @@ retry.max-attempts=3
 scraper.user-agent=SmartGazette/1.0 (+https://github.com/Btsolo/Smart-Gazette)
 # social posting through IFTTT (default off; ifttt.webhook.url is then not needed)
 social.posting.enabled=false
+
+# --- Reference watch (docs/specs/reference-watch.md) ---
+# signs that a law we hold has changed (a cited section our copy lacks, an amendment
+# Act newer than our copy, an amending Gazette Supplement) are logged as REFERENCE-WATCH
+# warnings and stored in the reference_flag table; a daily review closes the flags the
+# library now answers and logs a summary of open ones
+reference-watch.cron=0 0 7 * * *
+reference-watch.zone=Africa/Nairobi
+reference-watch.old-copy-years=5

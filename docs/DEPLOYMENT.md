@@ -31,6 +31,13 @@ JRE. This page lists everything the deployment depends on.
   On the first test, 3 of 4 failed notices were recovered; the fourth is a
   140,000-character notice larger than the free Groq tier's 8,000 tokens per
   minute.
+- **Law changes are noticed, not applied**: every processed gazette is
+  checked for signs that a law in the library has changed (reference watch).
+  Gazette Supplements (Acts, Bills, Legal Notices) are recognised, checked
+  and *not* turned into notices (no AI calls). Flags appear in the log as
+  `REFERENCE-WATCH` warnings (search the logs for it) and in the
+  `reference_flag` table; a daily summary at 07:00. The owner updates the law
+  (saves the new PDF and rebuilds the library); the flag then closes itself.
 - **No social posting**: `social.posting.enabled` defaults to `false`; no IFTTT
   setting is needed. (An old commit on `main` contains the owner's real IFTTT
   webhook URL; the owner should delete or regenerate it in IFTTT.)

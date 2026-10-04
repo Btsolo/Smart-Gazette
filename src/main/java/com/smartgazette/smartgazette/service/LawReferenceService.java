@@ -82,7 +82,7 @@ public class LawReferenceService {
             + "(?:\\s*(?:,|and|or|&)\\s*" + NUM + ")*)"
             + "(?<gap>[^.;]{0,60}?)\\b(?:of|under|to|in)\\s+(?<law>[^.;\\n]{0,70})",
             Pattern.CASE_INSENSITIVE);
-    private static final Pattern ONE = Pattern.compile("(\\d+[A-Z]?)((?:\\s*\\(\\s*[0-9a-z]{1,4}\\s*\\))*)");
+    private static final Pattern ONE = Pattern.compile("(\\d+[A-Z]?)((?:\\s*\\(\\s*[0-9a-zA-Z]{1,4}\\s*\\))*)");
     private static final Pattern FIRST_SUB = Pattern.compile("^\\(\\d+\\)");
     private static final Pattern SCHED = Pattern.compile(
             "\\b(?<n>First|Second|Third|Fourth|Fifth|Sixth)\\s+Schedule\\s+(?:to|of)\\s+(?<law>(?:the\\s*)?Constitution)",
@@ -91,6 +91,16 @@ public class LawReferenceService {
             "\\s*(?:the\\s+)?((?:[A-Z][A-Za-z'\\-]*\\s+){1,9}?Act)\\b");
 
     private final Map<String, JsonNode> laws = new LinkedHashMap<>();
+
+    /** A law of the library (null when we do not hold it). */
+    public JsonNode law(String key) {
+        return laws.get(key);
+    }
+
+    /** Keys of every law in the library. */
+    public List<String> lawKeys() {
+        return new ArrayList<>(laws.keySet());
+    }
 
     @PostConstruct
     void load() {
@@ -109,7 +119,7 @@ public class LawReferenceService {
         laws.put(key, doc);
     }
 
-    private static String whichLaw(String text) {
+    static String whichLaw(String text) {
         for (LawName n : LAW_NAMES) {
             if (n.pattern().matcher(text).lookingAt()) {
                 return n.key();

@@ -1574,6 +1574,42 @@ cites; and for law, an unmatched notice is better than a wrong section.
 
 ---
 
+## 31. Reference watch — noticing when the laws change (5 Oct 2026)
+
+**You asked:** when an Act is amended, the system should notice — from the
+gazettes it reads — and either update itself or ask you through the log;
+and not only for laws.
+
+**What measuring showed.** Amendments do not arrive in the ordinary notices.
+They are published as **Kenya Gazette Supplements** (separate PDFs: Acts,
+Bills, Legal Notices). In notices, keyword hits are mostly noise
+("commencement of work", a boilerplate "Revised Edition" line). Two signals
+are precise: a notice citing a section *our copy does not have*, and a notice
+citing an amendment Act *newer than our copy*.
+
+**What was built** (`tools/reference_watch.py` = Java `ReferenceWatch`,
+identical on 21,250 notices):
+- watchers raise **flags** with the evidence (the notice and sentence) and
+  the exact action ("save the current version from Kenya Law to raw/law/ and
+  run ...") — they never change a law themselves: legal text must come from
+  the publisher;
+- after you save a new version and rebuild, the flag **closes itself** (the
+  section now exists, or the copy is now newer than the amendment);
+- Gazette Supplements are recognised before any AI call, checked for
+  "AN ACT of Parliament to amend the ... Act", and not turned into notices;
+- flags go to the log (`REFERENCE-WATCH`), the `reference_flag` table and a
+  daily summary; `audit.py` section 8 checks the watchers still work.
+
+On 2022-2026 it raises 4 flags, all worth a human look (e.g. the Water Act
+s.158 cited 9 times, our copy ends at 147), and it found a resolver bug on
+the way: "(1A)" was read as a section number.
+
+**Lesson 59:** for reference data, the system's job is to notice and to
+explain, not to edit — and the best alarm is the system's own contradiction
+(a citation the library cannot answer).
+
+---
+
 ## Glossary
 
 - **Text layer** — the text embedded in a PDF (exact for born-digital PDFs; a hidden OCR guess for scans).
