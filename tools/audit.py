@@ -159,7 +159,7 @@ def check_escapes():
             lit, i = m.group(0), 0
             while i < len(lit):
                 if lit[i] == bs:
-                    if i + 1 < len(lit) and lit[i + 1] in 'sdwSDW':
+                    if i + 1 < len(lit) and lit[i + 1] in 'sdwbSDWB':
                         out.append(('%s:%d single-backslash regex escape %s' % (os.path.relpath(f, REPO),
                                     s[:m.start()].count('\n') + 1, lit[:60]), 'ERROR'))
                     i += 2

@@ -1,6 +1,6 @@
 # Spec: law library — the laws notices cite, stored, linked and quoted
 
-Status: **decisions made** (4 Oct 2026: all Acts wanted, first batch 40, template sentence + checked AI quotes, current version with its date) · source access pending · Phase 4d
+Status: **first batch built** (4-5 Oct 2026: 40 Acts saved by hand from Kenya Law, see §8) · Phase 4d
 
 ## 1. Requirement
 
@@ -145,3 +145,43 @@ Answered 4 Oct 2026: all Acts (first batch: the top 40 by citations); both
 the template sentence and checked AI quotes; the current version with its
 date. Open: how the source pages are obtained (§3.5) — bulk access from
 Kenya Law / Laws.Africa, or hand-saved pages for the first 40.
+
+## 8. As built (first batch, 4-5 Oct 2026)
+
+- **Source:** the 40 Acts' PDFs, saved by hand from Kenya Law into `raw/law/`.
+  `tools/law_pdf.py` reads Kenya Law's edition (sections found in the order
+  the Contents lists them; version date and source from the PDF) and the
+  older Government Printer layout. 39 Acts complete; the scanned EAC Customs
+  Management Act 215 of 225 sections.
+- **Library:** `src/main/resources/reference/<key>.json` (42 laws, 13 MB) and
+  the catalog `reference/laws.json` (titles, citations, version dates, the
+  name patterns notices print). Built by `python tools/build_law_reference.py
+  pdfs raw/law`.
+- **Resolver** (`law_refs.py` = Java `LawReferenceService`, parity
+  21,250/21,250): `laws_for` / `lawsFor` = cited provisions + the implied
+  section (`reference/implied.json`) + Acts named in the heading.
+
+| | before | after |
+|---|---|---|
+| notices whose citations resolve to stored text | 398 | 1,682 |
+| notices with at least one law link | 1,682 | 11,297 |
+| Land Registration Act notices with their section | 0 | 8,175 of 8,636 |
+
+- **Implied sections** (each checked against the section's text; a random
+  sample of 30 notices: 30 right): Land Registration Act s.33(3) lost
+  certificate 5,620, s.33(5) lost register 1,345, s.31(1) dispensing with
+  production of the title 1,210. Not mapped: notices about a lost **grant**
+  (older titles) - s.33 speaks of certificates of title / lease; left as an
+  Act link until checked.
+- **Article:** the prompt gets LAW CONTEXT (at most two provisions, 1,200
+  characters); every stored article passes `withLaw`: a sentence with a
+  quotation that is not word for word in the law or the notice is removed,
+  and the fixed sentence "This notice is issued under section ... which
+  provides: "..." (Kenya Law, text as at ...)" is added.
+- **Page:** the tab is "Laws (N)": cited, implied (labelled "the section this
+  kind of notice is issued under") and Act links, each with its version date
+  and a Kenya Law link.
+- **Next:** more Acts from `python tools/law_refs.py` "add next" (Teachers
+  Service Commission, Kenya Accreditation Service, Valuers, Kenya Roads,
+  Public Audit ...); implied sections for other Acts' notice kinds; the Water
+  Act s.158 citations (probably the 2002 Act).

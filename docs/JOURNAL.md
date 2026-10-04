@@ -1527,6 +1527,53 @@ last place you can see the symptom.
 
 ---
 
+## 30. The law library — what each notice rests on (4–5 Oct 2026)
+
+**You asked:** keep the laws notices refer to in the system, like the
+counties, and let the article quote and explain them.
+
+**First, how notices use laws.** Only 7.6% cite a section ("section 36 of
+the Universities Act"). Almost half name an Act only in their heading —
+8,614 of them the Land Registration Act. So most of the value is not in
+parsing citations but in knowing *which section a kind of notice is issued
+under*.
+
+**Getting the laws.** Kenya Law's terms forbid bulk downloading, so you saved
+the 40 most-named Acts yourself (thank you). They came as PDFs, not the web
+pages the builder read, so a PDF reader was built (`tools/law_pdf.py`): the
+Contents page lists every section number and title in order, so each section
+is found by looking for the *next expected* heading — never by guessing from
+any line that starts with a number. 39 Acts came out complete (the Companies
+Act alone has 1,033 sections); the one scanned edition (EAC Customs
+Management Act) 215 of 225. Each file keeps its "text as at" date.
+
+**Which section a notice is issued under.** Reading the notices next to the
+Act made it exact: a lost title deed → s.33(3) (Gazette notice, sixty days);
+a lost register / green card → s.33(5); "I intend to dispense with the
+production of the title" → s.31(1). These are rules in a data file
+(`reference/implied.json`), each written down with the words of the section
+that justify it. A random check of 30 notices: 30 right. Notices about a
+lost *grant* (an older kind of title) were left alone — s.33 speaks of
+certificates, and a guess about the law is worse than no link.
+
+**Results:** notices with a law link 1,682 → 11,297; the "Laws" tab labels
+each link honestly (cited / "the section this kind of notice is issued
+under" / named in the notice) with its version date and a Kenya Law link.
+The article ends with a fixed sentence quoting the law from the stored text,
+and an AI may explain the law only within LAW CONTEXT — any quotation it
+writes is checked word for word and removed if it is not in the law.
+
+**Found on the way:** a Java string written `"\s*"` (one backslash) instead of `"\\s*"`
+compiles without complaint — since Java 15 `\s` means a space — and the
+resolver silently matched nothing. The Python-vs-Java parity run caught it
+(19,577 of 21,250 identical → fixed → 21,250). `audit.py` now scans every
+Java string for single-backslash regex escapes (`\s \d \w \b`).
+
+**Lesson 58:** most of the meaning is in the *kind* of notice, not in what it
+cites; and for law, an unmatched notice is better than a wrong section.
+
+---
+
 ## Glossary
 
 - **Text layer** — the text embedded in a PDF (exact for born-digital PDFs; a hidden OCR guess for scans).

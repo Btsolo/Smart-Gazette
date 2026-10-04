@@ -98,6 +98,71 @@ def refs(notice):
     return out
 
 
+# where a notice's heading ends: its first operative words
+RE_HEAD_END = re.compile(r'\b(?:WHEREAS|IN EXERCISE|PURSUANT|NOTICE is|TAKE NOTICE|IT IS NOTIFIED|IN PURSUANCE)\b')
+_implied = None
+
+
+def implied_rules():
+    global _implied
+    if _implied is None:
+        doc = json.load(open(os.path.join(REF, 'implied.json'), encoding='utf-8'))
+        _implied = [dict(r, _heading=re.compile(r['heading'], re.I), _text=re.compile(r['text'], re.I))
+                    for r in doc['rules']]
+    return _implied
+
+
+def heading_of(notice):
+    m = RE_HEAD_END.search(notice[:600])
+    return notice[:m.start()] if m else notice[:400]
+
+
+def heading_laws(notice):
+    """keys of the laws named in the notice's heading, in order; a shorter name
+    inside a longer one already matched is not counted"""
+    head, spans, found = heading_of(notice), [], []
+    for key, pat in LAW_NAMES:                       # longest first
+        for m in re.finditer(pat + r'\b', head, re.I):
+            if any(a < m.end() and m.start() < b for a, b in spans):
+                continue
+            spans.append((m.start(), m.end()))
+            found.append((m.start(), key))
+    out = []
+    for _, key in sorted(found):
+        if key not in out:
+            out.append(key)
+    return out
+
+
+def laws_for(notice):
+    """Everything the notice rests on, for the 'Laws Cited' tab and the article:
+      kind 'cited'   - a provision the notice cites (refs)
+      kind 'implied' - the section this kind of notice is issued under, when the
+                       heading names the Act and no section of it is cited
+                       (reference/implied.json)
+      kind 'act'     - a law named in the heading with nothing more specific"""
+    out = [dict(r, kind='cited') for r in refs(notice)]
+    cited = {r['law'] for r in out}
+    named = heading_laws(notice)
+    for rule in implied_rules():
+        if rule['law'] in named and rule['law'] not in cited and rule['_heading'].search(heading_of(notice)) \
+                and rule['_text'].search(notice):
+            doc = law(rule['law'])
+            prov = doc['provisions'].get(rule['section']) if doc else None
+            out.append({'law': rule['law'], 'provision': rule['section'], 'clause': rule['clause'],
+                        'label': 'section ' + rule['section'] + (rule['clause'] or ''),
+                        'title': prov['title'] if prov else None, 'found': prov is not None, 'kind': 'implied'})
+            cited.add(rule['law'])
+            break
+    for key in named:
+        if key not in cited:
+            doc = law(key)
+            out.append({'law': key, 'provision': None, 'clause': None, 'label': doc['title'] if doc else key,
+                        'title': doc.get('citation') if doc else None, 'found': doc is not None, 'kind': 'act'})
+            cited.add(key)
+    return out
+
+
 def provision_text(key, num, clause=None):
     """The text to display: the whole provision, or one clause of it."""
     doc = law(key)

@@ -96,8 +96,9 @@ public class GazetteController {
 
         if (g == null) return "redirect:/";
         model.addAttribute("gazette", g);
-        // the Constitution / Act provisions the notice cites, shown beside it
-        model.addAttribute("lawRefs", lawReferenceService.refs(g.getContent()));
+        // the laws the notice rests on: provisions it cites, the section its kind of
+        // notice is issued under, and the Acts its heading names (law library)
+        model.addAttribute("lawRefs", lawReferenceService.lawsFor(g.getContent()));
         // the notice's tables as rows and columns (fix 8: table lane cells)
         model.addAttribute("tables", g.getContent() == null ? java.util.List.of()
                 : com.smartgazette.smartgazette.service.TableExtractor.tables(g.getContent()));

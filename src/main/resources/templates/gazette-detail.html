@@ -136,7 +136,7 @@
                             <button class="tab-button" data-tab="figures" th:if="${!mainFigures.isEmpty() or !otherFigures.isEmpty()}"
                                     th:text="'Figures (' + ${mainFigures.size() + otherFigures.size()} + ')'">Figures</button>
                             <button class="tab-button" data-tab="laws" th:if="${lawRefs != null and !lawRefs.isEmpty()}"
-                                    th:text="'Laws Cited (' + ${lawRefs.size()} + ')'">Laws Cited</button>
+                                    th:text="'Laws (' + ${lawRefs.size()} + ')'">Laws</button>
                         </nav>
                     </div>
 
@@ -221,20 +221,37 @@
 
                         <div id="tab-laws" class="tab-content" th:if="${lawRefs != null and !lawRefs.isEmpty()}">
                             <p class="text-sm text-gray-600 dark:text-gray-400 mb-4">
-                                The provisions this notice relies on, as published by Kenya Law. Select one to read it.
+                                The laws this notice rests on, as published by Kenya Law. Select one to read it.
                             </p>
                             <details th:each="ref : ${lawRefs}" class="mb-3 rounded-md border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
                                 <summary class="cursor-pointer px-4 py-3 font-semibold text-gray-900 dark:text-white">
-                                    <span th:text="${ref.label()}">Article 179(2)</span>
-                                    <span class="font-normal text-gray-600 dark:text-gray-400"> of the </span>
-                                    <span class="font-normal text-gray-600 dark:text-gray-400" th:text="${ref.lawTitle()}">Constitution of Kenya</span>
-                                    <span class="font-normal text-gray-500 dark:text-gray-400" th:if="${ref.title() != null}" th:text="' - ' + ${ref.title()}"></span>
+                                    <th:block th:unless="${ref.isAct()}">
+                                        <span th:text="${ref.label()}">Article 179(2)</span>
+                                        <span class="font-normal text-gray-600 dark:text-gray-400"> of the </span>
+                                        <span class="font-normal text-gray-600 dark:text-gray-400" th:text="${ref.lawTitle()}">Constitution of Kenya</span>
+                                        <span class="font-normal text-gray-500 dark:text-gray-400" th:if="${ref.title() != null}" th:text="' - ' + ${ref.title()}"></span>
+                                    </th:block>
+                                    <th:block th:if="${ref.isAct()}">
+                                        <span th:text="${ref.lawTitle()}">Land Act</span>
+                                        <span class="font-normal text-gray-500 dark:text-gray-400" th:if="${ref.title() != null}" th:text="' (' + ${ref.title()} + ')'"></span>
+                                    </th:block>
+                                    <span th:if="${ref.isImplied()}" class="ml-2 text-xs font-normal rounded bg-blue-50 dark:bg-blue-900/40 text-blue-700 dark:text-blue-200 px-2 py-0.5">the section this kind of notice is issued under</span>
+                                    <span th:if="${ref.isAct()}" class="ml-2 text-xs font-normal rounded bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 px-2 py-0.5">named in the notice</span>
                                 </summary>
                                 <div class="px-4 pb-4 text-sm text-gray-800 dark:text-gray-200 leading-relaxed preserve-lines"
-                                     th:if="${ref.found()}" th:text="${ref.text()}"></div>
+                                     th:if="${ref.found() and ref.text() != null}" th:text="${ref.text()}"></div>
+                                <div class="px-4 pb-4 text-sm text-gray-600 dark:text-gray-400" th:if="${ref.isAct() and ref.found()}">
+                                    The notice is issued under this Act; it does not cite a particular section.
+                                </div>
                                 <div class="px-4 pb-4 text-sm italic text-gray-500 dark:text-gray-400" th:unless="${ref.found()}">
                                     The text of this law is not in Smart Gazette yet.
                                 </div>
+                                <p class="px-4 pb-3 text-xs text-gray-500 dark:text-gray-400" th:if="${ref.found() and ref.versionDate() != null}">
+                                    <span th:text="'Text as at ' + ${ref.versionDate()}">Text as at 2022-12-31</span>
+                                    <th:block th:if="${ref.sourceUrl() != null}"> &middot;
+                                        <a th:href="${ref.sourceUrl()}" target="_blank" rel="noopener" class="underline">Kenya Law</a> (check for later amendments)
+                                    </th:block>
+                                </p>
                             </details>
                         </div>
                     </div>

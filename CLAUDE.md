@@ -453,6 +453,16 @@ example notices are in `reports/FINDINGS.md`.
     (`tools/fetch_ocr_models.py`) checked against the model's output size.
     Models in `models/ppocr` (gitignored). The app must point
     `extraction.inspector.script` at `tools/inspect_positions.js`.
+58. **Law library** (`tools/law_pdf.py` + `build_law_reference.py pdfs raw/law`;
+    `law_refs.laws_for` = Java `LawReferenceService.lawsFor`, parity 21,250):
+    42 laws as reference data + catalog `reference/laws.json` (names = data).
+    7.6% of notices cite a section, ~46% name an Act only in the heading, so
+    the kind of notice decides the section (`reference/implied.json`, each rule
+    checked against the section's words; LRA s.33(3)/(5), s.31(1): 8,175 of
+    8,636). Law links 1,682 -> 11,297 notices. Articles: fixed sentence quoting
+    stored text + AI quotes checked word for word. Kenya Law forbids bulk
+    downloads: the user saves the PDFs. A Java string `"\s"` (one backslash)
+    instead of `"\\s"` compiles silently to a space - audit check 7.
 
 ## What I want from the corpus run
 

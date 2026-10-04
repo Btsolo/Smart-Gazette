@@ -94,6 +94,7 @@ public class GazetteService {
     private final GeographyService geographyService;
     private final ScanLaneService scanLaneService;
     private final FigureService figureService;
+    private final LawReferenceService lawReferenceService;
     private final NoticeFigureRepository noticeFigureRepository;
 
 
@@ -106,7 +107,8 @@ public class GazetteService {
                           GeographyService geographyService,
                           ScanLaneService scanLaneService,
                           FigureService figureService,
-                          NoticeFigureRepository noticeFigureRepository) {
+                          NoticeFigureRepository noticeFigureRepository,
+                          LawReferenceService lawReferenceService) {
         this.gazetteRepository = gazetteRepository;
         this.iftttWebhookService = iftttWebhookService;
         this.excelExportService = excelExportService;
@@ -116,6 +118,7 @@ public class GazetteService {
         this.scanLaneService = scanLaneService;
         this.figureService = figureService;
         this.noticeFigureRepository = noticeFigureRepository;
+        this.lawReferenceService = lawReferenceService;
         this.restTemplate = new RestTemplate();
         log.info("✅ GazetteService initialized.");
     }
@@ -748,7 +751,7 @@ TEXT:
         checkpoint.setCategory(category);
         Gazette saved = gazetteRepository.save(checkpoint);
 
-        JSONObject generatedContent = generateNarrativeContent(extractedData, category);
+        JSONObject generatedContent = generateNarrativeContent(extractedData, category, segment.rawText());
 
         if (generatedContent == null) {
             log.error("Generation step failed for notice segment {}. Saving with extracted data only.", sourceOrder);
@@ -820,7 +823,7 @@ TEXT:
             try {
                 if (perCause != null) {
                     Object extracted = perCause.get(i);
-                    JSONObject generated = generateNarrativeContent(extracted, knownCategory);
+                    JSONObject generated = generateNarrativeContent(extracted, knownCategory, caseText);
                     gazette = createGazetteFromJson(extracted, generated, caseText, knownCategory, sourceOrder,
                             overallGazetteDetails, originalPdfPath);
                 } else {
@@ -1193,6 +1196,27 @@ TEXT:
 
 
     private JSONObject generateNarrativeContent(Object extractedData, String category) {
+        return generateNarrativeContent(extractedData, category, null);
+    }
+
+    /**
+     * The article call. With the notice text, the law it rests on (law library:
+     * cited or implied section, exact text) is given as LAW CONTEXT: the article
+     * may explain it in plain words; any quotation is later checked word for
+     * word (LawReferenceService.withLaw) and the fixed law sentence is added.
+     */
+    private JSONObject generateNarrativeContent(Object extractedData, String category, String noticeText) {
+        String lawContext = noticeText == null ? "" : LawReferenceService.lawContext(lawReferenceService.lawsFor(noticeText), 1200);
+        String lawPart = lawContext.isEmpty() ? "" : """
+
+LAW CONTEXT (the law this notice rests on, exact text from Kenya Law):
+%s
+
+LAW RULES:
+- In paragraph 2 you may add one or two plain sentences on what this law requires.
+- If you quote the law, copy the words exactly from LAW CONTEXT inside quotation marks and name the section.
+- Never say anything about the law that is not in LAW CONTEXT.
+""".formatted(lawContext);
         String generationPrompt = """
 TASK: Fill the output template below using only the data provided. Do not add information not present in the data.
 
@@ -1216,7 +1240,7 @@ RULES:
 
 DATA:
 %s
-""".formatted(extractedData.toString());
+""".formatted(extractedData.toString()) + lawPart;
 
         log.info("Attempting Generation for category {}...", category);
 
@@ -1642,7 +1666,7 @@ DATA:
         checkpoint.setExtractedDataJson(extractedData.toString());
         checkpoint.setCategory(category);
         Gazette saved = gazetteRepository.save(checkpoint);
-        JSONObject generatedContent = generateNarrativeContent(forGeneration(extractedData), category);
+        JSONObject generatedContent = generateNarrativeContent(forGeneration(extractedData), category, rawText);
         if (generatedContent == null) {
             log.error("Generation step failed for notice segment {}. Saving with extracted data only.", sourceOrder);
         }
@@ -1921,7 +1945,7 @@ DATA:
                     if (stored != null) {
                         resumed++;
                         log.info("Retry notice #{} ({}): extraction stored - writing the article again.", notice.getId(), notice.getNoticeNumber());
-                        JSONObject generated = generateNarrativeContent(forGeneration(stored), notice.getCategory());
+                        JSONObject generated = generateNarrativeContent(forGeneration(stored), notice.getCategory(), notice.getContent());
                         result = createGazetteFromJson(notice, stored, generated, notice.getContent(), notice.getCategory(),
                                 notice.getSourceOrder() == null ? 0 : notice.getSourceOrder(), detailsOf(notice), notice.getOriginalPdfPath());
                         result = gazetteRepository.save(result);
@@ -2055,7 +2079,8 @@ DATA:
             existing.setProcessingStage(ProcessingStage.GENERATED);
             existing.setTitle(generatedContent.optString("title", "Untitled Notice").replace("\u0000", ""));
             existing.setSummary(generatedContent.optString("summary", "No summary provided.").replace("\u0000", ""));
-            existing.setArticle(generatedContent.optString("article", extractedData.toString()).replace("\u0000", ""));
+            existing.setArticle(lawReferenceService.withLaw(
+                    generatedContent.optString("article", extractedData.toString()).replace("\u0000", ""), rawContent));
             existing.setXSummary(generatedContent.optString("xSummary", "").replace("\u0000", ""));
             existing.setActionableInfo(generatedContent.optString("actionableInfo", "").replace("\u0000", ""));
             existing.setSignificanceRating(generatedContent.optInt("significance", 3));
@@ -2137,7 +2162,8 @@ DATA:
             gazette.setStatus(ProcessingStatus.SUCCESS);
             gazette.setTitle(generatedContent.optString("title", "Untitled Notice").replace("\u0000", ""));
             gazette.setSummary(generatedContent.optString("summary", "No summary provided.").replace("\u0000", ""));
-            gazette.setArticle(generatedContent.optString("article", extractedData.toString()).replace("\u0000", ""));
+            gazette.setArticle(lawReferenceService.withLaw(
+                    generatedContent.optString("article", extractedData.toString()).replace("\u0000", ""), rawContent));
             gazette.setXSummary(generatedContent.optString("xSummary", "").replace("\u0000", ""));
             gazette.setActionableInfo(generatedContent.optString("actionableInfo", "").replace("\u0000", ""));
             gazette.setSignificanceRating(generatedContent.optInt("significance", 3));
@@ -2284,7 +2310,7 @@ DATA:
         // rule-based template first (see processSingleNotice)
         Object templated = templateExtract(category, textSegment, sourceOrder);
         if (templated != null) {
-            JSONObject generated = generateNarrativeContent(forGeneration(templated), category);
+            JSONObject generated = generateNarrativeContent(forGeneration(templated), category, textSegment);
             return createGazetteFromJson(templated, generated, textSegment, category, sourceOrder, overallGazetteDetails, originalPdfPath);
         }
 
@@ -2333,7 +2359,7 @@ DATA:
             return createFallbackGazette(textSegment, sourceOrder, overallGazetteDetails, "Extraction failed: 'items' was null or empty", originalPdfPath);
         }
 
-        JSONObject generatedContent = generateNarrativeContent(extractedData, category);
+        JSONObject generatedContent = generateNarrativeContent(extractedData, category, textSegment);
         return createGazetteFromJson(extractedData, generatedContent, textSegment, category, sourceOrder, overallGazetteDetails, originalPdfPath);
     }
 

@@ -1,0 +1,29 @@
+{
+ "note": "The section a kind of notice is issued under when the notice names the Act but cites no section (docs/specs/law-library.md). Each rule was checked against the section's text before it was added; rules are tried in order and the first match wins. Shown as 'the section this kind of notice is issued under', never as a citation. tools/law_refs.py = Java LawReferenceService.",
+ "rules": [
+  {
+   "law": "land_registration_act",
+   "section": "31",
+   "clause": "(1)",
+   "heading": "LAND\\s*REGISTRATION\\s*ACT",
+   "text": "dispens\\w*\\s*(?:with\\s*)?(?:the\\s*)?production",
+   "why": "The Registrar announces that production of the title will be dispensed with; s. 31(1): the certificate is produced on registration 'unless ... the Registrar dispenses with its production'. Checked 4 Oct 2026."
+  },
+  {
+   "law": "land_registration_act",
+   "section": "33",
+   "clause": "(5)",
+   "heading": "LAND\\s*REGISTRATION\\s*ACT",
+   "text": "(?:green\\s*card|land\\s*register|register)\\b[^.]{0,160}?\\b(?:lost|destroyed)|reconstruct\\w*\\s*(?:of\\s*)?(?:a\\s*|the\\s*)?(?:lost|destroyed|new)?\\s*(?:or\\s*destroyed\\s*)?(?:land\\s*register|green\\s*card)",
+   "why": "A lost or destroyed land register (green card) is reconstructed / a new one opened after notice; s. 33(5): the Registrar may reconstruct a lost or destroyed land register after sixty days' notice in the Gazette. Checked 4 Oct 2026."
+  },
+  {
+   "law": "land_registration_act",
+   "section": "33",
+   "clause": "(3)",
+   "heading": "LAND\\s*REGISTRATION\\s*ACT",
+   "text": "(?:title\\s*deed|certificate\\s*of\\s*(?:title|lease)|land\\s*certificate|\\blease\\b|\\btitle\\b)[^.]{0,160}?\\b(?:lost|destroyed)",
+   "why": "A lost or destroyed title deed / certificate of title or lease is replaced (new, replacement or provisional certificate) after notice; s. 33(1)-(3): replacement after Gazette notice and sixty days. Checked 4 Oct 2026."
+  }
+ ]
+}
