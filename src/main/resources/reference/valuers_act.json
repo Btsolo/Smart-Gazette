@@ -1,0 +1,520 @@
+{
+ "title": "Valuers Act",
+ "citation": "Cap. 532",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1984/16/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-04",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "VALUERS ACT CAP. 532 Published in Kenya Gazette Vol. LXXXVI—No. 53 on 21 December 1984 Assented to on 13 December 1984 Commenced on 9 April 1985 by Valuers Act Commencement\n[Amended by Statute Law (Miscellaneous Amendments) Act, 1989 (Act No. 20 of 1989) on 29 December 1989] [Amended by Statute Law (Miscellaneous Amendments) Act.(No.2), 1990 (Act No. 21 of 1990) on 18 January 1990]\n[Amended by Statute Law (Repealed and Miscellaneous Amendments) Act, 1990 (Act No. 7 of 1990) on 22 June 1990] [Amended by Statute Law (Miscellaneous Amendments) Act, 1992 (Act No. 11 of 1992) on 23 October 1992] [Amended by Finance Act, 2000 (Act No. 9 of 2000) on 1 January 2001] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to provide for the registration of valuers and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ESTABLISHMENT OF THE BOARD",
+   "provisions": [
+    "3",
+    "4"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "THE REGISTRAR AND THE REGISTER",
+   "provisions": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "8A",
+    "8B",
+    "9",
+    "10",
+    "11"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "REGISTRATION",
+   "provisions": [
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Valuers Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— \"Board\" means the Valuers Registration Board established by section 3; \"practising valuer\" means a person who carries out and prepares valuations in respect of any type of movable or immovable property; \"register\" means the register kept under section 6; \"registered valuer\" means a person whose name is for the time being entered on the register; \"registrar\" means the registrar of the Board appointed under section 5.",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE BOARD",
+   "text": "(1) There is hereby established a Board, to be known as the Valuers Registration Board, which shall have the responsibility of regulating the activities and conduct of registered valuers in accordance with the provisions of this Act.\n(2) The Board shall—\n  (a) be a body corporate with perpetual succession and a common seal;\n  (b) in its corporate name be capable of suing and being sued;\n  (c) be capable, for and in connection with the carrying out of the purposes of this Act, of acquiring, holding and disposing of movable and immovable property.\n(3) The provisions of the Schedule shall have effect in relation to the Board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is hereby established a Board, to be known as the Valuers Registration Board, which shall have the responsibility of regulating the activities and conduct of registered valuers in accordance with the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall— (a) be a body corporate with perpetual succession and a common seal; (b) in its corporate name be capable of suing and being sued; (c) be capable, for and in connection with the carrying out of the purposes of this Act, of acquiring, holding and disposing of movable and immovable property."
+    },
+    {
+     "ref": "(3)",
+     "text": "The provisions of the Schedule shall have effect in relation to the Board."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Limitation of liability of members of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE BOARD",
+   "text": "No member of the Board shall be personally liable for any act or default of the Board done or omitted to be done in good faith in the course of carrying out the responsibilities and functions of, or exercising the powers conferred upon, the Board.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Appointment of registrar",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE REGISTRAR AND THE REGISTER",
+   "text": "The Cabinet Secretary shall appoint a public officer as the registrar of the Board who shall hold and vacate his office in accordance with the terms of his appointment.",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Register of valuers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE REGISTRAR AND THE REGISTER",
+   "text": "(1) The registrar shall keep and maintain a register in which the name of every person entitled to have his name entered therein shall be entered after his being accepted by the Board for registration under this Act showing against the name—\n  (a) the date of the entry in the register;\n  (b) the address of the person registered;\n  (c) the qualifications of the person; and\n  (d) such other particulars as the Board may from time to time direct.\n(2) All changes in the particulars registered under subsection (1) shall be entered on the register by the registrar.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The registrar shall keep and maintain a register in which the name of every person entitled to have his name entered therein shall be entered after his being accepted by the Board for registration under this Act showing against the name—"
+    },
+    {
+     "ref": "(2)",
+     "text": "All changes in the particulars registered under subsection (1) shall be entered on the register by the registrar."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Certificate of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE REGISTRAR AND THE REGISTER",
+   "text": "(1) Where the name of a person has been entered in the register the registrar shall issue to him a certificate of registration in the prescribed form and the certificate shall remain the property of the Board.\n(2) Where the name of a person has been removed from the register, the Board shall give notice to that person, or if he is dead to his legal personal representative, requiring the certificate of registration to be surrendered to the Board.\n(3) A person who fails to comply with the requirements of a notice given under subsection (2) within twenty-one days after the receipt by him of that notice shall be guilty of an offence and liable to a fine not exceeding five thousand shillings.\n(4) A certificate of registration issued by the registrar shall be valid and shall remain in force for one year, but shall be renewable on the payment of the prescribed fee; and if the prescribed fee has been paid before the renewal date and there is no order for the name of the holder of the certificate to be removed from the register, the certificate shall remain in force until it is again due for renewal.\n(5) In event of the certificate of registration being lost or destroyed and the loss or destruction being proved to the satisfaction of the Board, the registrar shall issue a duplicate of the certificate to the registered valuer on payment of the prescribed fee.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the name of a person has been entered in the register the registrar shall issue to him a certificate of registration in the prescribed form and the certificate shall remain the property of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the name of a person has been removed from the register, the Board shall give notice to that person, or if he is dead to his legal personal representative, requiring the certificate of registration to be surrendered to the Board."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who fails to comply with the requirements of a notice given under subsection (2) within twenty-one days after the receipt by him of that notice shall be guilty of an offence and liable to a fine not exceeding five thousand shillings."
+    },
+    {
+     "ref": "(4)",
+     "text": "A certificate of registration issued by the registrar shall be valid and shall remain in force for one year, but shall be renewable on the payment of the prescribed fee; and if the prescribed fee has been paid before the renewal date and there is no order for the name of the holder of the certificate to be removed from the register, the certificate shall remain in force until it is again due for renewal."
+    },
+    {
+     "ref": "(5)",
+     "text": "In event of the certificate of registration being lost or destroyed and the loss or destruction being proved to the satisfaction of the Board, the registrar shall issue a duplicate of the certificate to the registered valuer on payment of the prescribed fee."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Publication of register and list",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE REGISTRAR AND THE REGISTER",
+   "text": "(1) The registrar shall cause to be published in the Gazette, as soon as may be practicable after entry in the register, the name, address and qualification of each registered valuer and, subject to the directions of the Board, he may cause to be so published any amendments to the register.\n(2) The registrar shall cause to be published in the Gazette at the beginning of each year a list containing the names, addresses and qualifications of all registered valuers then appearing on the register.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The registrar shall cause to be published in the Gazette, as soon as may be practicable after entry in the register, the name, address and qualification of each registered valuer and, subject to the directions of the Board, he may cause to be so published any amendments to the register."
+    },
+    {
+     "ref": "(2)",
+     "text": "The registrar shall cause to be published in the Gazette at the beginning of each year a list containing the names, addresses and qualifications of all registered valuers then appearing on the register."
+    }
+   ]
+  },
+  "8A": {
+   "num": "8A",
+   "title": "[Deleted by Act No. 9 of 2000, s. 119.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE REGISTRAR AND THE REGISTER",
+   "text": "",
+   "clauses": []
+  },
+  "8B": {
+   "num": "8B",
+   "title": "Licensing of dual occupations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE REGISTRAR AND THE REGISTER",
+   "text": "(1) Where any person to whom section 8A applies carries on more than one professional occupation at the same time such person shall elect in writing which of such occupations shall be deemed to be his primary occupation.\n(2) A person to whom subsection (1) applies shall only be required to obtain an annual licence in respect of his primary occupation to the intent that no such person shall obtain more than one annual licence in any one year.\n[Act No. 7 of 1990, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where any person to whom section 8A applies carries on more than one professional occupation at the same time such person shall elect in writing which of such occupations shall be deemed to be his primary occupation."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person to whom subsection (1) applies shall only be required to obtain an annual licence in respect of his primary occupation to the intent that no such person shall obtain more than one annual licence in any one year."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Publication prima facie evidence of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE REGISTRAR AND THE REGISTER",
+   "text": "Publication under section 8 shall be prima facie evidence that the persons named therein are registered valuers and the deletion from the register of the name of any person notified by the publication, or the absence of the name of any person from the publication, shall be prima facie evidence that the person is not registered.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Inspection of register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE REGISTRAR AND THE REGISTER",
+   "text": "Any person may, during normal office hours and on payment of the prescribed fee, inspect the register or any document relating to an entry in the register and may obtain from the registrar a copy of or an extract from the register or of or from any such document.",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Proof of documents",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE REGISTRAR AND THE REGISTER",
+   "text": "(1) In any legal proceedings a document purporting to be a copy of, or an extract from the register or of or from any document kept or published by the registrar, shall be admissible as prima facie evidence of the contents of the register or document.\n(2) The registrar shall not, in any legal proceedings to which he is not a party, be compelled—\n  (a) to produce the register or any document if its contents can be proved under subsection (1); or\n  (b) to appear as witness to prove an entry in the register or the matters recorded in the register or any document, unless the court for special cause so orders.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In any legal proceedings a document purporting to be a copy of, or an extract from the register or of or from any document kept or published by the registrar, shall be admissible as prima facie evidence of the contents of the register or document."
+    },
+    {
+     "ref": "(2)",
+     "text": "The registrar shall not, in any legal proceedings to which he is not a party, be compelled—"
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Conditions and qualifications for registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGISTRATION",
+   "text": "(1) Subject to this Act, a person shall be entitled, on making an application to the Board in the prescribed form and on the payment of the prescribed fee, to be registered under this Act and to have his name entered in the register if he is—\n  (a) a full member of the Institution of Surveyors of Kenya (Chapter of Valuation and Estate Management Surveyors); or\n  (b) a corporate member of the Royal Institution of Chartered Surveyors (in the General Practice or Land Agency or Agriculture Sections) and he is qualified to be or is a full member of the Institution of Surveyors of Kenya (Chapter of Valuation and Estate Management Surveyors); or\n  (c) the holder of a degree or diploma from any university or college which is recognised for the time being by the Board and qualifies him to be a full member of the Institution of Surveyors of Kenya (Chapter of Valuation and Estate Management Surveyors).\n(2) Notwithstanding the fact that he has sufficient qualifications under subsection (1), the Board may require an applicant for registration under this Act as a valuer to satisfy it of the fact that his professional and general conduct has been such that, in the opinion of the Board, he is a fit and proper person to be registered under this Act and the Board may direct the registrar to postpone the registration of an applicant until it is so satisfied.\n[Act No. 11 of 1992, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this Act, a person shall be entitled, on making an application to the Board in the prescribed form and on the payment of the prescribed fee, to be registered under this Act and to have his name entered in the register if he is—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding the fact that he has sufficient qualifications under subsection (1), the Board may require an applicant for registration under this Act as a valuer to satisfy it of the fact that his professional and general conduct has been such that, in the opinion of the Board, he is a fit and proper person to be registered under this Act and the Board may direct the registrar to postpone the registration of an applicant until it is so satisfied."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Acceptance for registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGISTRATION",
+   "text": "(1) Upon application being made to the Board in the prescribed form by a person claiming to be qualified under section 12 and upon payment of the prescribed fee the Board shall consider the application and if it is satisfied that the person is so qualified it shall accept that person for registration and shall direct the registrar to enter the name of the person on the register.\n(2) The consideration of an application under this section shall be undertaken by the Board and shall not be delegated to any committee of the Board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Upon application being made to the Board in the prescribed form by a person claiming to be qualified under section 12 and upon payment of the prescribed fee the Board shall consider the application and if it is satisfied that the person is so qualified it shall accept that person for registration and shall direct the registrar to enter the name of the person on the register."
+    },
+    {
+     "ref": "(2)",
+     "text": "The consideration of an application under this section shall be undertaken by the Board and shall not be delegated to any committee of the Board."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Registration in exceptional circumstances",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGISTRATION",
+   "text": "(1) Where a person satisfies the Board—\n  (a) that he is qualified under section 12;\n  (b) that he is not ordinarily resident in Kenya; and\n  (c) that he is or intends to be present in Kenya and engage in practice as a valuer for the specific work for which he has been engaged, the Board may direct that the person shall be registered either for a period not exceeding one year or for the period of the duration of the specific work which he has been engaged to do.\n(2) An application for registration under this section shall be in the prescribed form and be accompanied by the prescribed fee; and the Board shall require the applicant to produce documentary evidence of his work or employment immediately prior to his coming to Kenya and may require him to appear before it for the purpose of considering his application.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a person satisfies the Board—"
+    },
+    {
+     "ref": "(2)",
+     "text": "An application for registration under this section shall be in the prescribed form and be accompanied by the prescribed fee; and the Board shall require the applicant to produce documentary evidence of his work or employment immediately prior to his coming to Kenya and may require him to appear before it for the purpose of considering his application."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Removal of name from register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGISTRATION",
+   "text": "(1) The Board may, at any time after being satisfied that a registered valuer has—\n  (a) died; or\n  (b) failed to pay the prescribed fee; or\n  (c) failed, within a period of six months from the date of an inquiry sent by the registrar by prepaid registered letter to the address appearing in the register against his name, to notify the registrar of his current address; or\n  (d) requested his name to be removed from the register; or\n  (e) had his name entered in the register by mistake or by reason of any false or misleading information; or\n  (f) had his qualification under section 12 withdrawn or cancelled by the body through which it was acquired or by which it was awarded; or\n  (g) been adjudged bankrupt; or\n  (h) been found by the Board to be guilty of an act or omission contrary to the public interest or misconduct as is described in section 24; or\n  (i) been convicted of an offence under this Act; or\n  (j) being a company, been placed under receivership or in liquidation whether compulsorily or voluntarily, direct that the name of the registered valuer be removed from the register.\n(2) Except in the circumstances specified in subsection (1)(a) the removal of a person’s name from the register shall be notified by the registrar to the registered person by a registered letter sent to the address appearing against his name in the register.\n(3) The registrar shall cause to be published in the Gazette, as soon as practicable, the name, address and qualifications of a person whose name is removed from the register under this section.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may, at any time after being satisfied that a registered valuer has—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Except in the circumstances specified in subsection (1)(a) the removal of a person’s name from the register shall be notified by the registrar to the registered person by a registered letter sent to the address appearing against his name in the register."
+    },
+    {
+     "ref": "(3)",
+     "text": "The registrar shall cause to be published in the Gazette, as soon as practicable, the name, address and qualifications of a person whose name is removed from the register under this section."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Restoration of name on register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGISTRATION",
+   "text": "(1) Where the name of any person has been removed from the register under section 15 or section 17(c) the name of that person shall not again be entered on the register except on the direction of the Board.\n(2) Where the name of any person has been removed from the register or the registration of any person has been suspended in the terms of section 17(b) the Board may, either of its own motion or on the application of any person made in the prescribed form, and in either case after holding such inquiry as the Board considers necessary, direct that—\n  (a) the removal from the register be confirmed; or\n  (b) the name of that person be restored on the register; or\n  (c) the suspension of the registration of that person be terminated.\n(3) A direction given by the Board under subsection (2) may include provision for the date upon which restoration on the register or the termination of a suspension of the effect of registration shall take effect and for the payment by the person concerned of such fee, not exceeding the fee payable on an application for registration, as the Board may prescribe.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the name of any person has been removed from the register under section 15 or section 17(c) the name of that person shall not again be entered on the register except on the direction of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the name of any person has been removed from the register or the registration of any person has been suspended in the terms of section 17(b) the Board may, either of its own motion or on the application of any person made in the prescribed form, and in either case after holding such inquiry as the Board considers necessary, direct that—"
+    },
+    {
+     "ref": "(3)",
+     "text": "A direction given by the Board under subsection (2) may include provision for the date upon which restoration on the register or the termination of a suspension of the effect of registration shall take effect and for the payment by the person concerned of such fee, not exceeding the fee payable on an application for registration, as the Board may prescribe."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Power to suspend registration, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGISTRATION",
+   "text": "If a registered valuer is convicted of an offence under this Act, or is, after due inquiry held by the Board, found to have been guilty of an act or omission amounting to professional misconduct or activities contrary to the public interest the Board may—\n  (a) caution or censure the registered valuer; or\n  (b) direct that, during such period as the Board may specify, his registration shall be suspended; or\n  (c) direct that his name be removed from the register; or\n  (d) impose a fine not exceeding ten thousand shillings.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Procedure at inquiry",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGISTRATION",
+   "text": "(1) Upon an inquiry being held by the Board under this Act, the registered valuer in respect of whom an inquiry is held may appear at the hearing in person or by an advocate.\n(2) For the purposes of proceedings at an inquiry held by it, the Board shall have power—\n  (a) to administer oaths;\n  (b) to summon persons to attend and give evidence; and (c) to order the production of documents. (3) Any summons or order issued under the hand of the Chairperson or the vice-Chairperson shall be deemed to have been issued by the Board. (4) The Chairperson, or in his absence the vice-Chairperson, of the Board shall record or cause to be recorded a summary of any oral evidence given at an inquiry held by the Board. (5) Subject to this section and to any rules made under section 25, the Board shall have power to regulate its own procedure. (6) For the purposes of an inquiry held under this Act the Board shall, not less than twenty-one days prior to the date of inquiry, notify by registered letter all the persons concerned. (7) Any person upon whom summons or an order is served under this section by the Chairperson or vice-Chairperson of the Board who—\n  (a) refuses or neglects without sufficient cause to attend at the inquiry; or (b) refuses without sufficient cause to answer fully and satisfactorily to the best of his knowledge and belief all questions put to him by or with the concurrence of the Board; or (c) refuses or omits without sufficient cause to produce any document in his possession or under his control which is specified in the summons or order, shall be guilty of an offence and liable to a fine of four thousand shillings or to imprisonment for a term not exceeding six months or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Upon an inquiry being held by the Board under this Act, the registered valuer in respect of whom an inquiry is held may appear at the hearing in person or by an advocate."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of proceedings at an inquiry held by it, the Board shall have power—"
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Appeals against refusal to register, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGISTRATION",
+   "text": "Any person aggrieved by a decision of the Board—\n  (a) refusing to register his name; or (b) removing his name from the register; or (c) suspending his registration under this Act; or (d) refusing to restore his name on the register, may, within twenty-eight days of receiving the written decision of the Board, appeal to the High Court against the decision of the Board and in the case of such appeal—\n  (i) the appeal shall be treated as an appeal to the High Court from a subordinate court exercising civil jurisdiction;\n  (ii) the High Court may give such directions as it deems fit; and (iii) the decision of the High Court shall be final.",
+   "clauses": []
+  },
+  "20": {
+   "num": "20",
+   "title": "Effect of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Every person whose name has been entered on the register shall, so long as his name remains on the register, be entitled to adopt and use the title \"Registered Valuer\" and such contraction thereof as the Board may approve.",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Unregistered persons not to practice as valuers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) After the expiration of six months from the commencement of this Act or such further period as the Cabinet Secretary may, by notice in the Gazette, allow either generally or in respect of any particular person or class of persons—\n  (a) no individual shall carry on business as a practising valuer unless he is a registered valuer;\n  (b) no partnership shall carry on business as practising valuers unless all the partners whose activities include the doing of acts by way of such practice are registered valuers;\n  (c) no body corporate shall carry on business as valuers unless the directors thereof whose duties include the preparation of valuations in respect of any type of movable or immovable property are registered valuers.\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding ten thousand shillings or to imprisonment for a term not exceeding twelve months or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "After the expiration of six months from the commencement of this Act or such further period as the Cabinet Secretary may, by notice in the Gazette, allow either generally or in respect of any particular person or class of persons—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding ten thousand shillings or to imprisonment for a term not exceeding twelve months or to both."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Indemnity requirements",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) After the expiration of six months from the commencement of this Act, no person shall carry on business as a practising valuer unless there is in force in relation to his business a guarantee bond or a policy of insurance entered into or issued by an insurance company approved by the Board, so expressed as to guarantee that compensation shall be payable to persons suffering monetary loss through the professional negligence of the persons so practising.\n(2) For the purposes of subsection (1), the minimum guarantee bond or policy of insurance entered into or issued by an insurance company shall be—\n  (a) in the case of a business carried on by an individual registered valuer, a sum of two hundred thousand shillings;\n  (b) in the case of a business carried on by two or more individuals, the sum specified in paragraph (a) multiplied by the number of registered valuers; and\n  (c) in the case of a business carried on by a body corporate the sum specified in paragraph (a) multiplied by the number of directors whose acts include the doing of acts of practice as registered valuers.\n(3) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding ten thousand shillings or to imprisonment for a term not exceeding twelve months or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "After the expiration of six months from the commencement of this Act, no person shall carry on business as a practising valuer unless there is in force in relation to his business a guarantee bond or a policy of insurance entered into or issued by an insurance company approved by the Board, so expressed as to guarantee that compensation shall be payable to persons suffering monetary loss through the professional negligence of the persons so practising."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of subsection (1), the minimum guarantee bond or policy of insurance entered into or issued by an insurance company shall be—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding ten thousand shillings or to imprisonment for a term not exceeding twelve months or to both."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Carrying on practice for purposes of winding-up, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Notwithstanding any other provisions of this Act, where any person ceases to carry on business as a practising valuer by reason of his death or insolvency, or by reason of having been adjudicated as being of unsound mind, the practice may be carried on for the purposes of winding up or being disposed of by a registered valuer appointed in that behalf by the person for the time being authorized by law to deal with the property of such person for a period not exceeding twelve months from the date of the death or commencement of the disability.",
+   "clauses": []
+  },
+  "24": {
+   "num": "24",
+   "title": "Dishonest practices",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Any person who—\n  (a) fraudulently makes, or causes or permits to be made, any false or incorrect entry in the register or any copy thereof; or\n  (b) fraudulently procures or attempts to procure the entry in the register of any name or other particulars whether on his own behalf or on behalf of any other person; or\n  (c) knowingly and wilfully makes any statement, oral or written, which is false in a material particular or which is misleading with a view to gaining any advantage or privilege under this Act whether for himself or for any other person, shall be guilty of an offence and liable to a fine not exceeding ten thousand shillings or to imprisonment for three years or to both.",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "Rules",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Cabinet Secretary may, after consultation with the Board, make rules generally for the better carrying out of the purposes of this Act, and without prejudice to the generality of the foregoing, any such rules may—\n  (a) prescribe anything which under this Act may be prescribed;\n  (b) provide for the conduct of the business of the Board and the procedure to be followed by the Board at any inquiry under this Act;\n  (c) provide for the appointment by the Board from amongst its members of sub-committees and the co-option of persons thereto;\n  (d) provide for the appointment and duties of officers of the Board;\n  (e) provide for the exemption of any person or class of persons from all or any of the provisions of this Act, provided they comply with such conditions as may be prescribed by the rules;\n  (f) provide for the definition of professional misconduct;\n  (g) prescribe the procedure to be followed by person applying for registration;\n  (h) prescribe the fees to be charged under, and the forms to be used for the purposes of this Act;\n  (i) prescribe the charges which may be made for services rendered by way of practice as valuers.",
+   "clauses": []
+  },
+  "26": {
+   "num": "26",
+   "title": "Finance",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Cabinet Secretary may, with the consent of the Treasury, out of moneys provided by Parliament—\n  (a) make to the Board such grants as may be necessary to enable it to discharge its functions under this Act;\n  (b) pay remuneration and travelling and other allowances to the members of the Board other than members who are public officers in receipt of a salary;\n  (c) make such other payments as may be necessary for the better carrying into effect of the provisions of this Act.",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 3(3)]",
+   "subtitle": "THE VALUERS REGISTRATION BOARD",
+   "text": "[Act No. 11 of 1992, Sch.] 1. Membership of the Board The Board shall consist of nine members appointed by the Cabinet Secretary as follows—\n  (a) a Chairperson who shall be a public officer and a full member of the Institution of Surveyors of Kenya (Chapter of Valuation and Estate Management Surveyors);\n  (b) two persons who shall be public officers and full members of the Institution of Surveyors of Kenya (Chapter of Valuation and Estate Management Surveyors);\n  (c) one person who is a full member of the Institution of Surveyors of Kenya (Chapter of Valuation and Estate Management Surveyors) and is in the service of a local authority;\n  (d) four persons who are full members of the Institution of Surveyors of Kenya (Chapter of Valuation and Estate Management Surveyors) appointed from persons recommended by the Institution of Surveyors of Kenya and who are in private practice;\n  (e) one person who is a full member of the Institution of Surveyors of Kenya (Chapter of Valuation and Estate Management Surveyors) and who is a member of the University of Nairobi.\n2. Tenure of office\n(1) The office of a full member appointed under section 1 shall become vacant—\n  (a) if he ceases for any reason to be a full member of the Institution of Surveyors of Kenya (Chapter of Valuation and Estate Management Surveyors); or\n  (b) if he resigns his office by written notice addressed to the Cabinet Secretary; or\n  (c) at the end of three years from the date of his appointment.\n(2) Any casual vacancy shall be filled by appointment as it arises.\n(3) A retiring member shall be eligible for reappointment for a period of three years.\n3. Chairperson and vice-Chairperson\n(1) The Board shall elect one of its members to be the vice-Chairperson of the Board.\n(2) The Chairperson and vice-Chairperson shall hold office for a period of three years from the date of nomination or election unless they cease to be members of the Board before the expiration of that period.\n4. Meetings of the Board\n(1) The Chairperson of the Board shall convene an ordinary meeting of the Board whenever it may be necessary or expedient, but at least once in every three months, for the transaction of its business and shall appoint a suitable time, place and date for holding the meeting.\n(2) The Chairperson of the Board may convene a special meeting of the Board at any time, and shall cause a special meeting of the Board to be held within twenty days after receiving a written request to do so signed by not fewer than three members of the Board.\n5. Quorum at meetings of the Board\n(1) The Chairperson or vice-Chairperson and five other members of the Board shall constitute a quorum at any meeting of the Board.\n(2) All acts, matters and things authorised to be done by the Board shall be decided by an ordinary resolution at a meeting of the Board at which a quorum is present.\n(3) A decision of the majority of members present and voting at a meeting of the Board shall be deemed to be a decision of the Board.\n(4) Every member of the Board shall have one vote, and in the event of an equality of votes the person presiding shall have a second or casting vote in addition to his deliberative vote.\n(5) Notwithstanding paragraph (2), where the Chairperson so directs, a decision may be made by the Board without a meeting by circulation of relevant papers among all the members and expression in writing of their views, but any member may require that a decision shall be deferred for consideration at a meeting of the Board and in such a case no decision shall be made until there has been a meeting of the Board.\n6. Minutes of meetings and appointment of secretary\n(1) Minutes in proper form of each meeting of the Board shall be kept, and shall be confirmed by the Board at the next meeting and signed by the person presiding at the meeting.\n(2) The Cabinet Secretary may appoint a public officer to be secretary to the Board for the purpose of attending meetings of the Board, keeping the minutes of the meetings and performing such other secretarial duties as the Board may require.\n7. Procedure Subject to this Schedule, the Board may regulate its own procedure.\n8. The seal of the Board The seal of the Board shall not be affixed to any instrument except in the presence of the Chairperson or the vice-Chairperson and one other member of the Board."
+  }
+ ]
+}

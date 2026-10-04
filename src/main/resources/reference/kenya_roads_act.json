@@ -1,0 +1,1300 @@
+{
+ "title": "Kenya Roads Act",
+ "citation": "Cap. 408",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2007/2/eng@2025-08-26",
+ "version_date": "2025-08-26",
+ "retrieved": "2026-10-04",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "KENYA ROADS ACT CAP. 408 Published in Kenya Gazette Vol. CIX—No. 61 on 7 September 2007 Assented to on 3 September 2007 Commenced on 7 September 2007\n[Amended by Corrigenda (Corrigendum 1 of 2008) on 8 February 2008] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] [Amended by Kenya Roads (Amendment) Act, 2022 (Act No. 3 of 2022) on 1 March 2023] [Amended by The Kenya Roads (Amendment) Act (Act No. 13 of 2025) on 26 August 2025]\nAn Act of Parliament to provide for the establishment of the Kenya National Highways Authority, the Kenya Urban Roads Authority and the Kenya Rural Roads Authority, to provide for the powers and functions of the authorities and for connected purposes A – The Kenya National Highways Authority",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ESTABLISHMENT OF VARIOUS AUTHORITIES",
+   "provisions": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "ADMINISTRATION",
+   "provisions": [
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "POWERS OF AUTHORITIES GENERALLY",
+   "provisions": [
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "MISCELLANEOUS",
+   "provisions": [
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Kenya Roads Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— \"Authority\" means the Highways Authority, the Rural Roads Authority or the Urban Roads Authority; \"city\" shall have the meaning assigned to it under the Local Government Act (Cap. 265); \"class\" in relation to a road means the categorization assigned to it pursuant to the First Schedule; \"construction\" means supervision, inspection and building and includes locating, surveying, mapping and eliminating road hazards; \"Director-General\" means the Director-General appointed under section 13(1) or a person authorised to act on his behalf; \"Highways Authority\" means the Kenya National Highways Authority established under section 3; \"Local Authorities Transfer Fund\" shall have the meaning assigned to it under the Local Authorities Transfer Fund Act (Cap. 272A); \"Cabinet Secretary\" means the Cabinet Secretary responsible for Roads; \"municipality\" shall have the meaning assigned to it under the Local Government Act (Cap. 265); \"national roads\" means national roads as classified in the First Schedule; \"road\" means a public road as defined under the Public Roads and Roads of Access Act (Cap. 399); \"Road Fund\" means the Kenya Roads Board Fund established under the Kenya Roads Board Act (Cap. 408A); \"roadside development\" means a physical structure or facility on land within or adjoining a road reserve; \"rural roads\" means rural roads as so classified in the First Schedule; \"Rural Roads Authority\" means the Kenya Rural Roads Authority established under section 6;\n\"traffic sign\" shall have the meaning assigned to it under the Traffic Act (Cap. 403); \"urban roads\" means urban roads as so classified in the First Schedule; \"Urban Roads Authority\" means the Kenya Urban Roads Authority established under section 9; \"vehicle\" shall have the meaning assigned to it in the Traffic Act.",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment of the Kenya National Highways Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS AUTHORITIES",
+   "text": "There is established an Authority to be known as the Kenya National Highways Authority, which shall be a body corporate with perpetual succession and a common seal, and which shall, subject to this Act, be capable in its corporate name of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding and disposing of movable or immovable property;\n  (c) borrowing money with the approval of the Cabinet Secretary and the Cabinet Secretary responsible for finance; and (d) doing or performing all such other things or acts for the proper performance of its functions under this Act as may lawfully be done or performed by a body corporate.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Functions of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS AUTHORITIES",
+   "text": "(1) The Highways Authority shall be responsible for the management, development, rehabilitation and maintenance of national roads.\n(2) For the purposes of discharging its responsibility under subsection (1), the Highways Authority shall have the following functions and duties—\n  (a) constructing, upgrading, rehabilitating and maintaining roads under its control;\n  (b) controlling national roads and road reserves and access to roadside developments;\n  (c) implementing road policies in relation to national roads;\n  (d) ensuring adherence to the rules and guidelines on axle load control prescribed under the Traffic Act (Cap. 403) and under any regulations under this Act;\n  (e) ensuring that the quality of road works is in accordance with such standards as may be prescribed by the Cabinet Secretary;\n  (f) in collaboration with the Ministry responsible for Transport and the Police Department, overseeing the management of traffic and road safety on national roads;\n  (g) collecting and collating all such data related to the use of national roads as may be necessary for efficient forward planning under this Act;\n  (h) monitoring and evaluating the use of national roads;\n  (i) planning the development and maintenance of national roads;\n  (j) advising the Cabinet Secretary on all issues relating to national roads;\n  (k) preparing the road works programmes for all national roads;\n  (l) liaising and co-ordinating with other road authorities in planning and on operations in respect of roads; and\n  (m) performing such other functions related to the implementation of this Act as may be directed by the Cabinet Secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Highways Authority shall be responsible for the management, development, rehabilitation and maintenance of national roads."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of discharging its responsibility under subsection (1), the Highways Authority shall have the following functions and duties— (a) constructing, upgrading, rehabilitating and maintaining roads under its control; (b) controlling national roads and road reserves and access to roadside developments; (c) implementing road policies in relation to national roads; (d) ensuring adherence to the rules and guidelines on axle load control prescribed under the Traffic Act (Cap. 403) and under any regulations under this Act; (e) ensuring that the quality of road works is in accordance with such standards as may be prescribed by the Cabinet Secretary; (f) in collaboration with the Ministry responsible for Transport and the Police Department, overseeing the management of traffic and road safety on national roads; (g) collecting and collating all such data related to the use of national roads as may be necessary for efficient forward planning under this Act; (h) monitoring and evaluating the use of national roads; (i) planning the development and maintenance of national roads; (j) advising the Cabinet Secretary on all issues relating to national roads; (k) preparing the road works programmes for all national roads;"
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "The Board of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS AUTHORITIES",
+   "text": "(1) The Highways Authority shall be managed by a Board which shall consist of the following members —\n  (a) a non-executive Chairperson who shall be appointed by the President from amongst the members appointed under paragraph (f);\n  (b) the Pricipal Secretary in the Ministry responsible for roads or his representative;\n  (c) the Pricipal Secretary in the Ministry responsible for transport or his representative;\n  (d) the Pricipal Secretary in the Ministry responsible for finance or his representative;\n  (e) the Director-General of the Highways Authority, who shall be an ex officio member; and (f) six other persons, not being public officers, appointed by the Cabinet Secretary by virtue of their knowledge or experience in—\n  (i) industry;\n  (ii) highway engineering;\n  (iii) transport economics;\n  (iv) surveying;\n  (v) accountancy; or (vi) law.\n(2) The persons referred to in subsection (1)(f) shall be appointed by the Cabinet Secretary from among members nominated by the organisations set out in Part A of the Second Schedule, each of which shall nominate and approve three candidates at its annual general meeting.\n(3) The Third Schedule shall apply with respect to the conduct of the business and affairs of the Board.\nB – The Kenya Rural Roads Authority",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Highways Authority shall be managed by a Board which shall consist of the following members — (a) a non-executive Chairperson who shall be appointed by the President from amongst the members appointed under paragraph (f); (b) the Pricipal Secretary in the Ministry responsible for roads or his representative; (c) the Pricipal Secretary in the Ministry responsible for transport or his representative; (d) the Pricipal Secretary in the Ministry responsible for finance or his representative; (e) the Director-General of the Highways Authority, who shall be an ex officio member; and (f) six other persons, not being public officers, appointed by the Cabinet Secretary by virtue of their knowledge or experience in— (i) industry; (ii) highway engineering; (iii) transport economics; (iv) surveying; (v) accountancy; or (vi) law."
+    },
+    {
+     "ref": "(2)",
+     "text": "The persons referred to in subsection (1)(f) shall be appointed by the Cabinet Secretary from among members nominated by the organisations set out in Part A of the Second Schedule, each of which shall nominate and approve three candidates at its annual general meeting."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Third Schedule shall apply with respect to the conduct of the business and affairs of the Board."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Establishment of the Kenya Rural Roads Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS AUTHORITIES",
+   "text": "There is hereby established an Authority to be known as the Kenya Rural Roads Authority, which shall be a body corporate with perpetual succession and a common seal, and which shall, subject to this Act, be capable in its corporate name of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding and disposing of movable or immovable property;\n  (c) borrowing money with the approval of the Cabinet Secretary and the Cabinet Secretary responsible for finance; and (d) doing or performing all such other things or acts for the proper performance of its functions under this Act which may lawfully be done or performed by a body corporate.",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Functions of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS AUTHORITIES",
+   "text": "(1) The Rural Roads Authority shall have responsibility for the management, development, rehabilitation and maintenance of rural roads.\n(2) For the purpose of discharging the responsibility described in subsection (1) above the Rural Roads Authority shall have the following functions and duties—\n  (a) constructing, upgrading, rehabilitating and maintaining roads under its control;\n  (b) controlling reserves for rural roads and access to roadside developments;\n  (c) implementing road policies in relation to rural roads;\n  (d) ensuring adherence by motorists to the rules and guidelines on axle load control prescribed under the Traffic Act (Cap. 403) or any regulations under this Act;\n  (e) ensuring that the quality of road works is in accordance with such standards as may be defined by the Cabinet Secretary;\n  (f) in collaboration with the Ministry responsible for Transport and the Police Department, overseeing the management of traffic on rural roads and issues related to road safety;\n  (g) collecting and collating all such data related to the use of rural roads as may be necessary for efficient forward planning under this Act;\n  (h) monitoring and evaluating the use of rural roads;\n  (i) planning the development and maintenance of rural roads;\n  (j) liaising and co-ordinating with other authorities in planning and operations in respect of roads;\n  (k) preparing the road work programmes for all rural roads;\n  (l) advising the Cabinet Secretary on all issues relating to rural roads; and (m) performing such other functions related to the implementation of this Act as may be directed by the Cabinet Secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Rural Roads Authority shall have responsibility for the management, development, rehabilitation and maintenance of rural roads."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purpose of discharging the responsibility described in subsection (1) above the Rural Roads Authority shall have the following functions and duties— (a) constructing, upgrading, rehabilitating and maintaining roads under its control; (b) controlling reserves for rural roads and access to roadside developments; (c) implementing road policies in relation to rural roads; (d) ensuring adherence by motorists to the rules and guidelines on axle load control prescribed under the Traffic Act (Cap. 403) or any regulations under this Act; (e) ensuring that the quality of road works is in accordance with such standards as may be defined by the Cabinet Secretary; (f) in collaboration with the Ministry responsible for Transport and the Police Department, overseeing the management of traffic on rural roads and issues related to road safety; (g) collecting and collating all such data related to the use of rural roads as may be necessary for efficient forward planning under this Act; (h) monitoring and evaluating the use of rural roads; (i) planning the development and maintenance of rural roads; (j) liaising and co-ordinating with other authorities in planning and operations in respect of roads; (k) preparing the road work programmes for all rural roads; (l) advising the Cabinet Secretary on all issues relating to rural roads; and (m) performing such other functions related to the implementation of this Act as may be directed by the Cabinet Secretary."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "The Board of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS AUTHORITIES",
+   "text": "(1) The Rural Roads Authority shall be managed by a Board which shall consist of the following members—\n  (a) a non-executive Chairperson who shall be appointed by the President from amongst the members appointed under paragraph (f);\n  (b) the Principal Secretary of the Ministry responsible for roads or his representative;\n  (c) the Principal Secretary of the Ministry responsible for finance or his representative;\n  (d) the Principal Secretary of the Ministry responsible for Local Government or his representative;\n  (e) the Director-General who shall be an ex officio member;\n  (f) five other persons, not being members of the public service, who shall be appointed by the Cabinet Secretary by virtue of their knowledge or experience in—\n  (i) highway engineering;\n  (ii) surveying;\n  (iii) urban and regional planning;\n  (iv) transport economics; or (v) farming;\n  (g) a member of an association for the time being recognized by the Government as representing the interests of local government authorities. (2) The persons referred to in paragraph (f) shall be appointed by the Cabinet Secretary from among members nominated by each organisation set out in Part B of the Second Schedule, each of which shall nominate and approve three candidates at its annual general meeting. (3) The Third Schedule shall apply with respect to the conduct of the business and affairs of the Board.\n(Act No. 1 of 2008) C – The Kenya Urban Roads Authority",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Rural Roads Authority shall be managed by a Board which shall consist of the following members— (a) a non-executive Chairperson who shall be appointed by the President from amongst the members appointed under paragraph (f); (b) the Principal Secretary of the Ministry responsible for roads or his representative; (c) the Principal Secretary of the Ministry responsible for finance or his representative; (d) the Principal Secretary of the Ministry responsible for Local Government or his representative; (e) the Director-General who shall be an ex officio member; (f) five other persons, not being members of the public service, who shall be appointed by the Cabinet Secretary by virtue of their knowledge or experience in— (i) highway engineering; (ii) surveying; (iii) urban and regional planning;"
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Establishment of Kenya Urban Roads Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS AUTHORITIES",
+   "text": "There is established an Authority to be known as the Kenya Urban Roads Authority which shall be a body corporate with perpetual succession and a common seal, and which shall, subject to this Act, be capable in its corporate name of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding and disposing of movable or immovable property;\n  (c) borrowing money with the approval of the Cabinet Secretary and the Cabinet Secretary responsible for finance; and (d) doing or performing all such other things or acts for the proper performance of its functions under this Act as may lawfully be done or performed by a body corporate.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Functions of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS AUTHORITIES",
+   "text": "(1) The Urban Roads Authority shall have the responsibility for the management, development, rehabilitation and maintenance of all public roads in the cities and municipalities in Kenya except where those roads are national roads.\n(2) For the purposes of discharging its responsibility under subsection (1) the Authority shall have the following powers and duties—\n  (a) constructing, upgrading, rehabilitating and maintaining roads under its control;\n  (b) controlling urban road reserves and access to roadside developments;\n  (c) implementing roads policies in relation to urban roads;\n  (d) ensuring adherence by motorists to the rules and guidelines on axle load control prescribed under the Traffic Act (Cap. 403) and under any regulations under this Act;\n  (e) ensuring that the quality of road works is in accordance with such standards as may be defined by the Cabinet Secretary;\n  (f) in collaboration with the Ministry responsible for transport and the Police Department, overseeing the management of traffic and road safety on urban roads;\n  (g) monitoring and evaluating the use of urban roads;\n  (h) planning the development and maintenance of urban roads;\n  (i) collecting and collating all such data related to the use of urban roads as may be necessary for efficient forward planning under this Act;\n  (j) preparing the road works programmes for all urban roads;\n  (k) liaising and co-ordinating with other road authorities in planning and on operations in respect of roads;\n  (l) advising the Cabinet Secretary on all issues relating to urban roads; and (m) performing such other functions related to the implementation of this Act as may be directed by the Cabinet Secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Urban Roads Authority shall have the responsibility for the management, development, rehabilitation and maintenance of all public roads in the cities and municipalities in Kenya except where those roads are national roads."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of discharging its responsibility under subsection (1) the Authority shall have the following powers and duties— (a) constructing, upgrading, rehabilitating and maintaining roads under its control; (b) controlling urban road reserves and access to roadside developments; (c) implementing roads policies in relation to urban roads; (d) ensuring adherence by motorists to the rules and guidelines on axle load control prescribed under the Traffic Act (Cap. 403) and under any regulations under this Act; (e) ensuring that the quality of road works is in accordance with such standards as may be defined by the Cabinet Secretary; (f) in collaboration with the Ministry responsible for transport and the Police Department, overseeing the management of traffic and road safety on urban roads; (g) monitoring and evaluating the use of urban roads; (h) planning the development and maintenance of urban roads; (i) collecting and collating all such data related to the use of urban roads as may be necessary for efficient forward planning under this Act;"
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Board of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS AUTHORITIES",
+   "text": "(1) The Urban Roads Authority shall be managed by a Board which shall consist of the following members—\n  (a) a non-executive Chairperson who shall be appointed by the President from amongst the members appointed under paragraph (g);\n  (b) the Principal Secretary of the Ministry responsible for roads or his representative;\n  (c) the Principal Secretary of the Ministry responsible for finance or his representative;\n  (d) the Principal Secretary of the Ministry responsible for Local Government or his representative;\n  (e) the Director-General who shall be an ex officio member;\n  (f) a member of an association for the time being recognised by the Government as representing the interests of local authorities;\n  (g) five other persons, not being public officers, who shall be appointed by the Cabinet Secretary, by virtue of their knowledge or experience in—\n  (i) industry;\n  (ii) urban planning;\n  (iii) highway engineering;\n  (iv) surveying; and (v) urban public transport operations.\n(2) The persons referred to in subsection (1)(g) above shall be appointed by the Cabinet Secretary from among persons nominated by the organisations set out in Part C of the Second Schedule, each of which shall nominate and approve three candidates at its annual general meeting.\n(3) The Third Schedule shall apply with respect to the conduct of the business and affairs of the Board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Urban Roads Authority shall be managed by a Board which shall consist of the following members— (a) a non-executive Chairperson who shall be appointed by the President from amongst the members appointed under paragraph (g); (b) the Principal Secretary of the Ministry responsible for roads or his representative; (c) the Principal Secretary of the Ministry responsible for finance or his representative; (d) the Principal Secretary of the Ministry responsible for Local Government or his representative; (e) the Director-General who shall be an ex officio member; (f) a member of an association for the time being recognised by the Government as representing the interests of local authorities; (g) five other persons, not being public officers, who shall be appointed by the Cabinet Secretary, by virtue of their knowledge or experience in— (i) industry; (ii) urban planning; (iii) highway engineering; (iv) surveying; and (v) urban public transport operations."
+    },
+    {
+     "ref": "(2)",
+     "text": "The persons referred to in subsection (1)(g) above shall be appointed by the Cabinet Secretary from among persons nominated by the organisations set out in Part C of the Second Schedule, each of which shall nominate and approve three candidates at its annual general meeting."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Third Schedule shall apply with respect to the conduct of the business and affairs of the Board."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Tenure of office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) The Chairperson and members of each Board, other than the ex officio members and public officers, shall hold office for a period of three years from the date of appointment but shall be eligible for reappointment for one further term.\n(2) The appointment of all members of each Board as first constituted and at every change in membership thereafter shall be by notice published in the Gazette.\n(3) No person shall qualify for appointment as a member of the Board of an Authority under section 5(1)(f), 8(1)(g) or 11(1)(g) unless such person is the holder of the Kenya Certificate of Secondary Education or an equivalent qualification and has at least ten years’ practical experience.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Chairperson and members of each Board, other than the ex officio members and public officers, shall hold office for a period of three years from the date of appointment but shall be eligible for reappointment for one further term."
+    },
+    {
+     "ref": "(2)",
+     "text": "The appointment of all members of each Board as first constituted and at every change in membership thereafter shall be by notice published in the Gazette."
+    },
+    {
+     "ref": "(3)",
+     "text": "No person shall qualify for appointment as a member of the Board of an Authority under section 5(1)(f), 8(1)(g) or 11(1)(g) unless such person is the holder of the Kenya Certificate of Secondary Education or an equivalent qualification and has at least ten years’ practical experience."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Director-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) Each Authority shall have a Director-General, who shall be appointed by the concerned Board in consultation with the Cabinet Secretary from among three candidates competitively selected by the Board.\n(2) The Director-General shall be responsible for the day-to-day operations and administration of the Authority in respect of which he is appointed.\n(3) Subject to this Act, the Director-General shall hold office for a term of three years and shall be eligible for appointment for one more term.\n(4) Subject to this Act and to the general direction and control of the concerned Board, the DirectorGeneral shall be responsible for the following matters with respect to the Authority for which he is responsible—\n  (a) the implementation of the policies and programmes of the Authority and reporting thereon to the Board;\n  (b) the proper management of the funds and property of the Authority;\n  (c) the organisation and control of the staff of the Authority;\n  (d) the development of an operations plan for achieving the Authority’s objectives;\n  (e) co-operation with other lead agencies and organisations in the roads sector;\n  (f) the development of an economic, efficient and cost-effective internal management structure;\n  (g) the formulation and implementation of the strategic plan, business plan and annual plan of the Authority;\n  (h) the implementation and fulfilment of the policies and agreed objectives, performance targets and service standards of the Authority;\n  (i) the provision of advice as required on all matters within the Authority’s responsibility; and (j) the performance of any other duty necessary for the implementation of this Act as may be assigned to him by the concerned Board. (Act No. 3 of 2022, s. 2, Act No. 13 of 2025, s. 2)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Each Authority shall have a Director-General, who shall be appointed by the concerned Board in consultation with the Cabinet Secretary from among three candidates competitively selected by the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Director-General shall be responsible for the day-to-day operations and administration of the Authority in respect of which he is appointed."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to this Act, the Director-General shall hold office for a term of three years and shall be eligible for appointment for one more term."
+    },
+    {
+     "ref": "(4)",
+     "text": "Subject to this Act and to the general direction and control of the concerned Board, the DirectorGeneral shall be responsible for the following matters with respect to the Authority for which he is responsible— (a) the implementation of the policies and programmes of the Authority and reporting thereon to the Board; (b) the proper management of the funds and property of the Authority; (c) the organisation and control of the staff of the Authority; (d) the development of an operations plan for achieving the Authority’s objectives; (e) co-operation with other lead agencies and organisations in the roads sector; (f) the development of an economic, efficient and cost-effective internal management structure; (g) the formulation and implementation of the strategic plan, business plan and annual plan of the Authority; (h) the implementation and fulfilment of the policies and agreed objectives, performance targets and service standards of the Authority; (i) the provision of advice as required on all matters within the Authority’s responsibility; and (j) the performance of any other duty necessary for the implementation of this Act as may be assigned to him by the concerned Board. (Act No. 3 of 2022, s. 2, Act No. 13 of 2025, s. 2)"
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Qualification of Director-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION",
+   "text": "A person shall be qualified for appointment as a Director-General if the person—\n  (a) holds a bachelor’s degree in civil engineering and a Masters’ degree from a university recognized in Kenya;\n  (b) is registered with the Engineers Board of Kenya;\n  (c) has at least fifteen years’ experience with at least ten years post-registration experience in highway and road engineering;\n  (d) has at least ten years experience in a managerial position within the roads sector; and (e) satisfies the requirements of Chapter Six of the Constitution. (Act No. 3 of 2022, s. 3)",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "Other staff of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) Each Authority may appoint such other officers and staff as may be necessary for the proper and efficient performance of its functions.\n(2) The officers and staff appointed under this section shall hold office on such terms and conditions as may be determined by the concerned Board and specified in their instruments of appointment.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Each Authority may appoint such other officers and staff as may be necessary for the proper and efficient performance of its functions."
+    },
+    {
+     "ref": "(2)",
+     "text": "The officers and staff appointed under this section shall hold office on such terms and conditions as may be determined by the concerned Board and specified in their instruments of appointment."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Delegation by Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) A Board may, by instrument of delegation, delegate to the Chairperson, a member of the Board, an officer of the Authority or to a Committee of the Board established under the Third Schedule, any of the powers, duties or functions of the Authority under this Act.\n(2) The terms and conditions regulating the exercise of the powers delegated under this section shall be contained in the instrument of delegation.\n(3) A person shall in the exercise of a delegated power under this section, comply with the directions or guidelines as the concerned Board may, from time to time issue in writing.\n(4) A person aggrieved by the decision of a delegate in the exercise of powers under this section may appeal to the Board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A Board may, by instrument of delegation, delegate to the Chairperson, a member of the Board, an officer of the Authority or to a Committee of the Board established under the Third Schedule, any of the powers, duties or functions of the Authority under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The terms and conditions regulating the exercise of the powers delegated under this section shall be contained in the instrument of delegation."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person shall in the exercise of a delegated power under this section, comply with the directions or guidelines as the concerned Board may, from time to time issue in writing."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person aggrieved by the decision of a delegate in the exercise of powers under this section may appeal to the Board."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Remuneration of Board members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION",
+   "text": "Each Board shall pay its members such remuneration, fees or allowances for expenses as it may determine after consultation with the Cabinet Secretary and the Cabinet Secretary responsible for finance.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Authority to make regulations relating to staff",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION",
+   "text": "An Authority may make regulations generally relating to the conditions of service of its officers and servants, and in particular, but without prejudice to the generality of the foregoing, may make regulations relating to—\n  (a) the appointment, dismissal, discipline, pay and leave of, and the security to be given to, staff;\n  (b) appeals by officers and servants against dismissal or other disciplinary measures;\n  (c) the establishment and maintenance of medical benefits and loan funds, and the contributions payable thereto and the benefits recoverable therefrom.",
+   "clauses": []
+  },
+  "19": {
+   "num": "19",
+   "title": "Regulations on staff by Cabinet Secretary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION",
+   "text": "Subject to this Act, the Cabinet Secretary may make regulations generally relating to the conditions of service of employees of Authorities and, without prejudice to the generality of the foregoing, may make regulations relating to—\n  (a) the grant of pensions, gratuities and other retiring allowances to employees and their dependants and the grant of gratuities to the estate or dependants of deceased employees;\n  (b) the establishment and maintenance of medical funds, superannuation and provident funds and the contributions payable thereto and the benefits receivable therefrom;\n  (c) the liability or otherwise to assignment, attachment, sequestration or other levy of sums payable to an employee or other persons under regulations made under this section.",
+   "clauses": []
+  },
+  "20": {
+   "num": "20",
+   "title": "Regional offices",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) Each Authority may establish such administrative regions and regional officers, as may be necessary for the furtherance of its functions.\n(2) Where an Authority establishes administrative regions and regional offices under subsection (1), it may delegate to such offices such procurement functions, activities and authority as may be determined by the concerned Board, which delegation shall be in compliance with the Public Procurement and Disposal Act (Cap. 412C).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Each Authority may establish such administrative regions and regional officers, as may be necessary for the furtherance of its functions."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where an Authority establishes administrative regions and regional offices under subsection (1), it may delegate to such offices such procurement functions, activities and authority as may be determined by the concerned Board, which delegation shall be in compliance with the Public Procurement and Disposal Act (Cap. 412C)."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Delegation of functions by Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION",
+   "text": "Notwithstanding any other provision of this Act an Authority may, in consultation with the Cabinet Secretary, delegate its functions in relation to roads under its jurisdiction to a suitable corporate body.",
+   "clauses": []
+  },
+  "22": {
+   "num": "22",
+   "title": "Powers of the Authority as a statutory body",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "POWERS OF AUTHORITIES GENERALLY",
+   "text": "(1) An Authority shall have power—\n  (a) to maintain, operate, improve and manage the roads under its jurisdiction;\n  (b) to construct new roads;\n  (c) to measure and assess the weights, dimensions and capacities of vehicles using any road and provide measures to ensure compliance with rules relating to axle load control, other provisions of the Traffic Act (Cap. 403) and any regulations under this Act; and\n  (d) to provide such amenities or facilities for persons making use of the services or facilities provided by the Authority as may appear to the Authority necessary or desirable.\n(2) Subject to this Act, the powers conferred by, subsection (1) shall include all such powers as are necessary or appropriate and proper for the purposes of the Authority and in particular, but without prejudice to the generality of the foregoing, shall include powers—\n  (a) to construct any road, bridge, building, drainage structure, drain, river channelling or any other necessary or desirable works required for the purposes of the Authority;\n  (b) to operate machinery and equipment on public roads in such manner as it deems necessary;\n  (c) to carry on any business necessary or desirable to be carried on for the purposes of the Authority and to act as an agent for the Government in the provision of any agreed services;\n  (d) with the approval of the Cabinet Secretary, to determine, impose and levy rates, tolls, charges, dues or fees for any of its services or for the use by any person of its facilities;\n  (e) to prohibit, control or regulate—\n  (i) the use by any person of the services performed, or the facilities provided, by the Authority; or\n  (ii) the usage of any vehicle on any road or on any premises occupied by the Authority;\n  (f) to sell, let or otherwise dispose of any property, movable or immovable, which in the opinion of the Board, is not necessary for the purposes of the Authority:\nProvided that an Authority shall not so sell, let or otherwise dispose of any building or land placed at its disposal by the Government otherwise than with the consent of, and under conditions agreed by, the Cabinet Secretary;\n  (g) to act as an agent for any person engaged, whether within Kenya or elsewhere, in the performance of services, or the provision of facilities, of a kind similar or complementary to those performed or provided by the Authority;\n  (h) to enter into agreements with any person—\n  (i) for the supply, construction, manufacture, maintenance or repair by that person of any property, movable or immovable, necessary or desirable for the purposes of the Authority;\n  (ii) for the performance or provision by that person of any of the services or the facilities which may be performed or provided by the Authority;\n  (iii) for the payment, collection or apportionment of any tolls, rates, charges or other receipts arising out of the performance or the provision by that person of any such services or facilities;\n  (i) to establish or acquire any subsidiary corporation with the written approval of the Cabinet Secretary and the Cabinet Secretary responsible for finance; or\n  (j) to enter into any arrangement with any state corporation or other entity which, in the opinion of the Board, is likely to promote or secure the provision, or improved provision, of any service or facilities which they may separately provide.\n(3) For the avoidance of doubt, it is hereby declared that subsections (1) and (2) relate only to the capacity of the Authority as a statutory body and nothing in those provisions shall be construed as authorising the disregard by the Authority of any law.\n(4) The powers conferred on an Authority under this section to construct or improve any road shall empower the Authority to undertake the construction or execution of any works necessary thereto on land vested in the Authority or on land placed at its disposal by the Government, or, in the case of land not so vested in, or placed at the disposal of, the Authority, only with the agreement of the owner of the land on which such works are to be constructed or executed.\n(5) Where any land is required by an Authority for the purposes of its functions under this Act the Authority shall proceed in accordance with section 22.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An Authority shall have power—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to this Act, the powers conferred by, subsection (1) shall include all such powers as are necessary or appropriate and proper for the purposes of the Authority and in particular, but without prejudice to the generality of the foregoing, shall include powers—"
+    },
+    {
+     "ref": "(3)",
+     "text": "For the avoidance of doubt, it is hereby declared that subsections (1) and (2) relate only to the capacity of the Authority as a statutory body and nothing in those provisions shall be construed as authorising the disregard by the Authority of any law."
+    },
+    {
+     "ref": "(4)",
+     "text": "The powers conferred on an Authority under this section to construct or improve any road shall empower the Authority to undertake the construction or execution of any works necessary thereto on land vested in the Authority or on land placed at its disposal by the Government, or, in the case of land not so vested in, or placed at the disposal of, the Authority, only with the agreement of the owner of the land on which such works are to be constructed or executed."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where any land is required by an Authority for the purposes of its functions under this Act the Authority shall proceed in accordance with section 22."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Acquisition of land for the purposes of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "POWERS OF AUTHORITIES GENERALLY",
+   "text": "(1) Where an Authority requires any land for its purposes under this Act, such Authority may either—\n  (a) if such land is not public land, acquire such land through negotiation and agreement with the registered owner thereof:\nProvided that, notwithstanding the provisions of section 6 of the Land Control Act (Cap. 302), the ensuing transaction shall not require the consent of a land control board if the land to be acquired is agricultural land; or\n  (b) if such land is public land, or if the Authority is unable to acquire it by agreement in accordance with paragraph (a) of this subsection, notify the Cabinet Secretary responsible for public lands that the land specified in the notice is required for the purposes of the Authority.\n(2) When notice has been given under subsection (1)(b), then—\n  (a) if the land is public land, the Cabinet Secretary responsible for Lands may, in his discretion and upon such terms and conditions as he may think fit, place such land at the disposal of the concerned Authority for its purposes; or\n  (b) if the land is not public land, the Commissioner of Lands may, if satisfied that it is in the public interest to do so, acquire the land in accordance with the provisions of the Land Acquisition Act (Cap. 295).\n(3) Where land is acquired on behalf of an Authority under subsection (2), such Authority shall bear all costs in relation thereto.\n(4) An Authority may at any time surrender any land surplus to both its existing and future requirements to the Cabinet Secretary responsible for lands.\n(5) The provisions of subsection (4) shall apply to land vested in the Authority by any written law, including this Act, as well as land conveyed to it or otherwise placed at its disposal.\n(6) In this section—\n\"public land\" means all public land in Kenya, excluding trust land, which is vested in the Government for the benefit of the public;\n\"trust land\" means land which is or which was previously vested in a County Council by virtue of section 115 of the Constitution.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where an Authority requires any land for its purposes under this Act, such Authority may either—"
+    },
+    {
+     "ref": "(2)",
+     "text": "When notice has been given under subsection (1)(b), then—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Where land is acquired on behalf of an Authority under subsection (2), such Authority shall bear all costs in relation thereto."
+    },
+    {
+     "ref": "(4)",
+     "text": "An Authority may at any time surrender any land surplus to both its existing and future requirements to the Cabinet Secretary responsible for lands."
+    },
+    {
+     "ref": "(5)",
+     "text": "The provisions of subsection (4) shall apply to land vested in the Authority by any written law, including this Act, as well as land conveyed to it or otherwise placed at its disposal."
+    },
+    {
+     "ref": "(6)",
+     "text": "In this section—"
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Power to enter and survey land",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "POWERS OF AUTHORITIES GENERALLY",
+   "text": "(1) Any authorized employee of an Authority may, for the purposes of the Authority, enter upon any land and survey such land or any portion thereof.\n(2) Where any damage to land is caused by reason of the exercise of the powers conferred by this section, the owner or occupier of the land shall be entitled to compensation therefor in accordance with this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any authorized employee of an Authority may, for the purposes of the Authority, enter upon any land and survey such land or any portion thereof."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where any damage to land is caused by reason of the exercise of the powers conferred by this section, the owner or occupier of the land shall be entitled to compensation therefor in accordance with this Act."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Power to enter land to prevent accidents, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "POWERS OF AUTHORITIES GENERALLY",
+   "text": "(1) Any authorized employee of an Authority may for the purposes of preventing the occurrence of any accident, preserving the safety of traffic or the safe operation of any service provided by such Authority, or repairing any damage caused by an accident, enter upon any land and—\n  (a) cut down or remove any tree or other obstruction, not being a building which obscures the view of any traffic sign which is likely to cause any obstruction or any danger to the safety of traffic or of any such service; or\n  (b) execute such other works as may be necessary to prevent the occurrence of any accident or to repair any damage caused as a result of any accident.\n(2) If any tree or other obstruction cut down or removed under subsection (1)(a) came into existence subsequent to the erection of any traffic sign or to the service being provided at that place, no compensation shall be payable in respect of such entry, or the cutting down or removal of such tree or other obstruction.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any authorized employee of an Authority may for the purposes of preventing the occurrence of any accident, preserving the safety of traffic or the safe operation of any service provided by such Authority, or repairing any damage caused by an accident, enter upon any land and—"
+    },
+    {
+     "ref": "(2)",
+     "text": "If any tree or other obstruction cut down or removed under subsection (1)(a) came into existence subsequent to the erection of any traffic sign or to the service being provided at that place, no compensation shall be payable in respect of such entry, or the cutting down or removal of such tree or other obstruction."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Power to enter and to alter position of pipes, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "POWERS OF AUTHORITIES GENERALLY",
+   "text": "(1) Subject to the provisions of this section, an Authority, or any of its employees authorised in that behalf, may, for the purposes of such Authority, enter upon any land and alter the position of any electric, telephone, telegraphic, fibre optic or other wire of whatsoever nature, or the position of any drain or sewer.\n(2) Where an Authority intends to exercise any power under subsection (1), it shall give reasonable notice of its intention to do so to the person having control of the pipe, wire, sewer or drain and—\n  (a) such person may authorize a representative to superintend such work and may require the Authority to execute such work to the satisfaction of such representative; and\n  (b) the Authority shall make arrangements for the maintenance of the supply of gas, oil, compressed air or electricity, for the continuance of the telephone, telegraph or other wireborne communications or for the maintenance of the sewer or drainage, as the case may be, during the execution of such work.\n(3) Where any damage is caused by reason of the exercise of the powers conferred by this section, the person suffering such damage shall be entitled to compensation therefor in accordance with this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of this section, an Authority, or any of its employees authorised in that behalf, may, for the purposes of such Authority, enter upon any land and alter the position of any electric, telephone, telegraphic, fibre optic or other wire of whatsoever nature, or the position of any drain or sewer."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where an Authority intends to exercise any power under subsection (1), it shall give reasonable notice of its intention to do so to the person having control of the pipe, wire, sewer or drain and—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Where any damage is caused by reason of the exercise of the powers conferred by this section, the person suffering such damage shall be entitled to compensation therefor in accordance with this Act."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Power to remove pipes etc. from within the road reserve",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "POWERS OF AUTHORITIES GENERALLY",
+   "text": "(1) For purposes of this section—\n  (a) \"pipe-borne utilities\" refers to any pipes. devices and fittings for the supply or transmission of gas, oil products, water, wastewater, compressed air and any material conveyed by means of piping;\n  (b) \"wire-borne utilities\" refers to wires, devices and fittings for the transmission of electricity, telephone services, telegraph services, data and any other service conveyed by means of conductive wire, fibre optic cable or other wire or cable of whatsoever nature;\n  (c) \"infrastructure utilities\" refers to pipe borne utilities, wire-borne utilities, covered or open drains and any other physical device for the provision, conveying or supply of services.\n(2) Where any infrastructure utility is located within a road reserve, the provider or operator of such infrastructure utility shall, upon written request by the responsible Authority, relocate such infrastructure utility to a location or alignment approved by the Authority at no cost to the Authority.\n(3) Where an Authority intends to exercise any power under subsection (2) it shall give reasonable notice of its intention to do so to the person having control of such infrastructure utility, and such person shall cause to be removed such infrastructure utility within sixty days.\n(4) Where, under subsection (2) or (3), any person having control of an infrastructure utility fails to remove such infrastructure utility within the time stated in the notice, the concerned Authority may remove such infrastructure utility at the cost of the person who was unable to comply with the notice under subsection (3).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "For purposes of this section— (a) \"pipe-borne utilities\" refers to any pipes. devices and fittings for the supply or transmission of gas, oil products, water, wastewater, compressed air and any material conveyed by means of piping; (b) \"wire-borne utilities\" refers to wires, devices and fittings for the transmission of electricity, telephone services, telegraph services, data and any other service conveyed by means of conductive wire, fibre optic cable or other wire or cable of whatsoever nature; (c) \"infrastructure utilities\" refers to pipe borne utilities, wire-borne utilities, covered or open drains and any other physical device for the provision, conveying or supply of services."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where any infrastructure utility is located within a road reserve, the provider or operator of such infrastructure utility shall, upon written request by the responsible Authority, relocate such infrastructure utility to a location or alignment approved by the Authority at no cost to the Authority."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where an Authority intends to exercise any power under subsection (2) it shall give reasonable notice of its intention to do so to the person having control of such infrastructure utility, and such person shall cause to be removed such infrastructure utility within sixty days."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where, under subsection (2) or (3), any person having control of an infrastructure utility fails to remove such infrastructure utility within the time stated in the notice, the concerned Authority may remove such infrastructure utility at the cost of the person who was unable to comply with the notice under subsection (3)."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Power to take water",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "POWERS OF AUTHORITIES GENERALLY",
+   "text": "An Authority may, for its purposes, take any water from any natural watercourse subject to the provisions of the Water Act (Cap. 372).",
+   "clauses": []
+  },
+  "29": {
+   "num": "29",
+   "title": "Compensation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "POWERS OF AUTHORITIES GENERALLY",
+   "text": "In exercising the powers conferred by sections 23, 24, 25, and 26, an Authority shall do as little damage as possible, and, where any person suffers damage, no action or suit shall lie against the Authority, but he shall be entitled to such compensation therefor as may be agreed between him and the concerned Authority, or, in default of agreement, as may be determined by an arbitrator appointed by the Chief Justice.",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "Financial year",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The financial year of each Authority shall be the period of twelve months commencing on the 1st of July and ending on the 30th of June in the next succeeding year: Provided that the first financial year of the Authority shall be the period commencing on the date of commencement of this Act and ending on the 30th June subsequent to that date.",
+   "clauses": []
+  },
+  "31": {
+   "num": "31",
+   "title": "Funds and resources of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The funds and resources of each Authority shall consist of—\n  (a) monies paid to it from the Road Fund;\n  (b) any other money appropriated by Parliament for the purposes of the respective Authority;\n  (c) in the case of the Rural Roads Authority and the Urban Roads Authority taken together, thirty per cent of the funds from the Local Authorities Transfer Fund or such higher portion of such funds as the Cabinet Secretary for Finance may direct;\n  (d) funds accruing from investments made by the Authority;\n  (e) grants, loans, gifts or donations from the Government or any other source, made with the approval of the Cabinet Secretary and the Cabinet Secretary responsible for finance;\n  (f) revenue earned from the activities of the Authority under this Act; and\n  (g) any other funds received by the Authority in the performance of its functions under this Act.",
+   "clauses": []
+  },
+  "32": {
+   "num": "32",
+   "title": "Borrowing power",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) Subject to subsection (2), an Authority may borrow money required by it for the exercise of its functions and for meeting its obligations after approval by the Cabinet Secretary and the Cabinet Secretary responsible for finance.\n(2) The approval under subsection (1) may be either general or limited to a particular transaction and may be either unconditional or subject to conditions.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2), an Authority may borrow money required by it for the exercise of its functions and for meeting its obligations after approval by the Cabinet Secretary and the Cabinet Secretary responsible for finance."
+    },
+    {
+     "ref": "(2)",
+     "text": "The approval under subsection (1) may be either general or limited to a particular transaction and may be either unconditional or subject to conditions."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Power to invest funds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "Any funds of an Authority not immediately required for any purpose under this Act may be invested in a manner which the respective Board may, with the approval of the Cabinet Secretary and the Cabinet Secretary responsible for finance, determine.",
+   "clauses": []
+  },
+  "34": {
+   "num": "34",
+   "title": "Authority to prepare a roads investment programme",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Cabinet Secretary shall, once in every five years, in consultation with the authorities and the Kenya Roads Board, cause to be prepared a road investment program for approval by the Cabinet Secretary responsible for finance.\n(2) The road investment programme prepared under subsection (1) shall outline development and maintenance priorities costed with respect to stated sections of road, and also aggregated by class, traffic loading or such other detail as may be specified.\n(3) All annual work programmes prepared or implemented by an Authority shall be based on the approved five-year road investment programme.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary shall, once in every five years, in consultation with the authorities and the Kenya Roads Board, cause to be prepared a road investment program for approval by the Cabinet Secretary responsible for finance."
+    },
+    {
+     "ref": "(2)",
+     "text": "The road investment programme prepared under subsection (1) shall outline development and maintenance priorities costed with respect to stated sections of road, and also aggregated by class, traffic loading or such other detail as may be specified."
+    },
+    {
+     "ref": "(3)",
+     "text": "All annual work programmes prepared or implemented by an Authority shall be based on the approved five-year road investment programme."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Authority to prepare annual budget",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "Each Authority shall, not later than three months before the end of each financial year, cause to be prepared and submitted to the Cabinet Secretary an annual budget based on the five-year road investment program in respect of the ensuing financial year comprising estimates of expected recurrent, maintenance, development and capital expenditure of the Authority in the said financial year.",
+   "clauses": []
+  },
+  "36": {
+   "num": "36",
+   "title": "Authority to prepare annual works program",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "An Authority shall, not later than six months before the end of each financial year, cause to be prepared and submitted to the Kenya Roads Board for approval an annual works program based on the five-year road investment program in respect of the ensuing financial year, comprising estimates of expected maintenance, development and capital expenditure of the Authority in the said financial year to be financed by the Road Fund.",
+   "clauses": []
+  },
+  "37": {
+   "num": "37",
+   "title": "Expenditure outside budget",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "Any activity outside the budget approved under section 35 shall only be undertaken with the approval of the Cabinet Secretary, and shall be funded by the person, body or agency recommending it.",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) Each Authority shall keep proper books of accounts and shall prepare an annual statement of accounts in conformity with international accounting standards.\n(2) For each financial year, the Authority shall prepare and submit for audit accounts to the AuditorGeneral in accordance with the Public Audit Act (Cap. 412B), and comply with all applicable requirements of that Act.\n(3) The costs of the audit shall be as specified in the Public Audit Act (Cap. 412B). (4) In addition to the annual audit, the Auditor-General may at any time audit the accounts and examine the records of financial transactions of the Authority, and shall forthwith draw the attention of the Cabinet Secretary to any irregularity disclosed by such audit and examination. (5) The authorities shall provide the Auditor-General with all necessary and appropriate facilities for the examination of the accounts and records. (6) The Auditor-General may make copies of or take extracts from account books or other financial records of the authorities.\n(Act No. 3 of 2022, s. 4)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Each Authority shall keep proper books of accounts and shall prepare an annual statement of accounts in conformity with international accounting standards."
+    },
+    {
+     "ref": "(2)",
+     "text": "For each financial year, the Authority shall prepare and submit for audit accounts to the AuditorGeneral in accordance with the Public Audit Act (Cap. 412B), and comply with all applicable requirements of that Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "The costs of the audit shall be as specified in the Public Audit Act (Cap. 412B). (4) In addition to the annual audit, the Auditor-General may at any time audit the accounts and examine the records of financial transactions of the Authority, and shall forthwith draw the attention of the Cabinet Secretary to any irregularity disclosed by such audit and examination. (5) The authorities shall provide the Auditor-General with all necessary and appropriate facilities for the examination of the accounts and records. (6) The Auditor-General may make copies of or take extracts from account books or other financial records of the authorities."
+    }
+   ]
+  },
+  "39": {
+   "num": "39",
+   "title": "Principles of operation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "Each Authority shall perform its functions in accordance with sound financial principles and shall ensure, as far as reasonably practicable, that its expenditure is properly chargeable to its revenue.",
+   "clauses": []
+  },
+  "40": {
+   "num": "40",
+   "title": "Charges and fees to be gazetted",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) Where an Authority, under section 21(2)(d) stipulates levies, charges or fees for any of its services or for use of its facilities, the schedule of charges shall be published in the Gazette.\n(2) The schedule of charges shall come into force on a date specified therein, which shall be at least thirty days following gazettement.\n(3) If any amount due and payable under this section is not paid by any party after demand by an Authority, and remains unpaid beyond the time specified for payment thereof, such Authority may seize the vehicle or other property of the debtor after giving reasonable notice of such seizure, and may detain such vehicle or property until payment is made.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where an Authority, under section 21(2)(d) stipulates levies, charges or fees for any of its services or for use of its facilities, the schedule of charges shall be published in the Gazette."
+    },
+    {
+     "ref": "(2)",
+     "text": "The schedule of charges shall come into force on a date specified therein, which shall be at least thirty days following gazettement."
+    },
+    {
+     "ref": "(3)",
+     "text": "If any amount due and payable under this section is not paid by any party after demand by an Authority, and remains unpaid beyond the time specified for payment thereof, such Authority may seize the vehicle or other property of the debtor after giving reasonable notice of such seizure, and may detain such vehicle or property until payment is made."
+    }
+   ]
+  },
+  "41": {
+   "num": "41",
+   "title": "Recovery of debts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "All debts owed to an Authority under this Act shall be recoverable summarily.",
+   "clauses": []
+  },
+  "42": {
+   "num": "42",
+   "title": "Protection from liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "No matter or thing done by an officer or employee of an Authority shall, if the thing is done bona fide for executing the functions, powers or duties of the Authority, render such officer or employee personally liable to any action, claim or demand whatsoever.",
+   "clauses": []
+  },
+  "43": {
+   "num": "43",
+   "title": "Performance agreement",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) A performance agreement shall be made between the Cabinet Secretary and each Authority concerning the management by the Authority of the part of the roads network for which the Authority is responsible, and shall include all the activities that are necessary to develop and maintain such roads in a satisfactory state.\n(2) The performance agreement shall describe the key outputs that the Authority shall achieve in any financial year, and such outputs shall be defined in terms of performance indicators and targets.\n(3) The Cabinet Secretary may request for an independent report on the implementation of the performance agreement.\n(4) Failure to meet the targets as agreed upon under this section shall be a ground for the dismissal or discipline of the Director-General of the respective Authority.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A performance agreement shall be made between the Cabinet Secretary and each Authority concerning the management by the Authority of the part of the roads network for which the Authority is responsible, and shall include all the activities that are necessary to develop and maintain such roads in a satisfactory state."
+    },
+    {
+     "ref": "(2)",
+     "text": "The performance agreement shall describe the key outputs that the Authority shall achieve in any financial year, and such outputs shall be defined in terms of performance indicators and targets."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary may request for an independent report on the implementation of the performance agreement."
+    },
+    {
+     "ref": "(4)",
+     "text": "Failure to meet the targets as agreed upon under this section shall be a ground for the dismissal or discipline of the Director-General of the respective Authority."
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Annual report",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) Each Authority shall, within a period of four months after the end of each financial year, submit to the Cabinet Secretary an annual report dealing generally with the activities and operations of the Authority.\n(2) An annual report submitted under subsection (1) shall include—\n  (a) information with regard to the progress and policies of the Authority;\n  (b) a copy of the audited accounts of the Authority in respect of that year together with the report of the Auditor-General;\n  (c) each report submitted in relation to that financial year by the Auditor-General;\n  (d) an overview of the operations of the Authority;\n  (e) an assessment of the degree to which performance targets have been achieved;\n  (f) an assessment of the adequacy of road funding;\n  (g) a report on the condition of the road network and the degree of change in such condition since the last report, the projected optimal level of the network and the extent of financing required to meet that level;\n  (h) a review of the technical adequacy and proven cost efficiency of road management operations;\n  (i) a report on progress achieved concerning coordination between the authorities and regional entities, including any challenges encountered and proposals for the future;\n  (j) generally a report on the degree to which the objectives of this Act have been realized and the levels of compliance with the provisions of this Act; and\n  (k) such other information as the Cabinet Secretary may request in writing.\n(Act No. 3 of 2022, s. 5)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Each Authority shall, within a period of four months after the end of each financial year, submit to the Cabinet Secretary an annual report dealing generally with the activities and operations of the Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "An annual report submitted under subsection (1) shall include—"
+    }
+   ]
+  },
+  "45": {
+   "num": "45",
+   "title": "Cabinet Secretary’s power of direction",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) The Cabinet Secretary shall oversee the performance of the activities of an Authority under this Act and may, in writing, give the Authority directions on matters of policy not inconsistent with the provisions of this Act.\n(2) The Cabinet Secretary may appoint an oversight committee for purposes of subsection (1).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary shall oversee the performance of the activities of an Authority under this Act and may, in writing, give the Authority directions on matters of policy not inconsistent with the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary may appoint an oversight committee for purposes of subsection (1)."
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "Making of regulations by Authorities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) An Authority may with the approval of the Cabinet Secretary make regulations for the better performance of its functions under this Act.\n(2) Without prejudice to the generality of subsection (1), an Authority may make regulations—\n  (a) relating to the use, safety or maintenance of the roads falling within its responsibility;\n  (b) relating to the erection of structures on, near, over or under the roads falling within its responsibility;\n  (c) for the drainage of streets, lands, compounds and buildings adjacent to the road;\n  (d) respecting the level, width and construction of roads and streets;\n  (e) for the removal, demolition or alteration of any projection, structure or thing obstructing a road or likely to cause damage or inconvenience to road users; and\n  (f) prescribing the fees payable for services provided by the Authority.\n(3) Rules or regulations made under subsection (1) may prescribe, in respect of any contravention of any provision thereof, a fine not exceeding one hundred thousand shillings or imprisonment for a term not exceeding one year or both, and may also prescribe, in the case of continuing offences, an additional penalty in respect of each day in which the offence continues.\n(4) The provisions of section 34 of the Interpretation and General Provisions Act (Cap. 2) shall not apply to regulations made under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An Authority may with the approval of the Cabinet Secretary make regulations for the better performance of its functions under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), an Authority may make regulations—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Rules or regulations made under subsection (1) may prescribe, in respect of any contravention of any provision thereof, a fine not exceeding one hundred thousand shillings or imprisonment for a term not exceeding one year or both, and may also prescribe, in the case of continuing offences, an additional penalty in respect of each day in which the offence continues."
+    },
+    {
+     "ref": "(4)",
+     "text": "The provisions of section 34 of the Interpretation and General Provisions Act (Cap. 2) shall not apply to regulations made under this Act."
+    }
+   ]
+  },
+  "47": {
+   "num": "47",
+   "title": "Roads to be classified",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) All public roads under the management of an Authority shall be classified in the manner set out in the First Schedule.\n(2) In addition to the classification under subsection (1), each public road shall have such number, name or description as to uniquely identify it among all other roads of its class within the country.\n(3) All existing road categorisations and classifications and associated identity numbers defined by the Roads Department of the Ministry responsible for roads prior to the commencement of this Act shall, for the time being, be maintained after the commencement of this Act.\n(4) All existing road categorisations and classifications and associated identity numbers defined by the roads section of the Urban Development Department of the Ministry responsible for Local Government or a local Authority prior to the commencement of this Act shall be maintained for the time being after the date of commencement of this Act, save for such amendments as may be necessary to ensure consistency and compliance with the need for unique identity numbers.\n(5) An Authority may with the authority of the Cabinet Secretary published in the Gazette, add, modify or remove the category of a road.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "All public roads under the management of an Authority shall be classified in the manner set out in the First Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "In addition to the classification under subsection (1), each public road shall have such number, name or description as to uniquely identify it among all other roads of its class within the country."
+    },
+    {
+     "ref": "(3)",
+     "text": "All existing road categorisations and classifications and associated identity numbers defined by the Roads Department of the Ministry responsible for roads prior to the commencement of this Act shall, for the time being, be maintained after the commencement of this Act."
+    },
+    {
+     "ref": "(4)",
+     "text": "All existing road categorisations and classifications and associated identity numbers defined by the roads section of the Urban Development Department of the Ministry responsible for Local Government or a local Authority prior to the commencement of this Act shall be maintained for the time being after the date of commencement of this Act, save for such amendments as may be necessary to ensure consistency and compliance with the need for unique identity numbers."
+    },
+    {
+     "ref": "(5)",
+     "text": "An Authority may with the authority of the Cabinet Secretary published in the Gazette, add, modify or remove the category of a road."
+    }
+   ]
+  },
+  "48": {
+   "num": "48",
+   "title": "Inventory of roads",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) Each Authority shall cause to be maintained and kept current an inventory of the roads under its management, in such format and with such detail, including categorisation and identity details, as may be approved by the Cabinet Secretary.\n(2) Such inventory as described in subsection (1) shall, with the authority of the Cabinet Secretary be published in the Gazette.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Each Authority shall cause to be maintained and kept current an inventory of the roads under its management, in such format and with such detail, including categorisation and identity details, as may be approved by the Cabinet Secretary."
+    },
+    {
+     "ref": "(2)",
+     "text": "Such inventory as described in subsection (1) shall, with the authority of the Cabinet Secretary be published in the Gazette."
+    }
+   ]
+  },
+  "49": {
+   "num": "49",
+   "title": "Structures and other works on, over, and below roads or certain other land",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) Except as provided in subsection (2), no person or body may do any of the following things without the responsible Authority’s written permission or contrary to such permission—\n  (a) erect, construct or lay, or establish any structure or other thing, on or over or below the surface of a road reserve or land in a building restricted area;\n  (b) make any structural alteration or addition to a structure or that other thing situated on or over, or below the surface of a road or road reserve or land in a building restriction area; or\n  (c) give permission for erecting, constructing, laying or establishing, any structure or that other thing on or over, or below the surface of, a road or road reserve or land in a building restriction area, or for any structural alteration or addition to any structure or other thing so situated.\n(2) An Authority may, in its discretion, give or refuse to give permission under this section.\n(3) When giving permission the Authority may prescribe—\n  (a) the specifications with which the structure, other thing, alteration or addition for which permission is requested must comply;\n  (b) the manner and circumstances in which, the place where, the conditions on which the structure, other thing, alteration or addition may be erected, constructed, laid, established or made; and\n  (c) the obligations to be fulfilled by the owner in respect of the land on which the structure, other thing, alteration or addition is to be erected, constructed, laid, established or made.\n(4) Where a person, without the permission required by subsection (1) or contrary to any permission given thereunder, erects, constructs, lays or establishes a structure or other thing, or makes a structural alteration or addition to a structure or other thing, an Authority may by notice in writing direct that person to remove the unauthorised structure, other thing, alteration or addition within a reasonable period which shall be stated in the notice but which may not be shorter than thirty days calculated from the date of the notice.\n(5) If the person to whom a notice has been issued in terms of subsection (4) fails to remove the structure, other thing, alteration or addition mentioned in the notice, within the period stated therein, such item may be removed by the Authority itself which may recover the cost of the removal from that person.\n(6) A person who contravenes any of the provisions of subsection (1) commits an offence and is liable on conviction to a term of imprisonment not exceeding one year or to a fine not exceeding one hundred thousand shillings, or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Except as provided in subsection (2), no person or body may do any of the following things without the responsible Authority’s written permission or contrary to such permission—"
+    },
+    {
+     "ref": "(2)",
+     "text": "An Authority may, in its discretion, give or refuse to give permission under this section."
+    },
+    {
+     "ref": "(3)",
+     "text": "When giving permission the Authority may prescribe—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Where a person, without the permission required by subsection (1) or contrary to any permission given thereunder, erects, constructs, lays or establishes a structure or other thing, or makes a structural alteration or addition to a structure or other thing, an Authority may by notice in writing direct that person to remove the unauthorised structure, other thing, alteration or addition within a reasonable period which shall be stated in the notice but which may not be shorter than thirty days calculated from the date of the notice."
+    },
+    {
+     "ref": "(5)",
+     "text": "If the person to whom a notice has been issued in terms of subsection (4) fails to remove the structure, other thing, alteration or addition mentioned in the notice, within the period stated therein, such item may be removed by the Authority itself which may recover the cost of the removal from that person."
+    },
+    {
+     "ref": "(6)",
+     "text": "A person who contravenes any of the provisions of subsection (1) commits an offence and is liable on conviction to a term of imprisonment not exceeding one year or to a fine not exceeding one hundred thousand shillings, or to both."
+    }
+   ]
+  },
+  "50": {
+   "num": "50",
+   "title": "Liability of owner and driver for damage",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) Where any road is damaged—\n  (a) by reason of any vehicle passing over it in contravention of the provisions of any rules made by an Authority under this Act; or\n  (b) by reason of any vehicle passing over a bridge on the road or coming into contact with any portion thereof other than the surface of the road, the owner of the vehicle and the person driving or propelling it shall jointly and severally be liable to the respective Authority for the damage.\n(2) A certificate under the hand of any person authorized in that behalf by the concerned Authority stating the amount of the cost of making good such damage shall be prima facie evidence of such cost.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where any road is damaged—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A certificate under the hand of any person authorized in that behalf by the concerned Authority stating the amount of the cost of making good such damage shall be prima facie evidence of such cost."
+    }
+   ]
+  },
+  "51": {
+   "num": "51",
+   "title": "Exemption from taxes and duties etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "An Authority may, upon application, be exempted from such taxes and duties as the Cabinet Secretary responsible for finance may, with the approval of Parliament, prescribe.",
+   "clauses": []
+  },
+  "52": {
+   "num": "52",
+   "title": "Proceedings on failure of Authority to comply with the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "If at any time it appears to the Cabinet Secretary that any Authority has failed to comply with any of the provisions of this Act, he may, by notice in writing, require the Board of the Authority to make good the default within such time as may be specified in such notice.",
+   "clauses": []
+  },
+  "53": {
+   "num": "53",
+   "title": "Exercise of certain powers of delegation under the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) Notwithstanding anything in any law to the contrary, no local authority, or other person shall exercise any power relating to the control, maintenance, development or protection of any road except where such power has been delegated by an Authority established under this Act or by the Cabinet Secretary.\n(2) Notwithstanding subsection (1), each Authority shall encourage community and private sector participation in road construction, maintenance and management under its supervision and guidance.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Notwithstanding anything in any law to the contrary, no local authority, or other person shall exercise any power relating to the control, maintenance, development or protection of any road except where such power has been delegated by an Authority established under this Act or by the Cabinet Secretary."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding subsection (1), each Authority shall encourage community and private sector participation in road construction, maintenance and management under its supervision and guidance."
+    }
+   ]
+  },
+  "54": {
+   "num": "54",
+   "title": "Confidentiality of information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) No member, officer or servant of an Authority shall disclose any information which he has acquired in the performance of his functions as such member, officer or servant to any person except so far as may be necessary for the performance of such functions or for due compliance with an order of any Court.\n(2) Any person who contravenes the provisions of subsection (1) commits an offence and shall on conviction be liable to imprisonment for a term not exceeding three months or to a fine not exceeding ten thousand shillings, or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No member, officer or servant of an Authority shall disclose any information which he has acquired in the performance of his functions as such member, officer or servant to any person except so far as may be necessary for the performance of such functions or for due compliance with an order of any Court."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who contravenes the provisions of subsection (1) commits an offence and shall on conviction be liable to imprisonment for a term not exceeding three months or to a fine not exceeding ten thousand shillings, or to both."
+    }
+   ]
+  },
+  "55": {
+   "num": "55",
+   "title": "Authorisation of employees, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "The Director-General may, by notice in writing, authorize any employee appointed under this section to maintain order upon any premises occupied by the Authority for which he is responsible or on a road or vehicle of the Authority.",
+   "clauses": []
+  },
+  "56": {
+   "num": "56",
+   "title": "Accommodation works",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "Where, in the exercise of powers under this Act, an Authority constructs a new road, it shall construct and maintain the following accommodation works for the benefit of the owners and occupiers of lands adjoining those on which the road is constructed—\n  (a) such access facilities or other works as, in the opinion of such Authority, are necessary for the purpose of making good any interruption caused by the construction of the road to the use of the lands through which the road is constructed;\n  (b) such culverts, drains or other works as, in the opinion of the Authority, are necessary to convey water as freely as is practicable from or to such adjoining lands as was the case before the construction of the road:\nProvided that—\n  (i) nothing in this section shall require the construction or the maintenance of any accommodation works—\n(A) in such a manner as to prevent or obstruct the proper operation of the road; or (B) where the owners or occupiers, of the lands or their predecessors in title, have received an agreed amount of compensation in consideration of such works not being constructed or maintained;\n  (ii) where suitable accommodation works for the crossing of roads or watercourses have been constructed under this section and such road or watercourse is afterwards diverted by some person other than the Authority, the Authority shall not be required to construct other accommodation works for the crossing of such road or watercourse.",
+   "clauses": []
+  },
+  "57": {
+   "num": "57",
+   "title": "Additional accommodation works",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "If at any time—\n  (a) the owner or occupier of any lands adjacent to which a road is constructed desires any accommodation works in addition to those, if any, constructed by the Authority under section 56; or\n  (b) a person proposes to construct a public road or any other works across a road, the owner, occupier or person, as the case may be, may require the concerned Authority to construct such accommodation works—\n  (i) as may be agreed between him and that Authority; or\n  (ii) if no such agreement is reached, as may be determined by the Cabinet Secretary, and the cost of constructing such accommodation works shall be borne by the owner, occupier or person requiring them.",
+   "clauses": []
+  },
+  "58": {
+   "num": "58",
+   "title": "Major offences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "Any person who unlawfully—\n  (a) does any act which obstructs or is likely to obstruct the working of any equipment or vehicle belonging to an Authority used in its operations and which act endangers or is likely to endanger the life of any person therein; or\n  (b) damages or in any way interferes with any road or other property of an Authority in such a manner as to endanger the life of any person; or\n  (c) does any act which obstructs or is likely to obstruct the operation of vehicles on any road or the use of any weighbridge, commits an offence and is liable on conviction to imprisonment for a term not exceeding two years, or to a fine not exceeding one hundred thousand shillings, or to both.",
+   "clauses": []
+  },
+  "59": {
+   "num": "59",
+   "title": "Other offences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "Any person who—\n  (a) not being specifically authorized in that behalf, or an employee or agent of any Authority or occupant of a vehicle with justifiable cause to be present, is found during the hours of darkness on any premises occupied by the Authority; or\n  (b) being on any premises occupied by the Authority or in a vehicle of the Authority—\n  (i) refuses when called upon by an employee of the Authority or a police officer to give his name and address, or gives a false name or address with intent to avoid prosecution;\n  (ii) is in a state of intoxication or behaves in a violent or offensive manner to the annoyance of any other person;\n  (iii) commits any act or otherwise does anything which may cause injury to any person on such premises or upon such vehicle;\n  (iv) commits any nuisance or act of indecency or uses profane, obscene, indecent or abusive language;\n  (v) without lawful excuse contravenes any lawful direction given by any employees; or\n  (vi) except with the express permission of the Director-General of the concerned Authority, hawks, sells or exposes for sale any article or goods or service or applies for or carries on any other trade or business;\n  (c) writes, draws or affixes any profane, obscene, indecent, or abusive words, matter, or representative character upon any premises occupied by the Authority or upon any vehicle of the Authority;\n  (d) defaces the writing on any board or any notice authorized to be maintained upon any premises occupied by the Authority or upon any equipment or vehicle of the Authority;\n  (e) damages, or without lawful excuse interferes with any property of the Authority; or\n  (f) without lawful excuse, does any act which obstructs or is likely to obstruct the free movement of vehicles on any road or the use of any road, parking area or related facility; or\n  (g) being a driver or conductor of any vehicle, disobeys lawful instructions while upon premises occupied by the Authority, commits an offence and is liable, on conviction, to imprisonment for a term not exceeding six months, or a fine not exceeding fifty thousand shillings, or to both.",
+   "clauses": []
+  },
+  "60": {
+   "num": "60",
+   "title": "False returns",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "Any person who makes, either knowingly or recklessly, any statement which is false in any material particular in any return, claim or other document which is required or authorized to be made for the purpose of any Authority under this Act, commits an offence and is liable on conviction to imprisonment for a term not exceeding three months, or a fine not exceeding ten thousand shillings, or to both.",
+   "clauses": []
+  },
+  "61": {
+   "num": "61",
+   "title": "Application of regulations to State vehicles",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "The Cabinet Secretary may, by order published in the Gazette, exempt State vehicles or any category of State vehicles from the provisions of this Act or regulations made thereunder.",
+   "clauses": []
+  },
+  "62": {
+   "num": "62",
+   "title": "Detention of vehicles",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "Regulations made under this Act may provide for the detention of vehicles to secure compliance with this Act or any regulations made thereunder, and may make such further provisions as appear to the Cabinet Secretary to be necessary or expedient for securing such detention.",
+   "clauses": []
+  },
+  "63": {
+   "num": "63",
+   "title": "Nuisance caused by vehicles on roads",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "No action shall lie in respect of nuisance by reason only of the noise and vibration caused by vehicles on a public road.",
+   "clauses": []
+  },
+  "64": {
+   "num": "64",
+   "title": "Exemptions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "Notwithstanding the provisions of this Act, the Cabinet Secretary may, upon the recommendation of an Authority, by notice in the Gazette and on such terms and conditions as may be appropriate, exempt any vehicle, person, road, service or enterprise from the application of any regulations made under this Act, if such exemption is in the public interest.",
+   "clauses": []
+  },
+  "65": {
+   "num": "65",
+   "title": "Service of notice etc. on the Director-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "Any notice or other document required or authorised under this Act to be served on an Authority, or a Director-General, may be served—\n  (a) by delivery of the notice or other document to the Director-General or to any authorized employee of the Authority;\n  (b) by leaving it at the office of the Director-General; or\n  (c) by sending it by registered post to the Director-General.",
+   "clauses": []
+  },
+  "66": {
+   "num": "66",
+   "title": "Service of notice etc. by Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "Any notice or other document required or authorized under this Act to be served on any person by an Authority or a Director-General or any employee may be served—\n  (a) by delivering it to that person; or\n  (b) by leaving it at the usual or last known place of abode of that person; or\n  (c) by sending it by registered post addressed to that person at his usual or last known address.",
+   "clauses": []
+  },
+  "67": {
+   "num": "67",
+   "title": "Limitation of actions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "Where any action or other legal proceeding lies against an Authority for any act done in pursuance of or in execution, or intended execution of an order made pursuant to this Act or of any public duty, or in respect of any alleged neglect or default in the execution of this Act or of any such duty, the following provisions shall have effect—\n  (a) the action or legal proceeding shall not be commenced against the Authority until at least one month after written notice containing the particulars of the claim and of intention to commence the action or legal proceedings, has been served upon the Director-General by the plaintiff or his agent; and\n  (b) such action or legal proceedings shall be instituted within twelve months next after the act, neglect, default complained of or, in the case of a continuing injury or damage, within six months next after the cessation thereof.",
+   "clauses": []
+  },
+  "68": {
+   "num": "68",
+   "title": "Restriction on execution against property of Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "Notwithstanding anything to the contrary in any law—\n  (a) where any judgment or order has been obtained against an Authority, no execution or attachment, or process in the nature thereof, shall be issued against such Authority or against its property, but the Director-General shall, without delay, cause to be paid out of the revenue of the Authority such amounts as may, by the judgment or order, be awarded against the Authority;\n  (b) no property of an Authority shall be seized or taken by any person having by law power to attach or distrain property without the previous written permission of the Director-General.",
+   "clauses": []
+  },
+  "69": {
+   "num": "69",
+   "title": "Protection of name",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "Any person who, without the written approval of an Authority, assumes for the purposes of business, or registers in terms of any written law relating to companies or business names under the names—\n  (a) \"Roads Authority\", or \"Road Authority\"; or\n  (b) \"Highways Authority\" or \"Highway Authority\", commits an offence and shall be liable on conviction to imprisonment for a term not exceeding six months or a fine not exceeding one hundred thousand shillings, or to both.",
+   "clauses": []
+  },
+  "70": {
+   "num": "70",
+   "title": "Consultation with users or departments",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) In the performance of its functions or exercise of its powers under this Act, each Authority shall, where appropriate, consult with the Cabinet Secretary, other authorities, bodies or persons and users of its facilities and services.\n(2) An Authority may establish such consultative mechanism as it deems appropriate to obtain the views of the users of its facilities and services.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In the performance of its functions or exercise of its powers under this Act, each Authority shall, where appropriate, consult with the Cabinet Secretary, other authorities, bodies or persons and users of its facilities and services."
+    },
+    {
+     "ref": "(2)",
+     "text": "An Authority may establish such consultative mechanism as it deems appropriate to obtain the views of the users of its facilities and services."
+    }
+   ]
+  },
+  "71": {
+   "num": "71",
+   "title": "Transitional provisions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "The transitional provisions set out in the Fourth Schedule shall apply upon the commencement of this Act.",
+   "clauses": []
+  },
+  "72": {
+   "num": "72",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "",
+   "clauses": []
+  },
+  "73": {
+   "num": "73",
+   "title": "Amendment of Schedule",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "The Cabinet Secretary may, by Order published in the Gazette, amend the Second Schedule.",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [ss. 2, 47] CLASSIFICATION OF PUBLIC ROADS",
+   "subtitle": null,
+   "text": "All public roads in Kenya shall be classified as follows— PART A - NATIONAL ROADS Class Description CLASS A International trunk roads linking centres of international importance and crossing international boundaries or terminating at international ports.\nCLASS B National trunk roads linking nationally important centres.\nCLASS C Primary roads linking provincially important centres to each other or two higher class roads.\nPART - RURAL ROADS Class Description CLASS D Secondary roads linking locally important centres to each other, to more important centres or to higher class roads.\nCLASS E Any link to a minor centre.\nClass Description CLASS F Forest roads.\nCLASS G Roads serving Government institutions.\nCLASS K Roads accessing coffee (kahawa) growing areas.\nCLASS L Roads accessing settlement scheme areas.\nCLASS P National park roads.\nCLASS R Roads accessing rural areas.\nCLASS S Roads accessing sugar growing areas.\nCLASS T Roads accessing tea growing areas.\nCLASS U Unclassified rural roads including mining roads, etc.\nCLASS W Roads accessing wheat growing areas.\nPART C – URBAN ROADS Class Description CLASS UA Urban Arterials.\nCLASS UC Urban Collectors including primary distributors, district distributors.\nCLASS UL Urban local roads including minor distributors, local streets, residential stand accesses, commercial and industrial stand accesses, shopping streets."
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [ss. 5(2), 8(2), 11(2)] THE VARIOUS BODIES WHICH MAY NOMINATE REPRESENTATIVES",
+   "subtitle": "TO BE APPOINTED BY THE CABINET SECRETARY",
+   "text": "PART A – THE HIGHWAYS AUTHORITY 1. Institution of Engineers of Kenya 2. Law Society of Kenya 3. Institute of Certified Public Accountants of Kenya 4. Institute of Surveyors of Kenya 5. Kenya Association of Manufacturers 6. Any institution of tertiary learning PART B – THE RURAL ROADS AUTHORITY 1. Institution of Engineers of Kenya 2. Institute of Certified Public Accountants of Kenya 3. Institute of Surveyors of Kenya 4. Association of Local Government Authorities 5. Any institution of tertiary learning 6. Kenya Farmers’ Association PART C – THE URBAN ROADS AUTHORITY 1. Institution of Engineers of Kenya 2. Institution of Surveyors of Kenya 3. Kenya Institute of Physical Planners 4. Kenya Association of Manufacturers 5. Any registered public transport organisation"
+  },
+  {
+   "id": "att_3",
+   "title": "THIRD SCHEDULE [ss. 5(3), 8(3), 11(3)]",
+   "subtitle": "PROVISIONS AS TO THE CONDUCT OF THE BUSINESS AND AFFAIRS OF THE BOARD",
+   "text": "1. Meetings of the Board\n(1) The first meeting of the Board shall be convened by the Chairperson and, subsequently, the Board shall meet as often as necessary for the transaction of business at such places and at such times as may be decided upon by the Board, but it shall meet at least once every three months.\n(2) The Chairperson shall preside at every meeting of the Board and in his absence the members present may appoint a member from among themselves to preside at that meeting.\n(3) The Chairperson or in his absence a member appointed by the Board to act in his place, may at any time call a special meeting upon a written request by a majority of the members.\n(4) Notice of every meeting of the Board shall be given in writing to each member at least five days before the day of the meeting.\n2. Quorum\n(1) Subject to subparagraph (2), five members, excluding the ex officio members shall constitute a quorum for the conduct of business at any meeting of the Board.\n(2) When there is no quorum at, or for the continuation of, a meeting of the Board only because of the exclusion of a member from the deliberations on a matter in which he has disclosed a personal interest, the other members present may if they deem it expedient so to do—\n  (a) postpone the consideration of that matter until there is a quorum without that member; or\n  (b) proceed to consider and decide the matter as if there was a quorum.\n3. Decisions of the Board\n(1) All questions proposed at a meeting of the Board shall be decided by a majority of the votes of the members present and voting, and in the event of an equality of votes, the person presiding shall have a casting vote in addition to his deliberative vote.\n(2) A decision may be made by the Board without a meeting by circulation of the relevant papers among the members of the Board and by the expression of the views of the majority of the members in writing but any member shall be entitled to require that the decision be deferred and the matter on which a decision is sought be considered at a meeting of the Board.\n4. Minutes of proceedings\n(1) The Board shall cause the minutes of all proceedings of its meetings to be recorded and kept, and the minutes of each meeting shall be confirmed by the Board at the next meeting of the Board and signed by the Chairperson or the person presiding at the meeting.\n(2) The Chairperson of the Board shall submit to the Cabinet Secretary a copy of the minutes of each meeting of the Board as soon as the minutes have been confirmed.\n5. Board to regulate its own procedure Subject to the provisions of the State Corporations Act, the Board may regulate its own procedure.\n6. Co-opting to the Board The Board may co-opt any person to participate in its deliberations, but a person so co-opted shall have no right to vote.\n7. Committees of the Board\n(1) The Board may appoint committees of the Board—\n  (a) to inquire into and advise the Board on any matter concerning the functions of the Authority as the Board may refer to the committee;\n  (b) to exercise such powers or perform such functions of the Authority as the Board may delegate or refer to the committee.\n(2) A committee appointed under subsection (1) shall consist of a Chairperson and other persons, whether members of the Board or not, as the Board may determine.\n(3) The Board may require a committee appointed under this section to act jointly or in co-operation with any other committee.\n(4) Members of a committee appointed under this section may be paid such allowances as the Board may, with the approval of the Cabinet Secretary, determine.\n(5) Subject to any direction given by the Board, a committee appointed under this section may regulate its own procedure.\n8. Secretary to the Board The Director-General shall be secretary to the Board."
+  },
+  {
+   "id": "att_4",
+   "title": "FOURTH SCHEDULE [s. 71]",
+   "subtitle": "TRANSITIONAL ARRANGEMENTS",
+   "text": "1. Interim management committees The Cabinet Secretary shall establish an interim management committee for the Highways Authority and the Rural Roads Authority and for the Urban Roads Authority in consultation with the Cabinet Secretary responsible for Local Government.\n2. Transfer of functions\n(1) On the inaugural date for the Highways Authority, all functions of the Roads Department and the Urban Development Department pertaining to national roads shall be deemed to have been transferred, assigned and delegated to the Highways Authority.\n(2) On the inaugural date for the Rural Roads Authority, all functions of the Roads Department and the Urban Development Department pertaining to rural roads shall be deemed to have been transferred, assigned and delegated to the Rural Roads Authority.\n(3) All county and town councils as defined under the Local Government Act (Cap. 265) shall, on the inaugural date for the Rural Roads Authority, or upon creation thereof where such creation occurs after the inaugural date, be deemed to have transferred, assigned and delegated all functions as described in section 7 of this Act in full to the Rural Roads Authority.\n(4) All municipal councils and the city council shall, on the inaugural date for the Urban Roads Authority or upon their creation where this occurs after the inaugural date, after the inaugural date, be deemed to have transferred all functions described in section 10 to the Urban Roads Authority in full.\n3. Transfer of rights, powers, etc.\n(1) All rights, powers, liabilities and duties, whether arising under any written law or otherwise, which immediately before the commencement of this Act were vested in, imposed on or enforceable against the Government in respect of the Roads Department and the roads section of the Urban Development Department as the case may be, shall, on the respective inaugural dates be transferred to, vested in, imposed on or be enforceable against the Highways Authority, the Rural Roads Authority or the Urban Roads Authority as the case may be.\n(2) All rights, powers and liabilities relating directly to roads, whether arising under any written law or otherwise, which immediately before the commencement of this Act were vested in, imposed on or enforceable against town councils, and county councils as the case may be shall, on the inaugural date for the Rural Roads Authority, be transferred to, vested in, imposed on or be enforceable against the Rural Roads Authority.\n(3) All rights, powers and liabilities relating directly to roads, whether arising under any written law or otherwise, which immediately before the commencement of this Act were vested in, imposed on or enforceable against municipal councils, or the City Council as the case may be, shall, on the inaugural date for the Urban Roads Authority, be transferred to, vested in, imposed on or be enforceable against the Urban Roads Authority.\n4. Directions, orders issued before commencement\n(1) All lawful directions, orders, rules, authorizations and other things published, made, given or done by the Roads Department relating to national roads, or subsidiary legislation thereunder, subsisting at the inaugural date shall on and after that day be deemed to have been published, given, made or done by the Highways Authority.\n(2) All legal directions, orders, rules, authorizations and other things published, made given or done by the Urban Development Department relating to urban roads, or subsidiary legislation thereunder subsisting at the inaugural date, shall on and after that day be deemed to have been published, given, made or done by the Urban Roads Authority.\n(3) All legal directions, orders, rules, authorisations and other things published, made, given or done by a local Authority in relation to roads, or subsidiary legislation thereunder subsisting at the inaugural date shall on and after that day be deemed to have been published, given, made or done by the Urban Roads Authority or Rural Roads Authority, as the case may be.\n5. Acts etc. before commencement of this Act\n(1) Any legal act or thing done or purported to be made or done or any act or thing omitted to be done on behalf of or in the name of the Roads Department prior to the inaugural date of any of the authorities established under this Act by any person acting in good faith and with due or apparent Authority in that behalf shall be deemed to be an act or thing made or done or omitted to be done, as the case may be, by the concerned Authority.\n(2) Any legal act or thing done or purported to be made or done or omitted to be done on behalf of or in the name of the Urban Development Department as relates directly to roads, prior to the inaugural date of the Urban Roads Authority or the Rural Roads Authority by any person acting in good faith and with due or apparent Authority in that behalf shall be deemed to be an act or thing made or done or omitted to be done, as the case may be, by the Urban Roads Authority or Rural Roads Authority, as the case may be.\n(3) All legal directions, orders, rules, authorization and other things published, made, given or done by a Local Authority in relation to roads, or subsidiary legislation thereunder subsisting at the inaugural date shall on and after that date be deemed to have been published, given, made or done by the Urban Roads Authority or the Rural Roads Authority, as the case may be.\n6. Regulations governing transfer of assets liabilities\n(1) The Cabinet Secretary for Finance, may, in consultation with the Cabinet Secretary and with the Cabinet Secretary for Local Government, provide that any assets and liabilities which, immediately before the commencement of this Act, were vested in the Government for the use of the Roads Department or the roads section of the Urban Development shall on such commencement vest in the Highways Authority or the Urban Roads Authority, as the case may be.\n(2) The Cabinet Secretary responsible for finance may at any time, in consultation with the Cabinet Secretary and the Cabinet Secretary responsible for local government, direct that any assets and liabilities which immediately before the commencement of this Act were vested in any local authority for purposes of road development and maintenance be vested in the Urban Roads Authority or the Rural Roads Authority, as the case may be.\n7. Regulations governing transfer of functions The Cabinet Secretary and the Cabinet Secretaries responsible for matters relating to finance and Local Government shall have power to issue such administrative guidelines and regulations to be followed in enabling all road maintenance, rehabilitation and development functions, and any matters pertaining thereto to be transferred from any local Authority to the authorities as appropriate.\n8. Updating of records Every public officer having the power or duty to effect or amend any entry in a register relating to property, or to issue or amend any certificate upon request made by or on behalf of an Authority, shall do all such things as are by law necessary to give final effect to the transfer of property mentioned in any order made under this Schedule.\n9. Staff\n(1) Upon the commencement of this Act the various Boards shall assess the members of staff of the Roads Department or the roads section of the Urban Development Department or of any local Authority and select officers therefrom pursuant to section 15 of this Act.\n(2) Any person assessed and engaged as an officer of any Authority under subparagraph (1) shall be deemed to be in continuous service for purposes of the pensions laws.\n(3) Any officer who is assessed and engaged by an Authority under subparagraph (1) who was on the date of the commencement of this Act a member of any statutory or voluntary pension scheme or provident fund, shall for the purpose of this Act, continue to be governed by the same regulations governing those schemes or funds and his service with the respective Authority shall be deemed to be eligible service for the purposes of the pension scheme or provident fund.\n10. Interpretation In this Schedule—\n“City Council” means the City Council of Nairobi within the meaning of the Local Government Act;\n“inaugural date” means the dates of inauguration of the various authorities established under this Act, which dates shall fall within the period of twelve months after the commencement of this Act, on which an Authority shall be declared by the Cabinet Secretary to assume full responsibility of the roads falling within the mandate by virtue of this Act;\n“road Authority” means any of the authorities established under this Act;\n“Roads Department” means the department by that name within the Ministry responsible for Roads at the date of the commencement of this Act;\n“Urban Development Department” means the department by that name within the Ministry of Local Government at the date of commencement of this Act.\n(Act No. 1 of 2008)"
+  },
+  {
+   "id": "att_5",
+   "title": "FIFTH SCHEDULE [s. 72]",
+   "subtitle": null,
+   "text": "Spent CONSEQUENTIAL AMENDMENTS"
+  }
+ ]
+}

@@ -1,0 +1,1100 @@
+{
+ "title": "Teachers Service Commission Act",
+ "citation": "Cap. 212",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2012/20/eng@2023-12-11",
+ "version_date": "2023-12-11",
+ "retrieved": "2026-10-04",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "TEACHERS SERVICE COMMISSION ACT CAP. 212 Published in Kenya Gazette Vol. CXIV—No. No. 81 on 31 August 2012 Assented to on 24 August 2012 Commenced on 31 August 2012\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] [Amended by Statute Law (Miscellaneous Amendment) Act, 2023 (Act No. 19 of 2023) on 11 December 2023]\nAn Act of Parliament to make further provision for the Teachers Service Commission established under Article 237 of the Constitution, its composition; functions and powers; the qualifications and procedure for appointment of members; and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "COMPOSITION AND ADMINISTRATION",
+   "provisions": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "REGISTRATION AND DISCIPLINE OF TEACHERS AND COMPLIANCE WITH TEACHING STANDARDS",
+   "provisions": [
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "36",
+    "37",
+    "38",
+    "39",
+    "40"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Teachers Service Commission Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In this Act, unless the context otherwise requires— \"Chairperson\" means the Chairperson of the Commission appointed under the Constitution and section 8; \"Commission\" means the Teachers Service Commission established under Article 237 of the Constitution; \"head teacher\" means the lead educator or administrator in a primary school level educational institution appointed by the Commission as such and responsible for the implementation of the educational policy guidelines and professional practices; \"learner\" means a person undergoing instruction in an educational institution; \"member\" means a member of the Commission appointed in accordance with the Constitution and section 8 of this Act; \"principal\" means the lead educator or administrator in a post-primary school level educational institution appointed by the Commission as such and responsible for the implementation of educational policy guidelines and professional practices; \"register\" means the register of teachers as provided for by section 24; \"Secretary\" means the Secretary to the Commission appointed by the Commission under Article 250(12) of the Constitution in accordance with the procedure set out in section 16; \"teacher\" means a person who has been trained as a teacher as provided for in law and registered as a teacher; \"teaching certificate\" means a certificate issued to a registered teacher under section 35(2)(b) of this Act; \"teaching service\" means the collectivity of all individuals registered by the commission and engaged in the teaching profession whether employed by the Commission or not; and\n\"teaching standards\" mean standards of teaching prescribed by the Commission under section 35 and the regulations made thereunder. (2) Spent.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, unless the context otherwise requires— \"Chairperson\" means the Chairperson of the Commission appointed under the Constitution and section 8; \"Commission\" means the Teachers Service Commission established under Article 237 of the Constitution; \"head teacher\" means the lead educator or administrator in a primary school level educational institution appointed by the Commission as such and responsible for the implementation of the educational policy guidelines and professional practices; \"learner\" means a person undergoing instruction in an educational institution; \"member\" means a member of the Commission appointed in accordance with the Constitution and section 8 of this Act; \"principal\" means the lead educator or administrator in a post-primary school level educational institution appointed by the Commission as such and responsible for the implementation of educational policy guidelines and professional practices; \"register\" means the register of teachers as provided for by section 24; \"Secretary\" means the Secretary to the Commission appointed by the Commission under Article 250(12) of the Constitution in accordance with the procedure set out in section 16; \"teacher\" means a person who has been trained as a teacher as provided for in law and registered as a teacher; \"teaching certificate\" means a certificate issued to a registered teacher under section 35(2)(b) of this Act; \"teaching service\" means the collectivity of all individuals registered by the commission and engaged in the teaching profession whether employed by the Commission or not; and"
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Incorporation of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "(1) In addition to the powers of the Commission under Article 252 of the Constitution, the Commission shall have the power to—\n  (a) acquire, hold, charge and dispose of movable and immovable property; and (b) do or perform all such other things or acts for the proper discharge of its functions under the Constitution and this Act as may lawfully be done or performed by a body corporate.\n(2) The headquarters of the Commission shall be in the capital city, but the Commission shall establish offices in each county.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In addition to the powers of the Commission under Article 252 of the Constitution, the Commission shall have the power to— (a) acquire, hold, charge and dispose of movable and immovable property; and (b) do or perform all such other things or acts for the proper discharge of its functions under the Constitution and this Act as may lawfully be done or performed by a body corporate."
+    },
+    {
+     "ref": "(2)",
+     "text": "The headquarters of the Commission shall be in the capital city, but the Commission shall establish offices in each county."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Guiding principles",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "In the performance of its functions and the exercise of its powers, the Commission shall—\n  (a) be guided by the national values and principles of governance under Article 10 and the values and principles of public service under Article 232 of the Constitution, taking into account the best interests of the child under Article 53 of the Constitution; and (b) subject to Article 249(2) of the Constitution, consult with State and non-State actors in the education sector.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Membership of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "(1) The Commission shall consist of a Chairperson and eight other members appointed in accordance with the Constitution and the provisions of section 8.\n(2) The Chairperson and members of the Commission shall serve on a fulltime basis for a nonrenewable term of six years.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission shall consist of a Chairperson and eight other members appointed in accordance with the Constitution and the provisions of section 8."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Chairperson and members of the Commission shall serve on a fulltime basis for a nonrenewable term of six years."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Qualification for appointment of Chairperson and members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "(1) A person shall be qualified for appointment as the Chairperson if such person—\n  (a) holds a degree in education from a university recognized in Kenya;\n  (b) has knowledge and experience of at least fifteen years in matters relating to education and training; and (c) meets the requirements of Chapter Six of the Constitution.\n(2) A person shall be qualified for appointment as a member if such person—\n  (a) holds a degree from a university recognized in Kenya;\n  (b) has knowledge and experience of at least ten years in matters relating to any of the following fields—\n  (i) education;\n  (ii) governance;\n  (iii) management; or (iv) law; and (c) meets the requirements of Chapter Six of the Constitution. (3) In appointing members of the Commission, the President shall ensure that at least two-thirds of the members have experience in education.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall be qualified for appointment as the Chairperson if such person— (a) holds a degree in education from a university recognized in Kenya; (b) has knowledge and experience of at least fifteen years in matters relating to education and training; and (c) meets the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall be qualified for appointment as a member if such person— (a) holds a degree from a university recognized in Kenya; (b) has knowledge and experience of at least ten years in matters relating to any of the following fields— (i) education; (ii) governance;"
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Disqualification from membership",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "A person shall not be qualified for appointment as a Chairperson or member if the person—\n  (a) is a serving member of Parliament or County Assembly;\n  (b) is a serving member of a governing body of a political party;\n  (c) is a member of a local authority; or (d) has been found in accordance with any law to have misused or abused a State office or public office or in any way to have contravened Chapter six of the Constitution.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Procedure for nominations and appointment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "(1) Within fourteen days of the commencement of this Act, or whenever a vacancy arises in the Commission, the President in consultation with the Prime Minister shall by notice in the Gazette declare a vacancy and constitute a selection panel for the purpose of selecting suitable candidates for appointment as the Chairperson or member of the Commission.\n(2) The selection panel constituted under subsection (1) shall consist of—\n  (a) a Chairperson not being a public officer appointed by the President;\n  (b) the Cabinet Secretary in the Ministry responsible for matters relating to education or his representative;\n  (c) the Attorney-General or his representative;\n  (d) the Cabinet Secretary in the Ministry responsible for public service or his representative;\n  (e) one person nominated by the Federation of Kenya Employers;\n  (f) two persons, one man and one woman, nominated by the registered trade unions representing the interests of registered teachers;\n  (g) one person nominated by a recognised association of private schools; and (h) a prominent educationist not serving in Government appointed by the Cabinet Secretary.\n(3) A person appointed under subsection (2)(f) shall not be a serving official of the nominating union. (4) The Chairperson shall convene the first meeting of the selection panel within seven days of his or her appointment. (5) The selection panel shall, within seven days of convening, invite applications from persons who qualify for nomination and appointment as Chairperson or member of the Commission by advertisement in at least two daily newspapers of national circulation. (6) The selection panel shall within seven days of receipt of applications under subsection (5)—\n  (a) consider the applications to determine their compliance with the provisions of the Constitution and this Act;\n  (b) shortlist the applicants;\n  (c) interview the shortlisted applicants; and\n  (d) submit the names of three qualified applicants for the position of Chairperson and thirteen qualified applicants for the position of a member to the President.\n(7) The President shall, within seven days of receipt of the names forwarded under subsection (6), nominate one person and eight others for appointment as Chairperson and members of the Commission and forward the names to the National Assembly for approval.\n(8) The National Assembly shall, within twenty one days of its sitting, consider each nomination received under subsection (7) and approve or reject any of them.\n(9) Where the National Assembly approves the nominees, the Speaker of the National Assembly shall, within five days forward the name of the approved applicants to the President for appointment.\n(10) The President shall, by notice in the Gazette, appoint the Chairperson and members approved by the National Assembly within seven days of receipt of the approved nominees from the Speaker of the National Assembly.\n(11) Where the National Assembly rejects any nominee, the Speaker shall within five days communicate its decision to the President and request the President to submit fresh nominations from amongst the persons shortlisted and forwarded by the selection panel under subsection (6).\n(12) If the National Assembly rejects any or all of the subsequent nominees submitted by the President for approval under subsection (10), the provisions of subsections (5) and (6) shall apply.\n(13) The panel shall stand dissolved upon the appointment of the Chairperson and members under subsection (10).\n(14) Where the provisions of subsection (11) apply, the panel shall continue to exist but shall stand dissolved upon the requisite appointments being made.\n(15) The ministry responsible for public service shall provide secretariat services to the panel.\n(16) In nominating or appointing a person as a member of the Commission, the panel and the President shall—\n  (a) observe the principle of gender equity, ethnic and other diversities of the people of Kenya, and shall ensure equality of opportunity for persons with disabilities; and\n  (b) take into account the national values and principles set out in Articles 10, 27 and 232 of the Constitution.\n(17) Spent.\n(18) Despite the foregoing provisions of this section, the President, in consultation with the Prime Minister may by notice in the Gazette, extend the period specified in respect of any matter under this section by a period not exceeding twenty-one days.\n(19) Subject to this section, the panel may determine its own procedure.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Within fourteen days of the commencement of this Act, or whenever a vacancy arises in the Commission, the President in consultation with the Prime Minister shall by notice in the Gazette declare a vacancy and constitute a selection panel for the purpose of selecting suitable candidates for appointment as the Chairperson or member of the Commission."
+    },
+    {
+     "ref": "(2)",
+     "text": "The selection panel constituted under subsection (1) shall consist of— (a) a Chairperson not being a public officer appointed by the President; (b) the Cabinet Secretary in the Ministry responsible for matters relating to education or his representative; (c) the Attorney-General or his representative; (d) the Cabinet Secretary in the Ministry responsible for public service or his representative; (e) one person nominated by the Federation of Kenya Employers; (f) two persons, one man and one woman, nominated by the registered trade unions representing the interests of registered teachers; (g) one person nominated by a recognised association of private schools; and (h) a prominent educationist not serving in Government appointed by the Cabinet Secretary."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person appointed under subsection (2)(f) shall not be a serving official of the nominating union. (4) The Chairperson shall convene the first meeting of the selection panel within seven days of his or her appointment. (5) The selection panel shall, within seven days of convening, invite applications from persons who qualify for nomination and appointment as Chairperson or member of the Commission by advertisement in at least two daily newspapers of national circulation. (6) The selection panel shall within seven days of receipt of applications under subsection (5)—"
+    },
+    {
+     "ref": "(7)",
+     "text": "The President shall, within seven days of receipt of the names forwarded under subsection (6), nominate one person and eight others for appointment as Chairperson and members of the Commission and forward the names to the National Assembly for approval."
+    },
+    {
+     "ref": "(8)",
+     "text": "The National Assembly shall, within twenty one days of its sitting, consider each nomination received under subsection (7) and approve or reject any of them."
+    },
+    {
+     "ref": "(9)",
+     "text": "Where the National Assembly approves the nominees, the Speaker of the National Assembly shall, within five days forward the name of the approved applicants to the President for appointment."
+    },
+    {
+     "ref": "(10)",
+     "text": "The President shall, by notice in the Gazette, appoint the Chairperson and members approved by the National Assembly within seven days of receipt of the approved nominees from the Speaker of the National Assembly."
+    },
+    {
+     "ref": "(11)",
+     "text": "Where the National Assembly rejects any nominee, the Speaker shall within five days communicate its decision to the President and request the President to submit fresh nominations from amongst the persons shortlisted and forwarded by the selection panel under subsection (6)."
+    },
+    {
+     "ref": "(12)",
+     "text": "If the National Assembly rejects any or all of the subsequent nominees submitted by the President for approval under subsection (10), the provisions of subsections (5) and (6) shall apply."
+    },
+    {
+     "ref": "(13)",
+     "text": "The panel shall stand dissolved upon the appointment of the Chairperson and members under subsection (10)."
+    },
+    {
+     "ref": "(14)",
+     "text": "Where the provisions of subsection (11) apply, the panel shall continue to exist but shall stand dissolved upon the requisite appointments being made."
+    },
+    {
+     "ref": "(15)",
+     "text": "The ministry responsible for public service shall provide secretariat services to the panel."
+    },
+    {
+     "ref": "(16)",
+     "text": "In nominating or appointing a person as a member of the Commission, the panel and the President shall—"
+    },
+    {
+     "ref": "(17)",
+     "text": "Spent."
+    },
+    {
+     "ref": "(18)",
+     "text": "Despite the foregoing provisions of this section, the President, in consultation with the Prime Minister may by notice in the Gazette, extend the period specified in respect of any matter under this section by a period not exceeding twenty-one days."
+    },
+    {
+     "ref": "(19)",
+     "text": "Subject to this section, the panel may determine its own procedure."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Oath of office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "The Chairperson, members and the Secretary shall each make and subscribe before the Chief Justice the oath or affirmation set out in the First Schedule.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Vacancy",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "(1) The office of the Chairperson or member shall become vacant if the holder—\n  (a) dies;\n  (b) by a notice in writing addressed to the President resigns from office;\n  (c) is convicted of a criminal offence and sentenced to a term of imprisonment of not less than six months; or (d) is removed from office in accordance with Article 251 of the Constitution. (2) The President shall notify every resignation, vacancy or removal as the case may be in the Gazette within fourteen days of such vacancy. (3) Where a vacancy occurs in the membership of the Commission under subsection (1), the appointment procedure provided for in section 8 shall with necessary modifications, apply. (4) A member appointed under subsection (3) shall serve for a non-renewable term of six years.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The office of the Chairperson or member shall become vacant if the holder—"
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Functions of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "In addition to the functions set out in Article 237 of the Constitution, the Commission shall—\n  (a) formulate policies to achieve its mandate;\n  (b) provide strategic direction, leadership and oversight to the secretariat;\n  (c) ensure that teachers comply with the teaching standards prescribed by the Commission under this Act;\n  (d) manage the payroll of teachers in its employment;\n  (e) facilitate career progression and professional development for teachers in the teaching service including the appointment of head teachers and principals;\n  (f) monitor the conduct and performance of teachers in the teaching service; and (g) do all such other things as may be necessary for the effective discharge of its functions and the exercise of its powers.",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Powers of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "(1) The Commission shall have all powers necessary for the execution of its functions under the Constitution and this Act.\n(2) In the performance of its functions and in the exercise of its powers, the Commission—\n  (a) may inform itself in such manner as it considers appropriate;\n  (b) may receive written or oral statements from members of the public;\n  (c) may require the attendance of a person before it or its committee; and (d) shall not be bound by the strict rules of evidence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission shall have all powers necessary for the execution of its functions under the Constitution and this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "In the performance of its functions and in the exercise of its powers, the Commission— (a) may inform itself in such manner as it considers appropriate; (b) may receive written or oral statements from members of the public; (c) may require the attendance of a person before it or its committee; and (d) shall not be bound by the strict rules of evidence."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Committees of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "(1) The Commission may from time to time establish such committees as may be necessary for the better carrying out of its functions and the exercise of its powers.\n(2) Without prejudice to the generality of subsection (1), the committees may deal with issues relating to recruitment, promotion, dispute resolution and discipline of registered teachers.\n(3) The Commission may co-opt into the membership of committees established under subsection (1) any person whose knowledge and skills are necessary for the proper performance of the functions of the Commission.\n(4) A person co-opted under subsection (3) may attend the meetings of the committee and participate in its deliberations but shall have no right to vote at the meeting.\n(5) In addition to the committees established under subsection (1), the Commission shall constitute a consultative committee on the terms and conditions of service of registered teachers employed by the Commission.\n(6) The committee constituted under subsection (5) shall consist of—\n  (a) a Chairperson who shall be an experienced educationist appointed by the Commission;\n  (b) a member of the Commission;\n  (c) the Secretary to the Commission;\n  (d) a representative of the Principal Secretary in the Ministry responsible for education;\n  (e) a representative of the Principal Secretary in the Ministry responsible for finance;\n  (f) a representative of the Principal Secretary in the Ministry responsible for public service;\n  (g) five persons nominated by trade unions representing the interests of registered teachers; and (h) a certified public secretary of good professional standing appointed by the Commission, who shall be the secretary and an ex-officio member of the committee.\n(7) The Chairperson, members and secretary appointed under subsection (6) (g) and (h) shall serve for a term of three years renewable for one further term.\n(8) The Commission may make regulations to give further effect to this section.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission may from time to time establish such committees as may be necessary for the better carrying out of its functions and the exercise of its powers."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), the committees may deal with issues relating to recruitment, promotion, dispute resolution and discipline of registered teachers."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Commission may co-opt into the membership of committees established under subsection (1) any person whose knowledge and skills are necessary for the proper performance of the functions of the Commission."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person co-opted under subsection (3) may attend the meetings of the committee and participate in its deliberations but shall have no right to vote at the meeting."
+    },
+    {
+     "ref": "(5)",
+     "text": "In addition to the committees established under subsection (1), the Commission shall constitute a consultative committee on the terms and conditions of service of registered teachers employed by the Commission."
+    },
+    {
+     "ref": "(6)",
+     "text": "The committee constituted under subsection (5) shall consist of— (a) a Chairperson who shall be an experienced educationist appointed by the Commission; (b) a member of the Commission; (c) the Secretary to the Commission; (d) a representative of the Principal Secretary in the Ministry responsible for education; (e) a representative of the Principal Secretary in the Ministry responsible for finance; (f) a representative of the Principal Secretary in the Ministry responsible for public service; (g) five persons nominated by trade unions representing the interests of registered teachers; and (h) a certified public secretary of good professional standing appointed by the Commission, who shall be the secretary and an ex-officio member of the committee."
+    },
+    {
+     "ref": "(7)",
+     "text": "The Chairperson, members and secretary appointed under subsection (6) (g) and (h) shall serve for a term of three years renewable for one further term."
+    },
+    {
+     "ref": "(8)",
+     "text": "The Commission may make regulations to give further effect to this section."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Units of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "(1) The Commission may create within itself such directorates, divisions or units and appoint thereto such staff in accordance with the Regulations.\n(2) Each directorate, division or unit created under subsection (1) shall act in accordance with the mandate approved by the Commission and directives given in writing by the Secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission may create within itself such directorates, divisions or units and appoint thereto such staff in accordance with the Regulations."
+    },
+    {
+     "ref": "(2)",
+     "text": "Each directorate, division or unit created under subsection (1) shall act in accordance with the mandate approved by the Commission and directives given in writing by the Secretary."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Conduct of the affairs of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "(1) The business and affairs of the Commission shall be conducted in accordance with the Second Schedule.\n(2) Except as provided in the Second Schedule, the Commission may regulate its own procedure. (3) The Commission may invite any person to attend any of its meetings and to participate in its deliberations, but such a person shall no right to vote at the meeting.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The business and affairs of the Commission shall be conducted in accordance with the Second Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "Except as provided in the Second Schedule, the Commission may regulate its own procedure. (3) The Commission may invite any person to attend any of its meetings and to participate in its deliberations, but such a person shall no right to vote at the meeting."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Appointment and duties of the Secretary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "(1) The appointment of the Secretary to the Commission under Article 250(12) of the Constitution shall be through a competitive recruitment process.\n(2) A person shall not qualify for appointment under subsection (1) unless such a person—\n  (a) is a citizen of Kenya;\n  (b) holds a degree in education from a university recognized in Kenya;\n  (c) has had at least ten years’ experience in education, administration and management, public administration, human resource or financial management; and (d) meets the requirements of Chapter Six of the Constitution.\n(3) A person appointed as a Secretary under subsection (1) shall be a State officer. (4) The Secretary shall hold office for a term of five years but shall be eligible for re-appointment for one further term of five years. (5) The Secretary shall, in the performance of the functions and duties of office, be responsible to the Commission. (6) The Secretary shall be—\n  (a) the head of the secretariat;\n  (b) the accounting officer of the Commission;\n  (c) the custodian of all records of the Commission; and (d) responsible for—\n  (i) executing decisions of the Commission;\n  (ii) assigning duties to and supervising the staff of the Commission;\n  (iii) facilitating, coordinating and ensuring the execution of the Commission’s mandate;\n  (iv) ensuring staff compliance with public ethics and values;\n  (v) the proper and diligent implementation of Part IV of this Act; and (vi) the performance of such other duties as may be assigned by the Commission under this Act or any other written law.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The appointment of the Secretary to the Commission under Article 250(12) of the Constitution shall be through a competitive recruitment process."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall not qualify for appointment under subsection (1) unless such a person— (a) is a citizen of Kenya; (b) holds a degree in education from a university recognized in Kenya; (c) has had at least ten years’ experience in education, administration and management, public administration, human resource or financial management; and (d) meets the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person appointed as a Secretary under subsection (1) shall be a State officer. (4) The Secretary shall hold office for a term of five years but shall be eligible for re-appointment for one further term of five years. (5) The Secretary shall, in the performance of the functions and duties of office, be responsible to the Commission. (6) The Secretary shall be—"
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Removal of the Secretary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "(1) The Secretary may only be removed from office by the Commission, in accordance with the terms and conditions of service, for—\n  (a) inability to perform the functions of the office arising out of physical or mental infirmity;\n  (b) gross misconduct or misbehavior;\n  (c) incompetence or neglect of duty;\n  (d) a violation of the Constitution; or (e) any other ground that would justify removal from office under the terms and conditions of service.\n(2) Before the Secretary is removed under subsection (1), the Secretary shall be given—\n  (a) sufficient notice of the allegations made against him or her; and (b) an opportunity to present his or her case against the allegations, either in person or by a legal representative.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Secretary may only be removed from office by the Commission, in accordance with the terms and conditions of service, for— (a) inability to perform the functions of the office arising out of physical or mental infirmity; (b) gross misconduct or misbehavior; (c) incompetence or neglect of duty; (d) a violation of the Constitution; or (e) any other ground that would justify removal from office under the terms and conditions of service."
+    },
+    {
+     "ref": "(2)",
+     "text": "Before the Secretary is removed under subsection (1), the Secretary shall be given— (a) sufficient notice of the allegations made against him or her; and (b) an opportunity to present his or her case against the allegations, either in person or by a legal representative."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Secretariat and staff of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "(1) There shall be a secretariat of the Commission which shall be headed by the Secretary. (2) In addition to the professional, technical and administrative staff appointed by the Commission under Article 252(1)(c) of the Constitution, the Government may, upon the request by the Commission, second to the Commission such number of public officers as may be necessary for the purposes of the Commission. (3) Further to subsection (2), the Commission may second its staff to other national government institutions at the request of those institutions.\n(4) A public officer seconded to the Commission shall, during the period of secondment be deemed to be an officer of the Commission and shall be subject only to the direction and control of the Commission.\n(5) The staff of the Commission may be appointed subject to its approved establishment.\n(6) The Commission shall ensure that, in the appointment of members of its staff, not more than two thirds of the staff of the Commission shall be of the same gender taking into account of—\n  (a) persons with disabilities; and\n  (b) regional and ethnic diversity of the people of Kenya.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a secretariat of the Commission which shall be headed by the Secretary. (2) In addition to the professional, technical and administrative staff appointed by the Commission under Article 252(1)(c) of the Constitution, the Government may, upon the request by the Commission, second to the Commission such number of public officers as may be necessary for the purposes of the Commission. (3) Further to subsection (2), the Commission may second its staff to other national government institutions at the request of those institutions."
+    },
+    {
+     "ref": "(4)",
+     "text": "A public officer seconded to the Commission shall, during the period of secondment be deemed to be an officer of the Commission and shall be subject only to the direction and control of the Commission."
+    },
+    {
+     "ref": "(5)",
+     "text": "The staff of the Commission may be appointed subject to its approved establishment."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Commission shall ensure that, in the appointment of members of its staff, not more than two thirds of the staff of the Commission shall be of the same gender taking into account of—"
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "The common seal of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "(1) The seal of the Commission shall be such device as may be determined by the Commission and shall be kept in the custody of the Secretary and shall not be used except on the order of the Commission.\n(2) The affixing of the seal shall be authenticated by the Chairperson and the Secretary or any other person authorized in that behalf by a resolution of the Commission.\n(3) The common seal of the Commission when affixed to a document and duly authenticated shall be judicially and officially noticed and unless the contrary is proved, any necessary order or authorization of the Commission under this section shall be presumed to have been duly given.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The seal of the Commission shall be such device as may be determined by the Commission and shall be kept in the custody of the Secretary and shall not be used except on the order of the Commission."
+    },
+    {
+     "ref": "(2)",
+     "text": "The affixing of the seal shall be authenticated by the Chairperson and the Secretary or any other person authorized in that behalf by a resolution of the Commission."
+    },
+    {
+     "ref": "(3)",
+     "text": "The common seal of the Commission when affixed to a document and duly authenticated shall be judicially and officially noticed and unless the contrary is proved, any necessary order or authorization of the Commission under this section shall be presumed to have been duly given."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Delegation by the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "Subject to this Act, the Commission may, either generally or in particular case, delegate to any committee or to any member, officer, staff or agent of the Commission the exercise of any of the functions of the Commission under this Act.",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Legal proceedings against the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "(1) Proceedings against the Commission shall be deemed to be proceedings against the Government and shall be subject to the Government Proceedings Act (Cap. 40).\n(2) Any notice or other processes in respect of legal proceedings under subsection (1) shall be served upon the Secretary to the Commission.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Proceedings against the Commission shall be deemed to be proceedings against the Government and shall be subject to the Government Proceedings Act (Cap. 40)."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any notice or other processes in respect of legal proceedings under subsection (1) shall be served upon the Secretary to the Commission."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Protection from personal liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COMPOSITION AND ADMINISTRATION",
+   "text": "(1) No matter or thing done by a member of the Commission or any officer, staff or agent of the Commission shall, if the matter or thing is done in good faith for executing the functions, powers or duties of the Commission, render the member, officer, staff or agent personally liable to any action, claim or demand whatsoever.\n(2) The provisions of subsection (1) shall not relieve the Commission of the liability to pay compensation or damages to any person for any injury suffered by them their property or any of their interests and arising directly or indirectly from the exercise of any power conferred by this Act or by the failure, whether wholly or partially, or from any works.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No matter or thing done by a member of the Commission or any officer, staff or agent of the Commission shall, if the matter or thing is done in good faith for executing the functions, powers or duties of the Commission, render the member, officer, staff or agent personally liable to any action, claim or demand whatsoever."
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of subsection (1) shall not relieve the Commission of the liability to pay compensation or damages to any person for any injury suffered by them their property or any of their interests and arising directly or indirectly from the exercise of any power conferred by this Act or by the failure, whether wholly or partially, or from any works."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Commission to register teachers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND DISCIPLINE OF TEACHERS AND COMPLIANCE WITH TEACHING STANDARDS",
+   "text": "(1) The Commission shall, in accordance with Article 237 of the Constitution, be responsible for the registration of trained teachers in the teaching service.\n(2) A person shall not engage in the teaching service unless such person is registered as a teacher under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission shall, in accordance with Article 237 of the Constitution, be responsible for the registration of trained teachers in the teaching service."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall not engage in the teaching service unless such person is registered as a teacher under this Act."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Register of teachers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND DISCIPLINE OF TEACHERS AND COMPLIANCE WITH TEACHING STANDARDS",
+   "text": "(1) The Commission shall cause to be kept a register which shall contain—\n  (a) the names and addresses of every teacher registered under this Act;\n  (b) the qualifications in respect of which the registration is granted; and (c) such other particulars as may from time to time be prescribed by the Commission.\n(2) A register kept under this section shall be a public document.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission shall cause to be kept a register which shall contain— (a) the names and addresses of every teacher registered under this Act; (b) the qualifications in respect of which the registration is granted; and (c) such other particulars as may from time to time be prescribed by the Commission."
+    },
+    {
+     "ref": "(2)",
+     "text": "A register kept under this section shall be a public document."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Application for registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND DISCIPLINE OF TEACHERS AND COMPLIANCE WITH TEACHING STANDARDS",
+   "text": "(1) A person who qualifies to be registered as a teacher under this Act may apply to the Commission in the prescribed manner.\n(2) An application made under subsection (1) shall be accompanied by—\n  (a) certified copies of certificates and other documents as are necessary to prove the applicant’s qualification for registration; and (b) the prescribed fee.\n(3) Where the Commission declines to register a person under this section, the Commission shall within thirty days notify that person in writing, stating the grounds for the decision.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who qualifies to be registered as a teacher under this Act may apply to the Commission in the prescribed manner."
+    },
+    {
+     "ref": "(2)",
+     "text": "An application made under subsection (1) shall be accompanied by— (a) certified copies of certificates and other documents as are necessary to prove the applicant’s qualification for registration; and (b) the prescribed fee."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the Commission declines to register a person under this section, the Commission shall within thirty days notify that person in writing, stating the grounds for the decision."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Qualifications for registration as a teacher",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND DISCIPLINE OF TEACHERS AND COMPLIANCE WITH TEACHING STANDARDS",
+   "text": "A person shall be eligible to be registered as a teacher if such person—\n  (a) is of good moral character; and (b) holds a relevant certificate issued to him or her under any law relating to education and training or regulations made under this Act.",
+   "clauses": []
+  },
+  "27": {
+   "num": "27",
+   "title": "Grounds for refusal to register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND DISCIPLINE OF TEACHERS AND COMPLIANCE WITH TEACHING STANDARDS",
+   "text": "The Commission shall not register a person as a teacher if such person—\n  (a) does not possess the prescribed qualifications;\n  (b) is not of good moral character;\n  (c) has been convicted of a sexual offence or an offence committed against a learner;\n  (d) has been convicted of a criminal offence which, in the opinion of the Commission, renders the person unfit to be a teacher;\n  (e) is engaged in any activities which, in the opinion of the Commission, are prejudicial to peace, good order or good government in Kenya; or (f) suffers from such physical or mental infirmity which in the opinion of a registered medical practitioner, renders the person incapable of performing the duties of a teacher.",
+   "clauses": []
+  },
+  "28": {
+   "num": "28",
+   "title": "Certificate of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND DISCIPLINE OF TEACHERS AND COMPLIANCE WITH TEACHING STANDARDS",
+   "text": "(1) The Commission shall issue to every teacher who is registered under this Act a certificate of registration in the prescribed form.\n(2) A certificate of registration issued under this section shall be under the seal of the Commission.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission shall issue to every teacher who is registered under this Act a certificate of registration in the prescribed form."
+    },
+    {
+     "ref": "(2)",
+     "text": "A certificate of registration issued under this section shall be under the seal of the Commission."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Correction of register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND DISCIPLINE OF TEACHERS AND COMPLIANCE WITH TEACHING STANDARDS",
+   "text": "(1) The Commission may, from time to time and as soon as is reasonably practicable make such alterations to the register as are necessary to correct any error in the particulars entered in the register.\n(2) An alteration under subsection (1) may be made by the Commission on its own motion or at the request of an interested party.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission may, from time to time and as soon as is reasonably practicable make such alterations to the register as are necessary to correct any error in the particulars entered in the register."
+    },
+    {
+     "ref": "(2)",
+     "text": "An alteration under subsection (1) may be made by the Commission on its own motion or at the request of an interested party."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Removal of name from the register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND DISCIPLINE OF TEACHERS AND COMPLIANCE WITH TEACHING STANDARDS",
+   "text": "(1) The Commission may, after inquiry, cause to be removed from the register the name of any person —\n  (a) who has died;\n  (b) who the Commission is satisfied has obtained registration through fraudulent means;\n  (c) who has been convicted of a sexual offence or an offence against a pupil or student;\n  (d) who has been convicted of a criminal offence which, in the opinion of the Commission, renders the person unfit to be a teacher;\n  (e) who the Commission has directed should be removed as a result of disciplinary proceedings instituted under this Act; or\n  (f) suffers from such physical or mental illness or infirmity which renders the person incapable of performing the duties of a teacher.\n(2) The Commission shall cause the name and particulars of a teacher whose name is removed from the register under subsection (1) to be published in the Gazette within one month from the date of such removal.\n(3) Subject to the provisions of this Act, the removal of a teacher’s name from the register shall be notified by the Commission to the person by registered mail addressed to his or her last known address.\n(4) Where the name of any teacher is removed from the register under this Act, such name shall not be reinstated except by direction of the Commission.\n(5) A teacher whose name has been removed from the register shall cease to be a teacher for purposes of this Act with effect from the date of such removal.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission may, after inquiry, cause to be removed from the register the name of any person —"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Commission shall cause the name and particulars of a teacher whose name is removed from the register under subsection (1) to be published in the Gazette within one month from the date of such removal."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to the provisions of this Act, the removal of a teacher’s name from the register shall be notified by the Commission to the person by registered mail addressed to his or her last known address."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where the name of any teacher is removed from the register under this Act, such name shall not be reinstated except by direction of the Commission."
+    },
+    {
+     "ref": "(5)",
+     "text": "A teacher whose name has been removed from the register shall cease to be a teacher for purposes of this Act with effect from the date of such removal."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Reinstatement of name in the register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND DISCIPLINE OF TEACHERS AND COMPLIANCE WITH TEACHING STANDARDS",
+   "text": "(1) Where the name of any person has been removed from the register, the Commission may, either of its own motion or on the application of the concerned teacher made in the prescribed manner, and in either case after observing due process, direct that—\n  (a) the removal of that teacher’s name from the register be confirmed; or\n  (b) the name of the teacher be restored in the register.\n(2) An application under subsection (1) may only be made after the expiry of a period of eighteen months from the date of removal of the name from the register.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the name of any person has been removed from the register, the Commission may, either of its own motion or on the application of the concerned teacher made in the prescribed manner, and in either case after observing due process, direct that—"
+    },
+    {
+     "ref": "(2)",
+     "text": "An application under subsection (1) may only be made after the expiry of a period of eighteen months from the date of removal of the name from the register."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Publication of the register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND DISCIPLINE OF TEACHERS AND COMPLIANCE WITH TEACHING STANDARDS",
+   "text": "(1) The Commission shall cause to be published and publicized annually, in an accessible manner, a list containing the names, addresses and qualifications of all registered teachers appearing on the register as at the thirty first day of December in the previous year.\n(2) Notwithstanding subsection (1), the Commission shall cause any alterations in the entries in the register which have been made since the last publication, to be published one month from the date of such alteration.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission shall cause to be published and publicized annually, in an accessible manner, a list containing the names, addresses and qualifications of all registered teachers appearing on the register as at the thirty first day of December in the previous year."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding subsection (1), the Commission shall cause any alterations in the entries in the register which have been made since the last publication, to be published one month from the date of such alteration."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Discipline of registered teachers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND DISCIPLINE OF TEACHERS AND COMPLIANCE WITH TEACHING STANDARDS",
+   "text": "(1) The Commission may, subject to the regulations made under this Act, take disciplinary action against any person registered as a teacher under this Act.\n(2) Subject to subsection (1), the discipline of teachers not in the employment of the Commission shall be limited to offences leading to removal from the register of teachers.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission may, subject to the regulations made under this Act, take disciplinary action against any person registered as a teacher under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to subsection (1), the discipline of teachers not in the employment of the Commission shall be limited to offences leading to removal from the register of teachers."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Disciplinary action",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND DISCIPLINE OF TEACHERS AND COMPLIANCE WITH TEACHING STANDARDS",
+   "text": "(1) A registered teacher shall be deemed to be a teacher in the teaching service, save as otherwise provided in this Act or any other law, and shall be subject to the law and regulations from time to time in force in respect of the service.\n(2) Disciplinary offences include the offences prescribed in the Third Schedule or any other relevant law.\n(3) The Commission, after interdicting a teacher, may take the following disciplinary actions against a registered teacher—\n  (a) issue a warning letter;\n  (b) surcharge;\n  (c) suspend for such period not exceeding six months;\n  (d) cancel a registration certificate and remove the name of the teacher from the register;\n  (e) retire in the public interest;\n  (f) dismiss;\n  (g) terminate services; or\n  (h) undertake any other lawful action as it may consider appropriate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A registered teacher shall be deemed to be a teacher in the teaching service, save as otherwise provided in this Act or any other law, and shall be subject to the law and regulations from time to time in force in respect of the service."
+    },
+    {
+     "ref": "(2)",
+     "text": "Disciplinary offences include the offences prescribed in the Third Schedule or any other relevant law."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Commission, after interdicting a teacher, may take the following disciplinary actions against a registered teacher—"
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Compliance with teaching standards",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND DISCIPLINE OF TEACHERS AND COMPLIANCE WITH TEACHING STANDARDS",
+   "text": "(1) The Commission shall take all necessary steps to ensure that persons in the teaching service comply with the teaching standards prescribed by the Commission under this Act.\n(2) For purposes of subsection (1), the Commission shall—\n  (a) require every registered teacher to undertake career progression and professional development programmes as may be prescribed by regulations made under this Act;\n  (b) require every registered teacher to take out a teaching certificate as prescribed by regulations made under this Act;\n  (c) enter into agreements with any institution, body, department or agency of the Government pursuant to its functions and powers prescribed under this section; and\n  (d) appoint an agent or designate a member or staff of the Commission who may enter any educational institution and make an enquiry in that regard.\n(3) A teacher who fails to—\n  (a) undertake a prescribed career and professional development programmes; or (b) take out a teaching certificate under section 35(2)(b) of this Act, shall be dealt with in accordance with the regulations.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission shall take all necessary steps to ensure that persons in the teaching service comply with the teaching standards prescribed by the Commission under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "For purposes of subsection (1), the Commission shall—"
+    },
+    {
+     "ref": "(3)",
+     "text": "A teacher who fails to— (a) undertake a prescribed career and professional development programmes; or (b) take out a teaching certificate under section 35(2)(b) of this Act, shall be dealt with in accordance with the regulations."
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Funds of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The funds of the Commission shall consist of—\n  (a) monies allocated by Parliament for purposes of the Commission;\n  (b) grants, gifts, donations or other endowments given to the Commission;\n  (c) such funds as may vest in or accrue to the Commission in the performance of its functions under this Act or under any other written law.\n(2) The receipts, earnings or accruals of the Commission and the balances at the close of each financial year shall not be paid into the Consolidated Fund, but shall be retained for purposes of the Commission under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The funds of the Commission shall consist of— (a) monies allocated by Parliament for purposes of the Commission; (b) grants, gifts, donations or other endowments given to the Commission; (c) such funds as may vest in or accrue to the Commission in the performance of its functions under this Act or under any other written law."
+    },
+    {
+     "ref": "(2)",
+     "text": "The receipts, earnings or accruals of the Commission and the balances at the close of each financial year shall not be paid into the Consolidated Fund, but shall be retained for purposes of the Commission under this Act."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Remuneration and allowances",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The salaries and allowances payable to, and other terms and conditions of service of the Chairperson and members of the Commission shall be determined by the Salaries and Remuneration Commission.\n(2) The staff of the Commission recruited by the Commission under Article 252(1)(c) of the Constitution shall serve on such terms and conditions as the Commission, in consultation with the Salaries and Remuneration Commission may determine.\n(3) The registered teachers recruited by the Commission under Article 237(2)(b) of the Constitution shall serve under such terms and conditions as the Committee established under section 13(5) of this Act in consultation with the Salaries and Remuneration Commission may determine.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The salaries and allowances payable to, and other terms and conditions of service of the Chairperson and members of the Commission shall be determined by the Salaries and Remuneration Commission."
+    },
+    {
+     "ref": "(2)",
+     "text": "The staff of the Commission recruited by the Commission under Article 252(1)(c) of the Constitution shall serve on such terms and conditions as the Commission, in consultation with the Salaries and Remuneration Commission may determine."
+    },
+    {
+     "ref": "(3)",
+     "text": "The registered teachers recruited by the Commission under Article 237(2)(b) of the Constitution shall serve under such terms and conditions as the Committee established under section 13(5) of this Act in consultation with the Salaries and Remuneration Commission may determine."
+    }
+   ]
+  },
+  "38": {
+   "num": "38",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) Before the commencement of each financial year, the Commission shall cause to be prepared estimates of the revenue and expenditure of the Commission for that year.\n(2) The annual estimates shall make provision for all the estimated expenditure of the Commission for the financial year concerned.\n(3) The Cabinet Secretary responsible for finance shall present the estimates approved by the Commission under subsection (2) for consideration and approval by the National Assembly.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Before the commencement of each financial year, the Commission shall cause to be prepared estimates of the revenue and expenditure of the Commission for that year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall make provision for all the estimated expenditure of the Commission for the financial year concerned."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary responsible for finance shall present the estimates approved by the Commission under subsection (2) for consideration and approval by the National Assembly."
+    }
+   ]
+  },
+  "39": {
+   "num": "39",
+   "title": "Financial year of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The financial year of the Commission shall be the period of twelve months commencing on the first of July and ending on the thirtieth of June of the subsequent year.",
+   "clauses": []
+  },
+  "40": {
+   "num": "40",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Commission shall cause to be kept all proper books and records of account of the income, expenditure, assets and liabilities of the Commission.\n(2) Within a period of three months after the end of each financial year, the Commission shall submit to the Auditor-General the accounts of the Commission in respect of that year together with a—\n  (a) statement of the income and expenditure of the Commission during that year; and (b) statement of the assets and liabilities of the Commission on the last day of that financial year.\n(3) The annual accounts of the Commission shall be prepared, audited and reported upon in accordance with the provisions of Articles 226 and 229 of the Constitution and the Public Audit Act (Cap. 412B).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission shall cause to be kept all proper books and records of account of the income, expenditure, assets and liabilities of the Commission."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within a period of three months after the end of each financial year, the Commission shall submit to the Auditor-General the accounts of the Commission in respect of that year together with a— (a) statement of the income and expenditure of the Commission during that year; and (b) statement of the assets and liabilities of the Commission on the last day of that financial year."
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual accounts of the Commission shall be prepared, audited and reported upon in accordance with the provisions of Articles 226 and 229 of the Constitution and the Public Audit Act (Cap. 412B)."
+    }
+   ]
+  },
+  "41": {
+   "num": "41",
+   "title": "Annual report",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The report of the Commission under Article 254 of the Constitution, shall, in respect of the year to which it relates—\n  (a) the financial statements of the Commission;\n  (b) a description of the activities of the Commission; and (c) any other information relating to its functions that, the Commission may consider necessary.\n(1A) The Commission shall submit the annual report in subsection (2) to the President and Parliament within six months after the end of the year to which it relates.\n(2) The Commission shall cause the annual report to be published in the Gazette and publicised and such other manner as the Commission may determine. [Act No. 19 of 2023, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The report of the Commission under Article 254 of the Constitution, shall, in respect of the year to which it relates— (a) the financial statements of the Commission; (b) a description of the activities of the Commission; and (c) any other information relating to its functions that, the Commission may consider necessary."
+    },
+    {
+     "ref": "(1A)",
+     "text": "The Commission shall submit the annual report in subsection (2) to the President and Parliament within six months after the end of the year to which it relates."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Commission shall cause the annual report to be published in the Gazette and publicised and such other manner as the Commission may determine. [Act No. 19 of 2023, Sch.]"
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "Management of information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Commission shall publish and publicise any important information within its mandate affecting the nation.\n(2) A person may request for information in the public interest. (3) A request for information under subsection (2)—\n  (a) shall be addressed to the Secretary or such other person as the Commission may for that purpose designate;\n  (b) may be subject to the payment of a reasonable fee in instances where the Commission incurs an expense in providing the information; and\n  (c) may be subject to confidentiality requirements of the Commission. (4) Subject to the provisions of Article 35 of the Constitution and the law relating to freedom of information and data protection, the Commission may decline to give information to an applicant where—\n  (a) the request is unreasonable in the circumstances;\n  (b) the information requested is at a deliberative stage by the Commission;\n  (c) the applicant fails to pay the prescribed fee; or\n  (d) the applicant fails to satisfy any confidentiality requirements imposed by the Commission.\n(5) The right of access to information under Article 35 of the Constitution shall be limited to the nature and extent specified under this section.\n(6) Every member and staff of the Commission shall sign a confidentiality agreement.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission shall publish and publicise any important information within its mandate affecting the nation."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person may request for information in the public interest. (3) A request for information under subsection (2)—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The right of access to information under Article 35 of the Constitution shall be limited to the nature and extent specified under this section."
+    },
+    {
+     "ref": "(6)",
+     "text": "Every member and staff of the Commission shall sign a confidentiality agreement."
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Publicity",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Commission shall, in such manner as it considers appropriate, publish a notice for public information specifying—\n  (a) the location of all its offices; and\n  (b) its address or addresses, telephone numbers and other means of communication or contact with the Commission.",
+   "clauses": []
+  },
+  "44": {
+   "num": "44",
+   "title": "Offences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A person who—\n  (a) procures or attempts to procure the entry of any name on the register by willfully making or producing or causing to be made or produced, either orally or in writing, any declaration, certificate or representation which the person knows to be false or fraudulent; or\n  (b) falsely or fraudulently holds himself or herself out to be a registered teacher, commits an offence and is liable on conviction to a fine not exceeding one hundred thousand shillings or to imprisonment for a term not exceeding twelve months, or to both.\n(2) A person shall not—\n  (a) without reasonable justification or other lawful excuse, obstruct or hinder, or threaten a member or staff or agent of the Commission in the course of duty under this Act;\n  (b) submit false or misleading information; or\n  (c) make false misrepresentation to or knowingly mislead a member or staff of the Commission acting under this Act.\n(3) A person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding one hundred thousand shillings or to imprisonment for a term not exceeding one year or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall not—"
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding one hundred thousand shillings or to imprisonment for a term not exceeding one year or to both."
+    }
+   ]
+  },
+  "45": {
+   "num": "45",
+   "title": "General penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Any person convicted of an offence under this Act for which no penalty is provided shall be liable to a fine of not less than one hundred thousand shillings or to imprisonment for a term not exceeding two years or to both.",
+   "clauses": []
+  },
+  "46": {
+   "num": "46",
+   "title": "Review",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "A person who is aggrieved by a decision of the Commission under this Act may apply to the Commission for review of that decision.",
+   "clauses": []
+  },
+  "47": {
+   "num": "47",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The commission may make regulations generally for the better carrying out of its functions and the exercise of its powers under the Constitution and the provisions of this Act and, without prejudice to the generality of the foregoing, may make regulations to provide for—\n  (a) the appointment, discipline and removal of staff of the Commission;\n  (b) the form and method of keeping the register and records under this Act;\n  (c) the conditions of admission to and removal from the register and of the issuance of registration and teaching certificates;\n  (d) management and administration of the function of discipline of those in the teaching service;\n  (e) the manner of compliance with prescribed teaching standards;\n  (f) guidelines on the qualifications of persons entering the teaching service;\n  (g) administration of career progression and professional development programmes for registered teachers;\n  (h) the standards and conditions of professional practice of persons registered under this Act;\n  (i) the fees payable in respect of registration and any other matter under this Act;\n  (j) the disposal of fees collected, the authorization of such disbursement as may be necessary, and the management of any funds within the control of the Commission;\n  (k) operations and procedures of a committee; and (l) any other matter incidental or ancillary to the discharge of its functions and to the exercise of its powers under this Act.\n(2) The Commission—\n  (a) shall compile and publish a code of regulations which shall apply to all registered teachers; and (b) may from time to time modify or amend the code of regulations in such manner as it thinks fit.\n(3) Nothing in this Act or any regulation or rules made pursuant to this section shall supersede, lessen or in any way interfere with the powers vested in the Commission under the Constitution.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The commission may make regulations generally for the better carrying out of its functions and the exercise of its powers under the Constitution and the provisions of this Act and, without prejudice to the generality of the foregoing, may make regulations to provide for— (a) the appointment, discipline and removal of staff of the Commission; (b) the form and method of keeping the register and records under this Act; (c) the conditions of admission to and removal from the register and of the issuance of registration and teaching certificates; (d) management and administration of the function of discipline of those in the teaching service; (e) the manner of compliance with prescribed teaching standards; (f) guidelines on the qualifications of persons entering the teaching service; (g) administration of career progression and professional development programmes for registered teachers; (h) the standards and conditions of professional practice of persons registered under this Act; (i) the fees payable in respect of registration and any other matter under this Act; (j) the disposal of fees collected, the authorization of such disbursement as may be necessary, and the management of any funds within the control of the Commission; (k) operations and procedures of a committee; and (l) any other matter incidental or ancillary to the discharge of its functions and to the exercise of its powers under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Commission— (a) shall compile and publish a code of regulations which shall apply to all registered teachers; and (b) may from time to time modify or amend the code of regulations in such manner as it thinks fit."
+    },
+    {
+     "ref": "(3)",
+     "text": "Nothing in this Act or any regulation or rules made pursuant to this section shall supersede, lessen or in any way interfere with the powers vested in the Commission under the Constitution."
+    }
+   ]
+  },
+  "48": {
+   "num": "48",
+   "title": "Code of conduct",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Commission shall develop a code of conduct for its members and staff and registered teachers.",
+   "clauses": []
+  },
+  "49": {
+   "num": "49",
+   "title": "Repeal of Cap. 212",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Teachers Service Commission Act, No. 2 of 1967 is repealed.",
+   "clauses": []
+  },
+  "50": {
+   "num": "50",
+   "title": "Saving and transition",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Notwithstanding section 49, a person who immediately before the commencement of this Act, was a staff of the Teachers Service Commission under the repealed Act, shall continue to hold or act in that office as if appointed to that position under this Act.\n(2) Every contract entered into before the commencement of this Act shall continue to be in force to the extent that the terms and conditions of the contract are not inconsistent with the provisions of this Act.\n(3) All proceedings and decisions subsisting before the commencement of this Act by virtue of the repealed Act, shall after the commencement of this Act be deemed as subsisting under this Act.\n(4) All property which immediately before the commencement of this Act was vested in the Teachers Service Commission shall, at the commencement of this Act, vest in the Commission subject to all interest, liabilities, charges, obligations and trusts affecting such property.\n(5) All matters relating to pensions, gratuities and retirement benefits of teachers in the employment of the Commission shall be governed by the law relating to pensions.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Notwithstanding section 49, a person who immediately before the commencement of this Act, was a staff of the Teachers Service Commission under the repealed Act, shall continue to hold or act in that office as if appointed to that position under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Every contract entered into before the commencement of this Act shall continue to be in force to the extent that the terms and conditions of the contract are not inconsistent with the provisions of this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "All proceedings and decisions subsisting before the commencement of this Act by virtue of the repealed Act, shall after the commencement of this Act be deemed as subsisting under this Act."
+    },
+    {
+     "ref": "(4)",
+     "text": "All property which immediately before the commencement of this Act was vested in the Teachers Service Commission shall, at the commencement of this Act, vest in the Commission subject to all interest, liabilities, charges, obligations and trusts affecting such property."
+    },
+    {
+     "ref": "(5)",
+     "text": "All matters relating to pensions, gratuities and retirement benefits of teachers in the employment of the Commission shall be governed by the law relating to pensions."
+    }
+   ]
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [s. 9]",
+   "subtitle": "OATH/AFFIRMATION OF THE OFFICE OF CHAIRPERSON/ MEMBER/SECRETARY",
+   "text": "I ...................................... having been appointed (the Chairperson/member of / Secretary to) the Teachers Service Commission under the Teachers Service Commission Act (Cap. 212), do swear/ solemnly affirm that I will at all times obey, respect and uphold the Constitution of Kenya and all other laws of the Republic; that I will faithfully and fully, impartially and to the best of my knowledge and ability, discharge the trust, perform the functions and exercise the powers devolving upon me by virtue of this appointment without fear, favour, bias, affection, ill-will or prejudice. (SO HELP ME GOD) Sworn/Declared by the said ............................................................................. Before me this ........................................... day of ........................................... ................................................................ Chief Justice"
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [s. 15]",
+   "subtitle": "PROVISIONS RELATING TO THE CONDUCT OF BUSINESS AND AFFAIRS OF THE COMMISSION",
+   "text": "1. Meetings (1) The Commission shall have at least six meetings in every financial year and not more than four months shall lapse between one meeting and the next meeting. (2) The Chairperson may at any time convene a special meeting of the Commission, and shall do so within one month of the receipt by the Chairperson of a written request signed by at least two other members. (3) Unless three quarters of the members otherwise agree, at least seven days’ notice of a meeting shall be given to every member. (4) The Chairperson shall preside over all meetings and in the absence of the Chairperson, by the viceChairperson and in their absence, by a person elected by the Commission at the meeting for that purpose.\n2. Quorum The quorum of a meeting of the Commission shall be one half of members. 3. Voting A decision of the Commission shall be by a majority of the members present and voting and in the case of an equality of votes the person presiding at the meeting shall have a second or casting vote. 4. Minutes Minutes of all meetings shall be kept and entered in records kept for that purpose. 5. Conflict of interest\n(1) If any person is present at a meeting of the Commission or any committee at which any matter is the subject of consideration and in which matter that person or that person’s spouse is directly or indirectly interested in a private capacity, that person shall as soon as is practicable after the commencement of the meeting, declare such interest and shall not, unless the Commission or committee otherwise directs, take part in any consideration or discussion of, or vote on any question touching such matter.\n(2) A disclosure of interest made under subsection (1) shall be recorded in the minutes of the meeting at which it is made.\n(3) A person who contravenes subsection (1) commits an offence and upon conviction shall be liable to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding seven years or to both such fine and imprisonment.\n(4) No member or staff of the Commission shall transact any business or trade with the Commission."
+  },
+  {
+   "id": "att_3",
+   "title": "THIRD SCHEDULE [s. 34]",
+   "subtitle": "DISCIPLINARY OFFENCES",
+   "text": "  (a) Immoral behavior, including but not restricted to—\n  (i) sexual intercourse;\n  (ii) sodomy;\n  (iii) lesbianism; and (iv) sexual harassment or flirtation;\n  (b) professional misconduct including but not restricted to—\n  (i) negligence of duty;\n  (ii) lateness to duty;\n  (iii) chronic absenteeism;\n  (iv) desertion;\n  (v) incitement; and (vi) insubordination;\n  (c) infamous conduct including but not restricted to—\n  (i) drunkenness;\n  (ii) fighting; and (iii) conduct or behavior which in the opinion of the Commission contradicts the sprit and tenor of Chapter six of the Constitution;\n  (d) forgery;\n  (e) mismanagement and embezzlement of public funds; and (f) any other act or conduct that is incompatible with the teaching profession."
+  }
+ ]
+}

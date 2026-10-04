@@ -266,6 +266,30 @@
    ]
   },
   {
+   "key": "kenya_roads_act",
+   "title": "Kenya Roads Act",
+   "citation": "Cap. 408",
+   "version_date": "2025-08-26",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2007/2/eng@2025-08-26",
+   "provisions": 73,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Kenya\\s*Roads\\s*Act"
+   ]
+  },
+  {
+   "key": "kenya_accreditation_service_act",
+   "title": "Kenya Accreditation Service Act",
+   "citation": "Cap. 496A",
+   "version_date": "2024-12-27",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2019/17/eng@2024-12-27",
+   "provisions": 37,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Kenya\\s*Accreditation\\s*Service\\s*Act"
+   ]
+  },
+  {
    "key": "labour_relations_act",
    "title": "Labour Relations Act",
    "citation": "Cap. 233",
@@ -446,6 +470,18 @@
    ]
   },
   {
+   "key": "teachers_service_commission_act",
+   "title": "Teachers Service Commission Act",
+   "citation": "Cap. 212",
+   "version_date": "2023-12-11",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2012/20/eng@2023-12-11",
+   "provisions": 50,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Teachers\\s*Service\\s*Commission\\s*Act"
+   ]
+  },
+  {
    "key": "technical_and_vocational_education_and_training_act",
    "title": "Technical and Vocational Education and Training Act",
    "citation": "Cap. 210A",
@@ -491,6 +527,18 @@
    "missing_sections": [],
    "names": [
     "(?:the\\s*)?Urban\\s*Areas\\s*and\\s*Cities\\s*Act"
+   ]
+  },
+  {
+   "key": "valuers_act",
+   "title": "Valuers Act",
+   "citation": "Cap. 532",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1984/16/eng@2022-12-31",
+   "provisions": 28,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Valuers\\s*Act"
    ]
   },
   {
