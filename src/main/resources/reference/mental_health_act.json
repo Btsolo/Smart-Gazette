@@ -1,0 +1,1774 @@
+{
+ "title": "Mental Health Act",
+ "citation": "Cap. 248",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1989/10/eng@2023-12-11",
+ "version_date": "2023-12-11",
+ "retrieved": "2026-10-04",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "MENTAL HEALTH ACT CAP. 248 Published in Kenya Gazette Vol. XCI—No. 49 on 1 December 1989 Assented to on 27 November 1989 Commenced on 1 May 1991 by Mental Health Act Commencement\n[Amended by Statute Law (Miscellaneous Amendments) Act, 1993 (Act No. 11 of 1993) on 31 December 1993] [Amended by Mental Health (Amendment) Act, 2022 (Act No. 27 of 2022) on 11 July 2022] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\n[Amended by Statute Law (Miscellaneous Amendment) Act, 2023 (Act No. 19 of 2023) on 11 December 2023]\nAn Act of Parliament to provide for the prevention of mental illness, to provide for the care, treatment and rehabilitation of persons with mental illness; to provide for procedures of admission, treatment and general management of persons with mental illness; and for connected purposes\n[Act No. 27 of 2022, s. 2.]\n[Act No. 27 of 2022, s. 5.]\n[Act No. 27 of 2022, s. 6.]\n[Act No. 27 of 2022, s. 13.]\nPart heading Deleted by Act No. 27 of 2022, s. 16.\n[Part heading deleted by Act No. 27 of 2022, s. 21.]\nPart heading Deleted by Act No. 27 of 2022, s. 24.\n[Act No. 27 of 2022, s. 27.]\n[Act No. 27 of 2022, s. 31.]\n[Act No. 27 of 2022, s. 37.]",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "2A",
+    "2B"
+   ]
+  },
+  {
+   "id": "part_IA",
+   "num": "IA",
+   "title": "OBLIGATIONS OF THE NATIONAL AND COUNTY GOVERNMENTS",
+   "provisions": [
+    "2C",
+    "2D",
+    "2E"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "RIGHTS OF PERSONS WITH MENTAL ILLNESS",
+   "provisions": [
+    "3",
+    "3A",
+    "3B",
+    "3C",
+    "3D",
+    "3E",
+    "3F",
+    "3G",
+    "3H",
+    "3I",
+    "3J",
+    "3K"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "THE KENYA BOARD OF MENTAL HEALTH",
+   "provisions": [
+    "4",
+    "4A",
+    "4B",
+    "4C",
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "MANAGEMENT OF MENTAL HEALTH UNITS AND FACILITIES, ADMISSION AND TREATMENT OF PERSONS WITH MENTAL ILLNESS",
+   "provisions": [
+    "9",
+    "9A",
+    "9B",
+    "9C",
+    "9D",
+    "9E",
+    "9F"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "VOLUNTARY PATIENTS",
+   "provisions": [
+    "10",
+    "11",
+    "12",
+    "13"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "INVOLUNTARY PATIENTS",
+   "provisions": [
+    "14",
+    "15",
+    "15A"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "EMERGENCY ADMISSION",
+   "provisions": [
+    "16"
+   ]
+  },
+  {
+   "id": "part_VIII",
+   "num": "VIII",
+   "title": "ADMISSION AND DISCHARGE OF MEMBERS OF THE KENYA DEFENCE FORCES",
+   "provisions": [
+    "17"
+   ]
+  },
+  {
+   "id": "part_IX",
+   "num": "IX",
+   "title": "ADMISSION OF PATIENTS FROM FOREIGN COUNTRIES",
+   "provisions": [
+    "18",
+    "19",
+    "20"
+   ]
+  },
+  {
+   "id": "part_X",
+   "num": "X",
+   "title": "REVIEW, DISCHARGE AND TRANSFER OF PERSONS WITH MENTAL ILLNESS",
+   "provisions": [
+    "20A",
+    "21",
+    "22",
+    "23"
+   ]
+  },
+  {
+   "id": "part_XI",
+   "num": "XI",
+   "title": "REMOVAL OF PATIENTS TO OTHER COUNTRIES",
+   "provisions": [
+    "24",
+    "25"
+   ]
+  },
+  {
+   "id": "part_XII",
+   "num": "XII",
+   "title": "CARE AND ADMINISTRATION OF PROPERTY OF PERSONS WITH MENTAL ILLNESS",
+   "provisions": [
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31"
+   ]
+  },
+  {
+   "id": "part_XIII",
+   "num": "XIII",
+   "title": "GENERAL PROVISIONS",
+   "provisions": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+   ]
+  },
+  {
+   "id": "part_XIV",
+   "num": "XIV",
+   "title": "OFFENCES",
+   "provisions": [
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53"
+   ]
+  },
+  {
+   "id": "part_XV",
+   "num": "XV",
+   "title": "POWER TO MAKE REGULATIONS AND RULES OF COURT, ETC.",
+   "provisions": [
+    "54",
+    "55",
+    "56",
+    "57"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Mental Health Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— \"Board\" means the Kenya Board of Mental Health established under section 4; \"Cabinet Secretary\" means the Cabinet Secretary for the time being in charge of matters relating to health; \"care treatment and rehabilitation” includes preventive and after care services such as counselling psychotherapy and vocational care; “county executive committee member” means the county executive committee member for the time being in charge of matters relating to health; \"court\" means the High Court; \"Director” means the Director-General for Health; \"guardian\" in relation to a minor with mental illness includes -\n  (a) the parents of the minor;\n  (b) a person who has parental responsibility over the minor;\n  (c) a person who has legal custody of the minor;\n  (d) in the absence of a parent, a person who has care and control of the minor; or (e) in the absence of a parent or a person who has care and control of the minor, a person who has actual custody of the minor; \"health care provider” means a person who provides health care services and includes a mental health practitioner;\n\"Health Information System” means the Health Information System established by the Ministry of Health under section 105 of the Health Act (No. 21 of 2017);\n\"magistrate\" means a magistrate holding a subordinate court of the first class;\n\"manager\" means any person appointed under Part XII;\n\"medical practitioner\" has the meaning assigned to that term in sections 2 and 3 of the Medical Practitioners and Dentists Act (Cap. 253);\n\"mental health facility” means a facility registered and licensed by the relevant medical regulatory body to provide mental health services;\n“mental health practitioner” means a qualified and duly registered—\n  (a) psychiatrist under the Medical Practitioners and Dentists Act (Cap. 253);\n  (b) medical practitioner under the Medical Practitioners and Dentists Act;\n  (c) psychologist under the Counsellors and Psychologists Act (No. 14 of 2014);\n  (d) clinical officer under the Clinical Officers (Training, Registration and Licensing) Act (Cap. 260);\n  (e) counsellor under the Counsellors and Psychologists Act; and\n  (f) psychiatric nurse under the Nurses Act (Cap. 257);\n“mental health services” means the promotion of mental wellbeing, prevention, management or alleviation of disease, illness, injury and other physical and social determinants affecting mental health in individuals;\n“mental health unit” means a place or a section within a health facility designated to provide mental health services;\n\"mental hospital\" deleted by Act No. 27 of 2022, s. 3;\n“person in charge” in relation to a health facility, means the person for the time being authorized by the Director, in the case of a National Referral Hospital, or the County Executive Committee Member, in the case of a county health facility, to be in medical charge of the respective health facility;\n“person with mental illness” means a person diagnosed by a qualified mental health practitioner to be suffering from mental illness, and includes—\n  (a) a person diagnosed with alcohol or substance use disorder; and\n  (b) a person with suicidal ideation or behaviour;\n\"Person suffering from mental disorder\" deleted by Act No. 27 of 2022, s. 3;\n“rehabilitation” means the multidisciplinary approach aimed at supporting persons with psychosocial, intellectual and cognitive disabilities, access to services geared towards their treatment and recovery process;\n“representative” means -\n  (a) a spouse of that person, or if unable or unwilling;\n  (b) the child of that person, where such child has attained the age of eighteen years, or if unable or unwilling;\n  (c) a parent of that person, or if unable or unwilling;\n  (d) a relative of that person, or if unable or unwilling; or\n  (e) a person under whose care or charge the person with mental illness is;\n\"substance abuse\" means the maladaptive pattern of use as indicated by either recurrent or continued use of any psychoactive substances (such as alcohol, amphetamines, cannabis sativa, cocaine, hallucinogens, inhalants, opiods, sedatives, hypnotics, or anxiolytics) where such use causes or exacerbates persistent or recurrent social, occupational, psychological or physical problems;\n“supporter” means a person appointed under section 3I by the person with mental illness to make decisions on behalf of the person with mental illness according to the will and preference of the person with mental illness;\n\"treatment\" includes medical treatment, nursing and care and training under medical supervision.\n[Act No. 11 of 1993, Sch., Act No. 27 of 2022, s. 3.]",
+   "clauses": []
+  },
+  "2A": {
+   "num": "2A",
+   "title": "Purpose of the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The purpose of this Act is to provide a framework to—\n  (a) promote the mental health and well-being of all persons, including reducing the incidences of mental illness;\n  (b) co-ordinate the prevention of mental illness, access to mental health care, treatment and rehabilitation services of persons with mental illness;\n  (c) reduce the impact of mental illness, including the effects of stigma on individuals, family and the community;\n  (d) promote recovery from mental illness and enhance rehabilitation and integration of person with mental illness into the community;\n  (e) ensure that the rights of a person with mental illness is protected and safeguarded;\n  (f) adopt a holistic approach to community-based mental health services; and\n  (g) promote the provision of mental health services in primary health facilities.\n[Act No. 27 of 2022, s. 4.]",
+   "clauses": []
+  },
+  "2B": {
+   "num": "2B",
+   "title": "Guiding principles",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "All persons under this Act shall, in the performance of their functions under this Act, be guided by the following principles—\n  (a) the promotion and fulfilment of the right to the highest attainable standard of health as enshrined under Article 43 of the Constitution;\n  (b) preservation of the freedom and dignity of every human being;\n  (c) the fair and equitable treatment of persons with mental illness;\n  (d) the protection of persons with mental illness from discrimination;\n  (e) accountability of duty bearers and transparency in the implementation of this Act; and\n  (f) co-ordinated public participation in the formulation and implementation of policies and plans related to care and protection of persons with mental illness; and\n  (g) that interventions for the care and protection of persons with mental illness are based on objective information and methods and monitoring mechanisms and regular evaluations are established, thus ensuring transparency in the management of facilities and care of persons with mental illness.\n[Act No. 27 of 2022, s. 4.]",
+   "clauses": []
+  },
+  "2C": {
+   "num": "2C",
+   "title": "Obligations of National Government",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IA",
+   "part_title": "OBLIGATIONS OF THE NATIONAL AND COUNTY GOVERNMENTS",
+   "text": "The National Government shall -\n  (a) provide the necessary resources for the provision of mental health care and treatment at National referral health facilities;\n  (b) collaborate with the county governments in—\n  (i) the development of the necessary physical and technological infrastructure for the care, rehabilitation and provision of health services to persons with mental illness;\n  (ii) expanding and strengthening community and family-based care and support systems for persons with mental illness;\n  (iii) expanding and strengthening community and family-based care and support systems for vulnerable persons;\n  (c) put in place mechanisms to ensure the rights of persons with mental illness are realised including mechanisms for outpatient comprehensive cover for mental health care and continued care for mental illness;\n  (d) adopt a comprehensive national strategy and plan of action and policies to promote the realisation of the rights of persons with mental illness under Article 43 of the Constitution and put in place measures designed to improve the general welfare and treatment of persons with mental illness;\n  (e) develop standards to be maintained by mental health facilities including—\n  (i) the number of qualified health professionals required to serve a mental health unit including the number of psychiatrists, psychologists, clinical officers who specialise in psychiatry, psychiatric nurses, counsellors, occupational therapists and allied health workers;\n  (ii) the type and quantity of diagnostic and therapeutic equipment required by a mental health unit; and\n  (iii) the medication and methods of care, rehabilitation and treatment to be administered to persons with mental illness;\n  (f) develop community-based programmes for the continued care and rehabilitation of persons with mental illness;\n  (g) promote research, data collection, analysis and the sharing and dissemination of information on the welfare of persons with mental illness in the Republic;\n  (h) carry out sensitization programmes on and promote access to information on the care and management of persons with mental illness;\n  (i) develop and implement strategies and programmes to curb stigma related to mental health and mental health care and treatment; and\n  (j) implement programmes and strategies to guarantee students access information on mental health, mental health care and treatment.\n[Act No. 27 of 2022, s. 5.]",
+   "clauses": []
+  },
+  "2D": {
+   "num": "2D",
+   "title": "Obligation of the County governments",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IA",
+   "part_title": "OBLIGATIONS OF THE NATIONAL AND COUNTY GOVERNMENTS",
+   "text": "(1) The County governments shall -\n  (a) provide mental health care, treatment and rehabilitation services within the county health facilities, in particular ensure that level 2, 3, 4 and 5 county health facilities set aside dedicated clinics to offer outpatient services for persons with mental illness;\n  (b) provide community based care and treatment for persons with mental illness including initiating and organizing community or family based programmes for the care of persons suffering from mental illness;\n  (c) implement the national policy and strategies relating mental illness and mental healthcare;\n  (d) allocate funds necessary for the provision of mental healthcare in the county budgets;\n  (e) provide appropriate resources, facilities, services and personnel capable of dealing with mental illness at the community level;\n  (f) formulate rehabilitation programmes suitable for persons with mental illness and provide access to after-care service by persons with mental illness after discharge from mental health facilities;\n  (g) formulate and implement county specific programmes to deal with stigma associated with mental illness;\n  (h) ensure mental health interventions at county level—\n  (i) are comprehensive and include prevention, early intervention, treatment, continuing care and prevention from relapse;\n  (ii) target persons at risk of developing mental illness including children, women, youth and elderly persons;\n  (iii) target persons affected by catastrophic incidences and emergencies; and\n  (iv) include education, awareness and training on mental health promotion and interventions; and\n  (i) provide adequate resources to ensure a person with mental illness lives a dignified life outside the mental health unit by financing efforts towards reintegrating the person into the community.\n(2) In ensuring that the county governments meet their obligations under subsection (1), the county executive committee member in each county shall -\n  (a) advise the Governor on all matters relating to the status of mental health and mental illness in the county;\n  (b) develop and implement county specific programmes that promote the rights of persons with mental illness in the county;\n  (c) monitor and evaluate the progress by the county in ensuring that Article 43(1)(a) of the Constitution is realized;\n  (d) initiate and organise community or family based programmes for the care of persons with mental illness;\n  (e) co-ordinate the implementation of programmes relating to persons with mental illness in the county developed by National Government;\n  (f) prepare and publish reports containing statistical or other information relating to programmes and effect of the programmes carried out by the county in relation to persons with mental illness;\n  (g) advise the Board on the implementation of county specific programmes on mental health;\n  (h) collaborate with the Board and such other relevant agencies in ensuring a co-ordinated approach in the delivery of mental health services in the respective county;\n  (i) undertake the collection and dissemination of data on mental health in the respective county; and\n  (j) co-ordinate the activities of all institutions, private sector institutions, non-governmental organisations and community-based organisation involved in the delivery of mental health services in the county.\n(3) The county executive committee member may delegate some or all the functions under this section, to a county mental health council or an officer within the county public service.\n[Act No. 27 of 2022, s. 5.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The County governments shall -"
+    },
+    {
+     "ref": "(2)",
+     "text": "In ensuring that the county governments meet their obligations under subsection (1), the county executive committee member in each county shall -"
+    },
+    {
+     "ref": "(3)",
+     "text": "The county executive committee member may delegate some or all the functions under this section, to a county mental health council or an officer within the county public service."
+    }
+   ]
+  },
+  "2E": {
+   "num": "2E",
+   "title": "County mental health councils",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IA",
+   "part_title": "OBLIGATIONS OF THE NATIONAL AND COUNTY GOVERNMENTS",
+   "text": "(1) There is established in each county government a county mental health council.\n(2) The county mental health council shall consist of —\n  (a) the county director of health appointed under section 19 of the Health Act;\n  (b) the chairperson to the county education board established under section 17 of the Basic Education Act or a representative; and\n  (c) five persons nominated by the county executive committee member by notice in the Gazette.\n(3) The county executive committee member when making appointments under subsection 2(c) shall ensure—\n  (a) that one person is nominated from each of the following organisations -\n  (i) a body representing caregivers of persons with mental illness in the county; and\n  (ii) a body representing the mental health practitioners in the county; and\n  (b) the one third gender principle is observed.\n(4) The members of the county mental health council, except the person appointed under subsection (2)(a) and (b) shall serve for a single term of three years and shall not be eligible for reappointment.\n(5) A member of the county mental health council shall cease to be member if that person -\n  (a) is absent from three consecutive meetings of the council without the permission of the chairperson;\n  (b) resigns in writing, addressed, to the county executive committee member;\n  (c) is convicted of a criminal offence and sentenced to a term of imprisonment of not less than six months;\n  (d) is declared bankrupt;\n  (e) is removed by the county executive committee member for being unable to perform the functions of the office by reason of mental or physical infirmity; or\n  (f) dies;\n(6) Before the removal of a member under subsection (5)(e), the county executive committee member shall request the Council to -\n  (a) investigate the circumstances giving rise to the proposed removal; and\n  (b) make recommendations on whether or not the member should be removed from office. [Act No. 27 of 2022, s. 5.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established in each county government a county mental health council."
+    },
+    {
+     "ref": "(2)",
+     "text": "The county mental health council shall consist of —"
+    },
+    {
+     "ref": "(3)",
+     "text": "The county executive committee member when making appointments under subsection 2(c) shall ensure—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The members of the county mental health council, except the person appointed under subsection (2)(a) and (b) shall serve for a single term of three years and shall not be eligible for reappointment."
+    },
+    {
+     "ref": "(5)",
+     "text": "A member of the county mental health council shall cease to be member if that person -"
+    },
+    {
+     "ref": "(6)",
+     "text": "Before the removal of a member under subsection (5)(e), the county executive committee member shall request the Council to -"
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Rights of persons with mental illness",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "RIGHTS OF PERSONS WITH MENTAL ILLNESS",
+   "text": "Every person with mental illness has the right to—\n  (a) fully participate in the affairs of the community in any position suitable and based on the person’s interests and capabilities;\n  (b) access medical, social and legal services for the enhancement of the protection of the rights of the person under the Constitution;\n  (c) protection from physical and mental abuse and any form of discrimination and to be free from exploitation;\n  (d) take part in activities that promote the person’s social, physical, mental and emotional well-being; and (e) receive reasonable care, assistance and protection from their family and the State. [Act No. 27 of 2022, s. 6.]",
+   "clauses": []
+  },
+  "3A": {
+   "num": "3A",
+   "title": "Right to mental health services",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "RIGHTS OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) Every person has a right to the highest attainable standard of mental health services. (2) A person with mental illness has the right to appropriate, affordable, accessible—\n  (a) physical and mental medical health care;\n  (b) counselling;\n  (c) rehabilitation; and (d) after-care support. (3) In the provision of mental health care, priority shall be given to community health and outpatient primary mental health care and treatment as opposed to institutionalization of the person with mental illness. (4) In determining the type of mental health care and treatment suitable under subsection (3), a mental health practitioner shall take in to account the mental health condition of the person with mental illness. (5) A person in charge shall ensure mental health services are provided in a manner that—\n  (a) upholds the dignity of the person with mental illness;\n  (b) takes in to account and allows for treatment options which help a person with mental illness manage the illness and participate in political, social and economic aspects of the person’s life; and (c) aims at reducing the impact of mental illness and improving the quality of life of the person with mental illness through the provision of the relevant clinical and non-clinical care.\n[Act No. 27 of 2022, s. 6.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every person has a right to the highest attainable standard of mental health services. (2) A person with mental illness has the right to appropriate, affordable, accessible—"
+    }
+   ]
+  },
+  "3B": {
+   "num": "3B",
+   "title": "Consent to treatment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "RIGHTS OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) Every health care provider shall, where the person with mental illness has attained the age of majority—\n  (a) inform the person with mental illness, of the right of that person to choose an appropriate form of treatment; and\n  (b) obtain the written consent from that person before administering any treatment.\n(2) Where the person with mental illness is incapable of making an informed decision on the form of treatment under subsection (1), such consent shall be sought and obtained from —\n  (a) the supporter of the person with mental illness duly appointed under this Act, who shall, when giving consent, comply with the will and preferences of that person; or\n  (b) the representative of the person with mental illness, where a supporter has not been appointed.\n(3) Every health care provider shall, where a person with mental illness is a minor —\n  (a) inform the guardian of the minor of the right of the guardian to choose an appropriate form of treatment for the minor; and\n  (b) obtain written consent from the guardian before administering any treatment.\n[Act No. 27 of 2022, s. 6.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every health care provider shall, where the person with mental illness has attained the age of majority—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the person with mental illness is incapable of making an informed decision on the form of treatment under subsection (1), such consent shall be sought and obtained from —"
+    },
+    {
+     "ref": "(3)",
+     "text": "Every health care provider shall, where a person with mental illness is a minor —"
+    }
+   ]
+  },
+  "3C": {
+   "num": "3C",
+   "title": "Right to participate in treatment planning",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "RIGHTS OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) A person with mental illness has the right to participate in the formulation of their treatment plans.\n(2) Every mental health practitioner shall, where the person with mental illness -\n  (a) has attained the age of majority inform the person, of their right to participate in the formulation of their treatment plans; or\n  (b) is a minor, inform the guardian of the minor of the right of the guardian to participate in formulating treatment plans on behalf of the minor.\n(3) Where a person with mental illness is incapable of exercising the right under subsection (1) due to the nature of the illness, the mental health practitioner shall inform the—\n  (a) supporter of the person with mental illness duly appointed under this Act, of the supporter’s right to participate in formulating the treatment plans; or\n  (b) where a person with mental illness has not appointed a supporter, inform the representative of the person with mental illness, of the representative’s right to participate in formulating the treatment plans.\n(4) A supporter, while exercising the right to participate in treatment planning under this section, shall comply with the will and preference of the person with mental illness.\n[Act No. 27 of 2022, s. 6.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person with mental illness has the right to participate in the formulation of their treatment plans."
+    },
+    {
+     "ref": "(2)",
+     "text": "Every mental health practitioner shall, where the person with mental illness -"
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a person with mental illness is incapable of exercising the right under subsection (1) due to the nature of the illness, the mental health practitioner shall inform the—"
+    },
+    {
+     "ref": "(4)",
+     "text": "A supporter, while exercising the right to participate in treatment planning under this section, shall comply with the will and preference of the person with mental illness."
+    }
+   ]
+  },
+  "3D": {
+   "num": "3D",
+   "title": "Access to medical insurance",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "RIGHTS OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) A person with mental illness shall have the right of access to medical insurance for the treatment from public or private health insurance providers.\n(2) Where the National or county government has in place a medical scheme, the National and county governments shall, in implementing the scheme, take in to account the needs of persons with mental illness and shall ensure that the implementation of the scheme results in the fair treatment of such persons.\n(3) An insurance company or person providing health insurance services shall not discriminate against a person with mental illness or subject a person with mental illness to unfair treatment in obtaining the necessary insurance cover.\n(4) Any person or health insurance company that contravenes the provisions of this section commits an offence and shall be liable, on conviction, to a fine not exceeding five million shillings, or to imprisonment for a term not exceeding three years, or to both.\n[Act No. 27 of 2022, s. 6.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person with mental illness shall have the right of access to medical insurance for the treatment from public or private health insurance providers."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the National or county government has in place a medical scheme, the National and county governments shall, in implementing the scheme, take in to account the needs of persons with mental illness and shall ensure that the implementation of the scheme results in the fair treatment of such persons."
+    },
+    {
+     "ref": "(3)",
+     "text": "An insurance company or person providing health insurance services shall not discriminate against a person with mental illness or subject a person with mental illness to unfair treatment in obtaining the necessary insurance cover."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person or health insurance company that contravenes the provisions of this section commits an offence and shall be liable, on conviction, to a fine not exceeding five million shillings, or to imprisonment for a term not exceeding three years, or to both."
+    }
+   ]
+  },
+  "3E": {
+   "num": "3E",
+   "title": "Protection of persons with mental illness",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "RIGHTS OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) A person with mental illness has the right to protection from physical, economic, social, sexual and other forms of exploitation.\n(2) A person with mental illness shall -\n  (a) not be subjected to forced labour, whether within or outside a health facility;\n  (b) have the right to receive remuneration for any work done, similar to that payable to a person without mental illness.\n(3) A person who contravenes the provisions of this section commits an offence and shall be liable, upon conviction, to imprisonment for a term not exceeding three years or a fine not exceeding one million shillings, or both.\n(4) A person who witnesses any form of abuse against a person with mental illness shall report the incident immediately to the police, the Board or any other competent authority.\n[Act No. 27 of 2022, s. 6.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person with mental illness has the right to protection from physical, economic, social, sexual and other forms of exploitation."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person with mental illness shall -"
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who contravenes the provisions of this section commits an offence and shall be liable, upon conviction, to imprisonment for a term not exceeding three years or a fine not exceeding one million shillings, or both."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person who witnesses any form of abuse against a person with mental illness shall report the incident immediately to the police, the Board or any other competent authority."
+    }
+   ]
+  },
+  "3F": {
+   "num": "3F",
+   "title": "Rights to civil, political and economic rights",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "RIGHTS OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) Every person with mental illness shall have the right to exercise all civil, political, economic, social and cultural rights guaranteed under the Constitution and any other written law in force in Kenya.\n(2) The exercise of the rights under subsection (1) shall only be limited to the extent and in the manner provided for under this Act.\n[Act No. 27 of 2022, s. 6.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every person with mental illness shall have the right to exercise all civil, political, economic, social and cultural rights guaranteed under the Constitution and any other written law in force in Kenya."
+    },
+    {
+     "ref": "(2)",
+     "text": "The exercise of the rights under subsection (1) shall only be limited to the extent and in the manner provided for under this Act."
+    }
+   ]
+  },
+  "3G": {
+   "num": "3G",
+   "title": "Right to access to information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "RIGHTS OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) A person with mental illness is, pursuant to Article 35 of the Constitution, entitled to information regarding that person’s-\n  (a) mental and other health status;\n  (b) clinical records and other related information maintained by a health facilities; and\n  (c) health service providers.\n(2) Any representations made by a person with mental illness shall, on the request of the person with mental illness, form part of the records of that person.\n(3) Where a person with mental illness is unable to exercise their rights under this section, the following persons shall be entitled to access the information on that person’s behalf —\n  (a) a duly appointed supporter of the person with mental illness;\n  (b) in the absence of a supporter, the representative of the person with mental illness; or\n  (c) in the case where the person with mental illness is a minor, the guardian of that minor. (4) The Access to Information Act shall apply to the access of information by a person with mental illness under this Act. (5) The Cabinet Secretary shall, in consultation with the Cabinet Secretary responsible for matters relating to information and communication technology and the Commission on Administrative Justice, make regulations on access to information under this section. (6) Without prejudice to the generality of subsection (5), such regulations may provide for—\n  (a) the procedure for making an application for access to information under this section;\n  (b) the procedure for the processing of an application and availing the information applied for;\nand (c) the duration within which the information requested under this section shall be made available. [Act No. 27 of 2022, s. 6.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person with mental illness is, pursuant to Article 35 of the Constitution, entitled to information regarding that person’s-"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any representations made by a person with mental illness shall, on the request of the person with mental illness, form part of the records of that person."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a person with mental illness is unable to exercise their rights under this section, the following persons shall be entitled to access the information on that person’s behalf —"
+    }
+   ]
+  },
+  "3H": {
+   "num": "3H",
+   "title": "Right to confidentiality",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "RIGHTS OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) All information regarding the care and treatment of a person with mental illness is confidential. (2) A person in charge or a mental health practitioner shall not disclose any confidential information, except where such disclosure—\n  (a) is required by law;\n  (b) ordered by a court;\n  (c) is in the public interest;\n  (d) is necessary to prevent the likelihood of serious harm to the person with mental illness or to others;\n  (e) is necessary for purposes of treating the person with mental illness;\n  (f) is authorised by the person with mental illness under a duly executed supportive decision making agreement; or (g) is in the best interest of the person with mental illness. [Act No. 27 of 2022, s. 6.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "All information regarding the care and treatment of a person with mental illness is confidential. (2) A person in charge or a mental health practitioner shall not disclose any confidential information, except where such disclosure— (a) is required by law; (b) ordered by a court; (c) is in the public interest; (d) is necessary to prevent the likelihood of serious harm to the person with mental illness or to others; (e) is necessary for purposes of treating the person with mental illness; (f) is authorised by the person with mental illness under a duly executed supportive decision making agreement; or (g) is in the best interest of the person with mental illness. [Act No. 27 of 2022, s. 6.]"
+    }
+   ]
+  },
+  "3I": {
+   "num": "3I",
+   "title": "Right to appoint a supporter",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "RIGHTS OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) A person with mental illness may appoint a person to act as that person’s supporter for the purposes of this Act.\n(2) A person with mental illness shall in appointing a supporter, enter in to a supportive decision making agreement with the proposed supporter.\n(3) A supportive decision-making agreement shall be in writing and shall only be valid if —\n  (a) at the time of making of the agreement, the person with mental illness was aware of their actions;\n  (b) the person with mental illness has signed or affixed their mark to the agreement;\n  (c) the signature or mark of the person with mental illness, is so placed that it shall appear that it was intended to give effect to the writing as a supportive decision making agreement;\n  (d) the agreement is attested by two or more competent witnesses, one of whom shall be the doctor of the person with mental illness;\n  (e) the person with mental illness signs or affixes their mark to the agreement in the presence of the witnesses; and\n  (f) each of the witnesses signs the agreement in the presence of the person with mental illness.\n(4) A person is eligible for appointment as a supporter if that person —\n  (a) has attained the age of majority; or\n  (b) is a Public Trustee appointed under the Public Trustee Act (Cap. 168).\n(5) Where a person with mental illness is unable to appoint a supporter under subsection (1), the representative of the person may represent the person with mental illness for the purpose of treatment and care under this Act.\n(6) A supporter or representative of a person with mental illness, as the case may be, may appoint another person to represent the person with mental illness in any complaint procedure or appeal.\n(7) A person with mental illness, the supporter or representative of a person with mental illness or a person appointed under subsection(5) is entitled, where necessary, to the services of an interpreter who shall be made available free of charge.\n(8) A person with mental illness, the supporter or the representative of the person with mental illness, or a person appointed under subsection (5) has the right to-\n  (a) produce at any hearing, independent medical reports and such other reports or evidence that are relevant to the status of the person with mental illness; and\n  (b) attend, participate and be heard in any hearing under this Act.\n[Act No. 27 of 2022, s. 6.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person with mental illness may appoint a person to act as that person’s supporter for the purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person with mental illness shall in appointing a supporter, enter in to a supportive decision making agreement with the proposed supporter."
+    },
+    {
+     "ref": "(3)",
+     "text": "A supportive decision-making agreement shall be in writing and shall only be valid if — (a) at the time of making of the agreement, the person with mental illness was aware of their actions; (b) the person with mental illness has signed or affixed their mark to the agreement; (c) the signature or mark of the person with mental illness, is so placed that it shall appear that it was intended to give effect to the writing as a supportive decision making agreement;"
+    },
+    {
+     "ref": "(4)",
+     "text": "A person is eligible for appointment as a supporter if that person —"
+    },
+    {
+     "ref": "(5)",
+     "text": "Where a person with mental illness is unable to appoint a supporter under subsection (1), the representative of the person may represent the person with mental illness for the purpose of treatment and care under this Act."
+    },
+    {
+     "ref": "(6)",
+     "text": "A supporter or representative of a person with mental illness, as the case may be, may appoint another person to represent the person with mental illness in any complaint procedure or appeal."
+    },
+    {
+     "ref": "(7)",
+     "text": "A person with mental illness, the supporter or representative of a person with mental illness or a person appointed under subsection(5) is entitled, where necessary, to the services of an interpreter who shall be made available free of charge."
+    },
+    {
+     "ref": "(8)",
+     "text": "A person with mental illness, the supporter or the representative of the person with mental illness, or a person appointed under subsection (5) has the right to-"
+    }
+   ]
+  },
+  "3J": {
+   "num": "3J",
+   "title": "Decisions by the supporter",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "RIGHTS OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) A supporter owes a duty of care to the person with mental illness and shall ensure that any decision made by the supporter is in accordance to the will and preference of the person with mental illness.\n(2) In determining whether a decision conforms to the will and preference of the person with mental illness the supporter shall—\n  (a) consider whether the decision conforms to the longer lasting general beliefs, values and desires that the person with mental illness subscribes to; and\n  (b) interpret the will and preference of the person with mental illness taking in to account the rights conferred on such person under the Constitution and international human rights law.\n(3) In exercising the power to make a decision in accordance with the will and preference of a person with mental illness, the supporter shall—\n  (a) not make a decision that will result in a conflict of interest; and\n  (b) ensure that the decision applies for the shortest time possible and the supporter shall make continuous efforts to have the person with mental illness express their own will and preference.\n[Act No. 27 of 2022, s. 6.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A supporter owes a duty of care to the person with mental illness and shall ensure that any decision made by the supporter is in accordance to the will and preference of the person with mental illness."
+    },
+    {
+     "ref": "(2)",
+     "text": "In determining whether a decision conforms to the will and preference of the person with mental illness the supporter shall—"
+    },
+    {
+     "ref": "(3)",
+     "text": "In exercising the power to make a decision in accordance with the will and preference of a person with mental illness, the supporter shall—"
+    }
+   ]
+  },
+  "3K": {
+   "num": "3K",
+   "title": "Legal capacity",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "RIGHTS OF PERSONS WITH MENTAL ILLNESS",
+   "text": "A person with mental illness has a right to recognition before the law and shall enjoy legal rights on an equal basis with other persons in all aspects of life.\n[Act No. 27 of 2022, s. 6.]",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Establishment of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE KENYA BOARD OF MENTAL HEALTH",
+   "text": "(1) There shall be established a Board to be known as the Kenya Board of Mental Health for the purposes of this Act.\n(2) The Board shall consist of—\n  (a) a chairperson appointed by the President who shall—\n  (i) hold a Masters’ degree in psychiatry or its equivalent from a university recognised in Kenya; and\n  (ii) have at least ten years' experience, five of which shall be in a managerial position;\n  (b) the Principal Secretary in the ministry for the time being responsible for matters relating to health or a representative appointed in writing;\n  (c) the Principal Secretary in the ministry for the time being responsible for matters relating to finance or a representative appointed in writing;\n  (d) four persons, not being public officers, appointed by the Cabinet Secretary by virtue of gender, disability and regional balance, with knowledge and experience in mental health care of whom —\n  (i) one shall be a psychiatrist nominated by the Medical Practitioners and Dentists Board;\n  (ii) one shall be a counsellor or psychologist nominated by the Counsellors and Psychologists Board;\n  (iii) one shall be a nurse nominated by the Nursing Council of Kenya; and\n  (iv) one shall be a clinical officer nominated by the Clinical Officers Council;\n  (e) one person nominated by the Kenya National Commission on Human Rights with knowledge and experience in matters related to mental health;\n  (f) two persons, not being Governors, and having knowledge and experience in matters related to mental health, nominated by the Council of County Governors;\n  (g) one county director of health nominated from amongst the forty-seven county directors of health by the Council of Governors;\n  (h) the Director of Mental Health, who shall be the secretary to the Board and an ex-officio member of the Board.\n(2A) The Cabinet Secretary shall appoint the members of the Board nominated under subsection (2)(b), (c), (d), and (e) by notice in the Gazette.\n(2B) A member of the Board under subsection (2) (b), (c), (d) and (e), shall hold office for a period of three years and shall be eligible for re-appointment for one further term.\n(2C) A person is not eligible for appointment as a member of the Board if such person —\n  (a) has been convicted of an offence by a court of competent jurisdiction and sentenced to imprisonment for a term of six months or more;\n  (b) is adjudged bankrupt or has entered into a composition, scheme or arrangement with the person’s creditors;\n  (c) has been removed from office for contravening the Constitution or any other law; or (d) has not met any statutory obligations in the conduct of their affairs; or (e) is disqualified from being appointed under the provisions of any other written law.\n(2D) While making the appointments under subsection (2A), the Cabinet Secretary shall take into consideration—\n  (a) the one third gender rule; and (b) diversity of qualifications of the persons being appointed.\n(2E) The Secretary to the Board shall be the Chief executive officer of the Board. (2F) The procedure for the conduct of business and affairs of the Board shall be as set out in the schedule. (3) Deleted by Act No. 27 of 2022, s. 7. (4) The Board may co-opt any person whose skills, knowledge or experience may be useful to the Board or to any committee of the Board. (5) The Board may establish committees of the Board. (6) Subject to the Schedule, the Board may regulate the conduct of its business and affairs.\n[Act No. 11 of 1993, Sch., Act No. 27 of 2022, s. 7.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be established a Board to be known as the Kenya Board of Mental Health for the purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall consist of—"
+    },
+    {
+     "ref": "(2A)",
+     "text": "The Cabinet Secretary shall appoint the members of the Board nominated under subsection (2)(b), (c), (d), and (e) by notice in the Gazette."
+    },
+    {
+     "ref": "(2B)",
+     "text": "A member of the Board under subsection (2) (b), (c), (d) and (e), shall hold office for a period of three years and shall be eligible for re-appointment for one further term."
+    },
+    {
+     "ref": "(2C)",
+     "text": "A person is not eligible for appointment as a member of the Board if such person — (a) has been convicted of an offence by a court of competent jurisdiction and sentenced to imprisonment for a term of six months or more; (b) is adjudged bankrupt or has entered into a composition, scheme or arrangement with the person’s creditors; (c) has been removed from office for contravening the Constitution or any other law; or (d) has not met any statutory obligations in the conduct of their affairs; or (e) is disqualified from being appointed under the provisions of any other written law."
+    },
+    {
+     "ref": "(2D)",
+     "text": "While making the appointments under subsection (2A), the Cabinet Secretary shall take into consideration— (a) the one third gender rule; and (b) diversity of qualifications of the persons being appointed."
+    },
+    {
+     "ref": "(2E)",
+     "text": "The Secretary to the Board shall be the Chief executive officer of the Board. (2F) The procedure for the conduct of business and affairs of the Board shall be as set out in the schedule. (3) Deleted by Act No. 27 of 2022, s. 7. (4) The Board may co-opt any person whose skills, knowledge or experience may be useful to the Board or to any committee of the Board. (5) The Board may establish committees of the Board. (6) Subject to the Schedule, the Board may regulate the conduct of its business and affairs."
+    }
+   ]
+  },
+  "4A": {
+   "num": "4A",
+   "title": "Vacancy in the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE KENYA BOARD OF MENTAL HEALTH",
+   "text": "The office of a member of the Board shall become vacant if the holder—\n  (a) dies;\n  (b) resigns from office by notice in writing addressed to the Cabinet Secretary;\n  (c) is adjudged bankrupt or enters into a composition scheme or arrangement with the person’s creditors;\n  (d) is convicted of a criminal offence and sentenced to imprisonment for a term exceeding six months; or (e) is removed from office under any of the circumstances specified in section 4B. [Act No. 27 of 2022, s. 8.]",
+   "clauses": []
+  },
+  "4B": {
+   "num": "4B",
+   "title": "Removal of member of Board from Office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE KENYA BOARD OF MENTAL HEALTH",
+   "text": "(1) A member of the Board may be removed from office for—\n  (a) inability to perform the functions of the office arising out of physical or mental incapacity;\n  (b) gross misconduct;\n  (c) incompetence or negligence of duty; or (d) any other ground that would justify removal from office under any written law.\n(2) Before the removal of a member of the Board under subsection (1)(a), the Cabinet Secretary shall request the Board to(a) investigate the circumstances giving rise to the proposed removal; and (b) make recommendations on whether or not the member should be removed from office. [Act No. 27 of 2022, s. 8.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A member of the Board may be removed from office for— (a) inability to perform the functions of the office arising out of physical or mental incapacity; (b) gross misconduct; (c) incompetence or negligence of duty; or (d) any other ground that would justify removal from office under any written law."
+    },
+    {
+     "ref": "(2)",
+     "text": "Before the removal of a member of the Board under subsection (1)(a), the Cabinet Secretary shall request the Board to(a) investigate the circumstances giving rise to the proposed removal; and (b) make recommendations on whether or not the member should be removed from office. [Act No. 27 of 2022, s. 8.]"
+    }
+   ]
+  },
+  "4C": {
+   "num": "4C",
+   "title": "Delegation by the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE KENYA BOARD OF MENTAL HEALTH",
+   "text": "The Board may, by resolution either generally or in any particular case, delegate to any committee of the Board or to any member, officer, employee or agent of the Board, the exercise of any of the powers or the performance of any of its functions or duties under this Act or under any other written law.\n[Act No. 27 of 2022, s. 8.]",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Functions of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE KENYA BOARD OF MENTAL HEALTH",
+   "text": "The function of the Board shall be—\n  (a) deleted by Act No. 27 of 2022, s. 9. (b) advise the National government and county governments on the levels of access to mental health care services in Kenya and the most appropriate strategies and programmes for the care of persons with mental illness and the effective delivery of mental health care services at the national and county levels of government;\n  (c) set standards for the establishment of mental health units;\n  (ca) approve the establishment of mental health units within a national referral hospital;\n  (d) inspect mental health units and mental health facilities to ensure that they meet the prescribed standards;\n  (e) deleted by Act No. 27 of 2022, s. 9. (f) deleted by Act No. 27 of 2022, s. 9. (g) deleted by Act No. 27 of 2022, s. 9. (h) to develop guidelines on emergency treatment of persons with mental illness the procedures to be adhered to during emergency treatment;\n  (ha) to collaborate with the Cabinet Secretary responsible for education in developing and integrating in the education syllabus instructions relating to mental health, including instructions on prevention, treatment, rehabilitation and general information on mental health related illness; and\n  (hb) to prepare reports on prevalence of mental illness in the country and in particular to articulate in the reports an analysis of the specific types of mental illness recorded in every county.\n  (i) to perform such other functions as may be conferred upon it by or under this or other written law. [Act No. 27 of 2022, s. 9.]",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "The Director of Mental Health and staff of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE KENYA BOARD OF MENTAL HEALTH",
+   "text": "(1) There is established the office of the Director of Mental Health which shall be an office in the Public Service.\n(1A) The Director of Mental Health shall be competitively recruited and appointed by the Public Service Commission.\n(1B) A person shall be eligible for appointment as the Director of Mental Health if that person—\n  (a) holds a masters of medicine degree in Psychiatry from a university recognised in Kenya;\n  (b) is registered by the Medical Practitioners and Dentists Board as a psychiatrist;\n  (c) has at least ten years’ experience in the practice of medicine, five of which shall be experience at senior management level; and (d) meets the requirements of Chapter Six of the Constitution.\n(1C) The Director shall—\n  (a) be the chief executive and accounting officer of the Board; and (b) be responsible to the Board for the day to day administration of the affairs of the Secretariat and implementation of the decisions arising from the Board;\n(1D) Without prejudice to the generality of the provisions of subsection (1C), the Director shall be responsible for—\n  (a) the implementation of decisions of the Board;\n  (b) directing and supervising the acts of staff of the Board appointed under subsection (2);\n  (c) the organization, control and management of the Board's secretariat;\n  (d) maintaining accurate records on financial matters and resource use of the Board;\n  (e) ensuring the preparation and approval of the budget for the required funding of the operational expenses of the Board and the Secretariat to the Board; and (f) performing any other duties as may be assigned by the Board.\n(2) There may be appointed such staff for the Board, who may be public officers, as are necessary to enable the Board to effectively carry out its functions. [Act No. 27 of 2022, s. 10.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established the office of the Director of Mental Health which shall be an office in the Public Service."
+    },
+    {
+     "ref": "(1A)",
+     "text": "The Director of Mental Health shall be competitively recruited and appointed by the Public Service Commission."
+    },
+    {
+     "ref": "(1B)",
+     "text": "A person shall be eligible for appointment as the Director of Mental Health if that person— (a) holds a masters of medicine degree in Psychiatry from a university recognised in Kenya; (b) is registered by the Medical Practitioners and Dentists Board as a psychiatrist; (c) has at least ten years’ experience in the practice of medicine, five of which shall be experience at senior management level; and (d) meets the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(1C)",
+     "text": "The Director shall— (a) be the chief executive and accounting officer of the Board; and (b) be responsible to the Board for the day to day administration of the affairs of the Secretariat and implementation of the decisions arising from the Board;"
+    },
+    {
+     "ref": "(1D)",
+     "text": "Without prejudice to the generality of the provisions of subsection (1C), the Director shall be responsible for— (a) the implementation of decisions of the Board; (b) directing and supervising the acts of staff of the Board appointed under subsection (2); (c) the organization, control and management of the Board's secretariat; (d) maintaining accurate records on financial matters and resource use of the Board; (e) ensuring the preparation and approval of the budget for the required funding of the operational expenses of the Board and the Secretariat to the Board; and (f) performing any other duties as may be assigned by the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "There may be appointed such staff for the Board, who may be public officers, as are necessary to enable the Board to effectively carry out its functions. [Act No. 27 of 2022, s. 10.]"
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Deleted",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE KENYA BOARD OF MENTAL HEALTH",
+   "text": "Deleted by Act No. 27 of 2022, s. 11.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Expenses of the Board and the district mental health councils",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE KENYA BOARD OF MENTAL HEALTH",
+   "text": "(1) The expenses of the Board shall be met out of funds voted for the purpose by Parliament. (2) The remuneration of the Board shall be determined by Cabinet Secretary in consultation with the Salaries and Remuneration Commission. [Act No. 27 of 2022, s. 12.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The expenses of the Board shall be met out of funds voted for the purpose by Parliament. (2) The remuneration of the Board shall be determined by Cabinet Secretary in consultation with the Salaries and Remuneration Commission. [Act No. 27 of 2022, s. 12.]"
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Establishment of mental health units",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MANAGEMENT OF MENTAL HEALTH UNITS AND FACILITIES, ADMISSION AND TREATMENT OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) A mental hospital authorized by the Director under section 2 of the Mental Treatment Act (Cap. 248 (1970) now repealed) shall be deemed to have been established under this Act.\n(2) The Board may, by notice in the Gazette, designate such places within a national referral hospital or any other national government facility as the Board may consider necessary as a mental health unit.\n(2A) A county executive committee member may, by notice in the Gazette, designate such a place within a county health facility in the respective county as the committee member may consider necessary as a mental health unit.\n(3) The Board may, under this section, authorize places within prisons established under the Prisons Act (Cap. 90) to be places for the reception and treatment of prisoners, either remanded or convicted, suffering from mental illness.\n(4) An application to the Board for authority to establish a mental hospital shall be in the prescribed form accompanied by the prescribed fee.\n(5) The Cabinet Secretary, in consultation with the Board and the Council of County Governors, shall make rules for the proper management of mental health units.\n(6) A level 3, 4, 5 and 6 health facility which has a mental health unit designated under this section shall provide within it, in-patient and outpatient treatment of persons with mental illness.\n(6A) Every private mental health facility established under subsection (9A) (b) shall have facilities for inpatient and out-patient treatment of persons suffering from mental illness.\n(7) Deleted by Act No. 27 of 2022, s. 14.\n[Act No. 27 of 2022, s. 14.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A mental hospital authorized by the Director under section 2 of the Mental Treatment Act (Cap. 248 (1970) now repealed) shall be deemed to have been established under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may, by notice in the Gazette, designate such places within a national referral hospital or any other national government facility as the Board may consider necessary as a mental health unit."
+    },
+    {
+     "ref": "(2A)",
+     "text": "A county executive committee member may, by notice in the Gazette, designate such a place within a county health facility in the respective county as the committee member may consider necessary as a mental health unit."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board may, under this section, authorize places within prisons established under the Prisons Act (Cap. 90) to be places for the reception and treatment of prisoners, either remanded or convicted, suffering from mental illness."
+    },
+    {
+     "ref": "(4)",
+     "text": "An application to the Board for authority to establish a mental hospital shall be in the prescribed form accompanied by the prescribed fee."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Cabinet Secretary, in consultation with the Board and the Council of County Governors, shall make rules for the proper management of mental health units."
+    },
+    {
+     "ref": "(6)",
+     "text": "A level 3, 4, 5 and 6 health facility which has a mental health unit designated under this section shall provide within it, in-patient and outpatient treatment of persons with mental illness."
+    },
+    {
+     "ref": "(6A)",
+     "text": "Every private mental health facility established under subsection (9A) (b) shall have facilities for inpatient and out-patient treatment of persons suffering from mental illness."
+    },
+    {
+     "ref": "(7)",
+     "text": "Deleted by Act No. 27 of 2022, s. 14."
+    }
+   ]
+  },
+  "9A": {
+   "num": "9A",
+   "title": "Establishment of mental health facilities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MANAGEMENT OF MENTAL HEALTH UNITS AND FACILITIES, ADMISSION AND TREATMENT OF PERSONS WITH MENTAL ILLNESS",
+   "text": "There may be established -\n  (a) a mental health unit operated and managed by the national government or a county government as the case may be; and\n  (b) a private mental health facility.\n[Act No. 27 of 2022, s. 15.]",
+   "clauses": []
+  },
+  "9B": {
+   "num": "9B",
+   "title": "Establishment of a private mental health facility",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MANAGEMENT OF MENTAL HEALTH UNITS AND FACILITIES, ADMISSION AND TREATMENT OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) A person who intends to establish a private mental health facility shall submit an application to the relevant medical regulatory body in the prescribed form together with the prescribed fee.\n(2) A person in medical charge of a private mental health facility shall be a mental health practitioner who is qualified and duly registered as a—\n  (a) psychiatrist;\n  (b) psychologist;\n  (c) clinical officer who specialises in psychiatry; or\n  (d) psychiatric nurse.\n(3) Where an approval is given under subsection (1), the applicant shall notify the county mental health council of the approval in the prescribed form.\n(4) The county mental health council shall-\n  (a) maintain a register of all private mental health facilities operating in the county;\n  (b) submit a list of all private mental health facilities operating in the county to the Board annually; and\n  (c) inspect private mental health facilities within the respective county and report its findings to the Board for remedial action.\n(5) A private mental health facility shall be subject to the standards and regulations affecting mental health units under this Act.\n(6) The Cabinet Secretary in consultation with county executive committee members and the Board shall -\n  (a) develop a template for reports to be submitted to the Board under subsection (4); and\n  (b) prescribe any other standards and regulations that a private mental health facility should adhere to.\n[Act No. 27 of 2022, s. 15.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who intends to establish a private mental health facility shall submit an application to the relevant medical regulatory body in the prescribed form together with the prescribed fee."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person in medical charge of a private mental health facility shall be a mental health practitioner who is qualified and duly registered as a—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Where an approval is given under subsection (1), the applicant shall notify the county mental health council of the approval in the prescribed form."
+    },
+    {
+     "ref": "(4)",
+     "text": "The county mental health council shall-"
+    },
+    {
+     "ref": "(5)",
+     "text": "A private mental health facility shall be subject to the standards and regulations affecting mental health units under this Act."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Cabinet Secretary in consultation with county executive committee members and the Board shall -"
+    }
+   ]
+  },
+  "9C": {
+   "num": "9C",
+   "title": "Penalty for fraudulently procurement of registration of private mental health facility",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MANAGEMENT OF MENTAL HEALTH UNITS AND FACILITIES, ADMISSION AND TREATMENT OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) Where a person, procures or attempts to procure registration under section 9B by making, causing to be made, producing or causing to be produced any false or fraudulent representation or declaration either orally or in writing, that person commits an offence and shall be liable, upon conviction, if the person is a—\n  (a) natural person, to a fine not exceeding four million shillings or to imprisonment for a term not exceeding ten years, or to both; or\n  (b) body corporate, to a fine not exceeding ten million shillings.\n(2) In addition to the penalty imposed under subsection (1), the Board may lodge a complaint with the relevant professional body, to which that person is a member, for the institution of disciplinary proceedings against that person.\n[Act No. 27 of 2022, s. 15.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a person, procures or attempts to procure registration under section 9B by making, causing to be made, producing or causing to be produced any false or fraudulent representation or declaration either orally or in writing, that person commits an offence and shall be liable, upon conviction, if the person is a—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In addition to the penalty imposed under subsection (1), the Board may lodge a complaint with the relevant professional body, to which that person is a member, for the institution of disciplinary proceedings against that person."
+    }
+   ]
+  },
+  "9D": {
+   "num": "9D",
+   "title": "Reports by mental health facilities and units",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MANAGEMENT OF MENTAL HEALTH UNITS AND FACILITIES, ADMISSION AND TREATMENT OF PERSONS WITH MENTAL ILLNESS",
+   "text": "A person in charge of a mental health facility or unit shall submit a monthly report to the Board and the county executive committee member on—\n  (a) the number of voluntary or involuntary patients the mental health facility or unit has received;\n  (b) the number of voluntary or involuntary patients the mental health facility or unit has discharged;\n  (c) the number of voluntary patients or involuntary patients still under the care of the mental health facility or unit;\n  (d) the number of voluntary or involuntary patients who have died in the course of treatment in the mental health facility or unit;\n  (e) the number of patients who have undergone emergency mental health care treatment;\n  (f) the number of mental health patients admitted on an emergency basis that the mental health facility or unit has discharged, are still under its care or have died in the course of treatment; and\n  (g) the number of patients who have been subjected to restraint and seclusion and the number of times restraint and seclusion has been used as an additional parameter during the course of their treatment.\n(2) The sub county health records officer shall enter the data submitted under subsection (1) in to the Health Information System within fourteen days of receipt.\n[Act No. 27 of 2022, s. 15.]",
+   "clauses": [
+    {
+     "ref": "(2)",
+     "text": "The sub county health records officer shall enter the data submitted under subsection (1) in to the Health Information System within fourteen days of receipt."
+    }
+   ]
+  },
+  "9E": {
+   "num": "9E",
+   "title": "Seclusion and restraint",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MANAGEMENT OF MENTAL HEALTH UNITS AND FACILITIES, ADMISSION AND TREATMENT OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) A person with mental illness shall not be physically restrained or secluded except in accordance with the provisions of this Act, the prescribed procedures and upon authorization by a mental health practitioner.\n(2) Physical restraint or seclusion shall only be used where it is the only means available to prevent immediate or imminent harm to the person with mental illness or other people.\n(3) Physical restraint or seclusion under subsection (2) shall not be prolonged beyond the period which is strictly necessary to—\n  (a) administer treatment to the person with mental illness;\n  (b) allow the person with mental illness to co-habit peacefully with other users within the mental health facility or unit as the case may be or the person’s family, or with members of the community.\n(4) The mental health facility or unit as the case may be shall ensure that all instances of physical restraint or seclusion, their reasons, nature and extent are recorded in the medical records of the person with the mental illness.\n(5) A person with mental illness who is restrained or secluded shall be kept under humane conditions and shall be under the care and regular supervision of a mental health practitioner within the facility or unit as the case may be.\n(6) The person in charge of a mental health facility or unit as the case may be, shall, within twenty-four hours, give notice of the restraint or seclusion of the person with mental illness to the—\n  (a) duly appointed supporter of the person with mental illness;\n  (b) in the case where the person with mental illness has not appointed a supporter, to the representative of the person with mental illness; or\n  (c) in the case of a minor with mental illness, to the guardian of that minor.\n(7) The review of the mental health status of a person with mental illness under seclusion or restraint shall be carried out in accordance with Part X of this Act.\n[Act No. 27 of 2022, s. 15.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person with mental illness shall not be physically restrained or secluded except in accordance with the provisions of this Act, the prescribed procedures and upon authorization by a mental health practitioner."
+    },
+    {
+     "ref": "(2)",
+     "text": "Physical restraint or seclusion shall only be used where it is the only means available to prevent immediate or imminent harm to the person with mental illness or other people."
+    },
+    {
+     "ref": "(3)",
+     "text": "Physical restraint or seclusion under subsection (2) shall not be prolonged beyond the period which is strictly necessary to—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The mental health facility or unit as the case may be shall ensure that all instances of physical restraint or seclusion, their reasons, nature and extent are recorded in the medical records of the person with the mental illness."
+    },
+    {
+     "ref": "(5)",
+     "text": "A person with mental illness who is restrained or secluded shall be kept under humane conditions and shall be under the care and regular supervision of a mental health practitioner within the facility or unit as the case may be."
+    },
+    {
+     "ref": "(6)",
+     "text": "The person in charge of a mental health facility or unit as the case may be, shall, within twenty-four hours, give notice of the restraint or seclusion of the person with mental illness to the—"
+    },
+    {
+     "ref": "(7)",
+     "text": "The review of the mental health status of a person with mental illness under seclusion or restraint shall be carried out in accordance with Part X of this Act."
+    }
+   ]
+  },
+  "9F": {
+   "num": "9F",
+   "title": "Informed consent",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MANAGEMENT OF MENTAL HEALTH UNITS AND FACILITIES, ADMISSION AND TREATMENT OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) A mental health practitioner shall not administer mental health care, treatment or admit a person to a mental health facility or unit under this Part without the informed consent of —\n  (a) the person with mental illness;\n  (b) the supporter of that person, where the person with mental illness is unable at the particular time to give consent;\n  (c) the representative of that person, where the person with mental illness has not appointed a supporter; or\n  (d) the guardian of the person with mental illness, where the person with mental illness is a minor.\n(2) Consent under subsection (1) shall be valid if —\n  (a) given freely without threats or improper inducement;\n  (b) there is appropriate and adequate disclosure of all relevant information relating to the treatment, including information on the type, purpose, likely duration, side effects and expected benefits of the treatment;\n  (c) choices are given to the persons under subsection (1), in accordance with prescribed clinical practice;\n  (d) where consent is sought from a person under paragraph (b), (c),(d), the person is competent to give the consent; and\n  (e) consent is written and recorded in the records of the person with mental illness. [Act No. 27 of 2022, s. 15.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A mental health practitioner shall not administer mental health care, treatment or admit a person to a mental health facility or unit under this Part without the informed consent of —"
+    },
+    {
+     "ref": "(2)",
+     "text": "Consent under subsection (1) shall be valid if —"
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Voluntary admission of a patient",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "VOLUNTARY PATIENTS",
+   "text": "(1) A person who presents themselves voluntarily to a mental health facility or unit for treatment or admission shall be entitled to—\n  (a) receive appropriate care and treatment; or (b) referral where necessary to an appropriate mental health facility or unit.\n(2) Where a minor requires admission to a mental health facility or unit, for treatment under subsection (1), the guardian of that person shall submit a written application, in the prescribed form, to the person in charge of a mental health facility or unit as the case may be, for the admission of the minor.\n(3) Upon receiving a person under this section, the person in charge of the mental health facility or unit, as the case may be shall, within seventy-two hours, review or cause the condition of the person to be reviewed.\n(4) The Cabinet Secretary shall in consultation with the Board and the Council of County Governors formulate guidelines on—\n  (a) the conditions for admitting and retaining a voluntary patient, beyond forty-two days, after the patient becomes incapable of expressing themselves;\n  (b) the procedure to be followed by the mental health facility or unit in dealing with a patient admitted under subsection (2), where the guardian of the person with mental illness—\n  (i) dies;\n  (ii) becomes incapable of supporting or representing the person with mental illness as the case may be; or (iii) refuses or neglects to perform their duties under the Act;\n  (c) the conditions and procedure for discharging a patient under this section; and (d) prescribe the form to be filled before voluntary admission. [Act No. 27 of 2022, s. 17.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who presents themselves voluntarily to a mental health facility or unit for treatment or admission shall be entitled to— (a) receive appropriate care and treatment; or (b) referral where necessary to an appropriate mental health facility or unit."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a minor requires admission to a mental health facility or unit, for treatment under subsection (1), the guardian of that person shall submit a written application, in the prescribed form, to the person in charge of a mental health facility or unit as the case may be, for the admission of the minor."
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon receiving a person under this section, the person in charge of the mental health facility or unit, as the case may be shall, within seventy-two hours, review or cause the condition of the person to be reviewed."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Cabinet Secretary shall in consultation with the Board and the Council of County Governors formulate guidelines on— (a) the conditions for admitting and retaining a voluntary patient, beyond forty-two days, after the patient becomes incapable of expressing themselves; (b) the procedure to be followed by the mental health facility or unit in dealing with a patient admitted under subsection (2), where the guardian of the person with mental illness— (i) dies; (ii) becomes incapable of supporting or representing the person with mental illness as the case may be; or (iii) refuses or neglects to perform their duties under the Act; (c) the conditions and procedure for discharging a patient under this section; and (d) prescribe the form to be filled before voluntary admission. [Act No. 27 of 2022, s. 17.]"
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Deleted",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "VOLUNTARY PATIENTS",
+   "text": "Deleted by Act No. 27 of 2022, s. 18.",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Deleted",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "VOLUNTARY PATIENTS",
+   "text": "Deleted by Act No. 27 of 2022, s. 19.",
+   "clauses": []
+  },
+  "13": {
+   "num": "13",
+   "title": "Deleted",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "VOLUNTARY PATIENTS",
+   "text": "Deleted by Act No. 27 of 2022, s. 20.",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "Involuntary admission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "INVOLUNTARY PATIENTS",
+   "text": "(1) A person in charge may, upon application, admit a person with mental illness involuntarily or detain involuntarily a person, having been admitted voluntarily, if a qualified mental health practitioner determines, in accordance with this Act, that the person has a mental illness and—\n  (a) because of the mental illness, there is a serious likelihood of immediate or imminent harm to that person or to other persons; or (b) in the case a person whose mental illness is severe and whose judgment is impaired, failure to admit or retain the person is likely to (i) lead to a serious deterioration in the condition of that person; or (ii) hinder the provision of appropriate treatment that can only be given by admission to a mental health facility or unit in accordance with the principle of the least restrictive alternative.\n(1A) An application under subsection (1) shall be made in the prescribed form to the person m charge of the mental health facility or unit, as the case may be, by the following persons—\n  (a) a duly appointed supporter of the person with mental illness in accordance to the will and preference of the person with mental illness;\n  (b) in the absence of a duly appointed supporter, a representative of the person with mental illness;\n  (c) in case of a minor with mental illness, by the guardian of the minor; or (d) where the person in paragraphs (a), (b) or (c) are not available or willing to make the application, by any other person who is carer or relative of that person.\n(1B) A person who makes an application under subsection (1A) (d) shall submit together with the application, information regarding—\n  (a) the reason why it is not made as provided under subsection (1A) (a), (b) or (c);\n  (b) the connection of the applicant with the person to whom the application relates; and (c) the circumstances in which the application is made.\n(1C) In the case of involuntary admission under this section, the person in charge shall determine or cause to be determined—\n  (a) whether the person admitted suffers from mental illness and the severity of the illness;\n  (b) whether there is a likelihood of immediate or imminent harm to the person with mental illness or other persons, and the effect on the health of the person if such person is not admitted or treated; and\n  (c) whether the treatment requires admission or whether it can be administered to the person as an out-patient.\n(1D) The person in charge under subsection (1) shall only detain the person for the duration necessary to stabilize the person with mental illness and provide mental health care services to the person.\n(2) Deleted by Act No. 27 of 2022, s. 22.\n(3) The application shall be accompanied by a recommendation in duplicate, in the prescribed form, signed by a medical practitioner, who shall where practicable be the usual medical practitioner attending the person concerned and where this is not practicable a medical practitioner approved by the Director for the purpose of making any such recommendation, shall make it.\n(4) The medical practitioner who makes a recommendation under this section shall, before signing the recommendation, examine the person to whom the recommendation relates and specify in the recommendation the date or dates on which he examined the person and the grounds on which the recommendation is based.\n(5) A determination under subsection (1) shall cease to have effect on the expiration of fourteen days from the last date on which the person to whom the determination relates was examined by a mental health practitioner.\n(6) A person in charge shall not admit an involuntary patient for a period exceeding six months unless the person in charge has—\n  (a) carried out or caused to be carried out a review of the status of mental health of the patient; and\n  (b) sought or retained the recommendation of the medical health practitioner for the extended admission of the patient.\n(6A) Before extending the period of admission under subsection (6) the person in charge shall seek the consent of —\n  (a) the supporter of that person, where the person with mental illness is unable at the particular time to give consent;\n  (b) the representative of that person, where the person with mental illness has not appointed a supporter; or\n  (c) the guardian of the person with mental illness, where the person with mental illness is a minor.\n(7) Deleted by Act No. 27 of 2022, s. 22\n[Act No. 27 of 2022, s. 22.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person in charge may, upon application, admit a person with mental illness involuntarily or detain involuntarily a person, having been admitted voluntarily, if a qualified mental health practitioner determines, in accordance with this Act, that the person has a mental illness and— (a) because of the mental illness, there is a serious likelihood of immediate or imminent harm to that person or to other persons; or (b) in the case a person whose mental illness is severe and whose judgment is impaired, failure to admit or retain the person is likely to (i) lead to a serious deterioration in the condition of that person; or (ii) hinder the provision of appropriate treatment that can only be given by admission to a mental health facility or unit in accordance with the principle of the least restrictive alternative."
+    },
+    {
+     "ref": "(1A)",
+     "text": "An application under subsection (1) shall be made in the prescribed form to the person m charge of the mental health facility or unit, as the case may be, by the following persons— (a) a duly appointed supporter of the person with mental illness in accordance to the will and preference of the person with mental illness; (b) in the absence of a duly appointed supporter, a representative of the person with mental illness; (c) in case of a minor with mental illness, by the guardian of the minor; or (d) where the person in paragraphs (a), (b) or (c) are not available or willing to make the application, by any other person who is carer or relative of that person."
+    },
+    {
+     "ref": "(1B)",
+     "text": "A person who makes an application under subsection (1A) (d) shall submit together with the application, information regarding— (a) the reason why it is not made as provided under subsection (1A) (a), (b) or (c); (b) the connection of the applicant with the person to whom the application relates; and (c) the circumstances in which the application is made."
+    },
+    {
+     "ref": "(1C)",
+     "text": "In the case of involuntary admission under this section, the person in charge shall determine or cause to be determined— (a) whether the person admitted suffers from mental illness and the severity of the illness; (b) whether there is a likelihood of immediate or imminent harm to the person with mental illness or other persons, and the effect on the health of the person if such person is not admitted or treated; and"
+    },
+    {
+     "ref": "(1D)",
+     "text": "The person in charge under subsection (1) shall only detain the person for the duration necessary to stabilize the person with mental illness and provide mental health care services to the person."
+    },
+    {
+     "ref": "(2)",
+     "text": "Deleted by Act No. 27 of 2022, s. 22."
+    },
+    {
+     "ref": "(3)",
+     "text": "The application shall be accompanied by a recommendation in duplicate, in the prescribed form, signed by a medical practitioner, who shall where practicable be the usual medical practitioner attending the person concerned and where this is not practicable a medical practitioner approved by the Director for the purpose of making any such recommendation, shall make it."
+    },
+    {
+     "ref": "(4)",
+     "text": "The medical practitioner who makes a recommendation under this section shall, before signing the recommendation, examine the person to whom the recommendation relates and specify in the recommendation the date or dates on which he examined the person and the grounds on which the recommendation is based."
+    },
+    {
+     "ref": "(5)",
+     "text": "A determination under subsection (1) shall cease to have effect on the expiration of fourteen days from the last date on which the person to whom the determination relates was examined by a mental health practitioner."
+    },
+    {
+     "ref": "(6)",
+     "text": "A person in charge shall not admit an involuntary patient for a period exceeding six months unless the person in charge has—"
+    },
+    {
+     "ref": "(6A)",
+     "text": "Before extending the period of admission under subsection (6) the person in charge shall seek the consent of —"
+    },
+    {
+     "ref": "(7)",
+     "text": "Deleted by Act No. 27 of 2022, s. 22"
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Deleted",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "INVOLUNTARY PATIENTS",
+   "text": "Deleted by Act No. 27 of 2022, s. 23.",
+   "clauses": []
+  },
+  "15A": {
+   "num": "15A",
+   "title": "Conditions for emergency admission and treatment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "INVOLUNTARY PATIENTS",
+   "text": "(1) An emergency admission or treatment of a person with mental illness shall be administered on a person where—\n  (a) there is immediate and imminent danger to the health and safety of the person with mental illness or other people;\n  (b) the nature of danger under paragraph (a) is such that there needs to be urgent care and treatment to stabilize the person with mental illness; and\n  (c) the time required to comply with substantive procedures would cause delay and lead to harm to the person with mental illness or to other people.\n(2) Where the requirements in subsection (1) have been satisfied, the person with mental illness may be -\n  (a) admitted to the health facility; or\n  (b) given the necessary treatment based on the assessment carried out by a qualified medical practitioner or other accredited mental health practitioner.\n(3) Where emergency treatment is administered and a person is admitted under this section, the person in charge shall, within twenty-four hours of admission, inform the next kin of the person with mental illness.\n(4) Emergency admission or treatment under this section shall not be prolonged for a duration longer than—\n  (a) necessary to stabilize and treat the person with mental illness; or\n  (b) in any case for a period longer than seventy-two hours.\n(5) Where a mental health practitioner determines that the person with mental illness requires care beyond the period under subsection (4), the mental health practitioner shall obtain written consent from —\n  (a) a duly appointed supporter of the person with mental illness;\n  (b) a representative of the person with mental illness, where the person with mental illness has not appointed a supporter; or\n  (c) the guardian of the person with mental illness, where the person with mental illness is a minor.\n[Act No. 27 of 2022, s. 25.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An emergency admission or treatment of a person with mental illness shall be administered on a person where—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the requirements in subsection (1) have been satisfied, the person with mental illness may be -"
+    },
+    {
+     "ref": "(3)",
+     "text": "Where emergency treatment is administered and a person is admitted under this section, the person in charge shall, within twenty-four hours of admission, inform the next kin of the person with mental illness."
+    },
+    {
+     "ref": "(4)",
+     "text": "Emergency admission or treatment under this section shall not be prolonged for a duration longer than—"
+    },
+    {
+     "ref": "(5)",
+     "text": "Where a mental health practitioner determines that the person with mental illness requires care beyond the period under subsection (4), the mental health practitioner shall obtain written consent from —"
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Power to take person suffering from mental disorder into custody",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "EMERGENCY ADMISSION",
+   "text": "(1) Any police officer of or above the rank of inspector, officer in charge of a police station, administrative officer, chief or assistant chief may take or cause to be taken into his custody—\n  (a) any person whom he believes to be suffering from mental illness and who is found within the limits of his jurisdiction; and\n  (b) any person within the limits of his jurisdiction whom he believes is dangerous to himself or to others, or who, because of the mental illness acts or is likely to act in a manner offensive to public decency; and\n  (c) any person whom he believes to be suffering from mental illness and is not under proper care and control, or is being cruelly treated or neglected by any relative or other person having charge of him.\n(2) A police officer shall deliver the person in the officer’s custody under subsection (1), to a health facility within twenty-four hours.\n(2A) The police officer shall bear the burden of proof that the person was delivered to a health facility as required under subsection (2).\n(3) Upon delivery of a person to a health facility under subsection (2), the person in charge of the health facility shall, within seventy-hours—\n  (a) examine or cause the person to be examined to determine whether the person should be admitted as an involuntary patient under section 14 or handed over to the care of—\n  (i) a duly appointed supporter of the person with mental illness;\n  (ii) in the absence of a supporter duly appointed under this Act, a representative of the person with mental illness; or\n  (iii) in the case where the person with mental illness is a minor, the guardian of the minor; and\n  (b) make the necessary arrangements for the person’s treatment and care.\n(4) Deleted by Act No. 27 of 2022, s. 26.\n[Act No. 27 of 2022, s. 26.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any police officer of or above the rank of inspector, officer in charge of a police station, administrative officer, chief or assistant chief may take or cause to be taken into his custody—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A police officer shall deliver the person in the officer’s custody under subsection (1), to a health facility within twenty-four hours."
+    },
+    {
+     "ref": "(2A)",
+     "text": "The police officer shall bear the burden of proof that the person was delivered to a health facility as required under subsection (2)."
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon delivery of a person to a health facility under subsection (2), the person in charge of the health facility shall, within seventy-hours—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Deleted by Act No. 27 of 2022, s. 26."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Admission of member of the Kenya Defence Forces for observation and treatment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "ADMISSION AND DISCHARGE OF MEMBERS OF THE KENYA DEFENCE FORCES",
+   "text": "(1) Notwithstanding anything to the contrary in this Act, any member of the Kenya Defence Forces may be admitted in to a mental health unit for observation if a medical officer of the Kenya Defence Forces certifies to the person in charge that -\n  (a) the medical officer has examined the member of the Kenya Defence Forces within a period of forty-eight hours of the admission; and\n  (b) for the reasons recorded in the certificate, the member of the Kenya Defence Forces requires admission to a mental health unit for observation and treatment.\n(2) A member of the Kenya Defence Forces may, subject to subsection (3), be admitted to a mental health unit under subsection (1) for an initial period not exceeding fourteen days from the date of admission.\n(3) A person in charge may extend the period of admission after—\n  (a) carrying out or causing to be carried out a review of the status of mental health of the member of the Kenya Defence Forces; and\n  (b) seeking the recommendation of two medical practitioners, one of whom shall be a psychiatrist, and the medical officer of the Kenya Defence Forces for the extended admission of the patient.\n(4) A member of the Kenya Defence Forces admitted to a mental health unit under subsection (1) may be discharged from that hospital if two medical practitioners, one of whom shall be psychiatrist, by a letter to the person in charge certifies that—\n  (a) they have examined the member of the Kenya Defence Forces within a period of seventy-two hours before issuing the letter; and\n  (b) for the reasons recorded in the letter it is desirable that the member of the Kenya Defence Forces be discharged from the mental health unit and where the mental health unit is not within a Kenya Defence Forces hospital the member of the Kenya Defence Forces shall be discharged to the nearest Kenya Defence Forces health unit which shall arrange to transport the patient to the Kenya Defence Forces Unit the patient belongs to.\n(5) Where any member of the Kenya Defence Forces suffers from mental illness while away from the member’s Kenya Defence Forces unit, and is in any circumstances admitted into a mental health unit, the person in charge shall inform the nearest Kenya Defence Forces unit directly or through an administrative officer or gazetted police officer.\n(6) If a member of the Kenya Defence Forces admitted to a mental health unit under this section ceases to be a member of the Kenya Defence Forces while admitted, the relevant authority in the Kenya Defence Forces shall inform the person in charge of that fact and the patient shall be deemed to be an involuntary patient under Part VI admitted from the date the information is received.\n[Act No. 27 of 2022, s. 28.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Notwithstanding anything to the contrary in this Act, any member of the Kenya Defence Forces may be admitted in to a mental health unit for observation if a medical officer of the Kenya Defence Forces certifies to the person in charge that -"
+    },
+    {
+     "ref": "(2)",
+     "text": "A member of the Kenya Defence Forces may, subject to subsection (3), be admitted to a mental health unit under subsection (1) for an initial period not exceeding fourteen days from the date of admission."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person in charge may extend the period of admission after—"
+    },
+    {
+     "ref": "(4)",
+     "text": "A member of the Kenya Defence Forces admitted to a mental health unit under subsection (1) may be discharged from that hospital if two medical practitioners, one of whom shall be psychiatrist, by a letter to the person in charge certifies that—"
+    },
+    {
+     "ref": "(5)",
+     "text": "Where any member of the Kenya Defence Forces suffers from mental illness while away from the member’s Kenya Defence Forces unit, and is in any circumstances admitted into a mental health unit, the person in charge shall inform the nearest Kenya Defence Forces unit directly or through an administrative officer or gazetted police officer."
+    },
+    {
+     "ref": "(6)",
+     "text": "If a member of the Kenya Defence Forces admitted to a mental health unit under this section ceases to be a member of the Kenya Defence Forces while admitted, the relevant authority in the Kenya Defence Forces shall inform the person in charge of that fact and the patient shall be deemed to be an involuntary patient under Part VI admitted from the date the information is received."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Admission of patients from foreign countries to be under this Part",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "ADMISSION OF PATIENTS FROM FOREIGN COUNTRIES",
+   "text": "(1) No person suffering from mental disorder shall be admitted into a mental hospital in Kenya from any place outside Kenya except under this Part.\n(2) This Part shall not apply to persons ordinarily resident in Kenya.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No person suffering from mental disorder shall be admitted into a mental hospital in Kenya from any place outside Kenya except under this Part."
+    },
+    {
+     "ref": "(2)",
+     "text": "This Part shall not apply to persons ordinarily resident in Kenya."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Admission of patients from foreign countries",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "ADMISSION OF PATIENTS FROM FOREIGN COUNTRIES",
+   "text": "(1) Where it is necessary to admit a person suffering from mental illness from any foreign country into any mental health facility in Kenya for observation or treatment, the Foreign Government or other relevant authority in that country shall apply in writing seeking the Board’s approval to admit the person.\n(1A) A mental health facility shall not receive a person suffering from mental illness from a foreign country without—\n  (a) the Board’s written approval; and\n  (b) a warrant and other documents duly authorising the person’s detention in and removal from the foreign country.\n(2) The application under subsection (1) shall indicate that the person to who it relates—\n  (a) has been legally detained under the laws of the foreign country relating to the detention and treatment of persons suffering from mental illness;\n  (b) has been detained for a period not exceeding two months; and\n  (c) that the admission in to a mental health facility in Kenya has been found to be necessary.\n(3) Before admitting a person under this section, the person in charge of a mental health facility shall ensure that the requirements under subsection (1A) have been satisfied.\n(3A) The requirements under subsection (1A) shall be sufficient authority for the conveyance to, admission and treatment of a person under this section,\n(4) On the admission of a person into a mental health facility the person in charge shall within seventy-two hours or such longer period as the Board may approve—\n  (a) examine the person or cause the person to be examined to determine the extent of mental illness and the nature of treatment; and\n  (b) within that period forward to the Board the report on the examination under paragraph (a) together with the warrant or other document from the foreign country concerned accompanying the person.\n(5) A person shall not be detained in a mental hospital under this section for a period longer than two months from the date of admission to the mental hospital unless the Board, on application in the prescribed form by the person in charge, approves. [Act No. 27 of 2022, s. 29.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where it is necessary to admit a person suffering from mental illness from any foreign country into any mental health facility in Kenya for observation or treatment, the Foreign Government or other relevant authority in that country shall apply in writing seeking the Board’s approval to admit the person."
+    },
+    {
+     "ref": "(1A)",
+     "text": "A mental health facility shall not receive a person suffering from mental illness from a foreign country without—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The application under subsection (1) shall indicate that the person to who it relates—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Before admitting a person under this section, the person in charge of a mental health facility shall ensure that the requirements under subsection (1A) have been satisfied."
+    },
+    {
+     "ref": "(3A)",
+     "text": "The requirements under subsection (1A) shall be sufficient authority for the conveyance to, admission and treatment of a person under this section,"
+    },
+    {
+     "ref": "(4)",
+     "text": "On the admission of a person into a mental health facility the person in charge shall within seventy-two hours or such longer period as the Board may approve—"
+    },
+    {
+     "ref": "(5)",
+     "text": "A person shall not be detained in a mental hospital under this section for a period longer than two months from the date of admission to the mental hospital unless the Board, on application in the prescribed form by the person in charge, approves. [Act No. 27 of 2022, s. 29.]"
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Admission fees under this Part",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "ADMISSION OF PATIENTS FROM FOREIGN COUNTRIES",
+   "text": "(1) The Cabinet Secretary may, upon consultation with the Cabinet Secretary responsible for finance, by notice in the Gazette, prescribe the fees payable for the admission of persons with mental illness in a mental health unit established in a National Referral Hospitals.\n(1A) The county executive committee member may, by notice in the Gazette, prescribe the fees payable for admission of persons with mental illness in a county mental health unit.\n(2) A private mental health facility admitting a person under this Part may charge such fees and in such manner as the Cabinet Secretary for the time being responsible for finance in consultation with the Council of County Governors, may from time to time approve in writing. [Act No. 27 of 2022, s. 30.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, upon consultation with the Cabinet Secretary responsible for finance, by notice in the Gazette, prescribe the fees payable for the admission of persons with mental illness in a mental health unit established in a National Referral Hospitals."
+    },
+    {
+     "ref": "(1A)",
+     "text": "The county executive committee member may, by notice in the Gazette, prescribe the fees payable for admission of persons with mental illness in a county mental health unit."
+    },
+    {
+     "ref": "(2)",
+     "text": "A private mental health facility admitting a person under this Part may charge such fees and in such manner as the Cabinet Secretary for the time being responsible for finance in consultation with the Council of County Governors, may from time to time approve in writing. [Act No. 27 of 2022, s. 30.]"
+    }
+   ]
+  },
+  "20A": {
+   "num": "20A",
+   "title": "Review of mental health status",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "REVIEW, DISCHARGE AND TRANSFER OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) The mental health status of a person with mental illness shall be reviewed periodically by a mental health practitioner and such review shall include a review of —\n  (a) the nature of the illness;\n  (b) the need for care and treatment;\n  (c) the type of care and treatment provided;\n  (d) the need for referral, transfer or discharge; and (e) any other matters related to the mental health status of the person with mental illness.\n(2) The review of the mental health status of a person with mental illness may be initiated by—\n  (a) the person with mental illness;\n  (b) the mental health care practitioner in charge of managing the person with mental illness;\n  (c) a supporter of the person with mental illness;\n  (d) a representative of the person with mental illness;\n  (e) the person in charge of the facility;\n  (f) any other person upon proof of the nature of their interest; or (g) the Board.\n(3) The Cabinet Secretary in consultation with the Board and the Council of County Governors, shall prescribe in regulation the procedure for review under this Act. [Act No. 27 of 2022, s. 32.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The mental health status of a person with mental illness shall be reviewed periodically by a mental health practitioner and such review shall include a review of — (a) the nature of the illness; (b) the need for care and treatment; (c) the type of care and treatment provided; (d) the need for referral, transfer or discharge; and (e) any other matters related to the mental health status of the person with mental illness."
+    },
+    {
+     "ref": "(2)",
+     "text": "The review of the mental health status of a person with mental illness may be initiated by— (a) the person with mental illness; (b) the mental health care practitioner in charge of managing the person with mental illness; (c) a supporter of the person with mental illness; (d) a representative of the person with mental illness; (e) the person in charge of the facility; (f) any other person upon proof of the nature of their interest; or (g) the Board."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary in consultation with the Board and the Council of County Governors, shall prescribe in regulation the procedure for review under this Act. [Act No. 27 of 2022, s. 32.]"
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Discharge",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "REVIEW, DISCHARGE AND TRANSFER OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) A person in charge may, by order in writing and upon the recommendation of the medical practitioner and mental health practitioner in charge of the person’s treatment, order the discharge of a person with mental illness from the health facility and that person shall thereupon be discharged as having recovered from mental illness.\n(2) A person with mental illness shall be discharged from the health facility under subsection (1) where the medical practitioner and the mental health practitioner in charge of managing the person make a decision that the person can no longer receive any other or further treatment from a health facility and appropriate efforts are being made towards re-integration of the person into the community, and for specialized and personalized after-care service.\n[Act No. 27 of 2022, s. 33.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person in charge may, by order in writing and upon the recommendation of the medical practitioner and mental health practitioner in charge of the person’s treatment, order the discharge of a person with mental illness from the health facility and that person shall thereupon be discharged as having recovered from mental illness."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person with mental illness shall be discharged from the health facility under subsection (1) where the medical practitioner and the mental health practitioner in charge of managing the person make a decision that the person can no longer receive any other or further treatment from a health facility and appropriate efforts are being made towards re-integration of the person into the community, and for specialized and personalized after-care service."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Interim discharge",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "REVIEW, DISCHARGE AND TRANSFER OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) A person in charge may, upon consultation with the mental health practitioner in charge of the treatment of a person with illness, discharge the person with mental illness into the custody and care of -\n  (a) the supporter of the person with mental illness;\n  (b) the representative of the person with mental illness; or\n  (c) where the person with mental illness is a minor, the guardian of the minor.\n(2) Any person listed under subsection (1) (a), (b) and (c) who intends to take the person with mental illness into their care and custody under subsection (1) shall apply to the person in charge for the custody and care of the person with mental illness in the prescribed form.\n(3) The person in charge shall consider an application under subsection (2) and may release the person with mental illness in to the custody and care of the applicant upon such conditions as the person in charge may impose.\n(4) Where a person who takes the custody and care of a person with mental illness under subsection (3) is subsequently unable or unwilling to continue with the care of the person with mental illness such person shall report the matter to the person in charge of the health facility.\n(5) The person in charge of the health facility shall admit the person with mental illness back to the mental health unit under the terms and conditions that the person with mental illness had been admitted before delivery to the applicant under subsection (3).\n[Act No. 27 of 2022, s. 34.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person in charge may, upon consultation with the mental health practitioner in charge of the treatment of a person with illness, discharge the person with mental illness into the custody and care of -"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person listed under subsection (1) (a), (b) and (c) who intends to take the person with mental illness into their care and custody under subsection (1) shall apply to the person in charge for the custody and care of the person with mental illness in the prescribed form."
+    },
+    {
+     "ref": "(3)",
+     "text": "The person in charge shall consider an application under subsection (2) and may release the person with mental illness in to the custody and care of the applicant upon such conditions as the person in charge may impose."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where a person who takes the custody and care of a person with mental illness under subsection (3) is subsequently unable or unwilling to continue with the care of the person with mental illness such person shall report the matter to the person in charge of the health facility."
+    },
+    {
+     "ref": "(5)",
+     "text": "The person in charge of the health facility shall admit the person with mental illness back to the mental health unit under the terms and conditions that the person with mental illness had been admitted before delivery to the applicant under subsection (3)."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Transfer of patients in Government hospitals",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "REVIEW, DISCHARGE AND TRANSFER OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) A person may, with the approval of the person in charge, be transferred from one national referral hospital mental health unit to another national referral hospital mental health unit or from one county health facility mental health unit to another county health facility mental health unit as the case may be.\n(1A) The person in charge shall, before making the order to transfer a person with mental illness under subsection (1), determine whether the transfer—\n  (a) is for the benefit of the person with mental illness; or\n  (b) is necessary for the purpose of obtaining specialized treatment for such person.\n(1B) Before transferring a person under subsection (1), the person in charge, shall obtain consent from —\n  (a) the person with mental illness; or\n  (b) where the person with mental illness—\n  (i) is unable to give consent, consent shall be obtained from the supporter of the person;\n  (ii) has not appointed a supporter, consent shall be obtained from representative of the person; or\n  (iii) is a minor, consent shall be obtained from the guardian of the minor.\n(2) Where a person is transferred under subsection (1), the person responsible for conveying him shall produce to the person in charge of the health facility to which the transfer is made a certified copy of the order of the Director or the relevant county executive committee member as the case may be.\n[Act No. 27 of 2022, s. 35.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person may, with the approval of the person in charge, be transferred from one national referral hospital mental health unit to another national referral hospital mental health unit or from one county health facility mental health unit to another county health facility mental health unit as the case may be."
+    },
+    {
+     "ref": "(1A)",
+     "text": "The person in charge shall, before making the order to transfer a person with mental illness under subsection (1), determine whether the transfer—"
+    },
+    {
+     "ref": "(1B)",
+     "text": "Before transferring a person under subsection (1), the person in charge, shall obtain consent from —"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a person is transferred under subsection (1), the person responsible for conveying him shall produce to the person in charge of the health facility to which the transfer is made a certified copy of the order of the Director or the relevant county executive committee member as the case may be."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Treatment of a person with mental illness abroad",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XI",
+   "part_title": "REMOVAL OF PATIENTS TO OTHER COUNTRIES",
+   "text": "(1) A person with mental illness may be transferred from a mental health unit in Kenya to a mental health unit in a foreign country for subsequent treatment and care with the approval of the Board.\n(2) An application for transfer under subsection (1) may be made to the Board by—\n  (a) the person with mental illness;\n  (b) in the case where a person with mental illness—\n  (i) is unable to make application, by the supporter of the person with mental illness;\n  (ii) has not appointed a supporter, by a representative of the person with mental illness; or\n  (iii) is a minor, by the guardian of the minor.\n(3) The Board shall inquire into the case of the person to whom the application under subsection (1) relates in such manner as it considers fit, and if satisfied that the removal is likely to be for the benefit of the person, and that proper arrangements have been made for the proper removal and subsequent treatment and care, the Board may by warrant in the prescribed form and subject to subsection (4), direct that the person be delivered to the person named in the warrant for the purpose of being removed to the foreign country specified in the warrant.\n(4) A warrant for the removal of a person with mental illness to a foreign country shall not be issued by the Board under subsection (3) unless a prior consent to receive the person has been obtained from the proper authorities in the foreign country.\n[Act No. 27 of 2022, s. 36.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person with mental illness may be transferred from a mental health unit in Kenya to a mental health unit in a foreign country for subsequent treatment and care with the approval of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "An application for transfer under subsection (1) may be made to the Board by—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board shall inquire into the case of the person to whom the application under subsection (1) relates in such manner as it considers fit, and if satisfied that the removal is likely to be for the benefit of the person, and that proper arrangements have been made for the proper removal and subsequent treatment and care, the Board may by warrant in the prescribed form and subject to subsection (4), direct that the person be delivered to the person named in the warrant for the purpose of being removed to the foreign country specified in the warrant."
+    },
+    {
+     "ref": "(4)",
+     "text": "A warrant for the removal of a person with mental illness to a foreign country shall not be issued by the Board under subsection (3) unless a prior consent to receive the person has been obtained from the proper authorities in the foreign country."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Cost of removal and maintenance",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XI",
+   "part_title": "REMOVAL OF PATIENTS TO OTHER COUNTRIES",
+   "text": "The cost of removal under this Part of any person, of his maintenance after removal, of his return and of his being sent, in the event of discharge after recovery, to any place shall be paid in such manner as may be arranged between the Government and the proper authorities in the country concerned:\nProvided that nothing in this Part shall affect any power to recover any part, or the whole, of the cost of the removal from the property of the person removed or from any person legally liable to maintain him, or otherwise.",
+   "clauses": []
+  },
+  "26": {
+   "num": "26",
+   "title": "Application for administration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "CARE AND ADMINISTRATION OF PROPERTY OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) An application for an order for the management and administration of the estate of a person with mental illness may be made to the court, in the following order of priority, by—\n  (a) a supporter of the person with mental illness; or (b) the representative of the person where the person with mental illness has not appointed a supporter.\n(2) An application under subsection (1) shall be submitted together with an affidavit setting out—\n  (a) the grounds upon which the application is made;\n  (b) the full particulars as to the property and relatives of the person to whom it relates; and (c) a certified true copy of the admission or treatment and particulars in respect of person duly admitted as a person with mental illness.\n(3) A notice of the application under subsection (1) shall, in such manner as the court may direct, be served upon the—\n  (a) person in respect of whom the application is made; or (b) where an application is made by a supporter to the representative of the person with mental illness.\n(4) Despite the provisions of subsection (3) the court may make an order for the service upon any other person to whom, in the opinion of the court, notice of the application should be given.\n(5) The court may waive the requirement for service under subsection (3)(a) if the court considers service impracticable, inexpedient or would be ineffectual.\n(6) The court may, in order to have a report of the mental capacity and condition of such person in relation to whom the application is made, require the person to present themselves at a place and time appointed by the court, for the—\n  (a) court to examine the person; or (b) person to be examined by a qualified registered mental health practitioner. [Act No. 27 of 2022, s. 37.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An application for an order for the management and administration of the estate of a person with mental illness may be made to the court, in the following order of priority, by— (a) a supporter of the person with mental illness; or (b) the representative of the person where the person with mental illness has not appointed a supporter."
+    },
+    {
+     "ref": "(2)",
+     "text": "An application under subsection (1) shall be submitted together with an affidavit setting out— (a) the grounds upon which the application is made; (b) the full particulars as to the property and relatives of the person to whom it relates; and (c) a certified true copy of the admission or treatment and particulars in respect of person duly admitted as a person with mental illness."
+    },
+    {
+     "ref": "(3)",
+     "text": "A notice of the application under subsection (1) shall, in such manner as the court may direct, be served upon the— (a) person in respect of whom the application is made; or (b) where an application is made by a supporter to the representative of the person with mental illness."
+    },
+    {
+     "ref": "(4)",
+     "text": "Despite the provisions of subsection (3) the court may make an order for the service upon any other person to whom, in the opinion of the court, notice of the application should be given."
+    },
+    {
+     "ref": "(5)",
+     "text": "The court may waive the requirement for service under subsection (3)(a) if the court considers service impracticable, inexpedient or would be ineffectual."
+    },
+    {
+     "ref": "(6)",
+     "text": "The court may, in order to have a report of the mental capacity and condition of such person in relation to whom the application is made, require the person to present themselves at a place and time appointed by the court, for the— (a) court to examine the person; or (b) person to be examined by a qualified registered mental health practitioner. [Act No. 27 of 2022, s. 37.]"
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Orders of the Court",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "CARE AND ADMINISTRATION OF PROPERTY OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) The court may make such an order as it considers necessary for the administration and management of the estate of any person with mental illness including —\n  (a) an order making provision for the maintenance of the person;\n  (b) an order making provision for the maintenance of members of the person’s immediate family who are dependent upon the person; and (c) an order making provision for the payment of the person’s debts.\n(2) The court may appoint a manager of the estate of a person with mental illness for the purposes of safeguarding the property of that person.\n(3) The court may for the purposes of section (1), appoint the supporter or the representative of the person with mental illness as the manager of the estate of the person under subsection (2).\n(4) The court shall, by notice in the Gazette, inform the public of the appointment of a person as the manager of the estate of a person who is suffering from mental illness.\n(5) Within fourteen days of the Gazette Notice under subsection (4), any person may lodge an objection to the person appointed as manager.\n[Act No. 27 of 2022, s. 37.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The court may make such an order as it considers necessary for the administration and management of the estate of any person with mental illness including — (a) an order making provision for the maintenance of the person; (b) an order making provision for the maintenance of members of the person’s immediate family who are dependent upon the person; and (c) an order making provision for the payment of the person’s debts."
+    },
+    {
+     "ref": "(2)",
+     "text": "The court may appoint a manager of the estate of a person with mental illness for the purposes of safeguarding the property of that person."
+    },
+    {
+     "ref": "(3)",
+     "text": "The court may for the purposes of section (1), appoint the supporter or the representative of the person with mental illness as the manager of the estate of the person under subsection (2)."
+    },
+    {
+     "ref": "(4)",
+     "text": "The court shall, by notice in the Gazette, inform the public of the appointment of a person as the manager of the estate of a person who is suffering from mental illness."
+    },
+    {
+     "ref": "(5)",
+     "text": "Within fourteen days of the Gazette Notice under subsection (4), any person may lodge an objection to the person appointed as manager."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Duties of a manager",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "CARE AND ADMINISTRATION OF PROPERTY OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) Where a manager is appointed under this Part, the court may, upon considering the nature of the property whether movable or immovable, and subject to subsection (2), make such orders as the court may consider necessary for the management of the estate by the manager.\n(2) The manager shall not, without the approval of the court—\n  (a) mortgage, charge or transfer by sale, gift, surrender or exchange any immovable property of which the estate may consist;\n  (b) lease any such property for a term exceeding five years; or\n  (c) invest in any securities other than those authorized under the Trustee Act.\n(3) A manager shall not invest any funds or property belonging to the estate managed under this section—\n  (a) in any company or undertaking in which the manager has an interest; or\n  (b) in the purchase of immovable property under the authority of section 4 (1) (d) of the Trustee Act without prior consent of the court.\n(4) A manager shall perform the manager’s duty under this Act responsibly taking into account the best interests of the estate of the person who is suffering from mental illness.\n(5) Every conveyance or other instrument made pursuant to an order of the court under this Part shall be valid.\n[Act No. 27 of 2022, s. 37.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a manager is appointed under this Part, the court may, upon considering the nature of the property whether movable or immovable, and subject to subsection (2), make such orders as the court may consider necessary for the management of the estate by the manager."
+    },
+    {
+     "ref": "(2)",
+     "text": "The manager shall not, without the approval of the court—"
+    },
+    {
+     "ref": "(3)",
+     "text": "A manager shall not invest any funds or property belonging to the estate managed under this section—"
+    },
+    {
+     "ref": "(4)",
+     "text": "A manager shall perform the manager’s duty under this Act responsibly taking into account the best interests of the estate of the person who is suffering from mental illness."
+    },
+    {
+     "ref": "(5)",
+     "text": "Every conveyance or other instrument made pursuant to an order of the court under this Part shall be valid."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Inventory of property",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "CARE AND ADMINISTRATION OF PROPERTY OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) A person appointed to be a manager of the estate of a person with mental illness under this Part shall, in the prescribed form, within six months of the date of appointment, deliver to the court and to the Public Trustee an inventory of—\n  (a) the property belonging to the person in respect of whose estate the manager has been appointed;\n  (b) all sums of money, goods and effects the manager receives on account of the estate; and\n  (c) a statement of debts owed by or due to such person with mental illness.\n(2) Upon payment of such fee as may prescribed, the supporter, the representative of a person with mental illness or any interested person may inspect and obtain a copy of any inventory, statement or account delivered to the court and to the Public Trustee pursuant to subsection (1).\n(3) The Public Trustee shall report annually to the Cabinet Secretary and the Board on all accounts under subsection (1).\n(4) Where a person, by petition to the court, disputes the accuracy of any inventory or statement of any annual account made under this section, the court may summon the manager, inquire summarily into the matter and make such orders as it considers appropriate. [Act No. 27 of 2022, s. 37.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person appointed to be a manager of the estate of a person with mental illness under this Part shall, in the prescribed form, within six months of the date of appointment, deliver to the court and to the Public Trustee an inventory of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Upon payment of such fee as may prescribed, the supporter, the representative of a person with mental illness or any interested person may inspect and obtain a copy of any inventory, statement or account delivered to the court and to the Public Trustee pursuant to subsection (1)."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Public Trustee shall report annually to the Cabinet Secretary and the Board on all accounts under subsection (1)."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where a person, by petition to the court, disputes the accuracy of any inventory or statement of any annual account made under this section, the court may summon the manager, inquire summarily into the matter and make such orders as it considers appropriate. [Act No. 27 of 2022, s. 37.]"
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "CARE AND ADMINISTRATION OF PROPERTY OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) A manager who contravenes the provisions of this Part commits an offence and shall be liable, upon conviction, to imprisonment for a term not exceeding three years or a fine not exceeding two million shillings, or to both.\n(2) Where the court makes a determination that any property of a person who is mentally ill has been lost due to mismanagement of the estate of the person by the manager, the loss shall be recoverable summarily as a civil debt from the manager’s estate. [Act No. 27 of 2022, s. 37.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A manager who contravenes the provisions of this Part commits an offence and shall be liable, upon conviction, to imprisonment for a term not exceeding three years or a fine not exceeding two million shillings, or to both."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the court makes a determination that any property of a person who is mentally ill has been lost due to mismanagement of the estate of the person by the manager, the loss shall be recoverable summarily as a civil debt from the manager’s estate. [Act No. 27 of 2022, s. 37.]"
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Removal of manager",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "CARE AND ADMINISTRATION OF PROPERTY OF PERSONS WITH MENTAL ILLNESS",
+   "text": "(1) The court may, on its own motion or upon application, for sufficient cause (a) remove any manager appointed under this Part; and (b) may appoint any other person as manager.\n(2) In exercising its power under subsection (1), the court may make such order as it considers necessary to ensure that the person removed as manager (a) transfers the property under the person’s care, and of which the person was a manager, to the new manager; and (b) accounts to the new manager for all money received or disbursed by the person in connection with the property. [Act No. 27 of 2022, s. 37.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The court may, on its own motion or upon application, for sufficient cause (a) remove any manager appointed under this Part; and (b) may appoint any other person as manager."
+    },
+    {
+     "ref": "(2)",
+     "text": "In exercising its power under subsection (1), the court may make such order as it considers necessary to ensure that the person removed as manager (a) transfers the property under the person’s care, and of which the person was a manager, to the new manager; and (b) accounts to the new manager for all money received or disbursed by the person in connection with the property. [Act No. 27 of 2022, s. 37.]"
+    }
+   ]
+  },
+  "40": {
+   "num": "40",
+   "title": "Letters of patients",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIII",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) The person in charge or a mental health practitioner in charge of any patient shall enable communication by the patient through letters, telephone calls and emails to the recipients where practicable.\n(2) Deleted by Act No. 27 of 2022, s. 38. (3) Deleted by Act No. 27 of 2022, s. 38.\n[Act No. 27 of 2022, s. 38.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The person in charge or a mental health practitioner in charge of any patient shall enable communication by the patient through letters, telephone calls and emails to the recipients where practicable."
+    },
+    {
+     "ref": "(2)",
+     "text": "Deleted by Act No. 27 of 2022, s. 38. (3) Deleted by Act No. 27 of 2022, s. 38."
+    }
+   ]
+  },
+  "41": {
+   "num": "41",
+   "title": "Power to refuse reception into mental hospital",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIII",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) A person in charge may refuse to admit a person with mental illness into the mental facility or unit, if the accommodation within the facility or unit is insufficient or unsuitable.\n(2) Where the person in charge refuses to admit the person under subsection (1), the person in charge in consultation with the mental health practitioner in the health facility, shall prescribe and administer an outpatient treatment plan while alternative accommodation is being sought. [Act No. 27 of 2022, s. 39.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person in charge may refuse to admit a person with mental illness into the mental facility or unit, if the accommodation within the facility or unit is insufficient or unsuitable."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the person in charge refuses to admit the person under subsection (1), the person in charge in consultation with the mental health practitioner in the health facility, shall prescribe and administer an outpatient treatment plan while alternative accommodation is being sought. [Act No. 27 of 2022, s. 39.]"
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "Protection of persons acting under Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIII",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) Any person who does any act in pursuance or intended pursuance of this Act shall not be under any civil or criminal liability in respect thereof, if the court is satisfied that he has acted in good faith and with reasonable care.\n(2) Any proceedings taken against any person for any act under subsection (1) may, upon application to the court in which they are taken, be stayed, if the court is satisfied that there is no reasonable ground for alleging want of good faith or reasonable care, or that the proceedings are frivolous or vexatious, and the court may award to the defendant such costs or compensation, or both, as it considers reasonable.\n(3) No proceedings under this section shall be commenced after the expiry of six months from the act complained of or, in the case of a continuance of injury or damage, after the expiry of six months from the discovery of such Act.\n(4) Nothing in this section shall be construed as depriving any person of any defence.\n(5) The Director of Public Prosecutions shall be notified, within thirty days, of instituting criminal proceedings under this Act in accordance with the provisions of the Office of the Director of Public Prosecution Act (No. 2 of 2013).\n[Act No. 27 of 2022, s. 40, Act No. 19 of 2023, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who does any act in pursuance or intended pursuance of this Act shall not be under any civil or criminal liability in respect thereof, if the court is satisfied that he has acted in good faith and with reasonable care."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any proceedings taken against any person for any act under subsection (1) may, upon application to the court in which they are taken, be stayed, if the court is satisfied that there is no reasonable ground for alleging want of good faith or reasonable care, or that the proceedings are frivolous or vexatious, and the court may award to the defendant such costs or compensation, or both, as it considers reasonable."
+    },
+    {
+     "ref": "(3)",
+     "text": "No proceedings under this section shall be commenced after the expiry of six months from the act complained of or, in the case of a continuance of injury or damage, after the expiry of six months from the discovery of such Act."
+    },
+    {
+     "ref": "(4)",
+     "text": "Nothing in this section shall be construed as depriving any person of any defence."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Director of Public Prosecutions shall be notified, within thirty days, of instituting criminal proceedings under this Act in accordance with the provisions of the Office of the Director of Public Prosecution Act (No. 2 of 2013)."
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Issuance of recommendation or medical certificate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIII",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "No medical recommendation for admission of a person to a mental health facility and no medical certificate for the purposes of sections, 10, 14 and 15 shall be signed by any person owning a financial interest in such mental health facility unless the person in respect of whom the recommendation or certificate is signed, is at the time of signing, admitted to the mental health facility or is lawfully detained in some other suitable place for observation as to his mental condition, by the person who signs the certificate.\n[Act No. 11 of 1993, Sch., Act No. 27 of 2022, s. 41.]",
+   "clauses": []
+  },
+  "44": {
+   "num": "44",
+   "title": "Correction of admission procedure",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIII",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "Where, upon a person being admitted into a mental health facility or unit as the case may be, the person in charge discovers a defect in the admission procedure or the medical recommendation upon which the person was admitted, the person in charge may require the defect to be corrected at any time within fourteen days after the person is admitted into the mental health facility or unit as the case may be.\n[Act No. 27 of 2022, s. 42.]",
+   "clauses": []
+  },
+  "45": {
+   "num": "45",
+   "title": "Escape from mental health facility",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIII",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) Every person admitted into a mental health facility or unit as the case may be under this Act shall remain admitted until the person leaves, is removed or discharged in accordance with this Act.\n(2) Where a person who is admitted into a mental health facility or unit, escapes, a police officer, a person employed in such mental health facility or unit, or any other person authorized by the person in charge of the mental health facility or unit may, upon finding such person, convey that person into the mental health facility or unit.\n[Act No. 27 of 2022, s. 43.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every person admitted into a mental health facility or unit as the case may be under this Act shall remain admitted until the person leaves, is removed or discharged in accordance with this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a person who is admitted into a mental health facility or unit, escapes, a police officer, a person employed in such mental health facility or unit, or any other person authorized by the person in charge of the mental health facility or unit may, upon finding such person, convey that person into the mental health facility or unit."
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "Complaints",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIII",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) A person with mental illness shall have the right to lodge a complaint against any health professional with the Kenya Health Professions Oversight Authority established under section 45 of of the Health Act (No. 21 of 2017), for the manner in which the person was treated by the health professional while in the custody, care and control of the health professional.\n(2) Where the person with mental illness is incapable of lodging the complaint, the following persons may lodge the complaint on behalf of that person —\n  (a) a duly appointed supporter of that person;\n  (b) where the person with mental illness has not appointed a supporter, the representative of the person with mental illness;\n  (c) where the person with mental illness is a minor, the guardian of the minor.\n(3) Where the persons specified under subsection (2) are unable or unwilling to lodge a complaint on behalf of the person with mental illness, any other person may lodge the complaint on behalf of the person with mental illness.\n(4) The Authority shall hear and determine the complaint lodged under subsection (1) or (2) within six months and report its findings to the complainant.\n(5) Where the complainant is dissatisfied with the decision of the Authority under this section, the complainant may appeal to the High Court.\n[Act No. 27 of 2022, s. 44.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person with mental illness shall have the right to lodge a complaint against any health professional with the Kenya Health Professions Oversight Authority established under section 45 of of the Health Act (No. 21 of 2017), for the manner in which the person was treated by the health professional while in the custody, care and control of the health professional."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the person with mental illness is incapable of lodging the complaint, the following persons may lodge the complaint on behalf of that person —"
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the persons specified under subsection (2) are unable or unwilling to lodge a complaint on behalf of the person with mental illness, any other person may lodge the complaint on behalf of the person with mental illness."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Authority shall hear and determine the complaint lodged under subsection (1) or (2) within six months and report its findings to the complainant."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where the complainant is dissatisfied with the decision of the Authority under this section, the complainant may appeal to the High Court."
+    }
+   ]
+  },
+  "47": {
+   "num": "47",
+   "title": "Person other than medical practitioner signing certificates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIV",
+   "part_title": "OFFENCES",
+   "text": "Any person who, not being a medical practitioner or a person approved and authorised by the Director, knowingly and wilfully signs any medical certificate for the purposes of any of the provisions of this Act shall be guilty of an offence.\n[Act No. 11 of 1993, Sch.]",
+   "clauses": []
+  },
+  "48": {
+   "num": "48",
+   "title": "False certificates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIV",
+   "part_title": "OFFENCES",
+   "text": "Any medical practitioner who knowingly, wilfully or recklessly, certifies anything in a certificate made under this Act, which he knows to be untrue, shall be guilty of an offence.",
+   "clauses": []
+  },
+  "49": {
+   "num": "49",
+   "title": "Aiding the escape of person suffering from mental illness",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIV",
+   "part_title": "OFFENCES",
+   "text": "Any person who wilfully assists the escape of any person with mental illness being conveyed to or from, or while under care and treatment in, a mental health facility or unit as the case may be, or who harbours any person suffering from mental illness whom the person knows has escaped from a mental health facility or unit as the case may be, commits an offence.\n[Act No. 27 of 2022, s. 45.]",
+   "clauses": []
+  },
+  "50": {
+   "num": "50",
+   "title": "Permitting patient to quit mental facility unlawfully",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIV",
+   "part_title": "OFFENCES",
+   "text": "Any person in charge, or any person employed at a mental health facility or unit as the case may be, who through wilful neglect or connivance permits any patient in the mental health facility or unit as the case may be, to leave such mental health facility or unit other than under this Act or any other law for the time being in force commits an offence.\n[Act No. 27 of 2022, s. 46.]",
+   "clauses": []
+  },
+  "51": {
+   "num": "51",
+   "title": "Ill-treatment of person in mental health facility or unit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIV",
+   "part_title": "OFFENCES",
+   "text": "A person in charge of, or any person employed at, a mental health facility or unit as the case may be, who strikes, ill-treats, abuses or wilfully neglects any patient in the mental health facility or unit as the case may be, commits an offence.\n[Act No. 27 of 2022, s. 47.]",
+   "clauses": []
+  },
+  "52": {
+   "num": "52",
+   "title": "Dealings with patients",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIV",
+   "part_title": "OFFENCES",
+   "text": "Any person who, without the consent of the person in charge gives, sells or barters any articles or commodity of any kind to any patient in a mental health facility or unit as the case may be, whether inside or outside the grounds of the mental health facility or unit as the case may be shall be guilty of an offence.\n[Act No. 27 of 2022, s. 48.]",
+   "clauses": []
+  },
+  "53": {
+   "num": "53",
+   "title": "General penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIV",
+   "part_title": "OFFENCES",
+   "text": "Any person who is guilty of an offence under this Act, or who contravenes any of the provisions of this Act or of any regulations made under this Act shall, where no other penalty is expressly provided, be liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding twelve months or to both.\n[Act No. 27 of 2022, s. 49.]",
+   "clauses": []
+  },
+  "54": {
+   "num": "54",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XV",
+   "part_title": "POWER TO MAKE REGULATIONS AND RULES OF COURT, ETC.",
+   "text": "The Cabinet Secretary shall, in consultation with the Board and the Council of County Governors, make regulations—\n  (a) prescribing the form of the supportive decision-making agreement;\n  (b) generally regulating the equipping, administration, control and management of mental health units;\n  (c) for the care, treatment and rehabilitation of a person with mental illness;\n  (d) prescribing the procedure of admission of out-patient patients; and (e) for the better carrying out of the provisions of this Act.\n[Act No. 27 of 2022, s. 50.]",
+   "clauses": []
+  },
+  "55": {
+   "num": "55",
+   "title": "Rules of court",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XV",
+   "part_title": "POWER TO MAKE REGULATIONS AND RULES OF COURT, ETC.",
+   "text": "The Chief Justice may make rules to provide for any matters relating to the procedure of the court, or of a magistrate, under this Act.",
+   "clauses": []
+  },
+  "56": {
+   "num": "56",
+   "title": "Repeal of the Mental Treatment Act (Cap. 248)",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XV",
+   "part_title": "POWER TO MAKE REGULATIONS AND RULES OF COURT, ETC.",
+   "text": "The Mental Treatment Act is repealed.",
+   "clauses": []
+  },
+  "57": {
+   "num": "57",
+   "title": "Transition",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XV",
+   "part_title": "POWER TO MAKE REGULATIONS AND RULES OF COURT, ETC.",
+   "text": "(1) Any licences or orders made by the Board prior to commencement of this Act, shall be deemed to have been issued under this Act.\n(2) A mental hospital by the Board prior to the commencement of this Act shall deemed to have been established under this Act.\n[Act No. 27 of 2022, s. 51.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any licences or orders made by the Board prior to commencement of this Act, shall be deemed to have been issued under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "A mental hospital by the Board prior to the commencement of this Act shall deemed to have been established under this Act."
+    }
+   ]
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE",
+   "subtitle": null,
+   "text": "[s. 4, Act No. 27 of 2022, Sch.]\nCONDUCT OF BUSINESS AND AFFAIRS OF THE BOARD 1. Meetings of the Board\n(1) The Board shall meet at least once in every month to conduct the business of the Board.\n(2) The Chairperson shall convene the ordinary meetings of the Board at the premises of the Board.\n(3) Despite the provisions of sub-paragraph (1), the Chairperson shall, upon a written request by at least five members of the Board, convene a special meeting of the Board at any time where he considers it expedient for the transaction of the business of the Board.\n(4) Unless three quarters of the total number of the members of the Board otherwise agree, at least fourteen days written notice of every meeting of the Board shall be given to every member of the Board by the Secretary.\n(5) The quorum for the conduct of the business of the Board shall be five members.\n(6) The Chairperson shall preside at every meeting of the Board at which the Chairperson is present and in the absence of the Chairperson absence, the members of the Board present shall elect one person from their number to preside over the meeting of the Board and he shall have all the powers of the Chairperson.\n(7) Unless a unanimous decision is reached, a decision on any matter before the Board shall be by a majority of the votes of the members present and voting and in the case of an equality of votes, the Chairperson or person presiding over the meeting shall have a casting vote.\n(8) The proceedings of the Board shall not be invalidated by reason of a vacancy within its membership.\n(9) Subject to provisions of this Schedule, the Board may determine its own procedure and the procedure for any committee of the Board and for the attendance of other persons at its meetings thereof.\n(10) The Board shall determine the procedure for the county mental health councils and for attendance of other persons at the councils’ meeting.\n2. Disclosure of interest\n(1) If a member is directly or indirectly interested in any contract, proposed contract or other matter before the Board and is present at a meeting of the Board at which the contract, proposed contract or other matter is the subject of consideration, he shall, at the meeting and as soon as reasonably practicable after the commencement thereof, disclose his interest in the matter and shall not take part in the deliberations over, or vote on, the matter.\n(2) A disclosure of interest made under this paragraph shall be recorded in the minutes of the meeting at which it is made.\n(3) Any contract or instrument which if entered into or executed by a person not being a body corporate, would not be required to be under seal may be entered into or executed on behalf of the Authority by any person generally or specially authorized by the Board for that purpose."
+  }
+ ]
+}

@@ -1,0 +1,1036 @@
+{
+ "title": "Judicial Service Act",
+ "citation": "Cap. 8A",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2011/1/eng@2023-12-11",
+ "version_date": "2023-12-11",
+ "retrieved": "2026-10-04",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "JUDICIAL SERVICE ACT CAP. 8A Published in Kenya Gazette Vol. CXIII—No. 30 on 1 April 2011 Assented to on 21 March 2011 Commenced on 22 March 2011\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2015 (Act No. 25 of 2015) on 24 December 2015] [Amended by High Court (Organization and Administration) Act (Cap. 8C) on 2 January 2016] [Amended by Judiciary Fund Act (Cap. 8B) on 12 June 2016]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2017 (Act No. 11 of 2017) on 4 May 2017] [Amended by Statute Law (Miscellaneous Amendments) Act, 2020 (Act No. 20 of 2020) on 11 December 2020]\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] [Amended by Statute Law (Miscellaneous Amendment) Act, 2023 (Act No. 19 of 2023) on 11 December 2023]\nAn Act of Parliament to make provision for judicial services and administration of the Judiciary; to make further provision with respect to the membership and structure of the Judicial Service Commission; the appointment and removal of judges and the discipline of other judicial officers and staff; to provide for the regulation of the Judiciary Fund and the establishment, powers and functions of the National Council on Administration of Justice, and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ADMINISTRATION OF THE JUDICIARY",
+   "provisions": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "JUDICIAL SERVICE COMMISSION",
+   "provisions": [
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "26",
+    "27",
+    "28",
+    "29"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "PROCEDURE FOR APPOINTMENT AND REMOVAL OF JUDGES, AND DISCIPLINE OF OTHER JUDICIAL OFFICERS AND STAFF",
+   "provisions": [
+    "30",
+    "31",
+    "32",
+    "33"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "THE NATIONAL COUNCIL ON ADMINISTRATION OF JUSTICE",
+   "provisions": [
+    "34",
+    "35",
+    "36",
+    "37"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "ANNUAL REPORT AND AUDITED ACCOUNTS OF THE COMMISSION AND THE JUDICIARY",
+   "provisions": [
+    "38",
+    "39"
+   ]
+  },
+  {
+   "id": "part_VIII",
+   "num": "VIII",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Judicial Service Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires—\n“accounting officer” means an accounting officer appointed under section 67 of the Public Finance Management Act (Cap. 412A);\n“authorised officer” means the Chief Registrar; “Cabinet Secretary” means the Cabinet Secretary for the time being responsible for matters relating to the Judiciary;\n“Chairperson” includes the Vice Chairperson or any other member of the Commission when discharging the functions of the Chairperson;\n“Chief Registrar” means the Chief Registrar of the Judiciary referred to in Article 161 of the Constitution; “Commission” means the Judicial Service Commission established by Article 171 of the Constitution; “Committee” means a unit of the Commission formed to exercise any delegated power or perform any function of the Commission under the Constitution, this Act or any regulations made thereunder, and includes a Panel;\n“Council” means the National Council on the Administration of Justice established by section 34; “effective date” means the 27th of August, 2010; “Fund” means the Judiciary Fund established by Article 173 of the Constitution;\n“judicial officer” includes a registrar, deputy registrar, magistrate, Kadhi or the presiding officer of any other court or local tribunal as may be established by an Act of Parliament, other than the courts established to hear and determine disputes relating to employment and labour relations and the environment and the use and occupation of, and title to, land;\n“judicial staff” means persons employed in the Judiciary but without power to make judicial decisions, and includes the staff of the Commission;\n“judge” means the presiding officer of a superior court;\n“principal judge” means the head of a superior court, other than the Supreme Court and the Court of Appeal;\n“Secretary” means the secretary to the Commission appointed in accordance with the Constitution and includes the Deputy Chief Registrar or any other member of staff of the Commission when discharging the functions of the secretary;\n“superior courts” mean the courts referred to under Article 162 of the Constitution.",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Object and purpose of Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The object and purpose of this Act is to, among other things, ensure that the Commission and the Judiciary shall—\n  (a) be the organs of management of judicial services and, in that behalf, shall uphold, sustain and facilitate a Judiciary that is independent, impartial and subject only to the provisions of the Constitution and the law;\n  (b) facilitate the conduct of a judicial process designed to render justice to all;\n  (c) be accountable to the people of Kenya;\n  (d) facilitate a judicial process that is committed to the expeditious determination of disputes;\n  (e) facilitate a judicial process that is committed to the just resolution of disputes;\n  (f) support and sustain a judicial process that is committed to the protection of the people and of their human rights;\n  (g) promote and sustain fair procedures in its functioning and in the operations of the judicial process, and in particular, be guided in all cases in which it has the responsibility of taking a decision affecting a judicial officer of any rank or its own employee, by the rules of natural justice;\n  (h) be the administrative manifestation of the Judiciary’s autonomy and inherent power to protect and regulate its own process, achieving these objects through application of principles set out in the Constitution and other laws;\n  (i) facilitate accessibility of judicial services to all Kenyans;\n  (j) facilitate the promotion of gender equity in the Judiciary and the protection of vulnerable children in the administration of justice;\n  (k) be guided in their internal affairs, and in the discharge of their mandates by considerations of social and gender equity and the need to remove any historical factors of discrimination; and\n  (l) apply modern technology in their operations.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Standard of service",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In the exercise of the powers or the performance of the functions conferred by this Act, the Commission and the Judiciary shall, among other things—\n  (a) have the technical, infrastructural and administrative competence to ensure that the requirements of the judicial process are fulfilled;\n  (b) adopt quality service as a core principle and, to uphold this principle, the Commission and the Judiciary shall formulate a modern and constantly updated scheme of judicial and other training for all categories of Judges, judicial officers and staff of the Commission;\n  (c) be guided in their activities by the relevant provisions of the Constitution;\n  (d) uphold the judicial service code of conduct and ethics as may, by regulations, be prescribed;\n  (e) be non-partisan and non-political in orientation and operations;\n  (f) promote and uphold honesty and integrity in its operations, and give fulfilment to all values essential for the discharge of judicial functions; and\n  (g) apply and promote such other positive values as the Commission may, by regulations, prescribe.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Functions of the Chief Justice and the Deputy Chief Justice",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION OF THE JUDICIARY",
+   "text": "(1) The Chief Justice shall be the head of the Judiciary and the President of the Supreme Court and shall be the link between the Judiciary and the other arms of Government.\n(2) Despite the generality of subsection (1), the Chief Justice shall—\n  (a) assign duties to the Deputy Chief Justice, the President of the Court of Appeal, the Principal Judge of the High Court and the Chief Registrar of the Judiciary;\n  (b) give an annual report to the nation on the state of the Judiciary and the administration of justice; and cause the report to be published in the Gazette, and a copy thereof sent, under the hand of the Chief Justice, to each of the two Clerks of the two Houses of Parliament for it to be placed before the respective Houses for debate and adoption;\n  (c) exercise general direction and control over the Judiciary.\n(3) As the Deputy Head of the Judiciary and the Vice-President of the Supreme Court, the Deputy Chief Justice shall be responsible to the Chief Justice in the exercise of the functions and duties of the office.\n(4) In the event of the removal, resignation or death of the Chief Justice, the Deputy Chief Justice shall act as the Chief Justice for a period not exceeding six months pending the appointment of a new Chief Justice in accordance with the Constitution.\n(5) If a vacancy occurs in the office the Chief Justice and that of the Deputy Chief Justice, or if the Deputy Chief Justice is unable to act in the absence of Chief Justice, the senior most judge in the Supreme Court shall act as the Chief Justice and shall assume the administrative duties of the Chief Justice until the position of Chief Justice or Deputy Chief Justice is filled.\n[Act No. 11 of 2017, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Chief Justice shall be the head of the Judiciary and the President of the Supreme Court and shall be the link between the Judiciary and the other arms of Government."
+    },
+    {
+     "ref": "(2)",
+     "text": "Despite the generality of subsection (1), the Chief Justice shall—"
+    },
+    {
+     "ref": "(3)",
+     "text": "As the Deputy Head of the Judiciary and the Vice-President of the Supreme Court, the Deputy Chief Justice shall be responsible to the Chief Justice in the exercise of the functions and duties of the office."
+    },
+    {
+     "ref": "(4)",
+     "text": "In the event of the removal, resignation or death of the Chief Justice, the Deputy Chief Justice shall act as the Chief Justice for a period not exceeding six months pending the appointment of a new Chief Justice in accordance with the Constitution."
+    },
+    {
+     "ref": "(5)",
+     "text": "If a vacancy occurs in the office the Chief Justice and that of the Deputy Chief Justice, or if the Deputy Chief Justice is unable to act in the absence of Chief Justice, the senior most judge in the Supreme Court shall act as the Chief Justice and shall assume the administrative duties of the Chief Justice until the position of Chief Justice or Deputy Chief Justice is filled."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "The President of the Court of Appeal, the Principal Judge of the High Court, County Judge and Division Heads",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION OF THE JUDICIARY",
+   "text": "(1) The President of the Court of Appeal and the Principal Judge shall serve for a non-renewable term of five years.\n(2) The President of the Court of Appeal and the Principal Judge shall, in consultation with the Chief Registrar, be responsible to the Chief Justice for the administration of the Court of Appeal and other superior courts respectively, other than the Supreme Court.\n(3) A presiding judge shall, in consultation with the Chief Registrar, be responsible to the Principal Judge of the High Court for the administration of their station or division.\n(4) Despite the generality of subsection (3), a presiding judge shall, in particular—\n  (a) supervise the courts within the judicial region in which the High Court is situate; and (b) present the necessary status reports to the Chief Justice through the Chief Registrar. [Act No. 27 of 2015, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The President of the Court of Appeal and the Principal Judge shall serve for a non-renewable term of five years."
+    },
+    {
+     "ref": "(2)",
+     "text": "The President of the Court of Appeal and the Principal Judge shall, in consultation with the Chief Registrar, be responsible to the Chief Justice for the administration of the Court of Appeal and other superior courts respectively, other than the Supreme Court."
+    },
+    {
+     "ref": "(3)",
+     "text": "A presiding judge shall, in consultation with the Chief Registrar, be responsible to the Principal Judge of the High Court for the administration of their station or division."
+    },
+    {
+     "ref": "(4)",
+     "text": "Despite the generality of subsection (3), a presiding judge shall, in particular— (a) supervise the courts within the judicial region in which the High Court is situate; and (b) present the necessary status reports to the Chief Justice through the Chief Registrar. [Act No. 27 of 2015, Sch.]"
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Legal researchers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION OF THE JUDICIARY",
+   "text": "Every Judge shall have a legal researcher who shall be an advocate of the High Court with at least one year post-qualification experience.\n[Act No. 20 of 2020, Sch.]",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Functions and powers of the Chief Registrar",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION OF THE JUDICIARY",
+   "text": "(1) In addition to the functions conferred by Article 161 of the Constitution, the Chief Registrar shall, in particular—\n  (a) be responsible for the overall administration and management of the Judiciary;\n  (b) perform judicial functions vested in the office of the Chief Registrar by law;\n  (c) exercise powers vested in the office of the Chief Registrar by virtue of any law or regulation and give effect to the directions of the Chief Justice;\n  (d) account for any service in respect of which monies have been appropriated by Parliament and for which issues are made from the exchequer account;\n  (e) be the authorised officer for the Judiciary, who shall be responsible for the efficient management of the day-to-day operations and administration of human resources in the judicial service;\n  (f) be in charge of support services in the Judiciary and in particular planning, and development, and the organisation of staff;\n  (g) monitor and enhance administration and office procedures to maximise on efficiency and the quality of service;\n  (h) plan, prepare, implement and monitor the budget and collect, receive and account for revenue;\n  (i) prepare reports and proposals on administrative issues;\n  (j) be in charge of the procurement of all stores, and the management and maintenance of all physical facilities;\n  (k) maintain and develop co-operation with key staff in the public service and other institutions and agencies; and\n  (l) ensure the efficient devolution of the administrative units to county levels, including a High Court Division in each county;\n  (m) perform such other duties as may be assigned by the Chief Justice from time to time. (2) The Chief Registrar shall have all the powers necessary for the execution of the functions of the office under the Constitution and this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In addition to the functions conferred by Article 161 of the Constitution, the Chief Registrar shall, in particular— (a) be responsible for the overall administration and management of the Judiciary; (b) perform judicial functions vested in the office of the Chief Registrar by law; (c) exercise powers vested in the office of the Chief Registrar by virtue of any law or regulation and give effect to the directions of the Chief Justice; (d) account for any service in respect of which monies have been appropriated by Parliament and for which issues are made from the exchequer account; (e) be the authorised officer for the Judiciary, who shall be responsible for the efficient management of the day-to-day operations and administration of human resources in the judicial service; (f) be in charge of support services in the Judiciary and in particular planning, and development, and the organisation of staff; (g) monitor and enhance administration and office procedures to maximise on efficiency and the quality of service; (h) plan, prepare, implement and monitor the budget and collect, receive and account for revenue; (i) prepare reports and proposals on administrative issues; (j) be in charge of the procurement of all stores, and the management and maintenance of all physical facilities; (k) maintain and develop co-operation with key staff in the public service and other institutions and agencies; and"
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Qualifications for appointment as Chief Registrar",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION OF THE JUDICIARY",
+   "text": "A person shall not be qualified for appointment as the Chief Registrar unless such person—\n  (a) is an advocate of the High Court of Kenya and has, since qualification—\n  (i) become eligible for appointment as a Judge of the High Court;\n  (ii) served for at least ten years as a professionally qualified magistrate; or (iii) attained at least ten years’ experience as a distinguished academic or legal practitioner or such experience in other relevant legal field; or (iv) held the qualifications specified in paragraphs (i) to (iii) for a period amounting, in the aggregate, to ten years; and (b) has demonstrated competence in the performance of administrative duties for not less than three years.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Deputy Chief Registrar, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION OF THE JUDICIARY",
+   "text": "(1) There shall be appointed a Deputy Chief Registrar and such other Deputy Registrars and Assistant Registrars as may be necessary for the discharge of judicial service.\n(2) Of the Registrars appointed under subsection (1), there shall be a Registrar for each Superior Court, the Commission and Subordinate Courts.\n(3) All the Registrars appointed under subsection (2) shall be responsible to the Chief Registrar in the performance of their duties.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be appointed a Deputy Chief Registrar and such other Deputy Registrars and Assistant Registrars as may be necessary for the discharge of judicial service."
+    },
+    {
+     "ref": "(2)",
+     "text": "Of the Registrars appointed under subsection (1), there shall be a Registrar for each Superior Court, the Commission and Subordinate Courts."
+    },
+    {
+     "ref": "(3)",
+     "text": "All the Registrars appointed under subsection (2) shall be responsible to the Chief Registrar in the performance of their duties."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Temporary vacancy in the office of the Chief Registrar",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION OF THE JUDICIARY",
+   "text": "Where the office of the Chief Registrar temporarily falls vacant or if, for any reason, the Chief Registrar is unable to exercise the functions of the office, the Deputy Chief Registrar, and in their absence, any officer who for the time being is qualified to perform the duties of the Chief Registrar under section 9, shall have and may exercise all the functions, duties and powers of the Chief Registrar, subject to such conditions, exceptions or qualifications as the Commission may, in writing, direct.",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Suspension or removal of the Chief Registrar",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION OF THE JUDICIARY",
+   "text": "(1) The Chief Registrar may at any time, and in such manner as may be prescribed under this Act, be suspended or removed from office by the Commission for—\n  (a) inability to perform the functions of the office, whether arising from infirmity of body or mind;\n  (b) misbehaviour;\n  (c) incompetence;\n  (d) violation of the prescribed code of conduct for judicial officers;\n  (e) bankruptcy;\n  (f) violation of the provisions of Chapter Six of the Constitution; or\n  (g) any other sufficient cause.\n(2) Before the Chief Registrar is removed under subsection (1), the Chief Registrar shall be informed of the case against him or her in writing and shall be given reasonable time to defend himself or herself against any of the grounds cited for the intended removal.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Chief Registrar may at any time, and in such manner as may be prescribed under this Act, be suspended or removed from office by the Commission for— (a) inability to perform the functions of the office, whether arising from infirmity of body or mind; (b) misbehaviour; (c) incompetence; (d) violation of the prescribed code of conduct for judicial officers; (e) bankruptcy; (f) violation of the provisions of Chapter Six of the Constitution; or"
+    },
+    {
+     "ref": "(2)",
+     "text": "Before the Chief Registrar is removed under subsection (1), the Chief Registrar shall be informed of the case against him or her in writing and shall be given reasonable time to defend himself or herself against any of the grounds cited for the intended removal."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Powers and functions of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "JUDICIAL SERVICE COMMISSION",
+   "text": "(1) In addition to the powers of the Commission under Article 253 of the Constitution, the Commission shall have the power to—\n  (a) purchase or otherwise acquire, hold, charge and dispose of movable or immovable property;\n  (b) borrow and lend money;\n  (c) enter into contracts;\n  (d) do or perform all such other things or acts necessary for the proper performance of its functions under the Constitution and this Act which may be lawfully done or performed by a body corporate.\n(2) Members of the Commission shall be guided in the discharge of their responsibilities by the principles contained in the Constitution and in this Act.\n(3) The Commission shall have all the necessary powers for the execution of its functions under the Constitution and this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In addition to the powers of the Commission under Article 253 of the Constitution, the Commission shall have the power to—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Members of the Commission shall be guided in the discharge of their responsibilities by the principles contained in the Constitution and in this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Commission shall have all the necessary powers for the execution of its functions under the Constitution and this Act."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Delegation by the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "JUDICIAL SERVICE COMMISSION",
+   "text": "Subject to the provisions of the Constitution or any other law, the Commission may hire such experts or consultants, or delegate such of its functions as are necessary for the day-to-day management of the judicial service to subcommittees or to the secretariat.",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "Procedure of appointment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "JUDICIAL SERVICE COMMISSION",
+   "text": "(1) Where the members are to be appointed by the President under Article 171(2)(h) of the Constitution, the following procedure shall apply—\n  (a) until after the first elections under the Constitution, the President shall, subject to the National Accord and Reconciliation Act, 2008 and after consultation with the Prime Minister, within seven days of the commencement of this Act, submit the names of the nominees to the National Assembly;\n  (b) the National Assembly shall, within seven days after it first meets after receiving the names of the nominees—\n  (i) consider the nominees and either approve or reject the nominees; and\n  (ii) notify the President as to the approval or rejection;\n  (c) if the National Assembly approves the nominees under Article 171(2)(h), the President shall, within three days after receiving the notification from the National Assembly, appoint the nominees as members of the Commission;\n  (d) if the National Assembly rejects a nominee submitted by the President, the President shall, within three days after receiving the notification from the National Assembly, submit the name of a new nominee to the National Assembly and the provisions of this subsection shall apply with necessary modifications with respect to the new nominee.\n(2) Where the nominations are to be made by bodies specified under Article 171(2)(b), (c), (d), (f) and (g) of the Constitution—\n  (a) the respective nominating body shall submit the name of its nominee to the President; and (b) the President shall, within three days of receipt of the names, appoint the nominees as members of the Commission.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the members are to be appointed by the President under Article 171(2)(h) of the Constitution, the following procedure shall apply—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the nominations are to be made by bodies specified under Article 171(2)(b), (c), (d), (f) and (g) of the Constitution— (a) the respective nominating body shall submit the name of its nominee to the President; and (b) the President shall, within three days of receipt of the names, appoint the nominees as members of the Commission."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Election of nominees",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "JUDICIAL SERVICE COMMISSION",
+   "text": "Where it is required that a nominating body conducts an election to identify its nominee, such election shall be by secret ballot: Provided that the nominating body shall ensure that its nominees comply with the requirements set out in the Constitution.",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "Vacancies in the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "JUDICIAL SERVICE COMMISSION",
+   "text": "Within seven days after any vacancy arises in the membership of the Commission, the Commission shall request the respective nominating body to submit the name of a fresh nominee within twenty-one days of the request.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Commissioners to relinquish certain offices",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "JUDICIAL SERVICE COMMISSION",
+   "text": "A person holding any of the following offices shall relinquish that office on appointment as a member of the Commission—\n  (a) a member of Parliament;\n  (b) a member of a local authority; or (c) a member of the executive committee of a political party.",
+   "clauses": []
+  },
+  "19": {
+   "num": "19",
+   "title": "Structure of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "JUDICIAL SERVICE COMMISSION",
+   "text": "(1) There shall be such sections, departments or divisions of the Commission, and such categories and classifications of staff under the Commission as the Commission may, from time to time, determine.\n(2) The units referred to in subsection (1) shall be set up with specific mandates. (3) The Commission may, from time to time—\n  (a) allocate functions to any such units; and (b) make such arrangements as may appear to the Commission to be expedient in connection with the division, amalgamation or abolition of any such units. (4) Nothing in this section shall be construed as precluding the Commission from constituting such Committees or Panels for the effective discharge of its mandate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be such sections, departments or divisions of the Commission, and such categories and classifications of staff under the Commission as the Commission may, from time to time, determine."
+    },
+    {
+     "ref": "(2)",
+     "text": "The units referred to in subsection (1) shall be set up with specific mandates. (3) The Commission may, from time to time—"
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Secretariat and staff",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "JUDICIAL SERVICE COMMISSION",
+   "text": "(1) There shall be a secretariat of the Commission which shall comprise—\n  (a) such judicial officers and other staff as the Commission may appoint to assist it in the discharge of its functions under the Constitution and this Act; and (b) such public officers as may, upon the request of the Commission, be seconded to the Commission.\n(2) A public officer who is seconded to the Commission under subsection (1), shall, during the secondment, be deemed to be an officer of the Commission and subject to its direction and control.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a secretariat of the Commission which shall comprise— (a) such judicial officers and other staff as the Commission may appoint to assist it in the discharge of its functions under the Constitution and this Act; and (b) such public officers as may, upon the request of the Commission, be seconded to the Commission."
+    },
+    {
+     "ref": "(2)",
+     "text": "A public officer who is seconded to the Commission under subsection (1), shall, during the secondment, be deemed to be an officer of the Commission and subject to its direction and control."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Functions of the Secretary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "JUDICIAL SERVICE COMMISSION",
+   "text": "(1) As Secretary to the Commission, the Chief Registrar shall, in relation to the proceedings before the Commission, act in accordance with the provisions of the Constitution, this Act and any other written law and shall, in particular, be responsible for—\n  (a) the acceptance, transmission, service and custody of documents in accordance with this Act;\n  (b) the enforcement of decisions of the Commission;\n  (c) certifying that any order, direction or decision is an order, direction or decision of the Commission, the Chairperson or a member, as the case may be;\n  (d) causing to be kept records of the proceedings and minutes of the meetings of the Commission and such other records as the Commission may direct; and\n  (e) undertaking any duties assigned by the Commission.\n(2) With the authorization of the Commission, the Secretary may consider and dispose of procedural or administrative matters in accordance with this Act.\n(3) Any administrative function of the Secretary under this Act may in the Secretary’s absence, be performed by any member of staff of the Commission whom the Chairperson may authorise for that purpose.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "As Secretary to the Commission, the Chief Registrar shall, in relation to the proceedings before the Commission, act in accordance with the provisions of the Constitution, this Act and any other written law and shall, in particular, be responsible for—"
+    },
+    {
+     "ref": "(2)",
+     "text": "With the authorization of the Commission, the Secretary may consider and dispose of procedural or administrative matters in accordance with this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any administrative function of the Secretary under this Act may in the Secretary’s absence, be performed by any member of staff of the Commission whom the Chairperson may authorise for that purpose."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Meetings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "JUDICIAL SERVICE COMMISSION",
+   "text": "(1) The Chairperson shall convene a meeting of the Commission at least once every three months.\n(2) There shall be given to members a notice of seven clear days for every meeting called by the Commission.\n(3) Despite the provisions of subsection (1), the Chairperson may, at any time, convene a special meeting of the Commission and shall, within seven days of the receipt of a written requisition therefor signed by at least three members, convene a special meeting.\n(4) Subject to subsection (5), the Commission shall hold such number of meetings, in such places, at such times and in such manner as the Commission shall consider necessary for the discharge of its functions under the Constitution and this Act.\n(5) The quorum of the Commission and any of its Committees shall be six and three members respectively.\n(6) The Commission may invite any person, whose presence is in its opinion desirable, to attend and to participate in the deliberations of the meeting of the Commission, but such person shall have no power to vote.\n(7) All the questions before the Commission or a Committee thereof shall be determined by consensus, but in the absence of consensus, decisions of the Commission shall be determined by a majority of the members present and voting.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Chairperson shall convene a meeting of the Commission at least once every three months."
+    },
+    {
+     "ref": "(2)",
+     "text": "There shall be given to members a notice of seven clear days for every meeting called by the Commission."
+    },
+    {
+     "ref": "(3)",
+     "text": "Despite the provisions of subsection (1), the Chairperson may, at any time, convene a special meeting of the Commission and shall, within seven days of the receipt of a written requisition therefor signed by at least three members, convene a special meeting."
+    },
+    {
+     "ref": "(4)",
+     "text": "Subject to subsection (5), the Commission shall hold such number of meetings, in such places, at such times and in such manner as the Commission shall consider necessary for the discharge of its functions under the Constitution and this Act."
+    },
+    {
+     "ref": "(5)",
+     "text": "The quorum of the Commission and any of its Committees shall be six and three members respectively."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Commission may invite any person, whose presence is in its opinion desirable, to attend and to participate in the deliberations of the meeting of the Commission, but such person shall have no power to vote."
+    },
+    {
+     "ref": "(7)",
+     "text": "All the questions before the Commission or a Committee thereof shall be determined by consensus, but in the absence of consensus, decisions of the Commission shall be determined by a majority of the members present and voting."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Records of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "JUDICIAL SERVICE COMMISSION",
+   "text": "The Commission shall keep a record of the proceedings of every meeting of the Commission and its Committees.",
+   "clauses": []
+  },
+  "24": {
+   "num": "24",
+   "title": "Seal of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "JUDICIAL SERVICE COMMISSION",
+   "text": "(1) The seal of the Commission shall be such device as may be determined by the Commission and shall be kept by the Secretary.\n(2) The affixing of the seal shall be authenticated by the Chairperson or any other person authorised in that behalf by a resolution of the Commission.\n(3) Any document purporting to be under the seal of the Commission or issued on behalf of the Commission shall be received in evidence and shall be deemed to be so executed or issued, as the case may be, without further proof, unless the contrary is proved.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The seal of the Commission shall be such device as may be determined by the Commission and shall be kept by the Secretary."
+    },
+    {
+     "ref": "(2)",
+     "text": "The affixing of the seal shall be authenticated by the Chairperson or any other person authorised in that behalf by a resolution of the Commission."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any document purporting to be under the seal of the Commission or issued on behalf of the Commission shall be received in evidence and shall be deemed to be so executed or issued, as the case may be, without further proof, unless the contrary is proved."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Retirement and resignation of judicial officers and staff of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "JUDICIAL SERVICE COMMISSION",
+   "text": "(1) A judicial officer or member of staff of the Commission shall retire on attaining the mandatory retirement age for public officers.\n(2) A person in respect of whom subsection (1) applies may, after attaining the age of fifty five years, elect to retire at any time.\n(3) Despite the provisions of subsection (2) the Commission may, in such manner and for such reasons as may be prescribed by regulations under this Act, require a judicial officer or member of staff to retire or resign from service at any time.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A judicial officer or member of staff of the Commission shall retire on attaining the mandatory retirement age for public officers."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person in respect of whom subsection (1) applies may, after attaining the age of fifty five years, elect to retire at any time."
+    },
+    {
+     "ref": "(3)",
+     "text": "Despite the provisions of subsection (2) the Commission may, in such manner and for such reasons as may be prescribed by regulations under this Act, require a judicial officer or member of staff to retire or resign from service at any time."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Expenses of the Commission and the Judiciary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The expenses of the Commission and the Judiciary incurred in the execution of their functions under the Constitution and this Act shall be charged on and issued out of the Consolidated Fund.\n(2) Without prejudice to subsection (1), there may be made to the Commission and the Judiciary grants, gifts, donations or bequests towards the achievement of the objects of the Commission and the Judiciary.\n(3) The Commission and the Judiciary shall not accept any grant, gift, donation or bequest made on any condition that the Commission and the Judiciary performs any function or discharges any duty or obligation other than duties under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The expenses of the Commission and the Judiciary incurred in the execution of their functions under the Constitution and this Act shall be charged on and issued out of the Consolidated Fund."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to subsection (1), there may be made to the Commission and the Judiciary grants, gifts, donations or bequests towards the achievement of the objects of the Commission and the Judiciary."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Commission and the Judiciary shall not accept any grant, gift, donation or bequest made on any condition that the Commission and the Judiciary performs any function or discharges any duty or obligation other than duties under this Act."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "[Repealed by Act No. 16 of 2016, s. 15]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "",
+   "clauses": []
+  },
+  "28": {
+   "num": "28",
+   "title": "Bank accounts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The Commission shall open and maintain such bank accounts as are necessary for the exercise of its functions.\n[Act No. 16 of 2016, s. 16.]",
+   "clauses": []
+  },
+  "29": {
+   "num": "29",
+   "title": "Financial estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) At least three months before the commencement of each financial year, the Chief Registrar shall cause to be prepared, estimates of all the expenditure required for the purposes of this Act for that year, and shall present such estimates to the Commission for review.\n(2) The Commission shall review the estimates forwarded under subsection (1) and may make such alterations thereto as it may consider necessary, and shall thereafter forward them to the National Assembly for approval.\n(3) Upon the approval of the estimates by the National Assembly, all monies from time to time required for the purposes of this Act shall be paid from the Consolidated Fund into the Judiciary Fund.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "At least three months before the commencement of each financial year, the Chief Registrar shall cause to be prepared, estimates of all the expenditure required for the purposes of this Act for that year, and shall present such estimates to the Commission for review."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Commission shall review the estimates forwarded under subsection (1) and may make such alterations thereto as it may consider necessary, and shall thereafter forward them to the National Assembly for approval."
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon the approval of the estimates by the National Assembly, all monies from time to time required for the purposes of this Act shall be paid from the Consolidated Fund into the Judiciary Fund."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Appointment of Judges",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "PROCEDURE FOR APPOINTMENT AND REMOVAL OF JUDGES, AND DISCIPLINE OF OTHER JUDICIAL OFFICERS AND STAFF",
+   "text": "(1) For the purposes of transparent recruitment of judges, the Commission shall constitute a selection panel consisting of at least five members.\n(2) The function of the selection panel shall be to shortlist persons for nomination by the Commission in accordance with the First Schedule.\n(3) The provisions of this section shall apply to the appointment of the Chief Justice and Deputy Chief Justice except that—\n  (a) the Secretary shall, within three days of the Commission's vote, forward the names of three qualified persons for each vacant position to the President;\n  (b) the President shall, within fourteen days of receipt of the names forwarded select the person to fill the each vacant position and forward the name of the person to the National Assembly for approval;\n  (c) the National Assembly shall, within twenty-one days of the day it next sits after receipt of the name of a person nominated for appointment to the post of Chief Justice or Deputy Chief Justice vet and consider the person;\n  (d) where the National Assembly approves of the appointment of a person to the post of Chief Justice or Deputy Chief Justice, the Speaker of the National Assembly shall forward the name of the person to the President for appointment;\n  (e) where the National Assembly rejects the nomination of a person for appointment to the post of Chief Justice or Deputy Chief Justice, the Speaker shall within three days communicate its decision to the President and request the President to submit a fresh nomination;\n  (f) where a nominee is rejected by the National Assembly the President shall within seven days, submit to the National Assembly a fresh nomination from amongst the three persons shortlisted and forwarded by the Commission under paragraph (a); and\n  (g) if the National Assembly rejects all of the subsequent nominees submitted by the President for approval the Commission shall constitute a different selection panel and conduct the recruitment afresh.\n(4) Members of the selection panel shall elect a Chairperson from amongst their number.\n(5) Subject to the provisions of the First Schedule, the selection panel may determine its own procedure. [Act No. 25 of 2015, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "For the purposes of transparent recruitment of judges, the Commission shall constitute a selection panel consisting of at least five members."
+    },
+    {
+     "ref": "(2)",
+     "text": "The function of the selection panel shall be to shortlist persons for nomination by the Commission in accordance with the First Schedule."
+    },
+    {
+     "ref": "(3)",
+     "text": "The provisions of this section shall apply to the appointment of the Chief Justice and Deputy Chief Justice except that—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Members of the selection panel shall elect a Chairperson from amongst their number."
+    },
+    {
+     "ref": "(5)",
+     "text": "Subject to the provisions of the First Schedule, the selection panel may determine its own procedure. [Act No. 25 of 2015, Sch.]"
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Removal of Judges",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "PROCEDURE FOR APPOINTMENT AND REMOVAL OF JUDGES, AND DISCIPLINE OF OTHER JUDICIAL OFFICERS AND STAFF",
+   "text": "(1) The procedure governing the conduct of a tribunal set up for the purposes of removing the Chief Justice, Deputy Chief Justice or a judge shall be as set out in the Second Schedule.\n(2) If the tribunal referred to in subsection (1) is for the removal of a judge, other than the Chief Justice, the appointing authority shall appoint the chairperson and the members shall elect a vicechairperson of the tribunal from amongst their number.\n(3) The Chairperson and Vice-Chairperson appointed for purposes of removal of a Chief Justice or Deputy Chief Justice or elected under subsection (2) shall be persons of opposite gender.\n(4) The appointing authority may appoint a counsel to assist the tribunal. (5) Subject to the provisions of the Second Schedule, the tribunal may determine its own procedure.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The procedure governing the conduct of a tribunal set up for the purposes of removing the Chief Justice, Deputy Chief Justice or a judge shall be as set out in the Second Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "If the tribunal referred to in subsection (1) is for the removal of a judge, other than the Chief Justice, the appointing authority shall appoint the chairperson and the members shall elect a vicechairperson of the tribunal from amongst their number."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Chairperson and Vice-Chairperson appointed for purposes of removal of a Chief Justice or Deputy Chief Justice or elected under subsection (2) shall be persons of opposite gender."
+    },
+    {
+     "ref": "(4)",
+     "text": "The appointing authority may appoint a counsel to assist the tribunal. (5) Subject to the provisions of the Second Schedule, the tribunal may determine its own procedure."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Appointment, discipline and removal of judicial officers and staff",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "PROCEDURE FOR APPOINTMENT AND REMOVAL OF JUDGES, AND DISCIPLINE OF OTHER JUDICIAL OFFICERS AND STAFF",
+   "text": "(1) For the purposes of appointment, discipline and removal of judicial officers and staff, the Commission shall constitute a Committee or Panel which shall be gender representative.\n(2) Notwithstanding the generality of subsection (1), a person shall not be qualified to be appointed as a magistrate by the Commission unless the person—\n  (a) is an advocate of the High Court of Kenya;\n  (b) has high moral character, integrity and impartiality;\n  (c) has demonstrable management skills;\n  (d) has proficiency in computer applications; and (e) has no pending complaints from the Advocates Complaints Commission or the Disciplinary Committee.\n(3) The procedure governing the conduct of a Committee or Panel constituted under this section shall be as set out in the Third Schedule.\n(4) Members of the Committee shall elect a chairperson from amongst their number. (5) Subject to the provisions of the Third Schedule, the Committee or Panel may determine its own procedure.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "For the purposes of appointment, discipline and removal of judicial officers and staff, the Commission shall constitute a Committee or Panel which shall be gender representative."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding the generality of subsection (1), a person shall not be qualified to be appointed as a magistrate by the Commission unless the person— (a) is an advocate of the High Court of Kenya; (b) has high moral character, integrity and impartiality; (c) has demonstrable management skills; (d) has proficiency in computer applications; and (e) has no pending complaints from the Advocates Complaints Commission or the Disciplinary Committee."
+    },
+    {
+     "ref": "(3)",
+     "text": "The procedure governing the conduct of a Committee or Panel constituted under this section shall be as set out in the Third Schedule."
+    },
+    {
+     "ref": "(4)",
+     "text": "Members of the Committee shall elect a chairperson from amongst their number. (5) Subject to the provisions of the Third Schedule, the Committee or Panel may determine its own procedure."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Commission to provide secretariat",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "PROCEDURE FOR APPOINTMENT AND REMOVAL OF JUDGES, AND DISCIPLINE OF OTHER JUDICIAL OFFICERS AND STAFF",
+   "text": "The Commission shall provide secretariat services to the Committee or Panels constituted under this Part.",
+   "clauses": []
+  },
+  "34": {
+   "num": "34",
+   "title": "Establishment and composition of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "THE NATIONAL COUNCIL ON ADMINISTRATION OF JUSTICE",
+   "text": "(1) There is established an unincorporated body to be known as the National Council on the Administration of Justice.\n(2) The Council shall be composed of—\n  (a) the Chief Justice who shall be the Chairperson;\n  (b) the Cabinet Secretary for the time being responsible for matters relating to the Judiciary, or his or her representative appointed in writing;\n  (c) the Attorney-General, or his or her representative appointed in writing;\n  (d) the Director of Public Prosecutions, or his or her representative appointed in writing;\n  (e) the person for the time being exercising command over the National Police Service, or his or her representative appointed in writing;\n  (f) the Commissioner of Prisons, or his or her representative appointed in writing;\n  (g) the President of the Law Society of Kenya, or his or her representative appointed in writing;\n  (h) the Principal Secretary for the time being responsible for matters relating to the Cabinet and the public service, or his or her representative appointed in writing;\n  (i) the Principal Secretary for the time being responsible for matters relating to gender, women and children’s’ affairs, or his or her representative appointed in writing;\n  (j) the Principal Secretaries for the time being responsible for matters relating to labour, environment and land, or their representatives appointed in writing;\n  (k) the Director of the Witness Protection Agency, or his or her representative appointed in writing;\n  (l) the Director of Probation and After-care Services, or his or her representative appointed in writing;\n  (m) a representative of an organisation or association dealing with human rights issues and the provision of legal aid to women;\n  (n) a representative of an organisation or association dealing with human rights issues and the provision of legal aid to children;\n  (o) a representative of the private sector; and\n  (p) a representative of Non-Governmental Organisations dealing with human rights issues and the provision of legal aid.\n(3) The Chief Registrar shall be the secretary to the Council.\n(4) The Commission shall provide secretariat services to the Council.\n(5) Not more than two-thirds of the members of the Council shall be of one gender and the chairperson of the Council shall, during the first meeting of the Council, ensure that this requirement has been met.\n(6) The persons nominated under subsection (2)(m), (n) and (p) shall be appointed by the Cabinet Secretary from organisations with national coverage and known track records in their respective fields and shall serve for a term of three years which may be renewed for one further term of three years.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established an unincorporated body to be known as the National Council on the Administration of Justice."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council shall be composed of— (a) the Chief Justice who shall be the Chairperson; (b) the Cabinet Secretary for the time being responsible for matters relating to the Judiciary, or his or her representative appointed in writing; (c) the Attorney-General, or his or her representative appointed in writing; (d) the Director of Public Prosecutions, or his or her representative appointed in writing; (e) the person for the time being exercising command over the National Police Service, or his or her representative appointed in writing; (f) the Commissioner of Prisons, or his or her representative appointed in writing; (g) the President of the Law Society of Kenya, or his or her representative appointed in writing; (h) the Principal Secretary for the time being responsible for matters relating to the Cabinet and the public service, or his or her representative appointed in writing;"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Chief Registrar shall be the secretary to the Council."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Commission shall provide secretariat services to the Council."
+    },
+    {
+     "ref": "(5)",
+     "text": "Not more than two-thirds of the members of the Council shall be of one gender and the chairperson of the Council shall, during the first meeting of the Council, ensure that this requirement has been met."
+    },
+    {
+     "ref": "(6)",
+     "text": "The persons nominated under subsection (2)(m), (n) and (p) shall be appointed by the Cabinet Secretary from organisations with national coverage and known track records in their respective fields and shall serve for a term of three years which may be renewed for one further term of three years."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Purpose and functions of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "THE NATIONAL COUNCIL ON ADMINISTRATION OF JUSTICE",
+   "text": "(1) It shall be the duty of the Council to ensure a co-ordinated, efficient, effective and consultative approach in the administration of justice and reform of the justice system.\n(2) To achieve the objectives set out under subsection (1), the Council shall—\n  (a) formulate policies relating to the administration of justice;\n  (b) implement, monitor, evaluate and review strategies for the administration of justice;\n  (c) facilitate the establishment of court user committees at the county level; and\n  (d) mobilize resources for purposes of the efficient administration of justice.\n(3) The Council shall—\n  (a) liaise with the Council of the National Crime Research Centre in carrying out its mandate;\n  (b) review and implement the reports of the Court users committees; and\n  (c) oversee the operations of any other body engaged in administration of justice.\n(4) The Council shall have all the necessary powers for the execution of its functions under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "It shall be the duty of the Council to ensure a co-ordinated, efficient, effective and consultative approach in the administration of justice and reform of the justice system."
+    },
+    {
+     "ref": "(2)",
+     "text": "To achieve the objectives set out under subsection (1), the Council shall—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Council shall—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The Council shall have all the necessary powers for the execution of its functions under this Act."
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Meetings of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "THE NATIONAL COUNCIL ON ADMINISTRATION OF JUSTICE",
+   "text": "(1) The Council shall meet at least once every three months.\n(2) Subject to the provision of this Part, the Council may regulate its own procedure.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall meet at least once every three months."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to the provision of this Part, the Council may regulate its own procedure."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Reports of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "THE NATIONAL COUNCIL ON ADMINISTRATION OF JUSTICE",
+   "text": "The Council shall prepare and submit annual reports on its activities to the Cabinet Secretary for onward transmission to the National Assembly.",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "Annual report",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "ANNUAL REPORT AND AUDITED ACCOUNTS OF THE COMMISSION AND THE JUDICIARY",
+   "text": "(1) The Commission and the Judiciary shall each cause an annual report to be prepared for each financial year.\n(1A) The Commission shall submit the annual report to the President and Parliament within six months after the end of the year to which it relates.\n(2) The annual report shall contain, in respect to the year to which it relates—\n  (a) the financial statements of the Commission and the Judiciary; and (b) a description of the activities of the Commission and the Judiciary.\n(3) Without limiting what may be included in the annual report, the annual report shall include—\n  (a) the information set out in the reports of the committees to which the annual report relates;\n  (b) a summary of the steps taken during the year, in the identification, selection and appointment of judicial officers and staff;\n  (c) information relating to disposal of cases;\n  (d) information on issues of access to justice;\n  (e) information relating to performance of the judiciary and attendant challenges; and (f) such other statistical information as the Commission and the Judiciary considers appropriate relating to their functions and judicial activities.\n(4) The Commission and the Judiciary shall cause the annual report to be published in the Gazette and shall send a copy of the report to each of the two Clerks of the two Houses of Parliament for it to be placed before the respective Houses for debate and adoption. [Act No. 19 of 2023, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission and the Judiciary shall each cause an annual report to be prepared for each financial year."
+    },
+    {
+     "ref": "(1A)",
+     "text": "The Commission shall submit the annual report to the President and Parliament within six months after the end of the year to which it relates."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual report shall contain, in respect to the year to which it relates— (a) the financial statements of the Commission and the Judiciary; and (b) a description of the activities of the Commission and the Judiciary."
+    },
+    {
+     "ref": "(3)",
+     "text": "Without limiting what may be included in the annual report, the annual report shall include— (a) the information set out in the reports of the committees to which the annual report relates; (b) a summary of the steps taken during the year, in the identification, selection and appointment of judicial officers and staff; (c) information relating to disposal of cases; (d) information on issues of access to justice; (e) information relating to performance of the judiciary and attendant challenges; and (f) such other statistical information as the Commission and the Judiciary considers appropriate relating to their functions and judicial activities."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Commission and the Judiciary shall cause the annual report to be published in the Gazette and shall send a copy of the report to each of the two Clerks of the two Houses of Parliament for it to be placed before the respective Houses for debate and adoption. [Act No. 19 of 2023, Sch.]"
+    }
+   ]
+  },
+  "39": {
+   "num": "39",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "ANNUAL REPORT AND AUDITED ACCOUNTS OF THE COMMISSION AND THE JUDICIARY",
+   "text": "(1) The Chief Registrar shall ensure that proper books and records of accounts of the Commission and Judiciary are kept and maintained.\n(2) Within three months after the end of each financial year, the Chief Registrar shall submit to the Auditor-General the accounts of the Commission and the Judiciary for the year.\n(3) The accounts of the Commission and the Judiciary shall be audited annually and shall form part of the annual report.\n(4) The accounts of the Commission and the Judiciary shall be audited and reported on in accordance with the provisions of the Public Audit Act (Cap. 412B).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Chief Registrar shall ensure that proper books and records of accounts of the Commission and Judiciary are kept and maintained."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within three months after the end of each financial year, the Chief Registrar shall submit to the Auditor-General the accounts of the Commission and the Judiciary for the year."
+    },
+    {
+     "ref": "(3)",
+     "text": "The accounts of the Commission and the Judiciary shall be audited annually and shall form part of the annual report."
+    },
+    {
+     "ref": "(4)",
+     "text": "The accounts of the Commission and the Judiciary shall be audited and reported on in accordance with the provisions of the Public Audit Act (Cap. 412B)."
+    }
+   ]
+  },
+  "40": {
+   "num": "40",
+   "title": "Oath of office of members, Chief Registrar, other judicial officers and staff",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Chairperson and members of the Commission shall, on first appointment, make the oath or affirmation in the form prescribed in the Third Schedule to the Constitution.\n(2) The Chief Registrar and such other judicial officers and staff of the Commission as the Commission may require so to do, shall, on first appointment, make the oath or affirmation in the prescribed form.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Chairperson and members of the Commission shall, on first appointment, make the oath or affirmation in the form prescribed in the Third Schedule to the Constitution."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Chief Registrar and such other judicial officers and staff of the Commission as the Commission may require so to do, shall, on first appointment, make the oath or affirmation in the prescribed form."
+    }
+   ]
+  },
+  "41": {
+   "num": "41",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "",
+   "clauses": []
+  },
+  "42": {
+   "num": "42",
+   "title": "Powers of the Commission and the duty to co-operate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Commission may summon any public officer or other person to appear before it or its committee or to produce any document or thing or information that may be considered relevant to its functions and it shall be the duty of any such public officer or person to co-operate with the Commission.",
+   "clauses": []
+  },
+  "43": {
+   "num": "43",
+   "title": "Confidentiality",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A member or staff of the Commission shall not without the consent in writing given by, or on behalf of, the Commission, publish or disclose to any person otherwise than in the course of the person’s duties the contents of any document, communication, or information which relates to, and which has come to the person’s knowledge in the course of the person’s duties under this Act.\n(2) The limitation on disclosure referred to under subsection (1) shall not be construed to prevent the disclosure of criminal activity by a member or staff of the Commission.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A member or staff of the Commission shall not without the consent in writing given by, or on behalf of, the Commission, publish or disclose to any person otherwise than in the course of the person’s duties the contents of any document, communication, or information which relates to, and which has come to the person’s knowledge in the course of the person’s duties under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The limitation on disclosure referred to under subsection (1) shall not be construed to prevent the disclosure of criminal activity by a member or staff of the Commission."
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Conflict of interest",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) If any member is present at a meeting of the Commission or any committee at which any matter is the subject of consideration and in which matter that person or that person’s associates or family members are directly or indirectly interested in a private capacity, that person shall as soon as is practicable after the commencement of the meeting, declare such interest and shall not, unless the Commission or Committee otherwise directs, take part in any consideration or discussion of, or vote on any question touching such matter.\n(2) A disclosure of interest made under subsection (1) shall be recorded in the minutes of the meeting at which it is made.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If any member is present at a meeting of the Commission or any committee at which any matter is the subject of consideration and in which matter that person or that person’s associates or family members are directly or indirectly interested in a private capacity, that person shall as soon as is practicable after the commencement of the meeting, declare such interest and shall not, unless the Commission or Committee otherwise directs, take part in any consideration or discussion of, or vote on any question touching such matter."
+    },
+    {
+     "ref": "(2)",
+     "text": "A disclosure of interest made under subsection (1) shall be recorded in the minutes of the meeting at which it is made."
+    }
+   ]
+  },
+  "45": {
+   "num": "45",
+   "title": "Protection from personal liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A member, the Chief Registrar, Registrar or judicial officers or a member of staff of the Commission shall not be liable to any civil action or suit for or in respect of any matter or thing done or omitted to be done in good faith as a member, Registrar, judicial officer or member of staff of the Commission.\n(2) A member of the Commission or the Chief Registrar shall not be liable to arrest under civil process while participating in any meeting of the Commission or of any Committee thereof.\n(3) A person who appears before the Commission shall not, whether such appearance is in pursuance of any summons by the Commission under this Act or not, be liable to any criminal or civil proceedings, or to any penalty or forfeiture whatsoever in respect of any evidence or information given to the Commission by such person.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A member, the Chief Registrar, Registrar or judicial officers or a member of staff of the Commission shall not be liable to any civil action or suit for or in respect of any matter or thing done or omitted to be done in good faith as a member, Registrar, judicial officer or member of staff of the Commission."
+    },
+    {
+     "ref": "(2)",
+     "text": "A member of the Commission or the Chief Registrar shall not be liable to arrest under civil process while participating in any meeting of the Commission or of any Committee thereof."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who appears before the Commission shall not, whether such appearance is in pursuance of any summons by the Commission under this Act or not, be liable to any criminal or civil proceedings, or to any penalty or forfeiture whatsoever in respect of any evidence or information given to the Commission by such person."
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "Offences and penalties",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Any person who—\n  (a) in connection with an application by the person or by any other person for employment, appointment or promotion by the Commission, or in connection with any matter on which it is the duty of the Commission to inquire, wilfully gives to the Commission or to any member of the Commission any information which is false or misleading in any material particular; or (b) without the consent, in writing, of the Chairperson, publishes or discloses to any unauthorised person or otherwise than in the course of duty, the contents or any part of the contents of any document, communication or information which has come to their knowledge in the course of their duties under this Act, and any person who knowingly acts in contravention of this section; or (c) otherwise than in the course of duty, directly or indirectly by themselves or by any other person in any manner influences or attempts to influence any decision of the Commission or of any member thereof; or (d) disobeys any order made by the Commission or a committee for attendance or for production of papers, books, documents or records, commits an offence and is liable on conviction to a fine not exceeding one million shillings, or to imprisonment for a term not exceeding three years, or to both. (2) Notwithstanding the provisions of subsection (1)(c) of this section, nothing shall prohibit any person from supplying any information or assistance upon formal request made by the Commission.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who— (a) in connection with an application by the person or by any other person for employment, appointment or promotion by the Commission, or in connection with any matter on which it is the duty of the Commission to inquire, wilfully gives to the Commission or to any member of the Commission any information which is false or misleading in any material particular; or (b) without the consent, in writing, of the Chairperson, publishes or discloses to any unauthorised person or otherwise than in the course of duty, the contents or any part of the contents of any document, communication or information which has come to their knowledge in the course of their duties under this Act, and any person who knowingly acts in contravention of this section; or (c) otherwise than in the course of duty, directly or indirectly by themselves or by any other person in any manner influences or attempts to influence any decision of the Commission or of any member thereof; or (d) disobeys any order made by the Commission or a committee for attendance or for production of papers, books, documents or records, commits an offence and is liable on conviction to a fine not exceeding one million shillings, or to imprisonment for a term not exceeding three years, or to both. (2) Notwithstanding the provisions of subsection (1)(c) of this section, nothing shall prohibit any person from supplying any information or assistance upon formal request made by the Commission."
+    }
+   ]
+  },
+  "47": {
+   "num": "47",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Commission may make regulations for the better carrying out of the purposes of this Act. (2) Without prejudice to the generality of subsection (1), such regulations may provide for—\n  (a) the code of conduct and ethics for judges, other judicial officers and staff;\n  (b) the administration and management of the services and facilities of the Commission for the discharge of judicial functions;\n  (c) preliminary procedures for making any recommendations required to be made under the Constitution;\n  (d) the financial procedures of the Commission;\n  (e) orientation and training for judicial officers and staff;\n  (f) the management of issues of conflict of interest;\n  (g) performance appraisal system of the Judiciary;\n  (h) the security of judicial officers and staff; and (i) mainstreaming of gender and regional equity in the Judiciary. (3) Regulations made under this section shall be presented to the National Assembly for debate and approval before they take effect.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission may make regulations for the better carrying out of the purposes of this Act. (2) Without prejudice to the generality of subsection (1), such regulations may provide for—"
+    }
+   ]
+  },
+  "48": {
+   "num": "48",
+   "title": "Transition and saving",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Every valid contract entered into before the commencement of this Act shall continue to be in force to the extent that the terms and conditions thereof are not inconsistent with the provisions of this Act or any other written law.\n(2) All movable and immovable property and all the rights and liabilities previously attaching to the Judiciary, and all the property movable or immovable held by any person on behalf of the Judiciary, before the commencement of this Act shall vest in the Judiciary or where applicable, the Commission, after the commencement of this Act.\n(3) Until after the first elections under the Constitution, references in this Act to the expressions “Cabinet Secretary” or “Principal Secretary” shall be construed to mean “Minister” or “Permanent Secretary” respectively.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every valid contract entered into before the commencement of this Act shall continue to be in force to the extent that the terms and conditions thereof are not inconsistent with the provisions of this Act or any other written law."
+    },
+    {
+     "ref": "(2)",
+     "text": "All movable and immovable property and all the rights and liabilities previously attaching to the Judiciary, and all the property movable or immovable held by any person on behalf of the Judiciary, before the commencement of this Act shall vest in the Judiciary or where applicable, the Commission, after the commencement of this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "Until after the first elections under the Constitution, references in this Act to the expressions “Cabinet Secretary” or “Principal Secretary” shall be construed to mean “Minister” or “Permanent Secretary” respectively."
+    }
+   ]
+  },
+  "49": {
+   "num": "49",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [s. 30.]",
+   "subtitle": "PROVISIONS RELATING TO THE PROCEDURE FOR APPOINTMENT OF JUDGES",
+   "text": "[Act No. 25 of 2015, Sch.]\nPart I – PRELIMINARY 1. Application\n(1) These procedures apply to the selection of applicants for recommendation for appointment as Judges, the criteria for determining their qualifications and for connected purposes.\n(2) Despite the generality of paragraph (1), Parts III, IV, V, VI and VII of this Schedule specify—\n  (a) the steps to be taken by an applicant in order to be considered for a judicial appointment; and (b) the steps to be taken by the Commission to ensure that applicants are fairly evaluated and that the most qualified are nominated.\n(3) The procedures referred to under subparagraph (2) shall be published in the Commission’s annual reports and posted on the Commission’s website.\n2. Interpretation In this Schedule, unless the context otherwise requires— “Applicant” means any person making an application to the Commission for consideration for appointment as a Judge.\nPart II – VACANCIES AND APPLICATIONS 3. Notice of vacancy\n(1) Where a vacancy occurs or exists in the office of a judge, the Chief Justice shall within fourteen days place a notice thereof in the Gazette and the Commission shall thereafter—\n  (a) post a notice on its website;\n  (b) send notice of the vacancy to the Law Society of Kenya and any other lawyers’ professional associations; and (c) circulate the notice in any other appropriate manner.\n(2) The advertisement and the notice referred to in paragraph (1) shall—\n  (a) describe the judicial vacancy;\n  (b) state the constitutional and statutory requirements for the position;\n  (c) invite all qualified persons to apply;\n  (d) inform interested persons how to obtain applications; and\n  (e) set the deadline for submission of application which period shall not be less than twenty-one (21) days after the announcement of the vacancy by the Commission.\n4. Submission of applications\n(1) Application forms for advertised judicial positions may be obtained upon request from the Commission’s offices and availed on the Commission’s website.\n(2) Each applicant seeking consideration for nomination and recommendation for appointment to a judicial office shall complete and file the prescribed application form and comply with all requirements described therein.\n(3) The prescribed application form shall require an applicant to provide—\n  (a) background information and in particular information that may be relevant to determine qualifications for office, including but not limited to academic, employment, legal practice and judicial or financial discipline; community service, pro bono activity and non-legal interests; involvement as a party in litigation; criminal record; and residential address;\n  (b) references and in particular the names of three professional references and two character references who can verify and comment about the applicant’s past and present employment;\n  (c) if in legal practice, detailed information about the applicant’s practice of law within the past five years; and if engaged elsewhere, detailed information on that engagement in the last five years;\n  (d) a sample of any writings by the applicant which may include any legal publications the applicant has authored;\n  (e) a declaration of income and liabilities at the time of application; and\n  (f) a brief written summary of the applicant’s bio-data including legal education, and legal experience.\n(4) An applicant shall submit the completed form, writing sample and their photograph to the Commission by or before the date set forth in the notice of vacancy.\n(5) Nothing in this Schedule prohibits a lawyers’ professional body or organisation from inviting its members to submit applications to that body for evaluation and submission to the Commission, provided that, each individual applicant shall be considered on the applicant’s own merits.\n5. Non-public and public materials\n(1) The Commission shall maintain the confidentiality of sensitive and highly personal information in applications, including home and e-mail addresses, home and mobile telephone numbers, income, names and occupations of immediate family members, formal disciplinary or ethical complaints, charges or grievances brought against the applicant as a lawyer or otherwise that did not result in public discipline, medical and health history, the financial interests of the applicant, and all unsolicited comments and letters for which the author requests confidentiality or which the Commission in its discretion believes should remain confidential to protect third parties.\n(2) Any information not described under subparagraph (1) as non-public material shall be set out in a separate part of the application and may be available to the public.\nPart III – REVIEW OF APPLICATIONS AND BACKGROUND INVESTIGATION 6. Initial review for completeness and compliance with Constitutional and statutory requirements\n(1) Within fourteen days of the deadline for the receipt of applications, the Commission shall review the applications for completeness and conformity with the necessary requirements.\n(2) In particular, the review referred to in subparagraph (1) shall relate to a determination of whether the applicant meets the minimum Constitutional and statutory requirements for the position.\n7. Reference check\n(1) The Commission shall, within twenty-one days of the initial review, verify and supplement information provided by the applicant by communicating to all of the applicant’s references and former employers who shall be asked to comment on the applicant’s qualifications under the criteria set out under this Schedule.\n(2) For the avoidance of doubt, the Commission may not share with the applicants any materials it solicits or reveal the identity of the source of information unless the source waives anonymity.\n8. Background investigation and vetting\n(1) The Commission shall, within thirty days of the reference check, investigate and verify, in consultation with the relevant professional bodies or any other person, the applicant’s professional and personal background for information that could pose a significant problem for the proper functioning of the courts should the applicant be appointed.\n(2) The background investigation and verification referred to under subparagraph (1) may continue until the time the Commission votes on its nominations.\n9. Publication of the names of applicants Upon the expiry of the period set for applications, the Commission shall—\n  (a) issue a press release announcing the names of the applicants; publicize and post on its website the place and approximate date of the Commission meeting for interviews;\n  (b) cause the names of the applicants to be published in the Kenya Gazette;\n  (c) invite any member of the public to avail, in writing, any information of interest to the Commission in relation to any of the applicants; and (d) interview any member of the public who has submitted any information on any of the applicants, and such information shall be confidential.\nPart IV – INTERVIEW PROCEDURES 10. Interview scheduling and conduct\n(1) The Commission shall schedule specific interview times for each applicant. (2) The applicant shall be notified in writing of the date, time, and location of their interview. (3) The notice referred to under subparagraph (2) shall not be less than fourteen days.\n(4) The Commission shall interview the applicant in person or may at its discretion arrange an interview by telephone or other electronic means.\n(5) All the interviews shall be conducted in public.\n11. Disclosure by members Immediately before interviewing an applicant, the Commission shall briefly convene a private session to facilitate the disclosure by a member of any relevant information known or communicated to the member about the applicant that other members may not be seized of.\n12. Questions based on confidential or anonymous source Questions to an applicant about information received in confidence shall be phrased so as to avoid revealing the confidential source's identity, and the Commission shall not otherwise disclose the source to the applicant during the interview or at any other time.\nPart V – CRITERIA FOR EVALUATING QUALIFICATIONS OF INDIVIDUAL APPLICANTS 13. Criteria for evaluation of qualifications In determining the qualifications of individual applicants under the Constitution, the Commission shall be guided by the following criteria—\n  (a) professional competence, the elements of which shall include—\n  (i) intellectual capacity;\n  (ii) legal judgment;\n  (iii) diligence;\n  (iv) substantive and procedural knowledge of the law;\n  (v) organizational and administrative skills; and (vi) the ability to work well with a variety of people;\n  (b) written and oral communication skills, the elements of which shall include—\n  (i) the ability to communicate orally and in writing;\n  (ii) the ability to discuss factual and legal issues in clear, logical and accurate legal writing; and (iii) effectiveness in communicating orally in a way that will readily be understood and respected by people from all walks of life;\n  (c) integrity, the elements of which shall include—\n  (i) a demonstrable consistent history of honesty and high moral character in professional and personal life;\n  (ii) respect for professional duties, arising under the codes of professional and judicial conduct; and\n  (iii) ability to understand the need to maintain propriety and the appearance of propriety;\n  (d) fairness, the elements of which shall include—\n  (i) a demonstrable ability to be impartial to all persons and commitment to equal justice under the law; and\n  (ii) open-mindedness and capacity to decide issues according to the law, even when the law conflicts with personal views;\n  (e) good judgment, including common sense, elements of which shall include a sound balance between abstract knowledge and practical reality and in particular, demonstrable ability to make prompt decisions that resolve difficult problems in a way that makes practical sense within the constraints of any applicable rules or governing principles;\n  (f) legal and life experience elements of which shall include—\n  (i) the amount and breadth of legal experience and the suitability of that experience for the position, including trial and other courtroom experience and administrative skills; and\n  (ii) broader qualities reflected in life experiences, such as the diversity of personal and educational history, exposure to persons of demonstrable interests and cultural backgrounds, and in areas outside the legal field; and\n  (g) demonstrable commitment to public and community service elements which shall include the extent to which a Judge or Magistrate has demonstrated a commitment to the community generally and to improving access to the justice system in particular.\n14. Vote to nominate most qualified applicants\n(1) The Commission shall, within seven days of the conclusion of interviews, deliberate and nominate the most qualified applicants taking into account gender, regional, ethnic and other diversities of the people of Kenya.\n(2) Each member shall vote according to that member’s personal assessment of the applicants’ qualifications as determined under the criteria and procedures set out in this Schedule.\n(3) The Secretary shall administer the voting and shall declare the voting completed after all the applicants have been considered and all members have voted.\n(4) Notwithstanding the provisions of subparagraph (3), a member may, at any time during, but before the declaration of completion of the vote, change their vote for or against any applicant.\n(5) In order to be nominated for recommendation for appointment, an applicant shall be required to receive three or more affirmative votes.\nPart VI – POST-NOMINATION PROCEDURES 15. Notification of nominations\n(1) The Secretary shall, within seven days of the Commission’s vote, cause the applicants to be notified by telephone or electronic means, about the Commission’s decision.\n(2) Despite subparagraph (1), the Secretary shall cause to be transmitted to each applicant, a written notice of the Commission’s decision.\n(2A) The Secretary shall, within seven days of the Commission's vote, forward the names of the persons nominated for recommendation for judicial appointment to the President.\n(3) The names of the persons nominated for recommendation for judicial appointment may be posted on the Commission’s website and placed in its press release. [Act No. 25 of 2015, Sch.]\n16. Request for additional names or reconsideration The Commission shall not reconsider its nominees after the names are submitted to the President except in the case of death, incapacity or withdrawal of a nominee.\nPart VII – GENERAL PROVISIONS 17. Irregularities\n(1) Any irregularity resulting from failure to comply with any provision of this Schedule shall not of itself render the proceedings void or invalid where the irregularity does not occasion a miscarriage of justice.\n(2) Where any irregularity comes to the attention of the Commission, the Commission may, and shall, if it considers any person may have been prejudiced by the irregularity, give such directions as it deems just, to cure or waive the irregularity before reaching its decision.\n(3) Clerical mistakes in any document recording a direction, order or decision of the Commission, or errors arising in such a document from an accidental slip or omission, may be corrected by the Chairperson, by certificate under their hand.\n18. Offences and penalties Any person who contravenes the provisions of this Schedule commits an offence and is liable upon conviction to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding one year, or to both.\n19. Extension of time The Commission may, for sufficient cause shown, extend the time prescribed by this Schedule for doing any act upon such terms and conditions, as appear to it just and expedient.\n20. General power of the Commission\n(1) Subject to the Constitution and this Schedule, the Commission may regulate its own procedure and the procedure of any of its committees.\n(2) Nothing in this Schedule shall limit or otherwise affect the inherent power of the Commission to make such decisions as may be necessary for the ends of justice or to prevent abuse of the process of the Commission."
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE[s. 31.]",
+   "subtitle": "PROVISIONS RELATING TO THE PROCEDURE OF THE TRIBUNAL ON REMOVAL OF JUDGES",
+   "text": "Part I – PRELIMINARY 1. Application This Schedule provides for the procedure of the Tribunal for the removal of Judges.\n2. Interpretation In this Schedule, unless the context otherwise requires— “Chairperson” means the Chairperson of the Tribunal appointed under the Constitution or this Act;\n“hearing” means a sitting of the Tribunal duly constituted for the purpose of receiving evidence, hearing submissions from a party, delivering a decision, or doing anything lawfully required to enable the Tribunal to reach a decision, on any complaint before it;\n“Member” means a Member of the Tribunal appointed under the Constitution;\n“Register” means the register where all pleadings and supporting documents and all orders and decisions of the Tribunal are kept in accordance with these Schedule;\n“Registry” means the registry of the Tribunal;\nPart II – ADMINISTRATION OF THE TRIBUNAL 3. Chairperson The Chairperson shall co-ordinate the work of the Tribunal and shall, in addition, be responsible for—\n  (a) constituting such panel or panels of the Tribunal as may be necessary for the fair and expeditious disposal of the business of the Tribunal;\n  (b) assigning the business of the Tribunal to the members;\n  (c) supervising the activities of the Secretary and of the Registry; and\n  (d) exercising all other functions implied by Article 168 of the Constitution or conferred by the Act and this Schedule.\n4. Secretary\n(1) In relation to the proceedings before the Tribunal, the Secretary shall act in accordance with the instructions of the Chairperson and shall, in particular, be responsible for—\n  (a) the establishment and maintenance of the register and registry;\n  (b) the acceptance, transmission, service and custody of documents in accordance with this Schedule;\n  (c) the enforcement of decisions of the Tribunal;\n  (d) certifying that any order, direction or decision is an order, direction or decision of the Tribunal, the Chairperson or a member, as the case may be;\n  (e) causing to be kept records of the proceedings and minutes of the meetings of the Tribunal and such other records as the Tribunal may direct; and\n  (f) undertaking any duties assigned by the Tribunal for the benefit of the Tribunal.\n(2) With the authorisation of the Chairperson, the Secretary may consider and dispose of procedural or administrative matters in accordance with this Schedule.\n(3) A party may, within seven days of any action taken by the Secretary in the performance of the functions set out in subparagraph (3), request in writing that the action be reviewed by the Tribunal.\n(4) Any administrative function of the Secretary may, in the Secretary’s absence, be performed by any member of staff of the Tribunal whom the Chairperson may authorise for that purpose.\n(5) The Secretary shall have, in addition to any powers specifically given by or under this Schedule, such powers as are generally provided under Order 49 of the Civil Procedure Rules, with such modifications as may be necessary.\n5. Quorum and business of the Tribunal\n(1) The quorum necessary for the conduct of the hearing of the Tribunal shall be the Chairperson and two (2) other members.\n(2) Notwithstanding subparagraph (1), the business of the Tribunal may be carried on by any three members and the Secretary.\nPart III – APPLICATION OF SCHEDULE 6. Tribunal to uphold the principle of substantial justice\n(1) The Tribunal shall interpret the provisions of this Schedule in a manner that promotes the principle of substantial justice.\n(2) Any irregularity resulting from failure to comply with any provision of this Schedule shall not in itself render the proceedings void or invalid where the irregularity does not occasion a miscarriage of justice.\n(3) Where any such irregularity comes to the attention of the Tribunal, the Tribunal may, and shall if it considers any person may have been prejudiced by the irregularity, give such directions as it deems just, to cure or waive the irregularity before reaching its decision.\n(4) Clerical mistakes in any document recording a direction, order or decision of the Tribunal, or errors arising in such a document from an accidental slip or omission, may be corrected by the Chairperson, by certificate under their hand.\n7. Powers of the Tribunal not affected or limited Nothing in this Schedule shall be deemed to limit or otherwise affect any of the powers of the Tribunal necessary for the proper execution of its mandate as set out in the Constitution and this Act.\nPart IV – HEARINGS AND EVIDENCE 8. Service of notice\n(1) The Tribunal shall serve on each Judge whose conduct is the subject of an investigation, a hearing notice, at least fourteen days before the date of hearing.\n(2) The Counsel assisting the Tribunal shall draw up a list of the allegations against each subject of the investigation, together with a summary of the evidence in support of the allegations and shall serve the document containing the allegations and the summary of the evidence on the Judge who is subject of the investigation, at least fourteen days before the date of hearing.\n9. Hearings to be private\n(1) The hearings shall be held in private save that the Judge whose conduct is the subject of the investigation may choose to have the hearing in public.\n(2) The Tribunal may exclude any person or class of persons from all or any part of the hearing if satisfied that it is desirable so to do for—\n  (a) the preservation of order; or (b) the due conduct of the investigation; or (c) the protection of any witness in the investigation or any person referred to in the course of the investigation or the property or reputation of such witness or person; and\n  (d) may, if satisfied that it is desirable for any of the purposes aforesaid so to do, order that no person shall publish the name, address or photograph of any such witness or person or any evidence or information whereby he would or may be identified from.\n10. Right to be present at hearing and to legal counsel The judge whose conduct is subject of the investigation shall have the right to be present during all of the proceedings that relate to them and shall be entitled to legal representation by counsel.\n11. Assisting counsel to present evidence The counsel assisting the Tribunal will present evidence relating to the conduct of the subject and any matter relevant to the investigation.\n12. Summoning of witnesses\n(1) The Tribunal may, at its sole discretion, summon any person or persons to testify before it on oath or to produce such documents as the Tribunal may require, and the person so summoned shall be obliged to attend and to testify or produce the required documents and the provisions applying to witnesses summoned by ordinary courts of law shall apply to such person.\n(2) A request made under subparagraph (1) shall be in writing and shall be addressed to the Secretary to the Tribunal.\n13. Tribunal not bound by strict rules of evidence The Tribunal shall not be bound by strict rules of evidence but shall be guided by the rules of natural justice and relevancy.\n14. Right to cross-examine witnesses A judge whose conduct is the subject of the investigation shall have the right to cross-examine any or all witnesses during the hearing.\n15. Right to call evidence and personal appearance\n(1) A judge whose conduct is the subject of the investigation shall be entitled to call evidence to rebut allegations made against them.\n(2) The judge duly served may elect not to attend in person or by counsel or at all, in which event the Tribunal shall be entitled to consider the evidence available and make a report and appropriate recommendations.\n16. Tribunal and Counsel assisting Tribunal to cross-examine witnesses\n(1) The Tribunal and Counsel assisting the Tribunal shall be entitled to cross-examine the subject or any of the witnesses called by the judge whose conduct is the subject of investigation.\n(2) The Tribunal shall have the power to recall any such witness.\n17. Form of evidence\n(1) Evidence before the Tribunal may be presented in the form of memorandum, affidavit or other documentation and the Tribunal shall be entitled to receive such documents and to use the contents thereof in forming its opinion.\n(2) A judge whose conduct is the subject of investigations shall be furnished with copies of any documentary evidence and may seek leave to address the Tribunal thereon.\n18. Submissions At the close of the hearing all evidence before the tribunal, Counsel assisting the Tribunal and the judge whose conduct is the subject of investigation or their counsel shall be entitled to make submissions.\n19. Delivery of the decision\n(1) All decisions of the Tribunal shall be in writing and shall contain a concise statement of the investigation, the points for determination, the decision thereon, and the reasons for such decision upon each separate issue.\n(2) The decision of the Tribunal shall be delivered in public on a date fixed for that purpose but not later than fourteen days after conclusion of the proceedings.\n(3) The Secretary shall on delivery of the decision under subparagraph (2) cause the decision of the Tribunal to be published in the Gazette and posted on the Tribunal’s website.\nPart V – GENERAL AND SUPPLEMENTARY 20. Sittings of the Tribunal The Tribunal shall sit on such days, and at such times and venues as it may determine.\n21. Registry hours The Registry shall be open for business from 8:30 am to 4:30 pm but may be open at other times for urgent business at the direction of the Chairperson.\n22. Summonses to be signed by Secretary Summonses issued by the Tribunal shall be endorsed by and bear the signature of the Secretary.\n23. Recording of proceedings The Chairperson shall cause to be taken notes of all proceedings before the Tribunal or may direct that the record of any proceedings before the Tribunal be taken by shorthand notes or tape-recorded or, at the discretion of the Tribunal, electronically recorded.\n24. Practice directions The Chairperson may issue Practice Directions for the just, efficient and economical determination of proceedings under this Schedule, and the Practice Directions so issued shall be special rules of practice and procedure of the Tribunal and shall have the same status as the provisions of this Schedule.\n25. Extension of time The Tribunal may, for sufficient cause shown, extend the time prescribed by this Schedule for doing any act or taking any proceedings upon such terms and conditions, if any, as may appear just and expedient.\n26. Amendment of the schedule The Tribunal may, from time to time, by notice in the Gazette amend the provisions of this Schedule.\n27. General power of the Tribunal\n(1) Subject to the provisions of this Schedule, the Tribunal may regulate its own procedure.\n(2) The Chairperson may issue practice directions in relation to the procedures provided for by this Schedule.\n(3) Nothing in this Schedule shall limit or otherwise affect the inherent power of the Tribunal conferred by Article 168 of the Constitution either on its own motion or on the application of a party to make such orders as may be necessary for the ends of justice or to prevent abuse of the process of the Tribunal."
+  },
+  {
+   "id": "att_3",
+   "title": "THIRD SCHEDULE[s. 32]",
+   "subtitle": "PROVISIONS RELATING TO THE APPOINTMENT, DISCIPLINE AND REMOVAL OF JUDICIAL OFFICERS AND STAFF",
+   "text": "Part I – PRELIMINARY 1. Application This Schedule provides for the appointment, discipline and removal of judicial officers and staff.\n2. Interpretation In this Schedule—\n“official document” means any document or paper prepared by any public officer in the course of their employment or any document or paper which comes into the custody of any public officer in the course of such employment;\n“promotion” means the conferment upon a person in the public service of an office to which is attached a higher salary or higher salary scale than that attached to the office to which he was last substantively appointed;\n“public office” and “public officer” shall have the meanings respectively assigned to them in Article 260 of the Constitution;\n“seniority” means the relative authority of officers and, except as may be otherwise provided by the Commission or in this Schedule, shall be determinable and shall be regarded as having always been determinable as follows—\n  (a) as between officers of the same grade;\n  (i) by reference to the dates on which they respectively entered the grade;\n  (ii) if any officers entered that grade on the same day by reference to their seniority on the day immediately preceding that day;\n  (iii) if any officers who entered the same grade on the same day did so by appointment and not by promotion (excluding promotion from a non-pensionable to a pensionable grade) their seniority relative to each other shall be determinable by reference to their respective age;\n  (b) as between officers of different grades on the same scale or same flat rate of salary, by reference to the dates on which they respectively entered their grades.\n  (c) as between officers of different grades on different salary scales, by reference to the maximum point on their salary scales, a flat rate of salary being regarded for this purpose as a salary scale with a maximum point equivalent to the flat rate:\nProvided that when assessing the seniority of a pensionable officer, service by themselves or any other person in a non-pensionable capacity shall not be taken into account;\n“transfer” means the conferment, whether permanently or otherwise, of some office other than that to which the person concerned was last substantively appointed, not necessarily being a promotion; but the posting or secondment of a public officer between duty posts in the same grade in the public service shall not be regarded for this purpose as a transfer.\nPart II – DECISION OF THE COMMISSION 3. Decision may be made by circulation of papers Decisions may be made by the Commission without a meeting by circulation of the expression of their views in writing, but any member shall be entitled to require that any such decision shall be deferred until the subject matter is considered at a meeting of the Commission.\n4. Dissent by members Any member who dissents from a decision of the Commission shall be entitled to have their dissent and their reasons therefor set out in the records of the Commission.\n5. Record of meetings A record shall be kept of the members present and of the business transacted at every meeting of the Commission.\n6. Commission may require attendance and production of documents\n(1) The Commission may require any public officer to attend and give information before it concerning any matter which it is required to consider in the performance of its functions.\n(2) The Commission may require the production of any official document relevant to any exercise of its functions, and any public officer who submits any matter for the consideration of the Commission shall ensure that all relevant documents and papers are made available to the Commission.\n(3) Any public officer who without reasonable excuse fails to appear before the Commission when notified to do so, or who fails to comply with any request lawfully and properly made by the Commission, shall be guilty of a breach of discipline and the Commission may direct the person responsible for initiating disciplinary proceedings against such public officer that disciplinary proceedings should be instituted against them.\n7. Correspondence All correspondence for the Commission shall be addressed to the Secretary or, in special cases, to the Chairperson.\nPart III – APPOINTMENTS, PROMOTIONS, TRANSFERS, CONFIRMATIONS AND TERMINATIONS 8. Notification of vacancies The Chairperson shall, by administrative directions made in their capacity as Chief Justice, ensure that he is informed of all vacancies which concern the Commission.\n9. Advertisement of vacancies\n(1) Subject to subparagraph (2), applications for appointment to vacancies shall be invited by public advertisement in such manner as the Commission may determine.\n(2) A vacancy need not be advertised where the Commission is satisfied that the vacancy should be filled by the appointment or reappointment of a public officer held against the establishment of the Judicial Service or by the continued employment of a public officer on temporary terms.\n(3) Where, in the opinion of the Commission, it is likely for a suitable public officer to be found in some Ministry or department other than the Judiciary, the Commission may invite applications from serving officers only.\n10. Criteria concerning appointments\n(1) In selecting candidates for appointment, promotion and transfer, the Commission shall have regard to the efficiency of the Judiciary and, in considering public officers for promotion, merit and ability shall be taken into account as well as seniority, experience and official qualifications; and as between public officers’ qualifications, proved merit and suitability for the vacancy in question, shall be given greater weight than seniority.\n(2) When considering candidates for promotion, the Commission shall take into account the gender, regional, ethnic and other diversities of the people of Kenya and as the relative seniority of the candidates.\n11. Probationary appointments The Chairperson shall, by administrative directions made in their capacity as Chief Justice, ensure that he is informed of the impending expiration of a probationary period not less than three months before the expiration of that period.\n12. Further engagement on contract The Chairperson shall, by administrative directions made in their capacity as Chief Justice, ensure that where an officer is serving on contract and is willing to engage for a further term of service, the Chairperson, is informed of that fact as soon as possible before the expiration of the contract.\n13. Retirements on grounds of ill health\n(1) Where it appears to the Chief Justice that an officer is incapable by reason of any infirmity of mind or body or discharging the functions of their office, he may (and shall if the officer so requests) call upon such officer to present themselves before a medical board (which shall be appointed by the Director of Medical Services) with a view to it being ascertained whether or not such officer is capable as aforesaid.\n(2) After the officer has been examined the Director of Medical Services shall forward the medical board’s proceedings, together with the comments thereon, to the Chief Justice who in return shall lay them, and any representations the officer desires to make, before the Commission.\n(3) Unless the Commission considers that further inquiry is necessary, in which case it shall cause such inquiry to be made, it shall decide forthwith whether the officer should be called upon to retire on the grounds of ill health.\n(4) The decision of the Commission shall be notified to the officer and, if he is to be retired on the grounds of ill health, the Pensions Branch of the Treasury shall also be notified.\n14. Special procedure Where the Commission is satisfied that the public interest requires that any matter relating to the appointment, promotion, transfer, secondment or confirmation of an officer be dealt with otherwise than in accordance with the procedure laid down in this Part, it shall take such action or issue such directions with regard to that matter as appears to it to be most appropriate in the circumstances.\nPart IV – DISCIPLINE 15. Delegation of powers\n(1) The following disciplinary powers vested in the Commission are delegated to the Chief Justice—\n  (a) the power to interdict an officer under paragraph 17;\n  (b) the power to suspend an officer under paragraph 18;\n  (c) the power to administer a severe reprimand or a reprimand to an officer.\n(2) The Chief Justice, when exercising the powers delegated by this Schedule, shall act in accordance with the provisions of this Schedule and in accordance with any other appropriate regulation which may be in force.\n16. Interdiction\n(1) If in any case the Chief Justice is satisfied that the public interest requires that an officer should cease forthwith to exercise the powers and functions of their office, the Chief Justice may interdict the officer from the exercise of those powers and functions, provided proceedings which may lead to their dismissal are being taken or are about to be taken or that criminal proceedings are being instituted against them.\n(2) An officer who is interdicted shall receive such salary, not being less than half their salary, as the Commission may by regulations prescribe.\n(3) Where disciplinary or criminal proceedings have been taken or instituted against an officer under interdiction and such officer is neither dismissed nor otherwise punished under this Schedule, the whole of any salary withheld under subparagraph (2) shall be restored to them upon the termination of such proceedings.\n(4) If any punishment other than dismissal is inflicted, the officer may be refunded such proportion of the salary withheld as a result of their interdiction as the Commission shall decide.\n(5) An officer who is under interdiction shall be required to comply with such conditions as may by regulations be prescribed.\n(6) For the purposes of this paragraph and paragraph 18 of this Schedule “salary” means basic salary and, where applicable, includes inducements or overseas allowances.\n17. Suspension\n(1) Where an officer has been convicted of a serious criminal offence, other than such as are referred to in paragraph 28(2), the Chief Justice may suspend the officer from the exercise of the functions of their office pending consideration of their case under this Schedule.\n(2) The Chief Justice may suspend from the exercise of the functions of their officer against whom proceedings for dismissal have been taken if, as a result of those proceedings, he considers that the officer ought to be dismissed.\n(3) While an officer is suspended from the exercise of the functions of their office they shall be granted an alimentary allowance in such amount and on such terms as the Commission may by regulations determine.\n(4) An officer who is suspended shall be required to comply with such conditions as may, by regulations, be prescribed.\n18. Where criminal charge pending\n(1) When a preliminary investigation or disciplinary inquiry discloses that a criminal offence may have been committed by an officer the Chief Justice shall act under either paragraph 26 or paragraph 27, as may be appropriate.\n(2) If criminal proceedings are instituted against an officer, proceedings for their dismissal upon any grounds involved in the criminal charge shall not be taken until the conclusion of the criminal proceedings and the determination of any appeal therefrom:\nProvided that nothing in this paragraph shall be construed as prohibiting or restricting the power of the Chief Justice to interdict or suspend such officer.\n(3) An officer acquitted of a criminal charge shall not be dismissed or otherwise punished on any charge upon which he has been acquitted, but nothing in this paragraph shall prevent their being dismissed or otherwise punished on any other charge arising out of their conduct in the matter, unless the charge raises substantially the same issues as those on which they have been acquitted.\n19. Punishments\n(1) The following are the sanctions which may be inflicted on an officer as a result of disciplinary proceedings under this Part—\n  (a) dismissal;\n  (b) stoppage of increment of pay;\n  (c) withholding of increment;\n  (d) deferment of increment;\n  (e) severe reprimand and reprimand;\n  (f) recovery of the cost or part of the cost of any loss or breakage caused by default or negligence, provided no such cost has been recovered by surcharge action under the appropriate financial instructions or regulations.\n(2) Nothing in this paragraph shall limit the powers conferred by this Schedule to require an officer to retire from the public service on the grounds of public interest.\n(3) No punishment shall be inflicted on any officer which would be contrary to any law for the time being in force.\n20. Reprimand by Chief Justice\n(1) Notwithstanding any other provisions of this Schedule, the Chief Justice may, without reference to the Commission, after investigation and after giving the officer concerned an opportunity for making their defence (which shall be recorded), administer to an officer a severe reprimand or reprimand.\n(2) The Chief Justice shall, when exercising the powers referred to in this paragraph, act in accordance with this Schedule.\n21. Absence from duty without leave Where an officer is absent from duty without leave or reasonable cause for a period exceeding twentyfour hours and the officer cannot be traced within a period of ten days from the commencement of such absence, or if traced no reply to a charge of absence without leave is received from them within ten days after the dispatch of the charge to them, the Commission may summarily dismiss them.\n22. Pension rights and privileges lost on dismissal Subject to any other law, an officer who is dismissed shall forfeit all rights or claims to a pension, gratuity, annual allowance or other retiring award, and any rights or claims he enjoys in regard to leave or passages at the public expense.\n23. Copies of proceedings\n(1) An officer in respect of whom disciplinary proceedings are to be held under this Part shall be entitled to receive a free copy of any documentary evidence relied on for the purpose of the proceedings, or to be allowed access to it.\n(2) The officer may also be given a copy of the evidence (including documents tendered in evidence) after the proceedings are closed, on payment of five shillings per page of each document tendered in evidence:\nProvided that they shall not be entitled to copies of office orders, minutes, reports or recorded reasons for decisions.\n24. Officer to be informed of decision Where proceedings have been taken against an officer, the officer shall be informed of the findings on each charge which has been preferred against them and of the punishment (if any) to be inflicted upon them.\n25. Proceedings for dismissal\n(1) Where the Chief Justice, after such inquiry as they may think fit to make, considers it necessary to institute disciplinary proceedings against an officer on the ground of misconduct which, if proved, would in the Chief Justice‘s opinion, justify dismissal, he shall frame a charge or charges against the officer and shall forward a statement of the said charge or charges to the officer together with a brief statement of the allegations, in so far as they are not clear from the charges themselves, on which each charge is based, and shall invite the officer to state, in writing should he so desire, before a day to be specified, any grounds on which he relies to exculpate themselves.\n(2) If the officer does not furnish a reply to the charge or charges within the period specified, or if in the opinion of the Chief Justice he fails to exculpate themselves, the Chief Justice shall cause copies of the statement of the charge, or charges, and the reply, if any, of the officer to be laid before the Commission, and the Commission shall decide whether the disciplinary proceedings should continue or not.\n(3) If it is decided that the disciplinary proceedings should continue, the Commission shall appoint a Committee or Panel to investigate the matter consisting of at least three persons who shall be persons to whom the Commission may, by virtue of the Constitution, delegate its powers:\nProvided that the Chief Justice shall not be a member of the Committee or Panel, but if puisne judge of the High Court have been designated as members of the Commission under the Constitution, they may be members of the Committee or Panel.\n(4) The Committee or Panel shall give the officer a written notice of not less than fourteen days specifying the day on which they may be required to appear before it to answer to the charges made against them.\n(5) If witnesses are examined by the Committee or Panel, the officer shall be given an opportunity of being present and of putting questions on their own behalf to the witnesses, and no documentary evidence shall be used against the officer unless he has previously been supplied with a copy thereof or given access thereto.\n(6) The Director of Public Prosecutions shall, if requested by the Commission, direct a legally qualified officer from the Office of the Director of Public Prosecutions to present to the Committee or Panel the case against the officer concerned.\n(7) The Committee or Panel shall permit the accused officer to be represented by an advocate.\n(8) If during the course of the investigation, grounds for the framing of additional charges are disclosed, the Chief Justice shall follow the same procedure adopted in framing the original charges.\n(9) The Committee or Panel, having investigated the matter, shall forward its report thereon to the Commission together with the record of the charges framed, the evidence led, the defence and other proceedings relevant to the investigation; and the report of the Committee or Panel shall include—\n  (a) a statement whether in the Committee or Panel’s judgement the charge or charges against the officer have been proved and the reasons therefor;\n  (b) details of any matters which, in the Committee or Panel’s opinion, aggravate or alleviate the gravity of the case; and\n  (c) a summing up and such general comments as will indicate clearly the opinion of the Committee or Panel on the matter being investigated, but the Committee or Panel shall not make any recommendation regarding the form of punishment to be inflicted on the officer.\n(10) The Commission, after consideration of the report of the Committee or Panel, shall, if it is of the opinion that the report should be amplified in any way or that further investigation is desirable, refer the matter back to the Committee or Panel which shall conduct the investigation for a further report.\n(11) The Commission shall consider the report and shall decide on the punishment, if any, which should be inflicted on the officer or whether he should be required to retire in the public interest.\n26. Proceedings for misconduct not warranting dismissal\n(1) Where the Chief Justice, after preliminary investigation, considers it necessary to institute disciplinary proceedings against an officer to whom this paragraph applies but is of the opinion that the misconduct alleged, if proved, would not be serious enough to warrant dismissal, he shall forward to the officer a statement of the charge or charges against them and shall invite the officer to state in writing should he so desire, before a day to be specified, any grounds on which he relies to exculpate themselves.\n(2) If the officer does not furnish a reply within the period specified or does not, in the opinion of the Chief Justice, exculpate themselves, the Chief Justice shall cause copies of the statement of the charge, or charges, and the reply, if any, of the officer to be laid before the Commission.\n(3) If, on consideration of the report, including the grounds, if any, on which the officer relies to exculpate themselves, the Commission is of the opinion that no further investigation is necessary, it shall forthwith decide on the punishment, if any (other than dismissal), which should be inflicted on the officer.\n(4) If the Commission is of the opinion that the matter should be further investigated, it shall request the Chief Justice to cause further investigations to be made.\n(5) Any such investigation shall normally be undertaken by the Registrar or by an officer senior to the officer accused.\n(6) In an investigation under this paragraph an officer to whom this paragraph applies shall be entitled to know the whole case against them and shall be given an adequate opportunity of making their defence.\n(7) The Chief Justice shall bring the result of any such investigation before the Commission, and unless the Commission requests the Chief Justice to make yet further inquiry, the Commission shall decide on the punishment, if any (other than dismissal), which should be inflicted on the officer, or whether he should be required to retire in the public interest.\n(8) Notwithstanding this paragraph, if at any stage during the proceedings taken under it before final submission to the Commission—\n  (a) it appears to the Chief Justice that the offence, if proved, would justify dismissal; or\n  (b) the Chief Justice considers that proceedings for the retirement of the officer on grounds of public interest would be more appropriate, such proceedings shall be discontinued and the procedure in paragraph 26 or paragraph 28, as the case may be, shall be followed.\n(9) Where a reference is made to the Commission under this paragraph, it shall, if it considers that proceedings should be instituted under paragraph 26, direct the Chief Justice accordingly and thereupon the proceedings under this paragraph shall be discontinued.\n27. Retirement on Grounds of public interest\n(1) If the Chief Justice, after having considered every report in their possession made with regard to an officer, is of the opinion that it is desirable in the public interest that the service of such officer should be terminated on grounds which cannot suitably be dealt with under any other provision of this Schedule, he shall notify the officer, in writing, specifying the complaints by reason of which their retirement is contemplated together with the substance of any report or part thereof that is detrimental to the officer.\n(2) If, after giving the officer an opportunity of showing cause why he should not be retired in the public interest, the Chief Justice is satisfied that the officer should be required to retire in the public interest, he shall lay before the Commission a report on the case, the officer’s reply and their own recommendation, and the Commission shall decide whether the officer should be required to retire in the public interest.\n28. Officer convicted of criminal offence\n(1) If an officer is convicted of a criminal offence which in the opinion of the Chief Justice warrants disciplinary proceedings he shall lay a copy of the charge and of the judgment and sentence and of any judgment or order made on appeal or in revision before the Commission, and the Commission shall decide whether the officer should be dismissed or subjected to any of the other punishments mentioned in this Schedule.\n(2) For the purposes of this paragraph, proceedings for minor offences, such as those under the Traffic Act (Cap. 403) and by-laws, may be disregarded, and disciplinary proceedings should normally be confined to proceedings under the Penal Code (Cap. 63) and other Acts where a prison sentence may be imposed other than in default of payment of a fine.\nPart V – GENERAL 29. Services of notices, etc.\nWhere under this Schedule—\n  (a) it is necessary either—\n  (i) to serve any notice, charge or other document upon an officer; or\n  (ii) to communicate any information to any public officer having absented themselves from duty;\n  (b) it is not possible to effect such service upon or communicate such information to such officers personally, it shall be sufficient if such notice, charge or other document, or a letter containing such information, is sent by registered post addressed to their usual or last known place of address or post office box.\n30. Cases not covered by this Schedule Any case not covered by this Schedule shall be dealt with in accordance with such instructions as the Commission may, from time to time, issue."
+  }
+ ]
+}

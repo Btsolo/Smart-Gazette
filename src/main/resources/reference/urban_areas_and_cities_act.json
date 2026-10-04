@@ -1,0 +1,1335 @@
+{
+ "title": "Urban Areas and Cities Act",
+ "citation": "Cap. 275",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2011/13/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-04",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "URBAN AREAS AND CITIES ACT CAP. 275 Published in Kenya Gazette Vol. CXIII—No. 90 on 9 September 2011 Assented to on 27 August 2011 Commenced on 9 March 2013 by Declaration of Persons Elected President and Deputy President\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2012 (Act No. 12 of 2012) on 12 July 2012] [Amended by Public Finance Management Act (Cap. 412A) on 27 August 2012]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2016 (Act No. 7 of 2016) on 10 May 2016] [Amended by Urban Areas and Cities (Amendment) Act, 2019 (Act No. 3 of 2019) on 28 March 2019] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to give effect to Article 184 of the Constitution; to provide for the, classification, governance and management of urban areas and cities; to provide for the criteria of establishing urban areas, to provide for the principle of governance and participation of residents and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "CLASSIFICATION AND ESTABLISHMENT OF URBAN AREAS AND CITIES",
+   "provisions": [
+    "4",
+    "4A",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "10A",
+    "10B",
+    "10C"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "provisions": [
+    "11",
+    "12",
+    "13",
+    "13A",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "31A",
+    "31B"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "DELIVERY OF SERVICES",
+   "provisions": [
+    "32",
+    "33",
+    "34",
+    "35"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "INTEGRATED DEVELOPMENT PLANNING",
+   "provisions": [
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "50",
+    "51",
+    "52",
+    "53"
+   ]
+  },
+  {
+   "id": "part_VIII",
+   "num": "VIII",
+   "title": "TRANSITIONAL PROVISIONS",
+   "provisions": [
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) This Act may be cited as the Urban Areas and Cities Act. (2) Spent. (3) Spent.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "This Act may be cited as the Urban Areas and Cities Act. (2) Spent. (3) Spent."
+    }
+   ]
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In this Act, unless the context otherwise requires— \"board\" means the board of a city or municipality constituted in accordance with sections 13 and 14 of this Act; \"Cabinet Secretary\" means the Cabinet Secretary responsible for matters relating to urban areas and cities; \"capital city\" means a city conferred with the status of a capital city under this Act; \"city\" means and area conferred with the status of a city under section 8 of this Act; \"city county\" means a county which is also a city under this Act; \"Citizen Fora\" means a forum for citizens organised for purposes of participating in the affairs of an urban area or a city under this Act; \"neighbourhood association\" means a registered cluster of residents groupings actively representing the interests of a recognised constituency of urban citizens within the defined urban jurisdiction; \"resident population\" means the core urban and peri-urban population of an urban area or city according to the final gazetted results of the last population census carried out by an institution authorized under any written law, preceding the application for grant of any status; \"transition period\" means the period between the commencement of this Act and three years after the first general elections; and\n\"urban area\" means a municipality, a town or a market centre. (2) Spent.\n[Act No. 3 of 2019, s. 2.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, unless the context otherwise requires— \"board\" means the board of a city or municipality constituted in accordance with sections 13 and 14 of this Act; \"Cabinet Secretary\" means the Cabinet Secretary responsible for matters relating to urban areas and cities; \"capital city\" means a city conferred with the status of a capital city under this Act; \"city\" means and area conferred with the status of a city under section 8 of this Act; \"city county\" means a county which is also a city under this Act; \"Citizen Fora\" means a forum for citizens organised for purposes of participating in the affairs of an urban area or a city under this Act; \"neighbourhood association\" means a registered cluster of residents groupings actively representing the interests of a recognised constituency of urban citizens within the defined urban jurisdiction; \"resident population\" means the core urban and peri-urban population of an urban area or city according to the final gazetted results of the last population census carried out by an institution authorized under any written law, preceding the application for grant of any status; \"transition period\" means the period between the commencement of this Act and three years after the first general elections; and"
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Objects and purposes of the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) The objects and purposes of this Act are to establish a legislative framework for—\n  (a) classification of areas as urban areas or cities;\n  (b) governance and management of urban areas and cities;\n  (c) participation by the residents in the governance of urban areas and cities; and (d) other matters for the attainment of the objects provided for in paragraphs (a) to (c).\n(2) In implementing this Act, county governments shall comply with the National Urban Development Policy. [Act No. 3 of 2019, s. 3.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The objects and purposes of this Act are to establish a legislative framework for— (a) classification of areas as urban areas or cities; (b) governance and management of urban areas and cities; (c) participation by the residents in the governance of urban areas and cities; and (d) other matters for the attainment of the objects provided for in paragraphs (a) to (c)."
+    },
+    {
+     "ref": "(2)",
+     "text": "In implementing this Act, county governments shall comply with the National Urban Development Policy. [Act No. 3 of 2019, s. 3.]"
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "General classification of urban areas and cities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "CLASSIFICATION AND ESTABLISHMENT OF URBAN AREAS AND CITIES",
+   "text": "An area may be classified as an urban area or city if it satisfies the criteria set out under this Act or any other written law.",
+   "clauses": []
+  },
+  "4A": {
+   "num": "4A",
+   "title": "Boundaries of urban areas and cities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "CLASSIFICATION AND ESTABLISHMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) Delineation of the boundaries of urban areas or cities may be initiated by the Cabinet Secretary or by the relevant county government making a written request to the Cabinet Secretary to appoint the ad hoc committee in the manner provided under subsection (2).\n(2) The Cabinet Secretary shall, on receipt of a request under subsection (1) or on considering it necessary, appoint by notice in the Kenya Gazette an ad hoc committee to delineate the boundaries of an urban area or a city.\n(3) The ad hoc committee appointed by the Cabinet Secretary under subsection (2) shall comprise—\n  (a) a representative of the Independent Electoral and Boundaries Commission, who shall be the Chairperson;\n  (b) three representatives from the national government drawn from—\n  (i) the Ministry for the time being responsible for urban development;\n  (ii) the Ministry for the time being responsible for environment;\n  (iii) the Ministry for the time being responsible for agriculture;\n  (c) three representatives from the county government drawn from—\n  (i) the Department for the time being responsible for urban development;\n  (ii) the Department for the time being responsible for environment;\n  (iii) the Department for the time being responsible for agriculture; and (d) two representatives from the following professional associations—\n  (i) Institute of Surveyors of Kenya; and\n  (ii) Kenya Institute of Planners.\n(4) Where an ad hoc committee is to be appointed under sub section (2)—\n  (a) the governor shall nominate the three representatives referred to under subsection (3)(c) for appointment by the Cabinet Secretary; and\n  (b) each of the relevant professional associations shall nominate its representative referred to under subsection (3)(d) for appointment by the Cabinet Secretary.\n(5) The representative from the national government drawn from the Ministry for the time being responsible for urban development appointed under subsection (3)(b)(i) shall serve as the secretary to the ad hoc committee.\n(6) Where the boundaries of an urban area extend to more than one county, membership of the ad hoc committee shall include representatives of the relevant counties and the proposal for delineation of the boundaries shall be handled by the Council of Governors.\n[Act No. 3 of 2019, s. 4.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Delineation of the boundaries of urban areas or cities may be initiated by the Cabinet Secretary or by the relevant county government making a written request to the Cabinet Secretary to appoint the ad hoc committee in the manner provided under subsection (2)."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary shall, on receipt of a request under subsection (1) or on considering it necessary, appoint by notice in the Kenya Gazette an ad hoc committee to delineate the boundaries of an urban area or a city."
+    },
+    {
+     "ref": "(3)",
+     "text": "The ad hoc committee appointed by the Cabinet Secretary under subsection (2) shall comprise— (a) a representative of the Independent Electoral and Boundaries Commission, who shall be the Chairperson; (b) three representatives from the national government drawn from— (i) the Ministry for the time being responsible for urban development; (ii) the Ministry for the time being responsible for environment; (iii) the Ministry for the time being responsible for agriculture; (c) three representatives from the county government drawn from— (i) the Department for the time being responsible for urban development; (ii) the Department for the time being responsible for environment; (iii) the Department for the time being responsible for agriculture; and (d) two representatives from the following professional associations— (i) Institute of Surveyors of Kenya; and"
+    },
+    {
+     "ref": "(4)",
+     "text": "Where an ad hoc committee is to be appointed under sub section (2)—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The representative from the national government drawn from the Ministry for the time being responsible for urban development appointed under subsection (3)(b)(i) shall serve as the secretary to the ad hoc committee."
+    },
+    {
+     "ref": "(6)",
+     "text": "Where the boundaries of an urban area extend to more than one county, membership of the ad hoc committee shall include representatives of the relevant counties and the proposal for delineation of the boundaries shall be handled by the Council of Governors."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Criteria for classifying an area as city",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "CLASSIFICATION AND ESTABLISHMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) Subject to subsection (3), an urban area may be classified as a city under this Act if the urban area satisfies the following criteria—\n  (a) has a population of at least two hundred and fifty thousand residents according to the final gazetted results of the last population census carried out by an institution authorized under any written law, preceding the application for grant of city status;\n  (b) has an integrated urban area or city development plan in accordance with this Act and other existing laws;\n  (c) has demonstrable capacity to generate sufficient revenue to sustain its operation;\n  (d) has demonstrable good system and records of prudent management;\n  (e) has the capacity to effectively and efficiently deliver its services to its residents and has in existence, the services provided in the First Schedule;\n  (f) has institutionalised active participation by its residents in the management of its affairs;\n  (g) has infrastructural facilities, including but not limited to roads, street lighting, markets and fire stations, and an adequate capacity for disaster management; and\n  (h) has a capacity for functional and effective waste disposal.\n(2) Nothing in this section may preclude an area from being conferred with the status of special purpose city under this Act if it has significant cultural, economic or political importance.\n[Act No. 12 of 2012, Sch., Act No. 7 of 2016, Sch., Act No. 3 of 2019, s. 5.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (3), an urban area may be classified as a city under this Act if the urban area satisfies the following criteria—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Nothing in this section may preclude an area from being conferred with the status of special purpose city under this Act if it has significant cultural, economic or political importance."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Management and infrastructure in the capital city",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "CLASSIFICATION AND ESTABLISHMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) The capital city of Kenya is Nairobi.\n(2) The capital city shall be governed and managed in the same manner as a county government.\n(3) The capital city shall provide infrastructure necessary to sustain the following—\n  (a) the seat of the national government;\n  (b) offices of diplomatic missions;\n  (c) efficient transport network connecting to rural areas, towns and other local, regional and international cities; and\n  (d) commerce and industry. (4) The capital city shall decentralise its functions and the provisions of its services to the extent that it is efficient and practicable to do so. (5) Subject to subsection (2), the two levels of government shall enter into an agreement regarding the performance of functions and delivery of services by the capital city. (6) An agreement entered into under subsection (5) may provide for—\n  (a) the administrative structure of the capital city, subject to the provisions of this Act;\n  (b) funding of operations and activities of the capital city;\n  (c) the joint projects to be undertaken by both governments in the capital city;\n  (d) dispute resolution mechanisms; and (e) such other information as the two levels of government may determine.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The capital city of Kenya is Nairobi."
+    },
+    {
+     "ref": "(2)",
+     "text": "The capital city shall be governed and managed in the same manner as a county government."
+    },
+    {
+     "ref": "(3)",
+     "text": "The capital city shall provide infrastructure necessary to sustain the following—"
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Conferment of city status",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "CLASSIFICATION AND ESTABLISHMENT OF URBAN AREAS AND CITIES",
+   "text": "The President may, on the resolution of the Senate, confer the status of a city on a municipality that meets the criteria set out in section 5, by grant of a charter in the prescribed form.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Application for conferment of city status",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "CLASSIFICATION AND ESTABLISHMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) The board of a municipality may, upon a resolution, apply to the county executive committee for consideration for the conferment of city status.\n(2) Where the executive committee approves the application, the county governor shall constitute an ad hoc committee to consider the recommendation and advise as appropriate.\n(3) The ad hoc committee shall comprise of relevant professionals in good standing nominated by the following institutions taking account of regional, ethnic and gender diversity and representation of persons with disability—\n  (a) the Institution of Surveyors of Kenya;\n  (b) the Kenya Institute of Planners;\n  (c) the Architectural Association of Kenya;\n  (d) the Law Society of Kenya;\n  (e) an association of urban areas and cities;\n  (f) the Institute of Certified Public Accountants of Kenya; and (g) the business community.\n(4) Where the ad hoc committee under subsection (2) determines that the municipality under review meets the requisite criteria for classification as a city, the county governor shall transmit the recommendation to the county assembly for approval.\n(5) Where the county assembly approves the recommendation for conferment of city status to a municipality under this section, the clerk of the county assembly shall transmit the resolution to the senate for consideration.\n(6) Where the senate approves the recommendation, the clerk of the senate shall forward the resolution to the President for conferment of city status on the municipality.\n[Act No. 12 of 2012, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The board of a municipality may, upon a resolution, apply to the county executive committee for consideration for the conferment of city status."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the executive committee approves the application, the county governor shall constitute an ad hoc committee to consider the recommendation and advise as appropriate."
+    },
+    {
+     "ref": "(3)",
+     "text": "The ad hoc committee shall comprise of relevant professionals in good standing nominated by the following institutions taking account of regional, ethnic and gender diversity and representation of persons with disability— (a) the Institution of Surveyors of Kenya; (b) the Kenya Institute of Planners; (c) the Architectural Association of Kenya; (d) the Law Society of Kenya; (e) an association of urban areas and cities; (f) the Institute of Certified Public Accountants of Kenya; and (g) the business community."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where the ad hoc committee under subsection (2) determines that the municipality under review meets the requisite criteria for classification as a city, the county governor shall transmit the recommendation to the county assembly for approval."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where the county assembly approves the recommendation for conferment of city status to a municipality under this section, the clerk of the county assembly shall transmit the resolution to the senate for consideration."
+    },
+    {
+     "ref": "(6)",
+     "text": "Where the senate approves the recommendation, the clerk of the senate shall forward the resolution to the President for conferment of city status on the municipality."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Conferment of municipal status",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "CLASSIFICATION AND ESTABLISHMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) The county governor may, on the resolution of the county assembly, confer the status of a municipality on a town that meets the criteria set out in subsection (3), by grant of a charter in the prescribed form.\n(2) The procedure set out under section 8(1) to (4) shall apply with necessary modifications to the conferment of municipal status to a town, except that the conferment shall be done by the county governor.\n(3) A town is eligible for the conferment of municipal status under this Act if the town satisfies the following criteria—\n  (a) has a population of at least between seventy thousand and two hundred and forty-nine thousand residents according to the final gazetted results of the last population census carried out by an institution authorized under any written law, preceding the grant;\n  (b) has an integrated development plan in accordance with this Act;\n  (c) has demonstrable revenue collection or revenue collection potential;\n  (d) has demonstrable capacity to generate sufficient revenue to sustain its operations;\n  (e) has the capacity to effectively and efficiently deliver essential services to its residents as provided in the First Schedule;\n  (f) has institutionalised active participation by its residents in the management of its affairs;\n  (g) has sufficient space for expansion;\n  (h) has infrastructural facilities, including but not limited to street lighting, markets and fire stations; and\n  (i) has a capacity for functional and effective waste disposal.\n(4) Notwithstanding the provisions of subsection (1), the county governor shall confer the status of a special municipality to the headquarters of the county even where it does not meet the threshold specified under subsection (3)(a).\n[Act No. 7 of 2016, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The county governor may, on the resolution of the county assembly, confer the status of a municipality on a town that meets the criteria set out in subsection (3), by grant of a charter in the prescribed form."
+    },
+    {
+     "ref": "(2)",
+     "text": "The procedure set out under section 8(1) to (4) shall apply with necessary modifications to the conferment of municipal status to a town, except that the conferment shall be done by the county governor."
+    },
+    {
+     "ref": "(3)",
+     "text": "A town is eligible for the conferment of municipal status under this Act if the town satisfies the following criteria—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Notwithstanding the provisions of subsection (1), the county governor shall confer the status of a special municipality to the headquarters of the county even where it does not meet the threshold specified under subsection (3)(a)."
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Eligibility for grant of a town status",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "CLASSIFICATION AND ESTABLISHMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) The county governor may, in consultation with the committee constituted under section 8(2), confer the status of a town on an area that meets the criteria set out in subsection (2).\n(2) An area shall be eligible for the grant of the status of a town under this Act if it has—\n  (a) a population of at least two thousand residents according to the final gazetted results of the latest population census carried out by an institution authorized under any written law, preceding the grant;\n  (b) demonstrable economic, functional and financial viability;\n  (c) the existence of an integrated development plan in accordance with this Act;\n  (d) has the capacity to effectively and efficiently deliver its services to its residents and has in existence, the services provided in the First Schedule;\n  (e) sufficient space for expansion. [Act No. 7 of 2016, Sch., Act No. 3 of 2019, s. 6.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The county governor may, in consultation with the committee constituted under section 8(2), confer the status of a town on an area that meets the criteria set out in subsection (2)."
+    },
+    {
+     "ref": "(2)",
+     "text": "An area shall be eligible for the grant of the status of a town under this Act if it has—"
+    }
+   ]
+  },
+  "10A": {
+   "num": "10A",
+   "title": "Eligibility for grant of the status of market centre",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "CLASSIFICATION AND ESTABLISHMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) The county governor may, upon approval of the county assembly, confer the status of a market centre on an area that meets the criteria set out in subsection (2).\n(2) An area shall be eligible for the grant of the status of a market centre under this Act if it has—\n  (a) a resident population of at least two thousand residents; and (b) an integrated urban area development plan in accordance with this Act and any other existing law. [Act No. 3 of 2019, s. 7.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The county governor may, upon approval of the county assembly, confer the status of a market centre on an area that meets the criteria set out in subsection (2)."
+    },
+    {
+     "ref": "(2)",
+     "text": "An area shall be eligible for the grant of the status of a market centre under this Act if it has— (a) a resident population of at least two thousand residents; and (b) an integrated urban area development plan in accordance with this Act and any other existing law. [Act No. 3 of 2019, s. 7.]"
+    }
+   ]
+  },
+  "10B": {
+   "num": "10B",
+   "title": "Delineation of boundaries of a market",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "CLASSIFICATION AND ESTABLISHMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) Delineation of the boundaries of a market may be initiated by a county governor. (2) The county governor shall, for the purpose of subsection (1), appoint by notice in the county Gazette an ad hoc committee to delineate the boundaries of a market. (3) The ad hoc committee appointed by the county governor under subsection (2) shall comprise—\n  (a) a representative of the Independent Electoral and Boundaries Commission based at the county office, who shall be the Chairperson;\n  (b) two representatives from the county government drawn from—\n  (i) the county department for the time being responsible for urban development who shall be the secretary;\n  (ii) the county department for the time being responsible for environment;\n  (c) a representative of the national government based at the county office;\n  (d) two representatives from the following professional associations in the county—\n  (i) Institute of Surveyors of Kenya; and (ii) Kenya Institute of Planners. (4) Each professional association shall nominate its representative referred to under subsection (3)(d) for appointment by the county governor. (5) Where the boundaries of a market extend to more than one county, the membership of the ad hoc committee shall include representatives of the relevant counties and the proposal for delineation of the boundaries shall be handled by the Council of Governors.\n[Act No. 3 of 2019, s. 7.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Delineation of the boundaries of a market may be initiated by a county governor. (2) The county governor shall, for the purpose of subsection (1), appoint by notice in the county Gazette an ad hoc committee to delineate the boundaries of a market. (3) The ad hoc committee appointed by the county governor under subsection (2) shall comprise—"
+    }
+   ]
+  },
+  "10C": {
+   "num": "10C",
+   "title": "Management of a market centre",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "CLASSIFICATION AND ESTABLISHMENT OF URBAN AREAS AND CITIES",
+   "text": "A market centre shall be governed and managed by the county government. [Act No. 3 of 2019, s. 7.]",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Principles of governance and management",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "The governance and management of urban areas and cities shall be based on the following principles—\n  (a) recognition and respect for the constitutional status of county governments;\n  (b) recognition of the principal and agency relationship between the boards of urban areas and cities and their respective county governments including—\n  (i) the carrying out by a board of such functions as may be delegated by the county government;\n  (ii) financial accountability to the county government; and (iii) the governance by each board for and on behalf of the county government;\n  (c) promotion of accountability to the county government and residents of the urban area or city;\n  (d) institutionalised active participation by its residents in the management of the urban area and city affairs;\n  (e) efficient and effective service delivery; and (f) clear assignment of functions.",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Structures and management of cities, municipalities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) The management of a city and municipality shall be vested in the county government and administered on its behalf by—\n  (a) a board constituted in accordance with section 13 or 14 of this Act;\n  (b) a manager appointed pursuant to section 28; and (c) such other staff or officers as a the county public service may determine.\n(2) The board of an area granted the status of a city or municipality under this Act shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property;\n  (c) borrowing money or making investments;\n  (d) entering into contracts; and (e) doing or performing all other acts or things for the proper performance of its functions in accordance with this Act or any other written law which may lawfully be done or performed by a body corporate.\n(3) The governance and management of a city county shall be in accordance with the law relating to county governments. [Act No. 3 of 2019, s. 8.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The management of a city and municipality shall be vested in the county government and administered on its behalf by— (a) a board constituted in accordance with section 13 or 14 of this Act; (b) a manager appointed pursuant to section 28; and (c) such other staff or officers as a the county public service may determine."
+    },
+    {
+     "ref": "(2)",
+     "text": "The board of an area granted the status of a city or municipality under this Act shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of— (a) suing and being sued; (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property; (c) borrowing money or making investments; (d) entering into contracts; and (e) doing or performing all other acts or things for the proper performance of its functions in accordance with this Act or any other written law which may lawfully be done or performed by a body corporate."
+    },
+    {
+     "ref": "(3)",
+     "text": "The governance and management of a city county shall be in accordance with the law relating to county governments. [Act No. 3 of 2019, s. 8.]"
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Boards of cities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) A board of a city shall consist of not more than eleven members, six of whom shall be appointed through a competitive process by the county governor, with the approval of the county assembly.\n(1A) The members of the Board of a city appointed under subsection (1) shall be constituted as follows—\n  (a) the county executive member for the time being responsible for cities and urban areas or his representative;\n  (b) six members who shall be competitively appointed by the county governor, with the approval of the county assembly;\n  (c) four members who shall be nominated by the organization specified under subsection (2) and appointed by the county governor, with the approval of the county assembly;\n  (d) the Secretary appointed under section 13A, who shall be an ex officio member of the Board.\n(2) The four members of the board of a city specified under subsection (1) (c), shall be nominated by—\n  (a) an umbrella body representing professional associations in the area;\n  (b) an association representing the private sector in the area;\n  (c) a cluster representing registered associations of the informal sector in the area; and (d) a cluster representing registered neighbourhood associations in the area.\n(3) The executive committee shall, while appointing members of the board, ensure gender equity, representation of persons with disability, youth and marginalised groups.\n(4) The county governor shall, while considering the nominated members identified by the organizations specified under section 13 (2), require the organizations to produce—\n  (a) signed minutes as evidence of an accountable process of nomination;\n  (b) evidence of compliance with statutory obligations;\n  (c) vetting form to establish that the nominee has complied with the prescribed criteria for appointment as a member of the board.\n(5) A person shall be qualified for appointment as a Chairperson of the board if that person—\n  (a) holds a bachelor's degree from an institution recognized in Kenya;\n  (b) has a distinguished career in a medium level management position in either the private or public sector;\n  (c) holds at least ten years' post-qualification professional experience; and (d) satisfies the requirements of Chapter Six of the Constitution.\n(6) A person shall be qualified for appointment as a member of the board if that person—\n  (a) holds a bachelor's degree from an institution recognized in Kenya;\n  (b) has a distinguished career in a medium level management position in either the private or public sector;\n  (c) holds at least seven years' post-qualification professional experience; and (d) satisfies the requirements of Chapter Six of the Constitution.\n(7) A person shall not be appointed a member of the Board if that person—\n  (a) is an undischarged bankrupt;\n  (b) has been removed from office for contravening the Constitution or any other law;\n  (c) is not a citizen of Kenya; or\n  (d) has, in the conduct of his or her, affairs not met any statutory obligation. [Act No. 3 of 2019, s. 9.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A board of a city shall consist of not more than eleven members, six of whom shall be appointed through a competitive process by the county governor, with the approval of the county assembly."
+    },
+    {
+     "ref": "(1A)",
+     "text": "The members of the Board of a city appointed under subsection (1) shall be constituted as follows— (a) the county executive member for the time being responsible for cities and urban areas or his representative; (b) six members who shall be competitively appointed by the county governor, with the approval of the county assembly; (c) four members who shall be nominated by the organization specified under subsection (2) and appointed by the county governor, with the approval of the county assembly; (d) the Secretary appointed under section 13A, who shall be an ex officio member of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "The four members of the board of a city specified under subsection (1) (c), shall be nominated by— (a) an umbrella body representing professional associations in the area; (b) an association representing the private sector in the area; (c) a cluster representing registered associations of the informal sector in the area; and (d) a cluster representing registered neighbourhood associations in the area."
+    },
+    {
+     "ref": "(3)",
+     "text": "The executive committee shall, while appointing members of the board, ensure gender equity, representation of persons with disability, youth and marginalised groups."
+    },
+    {
+     "ref": "(4)",
+     "text": "The county governor shall, while considering the nominated members identified by the organizations specified under section 13 (2), require the organizations to produce— (a) signed minutes as evidence of an accountable process of nomination; (b) evidence of compliance with statutory obligations; (c) vetting form to establish that the nominee has complied with the prescribed criteria for appointment as a member of the board."
+    },
+    {
+     "ref": "(5)",
+     "text": "A person shall be qualified for appointment as a Chairperson of the board if that person— (a) holds a bachelor's degree from an institution recognized in Kenya; (b) has a distinguished career in a medium level management position in either the private or public sector; (c) holds at least ten years' post-qualification professional experience; and (d) satisfies the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(6)",
+     "text": "A person shall be qualified for appointment as a member of the board if that person— (a) holds a bachelor's degree from an institution recognized in Kenya; (b) has a distinguished career in a medium level management position in either the private or public sector; (c) holds at least seven years' post-qualification professional experience; and (d) satisfies the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(7)",
+     "text": "A person shall not be appointed a member of the Board if that person— (a) is an undischarged bankrupt; (b) has been removed from office for contravening the Constitution or any other law; (c) is not a citizen of Kenya; or"
+    }
+   ]
+  },
+  "13A": {
+   "num": "13A",
+   "title": "Appointment of Secretary of the Board of a city",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) The county public service board shall, through a competitive process appoint a Secretary to the board on such terms and conditions as the county public service board, in consultation with the city or municipal board, shall determine.\n(2) A person is qualified to be appointed as the Secretary of the board, if that person—\n  (a) has a degree from an institution recognised in Kenya;\n  (b) has at least four years' experience in management; and (c) satisfies the requirements of Chapter Six of the Constitution.\n(3) The Secretary shall be—\n  (a) responsible for the day to day management of the affairs of the board; and (b) perform such other duties as may be assigned by the board.\n(4) The Secretary shall hold office for a term of five years. (5) The provisions of section 16 relating to grounds for vacation of office shall, with necessary modifications, apply to the Secretary of the board appointed under this section. [Act No. 3 of 2019, s. 10.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The county public service board shall, through a competitive process appoint a Secretary to the board on such terms and conditions as the county public service board, in consultation with the city or municipal board, shall determine."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person is qualified to be appointed as the Secretary of the board, if that person— (a) has a degree from an institution recognised in Kenya; (b) has at least four years' experience in management; and (c) satisfies the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Secretary shall be— (a) responsible for the day to day management of the affairs of the board; and (b) perform such other duties as may be assigned by the board."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Secretary shall hold office for a term of five years. (5) The provisions of section 16 relating to grounds for vacation of office shall, with necessary modifications, apply to the Secretary of the board appointed under this section. [Act No. 3 of 2019, s. 10.]"
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Boards of municipalities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) A board of a municipality shall consist of nine members appointed by the county governor with the approval of the county assembly.\n(2) The members of the board appointed under subsection (1) shall be constituted as follows—\n  (a) the county executive member for the time being responsible for cities and urban areas or his representative;\n  (b) three members who shall be appointed by the county governor, with the approval of the county assembly;\n  (c) four members who shall be nominated by an association and appointed by the county governor, with the approval of the county assembly;\n  (d) the chief officer responsible for urban development; and (e) the municipal manager appointed under section 28 who shall be the secretary of the board and an ex officio member of the board.\n(3) The four members of the board of a municipality specified under subsection (2)(c), shall be nominated by—\n  (a) an umbrella body representing professional associations in the area;\n  (b) an association representing the private sector in the area;\n  (c) a cluster representing registered associations of the informal sector in the area; and (d) a cluster representing registered neighbourhood associations in the area.\n(4) The county governor shall, while appointing the members of the board, ensure gender equity, representation of persons with disability, youth and marginalised groups.\n(5) The county governor shall while considering the nominated members identified by the organizations specified under subsection (2), require the organizations to produce—\n  (a) signed minutes as evidence of an accountable process of nomination;\n  (b) evidence of compliance with statutory obligations; and (c) vetting form to establish that the nominee has complied with the prescribed criteria for appointment as a member of the board.\n(6) A person shall be qualified for appointment as a Chairperson of the board if that person—\n  (a) holds at least a degree from an institution recognized in Kenya;\n  (b) has a distinguished career in a medium level management position in either the private or public sector;\n  (c) holds at least ten years' post-qualification professional experience;\n  (d) satisfies the requirements of Chapter Six of the Constitution;\n  (e) is ordinarily resident or has a permanent dwelling in the municipality; and (f) carries on business in the municipality or has lived in the municipality for at least five years.\n(7) A person shall be qualified for appointment as a member of the board if that person—\n  (a) holds at least a diploma from an institution recognized in Kenya;\n  (b) has a distinguished career in a medium level management position in either the private or public sector;\n  (c) holds at least five years' post-qualification professional experience; and (d) satisfies the requirements of Chapter Six of the Constitution;\n  (e) is ordinarily resident or has a permanent dwelling in the municipality; and (f) carries on business in the municipality or has lived in the municipality for at least five years.\n(8) A person shall not be appointed as a member of the Board if that person—\n  (a) is an undischarged bankrupt;\n  (b) has been removed from office for contravening the Constitution or any other law;\n  (c) is not a citizen of Kenya; or (d) has in the conduct of his or her affairs not met any statutory obligations. [Act No. 3 of 2019, s. 11.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A board of a municipality shall consist of nine members appointed by the county governor with the approval of the county assembly."
+    },
+    {
+     "ref": "(2)",
+     "text": "The members of the board appointed under subsection (1) shall be constituted as follows— (a) the county executive member for the time being responsible for cities and urban areas or his representative; (b) three members who shall be appointed by the county governor, with the approval of the county assembly; (c) four members who shall be nominated by an association and appointed by the county governor, with the approval of the county assembly; (d) the chief officer responsible for urban development; and (e) the municipal manager appointed under section 28 who shall be the secretary of the board and an ex officio member of the board."
+    },
+    {
+     "ref": "(3)",
+     "text": "The four members of the board of a municipality specified under subsection (2)(c), shall be nominated by— (a) an umbrella body representing professional associations in the area; (b) an association representing the private sector in the area; (c) a cluster representing registered associations of the informal sector in the area; and (d) a cluster representing registered neighbourhood associations in the area."
+    },
+    {
+     "ref": "(4)",
+     "text": "The county governor shall, while appointing the members of the board, ensure gender equity, representation of persons with disability, youth and marginalised groups."
+    },
+    {
+     "ref": "(5)",
+     "text": "The county governor shall while considering the nominated members identified by the organizations specified under subsection (2), require the organizations to produce— (a) signed minutes as evidence of an accountable process of nomination; (b) evidence of compliance with statutory obligations; and (c) vetting form to establish that the nominee has complied with the prescribed criteria for appointment as a member of the board."
+    },
+    {
+     "ref": "(6)",
+     "text": "A person shall be qualified for appointment as a Chairperson of the board if that person— (a) holds at least a degree from an institution recognized in Kenya; (b) has a distinguished career in a medium level management position in either the private or public sector; (c) holds at least ten years' post-qualification professional experience; (d) satisfies the requirements of Chapter Six of the Constitution; (e) is ordinarily resident or has a permanent dwelling in the municipality; and (f) carries on business in the municipality or has lived in the municipality for at least five years."
+    },
+    {
+     "ref": "(7)",
+     "text": "A person shall be qualified for appointment as a member of the board if that person— (a) holds at least a diploma from an institution recognized in Kenya; (b) has a distinguished career in a medium level management position in either the private or public sector; (c) holds at least five years' post-qualification professional experience; and (d) satisfies the requirements of Chapter Six of the Constitution; (e) is ordinarily resident or has a permanent dwelling in the municipality; and (f) carries on business in the municipality or has lived in the municipality for at least five years."
+    },
+    {
+     "ref": "(8)",
+     "text": "A person shall not be appointed as a member of the Board if that person— (a) is an undischarged bankrupt; (b) has been removed from office for contravening the Constitution or any other law; (c) is not a citizen of Kenya; or (d) has in the conduct of his or her affairs not met any statutory obligations. [Act No. 3 of 2019, s. 11.]"
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Term of office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "A member of a board shall hold office for a term of five years, on a part-time basis.",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "Vacation of office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "A member of a board shall cease to hold office if the member—\n  (a) is unable to perform the functions of the office by reason of mental or physical infirmity;\n  (b) is declared or becomes bankrupt or insolvent;\n  (c) is convicted of a criminal offence and sentenced to a term of imprisonment of six months or more;\n  (d) resigns in writing to the county governor;\n  (e) without reasonable cause, the member is absent from three consecutive meetings of the board or committee within one financial year;\n  (f) is found guilty of professional misconduct by the relevant professional body;\n  (g) is disqualified from holding a public office under the Constitution;\n  (h) is convicted of an offence and is sentenced to imprisonment for a term of six months or more;\n  (i) in any particular case, the member fails to declare his or her interest in any matter being considered or to be considered by the board or committee;\n  (j) engages in any gross misconduct; or (k) dies.\n[Act No. 12 of 2012, Sch.]",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "Chairperson and vice-chairperson of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) Subject to subsection (2), there shall be a Chairperson and vice-chairperson for each board. (2) The Chairperson and the vice-chairperson shall be elected by the members of the board from among themselves during the first meeting of the board, and subsequently whenever a vacancy arises and shall be of opposite gender. (3) The Chairperson and vice-chairperson shall hold office for a term of five years. (4) The Chairperson shall—\n  (a) except in the case of a city county, be the head of the board;\n  (b) chair meetings of the board;\n  (c) perform such duties as may be delegated by the board. (5) The vice Chairperson shall, in the absence of the Chairperson, perform the functions of Chairperson and shall perform such other functions as may be delegated by the Chairperson or the board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2), there shall be a Chairperson and vice-chairperson for each board. (2) The Chairperson and the vice-chairperson shall be elected by the members of the board from among themselves during the first meeting of the board, and subsequently whenever a vacancy arises and shall be of opposite gender. (3) The Chairperson and vice-chairperson shall hold office for a term of five years. (4) The Chairperson shall—"
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Removal from office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) A person may be removed from the office of Chairperson, vice-chairperson or a member of the board on any of the grounds provided under section 16(a), (b), (c), (e), (f), (g), (h), (i) and (j).\n(2) A person may be removed under subsection (1)—\n  (a) by the county governor;\n  (b) by the board, supported by the vote of at least two-thirds of the members of the board; or (c) upon petition by the residents of a city or municipality.\n(3) A resident of a city or municipality may file a writing petition with a board for the removal of a Chairperson or vice-chairperson.\n(4) The procedure for the removal or petition for removal of a Chairperson or vice-chairperson under subsections (1) and (2) shall be provided by regulations.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person may be removed from the office of Chairperson, vice-chairperson or a member of the board on any of the grounds provided under section 16(a), (b), (c), (e), (f), (g), (h), (i) and (j)."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person may be removed under subsection (1)— (a) by the county governor; (b) by the board, supported by the vote of at least two-thirds of the members of the board; or (c) upon petition by the residents of a city or municipality."
+    },
+    {
+     "ref": "(3)",
+     "text": "A resident of a city or municipality may file a writing petition with a board for the removal of a Chairperson or vice-chairperson."
+    },
+    {
+     "ref": "(4)",
+     "text": "The procedure for the removal or petition for removal of a Chairperson or vice-chairperson under subsections (1) and (2) shall be provided by regulations."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Filling of vacancy",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "A vacancy in the office of a Chairperson, vice-chairperson or a member of the board shall, with necessary modification, be filled in accordance with section 13 or 17 of this Act as the case may be.",
+   "clauses": []
+  },
+  "20": {
+   "num": "20",
+   "title": "Governance and management functions of a board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) Subject to the provisions of this Act a board of a city or municipality shall—\n  (a) oversee the affairs of the city or municipality;\n  (b) develop and adopt policies, plans, strategies and programmes, and may set targets for delivery of services;\n  (c) formulate and implement an integrated development plan;\n  (d) control land use, land sub-division, land development and zoning by public and private sectors for any purpose, including industry, commerce, markets, shopping and other employment centres, residential areas, recreational areas, parks, entertainment, passenger transport, agriculture, and freight and transit stations within the framework of the spatial and master plans for the city or municipality as may be delegated by the county government;\n  (e) as may be delegated by the county government, promote and undertake infrastructural development and services within the city or municipality;\n  (f) develop and manage schemes, including site development in collaboration with the relevant national and county agencies;\n  (g) maintain a comprehensive database and information system of the administration and provide public access thereto upon payment of a nominal fee to be determined by the board;\n  (h) administer and regulate its internal affairs;\n  (i) implement applicable national and county legislation;\n  (j) enter into such contracts, partnerships or joint ventures as it may consider necessary for the discharge of its functions under this Act or other written law;\n  (k) monitor and, where appropriate, regulate city and municipal services where those services are provided by service providers other than the board of the city or municipality;\n  (l) prepare and submit its annual budget estimates to the relevant County Treasury for consideration and submission to the County Assembly for approval as part of the annual County Appropriation Bill;\n  (m) as may be delegated by the county government, collect rates, taxes levies, duties, fees and surcharges on fees;\n  (n) settle and implement tariff, rates and tax and debt collection policies as delegated by the county government;\n  (o) monitor the impact and effectiveness of any services, policies, programmes or plans;\n  (p) establish, implement and monitor performance management systems;\n  (q) promote a safe and healthy environment;\n  (r) facilitate and regulate public transport; and\n  (s) perform such other functions as may be delegated to it by the county government or as may be provided for by any written law.\n(2) Deleted by Act No. 3 of 2019, s. 12(b).\n[Act No. 18 of 2012, 1st Sch., Act No. 3 of 2019, s. 12(b).]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of this Act a board of a city or municipality shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Deleted by Act No. 3 of 2019, s. 12(b)."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Powers of boards of cities and municipalities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) Subject to the Constitution and any other written law, the board of a city or municipality shall, within its area of jurisdiction—\n  (a) exercise executive authority as delegated by the county executive;\n  (b) ensure provision of services to its residents;\n  (c) impose such fees, levies and charges as may be authorised by the county government for delivery of services by the municipality or the city;\n  (d) promote constitutional values and principles;\n  (e) ensure the implementation and compliance with policies formulated by both the national and county government;\n  (f) make by-laws or make recommendations for issues to be included in by-laws;\n  (g) ensure participation of the residents in decision making, its activities and programmes in accordance with the Schedule to this Act as provided in the County Governments Act (Cap. 265) and any other national legislation on public participation; and (h) exercise such other powers as may be delegated by the county executive committee.\n(2) Notwithstanding any other provision in this Act, the board of a city or municipality shall exercise such executive authority as may be delegated by the county executive committee for the necessary performance of its functions under this Act. [Act No. 3 of 2019, s. 13.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the Constitution and any other written law, the board of a city or municipality shall, within its area of jurisdiction— (a) exercise executive authority as delegated by the county executive; (b) ensure provision of services to its residents; (c) impose such fees, levies and charges as may be authorised by the county government for delivery of services by the municipality or the city; (d) promote constitutional values and principles; (e) ensure the implementation and compliance with policies formulated by both the national and county government; (f) make by-laws or make recommendations for issues to be included in by-laws; (g) ensure participation of the residents in decision making, its activities and programmes in accordance with the Schedule to this Act as provided in the County Governments Act (Cap. 265) and any other national legislation on public participation; and (h) exercise such other powers as may be delegated by the county executive committee."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding any other provision in this Act, the board of a city or municipality shall exercise such executive authority as may be delegated by the county executive committee for the necessary performance of its functions under this Act. [Act No. 3 of 2019, s. 13.]"
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Citizen Fora",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) Subject to the Second Schedule, residents of a city, municipality or town may—\n  (a) deliberate and make proposals to the relevant bodies or institutions on—\n  (i) the provision of services;\n  (ii) proposed issues for inclusion in county policies and county legislation;\n  (iii) proposed national policies and national legislation;\n  (iv) the proposed annual budget estimates of the county and of the national government;\n  (v) the proposed development plans of the county and of the national government; and (vi) any other matter of concern to the citizens;\n  (b) formulate strategies for engaging the various levels and units of government on matters of concern to citizens;\n  (c) monitor the activities of elected and appointed officials of the urban areas and cities, including members of the board of an urban area or city; and (d) receive representations, including feedback on issues raised by the county citizens, from elected and appointed officials.\n(2) A board shall invite petitions and representations from the Citizen Fora with regard to the administration and management of the affairs within an urban area or city under its jurisdiction.\n(3) A board shall make recommendations on the manner in which issues raised at the Citizen Fora, if any, may be addressed and shall accordingly pass the recommendations to the manager for implementation.\n(4) The manager shall make a report on the decision made in respect of a petition or presentation made by a citizen fora and reasons for such decision.\n[Act No. 3 of 2019, s. 14.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the Second Schedule, residents of a city, municipality or town may— (a) deliberate and make proposals to the relevant bodies or institutions on— (i) the provision of services; (ii) proposed issues for inclusion in county policies and county legislation; (iii) proposed national policies and national legislation; (iv) the proposed annual budget estimates of the county and of the national government; (v) the proposed development plans of the county and of the national government; and (vi) any other matter of concern to the citizens; (b) formulate strategies for engaging the various levels and units of government on matters of concern to citizens; (c) monitor the activities of elected and appointed officials of the urban areas and cities, including members of the board of an urban area or city; and (d) receive representations, including feedback on issues raised by the county citizens, from elected and appointed officials."
+    },
+    {
+     "ref": "(2)",
+     "text": "A board shall invite petitions and representations from the Citizen Fora with regard to the administration and management of the affairs within an urban area or city under its jurisdiction."
+    },
+    {
+     "ref": "(3)",
+     "text": "A board shall make recommendations on the manner in which issues raised at the Citizen Fora, if any, may be addressed and shall accordingly pass the recommendations to the manager for implementation."
+    },
+    {
+     "ref": "(4)",
+     "text": "The manager shall make a report on the decision made in respect of a petition or presentation made by a citizen fora and reasons for such decision."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Ordinary and special meetings of a board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) A board shall hold its sittings to transact the business of the board once every three months.\n(2) Notwithstanding subsection (1), the Chairperson may, and upon request in writing by at least one-third of the members of the board shall, convene a special meeting to transaction any urgent business of the board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A board shall hold its sittings to transact the business of the board once every three months."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding subsection (1), the Chairperson may, and upon request in writing by at least one-third of the members of the board shall, convene a special meeting to transaction any urgent business of the board."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Management of information and publicity",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) A board shall publish and publicise important information within its mandate affecting the city or urban area.\n(2) A request for information in the public interest by a citizen—\n  (a) shall be addressed to the manager or administrator or such other person as the board or committee may for that purpose designate, and may be subject to the payment of a reasonable fee in instances where the board or committee incurs an expense in providing the information; and\n  (b) may be subject to confidentiality requirements of the board.\n(3) Subject to Article 35 of the Constitution, the board or committee may decline to give information to an applicant where—\n  (a) the request is unreasonable in the circumstances;\n  (b) the information requested is at a deliberative stage by the board or committee;\n  (c) the applicant fails to pay the prescribed fee; or\n  (d) the applicant fails to satisfy any confidentiality requirements by the board or committee.\n(4) The right of access to information under Article 35 of the Constitution shall be regulated in accordance with the nature and extent specified under this section.\n(5) Every member and employee of the board or committee shall sign a confidentiality agreement.\n(6) The board or committee shall, in such manner as it considers appropriate, publish a notice for public information specifying—\n  (a) the location of all its offices; and\n  (b) its address or addresses, telephone numbers and other means of communication or contact with the board or committee.\n[Act No. 12 of 2012, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A board shall publish and publicise important information within its mandate affecting the city or urban area."
+    },
+    {
+     "ref": "(2)",
+     "text": "A request for information in the public interest by a citizen—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to Article 35 of the Constitution, the board or committee may decline to give information to an applicant where—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The right of access to information under Article 35 of the Constitution shall be regulated in accordance with the nature and extent specified under this section."
+    },
+    {
+     "ref": "(5)",
+     "text": "Every member and employee of the board or committee shall sign a confidentiality agreement."
+    },
+    {
+     "ref": "(6)",
+     "text": "The board or committee shall, in such manner as it considers appropriate, publish a notice for public information specifying—"
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Remuneration of members of a board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "The Chairperson, vice-chairperson and members of a board or town committee shall not receive a salary from the board or town committee but shall be paid such allowances and benefits as the county executive committee shall, with the approval of the county assembly, and on the advice of the Salaries and Remuneration Commission, determine.\n[Act No. 12 of 2012, Sch.]",
+   "clauses": []
+  },
+  "26": {
+   "num": "26",
+   "title": "Committees of a board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "A board may—\n  (a) establish such committees for any general or special purpose which, in its opinion, would regulate or manage its affairs more efficiently and as may be necessary for the performance of its functions under this Act;\n  (b) delegate to such committee such functions as are necessary for the efficient performance of its duties in respect to the whole or any part of the area under the jurisdiction of a board; and (c) include persons who are not members of the board in any committee.",
+   "clauses": []
+  },
+  "27": {
+   "num": "27",
+   "title": "Management of city county",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "A city county shall be governed and managed in the same manner as a county government in accordance with the County Governments Act (Cap. 265).\n[Act No. 3 of 2019, s. 15.]",
+   "clauses": []
+  },
+  "28": {
+   "num": "28",
+   "title": "City or municipal manager",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "There shall be a city or municipal manager for every city or municipality established under this Act, who shall implement the decisions and functions of the board and shall be answerable to the board.",
+   "clauses": []
+  },
+  "29": {
+   "num": "29",
+   "title": "Appointment of city or municipal manager",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "A city or municipal manager shall be competitively recruited and appointed by the county public service board established under section 57 of the County Governments Act (Cap. 265).\n[Act No. 3 of 2019, s. 16.]",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "Qualifications for appointment of city or municipal manager",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) Subject to Article 232 of the Constitution, a person shall qualify to be appointed as city or municipal manager if the person—\n  (a) is a citizen of Kenya;\n  (b) holds a degree from a university recognised in Kenya or its equivalent; and (c) has proven experience of not less than ten years in administration or management either in the public or private sector.\n(2) In appointing a manager under subsection (1) the body responsible for county public service shall ensure—\n  (a) gender equity;\n  (b) the inclusion of minorities and marginalised communities; and (c) the person satisfies the requirements of Chapter six of the Constitution. [Act No. 3 of 2019, s. 17.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to Article 232 of the Constitution, a person shall qualify to be appointed as city or municipal manager if the person— (a) is a citizen of Kenya; (b) holds a degree from a university recognised in Kenya or its equivalent; and (c) has proven experience of not less than ten years in administration or management either in the public or private sector."
+    },
+    {
+     "ref": "(2)",
+     "text": "In appointing a manager under subsection (1) the body responsible for county public service shall ensure— (a) gender equity; (b) the inclusion of minorities and marginalised communities; and (c) the person satisfies the requirements of Chapter six of the Constitution. [Act No. 3 of 2019, s. 17.]"
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Governance and management of towns",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) The management of a town shall be vested in a town committee comprised of five members which shall be constituted as follows—\n  (a) the county executive committee member responsible for urban areas and cities or his representative;\n  (b) two members appointed competitively by the county governor;\n  (c) a cluster representing registered associations of the informal sector; and (d) a cluster representing the business community.\n(2) The members of the town committee specified under subsection (1) shall be appointed by the county governor with the approval of the county assembly.\n(3) A person shall be qualified for appointment as Chairperson, vice-chairperson or member of a town committee if that person—\n  (a) holds at least a Kenya Certificate of Secondary Education or its equivalent and postsecondary education professional diploma;\n  (b) has a distinguished career in a management position in either the private or public sector;\n  (c) has at least three years' post-qualification professional experience;\n  (d) satisfies the requirements of Chapter Six of the Constitution; and (e) is ordinarily resident or has a permanent dwelling in the town for at least five years or carries on business in the county.\n(4) A person shall not be appointed a member of a town committee if that person—\n  (a) is an undischarged bankrupt;\n  (b) has been removed from office for contravening the Constitution or any other law;\n  (c) is not a citizen of Kenya; or (d) has in the conduct of his or her affairs not met any statutory obligations.\n(5) The provisions of section 16 and 18 relating to vacation of office and removal from office of members of the board of a city or a municipality shall apply, with the necessary modification, to a member of a town committee. [Act No. 3 of 2019, s. 18.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The management of a town shall be vested in a town committee comprised of five members which shall be constituted as follows— (a) the county executive committee member responsible for urban areas and cities or his representative; (b) two members appointed competitively by the county governor; (c) a cluster representing registered associations of the informal sector; and (d) a cluster representing the business community."
+    },
+    {
+     "ref": "(2)",
+     "text": "The members of the town committee specified under subsection (1) shall be appointed by the county governor with the approval of the county assembly."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person shall be qualified for appointment as Chairperson, vice-chairperson or member of a town committee if that person— (a) holds at least a Kenya Certificate of Secondary Education or its equivalent and postsecondary education professional diploma; (b) has a distinguished career in a management position in either the private or public sector; (c) has at least three years' post-qualification professional experience; (d) satisfies the requirements of Chapter Six of the Constitution; and (e) is ordinarily resident or has a permanent dwelling in the town for at least five years or carries on business in the county."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person shall not be appointed a member of a town committee if that person— (a) is an undischarged bankrupt; (b) has been removed from office for contravening the Constitution or any other law; (c) is not a citizen of Kenya; or (d) has in the conduct of his or her affairs not met any statutory obligations."
+    },
+    {
+     "ref": "(5)",
+     "text": "The provisions of section 16 and 18 relating to vacation of office and removal from office of members of the board of a city or a municipality shall apply, with the necessary modification, to a member of a town committee. [Act No. 3 of 2019, s. 18.]"
+    }
+   ]
+  },
+  "31A": {
+   "num": "31A",
+   "title": "Functions of a town committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "The functions performed by the board of a city or a municipality specified under section 20(1) shall be performed by the town committee.",
+   "clauses": []
+  },
+  "31B": {
+   "num": "31B",
+   "title": "Appointment of an administrator",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "GOVERNANCE AND MANAGEMENT OF URBAN AREAS AND CITIES",
+   "text": "(1) There shall be an administrator for every town established under this Act who shall be appointed by the county public service board established under section 57 of the County Governments Act (Cap. 265).\n(2) The administrator of a town shall perform such functions as the town committee, appointed under section 31, may determine.\n(3) A person shall be qualified to be appointed as an administrator under subsection (1), if that person —\n  (a) holds a degree from a university recognised in Kenya or its equivalent;\n  (b) has proven experience of at least three years in administration or management either in public or private sector;\n  (c) is a citizen of Kenya; and (d) satisfies the requirements of Chapter Six of the Constitution. [Act No. 3 of 2019, s. 18.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be an administrator for every town established under this Act who shall be appointed by the county public service board established under section 57 of the County Governments Act (Cap. 265)."
+    },
+    {
+     "ref": "(2)",
+     "text": "The administrator of a town shall perform such functions as the town committee, appointed under section 31, may determine."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person shall be qualified to be appointed as an administrator under subsection (1), if that person — (a) holds a degree from a university recognised in Kenya or its equivalent; (b) has proven experience of at least three years in administration or management either in public or private sector; (c) is a citizen of Kenya; and (d) satisfies the requirements of Chapter Six of the Constitution. [Act No. 3 of 2019, s. 18.]"
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Service delivery by a board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DELIVERY OF SERVICES",
+   "text": "(1) Subject to Article 187(2)(a) of the Constitution, a board shall, on behalf of the county government, deliver such services as may be specified under this Act or any other national or county legislation.\n(2) Subject to Article 176(2) of the Constitution, a city or municipal board may, if it considers it necessary, establish operational sectors and service delivery entities, with the approval of the county executive committee, for the efficient carrying out of its functions and the delivery of the services within its area of jurisdiction.\n(3) Subject to the provisions of this section, a county assembly may legislate on the set up and establishment of service delivery entities.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to Article 187(2)(a) of the Constitution, a board shall, on behalf of the county government, deliver such services as may be specified under this Act or any other national or county legislation."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to Article 176(2) of the Constitution, a city or municipal board may, if it considers it necessary, establish operational sectors and service delivery entities, with the approval of the county executive committee, for the efficient carrying out of its functions and the delivery of the services within its area of jurisdiction."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to the provisions of this section, a county assembly may legislate on the set up and establishment of service delivery entities."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Partnership and joint ventures",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DELIVERY OF SERVICES",
+   "text": "(1) A board may, in consultation with the county governor and with the approval of the county assembly, enter into partnership with a utility company either within or outside the county or internationally for the provision of social infrastructural services.\n(2) For efficient service delivery, cities and municipalities may jointly provide cross-city and crossmunicipality services and may, in that regard jointly finance the services.\n(3) A board may, where it is of the opinion that a private sector entity is best able to provide a service, and with the approval of the county assembly, contract a private entity for purposes of delivering the services within its area of jurisdiction.\n(4) Where a board decides to contract a private entity for the delivery of services, it shall do so in accordance with the Public Procurement and Disposal Act (Cap. 412C).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A board may, in consultation with the county governor and with the approval of the county assembly, enter into partnership with a utility company either within or outside the county or internationally for the provision of social infrastructural services."
+    },
+    {
+     "ref": "(2)",
+     "text": "For efficient service delivery, cities and municipalities may jointly provide cross-city and crossmunicipality services and may, in that regard jointly finance the services."
+    },
+    {
+     "ref": "(3)",
+     "text": "A board may, where it is of the opinion that a private sector entity is best able to provide a service, and with the approval of the county assembly, contract a private entity for purposes of delivering the services within its area of jurisdiction."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where a board decides to contract a private entity for the delivery of services, it shall do so in accordance with the Public Procurement and Disposal Act (Cap. 412C)."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Service delivery in towns",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DELIVERY OF SERVICES",
+   "text": "The provisions of this Part shall, with necessary modifications, apply in the case of the delivery of services in towns by the town committee.",
+   "clauses": []
+  },
+  "35": {
+   "num": "35",
+   "title": "Objections by residents",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DELIVERY OF SERVICES",
+   "text": "A resident may object to any partnership or joint venture under section 33 in accordance with the regulations made under this Act.",
+   "clauses": []
+  },
+  "36": {
+   "num": "36",
+   "title": "Objectives of integrated urban areas and city development planning",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INTEGRATED DEVELOPMENT PLANNING",
+   "text": "(1) Every city and municipality established under this Act shall operate within the framework of integrated development planning which shall—\n  (a) give effect to the development of urban areas and cities as required by this Act and any other written law;\n  (b) strive to achieve the objects of devolved government as set out in Article 174 of the Constitution;\n  (c) contribute to the protection and promotion of the fundamental rights and freedoms contained in Chapter Four of the Constitution and the progressive realization of the socioeconomic rights;\n  (d) be the basis for—\n  (i) the preparation of environmental management plans;\n  (ii) the preparation of valuation rolls for property taxation;\n  (iii) provision of physical and social infrastructure and transportation;\n  (iv) preparation of annual strategic plans for a city or municipality;\n  (v) disaster preparedness and response;\n  (vi) overall delivery of service including provision of water, electricity, health, telecommunications and solid waste management; and (vii) the preparation of a geographic information system for a city or municipality;\n  (e) nurture and promote development of informal commercial activities in an orderly and sustainable manner;\n  (f) provide a framework for regulated urban agriculture; and (g) be the basis for development control.\n(2) In addition to the objectives set out in subsection (1), an integrated urban or city development plan shall bind, guide and inform all planning development and decisions and ensure comprehensive inclusion of all functions.\n(3) A county government shall initiate an urban planning process for every settlement with a population of at least two thousand residents.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every city and municipality established under this Act shall operate within the framework of integrated development planning which shall— (a) give effect to the development of urban areas and cities as required by this Act and any other written law; (b) strive to achieve the objects of devolved government as set out in Article 174 of the Constitution; (c) contribute to the protection and promotion of the fundamental rights and freedoms contained in Chapter Four of the Constitution and the progressive realization of the socioeconomic rights; (d) be the basis for— (i) the preparation of environmental management plans; (ii) the preparation of valuation rolls for property taxation; (iii) provision of physical and social infrastructure and transportation; (iv) preparation of annual strategic plans for a city or municipality; (v) disaster preparedness and response; (vi) overall delivery of service including provision of water, electricity, health, telecommunications and solid waste management; and (vii) the preparation of a geographic information system for a city or municipality; (e) nurture and promote development of informal commercial activities in an orderly and sustainable manner; (f) provide a framework for regulated urban agriculture; and (g) be the basis for development control."
+    },
+    {
+     "ref": "(2)",
+     "text": "In addition to the objectives set out in subsection (1), an integrated urban or city development plan shall bind, guide and inform all planning development and decisions and ensure comprehensive inclusion of all functions."
+    },
+    {
+     "ref": "(3)",
+     "text": "A county government shall initiate an urban planning process for every settlement with a population of at least two thousand residents."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Plan to align to county government plans",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INTEGRATED DEVELOPMENT PLANNING",
+   "text": "A city or urban area integrated development plan shall be aligned to the development plans and strategies of the county governments.",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "Preparation of integrated city or urban development plans",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INTEGRATED DEVELOPMENT PLANNING",
+   "text": "A city or urban area shall prepare an integrated city or urban area development plan in accordance with the Third Schedule to this Act.\n[Act No. 12 of 2012, Sch.]",
+   "clauses": []
+  },
+  "39": {
+   "num": "39",
+   "title": "Adoption of an integrated development plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INTEGRATED DEVELOPMENT PLANNING",
+   "text": "(1) A board or town committee shall, within the first year of its election, adopt a single, inclusive strategic plan for the development of the city or urban area for which it is responsible.\n(2) An integrated development plan adopted by a board or town committee under subsection (1) may be reviewed and amended during the term of the board or committee and shall remain in force until a new integrated urban area or city development plan is adopted by the succeeding board or town committee, but the incoming board or committee shall ensure that the viable projects are continued or completed.\n(3) A city or urban area shall, within fourteen days of the adoption of its integrated development plan—\n  (a) give notice of the adoption of the plan to the public in such manner as a board or committee may determine;\n  (b) inform the public that copies of or extracts from the plan are available for public inspection at specified places; and\n  (c) provide a summary of the plan.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A board or town committee shall, within the first year of its election, adopt a single, inclusive strategic plan for the development of the city or urban area for which it is responsible."
+    },
+    {
+     "ref": "(2)",
+     "text": "An integrated development plan adopted by a board or town committee under subsection (1) may be reviewed and amended during the term of the board or committee and shall remain in force until a new integrated urban area or city development plan is adopted by the succeeding board or town committee, but the incoming board or committee shall ensure that the viable projects are continued or completed."
+    },
+    {
+     "ref": "(3)",
+     "text": "A city or urban area shall, within fourteen days of the adoption of its integrated development plan—"
+    }
+   ]
+  },
+  "40": {
+   "num": "40",
+   "title": "Contents of integrated city and urban area development plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INTEGRATED DEVELOPMENT PLANNING",
+   "text": "An integrated urban area or city development plan shall reflect—\n  (a) a board’s or committee’s vision for the long term development of the city or urban area with special emphasis on the board’s or committee’s most critical development needs;\n  (b) an assessment of the existing level of development in the city or urban area, including an identification of communities which do not have access to basic services;\n  (c) the determination of any affirmative action measures to be applied for inclusion of communities referred to under paragraph (b) to access funds from the equilization funds;\n  (d) the board’s development priorities and objectives during its term in office, including its economic development objectives, community needs and its determination on the affirmative action in relation to the marginalised groups access to services;\n  (e) a board’s development strategies which shall be aligned with any national or county sectoral plans and planning requirements binding the city or municipality;\n  (f) a spatial development framework which shall include the provision of basic guidelines for land use management system for the city or municipality;\n  (g) a board’s operational strategies;\n  (h) applicable disaster management plans;\n  (i) a regulated city and municipal agricultural plan;\n  (j) a financial plan, which shall include budget projection for at least the next three years; and\n  (k) the key performance indicators and performance targets.",
+   "clauses": []
+  },
+  "41": {
+   "num": "41",
+   "title": "Submission of integrated cities and municipal development plan to the county governor",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INTEGRATED DEVELOPMENT PLANNING",
+   "text": "(1) The manager or administrator shall submit to the executive committee, a copy of the integrated development plan as adopted by the board or committee within twenty one days of the adoption or amendment.\n(2) The copy of the integrated development plan submitted to the county executive committee shall be accompanied by—\n  (a) a summary of the process of its formulation plan provided under this Part; and (b) a statement that the process has been complied with, together with any explanations that may be necessary to clarify the statement.\n(3) The county executive committee shall, within thirty days of receipt of a copy of the plan—\n  (a) consider the integrated development plan and make recommendations; and (b) submit the plan to the county assembly for its approval.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The manager or administrator shall submit to the executive committee, a copy of the integrated development plan as adopted by the board or committee within twenty one days of the adoption or amendment."
+    },
+    {
+     "ref": "(2)",
+     "text": "The copy of the integrated development plan submitted to the county executive committee shall be accompanied by— (a) a summary of the process of its formulation plan provided under this Part; and (b) a statement that the process has been complied with, together with any explanations that may be necessary to clarify the statement."
+    },
+    {
+     "ref": "(3)",
+     "text": "The county executive committee shall, within thirty days of receipt of a copy of the plan— (a) consider the integrated development plan and make recommendations; and (b) submit the plan to the county assembly for its approval."
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "Annual review of integrated development plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INTEGRATED DEVELOPMENT PLANNING",
+   "text": "A city or municipal board shall review its integrated development plan annually to assess its performance in accordance with performance management tools set by it under this Part, and may amend the plan where it considers it necessary.",
+   "clauses": []
+  },
+  "43": {
+   "num": "43",
+   "title": "Funds of a board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The funds of a board shall consist of—\n  (a) monies allocated by a county assembly for the purposes of the management and service delivery of the board;\n  (b) monies or assets that may accrue to the board in the course of the exercise of its powers or the performance of its functions under this Act; and (c) all monies or grants from any other legitimate source provided or donated to the board.\n(2) Where an urban area or city enters into a joint venture with another entity, the monies allocated for the joint venture shall be determined by a joint budget.\n(3) No payment shall be made out of the funds of a board or town committee unless it has been provided for in the approved annual or revised or supplementary estimates of expenditure and authorized by the board or town committee. [Act No. 12 of 2012, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The funds of a board shall consist of— (a) monies allocated by a county assembly for the purposes of the management and service delivery of the board; (b) monies or assets that may accrue to the board in the course of the exercise of its powers or the performance of its functions under this Act; and (c) all monies or grants from any other legitimate source provided or donated to the board."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where an urban area or city enters into a joint venture with another entity, the monies allocated for the joint venture shall be determined by a joint budget."
+    },
+    {
+     "ref": "(3)",
+     "text": "No payment shall be made out of the funds of a board or town committee unless it has been provided for in the approved annual or revised or supplementary estimates of expenditure and authorized by the board or town committee. [Act No. 12 of 2012, Sch.]"
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Financial year",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The financial year of a board or town committee shall be the period of twelve months ending on the thirtieth June in each year.",
+   "clauses": []
+  },
+  "45": {
+   "num": "45",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) Three months before the commencement of each financial year, a board or town committee shall cause to be prepared estimates of the revenue and expenditure of a board or town committee for that year.\n(2) The annual estimates shall make provision for all the estimated revenue and expenditure of the board for the financial year to which it relates.\n(3) The annual estimates shall be tabled before the board or town committee for adoption and approval.\n(4) The annual estimates approved by the board or town committee under subsection (3) shall be submitted to the county governor for submission to the county assembly for its approval.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Three months before the commencement of each financial year, a board or town committee shall cause to be prepared estimates of the revenue and expenditure of a board or town committee for that year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall make provision for all the estimated revenue and expenditure of the board for the financial year to which it relates."
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual estimates shall be tabled before the board or town committee for adoption and approval."
+    },
+    {
+     "ref": "(4)",
+     "text": "The annual estimates approved by the board or town committee under subsection (3) shall be submitted to the county governor for submission to the county assembly for its approval."
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The board or town committee shall cause to be kept all proper books and records of account of its income, expenditure, assets and liabilities.\n(2) Within a period of three months after the end of each financial year, the board or town committee shall submit to the County Executive Committee its accounts for that year for transmission to the Auditor-General together with—\n  (a) a statement of the income and expenditure of a board for that year; and (b) a statement of the assets and liabilities of a board on the last day of that financial year.\n(3) The Auditor-General shall prepare a financial audit as required under the Public Audit Act (Cap. 412B) or its successor and shall forward a copy of the report to the relevant board and the County Executive Committee in respect of which the audit report is made.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The board or town committee shall cause to be kept all proper books and records of account of its income, expenditure, assets and liabilities."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within a period of three months after the end of each financial year, the board or town committee shall submit to the County Executive Committee its accounts for that year for transmission to the Auditor-General together with— (a) a statement of the income and expenditure of a board for that year; and (b) a statement of the assets and liabilities of a board on the last day of that financial year."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Auditor-General shall prepare a financial audit as required under the Public Audit Act (Cap. 412B) or its successor and shall forward a copy of the report to the relevant board and the County Executive Committee in respect of which the audit report is made."
+    }
+   ]
+  },
+  "47": {
+   "num": "47",
+   "title": "Audit report to be laid before board or town committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) As soon as is practicable, and in any event not later than thirty days from the date of receipt of the audit report together with the annual statements and abstracts of accounts, the manager or administrator shall—\n  (a) lay the documents before the board or town committee for consideration; and (b) make them available to any resident of the area within the jurisdiction of the board, upon application and payment of the prescribed fee.\n(2) Where the manager or the administrator of a board fails to table the report as required under this section, that report shall be laid by any other person authorised by the county governor.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "As soon as is practicable, and in any event not later than thirty days from the date of receipt of the audit report together with the annual statements and abstracts of accounts, the manager or administrator shall— (a) lay the documents before the board or town committee for consideration; and (b) make them available to any resident of the area within the jurisdiction of the board, upon application and payment of the prescribed fee."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the manager or the administrator of a board fails to table the report as required under this section, that report shall be laid by any other person authorised by the county governor."
+    }
+   ]
+  },
+  "48": {
+   "num": "48",
+   "title": "Display of audited financial statement",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The board shall cause its audited annual financial statement to be posted in full in a conspicuous place in the board’s offices, or in two widely circulated newspapers and, on the board’s website.",
+   "clauses": []
+  },
+  "49": {
+   "num": "49",
+   "title": "Pension Schemes",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "All officers of a board shall, on the commencement of this Act, subscribe to an existing pension scheme approved by the Retirement Benefits Authority.\n[Act No. 12 of 2012, Sch.]",
+   "clauses": []
+  },
+  "50": {
+   "num": "50",
+   "title": "Disclosure of personal interest by officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "If it comes to the knowledge of an officer employed by a board that a bargain, contract or arrangement in which he or she has any direct or indirect pecuniary interest (other than a bargain, contract or arrangement to which he or she is a party) has been or is proposed to be made or entered into by the board, that officer shall as soon as practicable give notice in writing to the board disclosing the fact that he or she has interest therein.",
+   "clauses": []
+  },
+  "51": {
+   "num": "51",
+   "title": "Board to furnish county executive with copies of proceedings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Every board shall furnish the county executive committee and any other person as the county executive committee may designate, with certified copies of—\n  (a) any proceedings or minutes of the board or its committees within twenty one days after the confirmation of the minutes;\n  (b) records of any of its accounts; and (c) reports, statistics and documents as the county executive committee may require.",
+   "clauses": []
+  },
+  "52": {
+   "num": "52",
+   "title": "Protection against personal liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) No act, matter or thing done or omitted to be done by—\n  (a) the Chairperson or vice-chairperson of the board of a city or municipality;\n  (b) any member of a board or its management or committee;\n  (c) any member of staff or other person in the service of city or municipal board; or (d) any person acting under the direction of a board, shall, if that act, matter or thing was done or omitted to be done in good faith in the execution of a duty or under direction, render that member or person personally liable to any civil action, claim or demand. (2) Notwithstanding the provisions of subsection (1), a person who misappropriates, or authorises the use of funds contrary to existing law or instructions shall be accountable for any loss arising from that use and shall be required to make good the loss even if that person has ceased to hold office.\n[Act No. 12 of 2012, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No act, matter or thing done or omitted to be done by— (a) the Chairperson or vice-chairperson of the board of a city or municipality; (b) any member of a board or its management or committee; (c) any member of staff or other person in the service of city or municipal board; or (d) any person acting under the direction of a board, shall, if that act, matter or thing was done or omitted to be done in good faith in the execution of a duty or under direction, render that member or person personally liable to any civil action, claim or demand. (2) Notwithstanding the provisions of subsection (1), a person who misappropriates, or authorises the use of funds contrary to existing law or instructions shall be accountable for any loss arising from that use and shall be required to make good the loss even if that person has ceased to hold office."
+    }
+   ]
+  },
+  "53": {
+   "num": "53",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary may make regulations, for the better carrying out of the provisions of this Act, or for prescribing anything which is required to be prescribed under this Act.\n(2) Regulations made under this section shall be tabled before the Senate for approval, and shall not take effect until such approval is obtained.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may make regulations, for the better carrying out of the provisions of this Act, or for prescribing anything which is required to be prescribed under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Regulations made under this section shall be tabled before the Senate for approval, and shall not take effect until such approval is obtained."
+    }
+   ]
+  },
+  "54": {
+   "num": "54",
+   "title": "Assessment and classification of existing urban areas and cities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "TRANSITIONAL PROVISIONS",
+   "text": "During the transition period assessment shall be undertaken on the existing urban areas and cities in order to ascertain whether they meet the criteria for classification as urban areas or cities under this Act, and shall be classified accordingly.",
+   "clauses": []
+  },
+  "55": {
+   "num": "55",
+   "title": "Rights and liabilities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "TRANSITIONAL PROVISIONS",
+   "text": "All rights, assets and liabilities accrued in respect of the properties vested in the local authorities established under the Local Government Act (Repealed) which shall stand repealed after the first election under the Constitution shall be dealt with as provided by law.",
+   "clauses": []
+  },
+  "56": {
+   "num": "56",
+   "title": "Existing bye-laws and orders of local authorities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "TRANSITIONAL PROVISIONS",
+   "text": "All directions, resolutions, orders and authorizations given by by-laws made, and licenses or permits issued by the local authorities established, under the Local Government Act (Repealed) and subsisting or valid immediately before the commencement of this Act shall be deemed to have been given, issued or made by the boards established pursuant to this Act, as the case may be, until their expiry, amendment or repeal.",
+   "clauses": []
+  },
+  "57": {
+   "num": "57",
+   "title": "Staff, officers, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "TRANSITIONAL PROVISIONS",
+   "text": "Every person who, immediately before the commencement of this Act was an officer, agent or member of staff appointed, seconded or otherwise employed by a local authority shall, on the commencement of this Act be seconded or otherwise deployed as may be provided by law.",
+   "clauses": []
+  },
+  "58": {
+   "num": "58",
+   "title": "Existing contracts, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "TRANSITIONAL PROVISIONS",
+   "text": "Any act, matter or thing lawfully done by any local authority before the commencement of this Act and any contract, arrangement, agreement, settlement, trust, bequest, transfer, division, distribution or succession affecting any service delivery, trade of any form, sale or dealings on land or any other matter affecting assets, liabilities or property belonging to any local authority whether moveable, immoveable or intellectual property shall, unless and until affected by the operation of this Act, continue in force and be vested in a body established by law.",
+   "clauses": []
+  },
+  "59": {
+   "num": "59",
+   "title": "Pending actions and proceedings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "TRANSITIONAL PROVISIONS",
+   "text": "Any legal right accrued, cause of action commenced in any court of law or tribunal established under any written law in force, or any defence, appeal, or reference howsoever filed by or against any local authority shall continue to be sustained in the same manner in which they were prior to the commencement of this Act against a body established by law.",
+   "clauses": []
+  },
+  "60": {
+   "num": "60",
+   "title": "Municipalities of Mombasa and Kisumu",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "TRANSITIONAL PROVISIONS",
+   "text": "Notwithstanding any other provisions of this Act, the municipalities of Mombasa and Kisumu existing immediately before the commencement of this Act shall be deemed to be cities established under this Act.",
+   "clauses": []
+  },
+  "61": {
+   "num": "61",
+   "title": "Charges and rates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "TRANSITIONAL PROVISIONS",
+   "text": "Until such time as a new law relating to imposition of rates and charges is enacted, urban areas and cities may continue to impose rates and charges under the law for the time being in force in relation thereto with necessary modifications.\n[Act No. 7 of 2016, Sch.]",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [ss. 5(1)(e), 9(3)(e), 10(2)(d)]",
+   "subtitle": "CLASSIFICATION OF URBAN AREAS AND CITIES AND BY SERVICES",
+   "text": "[Act No. 3 of 2019, s. 19.] In classifying an area as a city, municipality or town, regard shall be had to the ability to provide the following services and also the existence of the services required to be provided by the National Government:\nCity — (Population: at least 250,000) Planning and Development Control City Economic Development Plan Traffic Control and Parking Water and Sanitation Street Lighting Outdoor Advertising Cemeteries and Crematoria Public Transport Library services Storm Drainage Ambulance Services Health Facilities Fire Fighting and Disaster Management Control of Drugs Sports and Cultural Activities Electricity and energy provision (gas, kerosene, biomass etc) Abattoirs Refuse Collection Solid waste management Pollution (Air, water and soil) control Child Care Facilities Pre-Primary Education Local Distributor Roads Conference Facilities Community Centres County Hospital Constituent University Campuses Polytechnic National School Stadium Airport Airstrip Theatre Library Service Administrative Seat International Airport Financial Hub Kenya 24 Museum Historical Monument Fire Station Emergency Preparedness Postal services Funeral Parlour Recreational Parks Management of Markets Animal control and welfare Religious Institution Organised Public Transport Information, Communication and Technology services Telecommunication services Municipality—(Population at least 50,000) Planning and Development Control Traffic Control and Parking Water and Sanitation Street Lighting Outdoor Advertising Cemeteries and Crematoria Public Transport Libraries Storm Drainage Ambulance Services Health Facilities Fire Fighting and Disaster Management Control of Drugs Sports and Cultural Activities Electricity and Energy provision (gas, kerosene etc.) Abattoirs Refuse Collection Solid waste management Pollution (Air, water, soil) control Child Care Facilities Pre-Primary Education Kenya 25 Local Distributor Roads Community Centres County Hospital Constituent University Campuses Polytechnic County School Stadium Airstrip Theatre Library/ICT services Administrative Seat Local Economic Development Plan Museum/cultural centres Fire Station Emergency Preparedness Telecommunication services /postal services/ICT Funeral Parlour Cemetery Recreational Parks Animal control and welfare Religious Institution Town — (Population at least 10,000) Street Lighting Cemeteries and Crematoria Library Services Health Facilities Sports and Cultural centers or facilities Abattoirs Refuse Collection Solid waste management Pollution (Air, water and soil) control Child Care Facilities Pre-Primary Education Community Centres Vocational Institution Kenya 26 Primary or High school Bus park Road network, streets, walkways, sideways and cycle ways Postal services or telecommunication Funeral Parlour or mortuary Cemetery Recreational parks Cemetery Recreational Parks Animal control and welfare Religious Institution Market Centre — (Population at least 2,000) Street Lighting Health Facilities Sports and Cultural centers/facilities Abattoirs/Slaughterhouse Refuse Collection Solid waste management Child Care Facilities Pre-Primary Education Community Centres Primary school Bus park Road network/streets/walkways/sideways/cycle ways Recreational parks Animal control and welfare"
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [s. 22(1)] RIGHTS OF, AND PARTICIPATION BY RESIDENTS",
+   "subtitle": "IN AFFAIRS OF THEIR CITY OR URBAN AREA",
+   "text": "[Act No. 12 of 2012, Sch.] 1. Rights and duties of residents Subject to paragraph (2), residents of a city or urban area have the right to—\n  (a) contribute to the decision-making processes of the city or urban area by submitting written or oral presentations or complaints to a board or town committee through the city or municipal manager or town administrator;\n  (b) prompt responses to their written or oral communications;\n  (c) be informed of decisions of a board or town committee, affecting their rights, property and reasonable expectations;\n  (d) regular disclosure of the state of affairs of the city or urban area, including its finances;\n  (e) demand that the proceedings of a board or town committee and its committees or sub committees be—\n  (i) conducted impartially and without prejudice; and (ii) untainted by personal self-interest;\n  (f) the use and enjoyment of public facilities; and (g) have access to services which the city or urban area provides. 2. Participation by residents (1) A city or urban area shall develop a system of governance that encourages participation by residents in its affairs, and shall for that purpose—\n  (a) create appropriate conditions for participation in—\n  (i) the preparation, implementation and review of the integrated development plan;\n  (ii) the establishment, implementation and review of its performance management system;\n  (iii) the monitoring and review of its performance, including the outcomes and impact of its performance;\n  (iv) the preparation of its budget; and (v) making of strategic decisions relating to delivery of service;\n  (b) contribute to building the capacity of—\n  (i) the residents to enable them participate in the affairs of the city or urban area; and (ii) members of the board or town committee and staff to foster community participation;\n  (c) apply its resources, and allocate funds annually as may be appropriate for the implementation of paragraphs (a) and (b); and (d) establish appropriate mechanisms, processes and procedures for—\n  (i) the receipt, processing and consideration of petitions and complaints lodged by residents;\n  (ii) petitions and public comments procedures, when appropriate;\n  (iii) notification of public meetings and hearings organised by a board or town committee;\n  (iv) consultative sessions with locally recognized resident organisations; and (v) reporting to the residents.\n(2) The provisions of paragraph (1) shall not be construed as permitting interference with a board's or town committee’s right to govern and exercise its functions.\n(3) When establishing mechanisms, processes and procedures under subsection (1), the city or urban area shall take into account the special needs of—\n  (a) people who cannot read or write;\n  (b) people with disabilities;\n  (c) youth;\n  (d) gender equity; and (e) minority and marginalised groups."
+  },
+  {
+   "id": "att_3",
+   "title": "THIRD SCHEDULE [s. 38] PREPARATION OF AN INTERGRATED PLAN",
+   "subtitle": null,
+   "text": "In the preparation of the integrated urban area or city development plan a city or urban area shall provide for—\n  (a) an assessment of the current social, cultural, economic and environmental situation in its area of jurisdiction;\n  (b) a determination of community needs and aligning them to the requirements of the Constitution;\n  (c) protection and promotion of the interests and rights of minorities and marginalized groups and communities;\n  (d) a shared vision for its development and that of the county as a whole;\n  (e) an audit of available resources, skills and capacities;\n  (f) prioritization of the identified needs in order of urgency and long-term importance;\n  (g) integrated frameworks and goals to meet the identified needs;\n  (h) strategies to achieve the goals within specific time frames;\n  (i) specific implementation programmes and projects to achieve intended goals; and (j) performance management tools to measure impact and performance and make appropriate corrections;\n  (k) linkage, integration and coordination of sector plans;\n  (l) development control; and (m) any other necessary matter."
+  }
+ ]
+}

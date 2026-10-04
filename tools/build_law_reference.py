@@ -220,5 +220,74 @@ def build(key, html_path, url, version_date):
     return doc
 
 
+# ------------------------------------------------------------- PDFs + catalog
+# Kenya Law's "Download PDF" of an Act (or an older Government Printer edition)
+# -> reference/<key>.json, same structure as the HTML route (tools/law_pdf.py);
+# reference/laws.json = the catalog the resolver reads (tools/law_refs.py =
+# Java LawReferenceService): key, title, citation, version date, source, and the
+# name patterns notices print the law under.
+
+# extra names notices use for a law (former titles, short forms)
+ALIASES = {
+    'kenya_information_and_communications_act': [r'(?:the\s*)?Kenya\s*Communications\s*Act'],
+}
+
+
+def key_of(title):
+    t = re.sub(r'(?i)\bco-?operative\b', 'cooperative', title)
+    t = re.sub(r',?\s*\d{4}$', '', t.strip()) if not re.search(r'Allocation of Revenue', t) else t
+    return re.sub(r'[^a-z0-9]+', '_', t.lower()).strip('_')
+
+
+def name_pattern(title):
+    """the title as notices print it: any case, glued or spaced words, optional
+    hyphens ("Co-ordination" / "Coordination", "Anti-Money" / "AntiMoney")"""
+    t = re.sub(r',?\s*\d{4}$', '', title.strip())
+    out = []
+    for w in t.split():
+        w = re.sub(r'(?i)^co-?(?=ordination|operative)', 'Co-', w)
+        w = re.sub(r'(?i)^anti-?', 'Anti-', w)
+        out.append('[\\s-]*'.join(re.escape(part) for part in w.split('-')))
+    return r'(?:the\s*)?' + r'\s*'.join(out)
+
+
+def build_pdfs(folder):
+    sys.path.insert(0, HERE)
+    import glob
+    import law_pdf
+    catalog = []
+    for f in sorted(glob.glob(os.path.join(folder, '*.pdf'))):
+        d = law_pdf.parse_any(f)
+        check = d.pop('check')
+        key = key_of(d['title'] or os.path.splitext(os.path.basename(f))[0])
+        out = os.path.join(OUT_DIR, key + '.json')
+        json.dump(d, open(out, 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=1)
+        catalog.append({'key': key, 'title': d['title'], 'citation': d['citation'],
+                        'version_date': d['version_date'], 'source_url': d['source_url'],
+                        'provisions': len(d['provisions']), 'missing_sections': check['missing'],
+                        'names': [name_pattern(d['title'])] + ALIASES.get(key, [])})
+        print('%-55s %4d/%4d sections  %s  %s' % (key, check['sections_found'], check['sections_in_contents'],
+                                                  d['version_date'], ('missing %s' % check['missing']) if check['missing'] else ''))
+    # the two laws built from HTML stay in the catalog, first
+    html_laws = [('constitution', [r'(?:this\s*|the\s*)?Constitution(?:\s*of\s*Kenya)?']),
+                 ('county_governments_act', [r'(?:the\s*)?County\s*Governments?\s*Act'])]
+    for pos, (key, names) in enumerate(html_laws):
+        d = json.load(open(os.path.join(OUT_DIR, key + '.json'), encoding='utf-8'))
+        catalog.insert(pos, {'key': key, 'title': d['title'], 'citation': d.get('citation'),
+                             'version_date': d['version_date'], 'source_url': d['source_url'],
+                             'provisions': len(d['provisions']), 'missing_sections': [], 'names': names})
+    path = os.path.join(OUT_DIR, 'laws.json')
+    json.dump({'note': 'Catalog of the laws in Smart Gazette (tools/build_law_reference.py pdfs raw/law). '
+                       'names = how notices print each law; the resolver (tools/law_refs.py = Java '
+                       'LawReferenceService) reads this file.',
+               'laws': catalog}, open(path, 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=1)
+    print('catalog: %d laws -> %s' % (len(catalog), os.path.relpath(path, REPO)))
+
+
 if __name__ == '__main__':
-    build(*sys.argv[1:5])
+    # python tools/build_law_reference.py <key> <page.html> <url> <version_date>
+    # python tools/build_law_reference.py pdfs raw/law
+    if sys.argv[1] == 'pdfs':
+        build_pdfs(sys.argv[2])
+    else:
+        build(*sys.argv[1:5])

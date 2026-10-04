@@ -1,0 +1,1971 @@
+{
+ "title": "Physical and Land Use Planning Act",
+ "citation": "Cap. 303",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2019/13/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-04",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "PHYSICAL AND LAND USE PLANNING ACT CAP. 303 Published in Kenya Gazette Vol. CXXI—No. 99 on 22 July 2019 Assented to on 16 July 2019 Commenced on 5 August 2019\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAN ACT of Parliament to make provision for the planning, use, regulation and development of land and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "PHYSICAL AND LAND USE PLANNING INSTITUTIONS",
+   "provisions": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "provisions": [
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "DEVELOPMENT CONTROL",
+   "provisions": [
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "ENFORCEMENT",
+   "provisions": [
+    "72"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "provisions": [
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "PROVISIONS ON DELEGATED POWERS",
+   "provisions": [
+    "90"
+   ]
+  },
+  {
+   "id": "part_VIII",
+   "num": "VIII",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "91",
+    "92",
+    "93"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Physical and Land Use Planning Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— \"advertisement\" means any word, letter, devise, model, sign, placard, board, notice or representation, whether illuminated or not, in the nature of and employed wholly or in part for the purpose of the advertisement of proprietary article and without prejudice to the foregoing includes any hoarding or similar structure used or adapted for use for the display of advertisement, and references to the display of advertisements shall be construed accordingly: Provided that any advertisement displayed inside a building shall not be included; \"building\" means any structure or erection and any part of any structure or erection of any kind whatsoever whether permanent, temporary or movable, and whether completed or uncompleted; \"building operations\" include rebuilding operations, structural alterations or additions to buildings and other similar operations and the making of access roads, railways, waterworks, sewerage and drainage works, electrical and telephone installations and any road works preliminary to, or incidental to, the erection of buildings;\n\"building or works\" include waste materials, refuse and other matters deposited on land and reference to the erection or construction of building or works shall be construed accordingly;\n\"Cabinet Secretary\" means the Cabinet Secretary for the time being responsible for matters related to physical and land use planning;\n\"commercial use\" includes shops, offices, hotels, restaurants, bars, kiosks and similar business enterprises but does not include petroleum filling stations;\n\"Commission\" means the National Land Commission established under Article 67 of the Constitution;\n\"county executive committee member” means the county executive committee member responsible for matters relating to physical and land use planning in the respective county;\n\"density” means the maximum amount of development permitted or the maximum number of persons permitted to reside, as the case may be, on any area of land;\n\"development\" means carrying out any works on land or making any material change in the use of any structures on the land;\n\"development control\" means the process of managing or regulating the carrying out of any works on land or making of any material change in the use of any land or structures and ensuring that operations on land conform to spatial development plans as well as policy guidelines, regulations and standards issued by the planning authority from time to time in order to achieve a purposeful utilization of land in the interest of the general welfare of the public;\n\"dwelling\" means a building or any part or portion of a building, used or constructed, adapted or designed to be used for human habitation;\n\"Director-General of Physical and Land Use Planning\" means the Director-General appointed under section 11 of this Act;\n\"electronic media\" means any electronic medium including television or radio, that may be used to transmit information;\n\"emerging technologies\" include telecommunication installations, information and communications technology parks and aviation services;\n\"existing building\" or \"existing works\" means, respectively, a building or works erected, constructed or carried out before the date this Act becomes applicable to the area in which the building or works are situated, and includes a building or works, as the case may be, commenced before, but completed after such date;\n\"existing use\" means in relation to any building or land the use of that building or land for any purpose of the same character as that for which it was used before the date this Act becomes applicable to the area in which the building or land is situated:\nProvided that where an existing use of land is, after such date, extended onto, under or over adjoining land, whether such adjoining land is held under the same title or not, such extension shall not be an existing use for the purposes of this Act;\n\"industrial use\" includes manufacturing, processing, distilling, brewing, warehousing and storage, workshops and garages, mining and quarrying, power generation and similar industrial activities including petroleum filling stations;\n\"Inter-County physical and land use development plan\" means a plan for the area covering two or more counties or parts thereof;\n\"land use planning\" means the process of designating, regulating, evaluating, zoning and organizing the present and future use and development of land in all its geographical areas and its resources to secure the physical, economic and social efficiency, health and well-being of urban and rural communities;\n\"local physical and land use development plan\" means a plan for the area or part thereof of a city, municipality, town or urban centre and includes a plan with reference to any trading or market centre;\n\"physical planning” means the active process of organizing the physical infrastructure and its functions to ensure orderly and effective siting or location of land uses, and it encompasses deliberate determination of spatial plans with an aim of achieving the optimum level of land utilization in a sustainable manner;\n\"planning authority\"—\n  (a) with respect to national government planning functions means the Cabinet Secretary; and\n  (b) with respect to county government planning functions means the County Executive Committee Member.\n\"private land\" has the meaning assigned to it the Land Act (Cap. 280);\n\"public purposes\" means the purposes of—\n  (a) transportation including roads, canals, highways, railways, bridges, wharves and airports;\n  (b) public buildings including schools, libraries, hospitals, factories, religious institutions and public housing;\n  (c) public utilities for water, sewage, electricity, gas, communication, irrigation and drainage, dams and reservoirs;\n  (d) public parks, playgrounds, gardens, sports facilities and cemeteries;\n  (e) security and defence installations;\n  (f) settlement of squatters, the poor and landless, and the internally displaced persons; and\n  (g) any other analogous public purpose.\n\"registered physical planner\" means a person who is holding a certificate as a registered physical planner under section 7 of the Physical Planners Registration Act (Cap. 536);\n\"safeguarding area\" means any area adjoining any land owned or occupied by the Kenya Defence Forces; and\n\"spatial planning” means the methodology and approach used to influence the distribution of people and activities to achieve optimal utilization of physical, economic and sociocultural resources.",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Objects of the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The objects of this Act are to provide—\n  (a) the principles, procedures and standards for the preparation and implementation of physical and land use development plans at the national, county, urban, rural and cities level;\n  (b) the administration and management of physical and land use planning in Kenya;\n  (c) the procedures and standards for development control and the regulation of physical planning and land use;\n  (d) a framework for the co-ordination of physical and land use planning by county governments;\n  (e) a mechanism for dispute resolution with respect to physical and land use planning;\n  (f) a framework for equitable and sustainable use, planning and management of land;\n  (g) the functions of and the relationship between planning authorities;\n  (h) a robust, comprehensive and responsive system of physical and land use planning and regulation; and\n  (i) a framework to ensure that investments in property benefit local communities and their economies.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Values and principles",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "Every State organ, State officer, public officer and person engaged in physical planning or land use regulation is bound by the Constitution and in particular—\n  (a) the national values and principles set out in Articles 10 and 232 of the Constitution;\n  (b) the principles of land policy set out in Article 60 of the Constitution;\n  (c) the leadership and integrity principles set out in Articles 73 and 75 of the Constitution; and\n  (d) the principles, procedures, and standards of physical and land use planning contemplated in this Act.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Principles and norms of physical and land use planning",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "Every person engaged in physical and land use planning and regulation shall adhere to the following principles and norms of physical and land use planning—\n  (a) physical and land use planning shall promote sustainable use of land and liveable communities which integrates human needs in any locality;\n  (b) development activities shall be planned in a manner that integrates economic, social and environmental needs of present and future generations;\n  (c) physical and land use planning shall be comprehensive, sustainable and integrated at all levels of government, taking into consideration the interests of all parties concerned;\n  (d) physical and land use planning shall take into consideration long-term optimum utilization of land and conservation of scarce land resource including preservation of land with important functions;\n  (e) physical and land use planning shall be inclusive and must take into consideration the culture and heritage of people concerned; and\n  (f) physical and land use planning shall take into account new approaches such as transit-oriented development, mixed land-uses, planning for public transport and non-motorized transport among others to achieve sustainable development and more efficient use of natural resources.",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "National Physical and Land Use Planning Consultative Forum",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHYSICAL AND LAND USE PLANNING INSTITUTIONS",
+   "text": "(1) There is established the National Physical and Land Use Planning Consultative Forum. (2) The National Physical and Land Use Planning Consultative Forum shall comprise of—\n  (a) the Cabinet Secretary for the time being responsible for matters related to physical and land use planning, who shall be the Chairperson and shall provide the secretariat;\n  (b) the Director-General of Physical and Land Use Planning;\n  (c) three governors appointed by the Council of Governors or their respective designated representatives;\n  (d) the Chairperson of the National Land Commission or a designated member of the Commission;\n  (e) the Cabinet Secretary for the time being responsible for matters related to economic planning or a designated principal secretary;\n  (f) the Cabinet Secretary for the time being responsible for matters related to the environment or a designated principal secretary;\n  (g) the Cabinet Secretary for the time being responsible for matters related to roads and infrastructure or a designated principal secretary;\n  (h) the Cabinet secretary for the time being responsible for matters related to social and community development or a designated principal secretary;\n  (i) the Cabinet Secretary for the time being responsible for matters related to culture or a designated principal secretary;\n  (j) the Cabinet Secretary for the time being responsible for matters related to defence or a designated principal secretary;\n  (k) a person nominated by the Kenya Institute of Planners;\n  (l) a person nominated by the Institution of Surveyors of Kenya;\n  (m) a person nominated by the Architectural Association of Kenya;\n  (n) a person nominated by the Kenya Private Sector Alliance and appointed by the Cabinet Secretary;\n  (o) a person nominated by the registered associations representing residents;\n  (p) a person nominated by the National Council for Persons with Disability; and (q) any person co-opted by the Forum for that person's special skills, interest and knowledge. (3) The Cabinet Secretary shall appoint members nominated under subsection (2)(k), (l), (m), (n), (o), (p) and (q) by notice in the Gazette.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established the National Physical and Land Use Planning Consultative Forum. (2) The National Physical and Land Use Planning Consultative Forum shall comprise of—"
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Functions of the National Physical and Land Use Planning Consultative Forum",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHYSICAL AND LAND USE PLANNING INSTITUTIONS",
+   "text": "The functions of the National Physical and Land Use Planning Consultative Forum shall be to—\n  (a) provide a forum for consultation on the national physical and land use development plan;\n  (b) promote effective co-ordination and integration of physical and land use development planning and sector planning;\n  (c) advise on the mobilization of adequate resources for the preparation and implementation of physical and land use development plans and strategies; and\n  (d) consider national security and advise on strategic physical and land use development projects of national, inter-county, county, or transnational importance.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "National Physical and Land Use Planning Consultative Forum Meetings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHYSICAL AND LAND USE PLANNING INSTITUTIONS",
+   "text": "(1) The National Physical and Land Use Planning Consultative Forum shall meet at least four times in a year.\n(2) Subject to this Act, the National Physical and Land Use Planning Consultative Forum may regulate its procedure.\n(3) The National Physical and Land Use Planning Consultative Forum may establish committees for the effective performance of its functions.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The National Physical and Land Use Planning Consultative Forum shall meet at least four times in a year."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to this Act, the National Physical and Land Use Planning Consultative Forum may regulate its procedure."
+    },
+    {
+     "ref": "(3)",
+     "text": "The National Physical and Land Use Planning Consultative Forum may establish committees for the effective performance of its functions."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Functions of the National Land Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHYSICAL AND LAND USE PLANNING INSTITUTIONS",
+   "text": "The National Land Commission shall, in relation to the matters set out in this Act—\n  (a) monitor and oversee land use planning throughout the country;\n  (b) prepare reports on the status of land use planning and forward to the President and Parliament as provided for in Article 254 of the Constitution;\n  (c) develop monitoring framework and formulate oversight parameters relating to physical and land use planning;\n  (d) publish and publicize the national land use planning report in accordance with the provisions of Article 35(3) of the Constitution; and (e) encourage the use of traditional dispute resolution mechanisms in land use planning.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Functions of the Cabinet Secretary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHYSICAL AND LAND USE PLANNING INSTITUTIONS",
+   "text": "The Cabinet Secretary shall be responsible for—\n  (a) formulating a national policy on physical and land use planning;\n  (b) issuing in the Gazette policy statements, guidelines and circulars on general and specific aspects of physical and land use planning;\n  (c) approval and oversight over the preparation of national physical and land use development plans; and (d) co-ordinating the national and county levels of physical and land use planning.",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Director-General of Physical and Land Use Planning",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHYSICAL AND LAND USE PLANNING INSTITUTIONS",
+   "text": "(1) There is established the office of the Director-General of Physical and Land Use Planning which shall be an office in the public service.\n(2) The Director-General of Physical and Land Use Planning shall advise and be responsible to the Cabinet Secretary responsible for physical and land use planning.\n(3) The Director-General of Physical and Land Use Planning shall hold office for a term of three years, renewable once.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established the office of the Director-General of Physical and Land Use Planning which shall be an office in the public service."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Director-General of Physical and Land Use Planning shall advise and be responsible to the Cabinet Secretary responsible for physical and land use planning."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Director-General of Physical and Land Use Planning shall hold office for a term of three years, renewable once."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Qualifications of the Director- General of Physical and Land Use Planning",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHYSICAL AND LAND USE PLANNING INSTITUTIONS",
+   "text": "A person is qualified for appointment as the Director-General of Physical and Land Use Planning if that person—\n  (a) is a citizen of Kenya;\n  (b) holds a master's degree in urban and regional planning or related discipline from a recognized university;\n  (c) is registered as a physical planner under the Physical Planners' Registration Act (Cap. 536) and is in good standing with the relevant professional body;\n  (d) has at least ten years' post-qualification professional experience in physical and land use planning; and\n  (e) is not otherwise disqualified under the provisions of Chapter 6 of the Constitution or any other written law.",
+   "clauses": []
+  },
+  "13": {
+   "num": "13",
+   "title": "Responsibilities of the Director-General of Physical and Land Use Planning",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHYSICAL AND LAND USE PLANNING INSTITUTIONS",
+   "text": "The Director-General of Physical and Land Use Planning shall be responsible for—\n  (a) advising the government on strategic physical and land use planning matters that impact on the whole country;\n  (b) formulating national physical and land use planning policies, guidelines and standards;\n  (c) preparation of national physical and land use development plans;\n  (d) co-ordination of the preparation of inter-county physical and land use development plans;\n  (e) undertaking capacity building and technical support for county planning authorities;\n  (f) undertaking research related to physical and land use planning and development and making appropriate recommendations to relevant bodies; and\n  (g) the preparation of development plans for strategic national installations and projects.",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "County Physical and Land Use Planning Consultative Forum",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHYSICAL AND LAND USE PLANNING INSTITUTIONS",
+   "text": "(1) There is established a County Physical and Land Use Planning Consultative Forum in each county.\n(2) Each County Physical and Land Use Planning Consultative Forum shall comprise of—\n  (a) the respective County Executive Committee Member responsible for matters related to physical and land use planning, who shall be the Chairperson and shall provide the secretariat;\n  (b) the County Director of physical and land use Planning;\n  (c) the Chairperson of the committee responsible for matters related to physical and land use planning in the respective county assembly;\n  (d) the County Executive Committee Member responsible for matters related to economic planning;\n  (e) the County Executive Committee Member responsible for matters related to the environment;\n  (f) the County Executive Committee Member responsible for matters related to roads and infrastructure;\n  (g) the County Executive Committee Member responsible for matters related to social and community development;\n  (h) a person nominated by the Commission;\n  (i) a person nominated by the Director-General of Physical and Land Use Planning;\n  (j) a person residing and working or conducting business in the respective county nominated by the Kenya Institute of Planners;\n  (k) a person residing and working or conducting business in the respective county nominated by the Institution of Surveyors of Kenya;\n  (l) a person residing and working or conducting business in the respective county nominated by the Architectural Association of Kenya;\n  (m) a person residing and working or conducting business in the respective county nominated by Kenya Private Sector Alliance;\n  (n) a person residing and working or conducting business in the respective county nominated by the registered associations representing residents in the county;\n  (o) a person residing and working or conducting business in the respective county nominated by the National Council for Persons with Disability; and\n  (p) any person co-opted by the County Physical and Land Use Planning Consultative Forum for that person's special skills, interest and knowledge.\n(3) The respective County Executive Committee Member shall appoint members nominated under subsection (2)(h), (i), (j), (k), (l), (m), (n), (o) and (p) by notice in the Gazette.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a County Physical and Land Use Planning Consultative Forum in each county."
+    },
+    {
+     "ref": "(2)",
+     "text": "Each County Physical and Land Use Planning Consultative Forum shall comprise of—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The respective County Executive Committee Member shall appoint members nominated under subsection (2)(h), (i), (j), (k), (l), (m), (n), (o) and (p) by notice in the Gazette."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Functions of the County Physical and Land Use Planning Consultative Forum",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHYSICAL AND LAND USE PLANNING INSTITUTIONS",
+   "text": "The functions of the County Physical and Land Use Planning Consultative Forum shall be to—\n  (a) provide a forum for consultation on County and Inter-County Physical and Land Use Development Plans;\n  (b) promote effective coordination and integration of physical and land use development and sector planning; and\n  (c) advise on the mobilization of adequate resources for the preparation and implementation of physical and land use development plans and strategies.",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "County Physical and Land Use Planning Consultative Forum Meetings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHYSICAL AND LAND USE PLANNING INSTITUTIONS",
+   "text": "(1) The County Physical and Land Use Planning Consultative Forum shall meet at least four times in a year.\n(2) Subject to this Act and any relevant county legislation, the County Physical and Land Use Planning Consultative Forum may regulate its procedure.\n(3) The County Physical and Land Use Planning Consultative Forum may establish committees for the effective performance of its functions.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The County Physical and Land Use Planning Consultative Forum shall meet at least four times in a year."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to this Act and any relevant county legislation, the County Physical and Land Use Planning Consultative Forum may regulate its procedure."
+    },
+    {
+     "ref": "(3)",
+     "text": "The County Physical and Land Use Planning Consultative Forum may establish committees for the effective performance of its functions."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Responsibilities of the County Executive Committee Member",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHYSICAL AND LAND USE PLANNING INSTITUTIONS",
+   "text": "The County Executive Committee member shall be responsible for—\n  (a) formulating a county policy on physical and land use planning; and\n  (b) promoting the integration of county physical and land use planning functions and sectoral planning levels.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "County Director of Physical and Land Use Planning",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHYSICAL AND LAND USE PLANNING INSTITUTIONS",
+   "text": "(1) There is established the office of the County Director of Physical and Land Use Planning which shall be an office in the county public service.\n(2) The County Director of Physical and Land Use Planning shall advise and be responsible to the County Executive Committee Member.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established the office of the County Director of Physical and Land Use Planning which shall be an office in the county public service."
+    },
+    {
+     "ref": "(2)",
+     "text": "The County Director of Physical and Land Use Planning shall advise and be responsible to the County Executive Committee Member."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Qualifications of a County Director of Physical and Land Use Planning",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHYSICAL AND LAND USE PLANNING INSTITUTIONS",
+   "text": "A person is qualified for appointment as the County Director of Physical and Land Use Planning if that person—\n  (a) is a citizen of Kenya;\n  (b) holds a bachelor's degree in urban and regional planning or related discipline from a recognized university;\n  (c) is registered as a physical planner under the Physical Planners Registration Act (Cap. 536) and is in good standing with the relevant professional body;\n  (d) has at least five years' post-qualification professional experience in physical and land use planning;\nand (e) is not otherwise disqualified under the provisions of Chapter Six of the Constitution or any other written law.",
+   "clauses": []
+  },
+  "20": {
+   "num": "20",
+   "title": "Responsibilities of the County Director of Physical and Land Use Planning",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHYSICAL AND LAND USE PLANNING INSTITUTIONS",
+   "text": "The County Director of Physical and Land Use Planning shall be responsible for—\n  (a) advising the county government on physical and land use planning matters that impact the county;\n  (b) formulating county physical and land use planning policies, guidelines and standards;\n  (c) preparation of county physical and land use development plans;\n  (d) preparation of local physical and land use development plans;\n  (e) participating in the preparation of inter-county physical and land use development plans;\n  (f) undertaking research on matters relating to physical and land use development planning at the county level;\n  (g) recommending to the county government the establishment of planning units as may be necessary;\n  (h) maintaining a land information system to guide physical and land use planning;\n  (i) communicating decisions of the county government development applications; and (j) issuance of development permission and other development control instruments under this Act with the approval of the county executive committee member.",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "The National Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) The Cabinet Secretary shall cause the Director- General of Physical and Land Use Planning to prepare the National Physical and Land Use Development Plan for approval and publication in accordance with this Part.\n(2) The National Physical and Land Use Development Plan—\n  (a) shall cover an implementation period of twenty years; and (b) may be reviewed after ten years or as necessary when special needs arise.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary shall cause the Director- General of Physical and Land Use Planning to prepare the National Physical and Land Use Development Plan for approval and publication in accordance with this Part."
+    },
+    {
+     "ref": "(2)",
+     "text": "The National Physical and Land Use Development Plan— (a) shall cover an implementation period of twenty years; and (b) may be reviewed after ten years or as necessary when special needs arise."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Purpose and objects of the National Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) The National Physical and Land Use Development Plan shall define strategic policies for the determination of the general direction and trends of physical, and sectoral development in Kenya and provide a framework for the use and development of land.\n(2) The National Physical and Land Use Development Plan is the basis for—\n  (a) environmental conservation, protection and improvement;\n  (b) promoting social and economic development including national competitiveness;\n  (c) promoting balanced national development;\n  (d) optimal use of land and natural resources;\n  (e) formulation of national physical and land use development planning policies;\n  (f) guiding inter-county, county and local planning;\n  (g) co-ordinating sectoral planning and development;\n  (h) managing human settlements; and (i) providing a framework for guiding the location and development of strategic national investments and infrastructural development.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The National Physical and Land Use Development Plan shall define strategic policies for the determination of the general direction and trends of physical, and sectoral development in Kenya and provide a framework for the use and development of land."
+    },
+    {
+     "ref": "(2)",
+     "text": "The National Physical and Land Use Development Plan is the basis for— (a) environmental conservation, protection and improvement; (b) promoting social and economic development including national competitiveness; (c) promoting balanced national development; (d) optimal use of land and natural resources; (e) formulation of national physical and land use development planning policies; (f) guiding inter-county, county and local planning; (g) co-ordinating sectoral planning and development; (h) managing human settlements; and (i) providing a framework for guiding the location and development of strategic national investments and infrastructural development."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Procedure for preparation of the National Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) In preparing a National Physical and Land Use Development Plan, the Director-General of Physical and Land Use Planning shall—\n  (a) consider relevant national policies;\n  (b) promote the safeguarding of national security;\n  (c) ensure effective participation by the public and relevant stakeholders; and (d) consult the National Physical and Land Use Planning Consultative Forum prior to the initiation of the National Physical and Land Use Development Plan and submit the proposed plan to the National Physical and Land Use Planning Consultative Forum for consideration and input before its final approval.\n(2) The Cabinet Secretary shall, at least fourteen days before commencement of the preparation of a National Physical and Land Use Development Plan, publish a notice in the Gazette, in at least two newspapers of national circulation and through electronic media of the intention to prepare a National Physical and Land Use Development Plan.\n(3) A notice published in accordance with this section shall state the objectives of National Physical and Land Use Development Plan, the purpose of the National Physical and Land Use Development Plan, the information to be set out in the plan and the places where members of the public may provide written comments on the National Physical and Land Use Development Plan.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In preparing a National Physical and Land Use Development Plan, the Director-General of Physical and Land Use Planning shall— (a) consider relevant national policies; (b) promote the safeguarding of national security; (c) ensure effective participation by the public and relevant stakeholders; and (d) consult the National Physical and Land Use Planning Consultative Forum prior to the initiation of the National Physical and Land Use Development Plan and submit the proposed plan to the National Physical and Land Use Planning Consultative Forum for consideration and input before its final approval."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary shall, at least fourteen days before commencement of the preparation of a National Physical and Land Use Development Plan, publish a notice in the Gazette, in at least two newspapers of national circulation and through electronic media of the intention to prepare a National Physical and Land Use Development Plan."
+    },
+    {
+     "ref": "(3)",
+     "text": "A notice published in accordance with this section shall state the objectives of National Physical and Land Use Development Plan, the purpose of the National Physical and Land Use Development Plan, the information to be set out in the plan and the places where members of the public may provide written comments on the National Physical and Land Use Development Plan."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Content of National Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) A National Physical and Land Use Development Plan shall include—\n  (a) the objectives of the plan;\n  (b) situation analysis including—\n  (i) an analysis of the state of physical and land use development in Kenya; and\n  (ii) the relevant studies and reports concerning physical and land use development in Kenya;\n  (c) policies, strategies and measures necessary to optimize opportunities and potentials and resolve challenges relating to physical and land use development planning in Kenya;\n  (d) maps and plans showing current and anticipated physical and land use patterns;\n  (e) an implementation framework;\n  (f) a monitoring and evaluation strategy; and\n  (g) such other information as may be necessary.\n(2) The Director-General of Physical and Land Use Planning shall, in addition to what is provided for in subsection (1), take into account matters specified in the First Schedule to this Act.\n(3) The preparation of the National Physical and Land Use Development Plan shall be completed within twenty four months after the publication of the intention to prepare the plan.\n(4) The Cabinet Secretary may, by notice in the Gazette, extend the period within which a National Physical and Land Use Development Plan is to be prepared by one year.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A National Physical and Land Use Development Plan shall include— (a) the objectives of the plan;"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Director-General of Physical and Land Use Planning shall, in addition to what is provided for in subsection (1), take into account matters specified in the First Schedule to this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "The preparation of the National Physical and Land Use Development Plan shall be completed within twenty four months after the publication of the intention to prepare the plan."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Cabinet Secretary may, by notice in the Gazette, extend the period within which a National Physical and Land Use Development Plan is to be prepared by one year."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Notice of preparation of National Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) Within thirty days of the preparation of the National Physical and Land Use Development Plan, the Cabinet Secretary shall publish a notice in the Gazette, in at least two newspapers of national circulation and through electronic media informing the public that the draft National Physical and Land Use Development Plan is available at the place and time specified in the notice for inspection and that any interested person may within fourteen days, comment on the content of the draft National Physical and Land Use Development Plan.\n(2) The Cabinet Secretary shall, within twenty-one days of the expiry of the period for making comments under subsection (1), consider the comments made on the National Physical and Land Use Development Plan and may incorporate the comments in the plan.\n(3) Within seven days of making a decision under subsection (2), the Cabinet Secretary shall publish a notice in the Gazette, in at least two newspapers of national circulation and through electronic media informing the public that a decision on the comments received by the Cabinet Secretary has been made and that the reviewed draft National Physical and Land Use Development Plan is available at the places and times designated in the notice for perusal.\n(4) A person dissatisfied with the decision of the Cabinet Secretary may, within fourteen days of the publication of the notice under subsection (3), apply to the Cabinet Secretary for review of his or her decision and the Cabinet Secretary shall consider the same and communicate his or her decision within sixty days of receipt of application for review.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Within thirty days of the preparation of the National Physical and Land Use Development Plan, the Cabinet Secretary shall publish a notice in the Gazette, in at least two newspapers of national circulation and through electronic media informing the public that the draft National Physical and Land Use Development Plan is available at the place and time specified in the notice for inspection and that any interested person may within fourteen days, comment on the content of the draft National Physical and Land Use Development Plan."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary shall, within twenty-one days of the expiry of the period for making comments under subsection (1), consider the comments made on the National Physical and Land Use Development Plan and may incorporate the comments in the plan."
+    },
+    {
+     "ref": "(3)",
+     "text": "Within seven days of making a decision under subsection (2), the Cabinet Secretary shall publish a notice in the Gazette, in at least two newspapers of national circulation and through electronic media informing the public that a decision on the comments received by the Cabinet Secretary has been made and that the reviewed draft National Physical and Land Use Development Plan is available at the places and times designated in the notice for perusal."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person dissatisfied with the decision of the Cabinet Secretary may, within fourteen days of the publication of the notice under subsection (3), apply to the Cabinet Secretary for review of his or her decision and the Cabinet Secretary shall consider the same and communicate his or her decision within sixty days of receipt of application for review."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Approval of National Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) If there have been no applications for review of the decision of the Cabinet Secretary or if the applications for review have been heard and determined, the Cabinet Secretary shall submit the draft National Physical and Land Use Development Plan to the National Physical and Land Use Planning Consultative Forum for comments.\n(2) The National Physical and Land Use Planning Consultative Forum shall consider the plan and may propose changes which shall be incorporated in the plan.\n(3) Upon incorporation of the proposed changes by the National Physical and Land Use Planning Consultative Forum, the plan shall be submitted to the Cabinet for approval.\n(4) Upon approval by the Cabinet, the Cabinet Secretary shall submit the plan to Parliament for consideration and approval.\n(5) Upon approval by Parliament, the Cabinet Secretary, shall publish the approved plan in the Gazette, in at least two newspapers of national circulation and through electronic media within fourteen days of the approval of the National Physical and Land Use Development Plan.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If there have been no applications for review of the decision of the Cabinet Secretary or if the applications for review have been heard and determined, the Cabinet Secretary shall submit the draft National Physical and Land Use Development Plan to the National Physical and Land Use Planning Consultative Forum for comments."
+    },
+    {
+     "ref": "(2)",
+     "text": "The National Physical and Land Use Planning Consultative Forum shall consider the plan and may propose changes which shall be incorporated in the plan."
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon incorporation of the proposed changes by the National Physical and Land Use Planning Consultative Forum, the plan shall be submitted to the Cabinet for approval."
+    },
+    {
+     "ref": "(4)",
+     "text": "Upon approval by the Cabinet, the Cabinet Secretary shall submit the plan to Parliament for consideration and approval."
+    },
+    {
+     "ref": "(5)",
+     "text": "Upon approval by Parliament, the Cabinet Secretary, shall publish the approved plan in the Gazette, in at least two newspapers of national circulation and through electronic media within fourteen days of the approval of the National Physical and Land Use Development Plan."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Implementation of a National Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) The planning authorities shall base the preparation of inter-county physical and land use development plans, integrated county physical and land use development plans, city physical and land use development plans, urban area physical and land use development plans and sectoral plans on the National Physical and Land Use Development Plan.\n(2) Notwithstanding the lack of a National Physical and Land Use Development Plan, planning authorities at the county level shall prepare County and Local Physical and Land Use Development Plans.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The planning authorities shall base the preparation of inter-county physical and land use development plans, integrated county physical and land use development plans, city physical and land use development plans, urban area physical and land use development plans and sectoral plans on the National Physical and Land Use Development Plan."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding the lack of a National Physical and Land Use Development Plan, planning authorities at the county level shall prepare County and Local Physical and Land Use Development Plans."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Status Reports",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) At least three months before the end of the financial year, each public institution of a government that is responsible for the application or the implementation of a National Physical and Land Use Development Plan shall prepare and submit a status report on the implementation of the National Physical and Land Use Development Plan to the Cabinet Secretary or the County Executive Committee member and the Commission for their purposes.\n(2) The status reports submitted under this section, shall be published by the National Land Commission on its website for information.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "At least three months before the end of the financial year, each public institution of a government that is responsible for the application or the implementation of a National Physical and Land Use Development Plan shall prepare and submit a status report on the implementation of the National Physical and Land Use Development Plan to the Cabinet Secretary or the County Executive Committee member and the Commission for their purposes."
+    },
+    {
+     "ref": "(2)",
+     "text": "The status reports submitted under this section, shall be published by the National Land Commission on its website for information."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Establishment of Inter-County Joint Physical and Land Use Planning Committees",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) Two or more Counties may, by mutual agreement or out of compelling necessity, formulate an inter-county physical and land use development plan.\n(2) In the preparation of the Inter-County physical and land use development plan, the counties shall form an Inter-County Joint Physical and Land Use Planning Committee.\n(3) The Inter-County Joint Physical and Land Use Planning Committee shall consist of—\n  (a) the county executive committee member of the respective counties;\n  (b) two other relevant county executive committee members from the respective counties nominated by the relevant county governor; and\n  (c) the Director-General of Physical and Land Use Planning who shall be an ex-officio member of the Committee.\n(4) The inter-county joint physical and land use planning committee may co-opt such other persons as may be necessary to assist it in performance of its duties.\n(5) The members of the inter-county joint physical and land use planning committee appointed under subsection (3)(a) and (b) shall, during the first meeting of the Committee, elect from amongst themselves a Chairperson and a vice-Chairperson provided that the Chairperson and the viceChairperson shall not be county executive committee members from the same county.\n(6) The Director-General of Physical and Land Use Planning shall, in consultation with the other members of the Committee, convene the first meeting.\n(7) The Director-General of Physical and Land Use Planning shall co-ordinate meetings of the intercounty joint physical and land use planning committee and provide it with secretariat services.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Two or more Counties may, by mutual agreement or out of compelling necessity, formulate an inter-county physical and land use development plan."
+    },
+    {
+     "ref": "(2)",
+     "text": "In the preparation of the Inter-County physical and land use development plan, the counties shall form an Inter-County Joint Physical and Land Use Planning Committee."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Inter-County Joint Physical and Land Use Planning Committee shall consist of—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The inter-county joint physical and land use planning committee may co-opt such other persons as may be necessary to assist it in performance of its duties."
+    },
+    {
+     "ref": "(5)",
+     "text": "The members of the inter-county joint physical and land use planning committee appointed under subsection (3)(a) and (b) shall, during the first meeting of the Committee, elect from amongst themselves a Chairperson and a vice-Chairperson provided that the Chairperson and the viceChairperson shall not be county executive committee members from the same county."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Director-General of Physical and Land Use Planning shall, in consultation with the other members of the Committee, convene the first meeting."
+    },
+    {
+     "ref": "(7)",
+     "text": "The Director-General of Physical and Land Use Planning shall co-ordinate meetings of the intercounty joint physical and land use planning committee and provide it with secretariat services."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Scope of the Inter-County Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "An Inter-County Physical and Land Use Development Plan shall—\n  (a) define the scope of the plan; and\n  (b) define the geographical area to which the plan relates.",
+   "clauses": []
+  },
+  "31": {
+   "num": "31",
+   "title": "Commencement of Inter-County Physical and Land Use Planning Process",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) The Inter-County Physical and Land Use Planning Joint Committee preparing an Inter-County Physical and Land Use Development Plan shall publish a notice of intention to prepare a plan in the Gazette, in at least two newspapers with a national circulation and through electronic media.\n(2) The notice published under subsection (1) shall state the constitution of the Inter-County Physical and Land Use Planning Joint Committee, the broad reasons for the constitution of the joint committee and the joint committee's address where comments on the plan may be submitted.\n(3) The joint committee shall prepare and complete the Inter-County Physical and Land Use Development Plan within two years from the time notice of intention to prepare the plan is published.\n(4) The joint committee shall consult, publish, consider national security and hold stakeholders' meetings during the preparation of the Inter-County Physical and Land Use Development Plan.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Inter-County Physical and Land Use Planning Joint Committee preparing an Inter-County Physical and Land Use Development Plan shall publish a notice of intention to prepare a plan in the Gazette, in at least two newspapers with a national circulation and through electronic media."
+    },
+    {
+     "ref": "(2)",
+     "text": "The notice published under subsection (1) shall state the constitution of the Inter-County Physical and Land Use Planning Joint Committee, the broad reasons for the constitution of the joint committee and the joint committee's address where comments on the plan may be submitted."
+    },
+    {
+     "ref": "(3)",
+     "text": "The joint committee shall prepare and complete the Inter-County Physical and Land Use Development Plan within two years from the time notice of intention to prepare the plan is published."
+    },
+    {
+     "ref": "(4)",
+     "text": "The joint committee shall consult, publish, consider national security and hold stakeholders' meetings during the preparation of the Inter-County Physical and Land Use Development Plan."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Notice of and objections to an Inter-County Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) Within thirty days of the completion of an Inter-County Physical and Land Use Development Plan, the Inter-County Physical and Land Use Planning Joint Committee shall publish a notice in the Gazette and in at least two newspapers of national circulation informing the public that the plan is available at the place and time specified in the notice for inspection and that any interested person may, within fourteen days, comment on the content of the plan.\n(2) The Inter-County Physical and Land Use Planning Joint Committee shall, within twenty-one days of the expiry of the period for making comments under subsection (1), consider the comments made about the plan and may or may not incorporate the comments in the plan.\n(3) Within seven days of making a decision under subsection (2), the Inter-County Physical and Land Use Planning Joint Committee shall publish a notice in the Gazette and in at least two newspapers of national circulation informing the public that a decision on the comments received by the joint committee has been made and that the reviewed draft Inter-County Physical and Land Use Development Plan is available for perusal at the place and time specified in the notice.\n(4) Any person dissatisfied with the decision of the Inter-County Physical and Land Use Planning Joint Committee may appeal to the National Physical and Land Use Planning Liaison Committee within fourteen days and the committee shall consider the application and make its determination within (60) days of the receipt of the application.\n(5) Any person dissatisfied with the decision of the National Physical and Land Use Planning Liaison Committee may, within fourteen days of the decision, appeal to the Environment and Land Court.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Within thirty days of the completion of an Inter-County Physical and Land Use Development Plan, the Inter-County Physical and Land Use Planning Joint Committee shall publish a notice in the Gazette and in at least two newspapers of national circulation informing the public that the plan is available at the place and time specified in the notice for inspection and that any interested person may, within fourteen days, comment on the content of the plan."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Inter-County Physical and Land Use Planning Joint Committee shall, within twenty-one days of the expiry of the period for making comments under subsection (1), consider the comments made about the plan and may or may not incorporate the comments in the plan."
+    },
+    {
+     "ref": "(3)",
+     "text": "Within seven days of making a decision under subsection (2), the Inter-County Physical and Land Use Planning Joint Committee shall publish a notice in the Gazette and in at least two newspapers of national circulation informing the public that a decision on the comments received by the joint committee has been made and that the reviewed draft Inter-County Physical and Land Use Development Plan is available for perusal at the place and time specified in the notice."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person dissatisfied with the decision of the Inter-County Physical and Land Use Planning Joint Committee may appeal to the National Physical and Land Use Planning Liaison Committee within fourteen days and the committee shall consider the application and make its determination within (60) days of the receipt of the application."
+    },
+    {
+     "ref": "(5)",
+     "text": "Any person dissatisfied with the decision of the National Physical and Land Use Planning Liaison Committee may, within fourteen days of the decision, appeal to the Environment and Land Court."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Approval of an Inter-County Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) The County Executive Committee members of all counties participating in the Inter-County physical and land use development plan shall separately submit the plans to the respective County Assemblies for approval and thereafter submit the same to the Director-General of Physical and Land Use Planning for coordination and certification.\n(2) Within thirty days of the completion of an Inter-County Physical and Land Use Development Plan or if comments on the plan have been heard and determined, the Inter-County Physical and Land Use Planning Joint Committee shall publish a notice in the Gazette and in at least two newspapers of national circulation informing the public that the Inter-County Physical and Land Use Development Plan is available for perusal at the place and time specified in the notice.\n(3) Before the Inter-County Physical and Land Use Development Plan can be implemented, the governors of the relevant counties shall adopt the plan at a joint meeting of the relevant governors that shall be organized by the Inter-County Physical and Land Use Planning Joint Committee.\n(4) The approved Inter-County Physical and Land Use Development Plan shall be deposited with the relevant County Director of Physical and Land Use Planning who shall submit certified copies of the plan to the Director- General of Physical and Land Use Planning and the Commission.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The County Executive Committee members of all counties participating in the Inter-County physical and land use development plan shall separately submit the plans to the respective County Assemblies for approval and thereafter submit the same to the Director-General of Physical and Land Use Planning for coordination and certification."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within thirty days of the completion of an Inter-County Physical and Land Use Development Plan or if comments on the plan have been heard and determined, the Inter-County Physical and Land Use Planning Joint Committee shall publish a notice in the Gazette and in at least two newspapers of national circulation informing the public that the Inter-County Physical and Land Use Development Plan is available for perusal at the place and time specified in the notice."
+    },
+    {
+     "ref": "(3)",
+     "text": "Before the Inter-County Physical and Land Use Development Plan can be implemented, the governors of the relevant counties shall adopt the plan at a joint meeting of the relevant governors that shall be organized by the Inter-County Physical and Land Use Planning Joint Committee."
+    },
+    {
+     "ref": "(4)",
+     "text": "The approved Inter-County Physical and Land Use Development Plan shall be deposited with the relevant County Director of Physical and Land Use Planning who shall submit certified copies of the plan to the Director- General of Physical and Land Use Planning and the Commission."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Implementation of the Inter-County Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) In addition to the national physical and land use development plan, the Inter-County Physical and Land Use Development Plan shall inform the preparation of a county physical and land use development plan, a local physical and land use development plan or an urban area physical and land use development plan for the county governments within the planning area covered by the Inter-County Physical and Land Use Development Plan.\n(2) Where a National Physical and Land Use Development Plan and an Inter-County Physical and Land Use Development Plan have not been prepared or approved, county governments may prepare other physical and land use development plans which will be incorporated into the National Physical and Land Use Development Plan or the relevant Inter-County Physical and Land Use Development Plan after they have been prepared and approved in accordance with this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In addition to the national physical and land use development plan, the Inter-County Physical and Land Use Development Plan shall inform the preparation of a county physical and land use development plan, a local physical and land use development plan or an urban area physical and land use development plan for the county governments within the planning area covered by the Inter-County Physical and Land Use Development Plan."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a National Physical and Land Use Development Plan and an Inter-County Physical and Land Use Development Plan have not been prepared or approved, county governments may prepare other physical and land use development plans which will be incorporated into the National Physical and Land Use Development Plan or the relevant Inter-County Physical and Land Use Development Plan after they have been prepared and approved in accordance with this Act."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Status Reports on an Inter-County Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "At least three months before the end of a financial year, every county executive committee member in a county covered by an Inter-County Physical and Land Use Development Plan shall submit a report on the implementation of the Plan to the Commission and the Cabinet Secretary for their purposes.",
+   "clauses": []
+  },
+  "36": {
+   "num": "36",
+   "title": "County Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) Once in every ten years, a county government shall prepare a county physical and land use development plan for that county.\n(2) Each county physical and land use development plan shall be in conformity with the National Physical and Land Use Development Plan and any relevant Inter-County Physical and Land Use Development Plan.\n(3) The county executive committee member shall ensure the county physical and land use development plan is prepared and published within a period of eighteen months from the time notice of intention to prepare the plan is published.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Once in every ten years, a county government shall prepare a county physical and land use development plan for that county."
+    },
+    {
+     "ref": "(2)",
+     "text": "Each county physical and land use development plan shall be in conformity with the National Physical and Land Use Development Plan and any relevant Inter-County Physical and Land Use Development Plan."
+    },
+    {
+     "ref": "(3)",
+     "text": "The county executive committee member shall ensure the county physical and land use development plan is prepared and published within a period of eighteen months from the time notice of intention to prepare the plan is published."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Purpose and objects of a county physical and land use development plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "The objects of a county physical and land use development plan shall be—\n  (a) to provide an overall physical and land use development framework for the county;\n  (b) to guide rural development and settlement;\n  (c) to provide a basis for infrastructure and services delivery;\n  (d) to guide the use and management of natural resources;\n  (e) to enhance environmental protection and conservation;\n  (f) to identify the proper zones for industrial, commercial, residential and social developments;\n  (g) to improve transport and communication networks and linkages;\n  (h) to promote the safeguarding of national security; and\n  (i) any other purposes that may be determined by the planning authority.",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "Notice of intention to prepare a county physical and land use development plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) At least twenty-one days before commencing the preparation of a county physical and land use development plan, the county executive member shall publish a notice in the Gazette and the notice shall include the intention to prepare a county physical and land use development plan, the objects of the plan and the matters to be considered in the plan and the address to which any comments on the plan may be sent.\n(2) The notice shall be displayed for a period of fourteen days at the offices of the county government and such other places as may be necessary in all the wards within the county.\n(3) The county planning authority shall hold adequate stakeholder meetings in each ward before the completion of the preparation of the county physical and land use development plan.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "At least twenty-one days before commencing the preparation of a county physical and land use development plan, the county executive member shall publish a notice in the Gazette and the notice shall include the intention to prepare a county physical and land use development plan, the objects of the plan and the matters to be considered in the plan and the address to which any comments on the plan may be sent."
+    },
+    {
+     "ref": "(2)",
+     "text": "The notice shall be displayed for a period of fourteen days at the offices of the county government and such other places as may be necessary in all the wards within the county."
+    },
+    {
+     "ref": "(3)",
+     "text": "The county planning authority shall hold adequate stakeholder meetings in each ward before the completion of the preparation of the county physical and land use development plan."
+    }
+   ]
+  },
+  "39": {
+   "num": "39",
+   "title": "Contents of a county physical and land use development plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) A county physical and land use development plan shall consist of—\n  (a) policies, strategies and general proposals for the development and use of land;\n  (b) a summary of the situational analysis;\n  (c) proposals for proper county development, resource utilization and linkage with neighboring counties;\n  (d) diagrams, illustrations and description of current and anticipated developments in the county;\n  (e) an implementation strategy;\n  (f) a reporting, monitoring and evaluation strategy; and\n  (g) any other matters as may be prescribed.\n(2) In addition to the provisions of subsection (1) the county government shall take into account those matters specified in the First Schedule.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A county physical and land use development plan shall consist of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In addition to the provisions of subsection (1) the county government shall take into account those matters specified in the First Schedule."
+    }
+   ]
+  },
+  "40": {
+   "num": "40",
+   "title": "Public Participation in the preparation of a county physical and land use development plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) Within thirty days of the preparation of a county physical and land use development plan, the county planning authority shall publish a notice in the Gazette, in at least two newspapers of national circulation and through electronic media informing the public that the draft county physical and land use development plan is available at the places and times specified in the notice.\n(2) The county executive committee member shall facilitate public participation.\n(3) The county executive committee member shall consider the comments made about the draft county physical and land use development plan and may incorporate the comments in the plan.\n(4) A person aggrieved by a decision of the county planning authority concerning the county physical and land use development plan or matters connected therewith, may within sixty days of receipt by him of notice of such decision, appeal to the county physical and land use planning liaison committee in writing against the decision in such manner as may be prescribed.\n(5) Subject to subsection (4), the county physical and land use planning liaison committee may reverse, confirm or vary the decision appealed against and make such order as it deems necessary or expedient to give effect to its decision.\n(6) When a decision is reversed by the county physical and land use planning liaison committee it shall, before making any order under subsection (5), afford the county planning authority an opportunity of making representations as to any conditions or requirements which in his opinion ought to be included in the order, and shall also afford the appellant an opportunity to replying to such representations.\n(7) Any person aggrieved by a decision of the County Physical and Land Use Planning Liaison Committee under this section may appeal to the Environment and Land Court against such decision in accordance with the rules of procedure for the time being applicable to the High Court.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Within thirty days of the preparation of a county physical and land use development plan, the county planning authority shall publish a notice in the Gazette, in at least two newspapers of national circulation and through electronic media informing the public that the draft county physical and land use development plan is available at the places and times specified in the notice."
+    },
+    {
+     "ref": "(2)",
+     "text": "The county executive committee member shall facilitate public participation."
+    },
+    {
+     "ref": "(3)",
+     "text": "The county executive committee member shall consider the comments made about the draft county physical and land use development plan and may incorporate the comments in the plan."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person aggrieved by a decision of the county planning authority concerning the county physical and land use development plan or matters connected therewith, may within sixty days of receipt by him of notice of such decision, appeal to the county physical and land use planning liaison committee in writing against the decision in such manner as may be prescribed."
+    },
+    {
+     "ref": "(5)",
+     "text": "Subject to subsection (4), the county physical and land use planning liaison committee may reverse, confirm or vary the decision appealed against and make such order as it deems necessary or expedient to give effect to its decision."
+    },
+    {
+     "ref": "(6)",
+     "text": "When a decision is reversed by the county physical and land use planning liaison committee it shall, before making any order under subsection (5), afford the county planning authority an opportunity of making representations as to any conditions or requirements which in his opinion ought to be included in the order, and shall also afford the appellant an opportunity to replying to such representations."
+    },
+    {
+     "ref": "(7)",
+     "text": "Any person aggrieved by a decision of the County Physical and Land Use Planning Liaison Committee under this section may appeal to the Environment and Land Court against such decision in accordance with the rules of procedure for the time being applicable to the High Court."
+    }
+   ]
+  },
+  "41": {
+   "num": "41",
+   "title": "Completion and approval of a county physical and land use development plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) If there are no applications for the review of a county physical and land use development plan or if all applications for review have been heard and determined, the county executive committee member shall submit the draft county physical and land use development plan to the County Physical and Land Use Planning Consultative Forum for comments.\n(2) The County Physical and Land Use Planning Consultative Forum shall consider the plan and may propose changes which shall be incorporated in the plan.\n(3) Upon incorporation of the proposed changes by the County Physical and Land Use Planning Consultative Forum, the county executive committee member shall submit the completed county physical land use development plan to the county governor who shall cause it to be placed before the county assembly for approval.\n(4) On the approval of the county physical and land use development plan by the respective county assembly, the county executive committee member shall publish the approved plan in the Gazette and in at least two newspapers with a national circulation within fourteen days of the approval and no development shall take place on any land unless it is in conformity with the approved plan.\n(5) A county physical and land use development plan shall be the basis for the preparation of sectoral programmes and projects in the county and sub-county levels.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If there are no applications for the review of a county physical and land use development plan or if all applications for review have been heard and determined, the county executive committee member shall submit the draft county physical and land use development plan to the County Physical and Land Use Planning Consultative Forum for comments."
+    },
+    {
+     "ref": "(2)",
+     "text": "The County Physical and Land Use Planning Consultative Forum shall consider the plan and may propose changes which shall be incorporated in the plan."
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon incorporation of the proposed changes by the County Physical and Land Use Planning Consultative Forum, the county executive committee member shall submit the completed county physical land use development plan to the county governor who shall cause it to be placed before the county assembly for approval."
+    },
+    {
+     "ref": "(4)",
+     "text": "On the approval of the county physical and land use development plan by the respective county assembly, the county executive committee member shall publish the approved plan in the Gazette and in at least two newspapers with a national circulation within fourteen days of the approval and no development shall take place on any land unless it is in conformity with the approved plan."
+    },
+    {
+     "ref": "(5)",
+     "text": "A county physical and land use development plan shall be the basis for the preparation of sectoral programmes and projects in the county and sub-county levels."
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "Modification of a County Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) A county executive committee member, on his own motion or on recommendation of the county government, may initiate the modification of a county physical and land use development plan if—\n  (a) there are practical difficulties in the execution or enforcement of that county physical and land use development plan; or\n  (b) there has been a change of circumstances since the county physical and land use development plan was approved.\n(2) On the approval of the county government, the County Executive Committee member shall publish a notice in the Gazette, in at least two newspapers of national circulation and through electronic media notifying any interested parties of the proposed amendments to the county physical and land use development plan and the period within which interested parties may make representations to the County Executive Committee member.\n(3) A proposal for amending a county physical and land use development plan shall —\n  (a) state the reasons for the proposed amendment;\n  (b) comply with the relevant provisions of the County Governments Act (Cap. 265); and\n  (c) be in conformity with the National Physical and Land Use Development Plan and all relevant Inter-County Physical and Land Use Development Plans.\n(4) Where a county executive committee member determines that a proposed amendment to the county physical and land use development plan shall affect other counties, the county executive committee member shall consult the county executive committee members in the counties that are likely to be affected and shall take into account their comments before incorporating the amendment to the county physical and land use development plan.\n(5) During the process of amending a county physical and land use development plan, the county executive committee member shall ensure public participation.\n(6) The amended county physical and land use development plan shall be published by the county planning authority in accordance with section 41 of this Act.\n(7) This section shall not prevent the national government or a person ordinarily resident in a county from proposing an amendment to the county physical and land use development plan.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A county executive committee member, on his own motion or on recommendation of the county government, may initiate the modification of a county physical and land use development plan if—"
+    },
+    {
+     "ref": "(2)",
+     "text": "On the approval of the county government, the County Executive Committee member shall publish a notice in the Gazette, in at least two newspapers of national circulation and through electronic media notifying any interested parties of the proposed amendments to the county physical and land use development plan and the period within which interested parties may make representations to the County Executive Committee member."
+    },
+    {
+     "ref": "(3)",
+     "text": "A proposal for amending a county physical and land use development plan shall —"
+    },
+    {
+     "ref": "(4)",
+     "text": "Where a county executive committee member determines that a proposed amendment to the county physical and land use development plan shall affect other counties, the county executive committee member shall consult the county executive committee members in the counties that are likely to be affected and shall take into account their comments before incorporating the amendment to the county physical and land use development plan."
+    },
+    {
+     "ref": "(5)",
+     "text": "During the process of amending a county physical and land use development plan, the county executive committee member shall ensure public participation."
+    },
+    {
+     "ref": "(6)",
+     "text": "The amended county physical and land use development plan shall be published by the county planning authority in accordance with section 41 of this Act."
+    },
+    {
+     "ref": "(7)",
+     "text": "This section shall not prevent the national government or a person ordinarily resident in a county from proposing an amendment to the county physical and land use development plan."
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Revision of a county physical and land use development plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) A county executive committee member may only initiate the process of revising a county physical and land use development plan after eight years have elapsed since the county plan was published in the Gazette.\n(2) The provisions of section 42 of this Act shall apply with the necessary modifications to the revision of a county physical and land use development plan.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A county executive committee member may only initiate the process of revising a county physical and land use development plan after eight years have elapsed since the county plan was published in the Gazette."
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of section 42 of this Act shall apply with the necessary modifications to the revision of a county physical and land use development plan."
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Contents of the National, Inter-County and County Physical and Land Use Development Plans",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "In addition to the provisions of sections 24, 30 and 39, the National, Inter-County and the County Physical and Land Use Development Plans shall provide for the matters specified in the First Schedule.",
+   "clauses": []
+  },
+  "45": {
+   "num": "45",
+   "title": "Local Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) A county government shall prepare a local physical and land use development plan in respect of a city, municipality, town or unclassified urban area as the case may be.\n(2) A local physical and land use development plan may be for long-term physical and land use development, short-term physical and land use development, urban renewal or redevelopment and for the purposes set out in the Second Schedule in relation to each type of plan.\n(3) A local physical and land use development plan shall be consistent with an Integrated City or Urban Development Plan as contemplated under Part V of the Urban Areas and Cities Act (Cap. 275).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A county government shall prepare a local physical and land use development plan in respect of a city, municipality, town or unclassified urban area as the case may be."
+    },
+    {
+     "ref": "(2)",
+     "text": "A local physical and land use development plan may be for long-term physical and land use development, short-term physical and land use development, urban renewal or redevelopment and for the purposes set out in the Second Schedule in relation to each type of plan."
+    },
+    {
+     "ref": "(3)",
+     "text": "A local physical and land use development plan shall be consistent with an Integrated City or Urban Development Plan as contemplated under Part V of the Urban Areas and Cities Act (Cap. 275)."
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "Purpose of a Local Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "A county government shall prepare a local physical and land use development plan for—\n  (a) zoning, urban renewal, or redevelopment;\n  (b) guiding and co-ordinating the development of infrastructure;\n  (c) regulating the land use and land development;\n  (d) providing a framework for coordinating various sectoral agencies; and\n  (e) providing a framework and guidelines on building and works development in the city, municipality, urban area, or other smaller urban centres including local centres, and market centres.",
+   "clauses": []
+  },
+  "47": {
+   "num": "47",
+   "title": "Initiation and preparation of local physical and land use development plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "The preparation of a local physical and land use development plan may be initiated by the county executive committee member.",
+   "clauses": []
+  },
+  "48": {
+   "num": "48",
+   "title": "Contents of a Local Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) A local physical and land use development plan shall consist of—\n  (a) a survey report in respect of the area to which the plan relates carried out as the manner specified in the Second Schedule; and\n  (b) any Geographical Information System-based maps and descriptions as may be necessary to indicate the manner in which the land in the area may be used in accordance with the requirements of the Second Schedule.\n(2) The survey report in a local physical and land use development plan should include technical annexes and a sieve analysis of gradient, environment and infrastructure so as to provide for maximum locations for new developments.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A local physical and land use development plan shall consist of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The survey report in a local physical and land use development plan should include technical annexes and a sieve analysis of gradient, environment and infrastructure so as to provide for maximum locations for new developments."
+    }
+   ]
+  },
+  "49": {
+   "num": "49",
+   "title": "Notice of objections and approvals to a Local Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) Within thirty days of the preparation of a local physical and land use development plan, a county planning authority shall publish a notice in the Gazette, in at least two newspapers of national circulation and through electronic media informing the public that the plan is available at the places and times designated in the notice for inspection and that an interested person may comment on the content of the plan.\n(2) The provisions of section 40 relating to the making of representations or objections to the county physical and land use planning liaison committee concerning county physical and land use development plans and to the consideration by the committee of such representations or objections and to appeals shall apply mutatis mutandis to this section.\n(3) The provisions of section 41 relating to the approval or disapproval of a county physical and land use development plan shall apply mutatis mutandis to the approval or disapproval of a local physical and land use development plan.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Within thirty days of the preparation of a local physical and land use development plan, a county planning authority shall publish a notice in the Gazette, in at least two newspapers of national circulation and through electronic media informing the public that the plan is available at the places and times designated in the notice for inspection and that an interested person may comment on the content of the plan."
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of section 40 relating to the making of representations or objections to the county physical and land use planning liaison committee concerning county physical and land use development plans and to the consideration by the committee of such representations or objections and to appeals shall apply mutatis mutandis to this section."
+    },
+    {
+     "ref": "(3)",
+     "text": "The provisions of section 41 relating to the approval or disapproval of a county physical and land use development plan shall apply mutatis mutandis to the approval or disapproval of a local physical and land use development plan."
+    }
+   ]
+  },
+  "50": {
+   "num": "50",
+   "title": "Publication of Local Physical and Land Use Development Plans",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "The County Executive Committee member shall within fourteen days after the approval of a local physical and land use development plan publish a notice in the Gazette, in at least two newspapers of national circulation and through electronic media that the plan has been approved with or without modification and that the plan may be inspected at the place or places and times specified in the notice during normal working hours.",
+   "clauses": []
+  },
+  "51": {
+   "num": "51",
+   "title": "Amendment or Revision of Local Physical and Land Use Development Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) A county executive committee member may amend or revise a local physical and land use development plan where—\n  (a) there are practical difficulties in the implementation of the plan; or\n  (b) there has been change of circumstances since the plan was approved.\n(2) Where the county executive committee member intends to amend or revise a local physical and land use development plan, the provisions of section 42 shall apply with the necessary modifications.\n(3) A County Executive Committee member may initiate the revision of a local physical and land use development plan after a period of three years after the plan has been approved in accordance with section 51 of this Act or as the need may arise.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A county executive committee member may amend or revise a local physical and land use development plan where—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the county executive committee member intends to amend or revise a local physical and land use development plan, the provisions of section 42 shall apply with the necessary modifications."
+    },
+    {
+     "ref": "(3)",
+     "text": "A County Executive Committee member may initiate the revision of a local physical and land use development plan after a period of three years after the plan has been approved in accordance with section 51 of this Act or as the need may arise."
+    }
+   ]
+  },
+  "52": {
+   "num": "52",
+   "title": "Declaration of a Special Planning Area",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "(1) A county government may, on its own motion or as may be requested by the national government or the National Physical and Land Use Planning Consultative Forum, declare an area as a special planning area if—\n  (a) that area has unique development, natural resource, environmental potential or challenges;\n  (b) that area has been identified as suitable for intensive and specialized development activity;\n  (c) the development of that area might have significant effect beyond that area's immediate locality;\n  (d) the development of that area raises significant urban design and environmental challenges; or\n  (e) the declaration is meant to guide the implementation of strategic national projects; or guide the management of internationally shared resources.\n(2) Where a county government has declared an area as a special planning area, the county executive committee member may, by notice in the Gazette, suspend for a period of not more than two years any development in the special planning area until a physical and land use development plan in respect of that area has been approved.\n(3) Despite subsection (2), where planning permission has been granted in an area declared to be a special planning area before the declaration is made, the permitted development shall be permitted to continue but only if planning permission was granted more than six months before the declaration of the special planning area.\n(4) The county government shall declare an area as a special planning area by notice in the Gazette and in at least two newspapers of national circulation and the notice shall specify the area declared as a special planning area and the nature of the proposed development for which the declaration has been made.\n(5) A county planning authority may publish such Regulations as may be necessary to promote public participation during the process of declaring an area a special planning area.\n(6) A physical and land use development plan prepared for a special planning area shall undergo the process of approval in accordance with section 49 of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A county government may, on its own motion or as may be requested by the national government or the National Physical and Land Use Planning Consultative Forum, declare an area as a special planning area if—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a county government has declared an area as a special planning area, the county executive committee member may, by notice in the Gazette, suspend for a period of not more than two years any development in the special planning area until a physical and land use development plan in respect of that area has been approved."
+    },
+    {
+     "ref": "(3)",
+     "text": "Despite subsection (2), where planning permission has been granted in an area declared to be a special planning area before the declaration is made, the permitted development shall be permitted to continue but only if planning permission was granted more than six months before the declaration of the special planning area."
+    },
+    {
+     "ref": "(4)",
+     "text": "The county government shall declare an area as a special planning area by notice in the Gazette and in at least two newspapers of national circulation and the notice shall specify the area declared as a special planning area and the nature of the proposed development for which the declaration has been made."
+    },
+    {
+     "ref": "(5)",
+     "text": "A county planning authority may publish such Regulations as may be necessary to promote public participation during the process of declaring an area a special planning area."
+    },
+    {
+     "ref": "(6)",
+     "text": "A physical and land use development plan prepared for a special planning area shall undergo the process of approval in accordance with section 49 of this Act."
+    }
+   ]
+  },
+  "53": {
+   "num": "53",
+   "title": "Contents of a Special Area Plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "A special area plan shall contain—\n  (a) written statement highlighting the grounds for the declaration of a special plan area;\n  (b) the challenges the special plan intends to address;\n  (c) the geographical area covered by the special plan;\n  (d) the infrastructure needs of the special plan area;\n  (e) a detailed assessment of the social, environmental and economic conditions of the special plan area;\n  (f) proposed zones in the special plan area;\n  (g) proposed conditions for development in the special plan area;\n  (h) how public participation and innovative approaches will be used in planning and implementation process; and\n  (i) a framework for the implementation, monitoring and evaluation of the special plan.",
+   "clauses": []
+  },
+  "54": {
+   "num": "54",
+   "title": "Plans to be made in accordance with this Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TYPES OF PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "All plans formulated under the Urban Areas and Cities Act (Cap. 275) shall, with necessary modifications, be prepared and approved in accordance with this Act.",
+   "clauses": []
+  },
+  "55": {
+   "num": "55",
+   "title": "Objectives of development control",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "(1) The objectives of development control are—\n  (a) to ensure orderly physical and land use development;\n  (b) to ensure optimal land use;\n  (c) to ensure the proper execution and implementation of approved physical and land use development plans;\n  (d) to protect and conserve the environment;\n  (e) to promote public safety and health;\n  (f) to promote public participation in physical and land use development decision-making;\n  (g) to ensure orderly and planned building development, planning, design, construction, operation and maintenance; and (h) to promote the safeguarding of national security.\n(2) In addition to the provisions of subsection (1), development control may also relate to the matters specified in the Third Schedule",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The objectives of development control are— (a) to ensure orderly physical and land use development; (b) to ensure optimal land use; (c) to ensure the proper execution and implementation of approved physical and land use development plans; (d) to protect and conserve the environment; (e) to promote public safety and health; (f) to promote public participation in physical and land use development decision-making; (g) to ensure orderly and planned building development, planning, design, construction, operation and maintenance; and (h) to promote the safeguarding of national security."
+    },
+    {
+     "ref": "(2)",
+     "text": "In addition to the provisions of subsection (1), development control may also relate to the matters specified in the Third Schedule"
+    }
+   ]
+  },
+  "56": {
+   "num": "56",
+   "title": "Power to undertake development control",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "Subject to the provisions of this Act, the Urban Areas and Cities Act (Cap. 275) and the County Governments Act (Cap. 265) the county governments shall have the power within their areas of jurisdiction to—\n  (a) prohibit or control the use and development of land and buildings in the interests of proper and orderly development of its area;\n  (b) control or prohibit the subdivision of land;\n  (c) consider and approve all development applications and grant all development permissions;\n  (d) ensure the proper execution and implementation of approved physical and land use development plans;\n  (e) formulate by-laws to regulate zoning in respect of use and density of development;\n  (f) reserve and maintain all the land planned for open spaces, parks, urban forests and green belts in accordance with the approved physical and land use development plans; and (g) consider and determine development planning applications made in respect of land adjoining or within reasonable vicinity of safeguarding areas.",
+   "clauses": []
+  },
+  "57": {
+   "num": "57",
+   "title": "Development permission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "(1) A person shall not carry out development within a county without a development permission granted by the respective county executive committee member.\n(2) A person who commences any development without obtaining development permission commits an offence and is liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding two months or to both.\n(3) A county executive committee member shall require a person who has commenced a development without obtaining development permission to restore the land on which the development is taking place to its original condition or as near to its original condition as is possible and that such restoration shall take place within ninety days.\n(4) Where a person who is required to do so fails to comply with the provisions of subsection (3), the relevant county executive committee member may undertake to restore the land as required and shall recover the cost of the restoration from the person required to undertake the restoration.\n(5) A county executive committee member may revoke development permission if the applicant has contravened any provision of this Act or conditions imposed on the development permission for any justifiable cause.\n(6) A county executive committee member may modify the conditions imposed on development permission where circumstances require it or for any justifiable cause.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not carry out development within a county without a development permission granted by the respective county executive committee member."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who commences any development without obtaining development permission commits an offence and is liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding two months or to both."
+    },
+    {
+     "ref": "(3)",
+     "text": "A county executive committee member shall require a person who has commenced a development without obtaining development permission to restore the land on which the development is taking place to its original condition or as near to its original condition as is possible and that such restoration shall take place within ninety days."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where a person who is required to do so fails to comply with the provisions of subsection (3), the relevant county executive committee member may undertake to restore the land as required and shall recover the cost of the restoration from the person required to undertake the restoration."
+    },
+    {
+     "ref": "(5)",
+     "text": "A county executive committee member may revoke development permission if the applicant has contravened any provision of this Act or conditions imposed on the development permission for any justifiable cause."
+    },
+    {
+     "ref": "(6)",
+     "text": "A county executive committee member may modify the conditions imposed on development permission where circumstances require it or for any justifiable cause."
+    }
+   ]
+  },
+  "58": {
+   "num": "58",
+   "title": "Application for development permission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "(1) A person shall obtain development permission from the respective county executive committee member by applying for development permission from that county executive committee member in the prescribed form and after paying the prescribed fees.\n(2) An applicant for development permission shall provide documents, plans and particulars as may be required by the respective county executive committee member to indicate the purposes of the proposed development.\n(3) An applicant for development permission shall indicate the proposed uses to which the land shall be put, the population density to which that land shall be subjected and the portion of the land the applicant shall provide for easements as a consequence of the applicant's proposed development.\n(4) Where an applicant is not the registered owner of the land for which development permission is being sought, that applicant shall obtain the written consent of the registered owner of that land and the applicant shall provide that written consent to the respective county executive committee member at the time of applying for development permission.\n(5) The development permission granted by a county executive committee member shall be subject to compliance with the provisions of any other written law.\n(6) Where an applicant does not receive written response for development permission within sixty days, such permission shall be assumed to have been given in terms of this Act.\n(7) A person applying for development permission shall also notify the public of the development project being proposed to be undertaken in a certain area in such a manner as the Cabinet Secretary shall prescribe.\n(8) The notification referred to under subsection (7), shall invite the members of the public to submit any objections on the proposed development project to the relevant county executive committee member for consideration.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall obtain development permission from the respective county executive committee member by applying for development permission from that county executive committee member in the prescribed form and after paying the prescribed fees."
+    },
+    {
+     "ref": "(2)",
+     "text": "An applicant for development permission shall provide documents, plans and particulars as may be required by the respective county executive committee member to indicate the purposes of the proposed development."
+    },
+    {
+     "ref": "(3)",
+     "text": "An applicant for development permission shall indicate the proposed uses to which the land shall be put, the population density to which that land shall be subjected and the portion of the land the applicant shall provide for easements as a consequence of the applicant's proposed development."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where an applicant is not the registered owner of the land for which development permission is being sought, that applicant shall obtain the written consent of the registered owner of that land and the applicant shall provide that written consent to the respective county executive committee member at the time of applying for development permission."
+    },
+    {
+     "ref": "(5)",
+     "text": "The development permission granted by a county executive committee member shall be subject to compliance with the provisions of any other written law."
+    },
+    {
+     "ref": "(6)",
+     "text": "Where an applicant does not receive written response for development permission within sixty days, such permission shall be assumed to have been given in terms of this Act."
+    },
+    {
+     "ref": "(7)",
+     "text": "A person applying for development permission shall also notify the public of the development project being proposed to be undertaken in a certain area in such a manner as the Cabinet Secretary shall prescribe."
+    },
+    {
+     "ref": "(8)",
+     "text": "The notification referred to under subsection (7), shall invite the members of the public to submit any objections on the proposed development project to the relevant county executive committee member for consideration."
+    }
+   ]
+  },
+  "59": {
+   "num": "59",
+   "title": "Plans and documents to be prepared by qualified person",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "(1) A person applying for development permission shall ensure that any documents, plans and particulars that are provided to the respective county executive committee member while applying for development permission have been prepared by the relevant qualified, registered and licensed professionals.\n(2) A person who purports to prepare a document, plan or particulars required under this Act shall prove that person's credentials when asked to do so by a county executive committee member and shall be required to authenticate the copies of the documents, plans or particulars provided to the county executive committee member in that person's name.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person applying for development permission shall ensure that any documents, plans and particulars that are provided to the respective county executive committee member while applying for development permission have been prepared by the relevant qualified, registered and licensed professionals."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who purports to prepare a document, plan or particulars required under this Act shall prove that person's credentials when asked to do so by a county executive committee member and shall be required to authenticate the copies of the documents, plans or particulars provided to the county executive committee member in that person's name."
+    }
+   ]
+  },
+  "60": {
+   "num": "60",
+   "title": "Development application referred to relevant authorities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "(1) Within seven days of receiving an application for development permission, the county executive committee member shall give a copy of the application to the relevant authorities or agencies to review and comment and the relevant authorities or agencies shall comment on all relevant matters including—\n  (a) land survey;\n  (b) roads and transport;\n  (c) agriculture and livestock;\n  (d) health;\n  (e) public works and utilities;\n  (f) environment and natural resources;\n  (g) urban development;\n  (h) national security in respect of land adjoining or within reasonable vicinity of safeguarding areas; and\n  (i) any other relevant authority.\n(2) Within fourteen days of receiving the copy of the development permission from a county executive committee member, the relevant authorities or agencies shall submit their comments to the respective county executive committee member.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Within seven days of receiving an application for development permission, the county executive committee member shall give a copy of the application to the relevant authorities or agencies to review and comment and the relevant authorities or agencies shall comment on all relevant matters including—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Within fourteen days of receiving the copy of the development permission from a county executive committee member, the relevant authorities or agencies shall submit their comments to the respective county executive committee member."
+    }
+   ]
+  },
+  "61": {
+   "num": "61",
+   "title": "Decision making and communication",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "(1) When considering an application for development permission, a county executive committee member—\n  (a) shall be bound by the relevant approved national, county, local, city, urban, town and special areas plans;\n  (b) shall take into consideration the provision of community facilities, environmental, and other social amenities in the area where development permission is being sought;\n  (c) shall take into consideration the comments made on the application for development permission by other relevant authorities in the area where development permission is being sought;\n  (d) shall take into consideration the comments made by the members of the public on the application for development permission made by the person seeking to undertake development in a certain area; and\n  (e) in the case of a leasehold property, shall take into consideration any special conditions stipulated in the lease.\n(2) With regards to an application for development permission that complies with the provisions of this Act and within thirty days of receiving an application for development permission, the county executive committee member may—\n  (a) grant the applicant the development permission in the prescribed form and may stipulate any conditions it considers necessary when granting the development permission; or\n  (b) refuse to grant the applicant the development permission in the prescribed form and state the grounds for the refusal in writing.\n(3) An applicant or an interested party that is aggrieved by the decision of a county executive committee member regarding an application for development permission may appeal against that decision to the County Physical and Land Use Planning Liaison Committee within fourteen days of the decision by the county executive committee member and that committee shall hear and determine the appeal within fourteen days of the appeal being filed.\n(4) An applicant or an interested party who files an appeal under sub-section (3) and who is aggrieved by the decision of the committee may appeal against that decision to the Environment and Land Court.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "When considering an application for development permission, a county executive committee member—"
+    },
+    {
+     "ref": "(2)",
+     "text": "With regards to an application for development permission that complies with the provisions of this Act and within thirty days of receiving an application for development permission, the county executive committee member may—"
+    },
+    {
+     "ref": "(3)",
+     "text": "An applicant or an interested party that is aggrieved by the decision of a county executive committee member regarding an application for development permission may appeal against that decision to the County Physical and Land Use Planning Liaison Committee within fourteen days of the decision by the county executive committee member and that committee shall hear and determine the appeal within fourteen days of the appeal being filed."
+    },
+    {
+     "ref": "(4)",
+     "text": "An applicant or an interested party who files an appeal under sub-section (3) and who is aggrieved by the decision of the committee may appeal against that decision to the Environment and Land Court."
+    }
+   ]
+  },
+  "62": {
+   "num": "62",
+   "title": "Registers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "(1) Each county executive committee member shall maintain a register of documents submitted by applicants for development permission and shall issue a submission certificate to every applicant who submits such documents.\n(2) Each county executive committee member shall maintain a register of development permission and shall enter the details of each applicant for development permission, whether or not development permission was granted to that applicant and the details of the proposed project for which development permission has been applied for.\n(3) A register maintained by a county executive committee member under this Act shall be open to the public for scrutiny and the Cabinet Secretary shall publish guidelines for public access to that register.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Each county executive committee member shall maintain a register of documents submitted by applicants for development permission and shall issue a submission certificate to every applicant who submits such documents."
+    },
+    {
+     "ref": "(2)",
+     "text": "Each county executive committee member shall maintain a register of development permission and shall enter the details of each applicant for development permission, whether or not development permission was granted to that applicant and the details of the proposed project for which development permission has been applied for."
+    },
+    {
+     "ref": "(3)",
+     "text": "A register maintained by a county executive committee member under this Act shall be open to the public for scrutiny and the Cabinet Secretary shall publish guidelines for public access to that register."
+    }
+   ]
+  },
+  "63": {
+   "num": "63",
+   "title": "Development fees",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "(1) A county executive committee member may levy a development fee against an applicant for development permission.\n(2) Each county government may, by notice in the Gazette, publish Regulations determining the circumstances under which a development fee shall be levied, the rates that shall be payable and the circumstances under which a development fee may be waived.\n(3) Where a development fee has been waived in relation to an application for development permission, a county executive committee member may require that applicant to develop infrastructure in relation to the property in question for general use by the residents of the area where the property in question is located.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A county executive committee member may levy a development fee against an applicant for development permission."
+    },
+    {
+     "ref": "(2)",
+     "text": "Each county government may, by notice in the Gazette, publish Regulations determining the circumstances under which a development fee shall be levied, the rates that shall be payable and the circumstances under which a development fee may be waived."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a development fee has been waived in relation to an application for development permission, a county executive committee member may require that applicant to develop infrastructure in relation to the property in question for general use by the residents of the area where the property in question is located."
+    }
+   ]
+  },
+  "64": {
+   "num": "64",
+   "title": "Lapse of development permission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "(1) Where an applicant for development permission has been granted development permission but has not commenced the proposed project within three years of receiving the development permission that permission shall lapse.\n(2) Despite sub-section (1), a county executive committee member, where an applicant makes an application, may extend development permission by a period of one year if the county executive committee member determines it is necessary or just to grant that extension.\n(3) Where a county executive committee member extends development permission, it may impose further conditions on the applicant that he or she considers fit.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where an applicant for development permission has been granted development permission but has not commenced the proposed project within three years of receiving the development permission that permission shall lapse."
+    },
+    {
+     "ref": "(2)",
+     "text": "Despite sub-section (1), a county executive committee member, where an applicant makes an application, may extend development permission by a period of one year if the county executive committee member determines it is necessary or just to grant that extension."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a county executive committee member extends development permission, it may impose further conditions on the applicant that he or she considers fit."
+    }
+   ]
+  },
+  "65": {
+   "num": "65",
+   "title": "Commencement and completion of building",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "A county executive committee member may impose conditions or impose a fine to be prescribed in regulations on an applicant for development permission for building works where that applicant fails to complete the building works within five years.",
+   "clauses": []
+  },
+  "66": {
+   "num": "66",
+   "title": "Prohibition of grant of license for development of a commercial or industrial nature",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "A licensing authority shall not grant a license for the commercial or industrial use or occupation of any building, or in respect of any premises or land, for which development permission has not been granted by the relevant county executive committee member.",
+   "clauses": []
+  },
+  "67": {
+   "num": "67",
+   "title": "Offences relating to development permission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "(1) A person commits an offence if that person—\n  (a) uses or permits to be used any land or building in contravention of any conditions imposed by a county executive committee member when granting development permission; or\n  (b) commences, undertakes or carries out—\n  (i) a development where development permission has been revoked;\n  (ii) a development where development permission has been modified and the development does not comply with the modifications in the development permission; or\n  (iii) a development where the building works are inconsistent with the plans approved by the county executive committee member.\n  (c) being a public officer, grants development permission or comments on an application for development permission contrary to this Act or any other law.\n(2) Despite the provisions of subsections (1) (a) and (1) (b) (iii) of this section, in case of any material variations in a development permission, the applicant may apply to the county executive committee member for development permission.\n(3) A person who commits an offence under this section is liable, on conviction to a fine of not less than one million shillings or to imprisonment for a term of not less than five years or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person commits an offence if that person—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Despite the provisions of subsections (1) (a) and (1) (b) (iii) of this section, in case of any material variations in a development permission, the applicant may apply to the county executive committee member for development permission."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who commits an offence under this section is liable, on conviction to a fine of not less than one million shillings or to imprisonment for a term of not less than five years or to both."
+    }
+   ]
+  },
+  "68": {
+   "num": "68",
+   "title": "Access to information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "(1) A county executive committee member may demand the production of, and make extracts from, all registers or other records or any deeds or instruments belonging to, or in the custody or possession of, any public officer or any person and in which are contained particulars of any land or property affected by the relevant physical and land use development plan.\n(2) The information obtained by a county executive committee member in accordance with sub-section (1) shall be treated confidentially and shall not be disclosed to any other person except by an order of a court in connection with any legal proceedings.\n(3) Any request for information shall protect the rights enshrined in Article 31 of the Constitution.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A county executive committee member may demand the production of, and make extracts from, all registers or other records or any deeds or instruments belonging to, or in the custody or possession of, any public officer or any person and in which are contained particulars of any land or property affected by the relevant physical and land use development plan."
+    },
+    {
+     "ref": "(2)",
+     "text": "The information obtained by a county executive committee member in accordance with sub-section (1) shall be treated confidentially and shall not be disclosed to any other person except by an order of a court in connection with any legal proceedings."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any request for information shall protect the rights enshrined in Article 31 of the Constitution."
+    }
+   ]
+  },
+  "69": {
+   "num": "69",
+   "title": "Strategic national or inter-county projects",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "(1) The Cabinet Secretary shall consider and offer policy guidance to any public institution proposing a project of strategic national importance.\n(2) Any inter-county physical and land use development projects shall be approved in accordance with section 33.\n(3) The Cabinet Secretary shall within sixty days of the enactment of this Act make regulations prescribing for the projects that may be classified as strategic national or inter-county projects.\n(4) The Cabinet Secretary may consider and approve development permission for any development to be carried out within the prescribed projects of strategic national importance.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary shall consider and offer policy guidance to any public institution proposing a project of strategic national importance."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any inter-county physical and land use development projects shall be approved in accordance with section 33."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary shall within sixty days of the enactment of this Act make regulations prescribing for the projects that may be classified as strategic national or inter-county projects."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Cabinet Secretary may consider and approve development permission for any development to be carried out within the prescribed projects of strategic national importance."
+    }
+   ]
+  },
+  "70": {
+   "num": "70",
+   "title": "Exemption from application of this Part",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "This Part shall not apply in respect of a development by or on behalf of the Kenya Defence Forces and other national security installations.",
+   "clauses": []
+  },
+  "71": {
+   "num": "71",
+   "title": "Preservation of heritage sites",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DEVELOPMENT CONTROL",
+   "text": "(1) Subject to the provisions of National Museums and Heritage Act (Cap. 216), a county government may, after consultation with the Cabinet Secretary responsible for national heritage, serve on the owner or occupier of a building which in the opinion of the county government is of special architectural value or historic interest, an order prohibiting the demolition, alteration or extension of such building.\n(2) All physical and land use development plans shall take into account and record all heritage sites declared or deemed to have been declared under the National Museums and Heritage Act (Cap. 216).\n(3) The owner of any building which shall be declared a national monument building shall be compensated for loss of use and income.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of National Museums and Heritage Act (Cap. 216), a county government may, after consultation with the Cabinet Secretary responsible for national heritage, serve on the owner or occupier of a building which in the opinion of the county government is of special architectural value or historic interest, an order prohibiting the demolition, alteration or extension of such building."
+    },
+    {
+     "ref": "(2)",
+     "text": "All physical and land use development plans shall take into account and record all heritage sites declared or deemed to have been declared under the National Museums and Heritage Act (Cap. 216)."
+    },
+    {
+     "ref": "(3)",
+     "text": "The owner of any building which shall be declared a national monument building shall be compensated for loss of use and income."
+    }
+   ]
+  },
+  "72": {
+   "num": "72",
+   "title": "Enforcement notice",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "ENFORCEMENT",
+   "text": "(1) A county executive committee member shall serve the owner, occupier, agent or developer of property or land with an enforcement notice if it comes to the notice of that county executive committee member that—\n  (a) a developer commences development on any land after the commencement of this Act without the required development permission having been obtained; or (b) any condition of a development permission granted under this Act has not been complied with.\n(2) An enforcement notice shall—\n  (a) specify the development alleged to have been carried out without development permission or the conditions of the development permission alleged to have been contravened;\n  (b) specify measures the developer shall take, the date on which the notice shall take effect, the period within which the measures shall be complied; and (c) require within a specified period the demolition or alteration of any building or works or the discontinuance of any use of land or the construction of any building or the carrying out of any other activities.\n(3) Where a person on whom an enforcement notice has been served is aggrieved by that notice, that person may appeal to the relevant County Physical and Land Use Planning Liaison Committee within fourteen days of being served with the notice and the committee shall hear and determine the appeal within thirty days of the appeal being filed.\n(4) Any party aggrieved with the determination of the county physical and land use planning liaison committee may appeal to the court only on a matter of law and the court shall hear and determine the appeal within thirty days.\n(5) A person who has been served with an enforcement notice and who refuses to comply with the provisions of that notice commits an offence and is liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding two months or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A county executive committee member shall serve the owner, occupier, agent or developer of property or land with an enforcement notice if it comes to the notice of that county executive committee member that— (a) a developer commences development on any land after the commencement of this Act without the required development permission having been obtained; or (b) any condition of a development permission granted under this Act has not been complied with."
+    },
+    {
+     "ref": "(2)",
+     "text": "An enforcement notice shall— (a) specify the development alleged to have been carried out without development permission or the conditions of the development permission alleged to have been contravened; (b) specify measures the developer shall take, the date on which the notice shall take effect, the period within which the measures shall be complied; and (c) require within a specified period the demolition or alteration of any building or works or the discontinuance of any use of land or the construction of any building or the carrying out of any other activities."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a person on whom an enforcement notice has been served is aggrieved by that notice, that person may appeal to the relevant County Physical and Land Use Planning Liaison Committee within fourteen days of being served with the notice and the committee shall hear and determine the appeal within thirty days of the appeal being filed."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any party aggrieved with the determination of the county physical and land use planning liaison committee may appeal to the court only on a matter of law and the court shall hear and determine the appeal within thirty days."
+    },
+    {
+     "ref": "(5)",
+     "text": "A person who has been served with an enforcement notice and who refuses to comply with the provisions of that notice commits an offence and is liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding two months or to both."
+    }
+   ]
+  },
+  "73": {
+   "num": "73",
+   "title": "Establishment of the National Physical and Land Use Planning Liaison Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "There is established the National Physical and Land Use Planning Liaison Committee.",
+   "clauses": []
+  },
+  "74": {
+   "num": "74",
+   "title": "Composition of National Physical and Land Use Planning Liaison Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "(1) The National Physical and Land Use Planning Liaison Committee shall consist of—\n  (a) a representative of the National Land Commission;\n  (b) the Director-General of the National Environment Management Authority or a designated representative;\n  (c) the Director-General of the Water Resources Management Authority or a designated representative;\n  (d) the Director-General of the Kenya National Highways Authority or a designated representative;\n  (e) the Chairperson of the National Construction Authority or a designated representative;\n  (f) the Chief of the Kenya Defence Forces or a designated representative;\n  (g) the National Director of Urban Development;\n  (h) two representatives of the Council of County Governors;\n  (i) a person nominated by the Kenya Private Sector Alliance and appointed by the Cabinet Secretary;\n  (j) a registered architect nominated by the Architectural Association of Kenya and appointed by the Cabinet Secretary;\n  (k) a registered physical planner nominated by the Kenya Institute of Planners and appointed by the Cabinet Secretary;\n  (l) a registered surveyor nominated by the Institution of Surveyors of Kenya and appointed by the Cabinet Secretary; and\n  (m) an advocate of the High Court nominated by the Law Society of Kenya and appointed by the Cabinet Secretary.\n(2) The Cabinet Secretary shall provide the secretariat services to the committee.\n(3) The members of the National Physical and Land Use Planning Liaison Committee appointed under subsection (1)(h), (i), (j), (k), (l) and (m) shall serve for a term not exceeding five years and shall not be eligible for re-appointment.\n(4) The Chairperson of the committee shall be a person appointed under paragraphs (h), (i), (j), (k), (l) or (m).\n(5) The National Physical and Land Use Planning Liaison Committee may co-opt any other persons with special skills, interest and knowledge to assist in its deliberations but not more than three persons at any one time.\n(6) The co-opted members of the National Physical and Land Use Planning Liaison Committee may not vote on any matter for which a vote of the committee is required and the numbers of the coopted members shall not count in determining the quorum of the National Physical and Land Use Planning Liaison Committee.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The National Physical and Land Use Planning Liaison Committee shall consist of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary shall provide the secretariat services to the committee."
+    },
+    {
+     "ref": "(3)",
+     "text": "The members of the National Physical and Land Use Planning Liaison Committee appointed under subsection (1)(h), (i), (j), (k), (l) and (m) shall serve for a term not exceeding five years and shall not be eligible for re-appointment."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Chairperson of the committee shall be a person appointed under paragraphs (h), (i), (j), (k), (l) or (m)."
+    },
+    {
+     "ref": "(5)",
+     "text": "The National Physical and Land Use Planning Liaison Committee may co-opt any other persons with special skills, interest and knowledge to assist in its deliberations but not more than three persons at any one time."
+    },
+    {
+     "ref": "(6)",
+     "text": "The co-opted members of the National Physical and Land Use Planning Liaison Committee may not vote on any matter for which a vote of the committee is required and the numbers of the coopted members shall not count in determining the quorum of the National Physical and Land Use Planning Liaison Committee."
+    }
+   ]
+  },
+  "75": {
+   "num": "75",
+   "title": "Functions of the National Physical and Land Use Planning Liaison Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "(1) The National Physical and Land Use Planning Liaison Committee shall—\n  (a) advise the Cabinet Secretary on broad physical and land use planning policies, strategies and standards; and\n  (b) hear and determine appeals under this Act or as may be provided for under any other written law.\n(2) The National Physical and Land Use Planning Liaison Committee may hear appeals against decisions made by the national planning authority including decisions on—\n  (a) the development of major infrastructure facilities;\n  (b) the reserving of public land for public projects;\n  (c) the implementation of national or inter-county physical and land use development plans; or\n  (d) the environmental impacts on ecologically sensitive areas by the implementation of strategic projects.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The National Physical and Land Use Planning Liaison Committee shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The National Physical and Land Use Planning Liaison Committee may hear appeals against decisions made by the national planning authority including decisions on—"
+    }
+   ]
+  },
+  "76": {
+   "num": "76",
+   "title": "Establishment of County Physical and Land Use Planning Liaison Committees",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "There is established a County Physical and Land Use Planning Liaison Committee for each county.",
+   "clauses": []
+  },
+  "77": {
+   "num": "77",
+   "title": "Composition of the County Physical and Land Use Planning Liaison Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "(1) The County Physical and Land Use Planning Liaison Committee shall consist of—\n  (a) an advocate of the High Court nominated by the Law Society of Kenya and appointed by the County Executive Committee member who shall be the Chairperson;\n  (b) a representative of the National Land Commission;\n  (c) a representative of the National Construction Authority;\n  (d) a registered physical planner with seven years' post-qualification experience nominated by the Kenya Institute of Planners and appointed by the County Executive Committee member;\n  (e) a registered architect with seven years' post-qualification experience nominated by the Architectural Association of Kenya and appointed by the County Executive Committee member;\n  (f) a registered surveyor with seven years' post-qualification experience nominated by the Institution of Surveyors of Kenya and appointed by the County Executive Committee member; and\n  (g) two members, being one male and one female, nominated by the county chamber of commerce and appointed by the County Executive Committee member.\n(2) The county physical and land use planning liaison committee may co-opt a maximum of five experts to assist in its deliberations.\n(3) The County Executive Committee member shall provide secretariat services to the committee.\n(4) The members of the County Physical and Land Use Planning Liaison Committee appointed under subsection (1)(a), (d), (e), (f) and (g) shall serve for a term not exceeding three years, renewable once.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The County Physical and Land Use Planning Liaison Committee shall consist of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The county physical and land use planning liaison committee may co-opt a maximum of five experts to assist in its deliberations."
+    },
+    {
+     "ref": "(3)",
+     "text": "The County Executive Committee member shall provide secretariat services to the committee."
+    },
+    {
+     "ref": "(4)",
+     "text": "The members of the County Physical and Land Use Planning Liaison Committee appointed under subsection (1)(a), (d), (e), (f) and (g) shall serve for a term not exceeding three years, renewable once."
+    }
+   ]
+  },
+  "78": {
+   "num": "78",
+   "title": "Functions of the County Physical and Land Use Planning Liaison Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "The functions of the County Physical and Land Use Planning Liaison Committee shall be to—\n  (a) hear and determine complaints and claims made in respect to applications submitted to the planning authority in the county;\n  (b) hear appeals against decisions made by the planning authority with respect to physical and land use development plans in the county;\n  (c) advise the County Executive Committee Member on broad physical and land use planning policies, strategies and standards; and\n  (d) hear appeals with respect to enforcement notices.",
+   "clauses": []
+  },
+  "79": {
+   "num": "79",
+   "title": "Procedure of the County Physical and Land Use Planning Liaison Committees",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "(1) The County Physical and Land Use Planning Liaison Committee shall, subject to this Act or any other written law, determine its own procedure.\n(2) Despite sub-section (1), the quorum of the County Physical and Land Use Planning Liaison Committee shall be half the members of the Liaison Committee.\n(3) Every decision of a County Physical and Land Use Planning Liaison Committee shall be by a majority vote of the members present and voting and where there is a tied vote, the Chairperson of that committee or the person acting as the Chairperson of that committee shall cast the deciding vote.\n(4) Where the Chairperson of a County Physical and Land Use Planning Liaison Committee is unable to exercise his functions owing to illness, genuine absence or any other reason, the members present shall elect one of their own to be the Chairperson of the respective Liaison Committee.\n(5) A County Physical and Land Use Planning Liaison Committee shall meet at least four times in a year.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The County Physical and Land Use Planning Liaison Committee shall, subject to this Act or any other written law, determine its own procedure."
+    },
+    {
+     "ref": "(2)",
+     "text": "Despite sub-section (1), the quorum of the County Physical and Land Use Planning Liaison Committee shall be half the members of the Liaison Committee."
+    },
+    {
+     "ref": "(3)",
+     "text": "Every decision of a County Physical and Land Use Planning Liaison Committee shall be by a majority vote of the members present and voting and where there is a tied vote, the Chairperson of that committee or the person acting as the Chairperson of that committee shall cast the deciding vote."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where the Chairperson of a County Physical and Land Use Planning Liaison Committee is unable to exercise his functions owing to illness, genuine absence or any other reason, the members present shall elect one of their own to be the Chairperson of the respective Liaison Committee."
+    },
+    {
+     "ref": "(5)",
+     "text": "A County Physical and Land Use Planning Liaison Committee shall meet at least four times in a year."
+    }
+   ]
+  },
+  "80": {
+   "num": "80",
+   "title": "Appeal to a County Physical and Land Use Planning Liaison Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "(1) A person who appeals to County Physical and Land Use Planning Liaison Committee shall do so in writing in the prescribed form.\n(2) A County Physical and Land Use Planning Liaison Committee shall hear and determine an appeal within thirty days of the appeal being filed and shall inform the appellant of the decision within fourteen days of making the determination.\n(3) The Chairperson of a County Physical and Land Use Planning Liaison Committee shall cause the determination of the committee to be filed in the Environment and Land Court and the court shall record the determination of the committee as a judgment of the court and published in the Gazette or in at least one newspaper of national circulation.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who appeals to County Physical and Land Use Planning Liaison Committee shall do so in writing in the prescribed form."
+    },
+    {
+     "ref": "(2)",
+     "text": "A County Physical and Land Use Planning Liaison Committee shall hear and determine an appeal within thirty days of the appeal being filed and shall inform the appellant of the decision within fourteen days of making the determination."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Chairperson of a County Physical and Land Use Planning Liaison Committee shall cause the determination of the committee to be filed in the Environment and Land Court and the court shall record the determination of the committee as a judgment of the court and published in the Gazette or in at least one newspaper of national circulation."
+    }
+   ]
+  },
+  "81": {
+   "num": "81",
+   "title": "Duty to appear before a County Physical and Land Use Planning Liaison Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "(1) A person who has been summoned to appear before a County Physical and Land Use Planning Liaison Committee may do so through a representative or through any form of communication that the committee may permit for the purpose and if required to produce or deliver any document that person shall produce or deliver that document in accordance with the direction of the committee.\n(2) A person who contravenes the provisions of this section commits an offence and is liable, on conviction, to a fine not exceeding twenty-five thousand shillings.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who has been summoned to appear before a County Physical and Land Use Planning Liaison Committee may do so through a representative or through any form of communication that the committee may permit for the purpose and if required to produce or deliver any document that person shall produce or deliver that document in accordance with the direction of the committee."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who contravenes the provisions of this section commits an offence and is liable, on conviction, to a fine not exceeding twenty-five thousand shillings."
+    }
+   ]
+  },
+  "82": {
+   "num": "82",
+   "title": "Communication",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "All summons issued or notices issued, or awards or orders made, under this Act by a County Physical and Land Use Planning Liaison Committee may be issued or made in electronic form or written form.",
+   "clauses": []
+  },
+  "83": {
+   "num": "83",
+   "title": "Withdrawal of appeal and abandonment of appeal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "(1) A person who has made an appeal before a County Physical and Land Use Planning Liaison Committee may withdraw the appeal in writing at any time before the appeal is determined by the committee.\n(2) The County Physical and Land Use Planning Liaison Committee shall notify each relevant party that an appeal has been withdrawn within seven days of receiving the written notice of the withdrawal.\n(3) Where a County Physical and Land Use Planning Liaison Committee determines that an appeal has been abandoned by the person who filed the appeal, that committee may require the applicant to submit to the committee, within fourteen days of the committee notifying the applicant in writing, reasons why the appeal should not be regarded as having been withdrawn.\n(4) The County Physical and Land Use Planning Liaison Committee shall consider the submissions made under sub-section (3) and shall either allow the appeal to be finally heard and determined or shall stop all proceedings and determine that the appeal has been withdrawn.\n(5) Every County Physical and Land Use Planning Liaison Committee shall maintain written records of all its proceedings.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who has made an appeal before a County Physical and Land Use Planning Liaison Committee may withdraw the appeal in writing at any time before the appeal is determined by the committee."
+    },
+    {
+     "ref": "(2)",
+     "text": "The County Physical and Land Use Planning Liaison Committee shall notify each relevant party that an appeal has been withdrawn within seven days of receiving the written notice of the withdrawal."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a County Physical and Land Use Planning Liaison Committee determines that an appeal has been abandoned by the person who filed the appeal, that committee may require the applicant to submit to the committee, within fourteen days of the committee notifying the applicant in writing, reasons why the appeal should not be regarded as having been withdrawn."
+    },
+    {
+     "ref": "(4)",
+     "text": "The County Physical and Land Use Planning Liaison Committee shall consider the submissions made under sub-section (3) and shall either allow the appeal to be finally heard and determined or shall stop all proceedings and determine that the appeal has been withdrawn."
+    },
+    {
+     "ref": "(5)",
+     "text": "Every County Physical and Land Use Planning Liaison Committee shall maintain written records of all its proceedings."
+    }
+   ]
+  },
+  "84": {
+   "num": "84",
+   "title": "Appeals to National Physical and Land Use Planning Liaison Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "The provisions of sections 80, 81, 82 and 83 shall apply with the necessary modifications in the case of appeals to the National Physical and Land Use Planning Liaison Committee.",
+   "clauses": []
+  },
+  "85": {
+   "num": "85",
+   "title": "Declaration of personal interest",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "(1) A member of the National Physical and Land Use Planning Liaison Committee or a County Physical and Land Use Planning Liaison Committee who has an interest in a matter being considered by that committee shall disclose that interest at the meeting in which that matter is being considered.\n(2) A member of a Physical and Land Use Planning Liaison Committee who makes a disclosure under subsection (1) shall not take part in any proceedings related to that matter.\n(3) A member of a physical and land use planning liaison committee who does not disclose an interest as required under this section commits an offence and is liable on conviction to a fine not exceeding one hundred thousand shillings or to imprisonment for a term not exceeding two months or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A member of the National Physical and Land Use Planning Liaison Committee or a County Physical and Land Use Planning Liaison Committee who has an interest in a matter being considered by that committee shall disclose that interest at the meeting in which that matter is being considered."
+    },
+    {
+     "ref": "(2)",
+     "text": "A member of a Physical and Land Use Planning Liaison Committee who makes a disclosure under subsection (1) shall not take part in any proceedings related to that matter."
+    },
+    {
+     "ref": "(3)",
+     "text": "A member of a physical and land use planning liaison committee who does not disclose an interest as required under this section commits an offence and is liable on conviction to a fine not exceeding one hundred thousand shillings or to imprisonment for a term not exceeding two months or to both."
+    }
+   ]
+  },
+  "86": {
+   "num": "86",
+   "title": "Disclosure of information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "(1) A person shall not disclose, without the consent of the National Physical and Land Use Planning Liaison Committee or a County Physical and Land Use Planning Liaison Committee, as the case may be—\n  (a) any information obtained while serving on that committee; or\n  (b) any information obtained from the committees in the performance of its functions.\n(2) A person who contravenes the provisions of subsection (1) commits an offence and on conviction is liable to a fine not exceeding one hundred thousand shillings.\n(3) Despite sub-section (1), a person may disclose information that person obtained while serving on the National Physical and Land Use Planning Liaison Committee or a County Physical and Land Use Planning Liaison Committee in the performance of their duties to a person authorized by any written law to be given that information or as may be required by a court of law.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not disclose, without the consent of the National Physical and Land Use Planning Liaison Committee or a County Physical and Land Use Planning Liaison Committee, as the case may be—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who contravenes the provisions of subsection (1) commits an offence and on conviction is liable to a fine not exceeding one hundred thousand shillings."
+    },
+    {
+     "ref": "(3)",
+     "text": "Despite sub-section (1), a person may disclose information that person obtained while serving on the National Physical and Land Use Planning Liaison Committee or a County Physical and Land Use Planning Liaison Committee in the performance of their duties to a person authorized by any written law to be given that information or as may be required by a court of law."
+    }
+   ]
+  },
+  "87": {
+   "num": "87",
+   "title": "Physical and Land Use Planning Liaison Committees to keep registers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "(1) Each Physical and Land Use Planning Liaison Committee shall maintain a register of each appeal filed, minutes of the meeting of the committee and the decisions of the committee.\n(2) Each register maintained by Physical and Land Use Planning Liaison Committees shall be made available to the public for scrutiny.\n(3) An interested party may, in the prescribed form, apply to a Physical and Land Use Planning Liaison Committee to examine a register maintained by that committee and that party may, after paying a prescribed fee, make copies or take extracts from that register.\n(4) The Cabinet Secretary may, by notice in the Gazette, make Regulations for the better implementation of the provisions of this section.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Each Physical and Land Use Planning Liaison Committee shall maintain a register of each appeal filed, minutes of the meeting of the committee and the decisions of the committee."
+    },
+    {
+     "ref": "(2)",
+     "text": "Each register maintained by Physical and Land Use Planning Liaison Committees shall be made available to the public for scrutiny."
+    },
+    {
+     "ref": "(3)",
+     "text": "An interested party may, in the prescribed form, apply to a Physical and Land Use Planning Liaison Committee to examine a register maintained by that committee and that party may, after paying a prescribed fee, make copies or take extracts from that register."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Cabinet Secretary may, by notice in the Gazette, make Regulations for the better implementation of the provisions of this section."
+    }
+   ]
+  },
+  "88": {
+   "num": "88",
+   "title": "Remuneration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "The remuneration of the members of the Physical and Land Use Planning Liaison Committees shall be recommended by the Salaries and Remuneration Commission.",
+   "clauses": []
+  },
+  "89": {
+   "num": "89",
+   "title": "Indemnity for public officers acting under this Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PHYSICAL AND LAND USE PLANNING LIAISON COMMITTEES",
+   "text": "A public officer acting under the Act shall not be liable in an action or a proceeding for or in respect of an act done or omitted to be done without negligence and in good faith in the exercise of any of the functions conferred by or under this Act.",
+   "clauses": []
+  },
+  "90": {
+   "num": "90",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "PROVISIONS ON DELEGATED POWERS",
+   "text": "(1) The Cabinet Secretary, may make regulations generally for giving effect to this Act, and for prescribing anything required to be prescribed by or under this Act.\n(2) Without prejudice to the generality of subsection (1), regulations made under that subsection may provide for—\n  (a) the forms to be used and fees to be charged under this Act;\n  (b) the norms, guidelines and standards for delivery of physical and land use planning services across the country;\n  (c) guidelines for operations of Inter-County Physical and Land Use Planning Committees;\n  (d) procedures for the conduct of Physical and Land Use Planning Liaison Committees;\n  (e) procedure and process of handling applications for development permission;\n  (f) any other matter generally required to give effect to the provisions of this Act. (3) For the purposes of Article 94(6) of the Constitution—\n  (a) the purpose and objective of the delegation under this section is to enable the Cabinet Secretary to make regulations for better carrying into effect the provisions of this Act;\n  (b) the authority of the Cabinet Secretary to make regulations under this Act will be limited to bringing into effect the provisions of this Act and fulfilment of the objectives specified under this section. (4) The principles and standards applicable to the delegated power referred to under this Act are those found in—\n  (a) the Statutory Instruments Act (Cap. 2A);\n  (b) the Interpretation and General Provisions Act (Cap. 2);\n  (c) the general rules of international law as specified under Article 2(5) of the Constitution; and (d) any treaty and convention ratified by Kenya under Article 2(6) of the Constitution.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary, may make regulations generally for giving effect to this Act, and for prescribing anything required to be prescribed by or under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), regulations made under that subsection may provide for—"
+    }
+   ]
+  },
+  "91": {
+   "num": "91",
+   "title": "Repeal of No. 6 of 1996",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Physical Planning Act, 1996 (No. 6 of 1996), is hereby repealed.",
+   "clauses": []
+  },
+  "92": {
+   "num": "92",
+   "title": "Transitional provisions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Any approval for development granted in accordance with the provisions of any written law in force immediately prior to the commencement of this Act shall be deemed to be a development permission granted under this Act.\n(2) Despite the provisions of subsection (1), if a development for which approval was granted under the provisions of any written law in force immediately before the commencement of this Act shall not have been commenced within twenty-four months of the commencement of this Act that development approval shall lapse.\n(3) Where an application for development had been made under the provisions of any written law prior to the commencement of this Act and approval has not been granted, that application shall be deemed to be an application for development permission under this Act and shall be deemed to have been made on the date of the commencement of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any approval for development granted in accordance with the provisions of any written law in force immediately prior to the commencement of this Act shall be deemed to be a development permission granted under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Despite the provisions of subsection (1), if a development for which approval was granted under the provisions of any written law in force immediately before the commencement of this Act shall not have been commenced within twenty-four months of the commencement of this Act that development approval shall lapse."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where an application for development had been made under the provisions of any written law prior to the commencement of this Act and approval has not been granted, that application shall be deemed to be an application for development permission under this Act and shall be deemed to have been made on the date of the commencement of this Act."
+    }
+   ]
+  },
+  "93": {
+   "num": "93",
+   "title": "Pending disputes",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "All disputes relating to physical and land use planning, before establishment of the national and county physical and land use planning liaison committees shall be heard and determined by the Environment and Land Court.",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [s. 24, 39, 44]",
+   "subtitle": "CONTENTS OF NATIONAL, INTER-COUNTY AND COUNTY PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "PART I 1. Introduction (1) Background of the Plan (2) Vision statement (3) Objectives (4) Scope of the Plan (5) Principles of the Plan (6) Methodology (7) Outline of the Plan 2. Planning Context (1) Location-national, inter-county, local context (2) Legal and policy context (3) Stakeholder concerns PART II 3. Situational Analysis (1) Population and demographic (2) Physiographic dynamic (3) Land analysis (4) Economy- industry, agriculture, commerce, mining and quarrying, fisheries (5) Transportation and communication (6) Infrastructure services (7) Urbanization (8) Rural developments (9) Housing (10) Environments (11) Climate change (12) Governance 4. Synthesis PART III (1) Development challenges, opportunities and alternative interventions 5. Plan Proposals (1) County Structure Plan (2) Strategies, measures, Actions 6. Action Plans PART IV 7. Implementation 8. Maps and graphics (1) Spatially present the existing situation and Plan proposals for purposes of clarity in— 9. Communication (1) Contextual Aspects.\nNational, Inter-County and Local context maps: These maps indicate relative location and position of the county. These are to the scale of 1:250,000 for national context, regional context ranges between, 1:50,000 and 1:100,000 and local context is 1:25,000. (2) Situation Analysis Context maps to illustrate features and aspects of various thematic areas. The scale depends on level of detail required to be illustrated or presented. The recommended scales range from 1:10,000, and 1:25,000. (3) Plan Proposals These maps indicate location of various Plan proposals. The scale depends on level of detail required to be illustrated or presented. The recommended scales range from 1:10,000 and 1:25,000. (4) Action Plans These maps indicate areas for detail treatment. The scale of the maps depends on area to be covered and particular aspects to be captured. The recommended scales range from 1:5,000 and 1:10,000. 10. Content of the Maps (1) Key features to be captured in a Base map include:\n  (a) Physiographic and natural features such as rivers, wetland, lakes, forests and hills among others. (b) Contours. (c) Main man-made features such as trunk roads, railway lines, water reticulation facilities, terminus, way leaves, and human settlements, urban nodes among others. (2) Contents of Plan Proposal Maps\n  (a) Selected existing features and elaborated presentation of the proposals. The maps should be georeferenced and in layers.\n11. Purpose of the survey report The survey report shall provide for—\n(1) matters that may be expected to affect development of the County;\n(2) an inventory of the principal physical, economic, environmental, and social characteristics; (3) a statement on national policies on economic, social, physical and environmental management and conservation; (4) the principal and expected land use effects on the County; (5) population size, composition, structure, quality, distribution and trends; (6) communications, transport system, and traffic flow; (7) inter and intra county linkages and relations; (8) projected changes on all sectoral aspects and effects that the projected changes are likely to have on development, or the Planning of the county; and (9) any other matter that may be prescribed. 12. Adoption of the survey report (1) The County Executive Committee Member shall submit the survey report to the relevant County Assembly for adoption. (2) If the County Assembly disapprove the survey report it shall state the reasons for its refusal and refer it to the county Director for review. (3) Submission of a reviewed survey report shall be undertaken as provided in the manner provided in subparagraph (1)."
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [s. 48]",
+   "subtitle": "CONTENTS OF LOCAL PHYSICAL AND LAND USE DEVELOPMENT PLANS",
+   "text": "PART A — MATTERS WHICH MAY BE DEALT WITH IN A LOCAL PHYSICAL AND LAND USE DEVELOPMENT PLAN 1. Vision 2. Objectives 3. Statements of the problem (a) Aspects of housing, unemployment, traffic congestion, pollution, land tenure, lack of services, terrain, soils;\n  (b) Opportunities in tourism, fishing, manufacturing; etc. (c) Combating climate change. 4. Objectives Statement (a) Ways of alleviating the problems. (b) Ways of maximization of utility and opportunities. 5. Analysis (a) Spatial analysis accompanied by physical and land use and suitability maps and charts focusing on —\n  (i) the terrain, soils and climate;\n  (ii) existing land uses and development;\n  (iii) potential pattern of development;\n  (iv) land tenure system; and (v) cadastral outlay of all development. (b) Population analysis;\n  (i) Population growth. (ii) Migration. (iii) Density. (iv) Distribution, age and sex structure. (v) Household sizes. (vi) Rates of household formation. (c) Economic analysis focusing on;\n  (i) Employment and incomes and places of work. (ii) Development trends and (iii) Problems of service delivery. (iv) Agricultural potential of the urban region. (v) Problems of transforming the agricultural land into urban use. (d) Contextual analysis (i) Peri-urban slum settlements and problems they pose. (ii) Potential, distribution and size of service centres within and outside the urban boundary. (iii) Evaluation of urban boundary extension. (iv) Evaluation of the importance of such factors as commerce and tourism within extended areas. (v) Historical patterns and conditions. (e) Housing and infrastructure analysis (i) Housing occupancy rates, accommodation density, housing requirements, type of residential areas and industrial locations. (ii) Education. (iii) Recreation areas and other public purpose land uses. (iv) Power lines and way leaves. (v) Water and sewerage networks. (vi) Housing and infrastructure programmes. (f) Transportation and communication analysis (i) Roads networks, footpaths, cycle ways, railway lines, depots, water ways, docks, etc. (ii) Telephone lines. 6. Projections (a) Land Use Projection Tables 7. Maps and modeling (a) Existing land use map (b) Sieve maps of the physical and land use constraints or thresholds to development (c) Development model map indicating land use designation and distribution as well as a clear transport and communication network.\nPART B — CONTENTS OF SURVEY REPORT 8. Before commencing preparation of a local spatial development plan a survey report shall be prepared providing details on—\n  (a) spatial analysis: Existing and projected land use patterns, land tenure, land suitability analysis, spread and trends;\n  (b) demographic dynamics; population growth, migration, density, and distribution, age and sex structure, household sizes and rates of household formation; employment and incomes including where people go to work and what trend and problems there are in relation to services;\n  (c) economic base analysis;\n  (d) reports on State of the environment; environmental assets, and condition;\n  (e) transport ;mode, level of service, traffic flow and congestion;\n  (f) communications networks such as roads, footpaths, cycle ways, railway lines, depots, water ways, docks, etc;\n  (g) housing situation; housing occupancy rates, accommodation density, housing requirements, type of residential areas and industrial locations;\n  (h) peri-urban slum settlements and problems they pose;\n  (i) problems of transforming the agricultural land into urban use;\n  (j) other social aspects including education, recreation areas and other public purpose land uses;\n  (k) infrastructure and services; existing, projected and gap analysis;\n  (l) opportunities; commerce, trade, transport, tourism, fishing, manufacturing, etc; and (m) any other matter as may be prescribed;\nPART C — CONTENT FOR RENEWAL AND RE-DEVELOPMENT PLAN 9. Maps of the project area 10. Justification statement for eligibility of the areas as a substandard, decadent or blighted open area 11. Land use pattern analysis and proposals 12. Project objectives including specifications of all proposed redevelopment and detailed job creation and retention estimates 13. A financial Plan including cost estimates and a project budget 14. Local approvals 15. Site preparations including land protections and measures to address environmental or flood problems, conservation of areas of historic, architectural significance 16. Traffic systems including safe pedestrian movement, access to buildings convenient and ample public car parks as well as efficient road links 17. Public improvements including how the improvements will help achieve the objectives of the Plan 18. A relocation Plan 19. Redeveloper's obligations (restrictions that are or will be placed on owners of individual parcels) 20. Disposition for each parcel including any known redeveloper 21. A report on citizen participation describing meaningful citizen participation in the Planning process and expected citizen participation during project execution"
+  },
+  {
+   "id": "att_3",
+   "title": "THIRD SCHEDULE [s. 55]",
+   "subtitle": "DEVELOPMENT CONTROL",
+   "text": "1. Aspects of development control The development control process and procedures may relate to any of the following—\n  (a) change of user;\n  (b) extension of users;\n  (c) extension of lease;\n  (d) sub-division scheme and amalgamation proposals;\n  (e) building plans;\n  (f) processing of easements and way-leaves;\n  (g) siting of education institutions, base transmission station, petrol stations, eco lodges, camp sites, power generation Plants, factories;\n  (h) advertisement; and (i) other as the county executive committee member may prescribe from time to time;\n2. Consideration of development application A county government shall, when considering a development application submitted—\n  (a) be bound by approved physical and land use Plans;\n  (b) have regard to relevant national and county policies;\n  (c) have regard to the health, safety, amenity, efficiency, aesthetics and conveniences of the community generally and to the proper Planning and density of development and land use in the area;\n  (d) have regard to any comments received from the officers or authorities and or relevant stakeholders as referred to in section 60;\n  (e) in the case of a leasehold, have regard to any special conditions stipulated in the lease.\n3. If any development application requires subdivision or change of user of any agricultural land, the county government shall require the applicant to obtain consent from the relevant Board.\n4. Planning authorities shall require applications for major developments to be subjected to environmental and social impact assessment.\n5. Consideration of change/extension of user The following factors shall be considered in the determination of change and extension of user—\n  (a) provisions of an approved physical and land use development Plan (b) Probable effects on the character of the neighbourhood (c) Effects on vehicular and pedestrian safety;\n  (b) visual impact;\n  (c) effect on the right to a view;\n  (d) defined location and size of the land;\n  (e) current user;\n  (f) area zoning regulations;\n  (g) infrastructure availability and adequacy.\n6. Consideration of extension of lease Extension of Lease (a) Whether the land is required for public purpose. (b) Whether special conditions in the lease were adhered to. (c) Whether the land is developed. (d) Whether the buildings on the land have been well maintained. (e) Provisions of relevant approved physical and land use development Plans. (f) Defined location and size of the land. (g) Current user of the land. (h) Infrastructure availability and adequacy.\n7. Consideration for subdivision and amalgamation Sub-division and amalgamation proposals (a) The design of the Plan. (b) Provisions of relevant approved physical and land use development Plans. (c) Land reference number, Size and shape of land. (d) The location Plan/inset. (e) Resultant subplots, their access and adequate truncations. (f) The owner of the property, name, signature, identification and telephone number. (g) Linkage and indication of classified roads, and other Infrastructure availability and adequacy. (h) Surrender of land for public utilities. (i) Change of user considering the minimum size of sub-plots. (j) Consent from the relevant agency in case of agricultural land.\n8. Where the development involves the erection of a building, the county government will consider the following—\n  (a) the use of the building;\n  (b) the sitting of the building within the plot;\n  (c) the elevations of the building, plinth area, canopies and height of buildings;\n  (d) the design, shape, civic design and facade and appearance of the building;\n  (e) the set back and the building line;\n  (f) access to and parking on land which the building is to be erected;\n  (g) loading bay;\n  (h) density;\n  (i) plot coverage;\n  (j) provision for rainwater harvesting facilities and water storage tanks in every building;\n  (k) landscaping;\n  (l) character;\n  (m) ventilation and lighting;\n  (n) infrastructure adequacy;\n  (o) environmental, health and cultural considerations; and (p) any other matter that a county government considers necessary for purposes of planning. 9. Where the building plans submitted do not meet the required standard, a county government shall communicate the areas of improvement to the applicant. 10. The applicant to whom any written directions are given shall amend the buildings Plans or drawings accordingly and resubmit within such a period as the county government may specify. 11. The building Plans or drawings to be submitted include—\n  (a) development Plan and drawings;\n  (b) architectural drawings and specifications;\n  (c) civil and Structural engineer's drawings and specifications;\n  (d) electrical engineer's drawings and specifications; and (e) mechanical and plumbing drawings and specifications. 12. Considerations for Easements and Way-leaves The following services require easements and ways leaves —\n  (a) telecommunications;\n  (b) electrical power supply;\n  (c) water and sewerage networks;\n  (d) oil pipeline;\n  (e) fibre optic;\n  (f) base transmission stations; and (g) any other service as may require easement and or way leave. 13. Consideration in approving advertisements The owner of a building may display the following illustrated advertisements without the prior consent of the relevant county government—\n(1) In the case of shops: the name and occupation of the occupier: Provided that the letters are not greater than 0.3 metre (12 inches) in depth and contains not more than 6 words.\n(2) In the case of offices: a notice board displayed at the ground floor entrance to the premises not exceeding 0.3 sq.metre. (1 sq. ft.) total for all occupiers.\n(3) Any advertisement displayed within a building or on land or building not visible from a street. 14. The display of advertisements not mentioned in (1) shall require permission from the relevant county government. (1) The grant of permission under paragraph (1) shall depend on — (2) the location, size and colours of the billboard. (3) traffic and pedestrian safety; (4) religious, cultural and moral character of the advertisements; (5) preservation of the natural environment; (6) scenic beauty; (7) the preservation of natural monuments and archeological sites; (8) general amenity; and (9) any other factor that the county government may consider necessary. 15. A county government may by notice in writing, require any person who displays an advertisement without permission to remove such advertisement within the time specified in the notice. 16. Authorities responsible for licensing educational facilities shall not issue licenses without advice from the relevant county government.\n17. In processing the applications the following planning considerations are taken into account— (1) the adequacy of the physical facilities; (2) land use conformity; and (3) size of land."
+  }
+ ]
+}

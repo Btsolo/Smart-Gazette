@@ -1,0 +1,1045 @@
+{
+ "title": "Standards Act",
+ "citation": "Cap. 496",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1973/17/eng@2026-07-10",
+ "version_date": "2026-07-10",
+ "retrieved": "2026-10-04",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "STANDARDS ACT CAP. 496 Published in Kenya Gazette Vol. LXXVII—No. 32 on 12 July 1974 Assented to on 16 January 1974 Commenced on 12 July 1974 by Standards Act Commencement\n[Amended by Public Authorities Limitation Act Corrigenda (Corrigendum 5 of 1974) on 1 February 1974] [Amended by Public Authorities Limitation Act Corrigenda (Corrigendum 5 of 1974) on 15 May 1974] [Amended by Standards (Amendment) Act, 1980 (Act No. 5 of 1980) on 2 May 1980] [Amended by Standards (Amendment) Act, 1980 (Act No. 5 of 1980) on 4 July 1980] [Amended by Laws of Kenya (Rectification) Order, 1984 (Legal Notice 22 of 1984) on 24 February 1984]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 1988 (Act No. 13 of 1988) on 16 December 1988] [Amended by Standards (Amendment) Act, 1989 (Act No. 1 of 1989) on 12 May 1989] [Amended by Finance Act, 2001 (Act No. 6 of 2001) on 14 June 2001]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2002 (Act No. 2 of 2002) on 7 June 2002] [Amended by Finance Act, 2002 (Act No. 7 of 2002) on 13 June 2002]\n[Amended by Finance Act, 2019 (Act No. 23 of 2019) on 7 November 2019] [Amended by Finance Act, 2019 (Act No. 23 of 2019) on 1 January 2020]\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] [Amended by Business Laws (Amendment) Act, 2024 (Act No. 20 of 2024) on 27 December 2024] [Amended by Food and Feed Safety Control Co-ordination Act (Act No. 21 of 2026) on 10 July 2026]\nAn Act of Parliament to promote the standardisation of the specification of commodities, and to provide for the standardisation of commodities and codes of practice; to establish a Kenya Bureau of Standards, to define its functions and provide for its management and control; and for matters incidental to, and connected with, the foregoing",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "THE KENYA BUREAU OF STANDARDS",
+   "provisions": [
+    "3",
+    "4",
+    "4A",
+    "5",
+    "5A",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "ESTABLISHMENT OF STANDARDS",
+   "provisions": [
+    "9",
+    "10",
+    "10A",
+    "10B",
+    "10C",
+    "10D",
+    "11"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "ENFORCEMENT",
+   "provisions": [
+    "12",
+    "12A",
+    "12B",
+    "12C",
+    "13",
+    "14",
+    "14A",
+    "14B",
+    "14C",
+    "14D",
+    "15",
+    "16"
+   ]
+  },
+  {
+   "id": "part_IVA",
+   "num": "IVA",
+   "title": "STANDARDS TRIBUNAL",
+   "provisions": [
+    "16A",
+    "16B",
+    "16C",
+    "16D",
+    "16F",
+    "16G",
+    "16H"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "MISCELLANEOUS",
+   "provisions": [
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Standards Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires—\n\"approved specification\" means a specification in respect of which a standardization mark has been specified under section 10(1)(b);\n\"Bureau\" means the Kenya Bureau of Standards established by section 3;\n\"code of practice\" means a set of rules relating to the methods to be applied or the procedure to be adopted in connexion with the construction, installation, testing, sampling, operation or use of any article, apparatus, instrument, device or process;\n\"consolidator\" means a person who assembles cargo belonging to various persons to form one consignment at the country of supply which may be declared as belonging to one importer at the port of destination and de-consolidated back into the original individual consignments for delivery to the respective cargo owners upon arrival at the destination port or consolidators warehouse;\n\"Controller\" means the Food Safety Controller appointed under the Food and Feed Safety Control Coordination Act (No. 21 of 2026);\n\"Council\" means the National Standards Council established by section 6; \"Director\" means the Director of the Bureau appointed under section 5; \"inspector\" means an inspector appointed under section 13; \"Kenya Standard\" means a specification or code of practice declared under section 9(1); \"manufacture\" includes produce, process, treat, install, test, operate and use; \"mark\" includes any device, brand, heading, label, ticket, name, signature, word, letter or numeral, or any combination thereof;\n\"multi-annual control plan\" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act (No. 21 of 2026);\n\"permit\" means a permit issued under section 10 of this Act or the regulations; \"sell\" includes barter and exchange, and exposure or offer for sale, and export for or in pursuance of sale, and have in possession for any purpose of sale, export, trade or manufacture;\n\"specification\" means a description of any commodity by reference to its nature, quality, strength, purity, composition, quantity, dimensions, weight, grade, durability, origin, age or other characteristics, or to any substance or material of or with which, or the manner in which, any commodity may be manufactured, produced, processed, treated, tested or sampled;\n\"standardization mark\" means a mark which has been specified by the Council under section 10; \"Tribunal\" means the Standards Tribunal established under section 16A. (Act No. 5 of 1980, s. 2, Act No. 7 of 2004, s. 2, Act No. 23 of 2019, s. 47, Act No. 21 of 2026, 2nd Sch.)",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment of the Bureau",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE KENYA BUREAU OF STANDARDS",
+   "text": "There is hereby established a Bureau which shall be a body corporate by the name of the Kenya Bureau of Standards, with perpetual succession and a common seal, and which shall, in its corporate name, be capable of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding, charging and disposing of property, movable or immovable; and\n  (c) entering into contracts and doing or performing all such other things or acts for the proper performance of its functions under this Act which may lawfully be done or performed by a body corporate.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Functions of the Bureau",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE KENYA BUREAU OF STANDARDS",
+   "text": "(1) The functions of the Bureau shall be—\n  (a) to promote standardization in industry and commerce;\n  (b) to make arrangements or provide facilities for the testing and calibration of precision instruments, gauges and scientific apparatus, for the determination of their degree of accuracy by comparison with standards approved by the Cabinet Secretary on the recommendation of the Council, and for the issue of certificates in regard thereto;\n  (c) to make arrangements or provide facilities for the examination and testing of commodities and any material or substance from or with which and the manner in which they may be manufactured, produced, processed or treated;\n  (d) to control, in accordance with the provisions of this Act, the use of standardization marks and distinctive marks;\n  (da) conduct audits of the traceability mechanisms established by persons who use of standardization marks and distinctive marks for foods or feeds;\n  (db) implement the multi-annual control plan in the performance of its functions;\n  (e) to prepare, frame, modify or amend specifications and codes of practice;\n  (f) to encourage or undertake educational work in connexion with standardization;\n  (g) to assist the Government or any local authority or other public body or any other person in the preparation and framing of any specifications or codes of practice;\n  (h) to provide for co-operation with the Government or the representatives of any industry or with any local authority or other public body or any other person, with a view to securing the adoption and practical application of standards;\n  (i) to provide for the testing at the request of the Cabinet Secretary, and on behalf of the Government, of locally manufactured and imported commodities with a view to determining whether such commodities comply with the provisions of this Act or any other law dealing with standards of quality or description.\n(2) Deleted by Act No. 5 of 1980, s. 3.\n(Act No. 21 of 2026, 2nd Sch.)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The functions of the Bureau shall be—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Deleted by Act No. 5 of 1980, s. 3."
+    }
+   ]
+  },
+  "4A": {
+   "num": "4A",
+   "title": "Role of the Controller",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE KENYA BUREAU OF STANDARDS",
+   "text": "(1) Where the Bureau determines that there is an overlap in its functions and the functions of any other public institution in relation to food safety or feed safety, the Bureau may request the Controller to advise.\n(2) Where a conflict arises between the Bureau and any public institution in the execution of its functions in relation to food safety or feed safety, the Bureau may request the Controller to advise.\n(3) The Controller shall conduct an audit the mechanisms for food safety on established by the Bureau to verify that the Bureau has established a system for the effective official control for food safety or feed safety.\n(Act No. 21 of 2026, 2nd Sch.)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the Bureau determines that there is an overlap in its functions and the functions of any other public institution in relation to food safety or feed safety, the Bureau may request the Controller to advise."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a conflict arises between the Bureau and any public institution in the execution of its functions in relation to food safety or feed safety, the Bureau may request the Controller to advise."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Controller shall conduct an audit the mechanisms for food safety on established by the Bureau to verify that the Bureau has established a system for the effective official control for food safety or feed safety."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Director and staff of the Bureau",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE KENYA BUREAU OF STANDARDS",
+   "text": "(1) The Cabinet Secretary shall, on the advice of the Council, by notice in the Gazette, appoint a Director of the Bureau who shall be the chief executive officer of the Bureau.\n(2) The Council shall, after consultation with the Director, appoint such members and staff of the Bureau as the Council may deem necessary for the proper performance of the functions of the Bureau under this Act.\n(Act No. 5 of 1980, s. 4)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary shall, on the advice of the Council, by notice in the Gazette, appoint a Director of the Bureau who shall be the chief executive officer of the Bureau."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council shall, after consultation with the Director, appoint such members and staff of the Bureau as the Council may deem necessary for the proper performance of the functions of the Bureau under this Act."
+    }
+   ]
+  },
+  "5A": {
+   "num": "5A",
+   "title": "Information on manufacturers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE KENYA BUREAU OF STANDARDS",
+   "text": "The Bureau may liaise with relevant government agencies which register businesses to obtain information on businesses registered to undertake manufacturing.\n(Act No. 20 of 2024, s. 20)",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "The National Standards Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE KENYA BUREAU OF STANDARDS",
+   "text": "(1) There is hereby established a Council of the Bureau by the name of the National Standards Council.\n(2) The Council shall, subject to the provisions of subsection (3), consist of the following members—\n  (a) a chairman appointed by the Cabinet Secretary;\n  (b) a secretary who shall be the Director of the Bureau;\n  (c) not more than seven persons appointed by the Cabinet Secretary who shall be public officers; and\n  (d) not more than eight persons appointed by the Cabinet Secretary who shall possess knowledge of industrial or commercial standards or other matters likely to be of assistance to the Bureau in the performance of its functions under this Act.\n(3) The Cabinet Secretary may, after consultation with the Council, appoint not more than five persons to be additional members of the Council being persons whose assistance or advice it may from time to time require.\n(4) The Schedule to this Act shall have effect with respect to the Council, but subject thereto the Council shall otherwise regulate its own procedure.\n(Act No. 5 of 1980, s. 4)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is hereby established a Council of the Bureau by the name of the National Standards Council."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council shall, subject to the provisions of subsection (3), consist of the following members—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary may, after consultation with the Council, appoint not more than five persons to be additional members of the Council being persons whose assistance or advice it may from time to time require."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Schedule to this Act shall have effect with respect to the Council, but subject thereto the Council shall otherwise regulate its own procedure."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Powers of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE KENYA BUREAU OF STANDARDS",
+   "text": "(1) The Council shall have power—\n  (a) to supervise and control the administration and financial management of the Bureau;\n  (b) to advise and obtain advice from the Cabinet Secretary in regard to any matter within his or her purview under this Act;\n  (c) to formulate matters of policy for the purpose of providing general or specific guidance to the Institute for the better performance of its functions under this Act;\n  (d) to do all things necessary for the better carrying out of the provisions and purposes of this Act except where otherwise provided.\n(2) The Council may, whether or not for reward, at the request of any person, carry out or cause to be carried out—\n  (a) any study, examination or test in respect of any particular commodity or class of commodity;\n  (b) any comparative study, examination or test in respect of commodities of different makes or brands or of different specifications whether produced in Kenya or elsewhere.\n(3) The Council, upon payment of such fees, if any, as may be prescribed, may issue reports on any study, examination or test carried out pursuant to subsection (2) of this section and may, if it thinks fit, impose conditions as to the use to be made of such reports and conditions prohibiting, restricting or requiring the publication of or other disclosure of any information contained therein.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall have power—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council may, whether or not for reward, at the request of any person, carry out or cause to be carried out—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Council, upon payment of such fees, if any, as may be prescribed, may issue reports on any study, examination or test carried out pursuant to subsection (2) of this section and may, if it thinks fit, impose conditions as to the use to be made of such reports and conditions prohibiting, restricting or requiring the publication of or other disclosure of any information contained therein."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Financial provisions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE KENYA BUREAU OF STANDARDS",
+   "text": "(1) The funds of the Bureau shall consist of all moneys received or recovered under the provisions of this Act or the regulations by or on behalf of the Bureau or the Council and any moneys provided by Parliament.\n(2) The Cabinet Secretary may, out of the funds of the Bureau, and with the consent of the Treasury—\n  (a) pay to the members of the Council and the Bureau (other than a number who is a public officer in receipt of salary) and to the staff of the Bureau remuneration and travelling and other allowances;\n  (b) authorize the payment of all such sums of money as may be necessary to enable the Bureau to discharge its functions under this Act and to give effect thereto.\n(3) The Council shall cause to be kept all proper books of account and other books and records in relation to the funds and to all the undertakings, activities and property of the Bureau and shall, within such period after the end of each financial year as the Cabinet Secretary shall specify, cause to be prepared—\n  (a) a balance sheet showing in detail the assets and liabilities of the Bureau as at the end of that year;\n  (b) such other statements of account as may be necessary to indicate the financial status of the Bureau as at the end of that year.\n(4) The accounts of the Bureau shall be examined, audited and reported upon annually by the AuditorGeneral.\n(5) The Council shall submit to the Cabinet Secretary all such information as he may from time to time require in respect of the activities and financial position of the Bureau, and shall in addition submit to the Cabinet Secretary an annual report, including a balance sheet and a statement of income and expenditure audited in accordance with subsection (4) of this section, and such other particulars as the Cabinet Secretary may request, and the report shall be laid by the Cabinet Secretary before Parliament, and published by the Council in such manner as it shall specify, as soon as practicable after the end of each financial year.\n(Act No. 13 of 1988, Sch.)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The funds of the Bureau shall consist of all moneys received or recovered under the provisions of this Act or the regulations by or on behalf of the Bureau or the Council and any moneys provided by Parliament."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary may, out of the funds of the Bureau, and with the consent of the Treasury—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Council shall cause to be kept all proper books of account and other books and records in relation to the funds and to all the undertakings, activities and property of the Bureau and shall, within such period after the end of each financial year as the Cabinet Secretary shall specify, cause to be prepared—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The accounts of the Bureau shall be examined, audited and reported upon annually by the AuditorGeneral."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Council shall submit to the Cabinet Secretary all such information as he may from time to time require in respect of the activities and financial position of the Bureau, and shall in addition submit to the Cabinet Secretary an annual report, including a balance sheet and a statement of income and expenditure audited in accordance with subsection (4) of this section, and such other particulars as the Cabinet Secretary may request, and the report shall be laid by the Cabinet Secretary before Parliament, and published by the Council in such manner as it shall specify, as soon as practicable after the end of each financial year."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Declaration of Kenya Standard",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ESTABLISHMENT OF STANDARDS",
+   "text": "(1) The Council may by notice in the Gazette—\n  (a) declare any specification or code of practice framed or prepared by the Bureau to be a Kenya Standard;\n  (b) notify from time to time any amendment to, replacement of, or abolition of, a Kenya Standard declared under paragraph (a).\n(2) Where a Kenya Standard has been declared under subsection (1), the Cabinet Secretary, on the advice of the Council, shall, by order in the Gazette, prescribe a date after which no person shall manufacture or sell any commodity, method or procedure to which the relevant specification or code of practice relates unless it complies with that specification or code of practice.\n(3) Notwithstanding the provisions of any order made under subsection (1), the Cabinet Secretary, on the advice of the Council after a resolution thereof to the effect that—\n  (a) it is satisfied that it is temporarily impossible or impractical for a person, industry or trade to comply with the order; and\n  (b) it is nevertheless desirable in the public interest that that person, industry or trade should be permitted to manufacture or sell any commodity, method or procedure referred to in the order, may, by notice in the Gazette, exempt that person, industry or trade, either generally or for the purposes of a particular transaction or particular transactions, from compliance with the order for such period and subject to such conditions, to be specified in the notice, as the Council shall advise.\n(4) Any person who contravenes the provisions of an order under subsection (2) shall, unless there is in force in respect of him or her a notice of exemption under subsection (3), be guilty of an offence.\n(Act No. 5 of 1980, s. 5)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council may by notice in the Gazette—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a Kenya Standard has been declared under subsection (1), the Cabinet Secretary, on the advice of the Council, shall, by order in the Gazette, prescribe a date after which no person shall manufacture or sell any commodity, method or procedure to which the relevant specification or code of practice relates unless it complies with that specification or code of practice."
+    },
+    {
+     "ref": "(3)",
+     "text": "Notwithstanding the provisions of any order made under subsection (1), the Cabinet Secretary, on the advice of the Council after a resolution thereof to the effect that—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person who contravenes the provisions of an order under subsection (2) shall, unless there is in force in respect of him or her a notice of exemption under subsection (3), be guilty of an offence."
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Standardization marks",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ESTABLISHMENT OF STANDARDS",
+   "text": "(1) The Council shall, by notice in the Gazette, specify a separate mark, to be known as a standardization mark, for each of the following purposes—\n  (a) application to any commodity which is the subject of an order under section 9(2); and\n  (b) application to a commodity which is not the subject of an order under section 9(2) but concerning the manufacture or sale of which the Council has approved as specification.\n(2) The standardization marks specified under subsection (1) shall not be identical with any trade mark registered under the Trade Marks Act (Cap. 506) or so nearly resemble it as to be likely to be mistaken for it, and no mark identical with those standardization marks or so nearly resembling them as to be likely to be mistaken for them shall be registered as a trade mark under the Trade Marks Act (Cap. 506).\n(3) Where, after the publication of an order under section 9(2), any person intends to manufacture any commodity to which that order refers after the date specified therein he shall notify the Bureau in the prescribed form of his intention and the Bureau, if it is satisfied that he is capable of manufacturing the commodity in accordance with the relevant Kenya Standard, shall issue him with a permit to use the standardization mark referred to in paragraph (a) of subsection (1).\n(4) Where any person manufactures, or intends to manufacture, any commodity in respect of which a standardization mark has been specified under paragraph (b) of subsection (1) he or she may notify the Bureau of his or her intention to comply with the approved specification and his or her wish to apply the relevant standardization mark, and the Bureau, if it is satisfied that he or she is capable of manufacturing the commodity in accordance with the relevant specification, shall issue him or her with a permit to use that standardization mark.\n(5) A permit issued under this section may be issued subject to conditions to be specified therein, which conditions may be varied from time to time, and any person to whom it is issued shall comply with those conditions.\n(6) No person shall apply a standardization mark specified under subsection (1) to any commodity except under a permit issued by the Bureau or a person acting under its authority and unless that commodity complies with the relevant Kenya Standard or approved specification.\n(7) Any person who—\n  (a) applies a standardization mark to any receptacle or covering of any commodity or to any label attached to any commodity or any receptacle or covering thereof; or\n  (b) places or encloses any commodity in a receptacle or covering to which a standardization mark has been applied, or in a receptacle or covering to which is attached a label to which any such mark has been applied, shall, for the purposes of subsection (6), be deemed to have applied that standardization mark to that commodity.\n(8) Any person who contravenes any of the provisions of subsection (3) or (6) or fails to comply with any condition in a permit, shall be guilty of an offence.\n(Act No. 5 of 1980, s. 5, Act No. 1 of 1989, s. 2)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall, by notice in the Gazette, specify a separate mark, to be known as a standardization mark, for each of the following purposes—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The standardization marks specified under subsection (1) shall not be identical with any trade mark registered under the Trade Marks Act (Cap. 506) or so nearly resemble it as to be likely to be mistaken for it, and no mark identical with those standardization marks or so nearly resembling them as to be likely to be mistaken for them shall be registered as a trade mark under the Trade Marks Act (Cap. 506)."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where, after the publication of an order under section 9(2), any person intends to manufacture any commodity to which that order refers after the date specified therein he shall notify the Bureau in the prescribed form of his intention and the Bureau, if it is satisfied that he is capable of manufacturing the commodity in accordance with the relevant Kenya Standard, shall issue him with a permit to use the standardization mark referred to in paragraph (a) of subsection (1)."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where any person manufactures, or intends to manufacture, any commodity in respect of which a standardization mark has been specified under paragraph (b) of subsection (1) he or she may notify the Bureau of his or her intention to comply with the approved specification and his or her wish to apply the relevant standardization mark, and the Bureau, if it is satisfied that he or she is capable of manufacturing the commodity in accordance with the relevant specification, shall issue him or her with a permit to use that standardization mark."
+    },
+    {
+     "ref": "(5)",
+     "text": "A permit issued under this section may be issued subject to conditions to be specified therein, which conditions may be varied from time to time, and any person to whom it is issued shall comply with those conditions."
+    },
+    {
+     "ref": "(6)",
+     "text": "No person shall apply a standardization mark specified under subsection (1) to any commodity except under a permit issued by the Bureau or a person acting under its authority and unless that commodity complies with the relevant Kenya Standard or approved specification."
+    },
+    {
+     "ref": "(7)",
+     "text": "Any person who—"
+    },
+    {
+     "ref": "(8)",
+     "text": "Any person who contravenes any of the provisions of subsection (3) or (6) or fails to comply with any condition in a permit, shall be guilty of an offence."
+    }
+   ]
+  },
+  "10A": {
+   "num": "10A",
+   "title": "Cancellation and suspension of permit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ESTABLISHMENT OF STANDARDS",
+   "text": "(1) The Bureau may where it is satisfied that the holder of a permit—\n  (a) has not complied with any condition specified therein;\n  (b) has not manufactured any commodity to which the permit relates to the relevant Kenya Standard of approved specification, as the case may be; or\n  (c) has ceased to manufacture the commodity to which the permit relates, cancel, or suspend the operation of, a permit; and suspension under this subsection may be for such period, not exceeding one year, as the Bureau deems fit.\n(2) The provisions of subsection (1) shall be in addition to, and not in derogation of, the power to prosecute for an offence under this Act.\n(Act No. 5 of 1980, s. 5)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Bureau may where it is satisfied that the holder of a permit—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of subsection (1) shall be in addition to, and not in derogation of, the power to prosecute for an offence under this Act."
+    }
+   ]
+  },
+  "10B": {
+   "num": "10B",
+   "title": "Standards levy order",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ESTABLISHMENT OF STANDARDS",
+   "text": "(1) The Cabinet Secretary may make a standards levy order for the purpose of giving effect to proposals submitted by the Council and approved by him; and the order may provide for the amendment of a previous standard levy order and may make different provisions in relation to different classes or description of industry.\n(2) A standards levy order may contain provisions as to the evidence by which a person’s liability to the levy or his discharge of that liability may be established, and as to the time at which any amount payable by any person by way of the levy shall become due and the manner in which it shall be recoverable by the Director.\n(3) If any person fails to pay an amount payable to him by way of the standards levy within the time prescribed by the standards levy order, a sum equal to five per cent of that amount shall be added to the amount for each month or part of a month thereof that the amount due remained unpaid.\n(4) A person who fails to comply with any provisions of a standards levy order shall be guilty of an offence.\n(5) Any person who is aggrieved by an act or decision under a standards levy order may appeal in writing to the Tribunal.\n(Act No. 1 of 1989, s. 3, Act No. 7 of 2004, s. 3)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may make a standards levy order for the purpose of giving effect to proposals submitted by the Council and approved by him; and the order may provide for the amendment of a previous standard levy order and may make different provisions in relation to different classes or description of industry."
+    },
+    {
+     "ref": "(2)",
+     "text": "A standards levy order may contain provisions as to the evidence by which a person’s liability to the levy or his discharge of that liability may be established, and as to the time at which any amount payable by any person by way of the levy shall become due and the manner in which it shall be recoverable by the Director."
+    },
+    {
+     "ref": "(3)",
+     "text": "If any person fails to pay an amount payable to him by way of the standards levy within the time prescribed by the standards levy order, a sum equal to five per cent of that amount shall be added to the amount for each month or part of a month thereof that the amount due remained unpaid."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person who fails to comply with any provisions of a standards levy order shall be guilty of an offence."
+    },
+    {
+     "ref": "(5)",
+     "text": "Any person who is aggrieved by an act or decision under a standards levy order may appeal in writing to the Tribunal."
+    }
+   ]
+  },
+  "10C": {
+   "num": "10C",
+   "title": "Disbursement powers of Director",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ESTABLISHMENT OF STANDARDS",
+   "text": "(1) All moneys received in respect of the standards levy order shall be paid into a Standards Levy Fund (in this section referred to as \"the Fund\") established in respect of the industry to which that order relates.\n(2) The Director, acting on the direction of the Cabinet Secretary, may make payments out of the Fund for the purposes set out in section 8(2).\n(Act No. 1 of 1989, s. 3)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "All moneys received in respect of the standards levy order shall be paid into a Standards Levy Fund (in this section referred to as \"the Fund\") established in respect of the industry to which that order relates."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Director, acting on the direction of the Cabinet Secretary, may make payments out of the Fund for the purposes set out in section 8(2)."
+    }
+   ]
+  },
+  "10D": {
+   "num": "10D",
+   "title": "Standards for manufacturers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ESTABLISHMENT OF STANDARDS",
+   "text": "(1) A manufacturer shall ensure that every product is designed and manufactured in accordance with this Act.\n(2) A manufacturer shall, in addition to any other obligations under this Act—\n  (a) ensure that every product meets the requirements of the relevant Kenya standards;\n  (b) carry out sample testing of each product before releasing the product into the market;\n  (c) have procedures for ensuring full traceability of a product from the factory to the consumer of the product manufactured for sale; and\n  (d) ensure that the labelling of each product meets the requirements of the relevant standards including—\n  (i) the details and location of the manufacturer; and (ii) the ingredients or content of the product;\n  (e) investigate any complaint related to any product and take appropriate action;\n  (f) keep a register of complaints, non-conforming products and product recalls; and (g) keep distributors informed of any monitoring.\n(Act No. 20 of 2024, s. 21)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A manufacturer shall ensure that every product is designed and manufactured in accordance with this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "A manufacturer shall, in addition to any other obligations under this Act— (a) ensure that every product meets the requirements of the relevant Kenya standards; (b) carry out sample testing of each product before releasing the product into the market; (c) have procedures for ensuring full traceability of a product from the factory to the consumer of the product manufactured for sale; and"
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Appeals",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ESTABLISHMENT OF STANDARDS",
+   "text": "Any person who is aggrieved by a decision of the Bureau or the Council may within fourteen days of the notification of the act complained of being received by him, appeal in writing to the Tribunal.\n(Act No. 7 of 2004, s. 4)",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Samples and information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ENFORCEMENT",
+   "text": "(1) A person who manufactures, imports, stocks, distributes, sells or exhibits a product shall—\n  (a) ensure that every product complies with the Kenya standards;\n  (b) ensure that every product bears a valid standardization mark issued or recognized under this Act;\n  (c) maintain records that uniquely identify each product, every supplier and the immediate customers; and (d) ensure that the product does not exceed its declared shelf life or expiry date.\n(2) A person who imports, stocks, distributes, sells or exhibits a product shall not place on the market or put into service any product that is not sold freely or conforms to applicable regulatory requirements in the country of origin.\n(3) The Bureau may request from any person who manufactures, stocks, distributes, sells or exhibits a product for any documentation and information that the Bureau requires for the purpose of carrying out its functions.\n(4) A manufacturer or a business operator who has reason to believe that a product which has been made available in the market is not in conformity with the requirements of this Act shall withdraw or recall the product.\n(5) A business operator shall cooperate with the Bureau to eliminate or mitigate risks presented by non-compliant products made available in the market.\n(6) Pursuant to subsection (5) the Bureau may issue an order to a manufacturer or business operator to —\n  (a) prescribe specific conditions for the marketing of the product;\n  (b) inform consumers of the risks in a clear and efficient manner;\n  (c) mark the product with appropriate warning on the risks presented;\n  (d) remove the product from listing in online sales platforms;\n  (e) destroy the product;\n  (f) stop the supply and distribution of the product; or (g) take any other measures consistent with this Act to eliminate risk to consumers and the public.\n(7) The Cabinet Secretary may make regulations for the better carrying into effect of the provisions of this section. (Act No. 6 of 2001, s. 62, Act No. 20 of 2024, s. 22)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who manufactures, imports, stocks, distributes, sells or exhibits a product shall— (a) ensure that every product complies with the Kenya standards; (b) ensure that every product bears a valid standardization mark issued or recognized under this Act; (c) maintain records that uniquely identify each product, every supplier and the immediate customers; and (d) ensure that the product does not exceed its declared shelf life or expiry date."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who imports, stocks, distributes, sells or exhibits a product shall not place on the market or put into service any product that is not sold freely or conforms to applicable regulatory requirements in the country of origin."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Bureau may request from any person who manufactures, stocks, distributes, sells or exhibits a product for any documentation and information that the Bureau requires for the purpose of carrying out its functions."
+    },
+    {
+     "ref": "(4)",
+     "text": "A manufacturer or a business operator who has reason to believe that a product which has been made available in the market is not in conformity with the requirements of this Act shall withdraw or recall the product."
+    },
+    {
+     "ref": "(5)",
+     "text": "A business operator shall cooperate with the Bureau to eliminate or mitigate risks presented by non-compliant products made available in the market."
+    },
+    {
+     "ref": "(6)",
+     "text": "Pursuant to subsection (5) the Bureau may issue an order to a manufacturer or business operator to — (a) prescribe specific conditions for the marketing of the product; (b) inform consumers of the risks in a clear and efficient manner; (c) mark the product with appropriate warning on the risks presented; (d) remove the product from listing in online sales platforms; (e) destroy the product; (f) stop the supply and distribution of the product; or (g) take any other measures consistent with this Act to eliminate risk to consumers and the public."
+    },
+    {
+     "ref": "(7)",
+     "text": "The Cabinet Secretary may make regulations for the better carrying into effect of the provisions of this section. (Act No. 6 of 2001, s. 62, Act No. 20 of 2024, s. 22)"
+    }
+   ]
+  },
+  "12A": {
+   "num": "12A",
+   "title": "Establishment of laboratories",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ENFORCEMENT",
+   "text": "(1) The Bureau may establish laboratories which shall be accredited by the Kenya Accreditation Service to—\n  (a) provide testing and measurement services and issue test certificates;\n  (b) produce certified reference materials;\n  (c) develop test methods;\n  (d) provide proficiency testing services; and (e) provide chemical metrology services.\n(2) The Bureau may, where necessary, designate competent bodies that are duly accredited under the Kenya Accreditation Service Act (Cap. 496A) to provide testing services and issue test certificates subject to the Kenya standards for purposes of this Act.\n(3) Any test carried out by a designated laboratory shall be deemed to have conformed to the requirements of the Bureau under this Act.\n(4) A designated laboratory that issues incorrect or incomplete test results commits an offence. (5) The Bureau may cancel the designation of a laboratory if the laboratory—\n  (a) contravenes the conditions imposed by the Bureau;\n  (b) provides false or misleading information to the Bureau;\n  (c) is no longer fit to hold an accreditation granted under the Kenya Accreditation Service Act;\n  (d) contravenes any provisions of this Act; or (e) fails to pay any fees prescribed under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Bureau may establish laboratories which shall be accredited by the Kenya Accreditation Service to— (a) provide testing and measurement services and issue test certificates; (b) produce certified reference materials; (c) develop test methods; (d) provide proficiency testing services; and (e) provide chemical metrology services."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Bureau may, where necessary, designate competent bodies that are duly accredited under the Kenya Accreditation Service Act (Cap. 496A) to provide testing services and issue test certificates subject to the Kenya standards for purposes of this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any test carried out by a designated laboratory shall be deemed to have conformed to the requirements of the Bureau under this Act."
+    },
+    {
+     "ref": "(4)",
+     "text": "A designated laboratory that issues incorrect or incomplete test results commits an offence. (5) The Bureau may cancel the designation of a laboratory if the laboratory—"
+    }
+   ]
+  },
+  "12B": {
+   "num": "12B",
+   "title": "Establishment of calibration facilities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ENFORCEMENT",
+   "text": "(1) The Bureau shall be accredited by the Kenya Accreditation Service to be the competent entity to provide calibration services in Kenya, either by itself or through designated laboratories.\n(2) The Bureau may establish calibration facilities which shall—\n  (a) be the custodian of the national measurement standards;\n  (b) realize, develop and maintain national measurement standards;\n  (c) provide traceability of the national measurement standards to the International System of Units including physical, chemical, biological and medical fields of measurement; and (d) provide national inter-comparison measurements for calibration laboratories in the country.\n(3) The Bureau may, where necessary, license and register competent bodies accredited under the relevant Act to provide calibration services and issue certificates subject to the Kenya standards.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Bureau shall be accredited by the Kenya Accreditation Service to be the competent entity to provide calibration services in Kenya, either by itself or through designated laboratories."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Bureau may establish calibration facilities which shall— (a) be the custodian of the national measurement standards; (b) realize, develop and maintain national measurement standards; (c) provide traceability of the national measurement standards to the International System of Units including physical, chemical, biological and medical fields of measurement; and (d) provide national inter-comparison measurements for calibration laboratories in the country."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Bureau may, where necessary, license and register competent bodies accredited under the relevant Act to provide calibration services and issue certificates subject to the Kenya standards."
+    }
+   ]
+  },
+  "12C": {
+   "num": "12C",
+   "title": "Calibration service providers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ENFORCEMENT",
+   "text": "(1) Every calibration service provider shall have each of its measurement standards referenced to the national measurement standards maintained by the Bureau.\n(2) The Cabinet Secretary may make regulations designating the specific categories of measuring instruments and equipment used for health, safety or environmental purposes that shall be calibrated.\n(3) Without prejudice to the generality of subsection (2), the Regulations may prescribe the timeframe after which it shall be unlawful to use an instrument or equipment that is not calibrated. ( Act No. 20 of 2024, s. 23)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every calibration service provider shall have each of its measurement standards referenced to the national measurement standards maintained by the Bureau."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary may make regulations designating the specific categories of measuring instruments and equipment used for health, safety or environmental purposes that shall be calibrated."
+    },
+    {
+     "ref": "(3)",
+     "text": "Without prejudice to the generality of subsection (2), the Regulations may prescribe the timeframe after which it shall be unlawful to use an instrument or equipment that is not calibrated. ( Act No. 20 of 2024, s. 23)"
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Appointment of inspectors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ENFORCEMENT",
+   "text": "(1) The Cabinet Secretary may, at the request of the Council, by notice in the Gazette appoint as an inspector for the purposes of this Act any person who in his opinion is suitably qualified.\n(2) Every person so appointed shall be either a public officer or a member of the staff of the Institute and shall be furnished with a certificate of appointment signed by the Director stating that he is authorized by the Cabinet Secretary to act as an inspector for the purposes of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, at the request of the Council, by notice in the Gazette appoint as an inspector for the purposes of this Act any person who in his opinion is suitably qualified."
+    },
+    {
+     "ref": "(2)",
+     "text": "Every person so appointed shall be either a public officer or a member of the staff of the Institute and shall be furnished with a certificate of appointment signed by the Director stating that he is authorized by the Cabinet Secretary to act as an inspector for the purposes of this Act."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Power of inspectors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ENFORCEMENT",
+   "text": "(1) An inspector may for the purposes of this Act, at all reasonable times—\n  (a) enter upon any premises at which there is, or is suspected to be a commodity in relation to which any standard specification or standardization mark exists;\n  (b) inspect and take samples of any commodity or any material or substance used, or likely to be, or capable of being used in the manufacture, production, processing or treatment thereof, and cause any container within which there is or is suspected to be any quantity of any such commodity, material or substance, to be opened;\n  (c) inspect any process or other operation which is or appears likely to be carried out in those premises in connexion with the manufacture, production, processing or treatment of any commodity in relation to which a standard specification or a standardization mark exists;\n  (d) require from any person the production of any book, notice, record, list or other document which is in the possession or custody or under the control of that person or of any other person on his behalf;\n  (e) examine and copy any or any part of such book, notice, record, list or other document which appears to him to have relevance to his inspection or inquiry, and require any person to give an explanation of any entry therein, and take possession of any such book, notice, record, list or other document as he believes may afford evidence of an offence under this Act;\n  (f) require information relevant to his inquiry from any person whom he has reasonable grounds to believe is or has been employed at any such premises or to have in his possession or custody or under his control any article referred to in this subsection;\n  (g) seize and detain, for the purpose of testing, any goods in respect of which he has reasonable cause to believe that an offence has been committed;\n  (h) seize and detain any goods or documents which he has reasonable cause to believe may be required as evidence in any proceedings for any offence under this Act.\n(2) An inspector entering any premises under this section shall, if so required, produce for inspection by the person apparently in charge of the premises the certificate issued to him under section 13(2) and may take with him thereon such persons and such equipment as may appear to him to be necessary.\n(3) Where—\n  (a) premises to which this section relates are unoccupied; or\n  (b) the owner, occupier or person in charge thereof is temporarily absent; or\n  (c) entry thereon is refused or obstructed, the inspector may use such force as is reasonably necessary to effect entry:\nProvided that in the case of an entry under paragraph (a) or (b)—\n  (i) reasonable steps shall be taken prior to entry by the inspector to find the owner, occupier or person in charge of the premises to be entered; and\n  (ii) the premises shall be left by the inspector as effectively secured against trespassers as he found them.\n(4) Any person who resists, hinders or obstructs an inspector acting in the course of his duty under this section or who wilfully fails to comply with any requirements lawfully made thereunder shall be guilty of an offence.\n(5) In this section—\n\"premises\" includes an aircraft, vehicle or vessel, all within the meaning of the Excise Duty Act (Cap. 472).\n(Act No. 5 of 1980, s. 6, Act No. 2 of 2002, Sch., Act No. 7 of 2004, s. 5)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An inspector may for the purposes of this Act, at all reasonable times— (a) enter upon any premises at which there is, or is suspected to be a commodity in relation to which any standard specification or standardization mark exists; (b) inspect and take samples of any commodity or any material or substance used, or likely to be, or capable of being used in the manufacture, production, processing or treatment thereof, and cause any container within which there is or is suspected to be any quantity of any such commodity, material or substance, to be opened; (c) inspect any process or other operation which is or appears likely to be carried out in those premises in connexion with the manufacture, production, processing or treatment of any commodity in relation to which a standard specification or a standardization mark exists; (d) require from any person the production of any book, notice, record, list or other document which is in the possession or custody or under the control of that person or of any other person on his behalf;"
+    },
+    {
+     "ref": "(2)",
+     "text": "An inspector entering any premises under this section shall, if so required, produce for inspection by the person apparently in charge of the premises the certificate issued to him under section 13(2) and may take with him thereon such persons and such equipment as may appear to him to be necessary."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person who resists, hinders or obstructs an inspector acting in the course of his duty under this section or who wilfully fails to comply with any requirements lawfully made thereunder shall be guilty of an offence."
+    },
+    {
+     "ref": "(5)",
+     "text": "In this section—"
+    }
+   ]
+  },
+  "14A": {
+   "num": "14A",
+   "title": "Order that goods be destroyed",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ENFORCEMENT",
+   "text": "(1) An inspector may order the destruction of goods detained under section 14(1) if the following conditions are satisfied—\n  (a) testing indicates that the goods do not meet the relevant Kenya Standard; and\n  (b) it is reasonably necessary to destroy the goods because the goods are in a dangerous state or injurious to the health of human beings, animals or plants.\n(2) In an order under subsection (1) the inspector may require the owner of the goods to pay the costs of the destruction of the goods including the costs of transporting and storing the goods before destruction.\n(3) At least fourteen days notice shall be given of an order under subsection (1) either by giving the owner of the goods a written notice or by publishing a written notice in the Gazette.\n(4) Any person who is aggrieved by an order under subsection (1) may, within fourteen days of the notice of the order under subsection (3), appeal in writing to the Tribunal.\n(5) An order under subsection (1) shall not be carried out until the time for appealing to the Tribunal has expired and, if the order is appealed, the order shall not be carried out until the Tribunal has dealt with the appeal.\n(6) If the goods in respect of which an order under subsection (1) is made have not been entered into Kenya within the meaning of the East African Community Customs Management Act, 2004 (No. 1 of 2005), the goods may be exported and, if the owner of the goods gives an undertaking to export the goods, the order shall not be carried out until at least thirty days after the notice of the order under subsection (3).\n(7) No inspector shall be personally liable for making an order under subsection (1) in good faith.\n(8) No person shall be personally liable for carrying out an order under subsection (1) in good faith.\n(9) For greater certainty subsections (7) and (8) do not relieve the Bureau of any liability it may have with respect to an order that is made or carried out otherwise than in accordance with this section.\n(10) For the purposes of carrying out his duties under the Act, every inspector shall have the powers, rights and privileges specified in section 14 and the protection of a police officer.\n(11) An inspector who—\n  (a) directly or indirectly solicits for, or receives in connection with any of his duties, a payment or other reward whatsoever, whether pecuniary or otherwise, or a promise or security for any such payment or reward not being a payment or reward which he is lawfully entitled to claim; or\n  (b) enters into any agreement to do, abstain from doing, permit, conceal or connive at any act whereby the Bureau is or may be defrauded, or which is contrary to the provisions of this Act or the proper execution of the duty of that officer; or\n  (c) discloses, except for the purposes of this Act or when required to do so as a witness in a court of law or with the approval of the Director, information acquired by him in the performance of his duties relating to a person, firm or business of any kind; or\n  (d) uses his position to improperly enrich himself or others, shall be guilty of an offence and liable to imprisonment for a term not exceeding five years or to a fine not exceeding one million shillings or both and any money, property or reward obtained fraudulently or any property acquired using money obtained fraudulently shall be forfeited to the Government.\n(12) A person who, with the intention of defrauding the Bureau—\n  (a) directly or indirectly offers to give an inspector a payment or reward, whether pecuniary or otherwise, or makes a promise or security for any such payment or reward; or\n  (b) promises or enters into an agreement with an inspector in order to induce him to do, abstain from doing, permit, conceal or connive at, any act whereby the Bureau may be defrauded, or which is contrary to the provisions of this Act for the proper execution of the duty of that inspector, shall be guilty of an offence and liable to imprisonment as prescribed under subsection (11).\n(Act No. 7 of 2004, s. 6)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An inspector may order the destruction of goods detained under section 14(1) if the following conditions are satisfied—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In an order under subsection (1) the inspector may require the owner of the goods to pay the costs of the destruction of the goods including the costs of transporting and storing the goods before destruction."
+    },
+    {
+     "ref": "(3)",
+     "text": "At least fourteen days notice shall be given of an order under subsection (1) either by giving the owner of the goods a written notice or by publishing a written notice in the Gazette."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person who is aggrieved by an order under subsection (1) may, within fourteen days of the notice of the order under subsection (3), appeal in writing to the Tribunal."
+    },
+    {
+     "ref": "(5)",
+     "text": "An order under subsection (1) shall not be carried out until the time for appealing to the Tribunal has expired and, if the order is appealed, the order shall not be carried out until the Tribunal has dealt with the appeal."
+    },
+    {
+     "ref": "(6)",
+     "text": "If the goods in respect of which an order under subsection (1) is made have not been entered into Kenya within the meaning of the East African Community Customs Management Act, 2004 (No. 1 of 2005), the goods may be exported and, if the owner of the goods gives an undertaking to export the goods, the order shall not be carried out until at least thirty days after the notice of the order under subsection (3)."
+    },
+    {
+     "ref": "(7)",
+     "text": "No inspector shall be personally liable for making an order under subsection (1) in good faith."
+    },
+    {
+     "ref": "(8)",
+     "text": "No person shall be personally liable for carrying out an order under subsection (1) in good faith."
+    },
+    {
+     "ref": "(9)",
+     "text": "For greater certainty subsections (7) and (8) do not relieve the Bureau of any liability it may have with respect to an order that is made or carried out otherwise than in accordance with this section."
+    },
+    {
+     "ref": "(10)",
+     "text": "For the purposes of carrying out his duties under the Act, every inspector shall have the powers, rights and privileges specified in section 14 and the protection of a police officer."
+    },
+    {
+     "ref": "(11)",
+     "text": "An inspector who—"
+    },
+    {
+     "ref": "(12)",
+     "text": "A person who, with the intention of defrauding the Bureau—"
+    }
+   ]
+  },
+  "14B": {
+   "num": "14B",
+   "title": "Conditional release",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ENFORCEMENT",
+   "text": "(1) An inspector may order the conditional release of goods to a manufacturer, importer, possessor, dealer or seller or his agent pending the testing of the samples of goods to determine whether they comply with the relevant Kenya Standard.\n(2) Where the goods are in the custody and possession of the manufacturer, importer, dealer, seller or his agent, an inspector may require and order the manufacturer, importer, dealer, seller or agent to retain possession of the goods pending the testing of samples and release of the test results.\n(3) Where the goods are released under subsection (1) or retained under subsection (2), the inspector shall ensure that the samples are tested and the results thereof released to the manufacturer, importer, possessor, dealer, seller or agent within fourteen days after the testing period of such samples.\n(4) Where the goods are found to comply with the relevant Kenya Standard, they shall be released to the manufacturer, importer, possessor, dealer or seller forthwith.\n(5) Where the goods fail to comply with the relevant Kenya Standard, they shall be destroyed in accordance with section 14A.\n(6) Any person who removes, sells, uses, disposes of, re-exports, damages, wastes, destroys or in any manner deals with the goods specified in subsection (2) before the release of the results, shall be guilty of an offence.\n(7) Goods of a perishable nature shall not be subject to conditional release.\n(Act No. 7 of 2004, s. 6)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An inspector may order the conditional release of goods to a manufacturer, importer, possessor, dealer or seller or his agent pending the testing of the samples of goods to determine whether they comply with the relevant Kenya Standard."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the goods are in the custody and possession of the manufacturer, importer, dealer, seller or his agent, an inspector may require and order the manufacturer, importer, dealer, seller or agent to retain possession of the goods pending the testing of samples and release of the test results."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the goods are released under subsection (1) or retained under subsection (2), the inspector shall ensure that the samples are tested and the results thereof released to the manufacturer, importer, possessor, dealer, seller or agent within fourteen days after the testing period of such samples."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where the goods are found to comply with the relevant Kenya Standard, they shall be released to the manufacturer, importer, possessor, dealer or seller forthwith."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where the goods fail to comply with the relevant Kenya Standard, they shall be destroyed in accordance with section 14A."
+    },
+    {
+     "ref": "(6)",
+     "text": "Any person who removes, sells, uses, disposes of, re-exports, damages, wastes, destroys or in any manner deals with the goods specified in subsection (2) before the release of the results, shall be guilty of an offence."
+    },
+    {
+     "ref": "(7)",
+     "text": "Goods of a perishable nature shall not be subject to conditional release."
+    }
+   ]
+  },
+  "14C": {
+   "num": "14C",
+   "title": "Registration of cargo consolidators",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ENFORCEMENT",
+   "text": "(1) The Bureau shall in consultation with the Kenya Revenue Authority vet and register all consolidators of air and sea cargo prior to importation of cargo into the country by a consolidator.\n(2) A company shall be qualified to be registered as a cargo consolidator, if the company—\n  (a) is tax compliant;\n  (b) is a member in good standing with a recognised association for consolidators;\n  (c) has a warehouse in the country of origin and country of destination; and\n  (d) has not committed any offence relating to importation of substandard or counterfeit goods.\n(3) A company seeking to be registered as a consolidator shall apply to the Bureau in the manner prescribed by the Cabinet Secretary.\n(4) A company which imports cargo as a consolidator without being registered as required under this section commits an offence and shall upon conviction be liable to a fine of not exceeding one million shillings or imprisonment for a term not exceeding one year, or to both.\n(Act No. 23 of 2019, s. 48)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Bureau shall in consultation with the Kenya Revenue Authority vet and register all consolidators of air and sea cargo prior to importation of cargo into the country by a consolidator."
+    },
+    {
+     "ref": "(2)",
+     "text": "A company shall be qualified to be registered as a cargo consolidator, if the company—"
+    },
+    {
+     "ref": "(3)",
+     "text": "A company seeking to be registered as a consolidator shall apply to the Bureau in the manner prescribed by the Cabinet Secretary."
+    },
+    {
+     "ref": "(4)",
+     "text": "A company which imports cargo as a consolidator without being registered as required under this section commits an offence and shall upon conviction be liable to a fine of not exceeding one million shillings or imprisonment for a term not exceeding one year, or to both."
+    }
+   ]
+  },
+  "14D": {
+   "num": "14D",
+   "title": "Appointment of an inspection body",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ENFORCEMENT",
+   "text": "The Bureau may appoint an inspection body in the country of origin of goods to undertake verification of conformity to Kenya Standards or approved specifications.\n( Act No. 20 of 2024, s. 24)",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "General provisions with regard to penalties",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ENFORCEMENT",
+   "text": "(1) Any person convicted of an offence under this Act for which no penalty is specifically provided shall, in the case of a first offence, be liable to imprisonment for a term not exceeding twelve months or to a fine not exceeding one million shillings or to both such imprisonment and fine and, in the case of a second or subsequent offence, to imprisonment for a term not exceeding three years or to a fine or to both imprisonment and fine, and, where an offence is of a containing nature, he shall in addition be liable to a fine not exceeding one hundred thousand shillings for each day or part thereof during which the offence continues.\n(2) On the conviction of any person for an offence under this Act the Court may, in addition to any other penalty which may be imposed, make an order—\n  (a) confiscating all or any part of any goods in respect of which the offence was committed and the destruction of such goods at the cost of the offender; or\n  (b) prohibiting the manufacture or sale of that commodity unless it complies with the relevant Kenya Standard, and the Court may order that any goods which are the subject of an order under paragraph (a) shall be disposed of in such manner as it may direct.\n(3) Where a complaint is or has been made in respect of an offence under section 9(2), the Court may, on application ex parte by an inspector, and on receiving evidence that the commodity, method or procedure complained of, or its manufacture or sale, fails to comply with the relevant Kenya Standard, make an interim order prohibiting, either absolutely or subject to conditions, the manufacture or sale of that commodity, method or procedure until the earliest opportunity for hearing and determining the complaint.\n(4) Any person who contravenes an order of the Court under paragraph (b) of subsection (2), or subsection (3), shall be guilty of an offence.\n(Act No. 5 of 1980, s. 7, Act No. 6 of 2001, s. 63, Act No. 7 of 2002, s. 57, Act No. 7 of 2004, s. 7)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person convicted of an offence under this Act for which no penalty is specifically provided shall, in the case of a first offence, be liable to imprisonment for a term not exceeding twelve months or to a fine not exceeding one million shillings or to both such imprisonment and fine and, in the case of a second or subsequent offence, to imprisonment for a term not exceeding three years or to a fine or to both imprisonment and fine, and, where an offence is of a containing nature, he shall in addition be liable to a fine not exceeding one hundred thousand shillings for each day or part thereof during which the offence continues."
+    },
+    {
+     "ref": "(2)",
+     "text": "On the conviction of any person for an offence under this Act the Court may, in addition to any other penalty which may be imposed, make an order—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a complaint is or has been made in respect of an offence under section 9(2), the Court may, on application ex parte by an inspector, and on receiving evidence that the commodity, method or procedure complained of, or its manufacture or sale, fails to comply with the relevant Kenya Standard, make an interim order prohibiting, either absolutely or subject to conditions, the manufacture or sale of that commodity, method or procedure until the earliest opportunity for hearing and determining the complaint."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person who contravenes an order of the Court under paragraph (b) of subsection (2), or subsection (3), shall be guilty of an offence."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Evidence by certificate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ENFORCEMENT",
+   "text": "(1) The Cabinet Secretary may by regulations provide that certificates issued by such persons as may be specified therein in relation to such matters as may be specified may, subject to this section, be received in evidence of those matters in any proceedings under the Act.\n(2) A certificate under regulations made in pursuance of this section shall not be received in evidence—\n  (a) unless the party against whom it is to be given in evidence has been served with a copy of the certificate not less than seven days before the hearing; and\n  (b) if that party has, not less than three days before the hearing, served on the other party a notice requiring the attendance of the person issuing the certificate.\n(3) For the purposes of this section a document purporting to be a certificate issued in pursuance of regulations made under subsection (1) shall be deemed to be such unless the contrary is shown.\n(Act No. 5 of 1980, s. 7)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may by regulations provide that certificates issued by such persons as may be specified therein in relation to such matters as may be specified may, subject to this section, be received in evidence of those matters in any proceedings under the Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "A certificate under regulations made in pursuance of this section shall not be received in evidence—"
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purposes of this section a document purporting to be a certificate issued in pursuance of regulations made under subsection (1) shall be deemed to be such unless the contrary is shown."
+    }
+   ]
+  },
+  "16A": {
+   "num": "16A",
+   "title": "Establishment of Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IVA",
+   "part_title": "STANDARDS TRIBUNAL",
+   "text": "(1) The Standards Tribunal is hereby established.\n(2) The Tribunal shall consist of a Chairman and four other members, appointed by the Cabinet Secretary.\n(3) To be appointed as the Chairman, a person must have one of the following qualifications—\n  (a) the person must be an advocate of at least seven years’ standing; or\n  (b) the person must have been a judge of the High Court.\n(4) Of the four members of the Tribunal appointed under subsection (2), one person shall be a person with knowledge and experience in matters relating to customs and excise, and the other three members shall be persons with knowledge and experience in matters relating to standardisation.\n(5) No member of the Council or employee of the Bureau may be appointed as a member of the Tribunal.\n(6) The Cabinet Secretary shall appoint a legal officer from the Attorney-General’s Chambers to be the secretary of the Tribunal.\n(7) The Chairman and members of the Tribunal shall serve for a term of five years and shall be eligible for re-appointment.\n(8) The Cabinet Secretary may terminate the appointment of the Chairman or any member of the Tribunal if a tribunal appointed under this section finds that the Chairman or member of the Tribunal—\n  (a) is unable to perform the functions of his office by reason of a mental or physical infirmity;\n  (b) has been involved in corruption as defined in the Anti-Corruption and Economic Crimes Act (Cap. 65); or\n  (c) has been declared bankrupt.\n(9) The Council may request the Cabinet Secretary to appoint a conduct tribunal if in the Council’s opinion the Chairman or member of the Tribunal—\n  (a) is unable to perform the functions of his office by reason of a mental or physical infirmity; or\n  (b) is involved in corruption as defined in the Anti-Corruption and Economic Crimes Act (Cap. 65).\n(10) Upon receiving a request under subsection (9)—\n  (a) the Cabinet Secretary may suspend the Chairman or member of the Tribunal pending the final resolution of the matter; and\n  (b) shall appoint a conduct tribunal of three persons one of whom the Cabinet Secretary shall designate as chairman.\n(11) Each member of the Conduct Tribunal shall be a person qualified to be appointed as a judge of the High Court.\n(12) The Conduct Tribunal shall conduct an inquiry into the matters specified in subsection (9), in accordance with such procedures as the Conduct Tribunal may determine and in accordance with the rules of natural justice.\n(13) Within thirty days after concluding its inquiry, the Conduct Tribunal shall publicly announce its finding and reasons thereof, and submit a report to the Cabinet Secretary.\n(Act No. 7 of 2004, s. 8)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Standards Tribunal is hereby established."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Tribunal shall consist of a Chairman and four other members, appointed by the Cabinet Secretary."
+    },
+    {
+     "ref": "(3)",
+     "text": "To be appointed as the Chairman, a person must have one of the following qualifications—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Of the four members of the Tribunal appointed under subsection (2), one person shall be a person with knowledge and experience in matters relating to customs and excise, and the other three members shall be persons with knowledge and experience in matters relating to standardisation."
+    },
+    {
+     "ref": "(5)",
+     "text": "No member of the Council or employee of the Bureau may be appointed as a member of the Tribunal."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Cabinet Secretary shall appoint a legal officer from the Attorney-General’s Chambers to be the secretary of the Tribunal."
+    },
+    {
+     "ref": "(7)",
+     "text": "The Chairman and members of the Tribunal shall serve for a term of five years and shall be eligible for re-appointment."
+    },
+    {
+     "ref": "(8)",
+     "text": "The Cabinet Secretary may terminate the appointment of the Chairman or any member of the Tribunal if a tribunal appointed under this section finds that the Chairman or member of the Tribunal—"
+    },
+    {
+     "ref": "(9)",
+     "text": "The Council may request the Cabinet Secretary to appoint a conduct tribunal if in the Council’s opinion the Chairman or member of the Tribunal—"
+    },
+    {
+     "ref": "(10)",
+     "text": "Upon receiving a request under subsection (9)—"
+    },
+    {
+     "ref": "(11)",
+     "text": "Each member of the Conduct Tribunal shall be a person qualified to be appointed as a judge of the High Court."
+    },
+    {
+     "ref": "(12)",
+     "text": "The Conduct Tribunal shall conduct an inquiry into the matters specified in subsection (9), in accordance with such procedures as the Conduct Tribunal may determine and in accordance with the rules of natural justice."
+    },
+    {
+     "ref": "(13)",
+     "text": "Within thirty days after concluding its inquiry, the Conduct Tribunal shall publicly announce its finding and reasons thereof, and submit a report to the Cabinet Secretary."
+    }
+   ]
+  },
+  "16B": {
+   "num": "16B",
+   "title": "Remuneration and allowances of members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IVA",
+   "part_title": "STANDARDS TRIBUNAL",
+   "text": "The Cabinet Secretary shall pay the members of the Tribunal such remuneration and allowances as the Cabinet Secretary determines.\n(Act No. 7 of 2004, s. 8)",
+   "clauses": []
+  },
+  "16C": {
+   "num": "16C",
+   "title": "Powers on appeal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IVA",
+   "part_title": "STANDARDS TRIBUNAL",
+   "text": "Upon an appeal under this Act, the Tribunal may confirm, set aside or vary the decision or act in question and may make such other order as the Tribunal considers appropriate, including an order with respect to the payment of costs.\n[Act No. 7 of 2004, s. 8]",
+   "clauses": []
+  },
+  "16D": {
+   "num": "16D",
+   "title": "Reference to Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IVA",
+   "part_title": "STANDARDS TRIBUNAL",
+   "text": "(1) If a matter appears to involve a point of law or to be of unusual importance or complexity, the Director may refer the matter to the Tribunal for a general direction.\n(2) The Director shall give notice of the reference to any party to the matter and that party shall be entitled to be heard by the Tribunal.\n(3) The Bureau and the Director shall be bound by the directions of the Tribunal on the reference, subject to any appeal to the High Court. (Act No. 7 of 2004, s. 8)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If a matter appears to involve a point of law or to be of unusual importance or complexity, the Director may refer the matter to the Tribunal for a general direction."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Director shall give notice of the reference to any party to the matter and that party shall be entitled to be heard by the Tribunal."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Bureau and the Director shall be bound by the directions of the Tribunal on the reference, subject to any appeal to the High Court. (Act No. 7 of 2004, s. 8)"
+    }
+   ]
+  },
+  "16F": {
+   "num": "16F",
+   "title": "Appointment of expert advisors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IVA",
+   "part_title": "STANDARDS TRIBUNAL",
+   "text": "(1) The Chairman of the Tribunal may appoint an advisor from a panel of persons with expert knowledge in matters relating to standards to assist in the determination of a matter before the Tribunal.\n(2) No member of the Council or employee of the Bureau may be appointed as an advisor. (Act No. 7 of 2004, s. 8)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Chairman of the Tribunal may appoint an advisor from a panel of persons with expert knowledge in matters relating to standards to assist in the determination of a matter before the Tribunal."
+    },
+    {
+     "ref": "(2)",
+     "text": "No member of the Council or employee of the Bureau may be appointed as an advisor. (Act No. 7 of 2004, s. 8)"
+    }
+   ]
+  },
+  "16G": {
+   "num": "16G",
+   "title": "Appeal from Tribunal to Court",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IVA",
+   "part_title": "STANDARDS TRIBUNAL",
+   "text": "A party to proceedings before the Tribunal may appeal the decision of the Tribunal to the High Court. (Act No. 7 of 2004, s. 8)",
+   "clauses": []
+  },
+  "16H": {
+   "num": "16H",
+   "title": "Procedure of Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IVA",
+   "part_title": "STANDARDS TRIBUNAL",
+   "text": "(1) The Cabinet Secretary may make rules for regulating the practice and procedure of the Tribunal. (2) Subject to the rules made under subsection (1), the Tribunal may regulate its own procedure.\n(Act No. 7 of 2004, s. 8)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may make rules for regulating the practice and procedure of the Tribunal. (2) Subject to the rules made under subsection (1), the Tribunal may regulate its own procedure."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Protection of Government, Bureau, Council and members and employees",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS",
+   "text": "The fact that any commodity complies or is alleged to comply with a Kenya Standard or approved specification or has been or is alleged to have been manufactured in accordance with any such specification, or that a standardisation mark is used in connection with any commodity, shall not give rise to any claim against the Government, the Council, or the Bureau, or any member or employee thereof.\n(Act No. 5 of 1980, ss. 4 and 8)",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Secrecy of information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) Any person who is or has been engaged in the administration of this Act who discloses, except for the purpose of the exercise of his functions or when required to do so by a court or under any written law, any information acquired by him in the exercise or purported exercise of his functions under this Act to any other person shall be guilty of an offence.\n(2) The disclosure of any information for purposes connected with the administration of this Act shall not prejudice any application made subsequently for registration of a patent under the Patents Registration Act (Cap. 508).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who is or has been engaged in the administration of this Act who discloses, except for the purpose of the exercise of his functions or when required to do so by a court or under any written law, any information acquired by him in the exercise or purported exercise of his functions under this Act to any other person shall be guilty of an offence."
+    },
+    {
+     "ref": "(2)",
+     "text": "The disclosure of any information for purposes connected with the administration of this Act shall not prejudice any application made subsequently for registration of a patent under the Patents Registration Act (Cap. 508)."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Victimization",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) No employer shall dismiss any person employed by him or her reduce the rate or remuneration of that person or otherwise alter the conditions of his or heremployment to conditions less favourable to him or her or alter his or her position to his or her disadvantage relative to other persons employed by that employer by reason of the fact that he believes or suspects (whether or not the belief or suspicion is justified or correct) that that person has given any information which he could be required under this Act to give to an inspector or has complied with any lawful requirement of an inspector or has given evidence in any proceedings under this Act.\n(2) An employer who contravenes any of the provisions of subsection (1) shall be guilty of an offence, and the Court convicting an employer of any such contravention may in addition to any sentence which it imposes, order the employer—\n  (a) to restore a rate of remuneration, or conditions of employment, or the position of an employee, to that which existed immediately before, and with effect from, the date of the reduction or alteration which gives rise to the conviction;\n  (b) to pay to any employee whose dismissal is the subject of the conviction a sum estimated by the Court to be equal to his total remuneration for any period not exceeding twelve months calculated according to the rate at which he was being remunerated at the time of his dismissal.\n(3) An order made under paragraph (b) of this section may be enforced as if it were a judgment of a civil court in favour of the employee concerned.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No employer shall dismiss any person employed by him or her reduce the rate or remuneration of that person or otherwise alter the conditions of his or heremployment to conditions less favourable to him or her or alter his or her position to his or her disadvantage relative to other persons employed by that employer by reason of the fact that he believes or suspects (whether or not the belief or suspicion is justified or correct) that that person has given any information which he could be required under this Act to give to an inspector or has complied with any lawful requirement of an inspector or has given evidence in any proceedings under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "An employer who contravenes any of the provisions of subsection (1) shall be guilty of an offence, and the Court convicting an employer of any such contravention may in addition to any sentence which it imposes, order the employer—"
+    },
+    {
+     "ref": "(3)",
+     "text": "An order made under paragraph (b) of this section may be enforced as if it were a judgment of a civil court in favour of the employee concerned."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) The Cabinet Secretary, after consultation with the Council, may make regulations generally for the better carrying out of the provisions and purposes of this Act.\n(2) Without prejudice to the generality of subsection (1) of this section, such regulations may—\n  (a) make provision for all matters in respect of which fees shall be payable under this Act or the regulations;\n  (b) prescribe the amount of any such fees and the persons who shall be liable for payment thereof;\n  (c) prescribe forms to be used under this Act and the regulations;\n  (d) provide for matters connected with appeals under this Act;\n  (e) make provision for requiring persons to supply information relevant to the provisions of this Act and the regulations;\n  (f) prescribe anything which under this Act is to be prescribed, and in particular the procedure to be followed by the Bureau in the performance of any of its functions under this Act.\n(Act No. 5 of 1980, s. 4)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary, after consultation with the Council, may make regulations generally for the better carrying out of the provisions and purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1) of this section, such regulations may—"
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Conflicting standards",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS",
+   "text": "Where there is a conflict between the provisions of a specification declared to be a Kenya Standard under section 9(1) and a specification made or declared under any other written law the Kenya Standard shall prevail.",
+   "clauses": []
+  },
+  "22": {
+   "num": "22",
+   "title": "Transitional provision",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS",
+   "text": "The provisions of section 14C(2)(d) shall not apply to any company, which was in the business of consolidation before the commencement of this Act.\n(Act No. 5 of 1980, s. 9, Act No. 23 of 2019, s. 49)",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 6(4)]",
+   "subtitle": "THE NATIONAL STANDARDS COUNCIL",
+   "text": "(Act No. 5 of 1980, s. 10) 1. Tenure of office\n(1) Each member of the council appointed by the Cabinet Secretary under paragraph (a), (c) or (d) of section 6(2) shall hold office for such period as may be specified in his instrument of appointment, and shall be eligible for reappointment.\n(2) Each additional member of the Council appointed by the Cabinet Secretary under section 6(3) shall hold office for such period as the Cabinet Secretary, on the advice of the Council, may at any time specify.\n(3) A member or additional member may at any time resign his office by notice in writing addressed to the chairman of the Council.\n(4) The Cabinet Secretary may cancel the appointment of a member or additional member on the ground of his infirmity, incapacity or misbehaviour, or if a member is absent from three consecutive meetings of the Council without the leave of the chairman.\n2. Meetings Meetings of the Council shall be convened by the chairman at least twice in each year and otherwise as occasion requires, and the chairman shall convene a special meeting of the Council at the request in writing of not less than four members.\n3. Procedure\n(1) At every meeting of the Council the person presiding shall have only a casting vote to be exercised in the event of an equality of the deliberative votes of the other members present and voting.\n(2) The quorum for a meeting of the Council shall be five.\n(3) Minutes of the proceedings of every meeting of the Council shall be regularly entered by the secretary in a minute book, and the book shall be kept so as to show proper tabulated details of all business conducted or transacted at each meeting.\n(4) An additional member appointed pursuant to subsection (3) of section 6 of this Act shall not vote or be counted for the purpose of forming a quorum at any meeting of the Council."
+  }
+ ]
+}

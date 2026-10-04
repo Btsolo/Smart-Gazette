@@ -1,0 +1,653 @@
+{
+ "title": "Intergovernmental Relations Act",
+ "citation": "Cap. 265F",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2012/2/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-04",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "INTERGOVERNMENTAL RELATIONS ACT CAP. 265F Published in Kenya Gazette Vol. CXIV—No. 18 on 9 March 2012 Assented to on 27 February 2012 Commenced on 9 March 2013 by Declaration of Persons Elected President and Deputy President\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to establish a framework for consultation and co-operation between the national and county governments and amongst county governments; to establish mechanisms for the resolution of intergovernmental disputes pursuant to Articles 6 and 189 of the Constitution, and for connected purposes National and County Government Co-ordinating Summit",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "provisions": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "TRANSFER AND DELEGATION OF POWERS, FUNCTIONS AND COMPETENCIES",
+   "provisions": [
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "DISPUTE RESOLUTION MECHANISMS",
+   "provisions": [
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "37",
+    "38"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Intergovernmental Relations Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— \"Cabinet Secretary\" means the Cabinet Secretary for the time being responsible for matters relating to intergovernmental relations; \"competencies\" means powers given to a public authority in respect of a specific activity, which is key to ensuring the provision of a public service and includes powers of planning, regulating, setting standards, constructing, financing, managing, monitoring and evaluating, sanctioning or intervening in any way to ensure that a function is discharged; \"Council\" means the Council of County Governors established under section 19; \"level of government\" means the national and county level of government; \"Secretariat\" means the Intergovernmental Relations Secretariat established under section 15; \"Summit\" means the National and County Government Co-ordinating Summit established under section 7; \"Technical Committee\" means the Intergovernmental Relations Technical Committee established under section 11.",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Objects and purposes of the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The objects and purposes of this Act are to—\n  (a) provide a framework for consultation and co-operation between the national and county governments;\n  (b) provide a framework for consultation and co-operation amongst county governments;\n  (c) establish institutional structures and mechanisms for intergovernmental relations;\n  (d) provide a framework for the inclusive consideration of any matter that affects relations between the two levels of government and amongst county governments;\n  (e) give effect to Articles 187 and 200 of the Constitution, in respect of the transfer of functions and powers by one level of government to another, including the transfer of legislative powers from the national government to the county governments; and\n  (f) provide mechanisms for the resolution of intergovernmental disputes where they arise.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Principles of intergovernmental relations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The intergovernmental relations structures established under this Act shall be based on the following principles—\n  (a) recognition of the sovereignty of the people as provided for under Article 1 of the Constitution;\n  (b) inclusive and participatory governance;\n  (c) respect for the functional and institutional integrity of the two levels of government;\n  (d) promotion of national values and principles of governance provided under Article 10 of the Constitution;\n  (e) respect for the constitutional status of the levels of government and the institutions of government established at either level of government;\n  (f) promotion of equality and equity in service delivery;\n  (g) objectivity and impartiality in decision making;\n  (h) the requirement for consultation and co-operation as provided under Article 6(2) of the Constitution;\n  (i) the need to minimize intergovernmental disputes while co-operating in exercising their functions;\n  (j) promotion of accountability to the people in decision making and actions taken; and (k) institutionalized protection of marginalized groups.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Objects of intergovernmental structures",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The objects of intergovernmental structures established under this Act include—\n  (a) facilitating the realization of the objects and principles of devolution provided for under Articles 174 and 175 of the Constitution;\n  (b) facilitating co-operation and consultation between the national and the county governments and amongst county governments as provided under Articles 6 and 189 of the Constitution;\n  (c) providing a forum for co-ordinating governments’ policies, legislation and functions;\n  (d) providing a forum for sharing and disclosing of necessary data and information;\n  (e) providing for mechanisms for the transfer of power, functions and competencies to either level of government; and (f) promoting accountability between the two levels of government or amongst the county governments.",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Application of the principles and objects of the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The principles and objects provided under sections 3, 4, and 5 shall apply to—\n  (a) the national and county governments;\n  (b) the intergovernmental relations structures established under this Act or any other written law; and\n  (c) the dispute resolution mechanisms provided under this Act.",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Establishment of the National and County Government Co-ordinating Summit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "(1) There is established a National and County Government Co-ordinating Summit which shall be the apex body for intergovernmental relations.\n(2) The Summit shall comprise—\n  (a) the President or in the absence of the President, the Deputy President, who shall be the Chairperson; and (b) the governors of the forty-seven counties.\n(3) The Chairperson of the Council elected under section 19 shall be the vice-Chairperson of the Summit.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a National and County Government Co-ordinating Summit which shall be the apex body for intergovernmental relations."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Summit shall comprise— (a) the President or in the absence of the President, the Deputy President, who shall be the Chairperson; and (b) the governors of the forty-seven counties."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Chairperson of the Council elected under section 19 shall be the vice-Chairperson of the Summit."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Functions of the Summit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "The Summit shall, among other things, provide a forum for—\n  (a) consultation and co-operation between the national and county governments;\n  (b) promotion of national values and principles of governance;\n  (c) promotion of national cohesion and unity;\n  (d) consideration and promotion of matters of national interest;\n  (e) consideration of reports from other intergovernmental forums and other bodies on matters affecting national interest;\n  (f) evaluating the performance of national or county governments and recommending appropriate action;\n  (g) receiving progress reports and providing advice as appropriate;\n  (h) monitoring the implementation of national and county development plans and recommending appropriate action;\n  (i) considering issues relating to intergovernmental relations referred to the Summit by a member of the public and recommending measures to be undertaken by the respective county government;\n  (j) co-ordinating and harmonizing the development of county and national governments policies;\n  (k) facilitating and co-ordinating the transfer of functions, power or competencies from and to either level of government; and (l) performing any other function that may be conferred on it by this Act or any other legislation or that it may consider necessary or appropriate.",
+   "clauses": []
+  },
+  "9": {
+   "num": "9",
+   "title": "Meetings of the Summit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "The Summit shall—\n  (a) meet at least twice a year; and (b) conduct its meetings in the manner provided under the Schedule to this Act.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Reports by the Summit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "(1) The Summit shall submit an annual report to the National Assembly, the Senate and the county assemblies, within three months after the end of every financial year.\n(2) The procedure and details of the report under subsection (1), shall be provided by Regulations. (3) The National Assembly, the Senate or the county assemblies shall, upon receiving the annual report under subsection (1), make such recommendations to the Summit as they may consider necessary. (4) Despite subsection (1), the National Assembly, the Senate or the county assemblies may, at any time, request information from the Summit on any matter.\nIntergovernmental Relations Technical Committee",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Summit shall submit an annual report to the National Assembly, the Senate and the county assemblies, within three months after the end of every financial year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The procedure and details of the report under subsection (1), shall be provided by Regulations. (3) The National Assembly, the Senate or the county assemblies shall, upon receiving the annual report under subsection (1), make such recommendations to the Summit as they may consider necessary. (4) Despite subsection (1), the National Assembly, the Senate or the county assemblies may, at any time, request information from the Summit on any matter."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Establishment of the Intergovernmental Relations Technical Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "(1) There is established an Intergovernmental Relations Technical Committee. (2) The Technical Committee shall comprise—\n  (a) a Chairperson competitively recruited and appointed by the Summit;\n  (b) not more than eight members who shall be competitively recruited and appointed by the Summit; and (c) the Principal Secretary of the State department for the time being responsible for matters relating to devolution. (3) The Technical Committee shall be appointed on such terms and conditions as the Summit may determine. (4) A person shall be qualified for appointment as the Chairperson of the Technical Committee if such person—\n  (a) holds a masters degree from a university recognized in Kenya;\n  (b) has a distinguished career in senior management position in either private or public sector;\n  (c) holds at least fifteen years’ post qualification professional experience; and (d) satisfies the requirements of Chapter Six of the Constitution.\n(5) A person shall be qualified for appointment as a member of the Technical Committee if such person —\n  (a) holds a degree from a university recognized in Kenya;\n  (b) has a distinguished career in their respective field;\n  (c) has at least ten years’ post qualification professional experience; and (d) satisfies the requirements of Chapter Six of the Constitution.\n(6) A person shall not be qualified for appointment as the Chairperson or a member of the Technical Committee if the person—\n  (a) is a member of Parliament or County Assembly;\n  (b) is a member of a governing body of a political party;\n  (c) is an elected or nominated member of a local authority;\n  (d) is a member of a Commission established under the Constitution;\n  (e) is an undischarged bankrupt;\n  (f) has been removed from office for contravening the Constitution or any other law; or (g) has, in the conduct of his affairs, not met any statutory obligations.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established an Intergovernmental Relations Technical Committee. (2) The Technical Committee shall comprise—"
+    },
+    {
+     "ref": "(5)",
+     "text": "A person shall be qualified for appointment as a member of the Technical Committee if such person — (a) holds a degree from a university recognized in Kenya; (b) has a distinguished career in their respective field; (c) has at least ten years’ post qualification professional experience; and (d) satisfies the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(6)",
+     "text": "A person shall not be qualified for appointment as the Chairperson or a member of the Technical Committee if the person— (a) is a member of Parliament or County Assembly; (b) is a member of a governing body of a political party; (c) is an elected or nominated member of a local authority; (d) is a member of a Commission established under the Constitution;"
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Functions of the Technical Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "The Technical Committee shall—\n  (a) be responsible for the day to day administration of the Summit and of the Council and in particular —\n  (i) facilitate the activities of the Summit and of the Council; and (ii) implement the decisions of the Summit and of the Council;\n  (b) take over the residual functions of the transition entity established under the law relating to transition to devolved government after dissolution of such entity;\n  (c) convene a meeting of the forty-seven County Secretaries within thirty days preceding every Summit meeting; and (d) perform any other function as may be conferred on it by the Summit, the Council, this Act or any other legislation.",
+   "clauses": []
+  },
+  "13": {
+   "num": "13",
+   "title": "Sectoral working groups or committees",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "(1) The Technical Committee may establish sectoral working groups or committees for the better carrying out of its functions.\n(2) Nothing in this section may be construed as precluding a Cabinet Secretary from convening consultative fora on sectoral issues of common interest to the national and county governments.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Technical Committee may establish sectoral working groups or committees for the better carrying out of its functions."
+    },
+    {
+     "ref": "(2)",
+     "text": "Nothing in this section may be construed as precluding a Cabinet Secretary from convening consultative fora on sectoral issues of common interest to the national and county governments."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Reports by the Technical Committee etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "The Technical Committee shall—\n  (a) submit quarterly reports to the Summit and to the Council; and (b) be accountable to the Summit and to the Council.",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "Establishment of the Intergovernmental Relations Secretariat",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "(1) There shall be a Secretariat of the Technical Committee which shall be headed by a Secretary. (2) The secretary shall be competitively recruited and appointed by the Technical Committee, with the approval of the Summit. (3) A person is qualified to be appointed as the secretary if that person—\n  (a) holds a degree from a university recognised in Kenya;\n  (b) has at least five years relevant professional experience;\n  (c) has demonstrable competence in administration of not less than five years; and (d) satisfies the requirements of leadership and integrity provided under Chapter Six of the Constitution. (4) The secretary shall be—\n  (a) the chief executive and accounting officer of the Secretariat; and\n  (b) responsible to the Technical Committee for the day to day administration of the affairs of the Secretariat and implementation of the decisions arising from the intergovernmental relations structures established under this Act.\n(5) Without prejudice to the generality of the provisions of subsection (4), the secretary shall be responsible for—\n  (a) the implementation of decisions of the Summit, the Council and the Technical Committee;\n  (b) the establishment and development of an efficient administration of the Secretariat;\n  (c) the organization, control and management of staff of the Secretariat;\n  (d) maintaining accurate records on financial matters and resource use;\n  (e) ensuring the preparation and approval of the budget for the required funding of the operational expenses of the Summit, the Council and the Technical Committee; and (f) performing any other duties as may be assigned to him by the Summit, the Council and the Technical Committee.\n(6) The Secretary shall be appointed for a single term of six years and shall not be eligible for reappointment.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Secretariat of the Technical Committee which shall be headed by a Secretary. (2) The secretary shall be competitively recruited and appointed by the Technical Committee, with the approval of the Summit. (3) A person is qualified to be appointed as the secretary if that person—"
+    },
+    {
+     "ref": "(5)",
+     "text": "Without prejudice to the generality of the provisions of subsection (4), the secretary shall be responsible for— (a) the implementation of decisions of the Summit, the Council and the Technical Committee; (b) the establishment and development of an efficient administration of the Secretariat; (c) the organization, control and management of staff of the Secretariat; (d) maintaining accurate records on financial matters and resource use; (e) ensuring the preparation and approval of the budget for the required funding of the operational expenses of the Summit, the Council and the Technical Committee; and (f) performing any other duties as may be assigned to him by the Summit, the Council and the Technical Committee."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Secretary shall be appointed for a single term of six years and shall not be eligible for reappointment."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Removal from office of the Secretary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "The Secretary may be removed from office by the Technical Committee with the approval of the Summit in accordance with the terms and conditions of service, for—\n  (a) inability to perform the functions of the office arising out of physical or mental incapacity;\n  (b) gross misconduct or misbehaviour;\n  (c) incompetence or negligence of duty; or (d) any other ground that would justify removal from office under the terms and conditions of service.",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "Staff of the Summit and Technical Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "The Technical Committee may employ officers and staff as are necessary for the proper discharge of the functions of the Technical Committee, the Council and the Summit under this Act.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Remuneration of staff",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "The Secretary, officers and staff of the Secretariat shall be paid such salaries, benefits and allowances for expenses as may be determined by the Technical Committee, in consultation with the Salaries and Remuneration Commission.\nCouncil of County Governors",
+   "clauses": []
+  },
+  "19": {
+   "num": "19",
+   "title": "Establishment of Council of County Governors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "(1) There is established a Council of County Governors which shall consist of the governors of the forty-seven counties.\n(2) The Council shall elect a Chairperson and a vice-Chairperson from amongst its members. (3) The Chairperson and vice-Chairperson of the Council shall serve for a term of one year and shall be eligible for re-election for one further term of one year.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a Council of County Governors which shall consist of the governors of the forty-seven counties."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council shall elect a Chairperson and a vice-Chairperson from amongst its members. (3) The Chairperson and vice-Chairperson of the Council shall serve for a term of one year and shall be eligible for re-election for one further term of one year."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Functions of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "(1) The Council shall provide a forum for—\n  (a) consultation amongst county governments;\n  (b) sharing of information on the performance of the counties in the execution of their functions with the objective of learning and promotion of best practice and where necessary, initiating preventive or corrective action;\n  (c) considering matters of common interest to county governments;\n  (d) dispute resolution between counties within the framework provided under this Act;\n  (e) facilitating capacity building for governors;\n  (f) receiving reports and monitoring the implementation of inter-county agreements on intercounty projects;\n  (g) consideration of matters referred to the Council by a member of the public;\n  (h) consideration of reports from other intergovernmental forums on matters affecting national and county interests or relating to the performance of counties; and (i) performing any other function as may be conferred on it by this Act or any other legislation or that it may consider necessary or appropriate.\n(2) The Council shall have powers to establish other intergovernmental forums including inter-city and municipality forums.\n(3) The Council may establish sectoral working groups or committees for the better carrying out of its functions.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall provide a forum for— (a) consultation amongst county governments; (b) sharing of information on the performance of the counties in the execution of their functions with the objective of learning and promotion of best practice and where necessary, initiating preventive or corrective action; (c) considering matters of common interest to county governments; (d) dispute resolution between counties within the framework provided under this Act; (e) facilitating capacity building for governors; (f) receiving reports and monitoring the implementation of inter-county agreements on intercounty projects; (g) consideration of matters referred to the Council by a member of the public; (h) consideration of reports from other intergovernmental forums on matters affecting national and county interests or relating to the performance of counties; and (i) performing any other function as may be conferred on it by this Act or any other legislation or that it may consider necessary or appropriate."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council shall have powers to establish other intergovernmental forums including inter-city and municipality forums."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Council may establish sectoral working groups or committees for the better carrying out of its functions."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Meetings of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "(1) The Council shall meet at least twice a year. (2) The meetings of the Council shall be as provided in the Schedule.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall meet at least twice a year. (2) The meetings of the Council shall be as provided in the Schedule."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Reports by the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "(1) The Council shall submit an annual report to the Summit, the Senate and the National Assembly. (2) The report under subsection (1) shall be transmitted to the county assemblies within three months after the end of every financial year.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall submit an annual report to the Summit, the Senate and the National Assembly. (2) The report under subsection (1) shall be transmitted to the county assemblies within three months after the end of every financial year."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Joint committees",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF INTERGOVERNMENTAL RELATIONS STRUCTURES",
+   "text": "The national or a county government may establish a joint committee with a specific mandate where such a committee is necessary for the achievement of—\n  (a) the objects and principles of devolution provided in Articles 174 and 175 of the Constitution; and (b) the objects and purposes of this Act.",
+   "clauses": []
+  },
+  "24": {
+   "num": "24",
+   "title": "Transfer and delegation of powers, functions and competencies",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRANSFER AND DELEGATION OF POWERS, FUNCTIONS AND COMPETENCIES",
+   "text": "Subject to Article 186 and Article 187 of the Constitution, either level of government may—\n  (a) transfer its powers, functions or competencies to the other level of government; or (b) delegate the exercise or performance of its powers, functions or competencies to—\n  (i) joint committees, authorities or entities;\n  (ii) other decentralized units; or (iii) urban areas and cities.",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "Principles of transfer or delegation of powers, functions and competencies",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRANSFER AND DELEGATION OF POWERS, FUNCTIONS AND COMPETENCIES",
+   "text": "A government transferring or delegating a power, function or competency under this Part shall—\n  (a) ensure the assignment is to the level of government best placed to exercise or perform the power, function or competency in accordance with Article 187 of the Constitution;\n  (b) ensure that adequate resources are provided to carry out the power, function, or competency;\n  (c) ensure that the transfer is in accordance with the procedures set out under this Act or prescribed by regulations made under this Act; and (d) ensure a transfer or delegation under this section does not transfer constitutional responsibility assigned to that level of government.",
+   "clauses": []
+  },
+  "26": {
+   "num": "26",
+   "title": "Agreements on transfer or delegation of powers, functions or competencies",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRANSFER AND DELEGATION OF POWERS, FUNCTIONS AND COMPETENCIES",
+   "text": "(1) A transfer or delegation of powers, functions or competencies under this Part shall be by a written agreement.\n(2) The agreement for the transfer or delegation under subsection (1) shall include—\n  (a) the function, power or competency transferred or delegated;\n  (b) the specific legal provisions supporting the transfer or delegation;\n  (c) the reasons for the transfer or delegation;\n  (d) the performance standards and frameworks in respect of the transfer or delegation;\n  (e) the resourcing framework for delivery of the powers, function or competency transferred or delegated;\n  (f) the capacity of the receiving entity to exercise or perform the powers, function, or competency transferred or delegated;\n  (g) the capacity building framework for enhancing any deficits identified in the entity to which the transfer or delegation has been effected;\n  (h) the method of resolving any dispute that may arise under the agreement; and (i) the terms and conditions for the exercise or performance of the power, function or competency including the time frame.\n(3) The agreement shall be—\n  (a) signed by an authorized person or officer; and (b) published in the Kenya Gazette and the county Gazette in respect of the county to which it relates, at least fourteen days before the effective date of the transfer or delegation.\n(4) The National Assembly shall be notified of the decision to transfer a national government power, function or competency.\n(5) A county assembly shall be notified of the decision to transfer a county government power, function or competency.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A transfer or delegation of powers, functions or competencies under this Part shall be by a written agreement."
+    },
+    {
+     "ref": "(2)",
+     "text": "The agreement for the transfer or delegation under subsection (1) shall include— (a) the function, power or competency transferred or delegated; (b) the specific legal provisions supporting the transfer or delegation; (c) the reasons for the transfer or delegation; (d) the performance standards and frameworks in respect of the transfer or delegation; (e) the resourcing framework for delivery of the powers, function or competency transferred or delegated; (f) the capacity of the receiving entity to exercise or perform the powers, function, or competency transferred or delegated; (g) the capacity building framework for enhancing any deficits identified in the entity to which the transfer or delegation has been effected; (h) the method of resolving any dispute that may arise under the agreement; and (i) the terms and conditions for the exercise or performance of the power, function or competency including the time frame."
+    },
+    {
+     "ref": "(3)",
+     "text": "The agreement shall be— (a) signed by an authorized person or officer; and (b) published in the Kenya Gazette and the county Gazette in respect of the county to which it relates, at least fourteen days before the effective date of the transfer or delegation."
+    },
+    {
+     "ref": "(4)",
+     "text": "The National Assembly shall be notified of the decision to transfer a national government power, function or competency."
+    },
+    {
+     "ref": "(5)",
+     "text": "A county assembly shall be notified of the decision to transfer a county government power, function or competency."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Service standards",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRANSFER AND DELEGATION OF POWERS, FUNCTIONS AND COMPETENCIES",
+   "text": "(1) For each power, function or competency, there shall be minimum service standards or norms of performance provided under relevant laws.\n(2) Any transfer or delegation of powers, functions or competencies shall be accompanied by adequate resources to ensure minimum service standards are achieved.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "For each power, function or competency, there shall be minimum service standards or norms of performance provided under relevant laws."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any transfer or delegation of powers, functions or competencies shall be accompanied by adequate resources to ensure minimum service standards are achieved."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Criteria for transferring powers, functions or competencies",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRANSFER AND DELEGATION OF POWERS, FUNCTIONS AND COMPETENCIES",
+   "text": "The criteria for the transfer or delegation of powers, functions or competencies shall include—\n  (a) the capacity of the entity to which the power function or competency is being transferred or delegated;\n  (b) the extent to which the transfer or delegation would allow for accountability;\n  (c) the extent to which the power, function or competency would best be performed by a single authority across a county, city, municipality or the Republic;\n  (d) the existence of the level of technical and managerial expertise required to perform a transferred or delegated function or competency; or (e) whether the provision of the service requires substantial inter-county or large-scale infrastructure.",
+   "clauses": []
+  },
+  "29": {
+   "num": "29",
+   "title": "Public participation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRANSFER AND DELEGATION OF POWERS, FUNCTIONS AND COMPETENCIES",
+   "text": "The framework for public participation in the transfer or delegation of powers, functions or competencies by either level of government under this Part shall be provided by Regulations.",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "Application of this Part",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DISPUTE RESOLUTION MECHANISMS",
+   "text": "(1) In this Part, unless the context otherwise requires, \"dispute\" means an intergovernmental dispute. (2) This Part shall apply to the resolution of disputes arising—\n  (a) between the national government and a county government; or (b) amongst county governments.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Part, unless the context otherwise requires, \"dispute\" means an intergovernmental dispute. (2) This Part shall apply to the resolution of disputes arising—"
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Measures for dispute resolution",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DISPUTE RESOLUTION MECHANISMS",
+   "text": "The national and county governments shall take all reasonable measures to—\n  (a) resolve disputes amicably; and\n  (b) apply and exhaust the mechanisms for alternative dispute resolution provided under this Act or any other legislation before resorting to judicial proceedings as contemplated by Article 189(3) and (4) of the Constitution.",
+   "clauses": []
+  },
+  "32": {
+   "num": "32",
+   "title": "Dispute resolution mechanisms",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DISPUTE RESOLUTION MECHANISMS",
+   "text": "(1) Any agreement between the national government and a county government or amongst county governments shall—\n  (a) include a dispute resolution mechanism that is appropriate to the nature of the agreement; and\n  (b) provide for an alternative dispute resolution mechanism with judicial proceedings as the last resort.\n(2) Where an agreement does not provide for a dispute resolution mechanism or provides for one that does not accord with subsection (1), any dispute arising shall be dealt with within the framework provided under this Part.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any agreement between the national government and a county government or amongst county governments shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where an agreement does not provide for a dispute resolution mechanism or provides for one that does not accord with subsection (1), any dispute arising shall be dealt with within the framework provided under this Part."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Formal declaration of a dispute",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DISPUTE RESOLUTION MECHANISMS",
+   "text": "(1) Before formally declaring the existence of a dispute, parties to a dispute shall, in good faith, make every reasonable effort and take all necessary steps to amicably resolve the matter by initiating direct negotiations with each other or through an intermediary.\n(2) Where the negotiations under subsection (1) fail, a party to the dispute may formally declare a dispute by referring the matter to the Summit, the Council or any other intergovernmental structure established under this Act, as may be appropriate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Before formally declaring the existence of a dispute, parties to a dispute shall, in good faith, make every reasonable effort and take all necessary steps to amicably resolve the matter by initiating direct negotiations with each other or through an intermediary."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the negotiations under subsection (1) fail, a party to the dispute may formally declare a dispute by referring the matter to the Summit, the Council or any other intergovernmental structure established under this Act, as may be appropriate."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Procedure after formal declaration of a dispute",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DISPUTE RESOLUTION MECHANISMS",
+   "text": "(1) Within twenty-one days of the formal declaration of a dispute, the Summit, the Council or any other intergovernmental structure established under this Act shall convene a meeting inviting the parties or their designated representatives—\n  (a) to determine the nature of the dispute, including—\n  (i) the precise issues in dispute; and\n  (ii) any material issues which are not in dispute; and\n  (b) to—\n  (i) identify the mechanisms or procedures, other than judicial proceedings, that are available to the parties to assist in settling the dispute, including a mechanism or procedure provided for in this Act, other legislation or in an agreement, if any, between the parties; or\n  (ii) subject to Article 189 of the Constitution, agree on an appropriate mechanism or procedure for resolving the dispute, including mediation or arbitration, as contemplated by Articles 159 and 189 of the Constitution.\n(2) Where a mechanism or procedure is specifically provided for in legislation or in an agreement between the parties, the parties shall make every reasonable effort to resolve the dispute in terms of that mechanism or procedure.\n(3) Where a dispute referred to the Council or any other intergovernmental structure established under this Act, fails to be resolved in accordance with section 33 (2), the Summit shall convene a meeting between the parties in an effort to resolve the dispute and may recommend an appropriate course of action for the resolution of the dispute.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Within twenty-one days of the formal declaration of a dispute, the Summit, the Council or any other intergovernmental structure established under this Act shall convene a meeting inviting the parties or their designated representatives—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a mechanism or procedure is specifically provided for in legislation or in an agreement between the parties, the parties shall make every reasonable effort to resolve the dispute in terms of that mechanism or procedure."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a dispute referred to the Council or any other intergovernmental structure established under this Act, fails to be resolved in accordance with section 33 (2), the Summit shall convene a meeting between the parties in an effort to resolve the dispute and may recommend an appropriate course of action for the resolution of the dispute."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Judicial proceedings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DISPUTE RESOLUTION MECHANISMS",
+   "text": "Where all efforts of resolving a dispute under this Act fail, a party to the dispute may submit the matter for arbitration or institute judicial proceedings.",
+   "clauses": []
+  },
+  "36": {
+   "num": "36",
+   "title": "Offence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "DISPUTE RESOLUTION MECHANISMS",
+   "text": "(1) A person commits an offence under this Act if, in relation to section 34, the person—\n  (a) fails, without justifiable cause, to attend a meeting for settling a dispute when required to;\n  (b) refuses to produce any article or document when lawfully required to do so;\n  (c) knowingly gives false evidence or information; or (d) interrupts any proceedings of the meeting.\n(2) A person who commits an offence under subsection (1) is liable, upon conviction, to a fine not exceeding two hundred thousand shillings or to imprisonment not exceeding six months, or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person commits an offence under this Act if, in relation to section 34, the person— (a) fails, without justifiable cause, to attend a meeting for settling a dispute when required to; (b) refuses to produce any article or document when lawfully required to do so; (c) knowingly gives false evidence or information; or (d) interrupts any proceedings of the meeting."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who commits an offence under subsection (1) is liable, upon conviction, to a fine not exceeding two hundred thousand shillings or to imprisonment not exceeding six months, or to both."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Operational expenses",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The operational expenses in respect of the structures and institutions established in this Act shall be provided for in the annual estimates of the revenue and expenditure of the national government to cater for—\n  (a) the Summit;\n  (b) the Council of County Governors;\n  (c) the Technical Committee, Secretariat and the sectoral working group established by the Technical Committee; and (d) the sectoral working groups established by the Council.",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary may, in consultation with the Summit, make regulations for the better carrying out of the provisions of this Act.\n(2) Without prejudice to the generality of subsection (1), the regulations may provide the procedures for—\n  (a) the transfer or delegation of functions to either level of government;\n  (b) public participation under this Act;\n  (c) dispute resolution mechanisms under this Act;\n  (d) appointing the members of the Technical Committee under section 11; and (e) constituting intergovernmental forums.\n(3) The Cabinet Secretary shall cause a draft of the regulations under subsection (1) to be laid before the Senate for approval before publication in the Kenya Gazette.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, in consultation with the Summit, make regulations for the better carrying out of the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), the regulations may provide the procedures for— (a) the transfer or delegation of functions to either level of government; (b) public participation under this Act; (c) dispute resolution mechanisms under this Act; (d) appointing the members of the Technical Committee under section 11; and (e) constituting intergovernmental forums."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary shall cause a draft of the regulations under subsection (1) to be laid before the Senate for approval before publication in the Kenya Gazette."
+    }
+   ]
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 9 and 21]",
+   "subtitle": "PROVISIONS ON THE CONDUCT OF THE MEETINGS OF THE INTERGOVERNMENTAL STRUCTURES",
+   "text": "1. Interpretation In this Schedule, unless the context otherwise requires— \"body\" means an intergovernmental structure established under this Act; \"meeting\" means a meeting of any of the intergovernmental structures established under this Act.\n2. Convening of meetings (1) The Chairperson and vice-Chairperson of a body shall, in consultation with the Secretariat—\n  (a) determine the agenda of the meetings of the body including the date, time and venue of the meeting; and (b) convene and chair its meetings. (2) In the absence of the Chairperson at a meeting of a body the meeting shall be chaired by the viceChairperson. (3) In the absence of both the Chairperson and the vice-Chairperson at a meeting of a body, the members present shall elect a member to chair the meeting.\n3. Special meetings The Chairperson shall, on the written requisition of one-third of the members of a body, convene a special meeting of the body.\n4. Notice of meetings (1) Except in the case of a special meeting, at least fourteen days written notice of a meeting of a body shall be issued to each member of the body. (2) In the case of a special meeting, the Chairperson shall convene a meeting within seven days of receipt of the requisition for the special meeting.\n5. Quorum The quorum for the conduct of the business of a meeting of a body shall be a majority of the total membership.\n6. Decision-making A decision of a body shall be by consensus.\n7. Joint sittings of bodies A body may hold a joint sitting with any other body for the purpose of carrying out its mandate.\n8. Attendance by non-members A body may invite a person who is not a member of the body to attend and participate at a sitting of the body but such person shall not be entitled to vote.\n9. Committees A meeting of a body may establish standing or ad-hoc committees charged with specific responsibilities.\n10. Other procedures Intergovernmental Relations Act (Cap. 265F) Except as provided in this Schedule, a body may regulate its own procedure."
+  }
+ ]
+}

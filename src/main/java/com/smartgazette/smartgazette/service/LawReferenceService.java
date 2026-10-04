@@ -30,8 +30,9 @@ import java.util.regex.Pattern;
  * of the powers conferred by Article 179 (2) (b) of the Constitution ...").
  * A reader cannot judge the notice without that provision.
  *
- * The law texts are reference/constitution.json and
- * reference/county_governments_act.json, built from Kenya Law by
+ * The law texts are reference/<key>.json, listed with the names notices print
+ * them under in reference/laws.json (42 laws: the Constitution, the County
+ * Governments Act and 40 Acts), built from Kenya Law by
  * tools/build_law_reference.py. Citations are found with the same rules as
  * tools/law_refs.py (keep the two in sync; parity-tested on 21,250 notices).
  * Resolved at view time from the stored notice text - nothing is persisted.
@@ -46,13 +47,28 @@ public class LawReferenceService {
                          String label, String title, String text, boolean found) {
     }
 
-    // law key -> how notices name it (whitespace-tolerant: the joiner glues words)
-    private static final Map<String, Pattern> LAW_NAMES = new LinkedHashMap<>();
-    static {
-        LAW_NAMES.put("constitution",
-                Pattern.compile("\\s*(?:this\\s*|the\\s*)?Constitution(?:\\s*of\\s*Kenya)?", Pattern.CASE_INSENSITIVE));
-        LAW_NAMES.put("county_governments_act",
-                Pattern.compile("\\s*(?:the\\s*)?County\\s*Governments?\\s*Act", Pattern.CASE_INSENSITIVE));
+    // law key -> how notices name it (whitespace-tolerant: the joiner glues words),
+    // from the catalog reference/laws.json (tools/build_law_reference.py pdfs);
+    // longest names first, as tools/law_refs.py
+    private record LawName(String key, Pattern pattern) {}
+    private static final List<String> LAW_KEYS = new ArrayList<>();      // filled by loadNames(): declared first
+    private static final List<LawName> LAW_NAMES = loadNames();
+
+    private static List<LawName> loadNames() {
+        List<String[]> pairs = new ArrayList<>();
+        try (InputStream in = new ClassPathResource("reference/laws.json").getInputStream()) {
+            for (JsonNode l : new ObjectMapper().readTree(in).path("laws")) {
+                LAW_KEYS.add(l.path("key").asText());
+                for (JsonNode n : l.path("names")) pairs.add(new String[]{l.path("key").asText(), n.asText()});
+            }
+        } catch (IOException e) {
+            LoggerFactory.getLogger(LawReferenceService.class).error("Could not load reference/laws.json - no law names.", e);
+        }
+        pairs.sort((a, b) -> Integer.compare(b[1].length(), a[1].length()));        // stable, as Python's sort
+        List<LawName> out = new ArrayList<>();
+        for (String[] p : pairs)
+            out.add(new LawName(p[0], Pattern.compile("\\s*" + p[1] + "\\b",Pattern.CASE_INSENSITIVE | Pattern.UNICODE_CHARACTER_CLASS)));
+        return out;
     }
 
     private static final String NUM = "\\d+[A-Z]?(?:\\s*\\(\\s*[0-9a-z]{1,4}\\s*\\))*";
@@ -73,7 +89,7 @@ public class LawReferenceService {
 
     @PostConstruct
     void load() {
-        for (String key : LAW_NAMES.keySet()) {
+        for (String key : LAW_KEYS) {
             try (InputStream in = new ClassPathResource("reference/" + key + ".json").getInputStream()) {
                 laws.put(key, new ObjectMapper().readTree(in));
             } catch (IOException e) {
@@ -89,9 +105,9 @@ public class LawReferenceService {
     }
 
     private static String whichLaw(String text) {
-        for (Map.Entry<String, Pattern> e : LAW_NAMES.entrySet()) {
-            if (e.getValue().matcher(text).lookingAt()) {
-                return e.getKey();
+        for (LawName n : LAW_NAMES) {
+            if (n.pattern().matcher(text).lookingAt()) {
+                return n.key();
             }
         }
         Matcher m = OTHER_ACT.matcher(text);

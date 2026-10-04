@@ -1,0 +1,521 @@
+{
+ "note": "Catalog of the laws in Smart Gazette (tools/build_law_reference.py pdfs raw/law). names = how notices print each law; the resolver (tools/law_refs.py = Java LawReferenceService) reads this file.",
+ "laws": [
+  {
+   "key": "constitution",
+   "title": "Constitution of Kenya",
+   "citation": null,
+   "version_date": "2010-09-03",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2010/constitution/eng@2010-09-03",
+   "provisions": 264,
+   "missing_sections": [],
+   "names": [
+    "(?:this\\s*|the\\s*)?Constitution(?:\\s*of\\s*Kenya)?"
+   ]
+  },
+  {
+   "key": "county_governments_act",
+   "title": "County Governments Act",
+   "citation": null,
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2012/17/eng@2022-12-31",
+   "provisions": 157,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?County\\s*Governments?\\s*Act"
+   ]
+  },
+  {
+   "key": "advocates_act",
+   "title": "Advocates Act",
+   "citation": "Cap. 16",
+   "version_date": "2024-04-26",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1989/18/eng@2024-04-26",
+   "provisions": 95,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Advocates\\s*Act"
+   ]
+  },
+  {
+   "key": "civil_procedure_act",
+   "title": "Civil Procedure Act",
+   "citation": "Cap. 21",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1924/3/eng@2022-12-31",
+   "provisions": 116,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Civil\\s*Procedure\\s*Act"
+   ]
+  },
+  {
+   "key": "companies_act",
+   "title": "Companies Act",
+   "citation": "Cap. 486",
+   "version_date": "2024-12-27",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2015/17/eng@2024-12-27",
+   "provisions": 1033,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Companies\\s*Act"
+   ]
+  },
+  {
+   "key": "competition_act",
+   "title": "Competition Act",
+   "citation": "Cap. 504",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2010/12/eng@2022-12-31",
+   "provisions": 103,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Competition\\s*Act"
+   ]
+  },
+  {
+   "key": "cooperative_societies_act",
+   "title": "Co-operative Societies Act",
+   "citation": "Cap. 490",
+   "version_date": "2023-12-11",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1997/12/eng@2023-12-11",
+   "provisions": 107,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Co[\\s-]*operative\\s*Societies\\s*Act"
+   ]
+  },
+  {
+   "key": "county_allocation_of_revenue_act_2026",
+   "title": "County Allocation of Revenue Act, 2026",
+   "citation": "No. 22 of 2026",
+   "version_date": "2026-07-17",
+   "source_url": null,
+   "provisions": 10,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?County\\s*Allocation\\s*of\\s*Revenue\\s*Act"
+   ]
+  },
+  {
+   "key": "county_assembly_services_act",
+   "title": "County Assembly Services Act",
+   "citation": "Cap. 265D",
+   "version_date": "2025-08-19",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2017/24/eng@2025-08-19",
+   "provisions": 48,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?County\\s*Assembly\\s*Services\\s*Act"
+   ]
+  },
+  {
+   "key": "crops_act",
+   "title": "Crops Act",
+   "citation": "Cap. 318",
+   "version_date": "2026-03-27",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2013/16/eng@2026-03-27",
+   "provisions": 44,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Crops\\s*Act"
+   ]
+  },
+  {
+   "key": "disposal_of_uncollected_goods_act",
+   "title": "Disposal of Uncollected Goods Act",
+   "citation": "Cap. 38",
+   "version_date": "1987-05-08",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1987/3/eng@1987-05-08",
+   "provisions": 10,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Disposal\\s*of\\s*Uncollected\\s*Goods\\s*Act"
+   ]
+  },
+  {
+   "key": "east_african_community_customs_management_act",
+   "title": "East African Community Customs Management Act, 2004",
+   "citation": "No. 1 of 2005",
+   "version_date": "2008-12-08",
+   "source_url": null,
+   "provisions": 215,
+   "missing_sections": [
+    "72",
+    "123",
+    "160",
+    "161",
+    "183",
+    "184",
+    "185",
+    "194",
+    "228",
+    "229"
+   ],
+   "names": [
+    "(?:the\\s*)?East\\s*African\\s*Community\\s*Customs\\s*Management\\s*Act"
+   ]
+  },
+  {
+   "key": "elections_act",
+   "title": "Elections Act",
+   "citation": "Cap. 7",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2011/24/eng@2022-12-31",
+   "provisions": 104,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Elections\\s*Act"
+   ]
+  },
+  {
+   "key": "energy_act",
+   "title": "Energy Act",
+   "citation": "Cap. 314",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2019/1/eng@2022-12-31",
+   "provisions": 225,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Energy\\s*Act"
+   ]
+  },
+  {
+   "key": "environmental_management_and_co_ordination_act",
+   "title": "Environmental Management and Co-ordination Act",
+   "citation": "Cap. 387",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1999/8/eng@2022-12-31",
+   "provisions": 156,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Environmental\\s*Management\\s*and\\s*Co[\\s-]*ordination\\s*Act"
+   ]
+  },
+  {
+   "key": "independent_electoral_and_boundaries_commission_act",
+   "title": "Independent Electoral and Boundaries Commission Act",
+   "citation": "Cap. 7C",
+   "version_date": "2024-07-19",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2011/9/eng@2024-07-19",
+   "provisions": 42,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Independent\\s*Electoral\\s*and\\s*Boundaries\\s*Commission\\s*Act"
+   ]
+  },
+  {
+   "key": "insolvency_act",
+   "title": "Insolvency Act",
+   "citation": "Cap. 53",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2015/18/eng@2022-12-31",
+   "provisions": 737,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Insolvency\\s*Act"
+   ]
+  },
+  {
+   "key": "insurance_act",
+   "title": "Insurance Act",
+   "citation": "Cap. 487",
+   "version_date": "2023-12-11",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1985/1/eng@2023-12-11",
+   "provisions": 254,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Insurance\\s*Act"
+   ]
+  },
+  {
+   "key": "intergovernmental_relations_act",
+   "title": "Intergovernmental Relations Act",
+   "citation": "Cap. 265F",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2012/2/eng@2022-12-31",
+   "provisions": 38,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Intergovernmental\\s*Relations\\s*Act"
+   ]
+  },
+  {
+   "key": "judicial_service_act",
+   "title": "Judicial Service Act",
+   "citation": "Cap. 8A",
+   "version_date": "2023-12-11",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2011/1/eng@2023-12-11",
+   "provisions": 49,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Judicial\\s*Service\\s*Act"
+   ]
+  },
+  {
+   "key": "kenya_information_and_communications_act",
+   "title": "Kenya Information and Communications Act",
+   "citation": "Cap. 411A",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1998/2/eng@2022-12-31",
+   "provisions": 198,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Kenya\\s*Information\\s*and\\s*Communications\\s*Act",
+    "(?:the\\s*)?Kenya\\s*Communications\\s*Act"
+   ]
+  },
+  {
+   "key": "labour_relations_act",
+   "title": "Labour Relations Act",
+   "citation": "Cap. 233",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2007/14/eng@2022-12-31",
+   "provisions": 84,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Labour\\s*Relations\\s*Act"
+   ]
+  },
+  {
+   "key": "land_act",
+   "title": "Land Act",
+   "citation": "Cap. 280",
+   "version_date": "2025-11-04",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2012/6/eng@2025-11-04",
+   "provisions": 180,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Land\\s*Act"
+   ]
+  },
+  {
+   "key": "land_registration_act",
+   "title": "Land Registration Act",
+   "citation": "Cap. 300",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2012/3/eng@2022-12-31",
+   "provisions": 111,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Land\\s*Registration\\s*Act"
+   ]
+  },
+  {
+   "key": "mental_health_act",
+   "title": "Mental Health Act",
+   "citation": "Cap. 248",
+   "version_date": "2023-12-11",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1989/10/eng@2023-12-11",
+   "provisions": 76,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Mental\\s*Health\\s*Act"
+   ]
+  },
+  {
+   "key": "mining_act",
+   "title": "Mining Act",
+   "citation": "Cap. 306",
+   "version_date": "2026-07-24",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2016/12/eng@2026-07-24",
+   "provisions": 226,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Mining\\s*Act"
+   ]
+  },
+  {
+   "key": "national_police_service_act",
+   "title": "National Police Service Act",
+   "citation": "Cap. 84",
+   "version_date": "2023-09-15",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2011/11a/eng@2023-09-15",
+   "provisions": 141,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?National\\s*Police\\s*Service\\s*Act"
+   ]
+  },
+  {
+   "key": "occupational_safety_and_health_act",
+   "title": "Occupational Safety and Health Act",
+   "citation": "Cap. 236A",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2007/15/eng@2022-12-31",
+   "provisions": 129,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Occupational\\s*Safety\\s*and\\s*Health\\s*Act"
+   ]
+  },
+  {
+   "key": "physical_and_land_use_planning_act",
+   "title": "Physical and Land Use Planning Act",
+   "citation": "Cap. 303",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2019/13/eng@2022-12-31",
+   "provisions": 93,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Physical\\s*and\\s*Land\\s*Use\\s*Planning\\s*Act"
+   ]
+  },
+  {
+   "key": "political_parties_act",
+   "title": "Political Parties Act",
+   "citation": "Cap. 7D",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2011/11/eng@2022-12-31",
+   "provisions": 68,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Political\\s*Parties\\s*Act"
+   ]
+  },
+  {
+   "key": "proceeds_of_crime_and_anti_money_laundering_act",
+   "title": "Proceeds of Crime and Anti-Money Laundering Act",
+   "citation": "Cap. 59A",
+   "version_date": "2025-11-04",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2009/9/eng@2025-11-04",
+   "provisions": 162,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Proceeds\\s*of\\s*Crime\\s*and\\s*Anti[\\s-]*Money\\s*Laundering\\s*Act"
+   ]
+  },
+  {
+   "key": "public_finance_management_act",
+   "title": "Public Finance Management Act",
+   "citation": "Cap. 412A",
+   "version_date": "2026-09-25",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2012/18/eng@2026-09-25",
+   "provisions": 231,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Public\\s*Finance\\s*Management\\s*Act"
+   ]
+  },
+  {
+   "key": "public_procurement_and_asset_disposal_act",
+   "title": "Public Procurement and Asset Disposal Act",
+   "citation": "Cap. 412C",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2015/33/eng@2022-12-31",
+   "provisions": 185,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Public\\s*Procurement\\s*and\\s*Asset\\s*Disposal\\s*Act"
+   ]
+  },
+  {
+   "key": "standards_act",
+   "title": "Standards Act",
+   "citation": "Cap. 496",
+   "version_date": "2026-07-10",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1973/17/eng@2026-07-10",
+   "provisions": 42,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Standards\\s*Act"
+   ]
+  },
+  {
+   "key": "state_corporations_act",
+   "title": "State Corporations Act",
+   "citation": "Cap. 446",
+   "version_date": "2025-12-05",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1986/11/eng@2025-12-05",
+   "provisions": 33,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?State\\s*Corporations\\s*Act"
+   ]
+  },
+  {
+   "key": "statutory_instruments_act",
+   "title": "Statutory Instruments Act",
+   "citation": "Cap. 2A",
+   "version_date": "2024-12-27",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2013/23/eng@2024-12-27",
+   "provisions": 29,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Statutory\\s*Instruments\\s*Act"
+   ]
+  },
+  {
+   "key": "technical_and_vocational_education_and_training_act",
+   "title": "Technical and Vocational Education and Training Act",
+   "citation": "Cap. 210A",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2013/29/eng@2022-12-31",
+   "provisions": 58,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Technical\\s*and\\s*Vocational\\s*Education\\s*and\\s*Training\\s*Act"
+   ]
+  },
+  {
+   "key": "unclaimed_financial_assets_act",
+   "title": "Unclaimed Financial Assets Act",
+   "citation": "Cap. 494",
+   "version_date": "2023-07-01",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2011/40/eng@2023-07-01",
+   "provisions": 55,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Unclaimed\\s*Financial\\s*Assets\\s*Act"
+   ]
+  },
+  {
+   "key": "universities_act",
+   "title": "Universities Act",
+   "citation": "Cap. 210",
+   "version_date": "2024-04-26",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2012/42/eng@2024-04-26",
+   "provisions": 95,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Universities\\s*Act"
+   ]
+  },
+  {
+   "key": "urban_areas_and_cities_act",
+   "title": "Urban Areas and Cities Act",
+   "citation": "Cap. 275",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2011/13/eng@2022-12-31",
+   "provisions": 68,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Urban\\s*Areas\\s*and\\s*Cities\\s*Act"
+   ]
+  },
+  {
+   "key": "water_act",
+   "title": "Water Act",
+   "citation": "Cap. 372",
+   "version_date": "2026-07-10",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2016/43/eng@2026-07-10",
+   "provisions": 149,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Water\\s*Act"
+   ]
+  },
+  {
+   "key": "wildlife_conservation_and_management_act",
+   "title": "Wildlife Conservation and Management Act",
+   "citation": "Cap. 376",
+   "version_date": "2025-11-04",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2013/47/eng@2025-11-04",
+   "provisions": 120,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Wildlife\\s*Conservation\\s*and\\s*Management\\s*Act"
+   ]
+  }
+ ]
+}

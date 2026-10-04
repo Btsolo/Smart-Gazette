@@ -1,0 +1,721 @@
+{
+ "title": "State Corporations Act",
+ "citation": "Cap. 446",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1986/11/eng@2025-12-05",
+ "version_date": "2025-12-05",
+ "retrieved": "2026-10-04",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "STATE CORPORATIONS ACT CAP. 446 Published in Kenya Gazette Vol. LXXXVIII—No. 40 on 26 September 1986 Assented to on 4 September 1986 Commenced on 1 November 1986 by State Corporations Act Commencement\n[Amended by Statute Law (Miscellaneous Amendments) Act, 1986 (Act No. 18 of 1986) on 30 December 1986] [Amended by Statute Law (Miscellaneous Amendments) Act, 1988 (Act No. 13 of 1988) on 16 December 1988] [Amended by Statute Law (Miscellaneous Amendments) Act, 1992 (Act No. 11 of 1992) on 23 October 1992]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2002 (Act No. 2 of 2002) on 7 June 2002] [Amended by Public Audit Act (Act No. 12 of 2003) on 9 January 2004]\n[Amended by Public Procurement and Disposal Act, 2003 (Act No. 3 of 2005) on 1 January 2007] [Amended by Statute Law (Miscellaneous Amendments) Act, 2015 (Act No. 25 of 2015) on 24 December 2015]\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] [Amended by Anti-Money Laundering and Combating of Terrorism Financing Laws (Amendment) Act, 2023 (Act No. 10 of 2023) on 15 September 2023]\n[Amended by Government Owned Enterprises Act (Act No. 25 of 2025) on 5 December 2025]\nAn Act of Parliament to make provision for the establishment of mte corporations; for control and regulation of state corporations; and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ESTABLISHMENT AND POWERS OF STATE CORPORATIONS",
+   "provisions": [
+    "3",
+    "4",
+    "5",
+    "5A"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "BOARDS AND MANAGEMENT OF STATE CORPORATIONS",
+   "provisions": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "10A"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "CONTROL OF THE FINANCES, ETC. OF STATE CORPORATIONS",
+   "provisions": [
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "THE STATE CORPORATIONS ADVISORY COMMITTEE",
+   "provisions": [
+    "26",
+    "27"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "28",
+    "29",
+    "30",
+    "31"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the State Corporations Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires—\n\"Audit-General (Corporations)\" deleted by Act No. 2 of 2002, Sch.;\n\"Board\" means the Board constituted in accordance with section 6(1) or the body or person, by whatever name called, carrying out or empowered to carry out functions relating to the overall direction and management of a state corporation;\n\"chief executive\" means the person appointed and employed as such under section 5(3) or the person for the time being exercising the executive powers of a state corporation;\n\"Committee\" means the State Corporations Advisory Committee established by section 27;\n\"Inspector\" means the Inspector-General (Corporations) appointed as such under section 18;\n\"the Cabinet Secretary\" means the Cabinet Secretary for the time being assigned ministerial responsibility for a state corporation and matters relating thereto by the President under section 4 and \"parent Ministry\" shall be construed accordingly;\n\"state corporation\" means—\n  (a) a state corporation established under section 3;\n  (b) a body corporate established before or after the commencement of this Act by or under an Act of Parliament or other written law but not—\n  (i) the Principal Secretary to the National Treasury incorporated under the Cabinet Secretary to the Treasury (Incorporation) Act (Cap. 101);\n  (ii) spent;\n  (iii) a co-operative society established under the Co-operative Societies Act (Cap. 490);\n  (iv) a building society established in accordance with the Building Societies Act (Cap. 489);\n  (v) a company incorporated under the Companies Act (Cap. 486) which is not wholly owned or controlled by the Government or by a state corporation;\n  (vi) the Central Bank of Kenya established under the Central Bank of Kenya Act (Cap. 491);\n  (vii) deleted by Act No. 2 of 2002, Sch.;\n  (viii) the Financial Reporting Centre established under the Proceeds of Crime and Anti-Money Laundering Act (Cap. 59A);\n  (ix) a Government Owned Enterprise established before or after the commencement of the Government Owned Enterprises Act, 2025 (No. 25 of 2025);\n  (c) a bank or a financial institution licensed under the Banking Act or other company incorporated under the Companies Act (Cap. 486), the whole or the controlling majority of the shares or stock of which is owned by the Government or by another state corporation;\n  (d) a subsidiary of a state corporation; \"Tribunal\" means the State Corporations Appeal Tribunal established by section 22.\n(Act No. 2 of 2002, Sch., Act No. 10 of 2023, Sch., Act No. 25 of 2025, s. 29)",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment of state corporations by the President",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND POWERS OF STATE CORPORATIONS",
+   "text": "(1) The President may, by order, establish a state corporation as a body corporate to perform the functions specified in that order.\n(2) A state corporation established under this section shall—\n  (a) have perpetual succession;\n  (b) in its corporate name be capable of suing and being sued;\n  (c) subject to this Act, be capable of holding and alienating movable and immovable property.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The President may, by order, establish a state corporation as a body corporate to perform the functions specified in that order."
+    },
+    {
+     "ref": "(2)",
+     "text": "A state corporation established under this section shall— (a) have perpetual succession; (b) in its corporate name be capable of suing and being sued; (c) subject to this Act, be capable of holding and alienating movable and immovable property."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Ministerial responsibility for state corporations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND POWERS OF STATE CORPORATIONS",
+   "text": "The President shall assign ministerial responsibility for any state corporation and matters relating thereto to the Vice-President and the several Cabinet Secretary as the President may by directions in writing determine.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Powers generally of state corporations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND POWERS OF STATE CORPORATIONS",
+   "text": "(1) Subject to this Act, every state corporation shall have all the powers necessary or expedient for the performance of its functions.\n(2) After the commencement of this Act and notwithstanding subsection (1), the power of a state corporation to borrow money in Kenya or elsewhere shall be exercised only with the consent of the Cabinet Secretary and subject to such limitations and conditions as may be imposed by the Treasury with respect to state corporations generally or specifically with respect to a particular state corporation.\n(3) A state corporation may engage and employ such number of staff, including the chief executive on such terms and conditions of service as the Cabinet Secretary may, in consultation with the Committee, approve.\n(4) A state corporation may, with the approval of the Cabinet Secretary in consultation with the Treasury and the Committee, establish pension, gratuity, superannuation, provident or other funds for the state corporation's employees and their dependants.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this Act, every state corporation shall have all the powers necessary or expedient for the performance of its functions."
+    },
+    {
+     "ref": "(2)",
+     "text": "After the commencement of this Act and notwithstanding subsection (1), the power of a state corporation to borrow money in Kenya or elsewhere shall be exercised only with the consent of the Cabinet Secretary and subject to such limitations and conditions as may be imposed by the Treasury with respect to state corporations generally or specifically with respect to a particular state corporation."
+    },
+    {
+     "ref": "(3)",
+     "text": "A state corporation may engage and employ such number of staff, including the chief executive on such terms and conditions of service as the Cabinet Secretary may, in consultation with the Committee, approve."
+    },
+    {
+     "ref": "(4)",
+     "text": "A state corporation may, with the approval of the Cabinet Secretary in consultation with the Treasury and the Committee, establish pension, gratuity, superannuation, provident or other funds for the state corporation's employees and their dependants."
+    }
+   ]
+  },
+  "5A": {
+   "num": "5A",
+   "title": "Exemption",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND POWERS OF STATE CORPORATIONS",
+   "text": "(1) Subject to subsection (2), the President may, by notice in the Gazette, exempt a state corporation, not being a state corporation established under section 3, from any of the provisions of this Act.\n(2) Notwithstanding the provisions of subsection (1), an exemption granted under this section shall not exempt a state corporation from the provisions of sections 5, 10A, 11, 13, 14, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, or 29.\n(3) Any state corporation eligible for exemption under this section which, immediately before the commencement of this section, was not subject to the provisions of this Act by virtue of—\n  (a) the provisions of the written law under which such state corporation is established; or\n  (b) a declaration in that behalf under paragraph (b)(vii) of section 2 (now repealed), shall, subject to subsection (2), be deemed to be exempt from the provisions of this Act.\n[Act No. 2 of 2002, Sch., Act No. 12 of 2003, 3rd Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2), the President may, by notice in the Gazette, exempt a state corporation, not being a state corporation established under section 3, from any of the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding the provisions of subsection (1), an exemption granted under this section shall not exempt a state corporation from the provisions of sections 5, 10A, 11, 13, 14, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, or 29."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any state corporation eligible for exemption under this section which, immediately before the commencement of this section, was not subject to the provisions of this Act by virtue of—"
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Composition of Boards",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "BOARDS AND MANAGEMENT OF STATE CORPORATIONS",
+   "text": "(1) Unless the written law by or under which a state corporation is established or the articles of association of a state corporation otherwise require, a Board shall, subject to subsection (4), consist of—\n  (a) a Chairperson appointed by the President who shall be non-executive unless the President otherwise directs;\n  (b) the chief executive;\n  (c) the Principal Secretary of the parent Ministry;\n  (d) the Principal Secretary to the National Treasury;\n  (da) the Attorney-General or his representative;\n  (e) not more than eleven other members not being employees of the state corporation, of whom not more than three shall be public officers, appointed by the Cabinet Secretary.\n(2) Every appointment under subsection (1)(a) and (e) shall be by name and by notice in the Gazette and shall be for a renewable period of five years or for such shorter period as may be specified in the notice, but shall cease if the appointee—\n  (a) serves the Cabinet Secretary with written notice of resignation; or\n  (b) is absent, without the permission of the Cabinet Secretary notified to the Board, from three consecutive meetings; or\n  (c) is convicted of an offence and sentenced to imprisonment for a term exceeding six months or to a fine exceeding two thousand shillings; or\n  (d) is incapacitated by prolonged physical or mental illness from performing his duties as a member of the Board; or\n  (e) conducts himself in a manner deemed by the Cabinet Secretary, in consultation with the Committee, to be inconsistent with membership of the Board.\n(3) No person whose membership of a Board has ceased in aocordance with paragraphs (b), (c) or (e) of subsection (2) shall be eligible for appointment to any Board thereafter.\n(4) Unless the written law under which a state corporation is established or the articles of association of a state corporation otherwise require, the Cabinet Secretary may, in consultation with the Committee, appoint one or more duly qualified persons, not being members of the Board, to be alternate members, and any one alternate member may attend a meeting of a Board in place of a substantive member who is unable to attend; and every alternate member shall, when attending a meeting, be deemed for all purposes to be a member of the Board.\n[Act No. 11 of 1992, Sch., Act No. 25 of 2015, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Unless the written law by or under which a state corporation is established or the articles of association of a state corporation otherwise require, a Board shall, subject to subsection (4), consist of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Every appointment under subsection (1)(a) and (e) shall be by name and by notice in the Gazette and shall be for a renewable period of five years or for such shorter period as may be specified in the notice, but shall cease if the appointee—"
+    },
+    {
+     "ref": "(3)",
+     "text": "No person whose membership of a Board has ceased in aocordance with paragraphs (b), (c) or (e) of subsection (2) shall be eligible for appointment to any Board thereafter."
+    },
+    {
+     "ref": "(4)",
+     "text": "Unless the written law under which a state corporation is established or the articles of association of a state corporation otherwise require, the Cabinet Secretary may, in consultation with the Committee, appoint one or more duly qualified persons, not being members of the Board, to be alternate members, and any one alternate member may attend a meeting of a Board in place of a substantive member who is unable to attend; and every alternate member shall, when attending a meeting, be deemed for all purposes to be a member of the Board."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Power to issue directions and to remove Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "BOARDS AND MANAGEMENT OF STATE CORPORATIONS",
+   "text": "(1) The President may give directions of a general or specific nature to a Board with regard to the better exercise and performance of the functions of the state corporation and the Board shall give effect to those directions.\n(2) Notwithstanding subsection (1), directions under this section may require that the memorandum and articles or any other documents establishing a state corporation, be amended to conform with any requirement of this Act where the same is inconsistent therewith.\n(3) Notwithstanding the provisions of any other written law or the articles of association establishing and governing a Board the President may, if at any time it appears to him that a Board has failed to carry out its functions in the national interest, revoke the appointment of any member of the Board and may himself nominate a new member for the remainder of the period of office of that member or he may constitute a new Board for such period as he shall, in consultation with the Committee, determine.\n[Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The President may give directions of a general or specific nature to a Board with regard to the better exercise and performance of the functions of the state corporation and the Board shall give effect to those directions."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding subsection (1), directions under this section may require that the memorandum and articles or any other documents establishing a state corporation, be amended to conform with any requirement of this Act where the same is inconsistent therewith."
+    },
+    {
+     "ref": "(3)",
+     "text": "Notwithstanding the provisions of any other written law or the articles of association establishing and governing a Board the President may, if at any time it appears to him that a Board has failed to carry out its functions in the national interest, revoke the appointment of any member of the Board and may himself nominate a new member for the remainder of the period of office of that member or he may constitute a new Board for such period as he shall, in consultation with the Committee, determine."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Meetings and procedure of Boards",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "BOARDS AND MANAGEMENT OF STATE CORPORATIONS",
+   "text": "(1) After the commencement of this Act—\n  (a) the Board of every state corporation shall meet not less than four times in every financial year and not more than four months shall elapse between the date of one meeting and the date of the next meeting;\n  (b) a meeting of a Board shall be held on such date and at such time as the Board shall decide or, in the absence of such decision or on any occasion on which the Chairperson in consultation with the chief executive shall decide that a meeting is necessary, on a date and at a time determined by the Chairperson;\n  (c) no meeting of a Board shall be held at any place other than the registered or principal office of the state corporation except with the prior written approval of the Committee;\n  (d) unless three-quarters of the total membership of a Board otherwise agree, at least fourteen days' written notice of every meeting of a Board shall be given to every member of the Board;\n  (e) the quorum for the conduct of business at a meeting of a Board shall be two-thirds of the total number of members of a Board or the number nearest to but not less than two-thirds;\nProvided that where within half an hour after the time appointed for the meeting a quorum is not present, the meeting shall be adjourned to the same day in the next week, at the same time and place, or at such time as the members may determine, and if at the adjourned meeting a quorum is not present within half an hour from the time appointed for the meeting the members present shall be deemed to be a quorum;\n  (f) the Chairperson of a Board shall preside at all meetings of the Board but in the absence of the Chairperson the members present shall appoint one of their number to preside at the meeting;\n  (g) unless a unanimous decision is reached, a decision on any matter before a Board shall be by a majority of votes of the members present and in the case of an equality of votes, the Chairperson or the person presiding shall have a casting vote;\n  (h) every member of a Board who is likely to be interested, otherwise than as a member of that Board or who participates or is or may become entided to participate directly or indirectly, in the profits from any contract or proposed contract or work done or proposed to be done for the state corporation, shall, on the matter coming before a meeting of the Board for consideration, immediately declare his interest therein and shall, unless the meeting otherwise agrees, retire from the meeting and shall in any case not be entitled to vote on the matter.\n(2) The chief executive of a state corporation or an officer instructed by the chief executive in that behalf, present at a meeting of a Board or a committee thereof, shall have the right to require his opinion to be recorded in the minutes if the Board or the committee, as the case may be, passes a resolution, which in the chief executive's or officer's opinion, is contrary to his advice or contrary to law.\n[Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "After the commencement of this Act—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The chief executive of a state corporation or an officer instructed by the chief executive in that behalf, present at a meeting of a Board or a committee thereof, shall have the right to require his opinion to be recorded in the minutes if the Board or the committee, as the case may be, passes a resolution, which in the chief executive's or officer's opinion, is contrary to his advice or contrary to law."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Committees",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "BOARDS AND MANAGEMENT OF STATE CORPORATIONS",
+   "text": "A state corporation may establish committees consisting of members of the Board to deal with such matters as the Board may specify and notice of establishment of any committee in accordance with this section whether established before or after the commencement of this Act shall be served on the State Corporations Advisory Committee.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Remuneration and expenses of Chairperson and members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "BOARDS AND MANAGEMENT OF STATE CORPORATIONS",
+   "text": "(1) The Chairperson and members of a Board, other than the chief executive, shall be paid out of the funds of the state corporation such sitting allowances or other remuneration as the Board may, within the scales of remuneration specified from time to time by the Committee, approve.\n(2) A Board may, within the scales specified by the Committee, refund travelling and other expenses incurred by the chairperson or members of the Board in the performance of their duties.\n[Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Chairperson and members of a Board, other than the chief executive, shall be paid out of the funds of the state corporation such sitting allowances or other remuneration as the Board may, within the scales of remuneration specified from time to time by the Committee, approve."
+    },
+    {
+     "ref": "(2)",
+     "text": "A Board may, within the scales specified by the Committee, refund travelling and other expenses incurred by the chairperson or members of the Board in the performance of their duties."
+    }
+   ]
+  },
+  "10A": {
+   "num": "10A",
+   "title": "Financial year",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "BOARDS AND MANAGEMENT OF STATE CORPORATIONS",
+   "text": "Notwithstanding anything to the contrary in any written law, the financial year of every state corporation shall be from the 1st of July in a year to the 30th of June in the next year.\n[Act No. 12 of 2003, 3rd Sch.]",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONTROL OF THE FINANCES, ETC. OF STATE CORPORATIONS",
+   "text": "(1) Every state corporation shall cause to be prepared and shall, not later than the end of February in every year, submit to the Cabinet Secretary and to the Treasury for approval, estimates of the state corporation's revenue and expenditure for the following financial year accompanied by proposals for funding all projects to be undertaken by the state corporation, or the implementation of which will continue during the financial year to which those estimates relate.\n(2) No annual estimates and proposals for funding projects shall be implemented until they have been approved by the Cabinet Secretary with the concurrence of the Treasury.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every state corporation shall cause to be prepared and shall, not later than the end of February in every year, submit to the Cabinet Secretary and to the Treasury for approval, estimates of the state corporation's revenue and expenditure for the following financial year accompanied by proposals for funding all projects to be undertaken by the state corporation, or the implementation of which will continue during the financial year to which those estimates relate."
+    },
+    {
+     "ref": "(2)",
+     "text": "No annual estimates and proposals for funding projects shall be implemented until they have been approved by the Cabinet Secretary with the concurrence of the Treasury."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Expenditure not included in annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONTROL OF THE FINANCES, ETC. OF STATE CORPORATIONS",
+   "text": "No state corporation shall, without the prior approval in writing of the Cabinet Secretary and the Treasury, incur any expenditure for which provision has not been made in an annual estimate prepared and approved in accordance with section 11.",
+   "clauses": []
+  },
+  "13": {
+   "num": "13",
+   "title": "Dealing with assets",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONTROL OF THE FINANCES, ETC. OF STATE CORPORATIONS",
+   "text": "(1) The assets of a state corporation may be disposed of—\n  (a) if they are current assets in the normal course of business carried on by that state corporation;\n  (b) where the disposal and the utilization of the proceeds have been taken into account in an annual estimate prepared and approved in accordance with section 11;\n  (c) by way of sale or otherwise with the approva! of the Cabinet Secretary and the Treasury where such disposal has not been taken into account in the estimates.\n(2) Subject to subsection (1), the Cabinet Secretary for the time being responsible for finance may, in consultation with the Committee, make rules for the acquisition and disposal of assets by state corporations and different rules may be made with respect to different state corporations; and such rules shall be brought to the notice of the state corporations and other persons affected thereby, but it shall not be necessary to publish the rules in the Gazette.\n(3) This section does not apply with respect to procurements or disposals to which the Public Procurement and Asset Disposal Act (Cap. 412C) applies.\n[Act No. 3 of 2005, 4th Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The assets of a state corporation may be disposed of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to subsection (1), the Cabinet Secretary for the time being responsible for finance may, in consultation with the Committee, make rules for the acquisition and disposal of assets by state corporations and different rules may be made with respect to different state corporations; and such rules shall be brought to the notice of the state corporations and other persons affected thereby, but it shall not be necessary to publish the rules in the Gazette."
+    },
+    {
+     "ref": "(3)",
+     "text": "This section does not apply with respect to procurements or disposals to which the Public Procurement and Asset Disposal Act (Cap. 412C) applies."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Books of accounts, records and audits",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONTROL OF THE FINANCES, ETC. OF STATE CORPORATIONS",
+   "text": "(1) Every state corporation shall keep or cause to be kept proper books recording all the property, undertakings, funds, activities, contracts, transactions and other business of the state corporation.\n(2) The Cabinet Secretary for the time being responsible for finance may prescribe the form of any book required to be kept under subsection (1) and unless a form has been prescribed, a form suitable for the purpose shall be used.\n(3) The accounts of every state corporation shall be audited and reported on annually in accordance with the Public Audit Act (Cap. 412B).\n(4) Deleted by Act No. 12 of 2003, 3rd Sch.\n[Act No. 2 of 2002, Sch., Act No. 12 of 2003, 3rd Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every state corporation shall keep or cause to be kept proper books recording all the property, undertakings, funds, activities, contracts, transactions and other business of the state corporation."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary for the time being responsible for finance may prescribe the form of any book required to be kept under subsection (1) and unless a form has been prescribed, a form suitable for the purpose shall be used."
+    },
+    {
+     "ref": "(3)",
+     "text": "The accounts of every state corporation shall be audited and reported on annually in accordance with the Public Audit Act (Cap. 412B)."
+    },
+    {
+     "ref": "(4)",
+     "text": "Deleted by Act No. 12 of 2003, 3rd Sch."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Accountability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONTROL OF THE FINANCES, ETC. OF STATE CORPORATIONS",
+   "text": "(1) A Board shall be responsible for the proper management of the affairs of a state corporation and shall be accountable for the moneys, the financial business and the management of a state corporation.\n(2) The chief executive of a state corporation may be summoned by the Public Investments Committee to answer on behalf of the Board any question arising from a report, including a special report, of the Auditor-General concerning the state corporation\n[Act No. 2 of 2002, Sch., Act No. 12 of 2003, 3rd Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A Board shall be responsible for the proper management of the affairs of a state corporation and shall be accountable for the moneys, the financial business and the management of a state corporation."
+    },
+    {
+     "ref": "(2)",
+     "text": "The chief executive of a state corporation may be summoned by the Public Investments Committee to answer on behalf of the Board any question arising from a report, including a special report, of the Auditor-General concerning the state corporation"
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Renewal of depreciating assets, etc. and disposal of surplus funds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONTROL OF THE FINANCES, ETC. OF STATE CORPORATIONS",
+   "text": "(1) Every state corporation shall make provision for the renewal of depreciating assets by the establishment of sinking funds and for contributions to suoh reserve and stabilization funds as may be required.\n(2) Where there are any surplus moneys after making the provision required by subsection (1) the surplus moneys shall be disposed of in such manner as the Cabinet Secretary, in consultation with the Board, may, in writing, direct.\n(3) Notwithstanding subsection (2), the Cabinet Secretary for the time being responsible for finance may require the whole or any part of the surplus moneys to be paid into the Consolidated Fund where the exigencies of the financial situation so require.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every state corporation shall make provision for the renewal of depreciating assets by the establishment of sinking funds and for contributions to suoh reserve and stabilization funds as may be required."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where there are any surplus moneys after making the provision required by subsection (1) the surplus moneys shall be disposed of in such manner as the Cabinet Secretary, in consultation with the Board, may, in writing, direct."
+    },
+    {
+     "ref": "(3)",
+     "text": "Notwithstanding subsection (2), the Cabinet Secretary for the time being responsible for finance may require the whole or any part of the surplus moneys to be paid into the Consolidated Fund where the exigencies of the financial situation so require."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Restriction on loans to Board members and staff",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONTROL OF THE FINANCES, ETC. OF STATE CORPORATIONS",
+   "text": "Notwithstanding any other written law establishing a state corporation or its memorandum and articles of association no state corporation shall grant to a member of the Board or staff any loan or advance or arrange any credit facility for him except in accordance with regulations made by the state corporation under this section and approved by the Treasury, but in the absence of those regulations such loan, advance or credit facility may be granted in accordance with terms and conditions approved by the Committee.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Inspector-General (Corporations)",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONTROL OF THE FINANCES, ETC. OF STATE CORPORATIONS",
+   "text": "(1) There shall be an Inspector-General (Corporations) whose office shall be an office in the public service and whose duties shall be—\n  (a) to advise the Government on all matters affecting the effective running of state corporations;\n  (b) to report periodically to the Cabinet Secretary on management practices within any state corporation;\n  (c) to report to the Auditor-General and any cases where moneys appropriated by Parliament are not being applied by state corporations for the purposes for which they were appropriated.\n(2) For the purposes of carrying out his duties under subsection (1) the Inspector-General (Corporations) shall have the following powers—\n  (a) to call for and inspect all books, records, returns and documents which in his opinion relate to the accounts of, or to execution of the functions of, any state corporation;\n  (b) to enter and inspect the premises, including any plant and installaltion thereon, of any state corporation;\n  (c) to attend meetings of any state corporation or of a Board or committee thereof if in his opinion it is necessary to do so for the effective carrying out of his duties under this section.\n(3) The Committee, or the Controller and Auditor-General may, if they consider it desirable, require the Inspector-General (Corporations) to conduct special investigations of any state corporation on their behalf and to report the findings to them.\n(4) There may be appointed such staff whose offices shall be offices in the public service as are necessary to assist the Inspector-General (Corporations) in the performance of his duties under this Act.\n[Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be an Inspector-General (Corporations) whose office shall be an office in the public service and whose duties shall be—"
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of carrying out his duties under subsection (1) the Inspector-General (Corporations) shall have the following powers—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Committee, or the Controller and Auditor-General may, if they consider it desirable, require the Inspector-General (Corporations) to conduct special investigations of any state corporation on their behalf and to report the findings to them."
+    },
+    {
+     "ref": "(4)",
+     "text": "There may be appointed such staff whose offices shall be offices in the public service as are necessary to assist the Inspector-General (Corporations) in the performance of his duties under this Act."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Powers of Inspector-General (Corporations) after investigations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONTROL OF THE FINANCES, ETC. OF STATE CORPORATIONS",
+   "text": "(1) In any investigation conducted under this Act, the Inspector-General (Corporations) shall have power—\n  (a) to disallow any item of account which is contrary to the law or to any direction lawfully given to a state corporation;\n  (b) to surcharge the amount of any expenditure so disallowed upon the person responsible for incurnng or authorizing the expenditure;\n  (c) to surcharge any sum which has not been duly brought to account upon the person by whom that sum ought to have been brought into account;\n  (d) to surcharge the amount of any loss or deficiency upon any person by whose negligence or misconduct the loss or deficiency has been incurred;\n  (e) to certify the amount due from any person upon whom he has made a surcharge.\n(2) The Inspector-General (Corporations) shall, as soon as practicable after certifying the amount of surcharge; furnish the person surcharged with a certificate of surcharge in the prescribed form.\n(3) For the purposes of this section, a member of the Board shall be deemed to be responsible for incurring or authorizing an expenditure if, being present when the resolution of the Board or committee thereof incurring or authorizing the expenditure was passed—\n  (a) he voted in favour of it; or\n  (b) he did not cause his vote against the resolution to be recorded in the minutes.\n(4) A person shall not be freed from liability to surcharge under this section by reason only of the fact that, in the matter giving rise to the liability, he acted in pursuance of any resolution of a Board, or of any committee thereof, if that resolution was contrary to law.\n[Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In any investigation conducted under this Act, the Inspector-General (Corporations) shall have power—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Inspector-General (Corporations) shall, as soon as practicable after certifying the amount of surcharge; furnish the person surcharged with a certificate of surcharge in the prescribed form."
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purposes of this section, a member of the Board shall be deemed to be responsible for incurring or authorizing an expenditure if, being present when the resolution of the Board or committee thereof incurring or authorizing the expenditure was passed—"
+    },
+    {
+     "ref": "(4)",
+     "text": "A person shall not be freed from liability to surcharge under this section by reason only of the fact that, in the matter giving rise to the liability, he acted in pursuance of any resolution of a Board, or of any committee thereof, if that resolution was contrary to law."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Application for written reasons for Inspector-General (Corporations) decision",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONTROL OF THE FINANCES, ETC. OF STATE CORPORATIONS",
+   "text": "The Inspector-General (Corporations) shall, on the application of any person aggrieved by a disallowance or surcharge made under section 19, within fourteen days of the application furnish the person with reasons in writing for the decision.\n[Act No. 2 of 2002, Sch.]",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Appeals against decision of Inspector-General (Corporations)",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONTROL OF THE FINANCES, ETC. OF STATE CORPORATIONS",
+   "text": "(1) Any person who is aggrieved by a disallowance or surcharge, may, within thirty days of the date of the certificate of surcharge, appeal by written memorandum to the Tribunal.\n(2) The Tribunal shall, on appeal, have power to confirm, vary or quash the decision of the InspectorGeneral (Corporations), and to remit the case to the Inspector-General (Corporations) with such directions as the Tribunal thinks fit for giving effect to the decision on appeal.\n[Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who is aggrieved by a disallowance or surcharge, may, within thirty days of the date of the certificate of surcharge, appeal by written memorandum to the Tribunal."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Tribunal shall, on appeal, have power to confirm, vary or quash the decision of the InspectorGeneral (Corporations), and to remit the case to the Inspector-General (Corporations) with such directions as the Tribunal thinks fit for giving effect to the decision on appeal."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "The State Corporations Appeal Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONTROL OF THE FINANCES, ETC. OF STATE CORPORATIONS",
+   "text": "(1) There shall be a Tribunal, to be known as the State Corporations Appeal Tribunal, which shall consider and determine appeals under section 21.\n(2) The Cabinet Secretary for the time being responsible for finance shall provide the Tribunal with such facilities, material and funds as are necessary for the proper conduct of its functions.\n(3) The Tribunal shall consist of—\n  (a) a Chairperson who shall be a person qualified by law to be appointed a judge, appointed by the President;\n  (b) two other members appointed by the Cabinet Secretary for the time being responsible for matters relating to finance each nominated by—\n  (i) the Council of the Law Society of Kenya from amongst advocates of not less than seven years' standing; and\n  (ii) the Council of the Institute of Certified Public Accountants of Kenya from amongst accountants of not less than seven years' standing.\n(4) The Attorney-General shall appoint a public officer to be secretary to the Tribunal.\n(5) There may be appointed such staff of the Tribunal whose offices shall be offices in the public service, as may be necessary.\n(6) For the purposes of the hearing and determination of any appeal by the Tribunal the secretary may, under the direction of the Tribunal, administer oaths.\n(7) The Chairperson, may by notice under his hand, summon any person to attend and give evidence and to produce any relevant book or document; and a person who fails to attend when so summoned shall be guilty of an offence and liable to a fine of two thousand shillings or imprisonment for one month.\n(8) The Tribunal shall have power to make such order as to costs, including—\n  (i) an order for the deposit by an appellant of money as security for costs before proceeding upon an appeal; and\n  (ii) an order that the expenses incurred by an appellant or any other party to the proceedings shall be paid by the state corporation concerned in the proceedings; and\n  (iii) orders as to taxation of costs in accordance with any scale prescribed for suits in the High Court.\nas appears to it just.\n(9) Any costs not recovered from security ordered under paragraph (a) (i) of subsection (8) shall be recoverable as a civil debt.\n(10) A person shall not be qualified to be appointed the Chairperson or a member of the Tribunal if he is an employee of, or a member of the Board of, a state corporation.\n(11) Every appointment under this section other than an appointment under subsection (5) shall be by name and by notice in the Gazette and shall be for a renewable term of not less than five years with respect to the Chairperson and not more than three years with respect to the members.\n(12) The sessions of the Tribunal shall, unless the special circumstances of an appeal require, be in Nairobi, convened by the Chairperson as occasion requires.\n(13) The record of the proceedings and of every decision of the Tribunal shall be authenticated by the signature of the Chairperson and shall be kept by the secretary.\n(14) The Chairperson and members of the Tribunal, other than public officers in receipt of a salary, shall be paid out of public funds such sitting allowances or other remuneration as the Committee may, in consultation with the Treasury, approve.\n(15) Subject to this section, the Tribunal may, with the approval of the Chief Justice, regulate its own procedures and the conduct of proceedings before it.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Tribunal, to be known as the State Corporations Appeal Tribunal, which shall consider and determine appeals under section 21."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary for the time being responsible for finance shall provide the Tribunal with such facilities, material and funds as are necessary for the proper conduct of its functions."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Tribunal shall consist of—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The Attorney-General shall appoint a public officer to be secretary to the Tribunal."
+    },
+    {
+     "ref": "(5)",
+     "text": "There may be appointed such staff of the Tribunal whose offices shall be offices in the public service, as may be necessary."
+    },
+    {
+     "ref": "(6)",
+     "text": "For the purposes of the hearing and determination of any appeal by the Tribunal the secretary may, under the direction of the Tribunal, administer oaths."
+    },
+    {
+     "ref": "(7)",
+     "text": "The Chairperson, may by notice under his hand, summon any person to attend and give evidence and to produce any relevant book or document; and a person who fails to attend when so summoned shall be guilty of an offence and liable to a fine of two thousand shillings or imprisonment for one month."
+    },
+    {
+     "ref": "(8)",
+     "text": "The Tribunal shall have power to make such order as to costs, including—"
+    },
+    {
+     "ref": "(9)",
+     "text": "Any costs not recovered from security ordered under paragraph (a) (i) of subsection (8) shall be recoverable as a civil debt."
+    },
+    {
+     "ref": "(10)",
+     "text": "A person shall not be qualified to be appointed the Chairperson or a member of the Tribunal if he is an employee of, or a member of the Board of, a state corporation."
+    },
+    {
+     "ref": "(11)",
+     "text": "Every appointment under this section other than an appointment under subsection (5) shall be by name and by notice in the Gazette and shall be for a renewable term of not less than five years with respect to the Chairperson and not more than three years with respect to the members."
+    },
+    {
+     "ref": "(12)",
+     "text": "The sessions of the Tribunal shall, unless the special circumstances of an appeal require, be in Nairobi, convened by the Chairperson as occasion requires."
+    },
+    {
+     "ref": "(13)",
+     "text": "The record of the proceedings and of every decision of the Tribunal shall be authenticated by the signature of the Chairperson and shall be kept by the secretary."
+    },
+    {
+     "ref": "(14)",
+     "text": "The Chairperson and members of the Tribunal, other than public officers in receipt of a salary, shall be paid out of public funds such sitting allowances or other remuneration as the Committee may, in consultation with the Treasury, approve."
+    },
+    {
+     "ref": "(15)",
+     "text": "Subject to this section, the Tribunal may, with the approval of the Chief Justice, regulate its own procedures and the conduct of proceedings before it."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Appeals to the High Court",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONTROL OF THE FINANCES, ETC. OF STATE CORPORATIONS",
+   "text": "(1) The Inspector-General (Corporations) or the person surcharged may, if aggrieved by the decision of the Tribunal, within thirty days appeal to the High Court which shall have power to confirm, vary or annul the decision of the Tribunal.\n(2) The procedure in and relating to appeals in civil matters from subordinate courts to the High Court and the powers of the High Court in such appeals shall govern appeals from the Tribunal to the High Court under this Act.\n(3) The decision of the High Court under this section shall be final and shall not be subject to further appeal.\n[Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Inspector-General (Corporations) or the person surcharged may, if aggrieved by the decision of the Tribunal, within thirty days appeal to the High Court which shall have power to confirm, vary or annul the decision of the Tribunal."
+    },
+    {
+     "ref": "(2)",
+     "text": "The procedure in and relating to appeals in civil matters from subordinate courts to the High Court and the powers of the High Court in such appeals shall govern appeals from the Tribunal to the High Court under this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "The decision of the High Court under this section shall be final and shall not be subject to further appeal."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Payment and recovery of sums certified to be true",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONTROL OF THE FINANCES, ETC. OF STATE CORPORATIONS",
+   "text": "(1) Every sum certified by the Inspector-General (Corporations) to be due from a person shall be paid by that person to the state corporation within thirty days after it has been so certified or, if an appeal with respect to the sum has been made, within fourteen days after the appeal has been disallowed, abandoned or has failed by reason of the non-prosecution thereof.\n(2) The Inspector-General (Corporations) shall take all necessary steps in any competent court to recover from the persons surcharged any sum which is not paid in accordance with subsection (1).\n(3) In any proceedings for the recovery of any sum which is not paid in accordance with subsection (1) the certificate of the Inspector-General (Corporations) shall be conclusive evidence that the sum is due and payable by the person surcharged.\n(4) On the production of the certificate of the Inspector-General (Corporations) the Court shall give a decree for the sum sued for and the decree shall have the effect of a decree under the Civil Procedure Act (Cap. 21) and any rules made thereunder.\n[Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every sum certified by the Inspector-General (Corporations) to be due from a person shall be paid by that person to the state corporation within thirty days after it has been so certified or, if an appeal with respect to the sum has been made, within fourteen days after the appeal has been disallowed, abandoned or has failed by reason of the non-prosecution thereof."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Inspector-General (Corporations) shall take all necessary steps in any competent court to recover from the persons surcharged any sum which is not paid in accordance with subsection (1)."
+    },
+    {
+     "ref": "(3)",
+     "text": "In any proceedings for the recovery of any sum which is not paid in accordance with subsection (1) the certificate of the Inspector-General (Corporations) shall be conclusive evidence that the sum is due and payable by the person surcharged."
+    },
+    {
+     "ref": "(4)",
+     "text": "On the production of the certificate of the Inspector-General (Corporations) the Court shall give a decree for the sum sued for and the decree shall have the effect of a decree under the Civil Procedure Act (Cap. 21) and any rules made thereunder."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Expenses of the Inspector-General (Corporations)",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONTROL OF THE FINANCES, ETC. OF STATE CORPORATIONS",
+   "text": "(1) Any expenses incurred by the Inspector-General (Corporations) in the defence of any allowance, disallowance or surcharge shall, so far as not recovered from any other party and except as may otherwise be ordered by the High Court or the Tribunal, be reimbursed to him by the state corporation the subject of investigation.\n(2) The costs and expenses incurred by the Inspector-General (Corporations) in any legal proceedings taken under section 24(2) shall, if not recovered from any other source, be borne by the state corporation the subject of investigation.\n[Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any expenses incurred by the Inspector-General (Corporations) in the defence of any allowance, disallowance or surcharge shall, so far as not recovered from any other party and except as may otherwise be ordered by the High Court or the Tribunal, be reimbursed to him by the state corporation the subject of investigation."
+    },
+    {
+     "ref": "(2)",
+     "text": "The costs and expenses incurred by the Inspector-General (Corporations) in any legal proceedings taken under section 24(2) shall, if not recovered from any other source, be borne by the state corporation the subject of investigation."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Establishment of Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "THE STATE CORPORATIONS ADVISORY COMMITTEE",
+   "text": "(1) There shall be a Committee to be known as the State Corporations Advisory Committee which shall consist of—\n  (a) a Chairperson appointed by the President;\n  (b) the Principal Secretary to the National Treasury;\n  (c) the Director of Personnel Management;\n  (d) the Inspector-General (Corporations);\n  (e) eight other members appointed by the President.\n(2) The Committee may co-opt any person for such purpose and for such period as it may determine. (3) The President shall appoint a public officer to be secretary to the Committee. (4) Subject to directions by the President, the Committee shall determine its own procedure. (5) The members and the secretary of the Committee shall be paid out of public funds such remuneration and in such manner as the President may approve. [Act No. 18 of 1986, Sch., Act No. 13 of 1988, Sch., Act No. 2 of 2002, Sch., Act No. 25 of 2015, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Committee to be known as the State Corporations Advisory Committee which shall consist of— (a) a Chairperson appointed by the President; (b) the Principal Secretary to the National Treasury; (c) the Director of Personnel Management; (d) the Inspector-General (Corporations); (e) eight other members appointed by the President."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Committee may co-opt any person for such purpose and for such period as it may determine. (3) The President shall appoint a public officer to be secretary to the Committee. (4) Subject to directions by the President, the Committee shall determine its own procedure. (5) The members and the secretary of the Committee shall be paid out of public funds such remuneration and in such manner as the President may approve. [Act No. 18 of 1986, Sch., Act No. 13 of 1988, Sch., Act No. 2 of 2002, Sch., Act No. 25 of 2015, Sch.]"
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Functions of the Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "THE STATE CORPORATIONS ADVISORY COMMITTEE",
+   "text": "The Committee shall advise on the matters and perform any functions it is required by this Act to perform and in addition shall—\n  (a) with the assistance of experts where necessary, review and investigate the affairs of state corporations and make such recommendations to the President as it may deem necessary;\n  (b) in consultation with the Attorney-General and the National Treasury, advise the President on the establishment, reorganization or dissolution of state corporations;\n  (c) where necessary, advise on the appointment, removal or transfer of officers and staff of state corporations, the secondment of public officers to state corporations and the terms and conditions of any appointment, removal, transfer or secondment;\n  (d) examine any management or consultancy agreement made or proposed to be made by a state corporation with any other party or person and advise thereon;\n  (e) examine proposals by state corporations to acquire interests in any business or to enter into joint ventures with other bodies or persons or to undertake new business or otherwise expand the scope of the activities and advise thereon.",
+   "clauses": []
+  },
+  "28": {
+   "num": "28",
+   "title": "Dissolution of state corporations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Where the Committee advises that a state corporation shall be dissolved then nothing in this Act shall be construed as derogating from the procedure by which the state corporation would be dissolved under the law by or under which it was established.",
+   "clauses": []
+  },
+  "29": {
+   "num": "29",
+   "title": "Offences and penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "A state corporation which, or an officer thereof who, fails to render or submit or make available for inspection any record, book, account or information required by or pursuant to this Act, or which or who restricts the Auditor-General (Corporations) or the Inspector in the performance of his duties shall be guilty of an offence cognizable to the police and punishable by a fine not exceeding ten thousand shillings or imprisonment for a term not exceeding three years or both and section 23 of the Penal Code (Cap. 63) shall, where the offence is committed by state corporation, apply mutatis mutandis.\n[Act No. 13 of 1988, Sch.]",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The President may make regulations generally for the better carrying into effect of the provisions of this Act and the powers conferred by this section may be assigned in accordance with section 18 of the Constitution.",
+   "clauses": []
+  },
+  "31": {
+   "num": "31",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "",
+   "clauses": []
+  }
+ },
+ "schedules": []
+}

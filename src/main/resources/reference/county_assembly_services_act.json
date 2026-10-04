@@ -1,0 +1,938 @@
+{
+ "title": "County Assembly Services Act",
+ "citation": "Cap. 265D",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2017/24/eng@2025-08-19",
+ "version_date": "2025-08-19",
+ "retrieved": "2026-10-04",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "COUNTY ASSEMBLY SERVICES ACT CAP. 265D Published in Kenya Gazette Vol. CXIX—No. 105 on 28 July 2017 Assented to on 6 July 2017 Commenced on 27 July 2017\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] [Amended by The County Public Finance Laws (Amendment) Act (Act No. 16 of 2025) on 19 August 2025]\nAn Act of Parliament to make further provisions on the County Assembly Service Board and the County Assembly Service as established under the County Governments Act in relation to each county; and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "THE COUNTY ASSEMBLY SERVICE",
+   "provisions": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "COUNTY ASSEMBLY SERVICE BOARD",
+   "provisions": [
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "THE CLERK AND OTHER STAFF",
+   "provisions": [
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "31",
+    "32",
+    "33",
+    "34"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the County Assembly Services Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— \"Board\" means the County Assembly Service Board established under section 12 of the County Governments Act (Cap. 265) with respect to each county assembly; \"chairperson\" includes the vice-chairperson or any other member of the Board when discharging the functions of the chairperson; \"Clerk\" means the Clerk of the county assembly; \"code of conduct\" means the code of conduct of the Service prescribed by the Board under section 6; \"county assembly service values\" means the values and principles of the Service specified under section 5; \"county public service board\" means the county public service board established under section 57 of the County Governments Act; \"fund\" deleted by Act No. 16 of 2025, s. 2. \"office\", in relation to the Service, means a paid office as an employee of the Service, not being the office of a member of the Board, or a part-time office, or an office the emoluments of which are payable at an hourly or daily rate; \"officer\" or \"employee\" means any person who holds or acts in any office of the Service otherwise than as a part time officer or employee; \"revenue fund\" means a revenue fund established under Article 207 of the Constitution; \"Secretary\" means the Clerk of the county assembly or, in the absence of the Clerk, the person exercising the functions of the Clerk; \"Service\" means the County Assembly Service established with respect to each county assembly under section 4;\n\"services and facilities\" includes all means by which members and staff of the county assembly are officially assisted in performing their legislative duties; and \"Speaker\" means the Speaker of the county assembly.\n[Act No. 16 of 2025, s. 2.]",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Object and purpose of the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The object and purpose of this Act is to—\n  (a) provide a framework for the establishment and effective operation of the Service with respect to each county assembly;\n  (b) provide for further functions and powers of the Board pursuant to section 12(7)(e) of the County Governments Act (Cap. 265);\n  (c) provide the procedure for the appointment of members of the Board under section 12(3)(d) of the County Governments Act;\n  (d) provide for the application of, and give further effect to, the values and principles of public service set out under Article 232 of the Constitution in respect of the Service;\n  (e) provide for the procedural functions of the Clerk and his or her functions as the Secretary to the Board;\n  (f) provide for the execution of the functions of the Board; and (g) provide for such other matters as may be necessary for the welfare, security and proper administration of the Service.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "The County Assembly Service",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COUNTY ASSEMBLY SERVICE",
+   "text": "(1) There shall be a service for each county assembly to be known as the County Assembly Service. (2) The Service shall be an institution of exemplary administrative and technical competence. (3) In the performance of their functions, employees of the Service shall not seek or receive directions from any source external to the Service. (4) Every member of a county assembly shall respect the non-partisan and apolitical character of the Service and shall not seek to influence employees of the Service in the discharge of their functions.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a service for each county assembly to be known as the County Assembly Service. (2) The Service shall be an institution of exemplary administrative and technical competence. (3) In the performance of their functions, employees of the Service shall not seek or receive directions from any source external to the Service. (4) Every member of a county assembly shall respect the non-partisan and apolitical character of the Service and shall not seek to influence employees of the Service in the discharge of their functions."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "County Assembly Service values",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COUNTY ASSEMBLY SERVICE",
+   "text": "(1) The values and principles of public service set out under Article 232(1) of the Constitution shall apply to the Service established under this Act.\n(2) In addition to the national values and principles of governance set out in Article 10 of the Constitution and the values and principles of public service set out in Article 232(1) of the Constitution, the Service shall uphold the following values—\n  (a) the fostering of peace;\n  (b) the provision of non-partisan and impartial advice and services to the county assembly, its committees and its members;\n  (c) the maintenance of honesty, accountability and integrity in the delivery of services, having regard to the principles of political neutrality, professionalism, economy, efficiency, equality and fairness, courtesy and discipline;\n  (d) the provision of a workplace that recognises the diverse backgrounds of the employees of the Service and promotes national integration;\n  (e) the maintenance of the spirit of co-operation in the workplace based on consultation and communication;\n  (f) the provision of a fair, flexible, safe and rewarding workplace;\n  (g) the inspiration of public confidence in and respect for the county assembly;\n  (h) the fostering of understanding and co-operation between the county executive and the county assembly in the context of their autonomy and complementarity; and\n  (i) such other values as the Board may, from time to time, prescribe.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The values and principles of public service set out under Article 232(1) of the Constitution shall apply to the Service established under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "In addition to the national values and principles of governance set out in Article 10 of the Constitution and the values and principles of public service set out in Article 232(1) of the Constitution, the Service shall uphold the following values— (a) the fostering of peace; (b) the provision of non-partisan and impartial advice and services to the county assembly, its committees and its members; (c) the maintenance of honesty, accountability and integrity in the delivery of services, having regard to the principles of political neutrality, professionalism, economy, efficiency, equality and fairness, courtesy and discipline;"
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Code of conduct",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COUNTY ASSEMBLY SERVICE",
+   "text": "(1) The Board may, from time to time, prescribe a code of conduct.\n(2) Without prejudice to the provisions of any code of conduct prescribed under subsection (1), every employee of the Service shall, in the course of his or her employment—\n  (a) be patriotic and loyal to Kenya and at all times conduct himself or herself in a manner that promotes the image and interests of the country;\n  (b) conduct himself or herself with honesty and integrity and act with care and diligence;\n  (c) use the resources of the county conscientiously and combat corruption and misuse or wastage of public resources;\n  (d) respect and observe the law of the land and co-operate with all lawful agencies in the maintenance of law and order;\n  (e) treat all persons with respect and courtesy and, in particular, protect persons with disabilities and other vulnerable groups against any form of abuse, harassment or illtreatment;\n  (f) promote gender equality and respect for the rights and freedoms of others;\n  (g) preserve and protect the environment and national heritage;\n  (h) comply with any lawful and reasonable direction given by any person in the Service having authority to give such direction;\n  (i) maintain appropriate confidentiality about dealings that the employee has with the county assembly, its committees, its members and its staff, including employees of members, if any;\n  (j) disclose, and take reasonable steps to avoid, any conflict of interest, real or apparent, in connection with the Service;\n  (k) not provide false or misleading information in response to a request for information that is made for official purposes;\n  (l) not make improper use of—\n  (i) any information obtained through or in connection with the office of such employee and which is not yet made available to the public; or\n  (ii) the employee's duties, status, power or authority, in order to gain, or seek to gain, a benefit or advantage for him or herself or for anyone else;\n  (m) conduct him or herself in a manner that upholds the letter and spirit of the values and the integrity and good reputation of the Service;\n  (n) while on duty overseas, conduct himself or herself in a manner that promotes the good image of Kenya; and\n  (o) comply with any other requirements of conduct as may be prescribed by the Board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may, from time to time, prescribe a code of conduct."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the provisions of any code of conduct prescribed under subsection (1), every employee of the Service shall, in the course of his or her employment—"
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Complementarity of values and codes of conduct",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COUNTY ASSEMBLY SERVICE",
+   "text": "The County Assembly Service values and the code of conduct provided for in sections 5 and 6, respectively shall be in addition to, and not in derogation from any others that may be specified by or under any other written law in relation to the citizens of Kenya generally.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Qualifications of members of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COUNTY ASSEMBLY SERVICE BOARD",
+   "text": "In nominating or appointing any person as a member of the Board under section 12(3)(d) of the County Governments Act (Cap. 265), the county assembly shall have regard to —\n  (a) the national values and principles set out in Article 10 of the Constitution; and (b) community and cultural diversity of the county.",
+   "clauses": []
+  },
+  "9": {
+   "num": "9",
+   "title": "Qualifications and procedure for appointment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COUNTY ASSEMBLY SERVICE BOARD",
+   "text": "(1) A person shall not be qualified for appointment as a member of the Board under section 12(3)(d) of the County Governments Act (Cap. 265) unless such person—\n  (a) is a citizen of Kenya;\n  (b) holds a degree from a university recognized in Kenya;\n  (c) has at least ten years experience in public affairs; and (d) meets the requirements of leadership and integrity in Chapter Six of the Constitution.\n(2) The procedure for appointment of the members of the Board referred to in subsection (1) shall be as set out in the First Schedule.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not be qualified for appointment as a member of the Board under section 12(3)(d) of the County Governments Act (Cap. 265) unless such person— (a) is a citizen of Kenya; (b) holds a degree from a university recognized in Kenya; (c) has at least ten years experience in public affairs; and (d) meets the requirements of leadership and integrity in Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(2)",
+     "text": "The procedure for appointment of the members of the Board referred to in subsection (1) shall be as set out in the First Schedule."
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Removal from office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COUNTY ASSEMBLY SERVICE BOARD",
+   "text": "(1) A person who is appointed as a member of the Board under section 12(3)(d) of the County Governments Act (Cap. 265) may be removed from office on any of the following grounds—\n  (a) violation of the Constitution;\n  (b) inability to discharge duties for any reason;\n  (c) bankruptcy; or (d) if convicted of any offence with a sentence of more than six months imprisonment.\n(2) Any person may petition the county assembly for the removal of the member of the Board on the grounds specified under subsection (1).\n(3) The procedure for the removal of a member of the Board under this section shall be as prescribed in the Standing Orders of the county assembly.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who is appointed as a member of the Board under section 12(3)(d) of the County Governments Act (Cap. 265) may be removed from office on any of the following grounds— (a) violation of the Constitution; (b) inability to discharge duties for any reason; (c) bankruptcy; or (d) if convicted of any offence with a sentence of more than six months imprisonment."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person may petition the county assembly for the removal of the member of the Board on the grounds specified under subsection (1)."
+    },
+    {
+     "ref": "(3)",
+     "text": "The procedure for the removal of a member of the Board under this section shall be as prescribed in the Standing Orders of the county assembly."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Functions of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COUNTY ASSEMBLY SERVICE BOARD",
+   "text": "(1) The Board shall—\n  (a) direct and supervise the administration of the services and facilities provided by, and exercise budgetary control over, the Service;\n  (b) determine and review the terms and conditions of service of persons holding or acting in the offices of the Service;\n  (c) initiate, co-ordinate and harmonize policies and strategies relating to the development of the Service;\n  (d) initiate programmes—\n  (i) for training and capacity building of members and staff of the county assembly and other persons;\n  (ii) that promote ideals of parliamentary democracy as set out in Article 127(6)(d) of the Constitution; and\n  (iii) that promote public awareness and participation in the activities of the county assembly; and\n  (e) do such other things as may be necessary for the well-being of the members and staff of the county assembly.\n(2) In the performance of its functions under this Act, the Board shall apply—\n  (a) the national values and principles of governance set out in Article 10 of the Constitution; and\n  (b) the values and principles of public service set out in Article 232(1) of the Constitution.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In the performance of its functions under this Act, the Board shall apply—"
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Powers of the Board as a body corporate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COUNTY ASSEMBLY SERVICE BOARD",
+   "text": "In addition to the powers of the Board under section 12(2) of the County Governments Act (Cap. 265), the Board shall have the power to—\n  (a) acquire, hold, charge and dispose of movable and immovable property;\n  (b) sue and be sued;\n  (c) despite the provision of any other written law, establish a pension scheme for officers of the Service and, from time to time, determine—\n  (i) the rates of contribution to the scheme; and\n  (ii) the multiple of the annual basic salary for the group life and group personal accident benefits; and\n  (d) do or perform all such other things or acts for the proper discharge of its functions under this Act and any written law, as may lawfully be done or performed by a body corporate.",
+   "clauses": []
+  },
+  "13": {
+   "num": "13",
+   "title": "Committees of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COUNTY ASSEMBLY SERVICE BOARD",
+   "text": "(1) The Board may from time to time establish such committees it may consider necessary for the better carrying out of its functions and the exercise of its powers under this Act.\n(2) The Board may co-opt into the membership of any committee established under subsection (1) any person whose knowledge and skills are necessary for the proper performance of the functions of the Board.\n(3) A person co-opted under subsection (2) shall have no right to vote at any meeting of the committee.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may from time to time establish such committees it may consider necessary for the better carrying out of its functions and the exercise of its powers under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may co-opt into the membership of any committee established under subsection (1) any person whose knowledge and skills are necessary for the proper performance of the functions of the Board."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person co-opted under subsection (2) shall have no right to vote at any meeting of the committee."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Seal of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COUNTY ASSEMBLY SERVICE BOARD",
+   "text": "(1) The seal of the Board shall be such device as may be determined by the Board and shall be kept by the Secretary.\n(2) The affixing of the seal shall be authenticated by the Secretary. (3) Any document purporting to be under the seal of the Board or issued on behalf of the Board shall be received in evidence and shall be deemed to be so executed or issued, as the case may be, without further proof, unless the contrary is proved.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The seal of the Board shall be such device as may be determined by the Board and shall be kept by the Secretary."
+    },
+    {
+     "ref": "(2)",
+     "text": "The affixing of the seal shall be authenticated by the Secretary. (3) Any document purporting to be under the seal of the Board or issued on behalf of the Board shall be received in evidence and shall be deemed to be so executed or issued, as the case may be, without further proof, unless the contrary is proved."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Allowances for the members of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COUNTY ASSEMBLY SERVICE BOARD",
+   "text": "Members of the Board shall be paid such allowances as the Salaries and Remuneration Commission may determine.",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "Conduct of business and affairs of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COUNTY ASSEMBLY SERVICE BOARD",
+   "text": "The conduct of business and affairs of the Board shall be as set out in the Second Schedule.",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "Functions of the Secretary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COUNTY ASSEMBLY SERVICE BOARD",
+   "text": "(1) The Secretary shall be—\n  (a) the chief executive officer of the Board;\n  (b) the accounting officer of the Board;\n  (c) the administrative head of the Service;\n  (d) the custodian of the Board's records;\n  (e) responsible for—\n  (i) the execution of the decisions of the Board; and (ii) assignment of duties and supervision of the staff of the Board;\n  (f) the preparation and submission of the programmes necessary for the achievement of the Board's mandate for approval by the Board;\n  (g) causing to be kept records of the proceedings and minutes of the meetings of the Board and such other records as the Board may direct;\n  (h) ensuring staff compliance with public service values, principles and ethics; and (i) the performance of such other duties as may be assigned by the Board or any other written law.\n(2) The Secretary shall be responsible to the chairperson of the Board and the Board for the general working and efficient conduct of business of the Service.\n(3) The Board may delegate to the Secretary such of its functions as are necessary to carry out the day to day management of the Service, and subject to such directions as may be given by the Board.\n(4) The Secretary may, in consultation with the Board, assign or delegate any of the functions under this section to an employee of the Service.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Secretary shall be— (a) the chief executive officer of the Board; (b) the accounting officer of the Board; (c) the administrative head of the Service; (d) the custodian of the Board's records; (e) responsible for— (i) the execution of the decisions of the Board; and (ii) assignment of duties and supervision of the staff of the Board; (f) the preparation and submission of the programmes necessary for the achievement of the Board's mandate for approval by the Board; (g) causing to be kept records of the proceedings and minutes of the meetings of the Board and such other records as the Board may direct; (h) ensuring staff compliance with public service values, principles and ethics; and (i) the performance of such other duties as may be assigned by the Board or any other written law."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Secretary shall be responsible to the chairperson of the Board and the Board for the general working and efficient conduct of business of the Service."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board may delegate to the Secretary such of its functions as are necessary to carry out the day to day management of the Service, and subject to such directions as may be given by the Board."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Secretary may, in consultation with the Board, assign or delegate any of the functions under this section to an employee of the Service."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Appointment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE CLERK AND OTHER STAFF",
+   "text": "(1) The nomination of a person for appointment as a Clerk of the county assembly under section 13 of the County Governments Act (Cap. 265) shall be done through an open, transparent and competitive recruitment process.\n(2) The name of a person nominated by the Board for appointment as the Clerk of the county assembly shall be submitted to the county assembly for approval in accordance with the Standing Orders of the county assembly.\n(3) The Board shall, within seven days of receipt of the resolution of the county assembly approving a person for appointment as Clerk of the county assembly, appoint that person as Clerk of the county assembly.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The nomination of a person for appointment as a Clerk of the county assembly under section 13 of the County Governments Act (Cap. 265) shall be done through an open, transparent and competitive recruitment process."
+    },
+    {
+     "ref": "(2)",
+     "text": "The name of a person nominated by the Board for appointment as the Clerk of the county assembly shall be submitted to the county assembly for approval in accordance with the Standing Orders of the county assembly."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board shall, within seven days of receipt of the resolution of the county assembly approving a person for appointment as Clerk of the county assembly, appoint that person as Clerk of the county assembly."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Functions of the Clerk",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE CLERK AND OTHER STAFF",
+   "text": "In addition to the functions conferred under section 16 as Secretary to the Board, the Clerk shall be—\n  (a) the chief administrative officer of the county assembly; and\n  (b) responsible for the day-to-day management and functioning of the county assembly.",
+   "clauses": []
+  },
+  "20": {
+   "num": "20",
+   "title": "Procedural Functions of the Clerk",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE CLERK AND OTHER STAFF",
+   "text": "(1) The procedural functions of the Clerk shall include—\n  (a) the rendering of expert, non-partisan and impartial advice to the members of the county assembly on the legislative process, and parliamentary procedure and practice; and\n  (b) the carrying out such other duties and exercising powers as may be conferred on him or her by law or by the Standing Orders and practices of the county assembly.\n(2) In carrying out the functions specified in subsection (1), the Clerk shall be assisted by such other officers of the Service as may be necessary.\n(3) Subject to this Act and any other written law, the Clerk shall, in carrying out and exercising the power conferred on him or her by the Standing Orders and practices of the county assembly, be under the direction of the Speaker.\n(4) At any time when the office of the Speaker is vacant or the holder of the office is unable for any reason to carry out the duties and exercise the powers and functions of his or her office, the Clerk shall, during that period and in relation to the carrying out of the duties and exercise of the powers and functions referred to in this section, be under the direction of the Deputy Speaker of the assembly.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The procedural functions of the Clerk shall include—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In carrying out the functions specified in subsection (1), the Clerk shall be assisted by such other officers of the Service as may be necessary."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to this Act and any other written law, the Clerk shall, in carrying out and exercising the power conferred on him or her by the Standing Orders and practices of the county assembly, be under the direction of the Speaker."
+    },
+    {
+     "ref": "(4)",
+     "text": "At any time when the office of the Speaker is vacant or the holder of the office is unable for any reason to carry out the duties and exercise the powers and functions of his or her office, the Clerk shall, during that period and in relation to the carrying out of the duties and exercise of the powers and functions referred to in this section, be under the direction of the Deputy Speaker of the assembly."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Exercise of functions of a Clerk during vacancy or inability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE CLERK AND OTHER STAFF",
+   "text": "If the office of the Clerk is vacant, or if for any reason the Clerk is unable to exercise the functions of his or her office, the Deputy Clerk or, in the absence of the Deputy Clerk, any other officer in the Service appointed by the Board may exercise all the functions, duties and powers of the Clerk.",
+   "clauses": []
+  },
+  "22": {
+   "num": "22",
+   "title": "Suspension or removal of the Clerk",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE CLERK AND OTHER STAFF",
+   "text": "The Board may suspend or remove from office, the Clerk for—\n  (a) inability to perform the functions of the office, whether arising from infirmity of body or mind;\n  (b) gross misconduct or misbehaviour;\n  (c) incompetence;\n  (d) bankruptcy;\n  (e) violation of the provisions of the Constitution, including Chapter Six of the Constitution; or\n  (f) violation of the provisions of this Act.",
+   "clauses": []
+  },
+  "23": {
+   "num": "23",
+   "title": "Procedure for removal of the Clerk",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE CLERK AND OTHER STAFF",
+   "text": "(1) Where the Board considers it necessary to remove the Clerk under section 20, the Board shall—\n  (a) frame a charge or charges against the Clerk;\n  (b) forward the statement of the said charge or charges to the Clerk together with a brief statement of the allegations in support of the charges;\n  (c) invite the Clerk to respond to the allegations in writing setting out the grounds on which the Clerk relies to exculpate himself or herself; and\n  (d) invite the Clerk to appear before the Board, either personally or with an advocate as he or she may opt, on a day to be specified, to exculpate himself or herself.\n(2) If the Clerk does not furnish a reply to the charge or charges within the period specified, or if in the opinion of the Board the Clerk fails to exculpate himself or herself, the Board shall submit a notice of a motion to the Speaker seeking that the county assembly revokes the appointment of the Clerk.\n(3) A motion under subsection (1) shall specify—\n  (a) the grounds set out in section 21 in which the Clerk is in breach; and\n  (b) the facts constituting that ground.\n(4) Upon notice of the motion under subsection (2), the Speaker shall refer the matter to a select committee of the assembly consisting of eleven members and established in accordance with the Standing Orders of the assembly to investigate the matter within ten days of receipt of the motion.\n(5) The select committee shall, within ten days, report to the assembly whether it finds the allegations against the Clerk to be substantiated.\n(6) The Clerk shall have the right to appear and be represented before the select committee during its investigations.\n(7) The assembly shall consider the report of the select committee and resolve whether to approve the motion.\n(8) If the assembly approves a motion filed under this section, the Clerk against whom the motion was filed shall be deemed to have been removed from office from the date the motion was approved.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the Board considers it necessary to remove the Clerk under section 20, the Board shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "If the Clerk does not furnish a reply to the charge or charges within the period specified, or if in the opinion of the Board the Clerk fails to exculpate himself or herself, the Board shall submit a notice of a motion to the Speaker seeking that the county assembly revokes the appointment of the Clerk."
+    },
+    {
+     "ref": "(3)",
+     "text": "A motion under subsection (1) shall specify—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Upon notice of the motion under subsection (2), the Speaker shall refer the matter to a select committee of the assembly consisting of eleven members and established in accordance with the Standing Orders of the assembly to investigate the matter within ten days of receipt of the motion."
+    },
+    {
+     "ref": "(5)",
+     "text": "The select committee shall, within ten days, report to the assembly whether it finds the allegations against the Clerk to be substantiated."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Clerk shall have the right to appear and be represented before the select committee during its investigations."
+    },
+    {
+     "ref": "(7)",
+     "text": "The assembly shall consider the report of the select committee and resolve whether to approve the motion."
+    },
+    {
+     "ref": "(8)",
+     "text": "If the assembly approves a motion filed under this section, the Clerk against whom the motion was filed shall be deemed to have been removed from office from the date the motion was approved."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Offices in the Service",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE CLERK AND OTHER STAFF",
+   "text": "(1) The Board shall establish such offices in the Service as it considers necessary or expedient for the efficient performance of the functions of the Service.\n(2) The offices established under subsection (1) shall be set out in the organisational structure established by the Board.\n(3) The Board may from time to time—\n  (a) allocate functions to a directorate or department of the Service; and\n  (b) make such arrangements as appear to the Board expedient in connection with the creation, division, amalgamation or abolition of any directorate or department of the Service.\n(4) The Board shall, for the purposes of reviewing the organisational structure under subsection (3), appoint a reputable human resource firm to advise on the effectiveness and efficiency of the intended review.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall establish such offices in the Service as it considers necessary or expedient for the efficient performance of the functions of the Service."
+    },
+    {
+     "ref": "(2)",
+     "text": "The offices established under subsection (1) shall be set out in the organisational structure established by the Board."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board may from time to time—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The Board shall, for the purposes of reviewing the organisational structure under subsection (3), appoint a reputable human resource firm to advise on the effectiveness and efficiency of the intended review."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "County assembly schemes of service",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE CLERK AND OTHER STAFF",
+   "text": "(1) The Board shall formulate and disseminate to officers of the Service, schemes of service setting out the terms and conditions for the appointment of the officers and other staff of the Service which shall provide for —\n  (a) the appointment and confirmation in appointment of officers and other staff;\n  (b) promotions, resignations and termination of appointments;\n  (c) secondment of staff and transfer of service;\n  (d) the scales of salaries and allowances; and (e) the designation and grades of officers and other staff.\n(2) The Secretary shall be responsible for the administration of the schemes of service for the staff of the Service.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall formulate and disseminate to officers of the Service, schemes of service setting out the terms and conditions for the appointment of the officers and other staff of the Service which shall provide for — (a) the appointment and confirmation in appointment of officers and other staff; (b) promotions, resignations and termination of appointments; (c) secondment of staff and transfer of service; (d) the scales of salaries and allowances; and (e) the designation and grades of officers and other staff."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Secretary shall be responsible for the administration of the schemes of service for the staff of the Service."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Social security scheme",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE CLERK AND OTHER STAFF",
+   "text": "Notwithstanding the provisions of any other written law, the Board—\n  (a) shall establish a contributory pension scheme for all its employees;\n  (b) shall determine the rates of contribution to the pension scheme referred to in paragraph (a); and (c) may establish or adopt a contributory optional superannuation, provident or medical fund or any other scheme for its employees and may grant pensions, gratuities, retiring allowances or sickness or injury benefits to any employee.",
+   "clauses": []
+  },
+  "27": {
+   "num": "27",
+   "title": "Disciplinary control of officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE CLERK AND OTHER STAFF",
+   "text": "(1) The Board shall exercise disciplinary control over the officers of the Service. (2) The Board may terminate the employment of an employee of the Service in accordance with the provisions of this Act and the Regulations made thereunder. (3) The provisions of Article 236 of the Constitution shall apply in relation to the exercise of the powers conferred on the Board under this section.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall exercise disciplinary control over the officers of the Service. (2) The Board may terminate the employment of an employee of the Service in accordance with the provisions of this Act and the Regulations made thereunder. (3) The provisions of Article 236 of the Constitution shall apply in relation to the exercise of the powers conferred on the Board under this section."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Establishment of the Management Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE CLERK AND OTHER STAFF",
+   "text": "(1) The Board shall establish a committee to be known as the Management Committee which shall be responsible for advising the Board on matters relating to the functions and powers of the Board under sections 11 and 12.\n(2) The Management Committee shall consist of the Clerk, the deputy clerk, heads of departments and such other officers as the Board may determine.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall establish a committee to be known as the Management Committee which shall be responsible for advising the Board on matters relating to the functions and powers of the Board under sections 11 and 12."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Management Committee shall consist of the Clerk, the deputy clerk, heads of departments and such other officers as the Board may determine."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Establishment of the Staff Advisory Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE CLERK AND OTHER STAFF",
+   "text": "The Board shall establish a committee to be known as the Staff Advisory Committee which shall be responsible for advising the Board, through the Committee, on matters relating to staff including—\n  (a) appointment, including acting appointment, promotion and transfer of employees;\n  (b) confirmation in appointment of an employee on probation or the extension of the probationary period of an employee;\n  (c) termination of the appointment of an employee;\n  (d) compulsory retirement of an employee who has reached the age at which he can lawfully be required to retire from the Service;\n  (e) retirement of an employee on the ground of ill health;\n  (f) interdiction of an employee;\n  (g) suspension of an employee;\n  (h) stopping, withholding or deferring the normal increment of an employee;\n  (i) stopping the pay or salary of an employee;\n  (j) reprimanding an employee; and (k) reduction in the rank or seniority of an employee.",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "Retirement and resignation of employees",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE CLERK AND OTHER STAFF",
+   "text": "(1) An employee shall retire from the Service on attaining the age of sixty years. (2) An employee may—\n  (a) after attaining the age of fifty years, elect to retire from the Service at any time; or (b) in such manner as may be prescribed, resign from the Service at any time. (3) The Board may, subject to subsection (4), require an employee to retire from the Service at any time. (4) The retirement under subsection (3) shall be—\n  (a) done in such manner and for such reasons as may be prescribed; and (b) upon payment of all the benefits owing to the officer at the time of retirement and such other exit package as may be prescribed.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An employee shall retire from the Service on attaining the age of sixty years. (2) An employee may—"
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Financial estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) At least three months before the commencement of each financial year the Secretary to the Board shall cause to be prepared, estimates of all the expenditure required for the purposes of this Act for that year, and shall present such estimates to the Board for review.\n(2) The Secretary shall ensure that the budgeting process is all inclusive and that it respects the principle of public participation.\n(3) The Board shall review the estimates forwarded under sub-section(1) and may make such alterations thereto as it may consider necessary, and shall thereafter forward them to the county assembly for approval.\n(4) The Secretary shall provide the County Treasury with a copy of estimates as reviewed by the Board under subsection (3).\n(5) Deleted by Act No. 16 of 2025, s. 3. [Act No. 16 of 2025, s. 3.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "At least three months before the commencement of each financial year the Secretary to the Board shall cause to be prepared, estimates of all the expenditure required for the purposes of this Act for that year, and shall present such estimates to the Board for review."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Secretary shall ensure that the budgeting process is all inclusive and that it respects the principle of public participation."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board shall review the estimates forwarded under sub-section(1) and may make such alterations thereto as it may consider necessary, and shall thereafter forward them to the county assembly for approval."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Secretary shall provide the County Treasury with a copy of estimates as reviewed by the Board under subsection (3)."
+    },
+    {
+     "ref": "(5)",
+     "text": "Deleted by Act No. 16 of 2025, s. 3. [Act No. 16 of 2025, s. 3.]"
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Board shall cause to be kept all proper books of accounts of the income, expenditure and assets of the Board.\n(2) Within three months after the end of each financial year, the Secretary shall—\n  (a) submit to the Auditor-General the accounts of the Board for the year with copies to the County Treasury, Controller of Budget and Commission on Revenue Allocation; and (b) publish and publicize the financial statement.\n(3) Deleted by Act No. 16 of 2025, s. 4. [Act No. 16 of 2025, s. 4.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall cause to be kept all proper books of accounts of the income, expenditure and assets of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within three months after the end of each financial year, the Secretary shall— (a) submit to the Auditor-General the accounts of the Board for the year with copies to the County Treasury, Controller of Budget and Commission on Revenue Allocation; and (b) publish and publicize the financial statement."
+    },
+    {
+     "ref": "(3)",
+     "text": "Deleted by Act No. 16 of 2025, s. 4. [Act No. 16 of 2025, s. 4.]"
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Remuneration of staff",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The employees of the Services shall be paid such remuneration and allowances as shall be determined by the Board on the advice of the Salaries and Remuneration Commission.\n(2) The terms and conditions of employees of the Service shall be reviewed every three years or within such shorter period as the Board may determine.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The employees of the Services shall be paid such remuneration and allowances as shall be determined by the Board on the advice of the Salaries and Remuneration Commission."
+    },
+    {
+     "ref": "(2)",
+     "text": "The terms and conditions of employees of the Service shall be reviewed every three years or within such shorter period as the Board may determine."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "[Deleted by Act No. 16 of 2025, s. 5.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "",
+   "clauses": []
+  },
+  "35": {
+   "num": "35",
+   "title": "Legal proceedings against the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Proceedings against the Board shall be commenced in the name of the Board. (2) Any notice or other processes in respect of legal proceedings under subsection (1) shall be served upon the Secretary to the Board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Proceedings against the Board shall be commenced in the name of the Board. (2) Any notice or other processes in respect of legal proceedings under subsection (1) shall be served upon the Secretary to the Board."
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Annual report of operations of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Within three months after the end of each calendar year, the Board shall prepare and lay before the county assembly, a report of its operations during that year.\n(2) The annual report shall in respect of the year to which it relates, contain—\n  (a) the activities the Board has undertaken;\n  (b) an evaluation on the extent to which the values and principles referred to in Articles 10 and 232 of the Constitution are complied with in the public service;\n  (c) information relating to performance of the Service and attendant challenges; and (d) any other information that the Board may consider relevant.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Within three months after the end of each calendar year, the Board shall prepare and lay before the county assembly, a report of its operations during that year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual report shall in respect of the year to which it relates, contain— (a) the activities the Board has undertaken; (b) an evaluation on the extent to which the values and principles referred to in Articles 10 and 232 of the Constitution are complied with in the public service; (c) information relating to performance of the Service and attendant challenges; and (d) any other information that the Board may consider relevant."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Designated member may present documents, etc., in the county assembly",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "A member of the Board authorised by the Board in that behalf may—\n  (a) lay before the county assembly any document or other matter;\n  (b) reply to a question relating to the affairs of the Board.",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "Oath of office for members of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Chairperson, vice-chairperson and members shall, before assuming office, take and subscribe to the oath or affirmation of office prescribed in the Third Schedule.\n(2) The Secretary and such other officers of the Board as the Board may require so to do, shall, on first appointment, take an oath in the form prescribed in the Third Schedule to this Act.\n(3) Where any person required to take an oath has no religious belief or the taking of such oath is contrary to his religious belief, he or she may make and subscribe a solemn affirmation in the form of the oath appointed substituting the words \"solemnly and sincerely declare and affirm\" for the word \"swear\" and omitting the words \"So help me God\".\n(4) Every oath or affirmation taken by the Chairperson shall be administered by the secretary and every oath or affirmation taken by any other member or the secretary shall be administered by the Chairperson.\n(5) Every oath or affirmation taken by any other officer shall be administered by the secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Chairperson, vice-chairperson and members shall, before assuming office, take and subscribe to the oath or affirmation of office prescribed in the Third Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Secretary and such other officers of the Board as the Board may require so to do, shall, on first appointment, take an oath in the form prescribed in the Third Schedule to this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where any person required to take an oath has no religious belief or the taking of such oath is contrary to his religious belief, he or she may make and subscribe a solemn affirmation in the form of the oath appointed substituting the words \"solemnly and sincerely declare and affirm\" for the word \"swear\" and omitting the words \"So help me God\"."
+    },
+    {
+     "ref": "(4)",
+     "text": "Every oath or affirmation taken by the Chairperson shall be administered by the secretary and every oath or affirmation taken by any other member or the secretary shall be administered by the Chairperson."
+    },
+    {
+     "ref": "(5)",
+     "text": "Every oath or affirmation taken by any other officer shall be administered by the secretary."
+    }
+   ]
+  },
+  "39": {
+   "num": "39",
+   "title": "Power to order attendance of witnesses",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Board or any committee thereof may, subject to section 43, order any person to attend before it and to give evidence or to produce any paper, book, record or document in the possession or under the control of that person.",
+   "clauses": []
+  },
+  "40": {
+   "num": "40",
+   "title": "Privileges of witnesses",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Every person summoned to attend to give evidence or to produce any paper, book, record or document before the Board or a committee thereof shall be entitled, in respect of that evidence or the disclosure of any communication or the production or any paper, book, record or document to the same right or privilege as before a court of law.",
+   "clauses": []
+  },
+  "41": {
+   "num": "41",
+   "title": "Evidence of proceedings in the Board not to be given without leave",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A member or an officer of the Service or any person employed to take minutes or evidence before the Board or any committee shall not give evidence elsewhere in respect of the contents of those minutes or evidence or of the contents of any document laid before the Board or that committee or in respect of any proceedings or examination held before the Board or that committee without special leave first obtained from the chairperson.\n(2) The special leave referred to in subsection (1) may be given by the vice-chairperson in the absence or other incapacity of the chairperson.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A member or an officer of the Service or any person employed to take minutes or evidence before the Board or any committee shall not give evidence elsewhere in respect of the contents of those minutes or evidence or of the contents of any document laid before the Board or that committee or in respect of any proceedings or examination held before the Board or that committee without special leave first obtained from the chairperson."
+    },
+    {
+     "ref": "(2)",
+     "text": "The special leave referred to in subsection (1) may be given by the vice-chairperson in the absence or other incapacity of the chairperson."
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "Protection of members and staff of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Any act or thing done by any member of the Board or by any officer or servant of the Board shall not, if the act or thing was done in good faith for the purposes of carrying out this Act into effect, subject him or her personally to any liability, action, claim or demand whatsoever.\n(2) The provisions of subsection (1) shall not relieve the Board of the liability to pay compensation or damages to any person for an injury suffered by them, their property, or any of their interests arising directly or indirectly from the exercise of any power conferred by this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any act or thing done by any member of the Board or by any officer or servant of the Board shall not, if the act or thing was done in good faith for the purposes of carrying out this Act into effect, subject him or her personally to any liability, action, claim or demand whatsoever."
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of subsection (1) shall not relieve the Board of the liability to pay compensation or damages to any person for an injury suffered by them, their property, or any of their interests arising directly or indirectly from the exercise of any power conferred by this Act."
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Offences and penalties under the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Any person who—\n  (a) in connection with an application by himself or herself or any other person for employment, appointment or promotion in the Service, or in connection with any matter on which it is the duty of the Board to require information or evidence or into which it is the duty of the Board to inquire, wilfully gives to the Board or to any member thereof any information which is false or misleading in any material particular;\n  (b) in a manner contrary to the provisions of this Act, publishes or discloses to any unauthorised person or otherwise than in the course of duty the contents or any part of the contents of any document, communication or information whatsoever which has come to his knowledge in the course of his or her duties under this Act, and any person who knowingly acts in contravention of this paragraph;\n  (c) having possession of any information which to his or her knowledge has been published or disclosed in contravention of paragraph (b) of this section, publishes or communicates to any other person otherwise than for the purpose of any prosecution under this Act or in the course of his or her duty any such information;\n  (d) otherwise than in the course of duty, directly or indirectly by himself or herself or by any other person in any manner whatsoever unlawfully influences or attempts to influence any decision of the Board or of any member thereof;\n  (e) disobeys any order made by the Board or a committee for attendance or for production of papers, books documents or records; or\n  (f) refuses to be examined before, or to answer any lawful and relevant question put by the Board or a committee, commits an offence and shall be liable on conviction to a fine not exceeding fifty thousand shillings, or to imprisonment for a term not exceeding one year, or to both.\n(2) Subsection (1)(d) shall not prohibit any person from giving a certificate or testimonial to any applicant or candidate for the Service or supplying any information or assistance upon formal request made by the Board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Subsection (1)(d) shall not prohibit any person from giving a certificate or testimonial to any applicant or candidate for the Service or supplying any information or assistance upon formal request made by the Board."
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Examination and other panels",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Board may, in such manner as it deems fit, make provision for examinations and appoint such selection, promotion or other panels as it considers necessary for the proper discharge of its functions.\n(2) A panel appointed under subsection (1) may wholly or in part consist of persons who are not members of the Board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may, in such manner as it deems fit, make provision for examinations and appoint such selection, promotion or other panels as it considers necessary for the proper discharge of its functions."
+    },
+    {
+     "ref": "(2)",
+     "text": "A panel appointed under subsection (1) may wholly or in part consist of persons who are not members of the Board."
+    }
+   ]
+  },
+  "45": {
+   "num": "45",
+   "title": "Regulations by the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Board may make Regulations generally for the better carrying out of the provisions of this Act.\n(2) Without prejudice to the generality of subsection (1), regulations under this Act may provide for—\n  (a) anything required by this Act to be prescribed;\n  (b) the conduct of the business of the Board;\n  (c) the administration and management of the services and facilities;\n  (d) the terms and conditions of service, pension and other retirement benefits of employees;\n  (e) the measures for the discipline of employees;\n  (f) the financial procedures of the Board;\n  (g) the orientation and training of members of the county assembly and employees;\n  (h) the security of members of county assembly;\n  (i) the handling of the assets and other resources of the Board;\n  (j) the delegation of the Board's functions or powers;\n  (k) public participation and outreach; and (l) any other matter required under the Constitution, this Act or any other written law. (3) For the purposes of Article 94(6) of the Constitution —\n  (a) the authority of the Board to make regulations shall be limited to bringing into effect the provisions of this Act and the fulfilment of the objectives specified under subsection (1); and (b) the principles and standards set out under the Interpretation and General Provisions Act (Cap. 2) and the Statutory Instruments Act (Cap. 2A) in relation to subsidiary legislation shall apply to regulations made under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may make Regulations generally for the better carrying out of the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), regulations under this Act may provide for—"
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "",
+   "clauses": []
+  },
+  "47": {
+   "num": "47",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "",
+   "clauses": []
+  },
+  "48": {
+   "num": "48",
+   "title": "Transition and savings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Subject to subsection (2), each county assembly shall appoint the members of a County Assembly Service Board under sections 12(3)(b), (c) and (d) of the County Governments Act (Cap. 265) within thirty days after the commencement of this Act.\n(2) Upon the commencement of this Act and before the first general elections held after the coming into force of this Act, a person, who immediately before the commencement of this Act served as a member of a County Assembly Service Board appointed under sections 12 (3)(b), (c) and (d) of the County Governments Act (Cap. 265) in force before the commencement of this Act, shall continue to serve as a member of the Board, as one of the persons appointed under sections 12(3)(b), (c) and (d).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2), each county assembly shall appoint the members of a County Assembly Service Board under sections 12(3)(b), (c) and (d) of the County Governments Act (Cap. 265) within thirty days after the commencement of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Upon the commencement of this Act and before the first general elections held after the coming into force of this Act, a person, who immediately before the commencement of this Act served as a member of a County Assembly Service Board appointed under sections 12 (3)(b), (c) and (d) of the County Governments Act (Cap. 265) in force before the commencement of this Act, shall continue to serve as a member of the Board, as one of the persons appointed under sections 12(3)(b), (c) and (d)."
+    }
+   ]
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [s. 9(2)]",
+   "subtitle": "PROCEDURE FOR APPOINTMENT OF A MEMBER OF THE BOARD",
+   "text": "1. Upon the convening of the first sitting of the county assembly or whenever a vacancy arises in the membership of the Board under section 12(3)(d) of the County Governments Act (Cap. 265), the Secretary to the Board shall, within fourteen days of that first sitting or the occurrence of the vacancy or within such time as would be reasonable, by notice in the Gazette and in at least two daily newspapers of national circulation, declare a vacancy and invite interested qualified persons to apply.\n2. Any person qualified in accordance with this Act may make an application to the Secretary within fourteen days of the publication of the notice.\n3. The Board shall, within fourteen days after the last date of submission of applications under paragraph 2, consider the applications, shortlist, conduct interviews and recommend the name of one applicant qualified for the position.\n4. The name of a person recommended under paragraph 3 shall be submitted to the county assembly for approval and appointment in accordance with the Standing Orders of the assembly.\n5. If the assembly approves a person recommended under paragraph 3, the Secretary shall, within seven days after the approval, publish the name of the person in the Gazette.\n6. Where the assembly rejects the person recommended under paragraph 3, the Speaker shall communicate the decision of that assembly to the Board and shall request for a fresh nomination by the Board.\n7. If the county assembly rejects any of the subsequent nominees submitted by the Board for approval under paragraph 7, the provisions of paragraphs 1 to 6 shall apply."
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [s. 16.]",
+   "subtitle": "PROVISIONS AS TO THE CONDUCT OF THE BUSINESS AND AFFAIRS OF THE BOARD",
+   "text": "1. The Board shall meet as often as may be necessary for the carrying out of its business but it shall meet at least once every calendar month.\n2. A meeting of the Board shall be held on such date and at such time as the chairperson shall determine.\n3. The chairperson or in the absence of the chairperson, the vice-chairperson, shall, within seven days of receipt of a written application of at least four members, convene a special meeting of the Board.\n4. Unless the majority of the total membership of the Board otherwise agree, at least seven days' written notice of every meeting of the Board shall be given to every member of the Board.\n5. The quorum for a meeting of the Board shall be three members.\n6. The quorum for a meeting of a Committee of the Board shall be two members.\n7. The chairperson shall preside at every meeting of the Board and in the absence of the chairperson at a meeting, the vice-chairperson shall preside and in the absence of both the chairperson and the vicechairperson, the members present shall elect one of their number to preside and who shall, with respect to that meeting and the business transacted thereat, have all the powers of the chairperson.\n8. The Board may act notwithstanding a vacancy in its membership or absence of a member, and its proceedings shall not be invalidated by the presence or participation of a person not entitled to be present at or to participate in those proceedings.\n9. The Board shall endeavour to reach every decision by consensus.\n10. Where on any matter consensus cannot be obtained, the decision of the Board shall require the concurrence of a majority of all the members present at the meeting.\n11. The Board may, by directions in writing, delegate any of its powers under this section to any one or more of its members or to any officer in the County Assembly Service.\n12. The Board shall cause minutes of all proceedings of meetings of the Board to be entered in books for that purpose.\n13. Except as provided by this Schedule, the Board may regulate its own procedure."
+  },
+  {
+   "id": "att_3",
+   "title": "THIRD SCHEDULE [s. 38]",
+   "subtitle": "OATH/AFFIRMATION OF OFFICE",
+   "text": "Oath/Affirmation of Member of the Board I, having been appointed as Chairperson/Vice-Chairperson/Member of the County Assembly Service Board do swear/solemnly and sincerely declare and affirm that I will without fear or favour, affection or ill-will discharge the functions of the office of Chairman/Vice-Chairman/Member of the County Assembly Service Board, and that I will not, directly or indirectly, reveal any matter relating to such function to unauthorised persons or otherwise than in the course of my duty. (SO HELP ME GOD) Sworn/Declared by the said...................... before me this day of............................ ........................... Chairperson/Secretary County Assembly Service Board Oath/Affirmation of Officer of the Board I, being called upon to exercise the functions of secretary Officer/[other] of the County Assembly Service Board, do swear/solemnly and sincerely declare and affirm that I will not, directly or indirectly, reveal to any unauthorised person or otherwise than in the course of duty the contents or any part of the contents of any document, communication or information whatsoever which may come to my knowledge in the course of my duties as an officer of the Board. SO HELP ME GOD. Sworn/Declared by the said ......................... before me this day of........................ ............................... Chairperson/Secretary County Assembly Service Board"
+  }
+ ]
+}

@@ -1,0 +1,885 @@
+{
+ "title": "Crops Act",
+ "citation": "Cap. 318",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2013/16/eng@2026-03-27",
+ "version_date": "2026-03-27",
+ "retrieved": "2026-10-04",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "CROPS ACT CAP. 318 Published in Kenya Gazette Vol. CXV—No. 28 on 22 February 2013 Assented to on 14 January 2013 Commenced on 1 August 2014 by Crops Act Commencement\n[Amended by Revision of the Laws (Rectification) Order, 2013 (Legal Notice 57 of 2013) on 28 March 2013] [Amended by Statute Law (Miscellaneous Amendments) Act, 2016 (Act No. 7 of 2016) on 10 May 2016] [Amended by Tea Act (Cap. 343) on 11 January 2021] [Amended by National Electronic Single Window System Act (Cap. 485D) on 11 July 2022] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] [Amended by Sugar Act (Act No. 11 of 2024) on 21 November 2024] [Amended by Government Owned Enterprises Act (Act No. 25 of 2025) on 5 December 2025] [Amended by Coffee Act (Act No. 8 of 2026) on 27 March 2026]\nAn Act of Parliament to consolidate and repeal various statutes relating to crops; to provide for the growth and development of agricultural crops and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "DEVELOPMENT OF SCHEDULED CROPS",
+   "provisions": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "REGISTRATION REQUIREMENTS FOR SCHEDULED CROPS",
+   "provisions": [
+    "13",
+    "14",
+    "15"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "LICENSING AND TAXATION PROVISIONS",
+   "provisions": [
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "APPOINTMENT OF COUNTY OFFICERS AND CROP INSPECTORS",
+   "provisions": [
+    "26",
+    "27",
+    "28",
+    "29",
+    "30"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Crops Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— \"Authority\" means the Agriculture and Food Authority established under the Agriculture and Food Authority Act (Cap. 317); \"Cabinet Secretary\" means the Cabinet Secretary for the time being responsible for matters relating to agriculture; \"co-operative society\" means a co-operative society registered under the Co-operative Societies Act (Cap. 490); \"dealing in crop\" includes collecting, transporting, storing, buying or selling crops or crop products but in the case of food crops, excludes any non-commercial activity; \"scheduled crop\" means any of the crops listed under the First Schedule and includes such other crop as the Cabinet Secretary, on the advice of the Authority, may declare to be a scheduled crop under section 7; \"non-scheduled crop\" means any plant other than a scheduled crop that is grown in significant quantities to be harvested as food, or used as livestock fodder, fuel, or for any other economic purpose; and \"licensing authority\" means the Authority or the county government as the case may be.\n[Act No. 7 of 2016, Sch.]",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Objects and purposes of the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The objective of this Act is to accelerate the growth and development of agriculture in general, enhance productivity and incomes of farmers and the rural population, improve investment climate and efficiency of agribusiness and develop agricultural crops as export crops that will augment the foreign exchange earnings of the country, through promotion of the production, processing, marketing, and distribution of crops in suitable areas of the country and in particular to—\n  (a) circumvent unnecessary regulatory bureaucracy in the crops subsector;\n  (b) reduce unnecessary levies, taxes or other barriers to free movement of crop products and provide for a rationalized taxation system;\n  (c) reduce unnecessary regulation or over-regulation of the crops subsector;\n  (d) reduce duplication and overlap of functions among institutions involved in the regulation of crop agriculture;\n  (e) promote competitiveness in the crops subsector and to develop diversified crop products and market outlets; and\n  (f) attract and promote private investment in crop agriculture.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Guiding principles",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The national government and county governments shall be guided by the following principles in the management and administration of agricultural land—\n  (a) has a communal function and land ownership has a social responsibility;\n  (b) land owners and lessees of agricultural land, being stewards, have the obligation to cultivate the lands they own or lease and make the land economically productive on a sustainable and environmentally friendly manner;\n  (c) subject to Article 40(3) of the Constitution, the State may acquire land for public purpose or in the public interest;\n  (d) pursuant to Article 66 of the Constitution, the State may regulate use of any land in the interest of public order, public morality, public health or land use planning.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Application",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act shall apply to all scheduled crops specified in the First Schedule and to all agricultural land whether privately or communally held as well as to farmers, farmers’ organizations, cooperatives and community associations.",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Role of national and county governments in development of crops",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) Pursuant to the Fourth schedule of the Constitution—\n  (a) the Authority, on behalf of the national government, shall be responsible for licensing and charging of levies and breeder royalties on all scheduled crops on condition that the total sum of the levies charged by the Authority shall not exceed ten per centum of the gate value of the produce;\n  (b) the county governments will implement the national government policies to the extent that the policies relate to the county and in particular shall be responsible for—\n  (i) development of crops grown within the county;\n  (ii) plant disease control;\n  (iii) markets;\n  (iv) cooperative societies within the county;\n  (v) soil and water conservation.\n(2) In order to achieve the objects and purposes of this Act, it is the duty of the national and county governments to provide an enabling environment for the development of the crop subsector.\n(3) The national and county governments shall determine and promote the implementation of agricultural policies and measures in a manner designed to promote, support and enhance productivity in the crop subsector.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Pursuant to the Fourth schedule of the Constitution—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In order to achieve the objects and purposes of this Act, it is the duty of the national and county governments to provide an enabling environment for the development of the crop subsector."
+    },
+    {
+     "ref": "(3)",
+     "text": "The national and county governments shall determine and promote the implementation of agricultural policies and measures in a manner designed to promote, support and enhance productivity in the crop subsector."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Declaration of scheduled crops",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "DEVELOPMENT OF SCHEDULED CROPS",
+   "text": "(1) The crops specified in the First Schedule are scheduled crops for purposes of this Act.\n(2) The Cabinet Secretary may, by notice in the Gazette, declare any other crop to be a scheduled crop for purposes of this Act.\n(3) The notice under subsection (1) shall prescribe development and regulation measures with respect to each scheduled crop.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The crops specified in the First Schedule are scheduled crops for purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary may, by notice in the Gazette, declare any other crop to be a scheduled crop for purposes of this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "The notice under subsection (1) shall prescribe development and regulation measures with respect to each scheduled crop."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Promotion of scheduled crops",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "DEVELOPMENT OF SCHEDULED CROPS",
+   "text": "In addition to the functions stipulated under any other law, the Authority shall—\n  (a) formulate general and specific policies for the development of scheduled crops specified in the First Schedule;\n  (b) facilitate marketing and distribution of scheduled crops through monitoring and dissemination of market information, including identification of the local supply-demand situation, domestic market matching and overseas market intelligence and promotion activities on scheduled crops;\n  (c) enjoin the Ministry responsible for transportation and communications to effect an efficient, regular and economical means of transporting scheduled crops, for purposes of reducing marketing costs and ensuring stable consumer supply;\n  (d) promote the establishment of wholesale markets in identified major centres of the country;\n  (e) promote the establishment of agricultural produce collection centres in viable areas to serve as buying stations of farm products, packaging houses, pick-up points and meeting places of farmers’ and growers’ cooperatives;\n  (f) establish linkages with various governments and private research institutions for the conduct of studies and researches designed to promote the production, marketing and processing of scheduled crops;\n  (g) in consultation with the National Biosafety Authority, advise the government on the introduction, safe transfer, handling and use of genetically modified species of plants and organisms in the country;\n  (h) conduct farmers’ training programs aimed at increasing their knowledge on production technologies and on market potentials and prospects for various types of crops, through farmer training institutions;\n  (i) establish experimental stations and seed farms for the development of varieties suitable to the agro-climatic conditions of the area and markets that will provide greatest value added to scheduled crops;\n  (j) devise and maintain a system for regularly obtaining information on current and future production, prices and movement in trade, to determine and effect a balanced distribution of scheduled crops by means of inter-trading or intra-trading among the established wholesale markets;\n  (k) establish and enforce standards in grading, sampling and inspection, tests and analysis, specifications, units of measurement, code of practice and packaging, preservation, conservation and transportation of crops to ensure health and proper trading;\n  (l) ensure secure domestic food supply for the country;\n  (m) formulate policies and guidelines on dealing with other crops;\n  (n) promote and advise on strategies for value addition prior to the export of crops from Kenya;\n  (o) recommend general industry agreements between farmers and processors of scheduled crops;\n  (p) prescribe the minimum period within which farmers are to be paid for crops delivered and penalties for delayed payments; and (q) perform any other relevant function.\n[Act No. 7 of 2016, Sch.]",
+   "clauses": []
+  },
+  "9": {
+   "num": "9",
+   "title": "[Repealed by Act No. 25 of 2025, s. 27]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "DEVELOPMENT OF SCHEDULED CROPS",
+   "text": "",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "[Repealed by Act No. 25 of 2025, s. 28]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "DEVELOPMENT OF SCHEDULED CROPS",
+   "text": "",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Identification of agricultural land",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "DEVELOPMENT OF SCHEDULED CROPS",
+   "text": "(1) The Cabinet Secretary shall, with the advice of the Authority, develop rules for identifying agricultural land suitable for the production of each of the scheduled crops.\n(2) The process of identifying agricultural land under subsection (1) shall be based on valid representations in accordance with constitutional principles of participation of, the people, good governance, transparency and accountability.\n(3) The county governments may from time to time, through the relevant county executive committee member, identify land suitable for the production of each of the scheduled crops.\n(4) The county executive committee member responsible for agriculture shall publicize any report on identified agricultural land and may prescribe regulations with respect to each scheduled crop.\n(5) The classification of land referred to under subsection (1) shall be reviewed at appropriate intervals to ensure consistency with the agrarian reform program and the national land use policy.\n(6) Despite the provisions of this section, a person may grow any scheduled crop on any part of Kenya.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary shall, with the advice of the Authority, develop rules for identifying agricultural land suitable for the production of each of the scheduled crops."
+    },
+    {
+     "ref": "(2)",
+     "text": "The process of identifying agricultural land under subsection (1) shall be based on valid representations in accordance with constitutional principles of participation of, the people, good governance, transparency and accountability."
+    },
+    {
+     "ref": "(3)",
+     "text": "The county governments may from time to time, through the relevant county executive committee member, identify land suitable for the production of each of the scheduled crops."
+    },
+    {
+     "ref": "(4)",
+     "text": "The county executive committee member responsible for agriculture shall publicize any report on identified agricultural land and may prescribe regulations with respect to each scheduled crop."
+    },
+    {
+     "ref": "(5)",
+     "text": "The classification of land referred to under subsection (1) shall be reviewed at appropriate intervals to ensure consistency with the agrarian reform program and the national land use policy."
+    },
+    {
+     "ref": "(6)",
+     "text": "Despite the provisions of this section, a person may grow any scheduled crop on any part of Kenya."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Incentives to growers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "DEVELOPMENT OF SCHEDULED CROPS",
+   "text": "(1) The Cabinet Secretary shall, on the advice of the Authority, establish institutional linkages to coordinate the provision of credit, farm inputs and marketing.\n(2) The Authority may, in accordance with rules and regulations made under this Act and subject to any other law, put in place programmes for ensuring the provision of the following incentives and facilities to growers and dealers of scheduled crops—\n  (a) credit assistance including provision of equipment for land preparation and other nonmonetary assistance;\n  (b) credit guarantee;\n  (c) affordable farm-inputs including quality seeds, planting materials and market linkage;\n  (d) technical support including research and extension services;\n  (e) infrastructural support including physical infrastructure development, financial and market information;\n  (f) fertilizer cost-reduction investment projects including private sector involvement in fertilizer importation and distribution, promoting local\n  (g) pest and disease control;\n  (h) post harvest facilities and technologies including storage, processing, distribution and transport facilities;\n  (i) tax exemptions including tax breaks and duty waivers on the import of farm inputs and farm machinery.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary shall, on the advice of the Authority, establish institutional linkages to coordinate the provision of credit, farm inputs and marketing."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority may, in accordance with rules and regulations made under this Act and subject to any other law, put in place programmes for ensuring the provision of the following incentives and facilities to growers and dealers of scheduled crops— (a) credit assistance including provision of equipment for land preparation and other nonmonetary assistance; (b) credit guarantee; (c) affordable farm-inputs including quality seeds, planting materials and market linkage; (d) technical support including research and extension services; (e) infrastructural support including physical infrastructure development, financial and market information;"
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Regulation of scheduled crops",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION REQUIREMENTS FOR SCHEDULED CROPS",
+   "text": "(1) The Authority shall regulate all aspects of scheduled crops with a view to—\n  (a) promoting productivity;\n  (b) facilitating the provision of farm inputs;\n  (c) promoting trade and access to markets;\n  (d) facilitating provision of infrastructure;\n  (e) providing post-harvest services and technology;\n  (f) facilitating the collection of farm products and storage;\n  (g) training of farmers and provision of extension services;\n  (h) providing of incentives to farmers;\n  (i) availing credit facilities; and (j) value addition.\n(2) For purposes of subsection (1) the Authority shall have the power to issue guidelines requiring registration of any particulars in respect of different categories of scheduled crops.\n(3) The Authority shall maintain the necessary statistical information with respect to the scheduled crops to enable proper planning.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority shall regulate all aspects of scheduled crops with a view to— (a) promoting productivity; (b) facilitating the provision of farm inputs; (c) promoting trade and access to markets; (d) facilitating provision of infrastructure; (e) providing post-harvest services and technology; (f) facilitating the collection of farm products and storage; (g) training of farmers and provision of extension services; (h) providing of incentives to farmers; (i) availing credit facilities; and (j) value addition."
+    },
+    {
+     "ref": "(2)",
+     "text": "For purposes of subsection (1) the Authority shall have the power to issue guidelines requiring registration of any particulars in respect of different categories of scheduled crops."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Authority shall maintain the necessary statistical information with respect to the scheduled crops to enable proper planning."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Freedom to register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION REQUIREMENTS FOR SCHEDULED CROPS",
+   "text": "(1) Every smallholder grower, for purposes of accessing economies of scale, shall have the freedom—\n  (a) deleted by Act No. 8 of 2026, s. 107(a);\n  (b) deleted by Act No. 23 of 2020;\n  (c) in the case of sugar cane grower, register with an out-grower institution and any other organisation representing the interests of sugar farmers;\n  (d) in the case of pyrethrum grower, register with a licensed pyrethrum processor, who shall keep or cause to be kept for statistical purposes a register of all pyrethrum growers so registered; and (e) in the case of any other grower, register with such association as the Authority may from time to time determine.\n(2) A plantation grower may register with the Authority, by supplying such particulars as the Authority may be prescribe.\n(3) Where a farmer has entered into an agreement with an organisation representing the interest of such farmer, the Authority and every dealer in crops shall respect and enable the carrying out of the terms of such agreement, including the remission to the farmers organisation of any contributions that may, pursuant to such agreement, be deductible from the farmer. [Act No. 23 of 2020, s. 76, Act No. 8 of 2026, s. 107(a).]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every smallholder grower, for purposes of accessing economies of scale, shall have the freedom— (a) deleted by Act No. 8 of 2026, s. 107(a); (b) deleted by Act No. 23 of 2020; (c) in the case of sugar cane grower, register with an out-grower institution and any other organisation representing the interests of sugar farmers; (d) in the case of pyrethrum grower, register with a licensed pyrethrum processor, who shall keep or cause to be kept for statistical purposes a register of all pyrethrum growers so registered; and (e) in the case of any other grower, register with such association as the Authority may from time to time determine."
+    },
+    {
+     "ref": "(2)",
+     "text": "A plantation grower may register with the Authority, by supplying such particulars as the Authority may be prescribe."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a farmer has entered into an agreement with an organisation representing the interest of such farmer, the Authority and every dealer in crops shall respect and enable the carrying out of the terms of such agreement, including the remission to the farmers organisation of any contributions that may, pursuant to such agreement, be deductible from the farmer. [Act No. 23 of 2020, s. 76, Act No. 8 of 2026, s. 107(a).]"
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Registration of growers’ associations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION REQUIREMENTS FOR SCHEDULED CROPS",
+   "text": "The Authority shall maintain a register of all entities registering smallholder growers, in such form as it may determine, and shall enter in the register—\n  (a) the full names of the scheduled crop factory;\n  (b) the date of submission of annual returns of registered growers by the scheduled crop factory;\n  (c) the particulars of numbers of registered growers, area planted with scheduled crop or variations of these particulars; and (d) any other particulars the Authority may deem necessary.",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "Registration of dealers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LICENSING AND TAXATION PROVISIONS",
+   "text": "(1) Every dealer in a scheduled crop shall register with the Authority. (2) A person shall not deal in a scheduled crop unless the person is registered in accordance with this Act. (2A) The register of persons referred to under this section shall be kept and maintained in an automated manner and the information therein shall be shared under the National Electronic Single Window System established under section 3 of the National Electronic Single Window System Act (Cap. 485D). (3) The Cabinet Secretary shall, in consultation with the relevant county executive committee member responsible for agriculture, prescribe regulations providing for the procedure for registration of dealers and the regulations shall also set out the appeal process in case of refusal or denial of registration. (4) A person who contravenes subsection (2) commits an offence and shall on conviction be liable to imprisonment for term not exceeding three years or to a fine not exceeding five million shillings or to both.\n[Act No. 25 of 2022, sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every dealer in a scheduled crop shall register with the Authority. (2) A person shall not deal in a scheduled crop unless the person is registered in accordance with this Act. (2A) The register of persons referred to under this section shall be kept and maintained in an automated manner and the information therein shall be shared under the National Electronic Single Window System established under section 3 of the National Electronic Single Window System Act (Cap. 485D). (3) The Cabinet Secretary shall, in consultation with the relevant county executive committee member responsible for agriculture, prescribe regulations providing for the procedure for registration of dealers and the regulations shall also set out the appeal process in case of refusal or denial of registration. (4) A person who contravenes subsection (2) commits an offence and shall on conviction be liable to imprisonment for term not exceeding three years or to a fine not exceeding five million shillings or to both."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Taxation of scheduled crops",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LICENSING AND TAXATION PROVISIONS",
+   "text": "(1) Pursuant to Article 209 of the Constitution, only the national government may impose, in relation to a scheduled crop—\n  (a) income tax;\n  (b) value-added tax;\n  (c) customs duties and other duties on import of agricultural and aquatic products; and (d) excise duty.\n(2) A county government may, pursuant to the Fourth Schedule of the Constitution, impose fees for—\n  (a) development of agricultural crops within the county;\n  (b) development and regulation of scheduled crop markets within the county;\n  (c) issuance of trade licences to any person trading in scheduled crops within the county; and\n  (d) issuance of licenses for cooperative societies dealing with scheduled crops within the county.\n(3) The fees imposed by a county government under subsection (2) shall not in any way prejudice national economic policies, economic activities across county boundaries or national mobility of goods, services, capital or labour.\n(4) The Cabinet Secretary shall, using the structures established under the Intergovernmental Relations Act (Cap. 265F), put in place mechanism to avoid double taxation of agricultural and aquatic products by the two levels of governments.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Pursuant to Article 209 of the Constitution, only the national government may impose, in relation to a scheduled crop— (a) income tax; (b) value-added tax; (c) customs duties and other duties on import of agricultural and aquatic products; and (d) excise duty."
+    },
+    {
+     "ref": "(2)",
+     "text": "A county government may, pursuant to the Fourth Schedule of the Constitution, impose fees for— (a) development of agricultural crops within the county;"
+    },
+    {
+     "ref": "(3)",
+     "text": "The fees imposed by a county government under subsection (2) shall not in any way prejudice national economic policies, economic activities across county boundaries or national mobility of goods, services, capital or labour."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Cabinet Secretary shall, using the structures established under the Intergovernmental Relations Act (Cap. 265F), put in place mechanism to avoid double taxation of agricultural and aquatic products by the two levels of governments."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Manufacturing licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LICENSING AND TAXATION PROVISIONS",
+   "text": "(1) A person shall not manufacture or process a scheduled crop product for sale except under and in accordance with a licence issued under this Act.\n(2) An application for a licence under this section shall be in writing and in the prescribed form and shall be accompanied by the prescribed fee.\n(3) The licensing authority may, after consultation with the county executive—\n  (a) issue a manufacturing licence, in accordance with this Act;\n  (b) refuse to issue the licence on any ground which may appear to the licensing authority to be sufficient and inform the applicant in writing of the reasons thereof;\n  (c) cancel, vary or suspend any licence if in the findings of the licensing authority, the licensee is found to have contravened the regulations made under this Act for the operation of manufacturing or processing entities.\n(4) A manufacturing licence issued under this section shall, in addition to authorizing the holder to carry on the business set out in subsection (1), also authorize the holder to carry out the business of packing and blending a crop product.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not manufacture or process a scheduled crop product for sale except under and in accordance with a licence issued under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "An application for a licence under this section shall be in writing and in the prescribed form and shall be accompanied by the prescribed fee."
+    },
+    {
+     "ref": "(3)",
+     "text": "The licensing authority may, after consultation with the county executive—"
+    },
+    {
+     "ref": "(4)",
+     "text": "A manufacturing licence issued under this section shall, in addition to authorizing the holder to carry on the business set out in subsection (1), also authorize the holder to carry out the business of packing and blending a crop product."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Illegal manufacture, possession, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LICENSING AND TAXATION PROVISIONS",
+   "text": "(1) A person who—\n  (a) manufactures a scheduled crop for sale in contravention of this Act;\n  (b) buys, sells, offers for sale, transports or has possession of a scheduled crop which to the person’s knowledge or belief—\n  (i) has been grown, manufactured or processed otherwise than in accordance with this Act;\n  (ii) is from a non-registered grower or dealer of such crop, commits an offence and shall be liable, on conviction, to a fine not exceeding ten million shillings, or to imprisonment for a term not exceeding five years, or both.\n(2) If a person is in possession or has control of scheduled crop for which the person is unable to account to the satisfaction of a person authorized under this Act, such scheduled crop shall be deemed to have been grown, manufactured or dried otherwise than in accordance with this Act until the contrary is proved.\n(3) If a person is convicted of an offence under this section, the court shall order that any scheduled crop and any vehicle, vessel or other conveyance in relation to which an offence has been committed shall be forfeited to the Government unless, in the case of a vehicle, vessel or other conveyance, the court sees good reason, to be recorded by it in writing, not to do so.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who—"
+    },
+    {
+     "ref": "(2)",
+     "text": "If a person is in possession or has control of scheduled crop for which the person is unable to account to the satisfaction of a person authorized under this Act, such scheduled crop shall be deemed to have been grown, manufactured or dried otherwise than in accordance with this Act until the contrary is proved."
+    },
+    {
+     "ref": "(3)",
+     "text": "If a person is convicted of an offence under this section, the court shall order that any scheduled crop and any vehicle, vessel or other conveyance in relation to which an offence has been committed shall be forfeited to the Government unless, in the case of a vehicle, vessel or other conveyance, the court sees good reason, to be recorded by it in writing, not to do so."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Issue of licences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LICENSING AND TAXATION PROVISIONS",
+   "text": "(1) A licensing authority shall issue licenses to applicants subject to such lawful conditions as the authority may determine.\n(2) Every licence shall specify the premises upon which the business specified in the licence may be carried on.\n(3) Licenses issued under this Act shall remain in force until the thirtieth of June next following the date of issue, unless earlier cancelled.\n(4) There shall be payable for the issue of licenses under this Act such fees as the licensing authority, after consultation with the Cabinet Secretary or county executive as the case may be, prescribe.\n(5) The total fees charged under subsection (4) shall depend on the turnover of the dealer and shall not overburden small scale dealers and the cumulative total of all levies and fees payable shall in any event not exceed ten per cent of the gate value of the agricultural or aquatic product.\n(6) The licensing authority shall, at least thirty days before granting a licence under this Act, give notice of the proposed grant in the Gazette and in such other manner as the authority may determine.\n(7) The notice referred to in subsection (6) shall—\n  (a) specify the name or other particulars of the person or class of persons to whom the licence is to be granted;\n  (b) state the purpose for the proposed licence and indicate the date such licence is proposed to be issued to the successful applicant; and\n  (c) invite objections to the proposed grant of licence and direct that such objections be lodged with the Authority within fourteen days next following the date of the notice.\n(8) The licensing authority may after considering the objections, if any, made under this section, grant the licence applied for, subject to such terms and conditions as may be specified therein.\n(9) The issuance of a licence to an applicant under this Act shall not be withheld without reasonable cause.\n(10) A licence issued under this Act shall not be transferable.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A licensing authority shall issue licenses to applicants subject to such lawful conditions as the authority may determine."
+    },
+    {
+     "ref": "(2)",
+     "text": "Every licence shall specify the premises upon which the business specified in the licence may be carried on."
+    },
+    {
+     "ref": "(3)",
+     "text": "Licenses issued under this Act shall remain in force until the thirtieth of June next following the date of issue, unless earlier cancelled."
+    },
+    {
+     "ref": "(4)",
+     "text": "There shall be payable for the issue of licenses under this Act such fees as the licensing authority, after consultation with the Cabinet Secretary or county executive as the case may be, prescribe."
+    },
+    {
+     "ref": "(5)",
+     "text": "The total fees charged under subsection (4) shall depend on the turnover of the dealer and shall not overburden small scale dealers and the cumulative total of all levies and fees payable shall in any event not exceed ten per cent of the gate value of the agricultural or aquatic product."
+    },
+    {
+     "ref": "(6)",
+     "text": "The licensing authority shall, at least thirty days before granting a licence under this Act, give notice of the proposed grant in the Gazette and in such other manner as the authority may determine."
+    },
+    {
+     "ref": "(7)",
+     "text": "The notice referred to in subsection (6) shall—"
+    },
+    {
+     "ref": "(8)",
+     "text": "The licensing authority may after considering the objections, if any, made under this section, grant the licence applied for, subject to such terms and conditions as may be specified therein."
+    },
+    {
+     "ref": "(9)",
+     "text": "The issuance of a licence to an applicant under this Act shall not be withheld without reasonable cause."
+    },
+    {
+     "ref": "(10)",
+     "text": "A licence issued under this Act shall not be transferable."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Application for renewal of a licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LICENSING AND TAXATION PROVISIONS",
+   "text": "An application for the renewal of a licence under this Act shall be made to the licensing authority not later than the first day of the month of June in which the current licence is due to expire but, notwithstanding the foregoing, a late application may be made upon payment of a late application fee as may be prescribed by the licensing authority.",
+   "clauses": []
+  },
+  "22": {
+   "num": "22",
+   "title": "Conditions of a licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LICENSING AND TAXATION PROVISIONS",
+   "text": "(1) A licence issued under this Act shall be subject to such conditions as the licensing authority may determine and as are specified in the licence and to any conditions which may be prescribed.\n(2) The licensing authority may require that any class of licenses issued to a dealer will be subject to the condition that the dealer engages in actual growing of any given crop.\n(3) The licensing authority may at any time during the validity of a licence—\n  (a) vary the conditions of the licence; or\n  (b) impose conditions or further conditions on the licence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A licence issued under this Act shall be subject to such conditions as the licensing authority may determine and as are specified in the licence and to any conditions which may be prescribed."
+    },
+    {
+     "ref": "(2)",
+     "text": "The licensing authority may require that any class of licenses issued to a dealer will be subject to the condition that the dealer engages in actual growing of any given crop."
+    },
+    {
+     "ref": "(3)",
+     "text": "The licensing authority may at any time during the validity of a licence—"
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Revocation or alteration of a licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LICENSING AND TAXATION PROVISIONS",
+   "text": "The licensing authority may revoke, alter or suspend a licence issued under this Act if in its opinion—\n  (a) an offence under this Act, or in respect of the licensed activity under any other written law, has been committed by the licence holder or any employee of the licence holder; or (b) a condition of the licence has been contravened or not complied with.",
+   "clauses": []
+  },
+  "24": {
+   "num": "24",
+   "title": "Surrender of licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LICENSING AND TAXATION PROVISIONS",
+   "text": "(1) The holder of a licence which is revoked shall immediately surrender it to the licensing authority. (2) A licence holder may at any time surrender the licence to the licensing authority and the licence shall cease to have effect forthwith.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The holder of a licence which is revoked shall immediately surrender it to the licensing authority. (2) A licence holder may at any time surrender the licence to the licensing authority and the licence shall cease to have effect forthwith."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Appeals",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LICENSING AND TAXATION PROVISIONS",
+   "text": "(1) An applicant for or holder of a licence who is aggrieved by a decision of the licensing authority on or in respect of—\n  (a) the grant, refusal, renewal, variation or revocation; or (b) the conditions imposed on the grant, renewal or variation, of a licence, may appeal to the Cabinet Secretary.\n(2) An appeal under this section shall be lodged within thirty days from the date on which the appellant first received notice of the decision.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An applicant for or holder of a licence who is aggrieved by a decision of the licensing authority on or in respect of— (a) the grant, refusal, renewal, variation or revocation; or (b) the conditions imposed on the grant, renewal or variation, of a licence, may appeal to the Cabinet Secretary."
+    },
+    {
+     "ref": "(2)",
+     "text": "An appeal under this section shall be lodged within thirty days from the date on which the appellant first received notice of the decision."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Appointment of county officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "APPOINTMENT OF COUNTY OFFICERS AND CROP INSPECTORS",
+   "text": "(1) The Authority shall, in respect of each county, appoint an officer to be stationed in the county for purposes of this Act.\n(2) The Authority shall delegate such exercise of its powers and such performance of its functions to the officer appointed under subsection (1) as shall be necessary in the discharge of its mandate in that county.\n(3) An officer appointed under subsection (1) shall be deemed to be an inspector for purposes of this Act, and shall exercise such powers and perform such functions as an inspector may exercise or perform under this Act.\n(4) A county officer appointed under subsection (1) shall liaise with the county executive committee in the discharge of its functions.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority shall, in respect of each county, appoint an officer to be stationed in the county for purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority shall delegate such exercise of its powers and such performance of its functions to the officer appointed under subsection (1) as shall be necessary in the discharge of its mandate in that county."
+    },
+    {
+     "ref": "(3)",
+     "text": "An officer appointed under subsection (1) shall be deemed to be an inspector for purposes of this Act, and shall exercise such powers and perform such functions as an inspector may exercise or perform under this Act."
+    },
+    {
+     "ref": "(4)",
+     "text": "A county officer appointed under subsection (1) shall liaise with the county executive committee in the discharge of its functions."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Appointment of crop inspectors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "APPOINTMENT OF COUNTY OFFICERS AND CROP INSPECTORS",
+   "text": "(1) The Authority may appoint qualified persons, to be inspectors for each scheduled crop for the purposes of this Act.\n(2) For purposes of subsection (1), the Authority may, by regulations, prescribe the qualifications for different categories of inspectors.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority may appoint qualified persons, to be inspectors for each scheduled crop for the purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "For purposes of subsection (1), the Authority may, by regulations, prescribe the qualifications for different categories of inspectors."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Entry and inspection",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "APPOINTMENT OF COUNTY OFFICERS AND CROP INSPECTORS",
+   "text": "(1) A person duly authorized in writing in that behalf by the Authority may, at all reasonable times and upon production of such authority to any person so requesting—\n  (a) enter any land or buildings occupied by the holder of a manufacturing licence issued under this Act, or a person registered under this Act;\n  (b) make such inspection and enquiries as the person may deem necessary for ascertaining whether the provisions of this Act or the terms and conditions of the respective licence or registration are being complied with; and\n  (c) may require any person found thereon to give such information as the person may require.\n(2) A person who hinders or obstructs any person duly exercising or attempting to exercise any of the powers conferred by subsection (1), or who fails to give any information reasonably required commits an offence and shall be liable, on conviction, to a fine not exceeding one million shillings, or to imprisonment for a term not exceeding two years, or both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person duly authorized in writing in that behalf by the Authority may, at all reasonable times and upon production of such authority to any person so requesting—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who hinders or obstructs any person duly exercising or attempting to exercise any of the powers conferred by subsection (1), or who fails to give any information reasonably required commits an offence and shall be liable, on conviction, to a fine not exceeding one million shillings, or to imprisonment for a term not exceeding two years, or both."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Powers of entry",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "APPOINTMENT OF COUNTY OFFICERS AND CROP INSPECTORS",
+   "text": "(1) For the purposes of this Act, an inspector who has reasonable grounds may at any reasonable time, enter upon any land, premises or vehicle and may take such persons and things as the inspector considers necessary and may—\n  (a) perform the functions or exercise the powers conferred by this Act or any other written law;\n  (b) make enquiries or carry out a search to ascertain if this Act is being complied with;\n  (c) demand the production by a licence holder of the licence for examination;\n  (d) seize and remove any article or thing in respect of which the inspector has reasonable grounds for believing that an offence under this Act is being or has been committed; or\n  (e) do any other thing authorized under this Act.\n(2) The owner or occupier of or any person on land or in premises or a vehicle which is entered under subsection (1) shall render such reasonable assistance as may be required by the inspector.\n(3) A person who refuses, unreasonably delays or fails to comply with a requirement under subsection (2) commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "For the purposes of this Act, an inspector who has reasonable grounds may at any reasonable time, enter upon any land, premises or vehicle and may take such persons and things as the inspector considers necessary and may—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The owner or occupier of or any person on land or in premises or a vehicle which is entered under subsection (1) shall render such reasonable assistance as may be required by the inspector."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who refuses, unreasonably delays or fails to comply with a requirement under subsection (2) commits an offence."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Obstruction of inspectors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "APPOINTMENT OF COUNTY OFFICERS AND CROP INSPECTORS",
+   "text": "(1) A person shall not prevent, hinder or obstruct an inspector in performance of the functions, and duties or exercise of powers conferred by this Act.\n(2) A person who contravenes subsection (1) commits an offence and shall be liable, on conviction, to a fine not exceeding two million shillings, or to imprisonment for a term not exceeding three years, or both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not prevent, hinder or obstruct an inspector in performance of the functions, and duties or exercise of powers conferred by this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who contravenes subsection (1) commits an offence and shall be liable, on conviction, to a fine not exceeding two million shillings, or to imprisonment for a term not exceeding three years, or both."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Infested areas",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary may, after consultation with the Authority, by order published in the Gazette—\n  (a) declare an area which is infested with a crop disease or pest to be an infested area;\n  (b) prohibit the use of an infested area for planting, growing, collecting, storing or other dealing or for any purpose connected with those activities;\n  (c) for the purpose of preventing crop disease or pest or the spread of the disease or pest, either in the crop or otherwise, prohibit the movement of planting seed or other crop material from, to, through or within an infested area or other specified areas;\n  (d) extend, diminish or otherwise alter an infested area; and\n  (e) where it is no longer infested with crop disease or pest, revoke the declaration of an infested area.\n(2) The Cabinet Secretary may by regulations make further provisions for the control of infested areas.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, after consultation with the Authority, by order published in the Gazette—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary may by regulations make further provisions for the control of infested areas."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "General power to impose levies",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary may, with the approval of Parliament, by a notice in the Gazette, impose a levy to be levied on a scheduled crop or crop product.\n(2) The Cabinet Secretary may, upon the advice of the Authority, at any time by notice, alter the rate of the levy imposed under subsection (1) and such altered rate shall come into force on such date, not being less than two months from the date of the notice, as may be specified in the notice.\n(3) Different rates of levy may be imposed for different types or grades of crop products.\n(4) Any levy imposed under this section shall be levied and collected in the manner prescribed.\n(5) For the avoidance of doubt—\n  (a) the levies payable in the case of tea and sugar immediately before the commencement of this Act shall continue to be the payable rates until the Cabinet secretary specifically imposes different rates;\n  (b) the rate of any other levy shall be specified in the notice under subsection (1) and shall not exceed four per cent of the value of the crop on which the levy is payable.\n(6) A person who fails to pay the amount due in respect of any levy imposed under this Act commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, with the approval of Parliament, by a notice in the Gazette, impose a levy to be levied on a scheduled crop or crop product."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary may, upon the advice of the Authority, at any time by notice, alter the rate of the levy imposed under subsection (1) and such altered rate shall come into force on such date, not being less than two months from the date of the notice, as may be specified in the notice."
+    },
+    {
+     "ref": "(3)",
+     "text": "Different rates of levy may be imposed for different types or grades of crop products."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any levy imposed under this section shall be levied and collected in the manner prescribed."
+    },
+    {
+     "ref": "(5)",
+     "text": "For the avoidance of doubt—"
+    },
+    {
+     "ref": "(6)",
+     "text": "A person who fails to pay the amount due in respect of any levy imposed under this Act commits an offence."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Use of levies",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The proceeds of any levy imposed under this Act shall form part of the general funds and property of the Authority and may be used by the Authority in the furtherance or exercise of any function or power of the Authority.",
+   "clauses": []
+  },
+  "34": {
+   "num": "34",
+   "title": "Power to recommend establishment of subsidiary bodies",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Authority may recommend the establishment of subsidiary bodies to discharge specific aspects, in particular—\n  (a) food security;\n  (b) value addition, marketing and export;\n  (c) offer extension services for irrigation farming;\n  (d) pest and disease control;\n  (e) crop insurance;\n  (f) marketing; and\n  (g) any other aspect relating to crop development.\n(2) Deleted by L.N. 57/2013, Sch.\n[L.N. 57/2013, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority may recommend the establishment of subsidiary bodies to discharge specific aspects, in particular—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Deleted by L.N. 57/2013, Sch."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "General prohibition and offence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A person shall not—\n  (a) breach or fail to comply with the provisions of this Act;\n  (b) breach or fail to comply with any of, the terms or conditions of a licence certificate issued to him or her under this Act;\n  (c) fail to comply with a lawful requirement or demand made or given by the Authority or an inspector;\n  (d) obstruct a person in the execution of the powers or duties under this Act;\n  (e) knowingly or recklessly make a statement or representation which is false;\n  (f) knowingly or recklessly furnish a document or information required under this Act which is false; or\n  (g) knowingly or recklessly use or furnish a fake or forged or invalid certificate or a certificate that has been altered without authorization.\n(2) A person who contravenes any of the provisions of subsection (1) commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who contravenes any of the provisions of subsection (1) commits an offence."
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Offences relating to body corporate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "If an offence under this Act is committed by a body corporate or any other association of individuals, a director, partner or any other person involved in, or acting or purporting to act in the management of its affairs commits an offence unless that person proves that—\n  (a) the act or omission constituting the offence took place without the person’s knowledge; or\n  (b) the person took reasonable steps to prevent the commission of the offence.",
+   "clauses": []
+  },
+  "37": {
+   "num": "37",
+   "title": "General penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "A person who contravenes any provision of this Act, or commits an offence for which no penalty is prescribed, shall be liable, on conviction, to a fine not exceeding five hundred thousand shillings, or to imprisonment for a period not exceeding one year, or to both.",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "Restraint of breaches of this Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Any person who has reason to believe that the provisions of this Act have been, are being, or are about to be, violated, may petition the High Court for—\n  (a) a declaration that the provisions of this Act are being, have been, are about to be contravened;\n  (b) an injunction restraining any specified person from carrying out the contravention;\n  (c) a writ of mandamus against an officer or a person who has failed to perform a duty imposed by or under this Act; or\n  (d) any other lawful remedy.",
+   "clauses": []
+  },
+  "39": {
+   "num": "39",
+   "title": "Supersession",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "If any conflict arises between the provisions of this Act and any other Act with respect to the development, management, marketing or regulation of a scheduled crop, the provisions of this Act shall prevail.",
+   "clauses": []
+  },
+  "40": {
+   "num": "40",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary may, in consultation with the Authority and the county governments, make regulations for the better carrying into effect of the provisions of this Act, or for prescribing anything which is to be prescribed under this Act.\n(2) Without prejudice to the generality of the foregoing, regulations made under this section may provide for—\n  (a) declaration and regulation of a scheduled crop including production, distribution and marketing;\n  (b) the areas outside which a scheduled crop may not be cultivated, and regulating and controlling the variety, the cultural conditions, the method of production and grading of a specified crop;\n  (c) regulations on the appropriate seeds and planting materials for export and import;\n  (d) administration of plant breeder’s rights in line with the existing international conventions to which Kenya is a signatory;\n  (e) the control of crop pests and diseases;\n  (f) standards, testing and certification of seeds and planting materials;\n  (g) licensing and regulation of dealers in farm inputs;\n  (h) regulation and controlling the method of blending, packaging and labelling of specified crops for purposes of traceability;\n  (i) the periods for which licences and registration certificates shall be issued;\n  (j) the forms and fees to be paid for anything to be done under this Act;\n  (k) rules for ensuring food safety including handling, transportation, processing and market standards of food crops and crop products;\n  (l) rules and regulations of any organization dealing with crops and crop products, made by any such organization to be in conformity with the provisions of this Act;\n  (m) the submission of returns and reports by the holders of licences and permits under this Act;\n  (n) standards, and the manner of grading and classification of various crop products under this Act;\n  (o) measures of maintaining soil fertility including soil testing and regulation of soil salination, chemical degradation and toxic levels in plants;\n  (p) developing guidelines for public education on safe use of agro-chemicals;\n  (q) the procedure for processing of toxic crops;\n  (r) the relationship between farmers and other dealers in crops;\n  (s) the formula for the pricing of scheduled crops; and (t) the regulation of standard industry agreements.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, in consultation with the Authority and the county governments, make regulations for the better carrying into effect of the provisions of this Act, or for prescribing anything which is to be prescribed under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of the foregoing, regulations made under this section may provide for— (a) declaration and regulation of a scheduled crop including production, distribution and marketing; (b) the areas outside which a scheduled crop may not be cultivated, and regulating and controlling the variety, the cultural conditions, the method of production and grading of a specified crop; (c) regulations on the appropriate seeds and planting materials for export and import; (d) administration of plant breeder’s rights in line with the existing international conventions to which Kenya is a signatory; (e) the control of crop pests and diseases; (f) standards, testing and certification of seeds and planting materials; (g) licensing and regulation of dealers in farm inputs; (h) regulation and controlling the method of blending, packaging and labelling of specified crops for purposes of traceability; (i) the periods for which licences and registration certificates shall be issued; (j) the forms and fees to be paid for anything to be done under this Act; (k) rules for ensuring food safety including handling, transportation, processing and market standards of food crops and crop products; (l) rules and regulations of any organization dealing with crops and crop products, made by any such organization to be in conformity with the provisions of this Act; (m) the submission of returns and reports by the holders of licences and permits under this Act; (n) standards, and the manner of grading and classification of various crop products under this Act; (o) measures of maintaining soil fertility including soil testing and regulation of soil salination, chemical degradation and toxic levels in plants; (p) developing guidelines for public education on safe use of agro-chemicals; (q) the procedure for processing of toxic crops; (r) the relationship between farmers and other dealers in crops; (s) the formula for the pricing of scheduled crops; and (t) the regulation of standard industry agreements."
+    }
+   ]
+  },
+  "41": {
+   "num": "41",
+   "title": "Dispute resolution by arbitration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "For the purposes of ensuring expeditious resolution of disputes arising between farmers and other crop dealers, the Cabinet Secretary shall make rules to provide the procedure for arbitration of such disputes.",
+   "clauses": []
+  },
+  "42": {
+   "num": "42",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "",
+   "clauses": []
+  },
+  "43": {
+   "num": "43",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "",
+   "clauses": []
+  },
+  "44": {
+   "num": "44",
+   "title": "Administrative measures by the Cabinet Secretary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Subject to this Act, the Cabinet Secretary shall, in consultation with the Authority and the county governments, formulate and implement administrative measures to ensure smooth and orderly transition to the legal regime established by this Act.",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [r. 7]",
+   "subtitle": null,
+   "text": "[Act No. 7 of 2016, Sch., Act No. 23 of 2020, s. 76, Act No. 11 of 2024, s. 63, Act No. 8 of 2026, s. 107(b).] SCHEDULED CROPS Part 1 — Crops with breeding program under compulsory certification Rhodes grass ........................................... Chloris gayana Irish potatoes............................................. Solanum tuberosum L. Cotton.......................................................... Gossypium spp. Sunflower ................................................... Helianthus annuus L. Soya beans ................................................ Glycine max (L.) Merr. Beans........................................................... Phaseolus vulgaris L. Barley............................................................ Hordeum vulgare L. Finger millet................................................. Elezisine coracana (L.) Gaertn. Maize............................................................. Zae mays L. Pearl millet................................................... Pennisetum (L.) R.Br. Rice............................................................... Oryza sativa L. (1) Sorghum...................................................... Sorghum bicolor (L.) Moench.\nWheat............................................................ Triticum aestirum. Wheat (pasta).............................................. Triticum monococcum L.\nPart 2 - Crops with breeding program under voluntary certification Bananas....................................................... Musa spp. French beans ............................................. Phaseolus ulgaris L. Silver leaf desmodium.............................. Desmodium uncinatum Lupin............................................................. Lupinus spp. Lucerne........................................................ Medicago sativa L. Green leaf desmodium............................. Desmodium intorium (Miller). Setaria.......................................................... Setaria spp. Congo signal.............................................. Bracharia spp. Coloured guinea grass ............................ Panicum coloratum Pyrethrum.................................................... Chtysanthemum spp. Cassava...................................................... Manihot esculenta Sweetpotato............................................... Ipomeea batatas Kenaf........................................................... Hibiscus cannabinus L Sesame......................................................Sesamun indicum L. Safflower.................................................... Carthamus tinctorius L. Ground nut.................................................Arachis hypogaea L. Pigeon pea................................................ Cajanus cajan. Dolichos bean ......................................... Dolichos lablab L. Cowpea..................................................... Vigna unguiculata (L.) Walp. Chick peas............................................... Cicer arietienum L.\nPart 3 - Crops with no breeding program Oats.......................................................... Avena sativa L. Rye............................................................ Secale cereale L. Triticale.................................................... Tricosecale Wittm. Broad beans........................................... Vicia faba L. Cluster bean ..................................... Cyamopsis tetragonoloba. Pea....................................................... Pisum sativum L. Common Vetch.................................. Vicia sativa L. Castor bean......................................... Ricinus communis L. Jojoba................................................... Simmondsia chinesis. Linseed ............................................... Linum unitatissimum L. Oil seed rape...................................... Brassica napus L.\nKenya 15 Flax ....................................................... Linum usitatissimu L. Sisal.................................................... Agave spp. Beet...................................................... Beta vulgaris L. Turnip................................................... Brassica rapa L. Other flower species........................ Liliaceae, Umbilliferae, Roses, etc Blue stem grass .............................. Andropogon spp. Buffel grass ...................................... Cenchrus ciliaris L. Cock's foot......................................... Dactylic glomerata. Columbus grass.............................. Sorghum almum Paspalum grass.............................. Paspalum gayanus Rye grass ......................................... Lolium spp. Sudan................................................ Sorghum sudanense. Love grass....................................... Eragrostis spp. Bermuda grass...............................Cynodon dactylon. Butterfly pen.....................................Clitoria ternatea. Centrosema....................................Centrosema pubescens Benth. Clover...............................................Trifolium spp. Leucaena.........................................Leucaena lencocephala. Siratro...............................................Macroptilium atropurpureum Stylosanthes....................................Stulosanthes guianensis Amaranth...........................................Amaranthus spp. Artichoke............................................Cynara scolymus. Asparagus........................................Asparagus officinalis. Sugar beet .......................................Beta vulgaris L. Broccoli/cauliflower.........................Brassica oleracea var. botrytis L. Brussels sprouts .............................Brassica oleracea var. gemnifera Cabbage .........................................Brassica oleracea var. capitata L. Canteloupe/ Muskmelon ..............Cucumis melo L. Carrot.................................................Daucus carota L. Celery / Celeriac .............................Apium graveolens L. Chicory..............................................Cichorium intybus L. Chinese cabbage...........................Brassica chinensis L. Chirvil..............................................Anthricus cerefolium . Collards / Kale..........................Brassica oleracea var ancephalaDC Corriander........................................Coriandrum sativum Kenya 16 Cucumber.........................................Cucumis sativus L. Dill.......................................................Arethum graveolens L. Egglants.............................................Solanum melongena L. Endive ................................................Cichorium endivia L. Garden cress...................................Lespidium sativa L. Karella ..............................................Cucumis spp. Kohlrabi ............................................Brassica oleracea var. gongylodes. Leek ..................................................Allium porrum L. Lettuce ..............................................Lactuca sativa. Okra ...................................................Hibiscus esculentus L. Onion..................................................Allium cepa L. Parsley ...............................................Petroselinum crispum (Mill) Nym. Parsnip ...............................................Pastinaca sativa L. Pea.......................................................Pisum sativum L. Sensulato. Pepper................................................Capsicum spp. Pumpkin/Squash/Courgette ..........Cucurbita pepo L. Radish ................................................Raphanus sativus L. Rhubarb ..............................................Rheum rhaponticum L. Rutabaga.............................................Brassica napus var. napobrassica L. Spinach ...............................................Spinacea oleracea L. Swiss chard........................................Beta vulgaris. Tomato ................................................Solanum lycopersicon. Turnip .................................................... Brassica rap L. Water cress .........................................Nasturtium officinale Ribr. Water melon.........................................Citrullus spp. Coconut..................................................Cocos nucifera. Cashewnut ........................................... Indigenous Vegetables. (Blacknightshade, Spider plant, etc). Guava...................................................Psidium. Fruit trees .......................................... (Mangoes, Avocado, Citrus, Pawpaw, etc). Miraa .......................................................... catha edulis."
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [s. 42] WRITTEN LAWS TO BE REPEALED",
+   "subtitle": null,
+   "text": "[L.N. 57/2013. Sch.]\nKenya 17 Crops Act (Cap. 318) Spent Spent"
+  },
+  {
+   "id": "att_3",
+   "title": "THIRD SCHEDULE [s. 43] TRANSITIONAL PROVISIONS",
+   "subtitle": null,
+   "text": ""
+  }
+ ]
+}

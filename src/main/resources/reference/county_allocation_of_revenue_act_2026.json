@@ -1,0 +1,169 @@
+{
+ "title": "County Allocation of Revenue Act, 2026",
+ "citation": "No. 22 of 2026",
+ "source": "Government Printer edition (saved from Kenya Law)",
+ "source_url": null,
+ "version_date": "2026-07-17",
+ "retrieved": "2026-10-04",
+ "note": "Text of a Government Printer edition (PDF), converted to JSON by tools/build_law_reference.py; scanned editions carry OCR errors - check against the PDF. There is no copyright on the legislative content (Copyright Act, Cap. 130, s. 2).",
+ "provision_label": "section",
+ "preamble": "AN ACT of Parliament to provide for the equitable allocation of revenue raised nationally among the county governments for the 2026/2027 financial year; the responsibilities of national and county governments pursuant to such allocation; and for connected purposes ENACTED by the Parliament of Kenya, as follows—",
+ "parts": [],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "This Act may be cited as the County Allocation of Revenue Act, 2026.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "In this Act —\n“Cabinet Secretary” means the Cabinet Secretary responsible for matters relating to finance; and “revenue” has the meaning assigned to it under section 2 of the Commission on Revenue Allocation Act.",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Object",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The object of this Act is to —\nCap. 428. Object.\n  (a) provide, pursuant to Article 218(1)(b) of the Constitution, for the allocation of an equitable share of revenue raised nationally among the county governments, in accordance with the resolution approved by Parliament under Article 217 of the Constitution for the financial year 2026/27; and\n  (b) facilitate the transfer of allocations made to counties under this Act from the Consolidated Fund to the respective County Revenue Funds.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Equitable allocation of county governments’ share of revenue",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Each county government’s equitable share of revenue raised nationally, on the basis of the revenue sharing formula approved by Parliament in accordance with Article 217 of the Constitution, in respect of the financial year 2026/27, shall be as set out in Column G of the First Schedule.\n(2) Each county government’s allocation under subsection (1) shall be transferred to the respective County Revenue Fund in accordance with a payment schedule approved by the Senate and published in the Gazette by the Cabinet Secretary in accordance with section 17 of the Public Finance Management Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Each county government’s equitable share of revenue raised nationally, on the basis of the revenue sharing formula approved by Parliament in accordance with Article 217 of the Constitution, in respect of the financial year 2026/27, shall be as set out in Column G of the First Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "Each county government’s allocation under subsection (1) shall be transferred to the respective County Revenue Fund in accordance with a payment schedule approved by the Senate and published in the Gazette by the Cabinet Secretary in accordance with section 17 of the Public Finance Management Act."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Budget ceilings for recurrent expenditure",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The budget ceilings for recurrent expenditure for Cap. 412A.\nBudget ceilings for recurrent 457 County Allocation of Revenue county governments for the financial year 2026/2027 shall be as set out in the Second Schedule.",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Funding of transferred functions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Where a county government has transferred a function to the National Government pursuant to Article 187 of the Constitution, the respective county executive, in consultation with the National Government, shall determine the cost of the transferred functions.\nexpenditure.\n(2) The respective county assembly shall appropriate such monies as may be required for the transferred function in accordance with the determination made under subsection (1) and the allocation shall not be less than the amount appropriated by the county assembly in the preceding financial year.\n(3) The monies appropriated under subsection (2) shall be transferred to the National Government.\n(4) A national government entity to which a county government function has been transferred shall submit a quarterly report to the Senate and the respective county assembly on the status of the discharge of the devolved function.\n(5) The Auditor-General shall, no later than three months after the end of a financial year, prepare a special audit report on the financial and non-financial performance of an entity to which a county government function has been transferred.\n(6) The Auditor-General shall submit the report under subsection (5) to the Senate and the respective county assembly.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a county government has transferred a function to the National Government pursuant to Article 187 of the Constitution, the respective county executive, in consultation with the National Government, shall determine the cost of the transferred functions."
+    },
+    {
+     "ref": "(2)",
+     "text": "The respective county assembly shall appropriate such monies as may be required for the transferred function in accordance with the determination made under subsection (1) and the allocation shall not be less than the amount appropriated by the county assembly in the preceding financial year."
+    },
+    {
+     "ref": "(3)",
+     "text": "The monies appropriated under subsection (2) shall be transferred to the National Government."
+    },
+    {
+     "ref": "(4)",
+     "text": "A national government entity to which a county government function has been transferred shall submit a quarterly report to the Senate and the respective county assembly on the status of the discharge of the devolved function."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Auditor-General shall, no later than three months after the end of a financial year, prepare a special audit report on the financial and non-financial performance of an entity to which a county government function has been transferred."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Auditor-General shall submit the report under subsection (5) to the Senate and the respective county assembly."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Report on actual transfers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Cabinet Secretary shall publish a monthly report on actual transfers of all allocations to county governments.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Books of accounts to reflect National Government transfers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Each county treasury shall reflect all transfers by the national government to the county governments in its books of accounts.\n(2) The estimates of revenue of each county shall separately reflect the total equitable revenue share under section 4 of this Act transferred to the County Revenue Fund.\n(3) A county treasury shall as part of its consolidated Cap. 412A.\n458 County Allocation of Revenue quarterly and annual reports required under the Public Finance Management Act report on actual transfers received by the county government from the national government, up to the end of that quarter or year in the format prescribed by the Public Sector Accounting Standards Board or in the absence of a format prescribed by the Board, in the format prescribed by the National Treasury.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Each county treasury shall reflect all transfers by the national government to the county governments in its books of accounts."
+    },
+    {
+     "ref": "(2)",
+     "text": "The estimates of revenue of each county shall separately reflect the total equitable revenue share under section 4 of this Act transferred to the County Revenue Fund."
+    },
+    {
+     "ref": "(3)",
+     "text": "A county treasury shall as part of its consolidated Cap. 412A."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Financial misconduct",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Despite the provisions of any other law, any serious or persistent non-compliance with provisions of this Act constitutes an offence under the Public Finance Management Act.\nCap. 412A",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Applicable revenue-sharing formula",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "For the avoidance of doubt, the allocation of the equitable share of revenue to county governments under section 4 of this Act shall be in accordance with the fourth determination of the basis of the division of revenue among counties approved by Parliament pursuant to Article 217(7) of the Constitution.\n459 County Allocation of Revenue! 460 County Allocation of Revenue 461 County Allocation of Revenue! 462 County Allocation of Revenue",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SECOND SCHEDULE (s.5)",
+   "subtitle": null,
+   "text": "County Government Budget Ceilings for Recurrent Expenditure in FY 2026/27(Figures in Kenya Shillings) County Assemblies County Executives SN County FY 2025/26 FY 2026/27 FY 2025/26 FY 2026/27 1 Baringo 2 Bomet 847,469,122 755,816,719 847,626,854 731,537,286 496,161,163 528,170,814 468,730,626 498,289,418 3 Bungoma 1,074,221,694 976,506,613 562,059,982 601,422,211 4 Busia Elgeyo/ 5 Marakwet 859,603,045 682,127,598 869,947,142 684,431,351 514,728,802 549,189,312 445,655,740 472,763,673 6 Embu 653,997,909 651,091,348 445,585,855 472,693,787 7 Garissa 1,010,212,868 1,083,206,383 510,888,235 544,919,368 8 Homa Bay 9 Isiolo 901,349,007 571,957,767 913,968,214 515,234,218 538,863,664 575,775,034 376,492,992 398,239,140 10 Kajiado 797,493,878 833,655,216 459,200,063 488,452,144 11 Kakamega 12 Kericho 13 Kiambu 1,440,150,864 801,439,308 1,332,680,576 1,410,784,461 808,829,560 1,325,843,597 631,900,264 491,924,215 642,094,266 678,615,072 523,933,866 688,809,074 14 Kilifi 871,651,828 867,147,393 528,153,096 562,613,607 15 Kirinyaga 667,134,062 666,664,869 436,378,706 463,333,283 16 Kisii 1,051,143,180 1,061,001,255 569,351,784 608,714,014 17 Kisumu 18 Kitui 993,261,872 899,826,065 1,025,218,850 1,037,669,946 522,102,171 638,237,442 556,906,939 593,818,310 19 Kwale 667,152,528 675,305,556 447,387,205 474,495,138 20 Laikipia 21 Lamu 511,501,082 502,735,064 600,630,878 479,609,506 406,459,778 430,810,140 373,334,857 395,081,004 22 Machakos 23 Makueni 957,194,136 964,631,315 970,874,933 847,824,561 540,775,483 577,686,853 494,768,774 526,778,425 24 Mandera 917,936,058 974,349,992 511,948,091 543,957,742 25 Marsabit 26 Meru 741,494,088 859,562,104 1,033,230,263 1,040,373,863 458,101,332 490,972,864 565,023,558 604,385,788 27 Migori 936,954,113 1,059,223,492 538,507,125 575,418,495 28 Mombasa 862,807,953 736,274,590 497,268,190 529,277,841 29 Murang'a 813,710,947 851,528,548 515,207,988 549,668,499 30 Nairobi City 1,603,909,510 1,775,901,135 31 Nakuru 1,121,659,233 1,139,437,714 775,756,999 834,726,105 622,626,699 666,890,648 32 Nandi 811,140,379 797,267,097 492,132,433 524,142,084 33 Narok 878,624,509 927,319,735 499,621,001 531,630,652 34 Nyamira 689,414,409 698,351,387 444,949,706 472,057,639 463 County Allocation of Revenue County Government Budget Ceilings for Recurrent Expenditure in FY 2026/27(Figures in Kenya Shillings) County Assemblies County Executives SN County 35 Nyandarua 36 Nyeri FY 2025/26 758,345,693 760,288,009 FY 2026/27 785,219,049 763,643,931 FY 2025/26 FY 2026/27 469,042,680 498,601,472 492,365,209 524,374,860 37 Samburu 569,616,860 605,962,163 400,557,424 633,218,705 38 Siaya 759,893,500 770,412,462 491,970,700 523,980,352 39 Taita/Taveta 706,797,720 724,468,044 450,325,811 477,433,743 40 Tana-River 41 Tharaka-Nithi 710,218,891 508,533,605 612,807,695 513,863,636 422,272,274 446,775,992 404,731,372 429,081,734 42 Trans Nzoia 664,759,854 663,677,259 474,454,626 504,013,417 43 Turkana 44 Uasin Gishu 863,842,883 887,273,308 946,217,760 852,346,325 510,888,235 551,543,287 498,842,007 530,851,658 45 Vihiga 703,918,304 704,103,951 467,917,374 497,476,165 46 Wajir 992,853,943 937,865,189 502,524,835 542,527,721 47 West Pokot 699,024,354 711,194,510 447,670,353 474,778,286 Total 39,936,392,658 40,210,588,835 23,414,610,682 25,250,626,877"
+  }
+ ]
+}

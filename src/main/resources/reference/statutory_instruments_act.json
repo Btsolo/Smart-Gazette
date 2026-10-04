@@ -1,0 +1,618 @@
+{
+ "title": "Statutory Instruments Act",
+ "citation": "Cap. 2A",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2013/23/eng@2024-12-27",
+ "version_date": "2024-12-27",
+ "retrieved": "2026-10-04",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "STATUTORY INSTRUMENTS ACT CAP. 2A Published in Kenya Gazette Vol. CXV—No. 32 on 1 March 2013 Assented to on 14 January 2013 Commenced on 25 January 2013\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2015 (Act No. 25 of 2015) on 24 December 2015] [Amended by Statute Law (Miscellaneous Amendments) Act, 2018 (Act No. 4 of 2018) on 21 May 2018] [Amended by Finance Act, 2022 (Act No. 22 of 2022) on 1 July 2022] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] [Amended by Finance Act, 2023 (Act No. 4 of 2023) on 1 July 2023] [Amended by Statutory Instruments (Amendment) Act, 2024 (Act No. 17 of 2024) on 27 December 2024]\nAn Act of Parliament to provide for the making, scrutiny, publication and operation of statutory instruments and for matters connected therewith\n[Act No. 4 of 2023, s. 88.]",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "CONSULTATIONS BEFORE MAKING STATUTORY INSTRUMENTS",
+   "provisions": [
+    "5",
+    "5A"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "REGULATORY IMPACT STATEMENTS",
+   "provisions": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "PARLIAMENTARY SCRUTINY OF STATUTORY INSTRUMENTS",
+   "provisions": [
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "PURPOSE FOR REVIEW OF STATUTORY INSTRUMENTS",
+   "provisions": [
+    "20",
+    "21"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "GENERAL PROVISIONS",
+   "provisions": [
+    "22",
+    "23",
+    "24",
+    "25",
+    "26"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "TRANSITION AND SAVING",
+   "provisions": [
+    "27",
+    "28"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Statutory Instruments Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires—\n\"Committee\" means the Committee on Delegated Legislation established under the Standing Orders of the National Assembly or the Senate or any other Committee that may be established by Parliament for the purpose of reviewing and scrutinizing statutory instruments;\n\"effective date\" means the 27th of August, 2010;\n\"explanatory memorandum\" means a statement, prepared by the regulation-making authority that explains the purpose and operation of the statutory instrument and it includes any documents incorporated in the statutory instrument by reference and indicates how they may be obtained;\n\"public participation\" means involvement by the regulation-making authority of persons or stakeholders that the statutory instrument may directly or indirectly apply to;\n\"regulation-making authority\" means any authority authorized by an Act of Parliament to make statutory instruments;\n\"responsible Cabinet Secretary\" means the Cabinet Secretary for the time being responsible for administering the relevant Act or provision under which or in relation to which the statutory instrument is made or preserved;\n\"statutory instrument\" means any rule, order, regulation, direction, form, tariff of costs or fees, letters patent, commission, warrant, proclamation, by-law, resolution, guideline or other statutory instrument issued, made or established in the execution of a power conferred by or under an Act of Parliament under which that statutory instrument or subsidiary legislation is expressly authorized to be issued.\n[Act No. 4 of 2018, Sch.]",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Application",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) This Act applies to every statutory instrument made directly or indirectly under any Act of Parliament or other written legislation.\n(2) Nothing under this section may be construed as precluding Parliament from applying the provisions of this Act to any published bills awaiting parliamentary consideration.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "This Act applies to every statutory instrument made directly or indirectly under any Act of Parliament or other written legislation."
+    },
+    {
+     "ref": "(2)",
+     "text": "Nothing under this section may be construed as precluding Parliament from applying the provisions of this Act to any published bills awaiting parliamentary consideration."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Object of the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The object of this Act is to provide a comprehensive regime for the making, scrutiny, publication and operation of statutory instruments by—\n  (a) requiring regulation-making authorities to undertake appropriate consultation before making statutory instruments;\n  (b) requiring high standards in the drafting of statutory instruments to promote their legal effectiveness, clarity and intelligibility to anticipated users;\n  (c) improving public access to statutory instruments;\n  (d) establishing improved mechanisms for parliamentary scrutiny of statutory instruments; and\n  (e) establishing mechanisms to ensure that statutory instruments are periodically reviewed and, if they no longer have a continuing purpose, repealed.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Consultation before making statutory instruments",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "CONSULTATIONS BEFORE MAKING STATUTORY INSTRUMENTS",
+   "text": "(1) Before a regulation-making authority makes a statutory instrument, and in particular where the proposed statutory instrument is likely to—\n  (a) have a direct, or a substantial indirect effect on business; or\n  (b) restrict competition;\nthe regulation-making authority shall make appropriate consultations with persons who are likely to be affected by the proposed instrument.\n(2) In determining whether any consultation that was undertaken is appropriate, the regulation making authority shall have regard to any relevant matter, including the extent to which the consultation—\n  (a) drew on the knowledge of persons having expertise in fields relevant to the proposed statutory instrument; and\n  (b) ensured that persons likely to be affected by the proposed statutory instrument had an adequate opportunity to comment on its proposed content.\n(3) Without limiting by implication the form that consultation referred to in subsection (1) might take, the consultation shall—\n  (a) involve notification, either directly or by advertisement, of bodies that, or of organizations representative of persons who, are likely to be affected by the proposed instrument; or\n  (b) invite submissions to be made by a specified date or might invite participation in public hearings to be held concerning the proposed instrument.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Before a regulation-making authority makes a statutory instrument, and in particular where the proposed statutory instrument is likely to—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In determining whether any consultation that was undertaken is appropriate, the regulation making authority shall have regard to any relevant matter, including the extent to which the consultation—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Without limiting by implication the form that consultation referred to in subsection (1) might take, the consultation shall—"
+    }
+   ]
+  },
+  "5A": {
+   "num": "5A",
+   "title": "Explanatory memorandum",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "CONSULTATIONS BEFORE MAKING STATUTORY INSTRUMENTS",
+   "text": "(1) Every statutory instrument shall be accompanied by an explanatory memorandum which shall contain—\n  (a) a statement on the proof and demonstration that sufficient public consultation was conducted as required under Articles 10 and 118 of the Constitution;\n  (b) a brief statement of all the consultations undertaken before the statutory instrument was made;\n  (c) a brief statement of the way the consultation was carried;\n  (d) an outline of the results of the consultation;\n  (e) a brief explanation of any changes made to the legislation as a result of the consultation.\n(2) Where no such consultations are undertaken as contemplated in subsection (1), the regulationmaking authority shall explain why no such consultation was undertaken.\n(3) The explanatory memorandum shall contain such other information in the manner specified in the Schedule and may be accompanied by the regulatory impact statement prepared for the statutory instrument.\n[Act No. 4 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every statutory instrument shall be accompanied by an explanatory memorandum which shall contain—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where no such consultations are undertaken as contemplated in subsection (1), the regulationmaking authority shall explain why no such consultation was undertaken."
+    },
+    {
+     "ref": "(3)",
+     "text": "The explanatory memorandum shall contain such other information in the manner specified in the Schedule and may be accompanied by the regulatory impact statement prepared for the statutory instrument."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Regulatory impact statements",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATORY IMPACT STATEMENTS",
+   "text": "If a proposed statutory instrument is likely to impose significant costs on the community or a part of the community, the regulation making authority shall, prior to making the statutory instrument, prepare a regulatory impact statement about the instrument.",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Contents of regulatory impact statements",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATORY IMPACT STATEMENTS",
+   "text": "(1) A regulatory impact statement shall include the following information about the proposed statutory instrument in clear and precise language—\n  (a) a statement of the objectives of the proposed legislation and the reasons for them;\n  (b) a statement explaining the effect of the proposed legislation, including in the case of a proposed legislation which is to amend an existing statutory instrument the effect on the operation of the existing statutory instrument;\n  (c) a statement of other practicable means of achieving those objectives, including other regulatory as well as non-regulatory options;\n  (d) an assessment of the costs and benefits of the proposed statutory rule and of any other practicable means of achieving the same objectives;\n  (e) the reasons why the other means are not appropriate;\n  (f) any other matters specified by the guidelines;\n  (g) a draft copy of the proposed statutory rule.\n(2) The assessment of the costs and benefits shall include an assessment of the economic, environmental and social impact and the likely administration and compliance costs including resource allocation costs.\n(3) The responsible Cabinet Secretary shall ensure that independent advice as to the adequacy of the regulatory impact statement and of the assessment included in the regulatory impact statement is obtained and considered in accordance with the guidelines.\n(4) The responsible Cabinet Secretary shall before a statutory rule in respect of which a regulatory impact statement is required is made, give a certificate in writing specifying that—\n  (a) the requirements relating to regulatory impact statements in this Act and the guidelines have been complied with; and\n  (b) in the Cabinet Secretary’s opinion, the regulatory impact statement adequately assesses the likely impact of the proposed statutory rule.\n(5) The responsible Cabinet Secretary shall ensure that a copy of the regulatory impact statement and the compliance certificate is tabled in Parliament with the statutory instrument as provided under section 11.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A regulatory impact statement shall include the following information about the proposed statutory instrument in clear and precise language—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The assessment of the costs and benefits shall include an assessment of the economic, environmental and social impact and the likely administration and compliance costs including resource allocation costs."
+    },
+    {
+     "ref": "(3)",
+     "text": "The responsible Cabinet Secretary shall ensure that independent advice as to the adequacy of the regulatory impact statement and of the assessment included in the regulatory impact statement is obtained and considered in accordance with the guidelines."
+    },
+    {
+     "ref": "(4)",
+     "text": "The responsible Cabinet Secretary shall before a statutory rule in respect of which a regulatory impact statement is required is made, give a certificate in writing specifying that—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The responsible Cabinet Secretary shall ensure that a copy of the regulatory impact statement and the compliance certificate is tabled in Parliament with the statutory instrument as provided under section 11."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Notification of regulatory impact statements",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATORY IMPACT STATEMENTS",
+   "text": "(1) Preparation of a regulatory impact statement for proposed statutory instrument shall be notified in the Gazette and in a newspaper likely to be read by people particularly affected by the proposed legislation.\n(2) If the proposed statutory instrument is likely to have a significant impact on a particular group of people, the notice shall be published in a way likely to ensure members of the group understand the purpose and content of the notice.\n(3) The notice shall—\n  (a) include a brief statement of the policy objectives sought to be achieved by the proposed legislation; and\n  (b) state where copies of the regulatory impact statement may be obtained or inspected;\n  (c) if a draft of the proposed legislation may be obtained or inspected, state that the draft may be obtained or inspected and where;\n  (d) state that anyone may comment on the proposed legislation;\n  (e) state how and when comments may be made; and\n  (f) state how consultation about the proposed legislation will take place.\n(4) The notice shall allow at least fourteen days from publication of the notice for the making of comments.\n(5) A copy of the regulatory impact statement may be available free, or on payment of a reasonable price, at the place, or each of the places, stated in the notice.\n(6) The responsible Cabinet Secretary shall ensure that—\n  (a) all comments and submissions are considered before the statutory rule is made; and\n  (b) a copy of all comments and submissions is given to the Committee as soon as practicable after the statutory rule is tabled in the House or when requested by the Committee.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Preparation of a regulatory impact statement for proposed statutory instrument shall be notified in the Gazette and in a newspaper likely to be read by people particularly affected by the proposed legislation."
+    },
+    {
+     "ref": "(2)",
+     "text": "If the proposed statutory instrument is likely to have a significant impact on a particular group of people, the notice shall be published in a way likely to ensure members of the group understand the purpose and content of the notice."
+    },
+    {
+     "ref": "(3)",
+     "text": "The notice shall—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The notice shall allow at least fourteen days from publication of the notice for the making of comments."
+    },
+    {
+     "ref": "(5)",
+     "text": "A copy of the regulatory impact statement may be available free, or on payment of a reasonable price, at the place, or each of the places, stated in the notice."
+    },
+    {
+     "ref": "(6)",
+     "text": "The responsible Cabinet Secretary shall ensure that—"
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Where regulatory impact statements may be unnecessary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATORY IMPACT STATEMENTS",
+   "text": "A regulatory impact statement need not be prepared for a proposed statutory instrument if the proposed legislation only provides for, or to the extent it only provides for—\n  (a) a matter that is not of a legislative character, including, for example, a matter of a machinery, administrative, drafting or formal nature;\n  (b) a matter that does not operate to the disadvantage of any person (other than a government entity) by—\n  (i) decreasing the person’s rights;\n  (ii) imposing liabilities on the person;\n  (c) an amendment of statutory instrument to take account of the prevailing Kenyan legislative drafting practice;\n  (d) the commencement of an Act or subordinate legislation or a provision of an Act or statutory instrument;\n  (e) an amendment of statutory instrument that does not fundamentally affect the legislation’s application or operation;\n  (f) a matter of a savings or transitional character;\n  (g) a matter arising under legislation that is substantially uniform or complementary with legislation of the National Government or any County;\n  (h) a matter advance notice of which would enable someone to gain unfair advantage;\n  (i) an amendment of a fee, charge or tax consistent with announced government policy.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Purpose of Part",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PARLIAMENTARY SCRUTINY OF STATUTORY INSTRUMENTS",
+   "text": "The purpose of this Part is to facilitate the scrutiny by Parliament of statutory instruments and to set out the circumstances and manner in which the statutory instruments, or provisions of the statutory instruments, may be disallowed, as well as the consequences of the disallowance.",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Laying of statutory instruments before Parliament",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PARLIAMENTARY SCRUTINY OF STATUTORY INSTRUMENTS",
+   "text": "(1) Every Cabinet Secretary responsible for a regulation-making authority shall within seven (7) sitting days after the publication of a statutory instrument, ensure that a copy of the statutory instrument is transmitted to the responsible Clerk for tabling before the relevant House of Parliament.\n(2) Notwithstanding subsection (1) and pursuant to the legislative powers conferred on the National Assembly under Article 109 of the Constitution, all regulation making authorities shall submit copies of all statutory instruments for tabling before the National Assembly.\n(3) The responsible Clerk shall register or cause to be registered every statutory instrument transmitted to the respective House for tabling or laying under this Part.\n(4) If a copy of a statutory instrument that is required to be laid before the relevant House of Parliament is not so laid in accordance with this section, the statutory instrument shall cease to have effect immediately after the last day for it to be so laid but without prejudice to any act done under the statutory instrument before it became void.\n(5) Where it comes to the attention of the Committee that a Cabinet Secretary responsible for a regulation making authority has failed to submit a statutory instrument in accordance with subsection (1), the Committee may, by a resolution, require the Cabinet Secretary to—\n  (a) publish a notice in the Gazette within seven days from the date of the resolution, to the effect that the statutory instrument is a nullity; and\n  (b) submit the published notice to Parliament.\n(6) Notwithstanding subsections (4) and (5), Parliament may, where a statutory instrument ceases to have effect in accordance with subsection (4), notify the public in two newspapers of wide circulation and the Parliamentary website, that the statutory instrument is a nullity.\n[Act No. 4 of 2018, Sch, Act No. 17 of 2024, s. 2.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every Cabinet Secretary responsible for a regulation-making authority shall within seven (7) sitting days after the publication of a statutory instrument, ensure that a copy of the statutory instrument is transmitted to the responsible Clerk for tabling before the relevant House of Parliament."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding subsection (1) and pursuant to the legislative powers conferred on the National Assembly under Article 109 of the Constitution, all regulation making authorities shall submit copies of all statutory instruments for tabling before the National Assembly."
+    },
+    {
+     "ref": "(3)",
+     "text": "The responsible Clerk shall register or cause to be registered every statutory instrument transmitted to the respective House for tabling or laying under this Part."
+    },
+    {
+     "ref": "(4)",
+     "text": "If a copy of a statutory instrument that is required to be laid before the relevant House of Parliament is not so laid in accordance with this section, the statutory instrument shall cease to have effect immediately after the last day for it to be so laid but without prejudice to any act done under the statutory instrument before it became void."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where it comes to the attention of the Committee that a Cabinet Secretary responsible for a regulation making authority has failed to submit a statutory instrument in accordance with subsection (1), the Committee may, by a resolution, require the Cabinet Secretary to—"
+    },
+    {
+     "ref": "(6)",
+     "text": "Notwithstanding subsections (4) and (5), Parliament may, where a statutory instrument ceases to have effect in accordance with subsection (4), notify the public in two newspapers of wide circulation and the Parliamentary website, that the statutory instrument is a nullity."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Referral to the Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PARLIAMENTARY SCRUTINY OF STATUTORY INSTRUMENTS",
+   "text": "(1) Every statutory instrument issued, made or established after the commencement of this Act shall upon tabling before the respective House of Parliament stand referred to the Committee or any other committee that may be established for the purpose of reviewing and scrutinizing statutory instruments.\n(2) Nothing under subsection (1) may be construed as precluding the Committee from scrutinizing statutory instruments previously published before the commencement of this Act.\n(3) The provisions of subsection (1) shall not apply to any rules, regulations and orders emanating from a court of competent jurisdiction in Kenya.\n[Act No. 25 of 2015, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every statutory instrument issued, made or established after the commencement of this Act shall upon tabling before the respective House of Parliament stand referred to the Committee or any other committee that may be established for the purpose of reviewing and scrutinizing statutory instruments."
+    },
+    {
+     "ref": "(2)",
+     "text": "Nothing under subsection (1) may be construed as precluding the Committee from scrutinizing statutory instruments previously published before the commencement of this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "The provisions of subsection (1) shall not apply to any rules, regulations and orders emanating from a court of competent jurisdiction in Kenya."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Relevant considerations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PARLIAMENTARY SCRUTINY OF STATUTORY INSTRUMENTS",
+   "text": "The Committee shall, in carrying out its scrutiny of any statutory instrument or published Bill be guided by the principles of good governance, rule of law and shall in particular consider whether the statutory instrument—\n  (a) is in accord with the provisions of the Constitution, the Act pursuant to which it is made or other written law;\n  (b) infringes on fundamental rights and freedoms of the public;\n  (c) contains a matter which in the opinion of the Committee should more properly be dealt with in an Act of Parliament;\n  (d) contains imposition of taxation;\n  (e) directly or indirectly bars the jurisdiction of the Courts;\n  (f) gives retrospective effect to any of the provisions in respect of which the Constitution or the Act does not expressly give any such power;\n  (g) involves expenditure from the Consolidated Fund or other public revenues;\n  (h) is defective in its drafting or for any reason the form or purport of the statutory instrument calls for any elucidation;\n  (i) appears to make some unusual or unexpected use of the powers conferred by the Constitution or the Act pursuant to which it is made;\n  (j) appears to have had unjustifiable delay in its publication or laying before Parliament;\n  (k) makes rights, liberties or obligations unduly dependent upon non-reviewable decisions;\n  (l) makes rights, liberties or obligations unduly dependent insufficiently defined administrative powers;\n  (m) inappropriately delegates legislative powers;\n  (n) imposes a fine, imprisonment or other penalty without express authority having been provided for in the enabling legislation;\n  (o) appears for any reason to infringe on the rule of law;\n  (p) inadequately subjects the exercise of legislative power to parliamentary scrutiny; and\n  (q) accords to any other reason that the Committee considers fit to examine.",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "Exemptions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PARLIAMENTARY SCRUTINY OF STATUTORY INSTRUMENTS",
+   "text": "Subject to section 16, the Committee may exempt certain statutory instruments or class of statutory instruments from scrutiny if the Committee is satisfied that the scrutiny is not reasonably practical due to the number of regulations in that class.",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "Report to Parliament",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PARLIAMENTARY SCRUTINY OF STATUTORY INSTRUMENTS",
+   "text": "(1) The Committee shall make a report to Parliament containing only a resolution that the statutory instruments that stands permanently referred to the Committee be revoked.\n(2) Where the Committee does not make the report referred to in subsection (1) within twenty eight sitting days after the date of referral of the statutory instrument to the Committee under section 12, or such other period as the House may, by resolution approve, the statutory instrument shall be deemed to have fully met the relevant considerations referred to in section 13.\n(3) Despite the provision of this Act or any other written law, where a time is prescribed for doing an act or taking a proceeding by the National Assembly relating to the handling of a statutory instrument, the National Assembly may, by resolution, extend that time by a period not exceeding twenty-one days.\n(4) Without prejudice to the provisions of section 12 and this section, any statutory instrument which contains provisions dealing with taxes, levies or fees, or has the effect of imposition of a charge on a public fund or variation or repeal of such charge, the National Assembly shall, within twenty-eight sitting days from the date of receipt of the notice under section 11, consider the notice and make a resolution either to approve or reject the notice.\n[Act No. 25 of 2015, Sch., Act No. 4 of 2018, Sch, Act No. 22 of 2022, s. 62.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Committee shall make a report to Parliament containing only a resolution that the statutory instruments that stands permanently referred to the Committee be revoked."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Committee does not make the report referred to in subsection (1) within twenty eight sitting days after the date of referral of the statutory instrument to the Committee under section 12, or such other period as the House may, by resolution approve, the statutory instrument shall be deemed to have fully met the relevant considerations referred to in section 13."
+    },
+    {
+     "ref": "(3)",
+     "text": "Despite the provision of this Act or any other written law, where a time is prescribed for doing an act or taking a proceeding by the National Assembly relating to the handling of a statutory instrument, the National Assembly may, by resolution, extend that time by a period not exceeding twenty-one days."
+    },
+    {
+     "ref": "(4)",
+     "text": "Without prejudice to the provisions of section 12 and this section, any statutory instrument which contains provisions dealing with taxes, levies or fees, or has the effect of imposition of a charge on a public fund or variation or repeal of such charge, the National Assembly shall, within twenty-eight sitting days from the date of receipt of the notice under section 11, consider the notice and make a resolution either to approve or reject the notice."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Notice to the regulation-making authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PARLIAMENTARY SCRUTINY OF STATUTORY INSTRUMENTS",
+   "text": "Subject to section 11, and in so far as its practically possible, the Committee shall confer with the regulation-making authority for which the statutory instrument has been made and brought before the Committee for scrutiny, before tabling the report to Parliament for their information and modification where necessary.",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "Tabling the Report",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PARLIAMENTARY SCRUTINY OF STATUTORY INSTRUMENTS",
+   "text": "In tabling the report before Parliament, the Committee shall state the overall objective of the statutory instrument, identify the portion of the statutory instrument in relation to which the report has been made and indicate the manner in which it offends the criteria set out in section 10 and the recommendations thereof.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Annulment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PARLIAMENTARY SCRUTINY OF STATUTORY INSTRUMENTS",
+   "text": "When a report on a statutory instrument has been tabled in Parliament, the statutory instrument shall be deemed to be annulled if Parliament passes a resolution to that effect.",
+   "clauses": []
+  },
+  "19": {
+   "num": "19",
+   "title": "Requirements for publishing an annulment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PARLIAMENTARY SCRUTINY OF STATUTORY INSTRUMENTS",
+   "text": "(1) Where Parliament has adopted a report or a resolution that a statutory instrument be annulled—\n  (a) the instrument shall stand annulled; and\n  (b) the Clerk of the relevant house shall publish the annulment in the Parliamentary website and shall convey the resolution of the House to the regulation making authority.\n(2) Upon receipt of the communication from the Clerk in accordance with this section, the regulation making authority shall publish the annulment in the Gazette within fourteen days. [Act No. 17 of 2024, s. 3.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where Parliament has adopted a report or a resolution that a statutory instrument be annulled—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Upon receipt of the communication from the Clerk in accordance with this section, the regulation making authority shall publish the annulment in the Gazette within fourteen days. [Act No. 17 of 2024, s. 3.]"
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Purposes of Part",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "PURPOSE FOR REVIEW OF STATUTORY INSTRUMENTS",
+   "text": "The purpose of this Part is to—\n  (a) reduce substantially the regulatory burden on the people of Kenya without compromising law and order and essential economic, environmental and social objectives;\n  (b) ensure subordinate legislation is relevant to the economic, social and general wellbeing of the people of Kenya;\n  (c) ensure the part of the Kenya statute book consisting of statutory instruments is of the highest standard;\n  (d) ensure continuous review of statutory instruments by the various regulation making authorities and the agencies under them.",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Repealed",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "PURPOSE FOR REVIEW OF STATUTORY INSTRUMENTS",
+   "text": "Repealed by Act No. 4 of 2023, s. 89.",
+   "clauses": []
+  },
+  "22": {
+   "num": "22",
+   "title": "Publication of instruments",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) Subject to subsection (2), every statutory instrument shall be published in the Kenya Gazette and shall be assigned a serial number as of the year in which it is made which shall be printed on the face of the statutory instrument.\n(2) If a question arises as to whether statutory instruments under any provision of an enactment are statutory instruments the Attorney-General may, by certificate in writing, decide the matter.\n(3) Every certificate issued under subsection (2) shall be published in the Gazette.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2), every statutory instrument shall be published in the Kenya Gazette and shall be assigned a serial number as of the year in which it is made which shall be printed on the face of the statutory instrument."
+    },
+    {
+     "ref": "(2)",
+     "text": "If a question arises as to whether statutory instruments under any provision of an enactment are statutory instruments the Attorney-General may, by certificate in writing, decide the matter."
+    },
+    {
+     "ref": "(3)",
+     "text": "Every certificate issued under subsection (2) shall be published in the Gazette."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Commencement of statutory instrument",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) A statutory instrument shall come into operation on the date specified in that behalf in the statutory instrument or, if no date is so specified, then, subject to subsection (2), it shall come into operation on the date of its publication in the Gazette subject to annulment where applicable.\n(2) If a statutory instrument is made after the passing or making but before the coming into operation of the enabling legislation under which it is made, the statutory instrument, whether or not it is previously published, shall not come into operation before the date on which the enabling legislation comes into operation.\n(3) A statutory instrument may be made to operate retrospectively to any date not being earlier than the commencement of the enactment under which it is made but no person shall be liable to a penalty in respect of any contravention of a provision in an statutory instrument required to be published in the Gazette where the alleged contravention occurred before the publication unless the court is satisfied that before the alleged contravention the purport of the statutory instrument had been brought to that person’s notice.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A statutory instrument shall come into operation on the date specified in that behalf in the statutory instrument or, if no date is so specified, then, subject to subsection (2), it shall come into operation on the date of its publication in the Gazette subject to annulment where applicable."
+    },
+    {
+     "ref": "(2)",
+     "text": "If a statutory instrument is made after the passing or making but before the coming into operation of the enabling legislation under which it is made, the statutory instrument, whether or not it is previously published, shall not come into operation before the date on which the enabling legislation comes into operation."
+    },
+    {
+     "ref": "(3)",
+     "text": "A statutory instrument may be made to operate retrospectively to any date not being earlier than the commencement of the enactment under which it is made but no person shall be liable to a penalty in respect of any contravention of a provision in an statutory instrument required to be published in the Gazette where the alleged contravention occurred before the publication unless the court is satisfied that before the alleged contravention the purport of the statutory instrument had been brought to that person’s notice."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Exercise of powers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) Where any statutory instrument or appointment or any other thing purports to be made or done in exercise of a particular power, it shall be deemed also to be made or done in exercise of all powers thereunto enabling.\n(2) A statutory instrument shall not be inconsistent with the provisions of the enabling legislation, or of any Act, and the statutory instrument shall be void to the extent of the inconsistency.\n(3) Where an enactment confers a power to make a statutory instrument it shall be deemed also to include a power exercisable in the like manner and subject to the like conditions (if any) to amend, repeal or replace any the statutory instrument.\n(4) Where any enactment power is conferred on any person to make a statutory instrument or to do anything for any general purpose, and also for any special purposes incidental thereto, the enumeration of the special purposes shall not derogate from the generality of the general purpose.\n(5) There may be annexed to the breach of statutory instrument a penalty, not exceeding Kenya Shilling one million or such term of imprisonment not exceeding six months, or both, which the regulation making authority may think fit.\n[Act No. 17 of 2024, s. 4.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where any statutory instrument or appointment or any other thing purports to be made or done in exercise of a particular power, it shall be deemed also to be made or done in exercise of all powers thereunto enabling."
+    },
+    {
+     "ref": "(2)",
+     "text": "A statutory instrument shall not be inconsistent with the provisions of the enabling legislation, or of any Act, and the statutory instrument shall be void to the extent of the inconsistency."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where an enactment confers a power to make a statutory instrument it shall be deemed also to include a power exercisable in the like manner and subject to the like conditions (if any) to amend, repeal or replace any the statutory instrument."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where any enactment power is conferred on any person to make a statutory instrument or to do anything for any general purpose, and also for any special purposes incidental thereto, the enumeration of the special purposes shall not derogate from the generality of the general purpose."
+    },
+    {
+     "ref": "(5)",
+     "text": "There may be annexed to the breach of statutory instrument a penalty, not exceeding Kenya Shilling one million or such term of imprisonment not exceeding six months, or both, which the regulation making authority may think fit."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Fees and charges",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) A statutory instrument may provide for the imposition of fees and charges in respect of any matter with regard to which provision is made in the enabling legislation.\n(2) A power to impose fees or charges shall include power to provide for all or any of the following matters—\n  (a) specific fees or charges;\n  (b) minimum fees or charges;\n  (c) maximum fees or charges;\n  (d) ad valorem fees or charges;\n  (e) the payment of fees or charges either generally or under specified conditions or in specified circumstances; and\n  (f) the reduction, waiver or refund, in whole or in part, of any fees or charges, either upon the happening of a certain event or in the discretion of a specified person.\n(3) Where any reduction, waiver or refund, in whole or in part, of any fee or charge is provided for, such reduction, waiver or refund may be expressed to apply or to be applicable either generally or specifically—\n  (a) in respect of certain matters or transactions or classes of matters or transactions;\n  (b) in respect of certain documents or classes of documents;\n  (c) when any event happens or ceases to happen;\n  (d) in respect of certain persons or classes of persons; or\n  (e) in respect of any combination of such matters, transactions, documents, events or persons, and may be expressed to apply or to be applicable subject to such conditions as may be specified in the statutory instrument or in the discretion of any person specified therein.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A statutory instrument may provide for the imposition of fees and charges in respect of any matter with regard to which provision is made in the enabling legislation."
+    },
+    {
+     "ref": "(2)",
+     "text": "A power to impose fees or charges shall include power to provide for all or any of the following matters—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Where any reduction, waiver or refund, in whole or in part, of any fee or charge is provided for, such reduction, waiver or refund may be expressed to apply or to be applicable either generally or specifically—"
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Forms",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) Where an enabling legislation confers power on any person to prescribe any form, then unless that person prescribes such form, any form approved for the purpose by that person may be used.\n(2) Where any form has been prescribed by or under any legislation, a document or statutory instrument which purports to be in such form shall not be void by reason of any deviation there from which does not affect the substance thereof or which is not calculated to mislead.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where an enabling legislation confers power on any person to prescribe any form, then unless that person prescribes such form, any form approved for the purpose by that person may be used."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where any form has been prescribed by or under any legislation, a document or statutory instrument which purports to be in such form shall not be void by reason of any deviation there from which does not affect the substance thereof or which is not calculated to mislead."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "TRANSITION AND SAVING",
+   "text": "",
+   "clauses": []
+  },
+  "28": {
+   "num": "28",
+   "title": "Actions necessary after effective date",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "TRANSITION AND SAVING",
+   "text": "(1) Before the final announcement of all the results of the first election of Parliament as contemplated under section 2 of the Sixth Schedule to the Constitution, any reference to a Cabinet Secretary in this Act shall with necessary modifications be construed to mean a Cabinet Minister.\n(2) Where this Act requires a Cabinet Secretary to table or cause to be laid any statutory instrument after the effective date, it shall accordingly be the duty of the responsible Cabinet Secretary to transmit such statutory instrument to the office of the Clerk.\n(3) Upon receipt of such statutory instrument by the Clerk as envisaged under subsection (2), the Clerk shall within seven (7) days when Parliament is in session, cause the statutory instrument to be tabled before Parliament and the provisions of Part IV shall take effect.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Before the final announcement of all the results of the first election of Parliament as contemplated under section 2 of the Sixth Schedule to the Constitution, any reference to a Cabinet Secretary in this Act shall with necessary modifications be construed to mean a Cabinet Minister."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where this Act requires a Cabinet Secretary to table or cause to be laid any statutory instrument after the effective date, it shall accordingly be the duty of the responsible Cabinet Secretary to transmit such statutory instrument to the office of the Clerk."
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon receipt of such statutory instrument by the Clerk as envisaged under subsection (2), the Clerk shall within seven (7) days when Parliament is in session, cause the statutory instrument to be tabled before Parliament and the provisions of Part IV shall take effect."
+    }
+   ]
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 5A(3)]",
+   "subtitle": "EXPLANATORY MEMORANDUM",
+   "text": "EXPLANATORY MEMORANDUM TO THE [Title of Statutory instrument]\n[Year] No. [XXXX]\nPart I Name of the Statutory Instrument :\nName of the Parent Act :\nEnacted Pursuant to :\nName of the Ministry/ Department:\n:\nGazetted on :\nTabled on :\nPart II 1. Purpose of the Statutory instrument 1.1. [Free Text]\n2. Legislative Context 2.1 [Free Text]\n3. Policy Background • What is being done and why 3.1 [Free Text] • Consolidation 3.2 [Free Text]\n4. Consultation outcome 4.1 [Free Text]\n5. Guidance 5.1 [Free Text]\n6. Impact 6.1 The impact on Fundamental Rights and Freedoms [free text] 6.2 The impact on the Private Sector [free text] 6.3 The impact on the public sector [free text] 6.4 An impact assessment is attached to this memorandum or an impact assessment has not been prepared for this statutory instrument [free text]\n7. Monitoring and review 7.1 [Free text]\n8. Contact 8.1 [Name of Contact] and the [Name of the department] Tel: [Telephone Number] or email: [email address] can answer any queries regarding the statutory instrument.\nNOTES ON PREPARING EXPLANATORY MEMORANDA TO STATUTORY INSTRUMENTS The purpose of the Explanatory Memorandum (EM) is to provide to the lay reader plain English, self contained, explanation of the effect of the legislation and why it is necessary. In preparing the EM departments should ensure that they do not repeat the content of the Explanatory Note. The EM is not aimed at lawyers, but to help people who know nothing about the law or the subject quickly to gain an understanding of the statutory instrument’s intent and purpose. It can be helpful to produce a single EM for a group of linked statutory instruments (SIs). This prevents unnecessary duplication of common background and makes sure that the reader is aware of the linkage. It may be helpful to explain (usually in the policy section) the special features of each SI and how it contributes to the overall policy objective. A copy of the group EM should be attached to each of the individual SIs to which it relates. Where possible all the statutory instruments should be laid on the same day and numbered sequentially.\nThe numbering of the individual section headings is fixed, so the paragraphs that follow should be numbered as subparagraphs. Your explanation should be concise but comprehensive – the EM should not generally exceed 4 pages.\n1. Purpose of the statutory instrument In no more than 3 sentences please describe in Plain English what the statutory instrument does and why. Assume that the reader knows nothing about the subject and explain, or better avoid, acronyms and terms of art.\nThe legal powers under which the statutory instrument is made are generally irrelevant here, and in any case are set out in the statutory instrument itself.\n2. Legislative Context Paragraph(s) 4.1 onwards will be free text.\nThe power under which the statutory instrument is made will be clear from the statutory instrument itself and reference need not be made to the power unless there is a specific reason to do so, for example, if this is the first use of a power under an Act or the power is being used in a novel way. In these paragraphs you should explain why the statutory instrument is being made: for example, to implement a new Act or European obligation, to effect an annual uprating in line with inflation, or to amend the law following a significant court case.\nRelevant background information should be given to set the statutory instrument in context. Mention in particular—\n• if in the course of debate, parliamentary question or Committee appearance any specific undertakings were given to Parliament that relate to this instrument (including Hansard or report reference where relevant);\n• if this instrument relates to any other statutory instruments (i.e. it is one of a group), please cross reference;\n• if this statutory instrument paves the way for future statutory instruments it is helpful to indicate what they will do and when they are likely to appear.\n3. Policy Background Paragraph(s) 3.1 onwards will be free text.\n• What is being done and why Departments should state in particular:\n• the policy objectives of the parent Act/Directive and how this statutory instrument fulfils them;\n• the size and nature of the problem it is addressing;\n• the level of public interest in the policy, (for example from the response to consultation if undertaken, or from media attention);\n• whether the change is politically or legally important Departments should ensure that, although brief, explanation should start from the basic.\nDepartments should ensure that, although brief, explanation should start from the basic. The EM is aimed at the lay reader: not just at the committee on delegated legislation but also Members of Parliament. Don’t say \"this amends the XYZ scheme to open it to the under 18s\" without providing a sentence about what the XYZ scheme does. Please explain any acronyms or technical terms.\nThe EM should also make clear why the Government needs to legislate and what other avenues of attaining the desired objective (e.g. self-regulation through a voluntary code of practice) were explored and why they were rejected.\nFor \"Miscellaneous Amendments\" SIs, the EM should briefly address each of the broad areas covered. If there is no obvious structure offered by the format of the statutory instrument itself, one way of doing this is to break the Regulations down into associated groups.\n• Consolidation Where a statutory instrument amends another statutory instrument, particularly if not for the first time, the memorandum should indicate whether the department intends to consolidate the relevant legislation and if so, what the projected timescale for consolidation may be. If an informal consolidated text is available to the public for free then provide details of the website or other reference from where this can be obtained.\n4. Consultation outcome Paragraph(s) 4.1 onwards will be free text.\nThe EM should contain a brief explanation of who was consulted, over what period and with what responses. There should be some analysis of the outcome and the Department’s policy response to the opinions expressed (e.g. \"60% supported the proposal, of the rest, the main objections were on the proposed fee structure and the Department has responded to this by agreeing to phase in the increase over 3 years\").\n5. Guidance Paragraph(s) 5.1 onwards will be free text.\nThe memorandum should set out what guidance or other form of publicity, if any, the department is providing to users and stakeholders and enforcement agencies to explain the new obligation and to ensure that it is fulfilled. This is particularly important where a regulation is legally complex, for example a serial amendment or the implementation of a European obligation by multi-level cross-reference to European statutory instruments.\nWhere the guidance is essential to understanding how the statutory instrument will operate, but is not itself subject to Parliamentary scrutiny, please send copies to the libraries of both Houses at the same time the SI is laid.\n6. Impact Paragraphs 6.1, 6.2 and 6.3 should be completed.\nParagraph 6.4 – One of the two options shall be selected.\nNote: Where an Impact Assessment has been prepared then this should be attached as an Annex. There is no need to duplicate the information. If you are recycling the IA prepared for an Act which this statutory instrument helps implement, please only include the relevant extracts and confirm in the EM that the figures are still up to date. If no IA has been prepared please confirm that this is because no impact on the private or voluntary sector is foreseen and simply mention any public sector impacts.\n7. Monitoring and review Paragraph(s) 7.1 onwards are free text.\nWhat are the success criteria for this statutory instrument? Where possible please define the intended outcome in measurable terms e.g. the changes in the fee structure aim to achieve full cost recovery of the process of issuing and administering this licence by April 2010, or the changes set out in this statutory instrument aim to reduce identity theft by 10% over the next 3 years.\nWhen and how will they be reviewed? State who will review the outcome, when and how the results will be published. For example:\nThe outcome will be subject to internal review after 12 months and the legislation may be amended accordingly or The University of Nairobi has conducted a benchmark study and will review the position again in 3 years; a report will be published towards the end of 2012.\nWhere this material has already been included in the IA, please include the headline answers in the EM and cross refer to further detail in the IA (specifying the relevant paragraph or page).\n8. Contact All details shall be completed on the copies provided for Parliament. The contact phone number given should be covered by someone who is able to answer questions on the statutory instrument for at least 3 weeks after the statutory instrument has been laid.\nDisclaimer:\nThis notes acts only as a guideline and as such they are not exhaustive and for clarity proper reference should be made to the main body of the Act."
+  }
+ ]
+}

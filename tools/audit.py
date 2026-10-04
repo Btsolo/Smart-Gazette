@@ -144,6 +144,35 @@ def check_key_fields(samples):
                     '%d checked, %d unusable as a key' % (len(parcels), bad)))
     return out
 
+def check_escapes():
+    """Escapes lost on the way into a source file: in Java "\\s" is a regex escape
+    only when written "\\\\s" - a single "\\s" compiles silently to a space (Java 15+);
+    a backspace byte in a .py / .js / .java file is a lost "\\b". Both happened
+    (LawReferenceService, 4 Oct 2026)."""
+    bs = chr(92)
+    REPO = os.path.dirname(HERE)
+    out = []
+    java = glob.glob(os.path.join(REPO, 'src', '**', '*.java'), recursive=True)
+    for f in java:
+        s = open(f, encoding='utf-8').read()
+        for m in re.finditer(r'"(?:[^"\\\n]|\\.)*"', s):
+            lit, i = m.group(0), 0
+            while i < len(lit):
+                if lit[i] == bs:
+                    if i + 1 < len(lit) and lit[i + 1] in 'sdwSDW':
+                        out.append(('%s:%d single-backslash regex escape %s' % (os.path.relpath(f, REPO),
+                                    s[:m.start()].count('\n') + 1, lit[:60]), 'ERROR'))
+                    i += 2
+                else:
+                    i += 1
+    for f in java + glob.glob(os.path.join(HERE, '*.py')) + glob.glob(os.path.join(HERE, '*.js')):
+        if chr(8) in open(f, encoding='utf-8', errors='replace').read():
+            out.append(('%s contains a backspace character (a lost \\b)' % os.path.relpath(f, REPO), 'ERROR'))
+    if not out:
+        out.append(('java regex escapes and backspace bytes: %d source files clean' % len(java), 'ok'))
+    return out
+
+
 def behavioural():
     P, L, C = load('probate_template'), load('land_template'), load('corrigenda_template')
     cases = [
@@ -533,6 +562,11 @@ if __name__ == '__main__':
 
     print('\n== 6. behavioural ==')
     for lbl, sev, _ in behavioural():
+        print('  %-5s %s' % (sev, lbl))
+        if sev == 'ERROR': fail += 1
+
+    print('\n== 7. source escapes ==')
+    for lbl, sev in check_escapes():
         print('  %-5s %s' % (sev, lbl))
         if sev == 'ERROR': fail += 1
 

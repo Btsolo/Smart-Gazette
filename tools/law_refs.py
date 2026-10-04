@@ -22,11 +22,18 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 REF = os.path.join(REPO, 'src', 'main', 'resources', 'reference')
 
-# law key -> how notices name it (whitespace-tolerant: the joiner glues words)
-LAW_NAMES = {
-    'constitution':           r'(?:this\s*|the\s*)?Constitution(?:\s*of\s*Kenya)?',
-    'county_governments_act': r'(?:the\s*)?County\s*Governments?\s*Act',
-}
+# law key -> how notices name it (whitespace-tolerant: the joiner glues words),
+# from the catalog reference/laws.json (tools/build_law_reference.py pdfs). The
+# longest names are tried first, so "the Land Registration Act" is never read
+# as a shorter title.
+def _load_names():
+    cat = json.load(open(os.path.join(REF, 'laws.json'), encoding='utf-8'))['laws']
+    pairs = [(l['key'], n) for l in cat for n in l['names']]
+    pairs.sort(key=lambda kv: -len(kv[1]))
+    return pairs
+
+
+LAW_NAMES = _load_names()
 
 _NUM = r'\d+[A-Z]?(?:\s*\(\s*[0-9a-z]{1,4}\s*\))*'
 # "Article 179 (2) (b)", "Articles 10, 27 and 232", "sections 30 (2) and 45"
@@ -47,8 +54,8 @@ def law(key):
 
 
 def which_law(text, kind):
-    for key, pat in LAW_NAMES.items():
-        if re.match(r'\s*' + pat, text, re.I):
+    for key, pat in LAW_NAMES:
+        if re.match(r'\s*' + pat + r'\b', text, re.I):
             return key
     # an Act we do not hold: return its name for the coverage report
     m = re.match(r"\s*(?:the\s+)?((?:[A-Z][A-Za-z'\-]*\s+){1,9}?Act)\b", text)
