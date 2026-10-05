@@ -38,6 +38,90 @@
    ]
   },
   {
+   "key": "animal_diseases_act",
+   "title": "Animal Diseases Act",
+   "citation": "Cap. 364",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1965/4/eng@2022-12-31",
+   "provisions": 24,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Animal\\s*Diseases\\s*Act"
+   ]
+  },
+  {
+   "key": "anti_counterfeit_act",
+   "title": "Anti-Counterfeit Act",
+   "citation": "Cap. 510",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2008/13/eng@2022-12-31",
+   "provisions": 39,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Anti[\\s-]*Counterfeit\\s*Act"
+   ]
+  },
+  {
+   "key": "appellate_jurisdiction_act",
+   "title": "Appellate Jurisdiction Act",
+   "citation": "Cap. 9",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1977/15/eng@2022-12-31",
+   "provisions": 11,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Appellate\\s*Jurisdiction\\s*Act"
+   ]
+  },
+  {
+   "key": "auctioneers_act",
+   "title": "Auctioneers Act",
+   "citation": "Cap. 526",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1996/5/eng@2022-12-31",
+   "provisions": 39,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Auctioneers\\s*Act"
+   ]
+  },
+  {
+   "key": "banking_act",
+   "title": "Banking Act",
+   "citation": "Cap. 488",
+   "version_date": "2024-12-27",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1989/9/eng@2024-12-27",
+   "provisions": 85,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Banking\\s*Act"
+   ]
+  },
+  {
+   "key": "capital_markets_act",
+   "title": "Capital Markets Act",
+   "citation": "Cap. 485A",
+   "version_date": "2025-12-11",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1989/17/eng@2025-12-11",
+   "provisions": 118,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Capital\\s*Markets\\s*Act"
+   ]
+  },
+  {
+   "key": "children_act",
+   "title": "Children Act",
+   "citation": "Cap. 141",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2022/29/eng@2022-12-31",
+   "provisions": 250,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Children\\s*Act"
+   ]
+  },
+  {
    "key": "civil_procedure_act",
    "title": "Civil Procedure Act",
    "citation": "Cap. 21",
@@ -47,6 +131,30 @@
    "missing_sections": [],
    "names": [
     "(?:the\\s*)?Civil\\s*Procedure\\s*Act"
+   ]
+  },
+  {
+   "key": "clinical_officers_training_registration_and_licensing_act",
+   "title": "Clinical Officers (Training, Registration and Licensing) Act",
+   "citation": "Cap. 253E",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2017/20/eng@2022-12-31",
+   "provisions": 35,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Clinical\\s*Officers\\s*\\(Training,\\s*Registration\\s*and\\s*Licensing\\)\\s*Act"
+   ]
+  },
+  {
+   "key": "coffee_act",
+   "title": "Coffee Act",
+   "citation": "Act No. 8 of 2026",
+   "version_date": "2026-03-27",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2026/8/eng@2026-03-27",
+   "provisions": 107,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Coffee\\s*Act"
    ]
   },
   {
@@ -74,6 +182,18 @@
    ]
   },
   {
+   "key": "conflict_of_interest_act",
+   "title": "Conflict of Interest Act",
+   "citation": "Act No. 11 of 2025",
+   "version_date": "2025-08-05",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2025/11/eng@2025-08-05",
+   "provisions": 53,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Conflict\\s*of\\s*Interest\\s*Act"
+   ]
+  },
+  {
    "key": "cooperative_societies_act",
    "title": "Co-operative Societies Act",
    "citation": "Cap. 490",
@@ -83,6 +203,30 @@
    "missing_sections": [],
    "names": [
     "(?:the\\s*)?Co[\\s-]*operative\\s*Societies\\s*Act"
+   ]
+  },
+  {
+   "key": "copyright_act",
+   "title": "Copyright Act",
+   "citation": "Cap. 130",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2001/12/eng@2022-12-31",
+   "provisions": 76,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Copyright\\s*Act"
+   ]
+  },
+  {
+   "key": "counsellors_and_psychologists_act",
+   "title": "Counsellors and Psychologists Act",
+   "citation": "Cap. 253C",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2014/14/eng@2022-12-31",
+   "provisions": 46,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Counsellors\\s*and\\s*Psychologists\\s*Act"
    ]
   },
   {
@@ -107,6 +251,20 @@
    "missing_sections": [],
    "names": [
     "(?:the\\s*)?County\\s*Assembly\\s*Services\\s*Act"
+   ]
+  },
+  {
+   "key": "criminal_procedure_code",
+   "title": "Criminal Procedure Code",
+   "citation": "Cap. 75",
+   "version_date": "2023-12-11",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1930/11/eng@2023-12-11",
+   "provisions": 426,
+   "missing_sections": [
+    "302"
+   ],
+   "names": [
+    "(?:the\\s*)?Criminal\\s*Procedure\\s*Code"
    ]
   },
   {
@@ -139,16 +297,14 @@
    "citation": "No. 1 of 2005",
    "version_date": "2008-12-08",
    "source_url": null,
-   "provisions": 215,
+   "provisions": 245,
    "missing_sections": [
     "72",
-    "123",
     "160",
     "161",
     "183",
     "184",
     "185",
-    "194",
     "228",
     "229"
    ],
@@ -190,6 +346,129 @@
    "missing_sections": [],
    "names": [
     "(?:the\\s*)?Environmental\\s*Management\\s*and\\s*Co[\\s-]*ordination\\s*Act"
+   ]
+  },
+  {
+   "key": "estate_duty_abolition_act",
+   "title": "Estate Duty (Abolition) Act",
+   "citation": "Act No. 10 of 1982",
+   "version_date": "1982-06-28",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1982/10/eng@1982-06-28",
+   "provisions": 2,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Estate\\s*Duty\\s*\\(Abolition\\)\\s*Act"
+   ]
+  },
+  {
+   "key": "evidence_act",
+   "title": "Evidence Act",
+   "citation": "Cap. 80",
+   "version_date": "2023-12-11",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1963/46/eng@2023-12-11",
+   "provisions": 199,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Evidence\\s*Act"
+   ]
+  },
+  {
+   "key": "excise_duty_act",
+   "title": "Excise Duty Act",
+   "citation": "Cap. 472",
+   "version_date": "2025-07-01",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2015/23/eng@2025-07-01",
+   "provisions": 48,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Excise\\s*Duty\\s*Act"
+   ]
+  },
+  {
+   "key": "export_processing_zones_act",
+   "title": "Export Processing Zones Act",
+   "citation": "Cap. 517",
+   "version_date": "2023-07-01",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1990/12/eng@2023-07-01",
+   "provisions": 35,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Export\\s*Processing\\s*Zones\\s*Act"
+   ]
+  },
+  {
+   "key": "food_and_feed_safety_control_co_ordination_act",
+   "title": "Food and Feed Safety Control Co-ordination Act",
+   "citation": "Act No. 21 of 2026",
+   "version_date": "2026-06-26",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2026/21/eng@2026-06-26",
+   "provisions": 34,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Food\\s*and\\s*Feed\\s*Safety\\s*Control\\s*Co[\\s-]*ordination\\s*Act"
+   ]
+  },
+  {
+   "key": "gambling_control_act",
+   "title": "Gambling Control Act",
+   "citation": "Act No. 14 of 2025",
+   "version_date": "2025-08-12",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2025/14/eng@2025-08-12",
+   "provisions": 123,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Gambling\\s*Control\\s*Act"
+   ]
+  },
+  {
+   "key": "government_owned_enterprises_act",
+   "title": "Government Owned Enterprises Act",
+   "citation": "Act No. 25 of 2025",
+   "version_date": "2025-11-27",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2025/25/eng@2025-11-27",
+   "provisions": 40,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Government\\s*Owned\\s*Enterprises\\s*Act"
+   ]
+  },
+  {
+   "key": "health_records_and_information_managers_act",
+   "title": "Health Records and Information Managers Act",
+   "citation": "Cap. 539",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2016/15/eng@2022-12-31",
+   "provisions": 42,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Health\\s*Records\\s*and\\s*Information\\s*Managers\\s*Act"
+   ]
+  },
+  {
+   "key": "hire_purchase_act",
+   "title": "Hire-Purchase Act",
+   "citation": "Cap. 507",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1968/42/eng@2022-12-31",
+   "provisions": 36,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Hire[\\s-]*Purchase\\s*Act"
+   ]
+  },
+  {
+   "key": "income_tax_act",
+   "title": "Income Tax Act",
+   "citation": "Cap. 470",
+   "version_date": "2026-07-01",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1973/16/eng@2026-07-01",
+   "provisions": 190,
+   "missing_sections": [
+    "86",
+    "92"
+   ],
+   "names": [
+    "(?:the\\s*)?Income\\s*Tax\\s*Act"
    ]
   },
   {
@@ -241,6 +520,18 @@
    ]
   },
   {
+   "key": "judicature_act",
+   "title": "Judicature Act",
+   "citation": "Cap. 8",
+   "version_date": "2023-12-11",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1967/16/eng@2023-12-11",
+   "provisions": 11,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Judicature\\s*Act"
+   ]
+  },
+  {
    "key": "judicial_service_act",
    "title": "Judicial Service Act",
    "citation": "Cap. 8A",
@@ -263,6 +554,54 @@
    "names": [
     "(?:the\\s*)?Kenya\\s*Information\\s*and\\s*Communications\\s*Act",
     "(?:the\\s*)?Kenya\\s*Communications\\s*Act"
+   ]
+  },
+  {
+   "key": "kenya_maritime_authority_act",
+   "title": "Kenya Maritime Authority Act",
+   "citation": "Cap. 370",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2006/5/eng@2022-12-31",
+   "provisions": 26,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Kenya\\s*Maritime\\s*Authority\\s*Act"
+   ]
+  },
+  {
+   "key": "kenya_medical_supplies_authority_act",
+   "title": "Kenya Medical Supplies Authority Act",
+   "citation": "Cap. 260",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2013/20/eng@2022-12-31",
+   "provisions": 24,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Kenya\\s*Medical\\s*Supplies\\s*Authority\\s*Act"
+   ]
+  },
+  {
+   "key": "kenya_medical_training_college_act",
+   "title": "Kenya Medical Training College Act",
+   "citation": "Cap. 261",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1990/14/eng@2022-12-31",
+   "provisions": 23,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Kenya\\s*Medical\\s*Training\\s*College\\s*Act"
+   ]
+  },
+  {
+   "key": "kenya_revenue_authority_act",
+   "title": "Kenya Revenue Authority Act",
+   "citation": "Cap. 469",
+   "version_date": "2026-07-24",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1995/2/eng@2026-07-24",
+   "provisions": 30,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Kenya\\s*Revenue\\s*Authority\\s*Act"
    ]
   },
   {
@@ -314,6 +653,18 @@
    ]
   },
   {
+   "key": "land_adjudication_act",
+   "title": "Land Adjudication Act",
+   "citation": "Cap. 284",
+   "version_date": "2023-12-11",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1968/35/eng@2023-12-11",
+   "provisions": 38,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Land\\s*Adjudication\\s*Act"
+   ]
+  },
+  {
    "key": "land_registration_act",
    "title": "Land Registration Act",
    "citation": "Cap. 300",
@@ -323,6 +674,66 @@
    "missing_sections": [],
    "names": [
     "(?:the\\s*)?Land\\s*Registration\\s*Act"
+   ]
+  },
+  {
+   "key": "law_of_contract_act",
+   "title": "Law of Contract Act",
+   "citation": "Cap. 23",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1960/43/eng@2022-12-31",
+   "provisions": 4,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Law\\s*of\\s*Contract\\s*Act"
+   ]
+  },
+  {
+   "key": "legal_education_act",
+   "title": "Legal Education Act",
+   "citation": "Cap. 16B",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2012/27/eng@2022-12-31",
+   "provisions": 50,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Legal\\s*Education\\s*Act"
+   ]
+  },
+  {
+   "key": "limitation_of_actions_act",
+   "title": "Limitation of Actions Act",
+   "citation": "Cap. 22",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1968/21/eng@2022-12-31",
+   "provisions": 46,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Limitation\\s*of\\s*Actions\\s*Act"
+   ]
+  },
+  {
+   "key": "marriage_act",
+   "title": "Marriage Act",
+   "citation": "Cap. 150",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2014/4/eng@2022-12-31",
+   "provisions": 98,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Marriage\\s*Act"
+   ]
+  },
+  {
+   "key": "medical_practitioners_and_dentists_act",
+   "title": "Medical Practitioners and Dentists Act",
+   "citation": "Cap. 253",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1977/20/eng@2022-12-31",
+   "provisions": 35,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Medical\\s*Practitioners\\s*and\\s*Dentists\\s*Act"
    ]
   },
   {
@@ -350,6 +761,105 @@
    ]
   },
   {
+   "key": "miscellaneous_fees_and_levies_act",
+   "title": "Miscellaneous Fees and Levies Act",
+   "citation": "Cap. 469C",
+   "version_date": "2026-07-01",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2016/29/eng@2026-07-01",
+   "provisions": 17,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Miscellaneous\\s*Fees\\s*and\\s*Levies\\s*Act"
+   ]
+  },
+  {
+   "key": "narcotic_drugs_and_psychotropic_substances_control_act",
+   "title": "Narcotic Drugs and Psychotropic Substances (Control) Act",
+   "citation": "Cap. 245",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1994/4/eng@2022-12-31",
+   "provisions": 98,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Narcotic\\s*Drugs\\s*and\\s*Psychotropic\\s*Substances\\s*\\(Control\\)\\s*Act"
+   ]
+  },
+  {
+   "key": "national_accord_and_reconciliation_act",
+   "title": "National Accord and Reconciliation Act, 2008",
+   "citation": "No. 4 of 2008",
+   "version_date": "2008-03-20",
+   "source_url": null,
+   "provisions": 7,
+   "missing_sections": [
+    "1",
+    "5"
+   ],
+   "names": [
+    "(?:the\\s*)?National\\s*Accord\\s*and\\s*Reconciliation\\s*Act"
+   ]
+  },
+  {
+   "key": "national_assembly_remuneration_act",
+   "title": "National Assembly Remuneration Act",
+   "citation": "Cap. 5",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1975/9/eng@2022-12-31",
+   "provisions": 8,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?National\\s*Assembly\\s*Remuneration\\s*Act"
+   ]
+  },
+  {
+   "key": "national_construction_authority_act",
+   "title": "National Construction Authority Act",
+   "citation": "Cap. 118",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2011/41/eng@2022-12-31",
+   "provisions": 44,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?National\\s*Construction\\s*Authority\\s*Act"
+   ]
+  },
+  {
+   "key": "national_council_for_law_reporting_act",
+   "title": "National Council for Law Reporting Act",
+   "citation": "Cap. 19A",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1994/11/eng@2022-12-31",
+   "provisions": 22,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?National\\s*Council\\s*for\\s*Law\\s*Reporting\\s*Act"
+   ]
+  },
+  {
+   "key": "national_crime_research_centre_act",
+   "title": "National Crime Research Centre Act",
+   "citation": "Cap. 62",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1997/4/eng@2022-12-31",
+   "provisions": 22,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?National\\s*Crime\\s*Research\\s*Centre\\s*Act"
+   ]
+  },
+  {
+   "key": "national_gender_and_equality_commission_act",
+   "title": "National Gender and Equality Commission Act",
+   "citation": "Cap. 7K",
+   "version_date": "2023-12-11",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2011/15/eng@2023-12-11",
+   "provisions": 59,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?National\\s*Gender\\s*and\\s*Equality\\s*Commission\\s*Act"
+   ]
+  },
+  {
    "key": "national_police_service_act",
    "title": "National Police Service Act",
    "citation": "Cap. 84",
@@ -359,6 +869,18 @@
    "missing_sections": [],
    "names": [
     "(?:the\\s*)?National\\s*Police\\s*Service\\s*Act"
+   ]
+  },
+  {
+   "key": "nurses_and_midwives_act",
+   "title": "Nurses and Midwives Act",
+   "citation": "Cap. 257",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1983/3/eng@2022-12-31",
+   "provisions": 33,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Nurses\\s*and\\s*Midwives\\s*Act"
    ]
   },
   {
@@ -374,6 +896,42 @@
    ]
   },
   {
+   "key": "penal_code",
+   "title": "Penal Code",
+   "citation": "Cap. 63",
+   "version_date": "2023-12-11",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1930/10/eng@2023-12-11",
+   "provisions": 416,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Penal\\s*Code"
+   ]
+  },
+  {
+   "key": "perpetuities_and_accumulations_act",
+   "title": "Perpetuities and Accumulations Act",
+   "citation": "Cap. 161",
+   "version_date": "2022-03-21",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1984/6/eng@2022-03-21",
+   "provisions": 25,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Perpetuities\\s*and\\s*Accumulations\\s*Act"
+   ]
+  },
+  {
+   "key": "pharmacy_and_poisons_act",
+   "title": "Pharmacy and Poisons Act",
+   "citation": "Cap. 244",
+   "version_date": "2023-12-11",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1956/17/eng@2023-12-11",
+   "provisions": 77,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Pharmacy\\s*and\\s*Poisons\\s*Act"
+   ]
+  },
+  {
    "key": "physical_and_land_use_planning_act",
    "title": "Physical and Land Use Planning Act",
    "citation": "Cap. 303",
@@ -383,6 +941,18 @@
    "missing_sections": [],
    "names": [
     "(?:the\\s*)?Physical\\s*and\\s*Land\\s*Use\\s*Planning\\s*Act"
+   ]
+  },
+  {
+   "key": "physiotherapists_act",
+   "title": "Physiotherapists Act",
+   "citation": "Cap. 253D",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2014/20/eng@2022-12-31",
+   "provisions": 39,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Physiotherapists\\s*Act"
    ]
   },
   {
@@ -398,6 +968,54 @@
    ]
   },
   {
+   "key": "prevention_protection_and_assistance_to_internally_displaced_persons_and_affected_communities_act",
+   "title": "Prevention, Protection and Assistance to Internally Displaced Persons and Affected Communities Act",
+   "citation": "Cap. 134A",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2012/56/eng@2022-12-31",
+   "provisions": 25,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Prevention,\\s*Protection\\s*and\\s*Assistance\\s*to\\s*Internally\\s*Displaced\\s*Persons\\s*and\\s*Affected\\s*Communities\\s*Act"
+   ]
+  },
+  {
+   "key": "prevention_of_cruelty_to_animals_act",
+   "title": "Prevention of Cruelty to Animals Act",
+   "citation": "Cap. 360",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1962/42/eng@2022-12-31",
+   "provisions": 38,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Prevention\\s*of\\s*Cruelty\\s*to\\s*Animals\\s*Act"
+   ]
+  },
+  {
+   "key": "prevention_of_fraud_investments_act",
+   "title": "Prevention of Fraud (Investments) Act",
+   "citation": "Cap. 59C",
+   "version_date": "2023-12-11",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1977/1/eng@2023-12-11",
+   "provisions": 28,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Prevention\\s*of\\s*Fraud\\s*\\(Investments\\)\\s*Act"
+   ]
+  },
+  {
+   "key": "prevention_of_terrorism_act",
+   "title": "Prevention of Terrorism Act",
+   "citation": "Cap. 59B",
+   "version_date": "2025-06-20",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2012/30/eng@2025-06-20",
+   "provisions": 81,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Prevention\\s*of\\s*Terrorism\\s*Act"
+   ]
+  },
+  {
    "key": "proceeds_of_crime_and_anti_money_laundering_act",
    "title": "Proceeds of Crime and Anti-Money Laundering Act",
    "citation": "Cap. 59A",
@@ -407,6 +1025,42 @@
    "missing_sections": [],
    "names": [
     "(?:the\\s*)?Proceeds\\s*of\\s*Crime\\s*and\\s*Anti[\\s-]*Money\\s*Laundering\\s*Act"
+   ]
+  },
+  {
+   "key": "protection_of_aircraft_act",
+   "title": "Protection of Aircraft Act",
+   "citation": "Cap. 68",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1970/18/eng@2022-12-31",
+   "provisions": 13,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Protection\\s*of\\s*Aircraft\\s*Act"
+   ]
+  },
+  {
+   "key": "public_audit_act",
+   "title": "Public Audit Act",
+   "citation": "Cap. 412B",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2015/34/eng@2022-12-31",
+   "provisions": 73,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Public\\s*Audit\\s*Act"
+   ]
+  },
+  {
+   "key": "public_benefits_organizations_act",
+   "title": "Public Benefits Organizations Act",
+   "citation": "Act No. 18 of 2013",
+   "version_date": "2025-06-20",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2013/18/eng@2025-06-20",
+   "provisions": 72,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Public\\s*Benefits\\s*Organizations\\s*Act"
    ]
   },
   {
@@ -431,6 +1085,78 @@
    "missing_sections": [],
    "names": [
     "(?:the\\s*)?Public\\s*Procurement\\s*and\\s*Asset\\s*Disposal\\s*Act"
+   ]
+  },
+  {
+   "key": "registration_of_documents_act",
+   "title": "Registration of Documents Act",
+   "citation": "Cap. 285",
+   "version_date": "2026-09-25",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1902/26/eng@2026-09-25",
+   "provisions": 40,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Registration\\s*of\\s*Documents\\s*Act"
+   ]
+  },
+  {
+   "key": "retirement_benefits_act",
+   "title": "Retirement Benefits Act",
+   "citation": "Cap. 197",
+   "version_date": "2025-06-20",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1997/3/eng@2025-06-20",
+   "provisions": 73,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Retirement\\s*Benefits\\s*Act"
+   ]
+  },
+  {
+   "key": "sexual_offences_act",
+   "title": "Sexual Offences Act",
+   "citation": "Cap. 63A",
+   "version_date": "2024-04-26",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2006/3/eng@2024-04-26",
+   "provisions": 52,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Sexual\\s*Offences\\s*Act"
+   ]
+  },
+  {
+   "key": "social_health_insurance_act",
+   "title": "Social Health Insurance Act",
+   "citation": "Act No. 16 of 2023",
+   "version_date": "2023-11-24",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2023/16/eng@2023-11-24",
+   "provisions": 55,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Social\\s*Health\\s*Insurance\\s*Act"
+   ]
+  },
+  {
+   "key": "societies_act",
+   "title": "Societies Act",
+   "citation": "Cap. 108",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1968/4/eng@2022-12-31",
+   "provisions": 55,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Societies\\s*Act"
+   ]
+  },
+  {
+   "key": "stamp_duty_act",
+   "title": "Stamp Duty Act",
+   "citation": "Cap. 480",
+   "version_date": "2026-07-01",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1958/31/eng@2026-07-01",
+   "provisions": 126,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Stamp\\s*Duty\\s*Act"
    ]
   },
   {
@@ -470,6 +1196,30 @@
    ]
   },
   {
+   "key": "survey_act",
+   "title": "Survey Act",
+   "citation": "Cap. 299",
+   "version_date": "2022-12-31",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1961/25/eng@2022-12-31",
+   "provisions": 47,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Survey\\s*Act"
+   ]
+  },
+  {
+   "key": "tax_procedures_act",
+   "title": "Tax Procedures Act",
+   "citation": "Cap. 469B",
+   "version_date": "2026-09-01",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2015/29/eng@2026-09-01",
+   "provisions": 145,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Tax\\s*Procedures\\s*Act"
+   ]
+  },
+  {
    "key": "teachers_service_commission_act",
    "title": "Teachers Service Commission Act",
    "citation": "Cap. 212",
@@ -491,6 +1241,42 @@
    "missing_sections": [],
    "names": [
     "(?:the\\s*)?Technical\\s*and\\s*Vocational\\s*Education\\s*and\\s*Training\\s*Act"
+   ]
+  },
+  {
+   "key": "traffic_act",
+   "title": "Traffic Act",
+   "citation": "Cap. 403",
+   "version_date": "2024-04-26",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1953/39/eng@2024-04-26",
+   "provisions": 153,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Traffic\\s*Act"
+   ]
+  },
+  {
+   "key": "trespass_act",
+   "title": "Trespass Act",
+   "citation": "Cap. 294",
+   "version_date": "1963-12-12",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/1962/48/eng@1963-12-12",
+   "provisions": 12,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Trespass\\s*Act"
+   ]
+  },
+  {
+   "key": "trust_administration_act",
+   "title": "Trust Administration Act, 2026",
+   "citation": "No. 28 of 2026",
+   "version_date": "2026-09-25",
+   "source_url": null,
+   "provisions": 99,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Trust\\s*Administration\\s*Act"
    ]
   },
   {
@@ -530,6 +1316,18 @@
    ]
   },
   {
+   "key": "value_added_tax_act",
+   "title": "Value Added Tax Act",
+   "citation": "Cap. 476",
+   "version_date": "2026-07-01",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2013/35/eng@2026-07-01",
+   "provisions": 71,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Value\\s*Added\\s*Tax\\s*Act"
+   ]
+  },
+  {
    "key": "valuers_act",
    "title": "Valuers Act",
    "citation": "Cap. 532",
@@ -539,6 +1337,30 @@
    "missing_sections": [],
    "names": [
     "(?:the\\s*)?Valuers\\s*Act"
+   ]
+  },
+  {
+   "key": "vetting_of_judges_and_magistrates_act",
+   "title": "Vetting of Judges and Magistrates Act",
+   "citation": "Act No. 2 of 2011",
+   "version_date": "2023-12-11",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2011/2/eng@2023-12-11",
+   "provisions": 33,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Vetting\\s*of\\s*Judges\\s*and\\s*Magistrates\\s*Act"
+   ]
+  },
+  {
+   "key": "virtual_asset_service_providers_act",
+   "title": "Virtual Asset Service Providers Act",
+   "citation": "Act No. 20 of 2025",
+   "version_date": "2025-11-04",
+   "source_url": "https://new.kenyalaw.org/akn/ke/act/2025/20/eng@2025-11-04",
+   "provisions": 45,
+   "missing_sections": [],
+   "names": [
+    "(?:the\\s*)?Virtual\\s*Asset\\s*Service\\s*Providers\\s*Act"
    ]
   },
   {

@@ -717,5 +717,6 @@
    "clauses": []
   }
  },
- "schedules": []
+ "schedules": [],
+ "spent": {}
 }

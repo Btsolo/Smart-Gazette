@@ -1,0 +1,961 @@
+{
+ "title": "Government Owned Enterprises Act",
+ "citation": "Act No. 25 of 2025",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2025/25/eng@2025-11-27",
+ "version_date": "2025-11-27",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "GOVERNMENT OWNED ENTERPRISES ACT NO. 25 OF 2025 Published in Kenya Gazette on 27 November 2025 Assented to on 21 November 2025 Commenced on 5 December 2025 by The Government Owned Enterprise Act Commencement, 2025 AN ACT of Parliament to provide for the establishment, control, governance, performance and ownership of Government Owned Enterprises; public service obligations in respect of Government Owned Enterprises; facilitate the reconstitution of existing Government Owned Enterprises into public limited liability companies for the transfer of the assets, liabilities and the business of the Government Owned Enterprises to companies and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "PROCEDURE AND CRITERIA FOR ESTABLISHING A GOVERNMENT OWNED ENTERPRISE",
+   "provisions": [
+    "7",
+    "8",
+    "9"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "provisions": [
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "PERFORMANCE",
+   "provisions": [
+    "26",
+    "27",
+    "28"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "PUBLIC SERVICE OBLIGATIONS",
+   "provisions": [
+    "29",
+    "30",
+    "31"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "REPORTING AND DISCLOSURE",
+   "provisions": [
+    "32",
+    "33",
+    "34"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "PROVISIONS ON DELEGATED POWERS",
+   "provisions": [
+    "35"
+   ]
+  },
+  {
+   "id": "part_VIII",
+   "num": "VIII",
+   "title": "GENERAL PROVISIONS",
+   "provisions": [
+    "36",
+    "37",
+    "38",
+    "39",
+    "40"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title and commencement",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Government Owned Enterprises Act, 2025 and shall come into operation on such day as the Cabinet Secretary for the National Treasury may, by notice in the Gazette, appoint.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— “Board’ means the Board of a Government Owned Enterprise constituted in accordance with section 10; “Cabinet Secretary” means the Cabinet Secretary of the National Treasury; “Chairperson” means a Chairperson of a Board of a Government Owned Enterprise appointed in accordance with section 10(2); “Chief Executive Officer” means a person appointed in accordance with section 22; “independent director” means an independent director of a Board of a Government Owned Enterprise appointed in accordance with section 10(3); “Government” means the national government; “Government Owned Enterprise” means a company which—\n  (a) is a legal person under the ownership and control of the national government;\n  (b) the national government or national government entity is a shareholder with more than fifty percent of the share capital of the company;\n  (c) has been assigned financial and operational powers to carry on a business activity;\n  (d) as its main business, supplies goods or services in accordance with ordinary commercial principles;\nand (e) is financed wholly or substantially from sources that do not require annual appropriation by National Assembly, or imposition of a tax, levy or other charge under legislation. “relevant Cabinet Secretary” means the Cabinet Secretary for the time being responsible for the sector under which the business of the Government Owned Enterprise falls; “relevant Ministry” means the Ministry for the time being responsible for the sector under which the business of the Government Owned Enterprise falls; and “public service obligation” means an obligation assigned to a Government Owned Enterprise to undertake activities that the Board of a Government Owned Enterprise establishes to the satisfaction of the Cabinet Secretary for the National Treasury—\n  (a) are not in the commercial interests of the Government Owned Enterprise to perform;\n  (b) arise because of a direction, notification or duty to the public by the Government Owned Enterprise;\n  (c) do not arise because of the application of the commercial principles; and\n  (d) require a subsidy, or full funding, by means of budgetary resources to sustain them.",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Objects",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The object of this Act is to—\n  (a) establish an ownership regime and legal framework for better performance of Government Owned Enterprises and effective creation of value for the public;\n  (b) establish governance structures that facilitate achievement of commercial objectives of Government Owned Enterprises;\n  (c) enhance accountability and appropriate incentives for Government Owned Enterprises to operate on commercial principles;\n  (d) establish a transparent accounting and funding structure that does not interfere with commercial objectives of the Government Owned Enterprises;\n  (e) provide for separation and allocation of ownership roles between the National Treasury and the relevant Ministries;\n  (f) establish a commercially-focused performance management framework for Government Owned Enterprises;\n  (g) provide for the carrying out of public service obligations, on a separate operational and accounting basis and with contractual arrangements to give full compensation to Government Owned Enterprises for such activities, whenever Government Owned Enterprises are required to perform public service obligations;\n  (h) enhance the standards of transparency and disclosure of corporate information and periodic reports of Government Owned Enterprises; and\n  (i) provide a mechanism by which minority shareholders in Government Owned Enterprises are enabled to elect a number of persons, for appointment as independent directors in the Board of directors that is proportionate to the shareholding of such minority shareholders in the Government Owned Enterprise.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Application",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) This Act shall apply to—\n  (a) a Government Owned Enterprise established under the Companies Act;\n  (b) the Government Owned Enterprises established under the Companies Act (Cap. 486) before the commencement of this Act as set out in the First Schedule; and\n  (c) the Government Owned Enterprises established by other written laws before the commencement of this Act as set out in the Second Schedule.\n(2) Upon commencement of this Act, any new Government Owned Enterprises shall only be established as companies under the Companies Act (Cap. 486).\n(3) This Act shall not apply to state corporations that are established for non-commercial purposes.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "This Act shall apply to—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Upon commencement of this Act, any new Government Owned Enterprises shall only be established as companies under the Companies Act (Cap. 486)."
+    },
+    {
+     "ref": "(3)",
+     "text": "This Act shall not apply to state corporations that are established for non-commercial purposes."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Role of the Cabinet Secretary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) The Cabinet Secretary shall be responsible for—\n  (a) determining, based on the criteria set in section 8(3), whether a proposal for the establishment of Government Owned Enterprises merits consideration and approval by Cabinet;\n  (b) holding shares in Government Owned Enterprises in trust for the national government;\n  (c) nominating, through a structured, transparent and competitive search and selection process, persons to be appointed as independent directors of the Government Owned Enterprises, through an independent search and selection panel;\n  (d) entering into performance contracts with Government Owned Enterprises based on key performance indicators and agreed performance targets;\n  (e) designing and implementing a performance incentive system for Boards of Directors of Government Owned Enterprises;\n  (f) establishing a remuneration system for Boards of Directors of Government Owned Enterprises;\n  (g) carrying out performance evaluation of Government Owned Enterprises; and\n  (h) assigning, where necessary, Public Service Obligations to Government Owned Enterprises after approval by Cabinet.\n(2) The Cabinet Secretary shall, from time to time, and not less than once a year, publish in the Kenya Gazette and on the National Treasury website a list of Government Owned Enterprises.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary shall be responsible for—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary shall, from time to time, and not less than once a year, publish in the Kenya Gazette and on the National Treasury website a list of Government Owned Enterprises."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Roles of the relevant Cabinet Secretary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The relevant Cabinet Secretary may—\n  (a) propose the establishment of a Government Owned Enterprise for consideration by the Cabinet Secretary;\n  (b) formulate sectoral policies that shall be applicable to Government Owned Enterprises and private enterprises in the sector; and\n  (c) propose Public Service Obligations to the Cabinet Secretary for assignment to Government Owned Enterprises, where necessary.",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Guiding principles",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PROCEDURE AND CRITERIA FOR ESTABLISHING A GOVERNMENT OWNED ENTERPRISE",
+   "text": "The following principles shall apply when determining a request for the establishment of a Government Owned Enterprise—\n  (a) the role for a Government Owned Enterprise to fill a gap left by the market forces;\n  (b) a Government Owned Enterprise shall operate on commercial principles and with a defined commercial income stream that substantially supports the associated commercial activities;\n  (c) where activities involving tax expenditures demonstrate that public expenditure is less effective in achieving the national government objective but can effectively be undertaken on a commercial basis; and\n  (d) there is no overlap or duplication of functions when establishing a Government Owned Enterprise.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Procedure for the establishment of a Government Owned Enterprise",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PROCEDURE AND CRITERIA FOR ESTABLISHING A GOVERNMENT OWNED ENTERPRISE",
+   "text": "(1) Where a relevant Ministry requires a Government Owned Enterprise to be established, the relevant Cabinet Secretary shall submit to the Cabinet Secretary, a written request for the proposed establishment of the Government Owned Enterprise.\n(2) A Government Owned Enterprise may be established only with the approval of the Cabinet, and in accordance with the Companies Act (Cap. 486).\n(3) A request under subsection (1) shall be accompanied by a written business case, with detailed a justification for establishing the Government Owned Enterprise.\n(4) The business case shall include a feasibility assessment report which shall state—\n  (a) the financial and economic viability of establishing the proposed Government Owned Enterprise;\n  (b) whether the proposed activity can be achieved through an existing Government Owned Enterprise or through the private sector;\n  (c) whether there is a need to establish a new Government Owned Enterprise;\n  (d) the proposed functions and objective that the Government Owned Enterprise;\n  (e) how the activities of the proposed Government Owned Enterprise will fit in the relevant Ministry’s mandate;\n  (f) the medium-term strategy;\n  (g) how the establishment of the Government Owned Enterprise shall impact the fiscal position of the Government; and\n  (h) the proposed Government share.\n(5) Where in the assessment of the Cabinet Secretary the proposed establishment of a Government Owned Enterprise meets the criteria set in subsections (3) and (4), the Cabinet Secretary shall submit the request to the Cabinet for consideration and approval.\n(6) Upon approval of the establishment of the Government Owned Enterprise by the Cabinet, the necessary establishment processes shall be undertaken by the Cabinet Secretary.\n(7) Where in the assessment of the Cabinet Secretary the request does not meet the criteria set in subsections (3) and (4), the Cabinet Secretary shall inform the relevant Cabinet Secretary of the outcome of the assessment, in writing, within thirty days of receipt of the report and state the reasons thereof.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a relevant Ministry requires a Government Owned Enterprise to be established, the relevant Cabinet Secretary shall submit to the Cabinet Secretary, a written request for the proposed establishment of the Government Owned Enterprise."
+    },
+    {
+     "ref": "(2)",
+     "text": "A Government Owned Enterprise may be established only with the approval of the Cabinet, and in accordance with the Companies Act (Cap. 486)."
+    },
+    {
+     "ref": "(3)",
+     "text": "A request under subsection (1) shall be accompanied by a written business case, with detailed a justification for establishing the Government Owned Enterprise."
+    },
+    {
+     "ref": "(4)",
+     "text": "The business case shall include a feasibility assessment report which shall state—"
+    },
+    {
+     "ref": "(5)",
+     "text": "Where in the assessment of the Cabinet Secretary the proposed establishment of a Government Owned Enterprise meets the criteria set in subsections (3) and (4), the Cabinet Secretary shall submit the request to the Cabinet for consideration and approval."
+    },
+    {
+     "ref": "(6)",
+     "text": "Upon approval of the establishment of the Government Owned Enterprise by the Cabinet, the necessary establishment processes shall be undertaken by the Cabinet Secretary."
+    },
+    {
+     "ref": "(7)",
+     "text": "Where in the assessment of the Cabinet Secretary the request does not meet the criteria set in subsections (3) and (4), the Cabinet Secretary shall inform the relevant Cabinet Secretary of the outcome of the assessment, in writing, within thirty days of receipt of the report and state the reasons thereof."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Attributes of a Government Owned Enterprise",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PROCEDURE AND CRITERIA FOR ESTABLISHING A GOVERNMENT OWNED ENTERPRISE",
+   "text": "(1) A Government Owned Enterprise shall operate as a commercial entity and shall—\n  (a) operate for profit;\n  (b) be self-financing;\n  (c) be self-sustaining; and\n  (d) be accountable to the public through the National Treasury.\n(2) Notwithstanding subsection (1), a Government Owned Enterprise may, in addition to its commercial functions, perform public service obligations.\n(3) A Government Owned Enterprise which also performs public service obligations shall operate on a commercial basis and shall, for the purpose of financing the achievement of public service obligations, be funded through the Government budgetary resources.\n(4) The operations of a Government Owned Enterprise shall be undertaken in accordance with this Act and the instrument of incorporation.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A Government Owned Enterprise shall operate as a commercial entity and shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding subsection (1), a Government Owned Enterprise may, in addition to its commercial functions, perform public service obligations."
+    },
+    {
+     "ref": "(3)",
+     "text": "A Government Owned Enterprise which also performs public service obligations shall operate on a commercial basis and shall, for the purpose of financing the achievement of public service obligations, be funded through the Government budgetary resources."
+    },
+    {
+     "ref": "(4)",
+     "text": "The operations of a Government Owned Enterprise shall be undertaken in accordance with this Act and the instrument of incorporation."
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Board of Directors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "text": "(1) A Government Owned Enterprise shall be managed by a Board of Directors which shall consist of—\n  (a) a chairperson who shall be an independent director;\n  (b) six persons who shall be independent directors;\n  (c) one person who shall be a public officer in the National Treasury nominated by the Cabinet Secretary;\n  (d) one person who shall be a public officer designated in writing by the relevant Cabinet Secretary for the relevant Ministry; and (e) the chief executive officer who shall be an ex officio member of the Board.\n(2) The Board of directors shall elect the chairperson from among the independent directors. (3) The Cabinet Secretary shall nominate persons to be appointed by a Government Owned Enterprise as independent directors.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A Government Owned Enterprise shall be managed by a Board of Directors which shall consist of— (a) a chairperson who shall be an independent director; (b) six persons who shall be independent directors; (c) one person who shall be a public officer in the National Treasury nominated by the Cabinet Secretary; (d) one person who shall be a public officer designated in writing by the relevant Cabinet Secretary for the relevant Ministry; and (e) the chief executive officer who shall be an ex officio member of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board of directors shall elect the chairperson from among the independent directors. (3) The Cabinet Secretary shall nominate persons to be appointed by a Government Owned Enterprise as independent directors."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Qualifications for appointment as a chairperson or member of a Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "text": "A person shall be eligible for appointment as a chairperson or member of the Board of a Government Owned Enterprise, if the person—\n  (a) has demonstrable expertise and experience in finance, accounting, auditing, risk management, economics, law, engineering, or corporate governance;\n  (b) has not less than ten years’ professional experience, five of which shall be in senior management level;\n  (c) is a member in good standing of a recognised professional body, where applicable;\n  (d) has not served in the same Government Owned Enterprise as an employee in the preceding five years; and (e) meets the requirements of Chapter Six of the Constitution.",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Disqualification",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "text": "(1) A person is not qualified to be appointed as an independent director of a Government Owned Enterprise, if that person—\n  (a) was employed by the Government Owned Enterprise or its related parties, including its major shareholders, in the preceding five years;\n  (b) is an adviser or consultant to the Government Owned Enterprise or its related parties and is affiliated with a company that is an adviser or consultant to the Government Owned Enterprise or its related parties;\n  (c) is affiliated with a significant customer or supplier of the Government Owned Enterprise or its related parties, including banks or other financial institutions owned by the Government or any of its major shareholders;\n  (d) has personal service contracts with the Government Owned Enterprise, its related parties, or its senior management;\n  (e) is affiliated with any organisation that receives significant funding from the Government Owned Enterprise or its related parties;\n  (f) is employed as an executive of another company where any of the company’s executives serve on that company’s board of directors;\n  (g) is a member of the immediate family of an individual who is, or has been during the immediately preceding five years, employed by the Government Owned Enterprise or its related parties as an executive officer;\n  (h) is, or has in the preceding five years been affiliated with or employed by a present or former auditor of the Government Owned Enterprise or of a related party;\n  (i) is a controlling person of the Government Owned Enterprise (or member of a group of individuals or entities that collectively exercise effective control over the company) or such a person’s close relative, widow, in-law, heir, legatee, and successor of any of the foregoing or the executor is a controlling person of the Government Owned Enterprise;\n  (j) has been affiliated with a political party in the immediately preceding five years; or\n  (k) is a director in another company or other companies producing substantially similar goods or services as the Government Owned Entity and whose combined market share is more than forty percent.\n(2) For purposes of this section—\n  (a) immediate family member” means a spouse, a parent, a child or a sibling; and\n  (b) affiliated with” means having an official connection to, in the case of a political party, to a governing body of a political party or has identified with a political party for purposes of vying for a political office.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person is not qualified to be appointed as an independent director of a Government Owned Enterprise, if that person— (a) was employed by the Government Owned Enterprise or its related parties, including its major shareholders, in the preceding five years; (b) is an adviser or consultant to the Government Owned Enterprise or its related parties and is affiliated with a company that is an adviser or consultant to the Government Owned Enterprise or its related parties;"
+    },
+    {
+     "ref": "(2)",
+     "text": "For purposes of this section—"
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Search and selection panel",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "text": "(1) The Cabinet Secretary shall appoint an independent search and selection panel which shall conduct a structured, transparent and competitive process of search and selection of persons suitable for nomination by the Cabinet Secretary for appointment by the respective Government Owned Enterprises as independent directors.\n(2) In appointing a person as an independent director, the respective Government Owned Enterprise shall take into account gender, the ethnic and regional diversity of the people of Kenya, persons with disabilities and youth.\n(3) In the case of Government Owned Enterprises that are not wholly-owned by the Government, the Cabinet Secretary shall, through the process provided in subsection (1) participate in the nomination and where necessary election by shareholders of persons to be appointed as independent directors and shall nominate or elect a number of directors proportionate to the Government shareholding in the Government Owned Enterprise.\n(4) Subject to subsection (3), the Cabinet Secretary shall leave any remaining vacancies in the Boards of directors to be filled by persons nominated or where necessary, elected by minority shareholders to the extent that the proportionate shareholding of such minority shareholders may allow.\n(5) The independent directors nominated or elected by minority shareholders shall meet the qualifications of an independent director and shall fulfil the fit and proper requirements that the Cabinet Secretary shall issue.\n(6) The members of the search and selection panel shall consist of—\n  (a) four persons, who are not public officers appointed by the Cabinet Secretary;\n  (b) one person who is a public officer in the National Treasury appointed by the Cabinet Secretary; and\n  (c) one person who is a public officer appointed in writing by the Principal Secretary for the State Department responsible for the sector under which the Government Owned Enterprise for which the recruitment is being undertaken falls.\n(7) The Chairperson of the search and selection shall be elected by the members of the search and selection panel from among the persons in the panel who are not public officers.\n(8) The members of the search and selection panel other than the members under subsection (6)(b) and (c) shall serve on a part-time basis for a non-renewable term of three years.\n(9) In appointing persons to be members of the search and selection panel, the Cabinet Secretary shall determine and apply an objective set of criteria which shall include diversity, independence of the persons and fulfilment of fit-and-proper requirements that the Cabinet Secretary shall issue.\n(10) The search and selection panel may, from time to time, co-opt into the panel persons with specific expertise and skills.\n(11) The search and selection panel shall determine and apply an objective set of criteria for search and selection of persons which shall include diversity, independence of the persons and fulfilment of fitand-proper requirements that the Cabinet Secretary shall issue.\n(12) The Cabinet Secretary for the National Treasury shall facilitate the operations of the search and selection panel.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary shall appoint an independent search and selection panel which shall conduct a structured, transparent and competitive process of search and selection of persons suitable for nomination by the Cabinet Secretary for appointment by the respective Government Owned Enterprises as independent directors."
+    },
+    {
+     "ref": "(2)",
+     "text": "In appointing a person as an independent director, the respective Government Owned Enterprise shall take into account gender, the ethnic and regional diversity of the people of Kenya, persons with disabilities and youth."
+    },
+    {
+     "ref": "(3)",
+     "text": "In the case of Government Owned Enterprises that are not wholly-owned by the Government, the Cabinet Secretary shall, through the process provided in subsection (1) participate in the nomination and where necessary election by shareholders of persons to be appointed as independent directors and shall nominate or elect a number of directors proportionate to the Government shareholding in the Government Owned Enterprise."
+    },
+    {
+     "ref": "(4)",
+     "text": "Subject to subsection (3), the Cabinet Secretary shall leave any remaining vacancies in the Boards of directors to be filled by persons nominated or where necessary, elected by minority shareholders to the extent that the proportionate shareholding of such minority shareholders may allow."
+    },
+    {
+     "ref": "(5)",
+     "text": "The independent directors nominated or elected by minority shareholders shall meet the qualifications of an independent director and shall fulfil the fit and proper requirements that the Cabinet Secretary shall issue."
+    },
+    {
+     "ref": "(6)",
+     "text": "The members of the search and selection panel shall consist of—"
+    },
+    {
+     "ref": "(7)",
+     "text": "The Chairperson of the search and selection shall be elected by the members of the search and selection panel from among the persons in the panel who are not public officers."
+    },
+    {
+     "ref": "(8)",
+     "text": "The members of the search and selection panel other than the members under subsection (6)(b) and (c) shall serve on a part-time basis for a non-renewable term of three years."
+    },
+    {
+     "ref": "(9)",
+     "text": "In appointing persons to be members of the search and selection panel, the Cabinet Secretary shall determine and apply an objective set of criteria which shall include diversity, independence of the persons and fulfilment of fit-and-proper requirements that the Cabinet Secretary shall issue."
+    },
+    {
+     "ref": "(10)",
+     "text": "The search and selection panel may, from time to time, co-opt into the panel persons with specific expertise and skills."
+    },
+    {
+     "ref": "(11)",
+     "text": "The search and selection panel shall determine and apply an objective set of criteria for search and selection of persons which shall include diversity, independence of the persons and fulfilment of fitand-proper requirements that the Cabinet Secretary shall issue."
+    },
+    {
+     "ref": "(12)",
+     "text": "The Cabinet Secretary for the National Treasury shall facilitate the operations of the search and selection panel."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Qualifications of members of the search and selection panel",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "text": "(1) A person shall qualify for appointment as a member of the search and selection panel if that person —\n  (a) holds a degree in law, finance, economics, accounting, or governance from a university recognised in Kenya;\n  (b) has at least fifteen years’ professional experience, ten of which shall be in senior management;\n  (c) is a member in good standing of a recognised professional body, where applicable; and\n  (d) meets the requirements of Chapter Six of the Constitution.\n(2) A person shall not qualify for appointment as a member of the search and selection panel if that person—\n  (a) is a member of Parliament or county assembly;\n  (b) is a member of a governing body of a political party;\n  (c) is an undischarged bankrupt;\n  (d) has been convicted of a felony; or\n  (e) has been removed from public office for contravening the provisions of the Constitution or any other law.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall qualify for appointment as a member of the search and selection panel if that person —"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall not qualify for appointment as a member of the search and selection panel if that person—"
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Vacancy",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "text": "A person shall cease to be a member of the search and selection panel if the person—\n  (a) becomes incapacitated to discharge their duties;\n  (b) is adjudged bankrupt by a competent court of law;\n  (c) becomes absent without the permission of the chairperson and members of the search and selection panel for more than three consecutive meetings of the panel;\n  (d) resigns by written notice given to the Cabinet Secretary;\n  (e) is prohibited from being a panelist by a written law;\n  (f) is convicted of a criminal offence by a competent court of law; and (g) becomes a holder of a political office whether or not in a legislative role.",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "Procedures of the search and selection panel",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "text": "(1) The search and selection panel shall develop its procedures for the search and selection of persons suitable for nomination as members of the Boards of directors under this Act.\n(2) The search and selection panel shall maintain a proper record of all its meetings, including minutes, in such manner as it may determine.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The search and selection panel shall develop its procedures for the search and selection of persons suitable for nomination as members of the Boards of directors under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The search and selection panel shall maintain a proper record of all its meetings, including minutes, in such manner as it may determine."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Tenure of independent directors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "text": "(1) In the case of a Government Owned Enterprise that is wholly-owned by the Government, an independent director shall serve for a three-year term, renewable once.\n(2) In the case of a Government Owned Enterprise that is not wholly-owned by Government, an independent director shall serve for a period that may be required, by a legal instrument, before a director is due to retire by rotation.\n(3) Subject to subsection (2), the retirement by rotation shall be in such a way that at each rotation, one-third of the members of the Board shall be retained.\n(4) A person shall cease to be an independent director if the person—\n  (a) becomes incapacitated to discharge the duties of a director;\n  (b) is adjudged bankrupt by a competent court of law;\n  (c) becomes absent from three consecutive meetings of the Board without the directors’ permission;\n  (d) resigns by written notice given to the other directors or to the Government Owned Enterprise;\n  (e) is prohibited from being a director by a written law;\n  (f) is convicted of a criminal offence by a competent court of law;\n  (g) becomes a holder of a political office, whether or not in a legislative role;\n  (h) becomes an employee of the Government or a Government Owned Enterprise; and (i) ceases to meet the qualifications of an independent director in the manner stipulated in section 12.\n(5) A person shall not cease to be an independent director for reasons other than those stipulated in subsection (3).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In the case of a Government Owned Enterprise that is wholly-owned by the Government, an independent director shall serve for a three-year term, renewable once."
+    },
+    {
+     "ref": "(2)",
+     "text": "In the case of a Government Owned Enterprise that is not wholly-owned by Government, an independent director shall serve for a period that may be required, by a legal instrument, before a director is due to retire by rotation."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to subsection (2), the retirement by rotation shall be in such a way that at each rotation, one-third of the members of the Board shall be retained."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person shall cease to be an independent director if the person— (a) becomes incapacitated to discharge the duties of a director; (b) is adjudged bankrupt by a competent court of law; (c) becomes absent from three consecutive meetings of the Board without the directors’ permission; (d) resigns by written notice given to the other directors or to the Government Owned Enterprise; (e) is prohibited from being a director by a written law; (f) is convicted of a criminal offence by a competent court of law; (g) becomes a holder of a political office, whether or not in a legislative role; (h) becomes an employee of the Government or a Government Owned Enterprise; and (i) ceases to meet the qualifications of an independent director in the manner stipulated in section 12."
+    },
+    {
+     "ref": "(5)",
+     "text": "A person shall not cease to be an independent director for reasons other than those stipulated in subsection (3)."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Role of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "text": "The Board of a Government Owned Enterprise shall be responsible for—\n  (a) the appointment and removal of the Chief Executive Officer;\n  (b) the determination of the terms and conditions of employment of the Government Owned Enterprise staff, taking into consideration all relevant factors, including industry dynamics and the sustainability of the Government Owned Enterprise, subject to such guidelines as the Cabinet Secretary may issue;\n  (c) setting of the Government Owned Enterprise strategic direction and approval of strategic plans;\n  (d) the approval of annual budgets and the related funding for a Government Owned Enterprise level;\n  (e) setting key performance indicators for the Chief Executive Officer and top-level management;\n  (f) the establishment of risk governance and risk management systems and processes, including setting the risk appetite for the business of the Government Owned Enterprise, taking into consideration shareholder risk preference;\n  (g) establishing and overseeing internal control systems and their continuous testing for efficiency and effectiveness;\n  (h) performance evaluation of the Chief Executive Officer and top-level management;\n  (i) entering into performance contracts with the National Treasury;\n  (j) putting in place systems and processes to ensure compliance with all legal and regulatory requirements and frameworks;\n  (k) putting in place succession management framework and business continuity plan comprising—\n  (i) nomination processes to identify candidates for consideration by the Cabinet Secretary for appointment to the Board; and (ii) succession plans for the Chief Executive Officer and other critical positions within management ranks of the Government Owned Enterprise; and (l) establishment and implementation of a Board self-evaluation system.",
+   "clauses": []
+  },
+  "19": {
+   "num": "19",
+   "title": "Board meetings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "text": "(1) The Board of a Government Owned Enterprise shall meet—\n  (a) at least once in every three months; and (b) at other times that the Board considers necessary for the efficient management of the business and affairs of the Government Owned Enterprise.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board of a Government Owned Enterprise shall meet— (a) at least once in every three months; and (b) at other times that the Board considers necessary for the efficient management of the business and affairs of the Government Owned Enterprise."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Remuneration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "text": "(1) The remuneration of directors of Government Owned Enterprises shall be governed by the remuneration structure and guidelines issued by the Cabinet Secretary from time to time.\n(2) The remuneration for directors may include—\n  (a) directors’ fees to be recommended by directors of individual Government Owned Enterprises with the concurrence of the Cabinet Secretary and determined at the Annual General Meeting or, in the case of Government Owned Enterprises wholly-owned by Government, approved by the Cabinet Secretary;\n  (b) sitting allowance to be determined by the Cabinet Secretary; and\n  (c) a bonus-type annual pay as a reward based on the extent of achievement of targets under the performance contract signed between the Cabinet Secretary and the Government Owned Enterprise.\n(3) The directors’ fees and sitting allowances under subsections (2)(a) and (b) shall not be performance based.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The remuneration of directors of Government Owned Enterprises shall be governed by the remuneration structure and guidelines issued by the Cabinet Secretary from time to time."
+    },
+    {
+     "ref": "(2)",
+     "text": "The remuneration for directors may include— (a) directors’ fees to be recommended by directors of individual Government Owned Enterprises with the concurrence of the Cabinet Secretary and determined at the Annual General Meeting or, in the case of Government Owned Enterprises wholly-owned by Government, approved by the Cabinet Secretary; (b) sitting allowance to be determined by the Cabinet Secretary; and"
+    },
+    {
+     "ref": "(3)",
+     "text": "The directors’ fees and sitting allowances under subsections (2)(a) and (b) shall not be performance based."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Audit Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "text": "(1) Every Board of a Government Owned Enterprise shall establish an audit committee and majority of its members, including its chairperson, shall be independent directors.\n(2) The audit committee shall be responsible for—\n  (a) oversight of the internal audit function and other assurance providers;\n  (b) engagement with external auditors;\n  (c) assurance on appropriateness of measures to safeguard the assets of a Government Owned Enterprise;\n  (d) the review of all reports and communication with external auditors;\n  (e) the review of annual financial statements of the Government Owned Enterprise, prior to their approval by the Board;\n  (f) ensuring coordination between the internal and external auditors of the Government Owned Enterprise; and (g) overall assurance to the Board on the system of internal control, risk governance and compliance systems.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every Board of a Government Owned Enterprise shall establish an audit committee and majority of its members, including its chairperson, shall be independent directors."
+    },
+    {
+     "ref": "(2)",
+     "text": "The audit committee shall be responsible for— (a) oversight of the internal audit function and other assurance providers; (b) engagement with external auditors; (c) assurance on appropriateness of measures to safeguard the assets of a Government Owned Enterprise; (d) the review of all reports and communication with external auditors; (e) the review of annual financial statements of the Government Owned Enterprise, prior to their approval by the Board; (f) ensuring coordination between the internal and external auditors of the Government Owned Enterprise; and (g) overall assurance to the Board on the system of internal control, risk governance and compliance systems."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Chief Executive Officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "text": "(1) Every Board of a Government Owned Enterprise shall have a Chief Executive Officer who shall be competitively recruited and appointed by the Board on such terms and conditions as may be specified in the instrument of appointment.\n(2) The Chief Executive Officer of a Government Owned Enterprise shall be a member of the Board of directors but shall not have the power to vote.\n(3) A person shall qualify for appointment as a Chief Executive Officer, if such person—\n  (a) holds a degree in the relevant field from a university recognised in Kenya;\n  (b) has at least ten years work experience in a relevant field;\n  (c) has served in a position of senior management for a period of at least five years; and (d) meets the requirements of Chapter Six of the Constitution.\n(4) A person shall not qualify for appointment as a Chief Executive Officer if such person—\n  (a) is a member of Parliament or County Assembly;\n  (b) is a member of a governing body of a political party;\n  (c) is an undischarged bankrupt;\n  (d) has been convicted of a felony; or (e) has been removed from public office for contravening the provisions of the Constitution or any other written law.\n(5) A Chief Executive Officer shall hold office for a term of three years and shall be eligible for reappointment for one further term\n(6) A Chief Executive Officer shall—\n  (a) be responsible to the Board of the Government Owned Enterprise for the day-to-day management of the affairs of the Government Owned Enterprise; and\n  (b) perform such other functions as the Board may direct.\n(7) A Chief Executive Officer may be removed from office on any of the following grounds—\n  (a) serious violation of the Constitution or other law;\n  (b) gross misconduct;\n  (c) physical or mental incapacity to perform the functions of the office;\n  (d) unsatisfactory performance; or\n  (e) bankruptcy.\n(8) Before removal under subsection (7), the Chief Executive Officer—\n  (a) may be suspended from office by the Board;\n  (b) shall be informed, in writing, of the reasons for the intended removal; and\n  (c) shall be given an opportunity to put in a defence against any such allegations.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every Board of a Government Owned Enterprise shall have a Chief Executive Officer who shall be competitively recruited and appointed by the Board on such terms and conditions as may be specified in the instrument of appointment."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Chief Executive Officer of a Government Owned Enterprise shall be a member of the Board of directors but shall not have the power to vote."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person shall qualify for appointment as a Chief Executive Officer, if such person— (a) holds a degree in the relevant field from a university recognised in Kenya; (b) has at least ten years work experience in a relevant field; (c) has served in a position of senior management for a period of at least five years; and (d) meets the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person shall not qualify for appointment as a Chief Executive Officer if such person— (a) is a member of Parliament or County Assembly; (b) is a member of a governing body of a political party; (c) is an undischarged bankrupt; (d) has been convicted of a felony; or (e) has been removed from public office for contravening the provisions of the Constitution or any other written law."
+    },
+    {
+     "ref": "(5)",
+     "text": "A Chief Executive Officer shall hold office for a term of three years and shall be eligible for reappointment for one further term"
+    },
+    {
+     "ref": "(6)",
+     "text": "A Chief Executive Officer shall—"
+    },
+    {
+     "ref": "(7)",
+     "text": "A Chief Executive Officer may be removed from office on any of the following grounds—"
+    },
+    {
+     "ref": "(8)",
+     "text": "Before removal under subsection (7), the Chief Executive Officer—"
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Secretary to the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "text": "(1) Every Government Owned Enterprise shall have a secretary to the Board who shall be qualified in terms of the law governing the practice of public secretaries and appointed by the Board.\n(2) The secretary to the Board shall hold and vacate the office of secretary in accordance, with the terms specified in the instrument of appointment to that office.\n(3) The secretary to the Board shall attend all the meetings of the Board and may offer an advisory opinion or take part in the deliberations on any matter arising at the meeting, but shall not be entitled to vote on any such matter.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every Government Owned Enterprise shall have a secretary to the Board who shall be qualified in terms of the law governing the practice of public secretaries and appointed by the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "The secretary to the Board shall hold and vacate the office of secretary in accordance, with the terms specified in the instrument of appointment to that office."
+    },
+    {
+     "ref": "(3)",
+     "text": "The secretary to the Board shall attend all the meetings of the Board and may offer an advisory opinion or take part in the deliberations on any matter arising at the meeting, but shall not be entitled to vote on any such matter."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Staff of Government Owned Enterprises",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "text": "A Government Owned Enterprise may appoint such officers and other staff as are necessary for the proper discharge of the functions of the Government Owned Enterprise, upon such terms and conditions of service as the Board may determine, subject to such guidelines as the Cabinet Secretary may issue.",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "Responsibility to the shareholders and the Government Owned Enterprise",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MANAGEMENT OF GOVERNMENT OWNED ENTERPRISES",
+   "text": "(1) The Board shall ensure its obligations to shareholders of the Government Owned Enterprise are fulfilled and that the shareholders are duly informed in a timely manner of all material events through shareholder meetings and other communications as necessary.\n(2) The Board shall develop and implement a code of conduct for the members of the Board, as well as the employees of the Government Owned Enterprises, with a view to ensuring adherence to the highest professional standards and corporate values.\n(3) The code of conduct developed under this subsection (2) shall be effectively communicated within the Government Owned Enterprise together with supporting policies and procedures, including adequate systems and controls for the identification and the redress of grievances arising from unethical practices.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall ensure its obligations to shareholders of the Government Owned Enterprise are fulfilled and that the shareholders are duly informed in a timely manner of all material events through shareholder meetings and other communications as necessary."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall develop and implement a code of conduct for the members of the Board, as well as the employees of the Government Owned Enterprises, with a view to ensuring adherence to the highest professional standards and corporate values."
+    },
+    {
+     "ref": "(3)",
+     "text": "The code of conduct developed under this subsection (2) shall be effectively communicated within the Government Owned Enterprise together with supporting policies and procedures, including adequate systems and controls for the identification and the redress of grievances arising from unethical practices."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Business plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PERFORMANCE",
+   "text": "(1) The Board of a Government Owned Enterprise shall, prior to the commencement of a financial year, adopt a business plan based on its strategic plan.\n(2) The business plan shall be effective on the first day of the financial year to which it applies. (3) The business plan of a Government Owned Enterprise shall form the basis of annual performance contracts to be signed between the Cabinet Secretary and the Government Owned Enterprise.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board of a Government Owned Enterprise shall, prior to the commencement of a financial year, adopt a business plan based on its strategic plan."
+    },
+    {
+     "ref": "(2)",
+     "text": "The business plan shall be effective on the first day of the financial year to which it applies. (3) The business plan of a Government Owned Enterprise shall form the basis of annual performance contracts to be signed between the Cabinet Secretary and the Government Owned Enterprise."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Performance management",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PERFORMANCE",
+   "text": "(1) The Cabinet Secretary shall by means of performance contracts convey to each Government Owned Enterprise performance targets for the specified period.\n(2) The Board of a Government Owned Enterprise shall enter into performance contracts with the Cabinet Secretary.\n(3) The performance contracts under subsection (1) shall be designed to enhance the commercial performance of a Government Owned Enterprise in ways that will—\n  (a) safeguard the long-term sustainability of the Government Owned Enterprise;\n  (b) enable the shareholders to make a return commensurate with the level of investment made in the Government Owned Enterprise; and (c) minimize the fiscal cost and risks emanating from the Government Owned Enterprise to the national exchequer.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary shall by means of performance contracts convey to each Government Owned Enterprise performance targets for the specified period."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board of a Government Owned Enterprise shall enter into performance contracts with the Cabinet Secretary."
+    },
+    {
+     "ref": "(3)",
+     "text": "The performance contracts under subsection (1) shall be designed to enhance the commercial performance of a Government Owned Enterprise in ways that will— (a) safeguard the long-term sustainability of the Government Owned Enterprise; (b) enable the shareholders to make a return commensurate with the level of investment made in the Government Owned Enterprise; and (c) minimize the fiscal cost and risks emanating from the Government Owned Enterprise to the national exchequer."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Performance evaluation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PERFORMANCE",
+   "text": "(1) The Cabinet Secretary shall be responsible for performance evaluation of Government Owned Enterprises and for purposes of performance evaluation, may co-opt relevant external experts that may include those from relevant Ministries.\n(2) The performance evaluation of Government Owned Enterprises under subsection (1) may be based on audited financial statements and any other parameters as the Cabinet Secretary may determine.\n(3) The Board of a Government Owned Enterprise shall be responsible for the evaluation of the performance of the Chief Executive Officer.\n(4) The Cabinet Secretary may determine a performance incentive system for Boards of Government Owned Enterprises.\n(5) The Board of a Government Owned Enterprise may determine a performance incentive system for the Chief Executive Officer and the rest of the staff of the Government Owned Enterprise.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary shall be responsible for performance evaluation of Government Owned Enterprises and for purposes of performance evaluation, may co-opt relevant external experts that may include those from relevant Ministries."
+    },
+    {
+     "ref": "(2)",
+     "text": "The performance evaluation of Government Owned Enterprises under subsection (1) may be based on audited financial statements and any other parameters as the Cabinet Secretary may determine."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board of a Government Owned Enterprise shall be responsible for the evaluation of the performance of the Chief Executive Officer."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Cabinet Secretary may determine a performance incentive system for Boards of Government Owned Enterprises."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Board of a Government Owned Enterprise may determine a performance incentive system for the Chief Executive Officer and the rest of the staff of the Government Owned Enterprise."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Public Service Obligations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "PUBLIC SERVICE OBLIGATIONS",
+   "text": "The Cabinet Secretary shall not assign public service obligations to listed Government Owned Enterprises.",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "Proposals",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "PUBLIC SERVICE OBLIGATIONS",
+   "text": "(1) A proposal on Public Service Obligations may be originated by the relevant Ministries for consideration by the Cabinet Secretary.\n(2) The Cabinet Secretary may, upon evaluating the merits of the proposal of the public service obligations, submit the proposal to the Cabinet for consideration.\n(3) The Cabinet Secretary shall assign a public service obligation to a Government Owned Enterprise only after approval by Cabinet.\n(4) The public service obligations shall be—\n  (a) costed and accounted for separately;\n  (b) audited separately; and\n  (c) time bound.\n(5) The National Treasury shall not originate public service obligations for assignment to a Government Owned Enterprise.\n(6) The Cabinet Secretary may limit the number of public service obligations that may be assigned to an individual Government Owned Enterprise.\n(7) Public service obligations shall not form part of performance contracts to be signed between the Cabinet Secretary and a Government Owned Enterprise.\n(8) The Cabinet Secretary may, from time to time, issue guidelines on public service obligations.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A proposal on Public Service Obligations may be originated by the relevant Ministries for consideration by the Cabinet Secretary."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary may, upon evaluating the merits of the proposal of the public service obligations, submit the proposal to the Cabinet for consideration."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary shall assign a public service obligation to a Government Owned Enterprise only after approval by Cabinet."
+    },
+    {
+     "ref": "(4)",
+     "text": "The public service obligations shall be—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The National Treasury shall not originate public service obligations for assignment to a Government Owned Enterprise."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Cabinet Secretary may limit the number of public service obligations that may be assigned to an individual Government Owned Enterprise."
+    },
+    {
+     "ref": "(7)",
+     "text": "Public service obligations shall not form part of performance contracts to be signed between the Cabinet Secretary and a Government Owned Enterprise."
+    },
+    {
+     "ref": "(8)",
+     "text": "The Cabinet Secretary may, from time to time, issue guidelines on public service obligations."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Implementation of public service obligations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "PUBLIC SERVICE OBLIGATIONS",
+   "text": "(1) Before submitting a proposal to the Cabinet, the Cabinet Secretary may in writing inform the Government Owned Enterprise of the proposal of the public service obligation.\n(2) Within thirty days of receiving the written proposal from the Cabinet Secretary, the Government Owned Enterprise shall respond to the notice in writing, stating with reasons, whether the Government Owned Enterprise agrees to give effect to the proposal.\n(3) If the Government Owned Enterprise agrees to the proposal under subsection (2), the Cabinet Secretary, the relevant Ministry and the Government Owned Enterprise shall enter into negotiations to agree on the arrangements under which the Government Owned Enterprise can give effect to the proposal without acting inconsistently with its primary objective.\n(4) If an agreement is reached under subsection (3), the arrangements for giving effect to the proposal shall be incorporated in a public service obligation agreement which shall—\n  (a) be in writing;\n  (b) be approved by the Cabinet Secretary and the Board of the Government Owned Enterprise;\n  (c) include provision for funding or other resources to the Government Owned Enterprise;\n  (d) if it provides for the Government Owned Enterprise to provide goods or services—\n  (i) specify the goods or services, including any particular quantities;\n  (ii) specify an estimate of the annual total cost to the Government Owned Enterprise for providing the goods or service, and an estimate of the annual total revenue to be received by the Government Owned Enterprise for doing so; and\n  (iii) specify how the performance of the Government Owned Enterprise will be monitored and assessed in providing the goods or services;\n  (e) include any other matter, not inconsistent with this Act, that is agreed between the Cabinet and the Board of the Government Owned Enterprise.\n(5) The Public Service Obligations under a Public Service Obligation agreement shall be binding.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Before submitting a proposal to the Cabinet, the Cabinet Secretary may in writing inform the Government Owned Enterprise of the proposal of the public service obligation."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within thirty days of receiving the written proposal from the Cabinet Secretary, the Government Owned Enterprise shall respond to the notice in writing, stating with reasons, whether the Government Owned Enterprise agrees to give effect to the proposal."
+    },
+    {
+     "ref": "(3)",
+     "text": "If the Government Owned Enterprise agrees to the proposal under subsection (2), the Cabinet Secretary, the relevant Ministry and the Government Owned Enterprise shall enter into negotiations to agree on the arrangements under which the Government Owned Enterprise can give effect to the proposal without acting inconsistently with its primary objective."
+    },
+    {
+     "ref": "(4)",
+     "text": "If an agreement is reached under subsection (3), the arrangements for giving effect to the proposal shall be incorporated in a public service obligation agreement which shall—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The Public Service Obligations under a Public Service Obligation agreement shall be binding."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Reporting",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "REPORTING AND DISCLOSURE",
+   "text": "(1) A Government Owned Enterprise shall make quarterly and annual reports to the Cabinet Secretary in the manner that the Cabinet Secretary may prescribe from time to time.\n(2) The Cabinet Secretary may make half-yearly reports on the Government Owned Enterprise to the Cabinet and annually to the National Assembly.\n(3) The Cabinet Secretary shall with respect to listed Government Owned Enterprises, make, based on publicly available information, analysed annual reports to Cabinet and the National Assembly.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A Government Owned Enterprise shall make quarterly and annual reports to the Cabinet Secretary in the manner that the Cabinet Secretary may prescribe from time to time."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary may make half-yearly reports on the Government Owned Enterprise to the Cabinet and annually to the National Assembly."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary shall with respect to listed Government Owned Enterprises, make, based on publicly available information, analysed annual reports to Cabinet and the National Assembly."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Disclosure",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "REPORTING AND DISCLOSURE",
+   "text": "(1) The Cabinet Secretary shall make public, on the National Treasury website or on such other information platforms as may be accessible to the public—\n  (a) audited annual reports of Government Owned Enterprises;\n  (b) annual performance evaluation results of Government Owned Enterprises; and (c) reports on appointment of independent directors of Government Owned Enterprises and the procedures followed in arriving at such appointments.\n(2) Government Owned Enterprises shall make public, on their individual websites or on such other platforms as may be accessible to the public—\n  (a) audited annual reports;\n  (b) annual performance evaluation results; and (c) annual report on anti-corruption activities completed.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary shall make public, on the National Treasury website or on such other information platforms as may be accessible to the public— (a) audited annual reports of Government Owned Enterprises; (b) annual performance evaluation results of Government Owned Enterprises; and (c) reports on appointment of independent directors of Government Owned Enterprises and the procedures followed in arriving at such appointments."
+    },
+    {
+     "ref": "(2)",
+     "text": "Government Owned Enterprises shall make public, on their individual websites or on such other platforms as may be accessible to the public— (a) audited annual reports; (b) annual performance evaluation results; and (c) annual report on anti-corruption activities completed."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Financial transparency",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "REPORTING AND DISCLOSURE",
+   "text": "The Board shall ensure that the Government Owned Enterprise keeps financial records that—\n  (a) correctly record and explain its transactions and financial position and performance;\n  (b) enable financial statements to be prepared and audited; and (c) clearly identify and disclose any transactions undertaken by the Government Owned Enterprise with any director or their close relatives, either directly or indirectly and comprising a pecuniary or non-pecuniary benefit through a company or other business established by such director.",
+   "clauses": []
+  },
+  "35": {
+   "num": "35",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "PROVISIONS ON DELEGATED POWERS",
+   "text": "The Cabinet Secretary may make regulations generally for the better carrying into effect of the provisions of this Act.\n(2) The Regulations under subsection (1) may prescribe—\n  (a) a code of governance for Government Owned Enterprises;\n  (b) the procedure for merger and dissolution of Government Owned Enterprises;\n  (c) provisions of a savings or transitional nature relating to the transition from the application of the Acts and subsidiary legislation in relation to Government Owned Enterprises to the application of this Act; or\n  (d) any other matter necessary for the implementation of this Act.\n(3) For the purposes of Article 94(6) of the Constitution—\n  (a) the purpose and objective of the delegation under this section is to enable the Cabinet Secretary to make regulations for better carrying into effect the provisions of this Act;\n  (b) the authority of the Cabinet Secretary to make regulations under this Act will be limited to bringing into effect the provisions of this Act and fulfilment of the objectives specified under this section;\n  (c) the principles and standards applicable to the rules made under this section are those set out in the Statutory Instruments Act (Cap 2A).",
+   "clauses": [
+    {
+     "ref": "(2)",
+     "text": "The Regulations under subsection (1) may prescribe— (a) a code of governance for Government Owned Enterprises; (b) the procedure for merger and dissolution of Government Owned Enterprises;"
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purposes of Article 94(6) of the Constitution—"
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Dissolution and merger of Government Owned Enterprise",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) A Government Owned Enterprise may be dissolved only with the prior approval of the Cabinet and in accordance with the legislation governing the dissolution of such Government Owned Enterprise.\n(2) Subject to the provisions of any law enacted for the formation, management and dissolution of a Government Owned Enterprise, a Government Owned Enterprise may be dissolved—\n  (a) upon expiry of the lifespan of a Government Owned Enterprise as may be defined in the instrument of establishment;\n  (b) where a Government Owned Enterprise has carried out the mandate for which it was created;\n  (c) upon reorganization of a Government Owned Enterprise and associated government functions; and\n  (d) upon a merger of a Government Owned Enterprise with another.\n(3) The Cabinet Secretary shall originate and review recommendations for dissolution and mergers of Government Owned Enterprises.\n(4) The Cabinet Secretary may by notice in the Gazette prescribe guidelines for dissolution and mergers of Government Owned Enterprises.\n(5) Upon approval by Cabinet of the recommendations to dissolve or merge a Government Owned Enterprise, the Cabinet Secretary shall cause the dissolution or merger of the Government Owned Enterprise with another and the merger shall be subject to the Competition Act (Cap. 504).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A Government Owned Enterprise may be dissolved only with the prior approval of the Cabinet and in accordance with the legislation governing the dissolution of such Government Owned Enterprise."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to the provisions of any law enacted for the formation, management and dissolution of a Government Owned Enterprise, a Government Owned Enterprise may be dissolved—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary shall originate and review recommendations for dissolution and mergers of Government Owned Enterprises."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Cabinet Secretary may by notice in the Gazette prescribe guidelines for dissolution and mergers of Government Owned Enterprises."
+    },
+    {
+     "ref": "(5)",
+     "text": "Upon approval by Cabinet of the recommendations to dissolve or merge a Government Owned Enterprise, the Cabinet Secretary shall cause the dissolution or merger of the Government Owned Enterprise with another and the merger shall be subject to the Competition Act (Cap. 504)."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Funds of a Government Owned Enterprise",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) The funds of a Government Owned Enterprise shall include—\n  (a) such monies as may be appropriated to the Government Owned Enterprise by the National Assembly;\n  (b) such fees, monies or assets as may accrue to or vest in the Government Owned Enterprise in the course of the exercise of its powers or the performance of its functions under this Act or any written law; and\n  (c) monies from any other source provided for or donated or lent to the Government Owned Enterprise.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The funds of a Government Owned Enterprise shall include—"
+    }
+   ]
+  },
+  "38": {
+   "num": "38",
+   "title": "Financial year",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "Except as otherwise provided, the financial year of a Government Owned Enterprise shall be the period of twelve months ending on the thirtieth June in each year.",
+   "clauses": []
+  },
+  "39": {
+   "num": "39",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "The annual estimates of Government Owned Enterprises shall be prepared in accordance with the Public Finance Management Act (Cap. 412A).",
+   "clauses": []
+  },
+  "40": {
+   "num": "40",
+   "title": "Repeals and consequential amendments",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) The Acts and provisions of Acts specified in the Third Schedule are repealed and amended as indicated in the Schedule.\n(2) The provisions of the Fourth Schedule shall, upon the repeal of the Acts set out in the Third Schedule, have effect with respect to the transfer of the functions, assets liabilities of the former corporation to the Company, the Corporation and the Commission, as the case may be, and to all matters incidental to such transfer.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Acts and provisions of Acts specified in the Third Schedule are repealed and amended as indicated in the Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of the Fourth Schedule shall, upon the repeal of the Acts set out in the Third Schedule, have effect with respect to the transfer of the functions, assets liabilities of the former corporation to the Company, the Corporation and the Commission, as the case may be, and to all matters incidental to such transfer."
+    }
+   ]
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [s. 4(1)(b)] LIST OF GOVERNMENT OWNED ENTERPRISES",
+   "subtitle": null,
+   "text": "1. East African Portland Cement Company Limited 2. Kenya Electricity Generating Company Limited 3. Kenya Power and Lighting Company Limited 4. Kenya Re-Insurance Corporation Limited 5. Agricultural Finance Corporation 6. Kenya Airports Authority 7. Kenya Development Corporation 8. Kenya Literature Bureau 9. Kenya Ports Authority 10. Kenya Railways Corporation 11. New Kenya Co-operative Creameries Limited 12. Agricultural Development Corporation 13. Kenya Seed Company Limited (GoK ownership through Agricultural Development Corporation) 14. Kenyatta International Convention Centre 15. National Cereals and Produce Board 16. National Housing Corporation 17. Numerical Machining Complex Limited (GoK ownership through Kenya Railways Corporation and Kenya Shipyards Limited) 18. Postal Corporation of Kenya 19. Rivatex East Africa Limited (GoK ownership through Moi University) 20. Kenya Broadcasting Corporation 21. Kenya Veterinary Vaccine Production Institute 22. National Mining Corporation 23. National Oil Corporation of Kenya 24. Consolidated Bank of Kenya Limited 25. Agro-Chemical and Food Company Limited (GoK ownership through Kenya Development Corporation and Agricultural Development Corporation) 26. Development Bank of Kenya Limited (GoK ownership through Kenya Development Corporation) 27. JKUAT Enterprises and Services Limited 28. Jomo Kenyatta Foundation 29. Kenya Fishing Industries Corporation 30. Kenya Industrial Estates Limited 31. Kenya Meat Commission 32. Kenya National Shipping Line Limited 33. Kenya National Trading Corporation Limited 34. Kenya Petroleum Refineries Limited 35. Kenya Post Office Savings Bank 36. University of Nairobi Enterprises and Services Limited (GoK ownership through University of Nairobi) 37. Western Kenya Rice Mills Limited 38. Bomas of Kenya (GoK ownership through Kenya Development Corporation) 39. Chemelil Sugar Company Limited (GoK ownership through Agricultural Development Corporation and Kenya Development Corporation) 40. Golf Hotel Limited (GoK ownership through Kenya Development Corporation) 41. Kabarnet Hotel Limited (GoK ownership through Kenya Development Corporation) 42. Kenya BioVax Institute Limited 43. Kenya Safari Lodges and Hotels Ltd 44. Miwani Sugar Company Limited 45. Mt. Elgon Hotel Limited (GoK ownership through Kenya Development Corporation) 46. Muhoroni Sugar Company Ltd 47. Mwea Rice Mills Limited 48. New Kenya Planters Cooperative Union Limited 49. Nzoia Sugar Company Limited 50. Pyrethrum Processing Company of Kenya 51. South Nyanza Sugar Company Limited 52. Sunset Hotel Limited (GoK ownership through Kenya Development Corporation) 53. Commodities Fund 54. Kenya National Multi Commodities Exchange Limited 55. Nyayo Tea Zones Development Corporation 56. School Equipment Production Unit 57. Government Owned Enterprises provided in the Second Schedule Cote d’Ivoire (GoK ownership through Government Owned Enterprises provided in the Second Schedule Limited) 58. Government Owned Enterprises provided in the Second Schedule Uganda SMC (GoK ownership through Government Owned Enterprises provided in the Second Schedule Limited) 59. Government Owned Enterprises provided in the Second Schedule Zambia Limited (GoK ownership through Government Owned Enterprises provided in the Second Schedule Limited) 60. Kibo Seeds Limited, Tanzania (GoK ownership through Kenya Seed Company Limited) 61. Simlaw Seeds Kenya Limited (GoK ownership through Kenya Seed Company Limited) 62. Simlaw Seeds Rwanda (GoK ownership through Kenya Seed Company Limited) 63. Simlaw Seeds Uganda Limited (GoK ownership through Kenya Seed Company Limited) 64. Gatitu Tea Factory Limited (GoK ownership through Nyayo Tea Zones Corporation Limited) 65. Kipchabo Tea Factory Limited (GoK ownership through Nyayo Tea Zones Corporation Limited)"
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [s. 4(1)(c)]",
+   "subtitle": "STATE CORPORATION",
+   "text": "1.\nAgricultural Finance Corporation 2.\nKenya Airports Authority 3.\nKenya Literature Bureau 4.\nKenya Ports Authority 5.\nKenya Railways Corporation 6.\nAgricultural Development Corporation 7.\nKenyatta International Convention Centre 8.\nNational Cereals and Produce Board 9.\nNational Housing Corporation 10. Postal Corporation of Kenya 11. Kenya Broadcasting Corporation 12. Kenya Veterinary Vaccine Production Institute 13. National Mining Corporation 14. Kenya Fishing Industries Corporation 15. Kenya Meat Commission 16. Kenya Post Office Savings Bank 17. Commodities Fund 18. Nyayo Tea Zones Development Corporation"
+  },
+  {
+   "id": "att_3",
+   "title": "THIRD SCHEDULE [s. 40(1)] REPEALS AND CONSEQUENTIAL AMENDMENTS TO OTHER ACTS",
+   "subtitle": null,
+   "text": "1. The Agriculture Finance Corporation Act is repealed. 2. The Kenya Airports Authority Act is repealed. 3. The Kenya Literature Bureau Act is repealed. 4. The Kenya Ports Authority Act is repealed. 5. The Kenya Railways Corporation Act is repealed.\nRepeal of Cap. 323. Repeal of Cap. 395. Repeal of Cap. 209. Repeal of Cap. 391. Repeal of Cap. 397.\n6. The Agricultural Development Corporation Act is repealed. 7. The National Cereals and Produce Board Act is repealed. 8. The Housing Act is repealed. 9. The Postal Corporation of Kenya Act is repealed. 10. The Kenya Broadcasting Corporation Act is repealed. 11. The National Mining Corporation Act is repealed. 12. The Kenya Meat Commission Act is repealed. 13. The Kenya Post Office Savings Bank is repealed. 14. Section 2 of the Tourism Act is amended by deleting the words “the Convention Centre” appearing in the definition of the term “tourism agencies”. 15. The Tourism Act is amended by repealing section 40.\n16. The Tourism Act is amended by repealing section 41.\n17. The Tourism Act is amended by repealing section 42.\n18. The Tourism Act is amended by repealing section 43.\n19. The Tourism Act is amended by repealing section 44.\n20. The Tourism Act is amended by repealing section 45.\n21. The Tourism Act is amended by repealing section 46.\n22. The Tourism Act is amended by repealing section 47.\nRepeal of Cap. 444.\nRepeal of Cap. 338.\nRepeal of Cap. 117.\nRepeal of Cap. 411.\nRepeal of Cap. 221.\nRepeal of Cap. 306.\nRepeal of Cap. 363.\nRepeal of Cap. 493B.\nAmendment of section 2 of Cap. 381.\nRepeal of section 40 of Cap. 381.\nRepeal of section 41 of Cap. 381.\nRepeal of section 42 of Cap. 381.\nRepeal of section 43 of Cap. 381.\nRepeal of section 44 of Cap. 381.\nRepeal of section 45 of Cap. 381.\nRepeal of section 46 of Cap. 381.\nRepeal of section 47 of Cap. 381.\n23. The Tourism Act is amended by repealing section 48.\nRepeal of section 48 of Cap. 381.\n24. The Tourism Act is amended by repealing section 49.\nRepeal of section 49 of Cap. 381.\n25. The Tourism Act is amended by repealing section 50.\nRepeal of section 50 of Cap. 381.\n26. The Tourism Act is amended by repealing the Fifth Schedule Repeal of the Fifth Schedule of Cap. 381.\n27. The Crops Act is amended by repealing section 9.\nRepeal of section 9 of Cap. 318.\n28. The Crops Act is amended by repealing section 10.\nRepeal of section 10 of Cap. 318.\n29. Section 2 of the State Corporations Act is amended in the definition of state corporation by adding the following new paragraph immediately after paragraph (viii)—\n  (ix) a Government Owned Enterprise established before or after the commencement of the Government Owned Enterprises Act, 2025."
+  },
+  {
+   "id": "att_4",
+   "title": "FOURTH SCHEDULE [s. 40(2)]",
+   "subtitle": "TRANSITION",
+   "text": "1. Companies to be successor of Government Owned Enterprises\n(1) For the purpose of bringing the provisions of this Act into operation, the respective Government Owned Enterprises provided in the Second Schedule shall, in exercise of the powers conferred by section 30 of the Interpretation and General Provisions Act (Cap. 2), incorporate in their names a public limited liability company under the provisions of the Companies Act (Cap. 486).\n(2) The respective Companies shall be the successor of the Government Owned Enterprises provided in the Second Schedule and, subject to this Act, all rights, duties, obligations, assets and liabilities of the Government Owned Enterprises provided in the Second Schedule existing on the commencement date shall be automatically and fully transferred to the respective Companies and any reference to the Government Owned Enterprises provided in the Second Schedule in any contract or document shall for all purposes be deemed to be a reference to the respective Company.\n2. Trust property\n(1) Property or right vested in the respective Company by virtue of this Act which immediately before the commencement date, vested in the Government Owned Enterprises provided in the Second Schedule, either alone or jointly with any other person—\n  (a) as trustee or custodian trustee under any trust deed, settlement, covenant or under any other instrument;\n  (b) as executor or trustee of any person;\n  (c) as judicial trustee appointed by order of any court; or\n  (d) in any other fiduciary capacity, shall, on the commencement date, vest in the Company alone or jointly with such other person, upon the same trusts and subject to the same powers, provisions, liabilities and obligations.\n(2) An existing instrument or order of any court under or by virtue of which any property or right vested in Government Owned Enterprises provided in the Second Schedule in any capacity specified in subsection (1), including, in the case of a will, any grant of probate thereof, and any provision therein or any existing contract or arrangement for the payment or retention by the Government Owned Enterprises provided in the Second Schedule of remuneration for its services in any such capacity shall, on and after the commencement date, be construed and have effect, so far as the context permits, as if for any reference therein to Government Owned Enterprises provided in the Second Schedule, there were substituted a reference to the respective Company.\n3. Existing contracts Any existing contracts, agreements, conveyances, deeds, leases, licences, permits, exemptions, powers of attorney, undertakings, securities and other instruments, whether analogous to the foregoing or not, entered into by, made with or granted or addressed to the Government Owned Enterprises provided in the Second Schedule whether alone or with any other person and whether as principal or agent shall, as from the commencement date, be binding and of full force and effect in every respect against or in favour of the respective Company as if, instead of the Government Owned Enterprises provided in the Second Schedule, the respective Company had been a party thereto, bound thereby or entitled to the benefit thereof and as if any reference, express or implied, to any director, officer or employee of the Government Owned Enterprises provided in the Second Schedule as respects anything to be done on or after the commencement date, were substituted a reference to the director, officer or employee of the respective Company who most nearly corresponds thereto.\n4. Existing business Without prejudice to the provisions of any other section of this Act, the following provisions shall have effect in relation to the business of the Government Owned Enterprises provided in the Second Schedule vested in the respective Companies by virtue of this Act—\n  (a) any account between the Government Owned Enterprises provided in the Second Schedule and a customer shall, on and after the commencement date, become an account between the respective Company and the customer, with the same rights and subject to the same obligations and incidents, including the rights of set-off as theretofore, and the account shall be deemed to be a single continuing account:\nProvided that nothing in this paragraph shall affect any right of the respective Company or of the customer to vary the conditions or incidents subject to which the account is kept;\n  (b) any existing instruction, direction, mandate, power of attorney, authority or consent given to or by the Government Owned Enterprises provided in the Second Schedule shall have effect, on and after the day, as if given to or by the respective Company;\n  (c) any security held by the Government Owned Enterprises provided in the Second Schedule for the payment of debts or liabilities, whether present or future, actual or contingent, of any person, which, is transferred to the respective Company shall, on and after the commencement date, be held by and be available to the respective Company as security for the payment of such debts and liabilities to the respective Company, and where the moneys secured by the security include future advances or liabilities of such person, the security shall, as from that day, be held by and be available to the respective Company as security for future advances to that person by, and future liabilities of, that person to the respective Company to the same extent to which the same was held by or available to the Government Owned Enterprises provided in the Second Schedule immediately before the commencement date as security for future advances or future liabilities;\n  (d) the respective Company shall, in relation to any security transferred or deemed to have been transferred to it and to the moneys thereby secured, be entitled to the same rights and priorities, and be subject to the same obligations and incidents, as the Government Owned Enterprises provided in the Second Schedule would have been entitled and subject to if the same had continued to be held by the Government Owned Enterprises provided in the Second Schedule;\n  (e) any negotiable instrument or order for payment of money, whether drawn, given, accepted or endorsed before, on or after the commencement date, which is expressed to be drawn by or on, given by or to, or accepted or endorsed by the Government Owned Enterprises provided in the Second Schedule shall on or after the commencement date have effect as if it had been drawn by or on, or given by or to, or accepted or endorsed by the respective Company;\n  (f) where, by the operation of the provisions of this Act, any right, liability or obligation becomes a right, liability or obligation of the respective Company, all other persons shall, on and after the commencement date, have the same rights, powers and remedies, and, in particular, the same rights and powers as to taking or defending any legal proceedings or any application to any authority, for ascertaining, perfecting or enforcing that right, liability or obligation as if it had at all times been aright, liability or obligation of the respective Company;\n  (g) the custody of any documents, goods or other property held by the Government Owned Enterprises provided in the Second Schedule as bailee for any other person shall be transferred to the Company on the commencement date and the rights and obligations of the Government Owned Enterprises provided in the Second Schedule under any contract of bailment relating to such documents, goods or other property shall be transferred or deemed to be transferred to the respective Company on that day; and\n  (h) any bank or other accounts, books of accounts, revenue accounts, balance sheets, audited accounts, profit and loss accounts, actuarial or other valuations, accounting records, or any other accountable documents held by or belonging to the Government Owned Enterprises provided in the Second Schedule immediately before the commencement date shall on and after the commencement date be held by and belong to the respective Company.\n5. Legal proceedings\n(1) No existing legal or arbitration proceedings or application to any authority by or against the Government Owned Enterprises provided in the Second Schedule shall abate, be discontinued or be in any way prejudiced by reason only of the provisions of this Act, but the same may be prosecuted or continued by or against the respective Company and any judgement or award obtained by or against the Government Owned Enterprises provided in the Second Schedule and not fully satisfied before the commencement date shall thereafter be enforceable by or against the respective Company.\n(2) In any legal or arbitration proceedings concerning, any right or liability transferred to or vested in the respective Company by this Act, a certificate under the hand of the manager of a branch of the respective Company that such right or liability has been so transferred to or vested in the respective Company shall be prima fade evidence of that transfer or vesting.\n6. Employees and pension schemes\n(1) A person who is employed by the Government Owned Enterprises provided in the Second Schedule immediately before the appointed pension schemes. day shall on that day become an employee of the Company on the same terms and conditions of service as his existing terms and conditions and subject to any subsisting notice of termination, resignation or variation, and such employment with the Government Owned Enterprises provided in the Second Schedule and the respective Company shall be deemed to be continuous.\n(2) Reference to the Government Owned Enterprises provided in the Second Schedule in any trust deed or rules constituting or relating to any pension scheme or provident or superannuation fund of which persons employed by the Government Owned Enterprises provided in the Second Schedule are members shall, on and after the commencement date, be construed and have effect as if the same were a reference to the respective Company but so that, for the purpose of ascertaining and calculating any right to benefits under such scheme or fund, service with the Government Owned Enterprises provided in the Second Schedule up to the commencement date shall be taken into account as if it were service with the respective Company.\n(3) The operation of any of the provisions of this section shall not of itself give rise to a claim by any person to benefit under any scheme or fund referred to in subsection (2).\n7. Evidence of books, documents, etc On and after the commencement date, all documents, records and admissions which would, before the commencement date, have been evidence in respect of any matter for or against the Government Owned Enterprises provided in the Third Schedule shall be admissible in evidence for or against the Company.\n8. Exemptions of isles, duties, etc Notwithstanding the provisions of any other written law, no corporation or other tax, no stamp or other duty and no registration fee, filing fee, reinsurance licence fee or any other fee, shall be charged or become payable on account of any transfer or vesting of any property effected by this Act or on account of anything done under paragraph 9.\n9. Duties of public officers A public officer having the power or duty to effect or amend any entry in any register relating to property, or to issue or amend any certificate or other document effecting or evidencing title to property shall, upon request made by or on behalf of the respective Company or the owner of such property, and without making any charge or receiving any fee or other payment therefore, do all such things as are by law necessary to complete the transfer of any property effected by this Act.\n10. Transition of Board Members and Staff\n(1) A person who immediately before the commencement of the Act held the office of Chairperson of a Board of a Government Owned Enterprise, appointed in accordance with the relevant legislation, shall, subject to the provisions of this Act, serve as the Chairperson of the Board of the Government Owned Enterprise.\n(2) A person who immediately before the commencement of the Act held the office of member of a Board of a Government Owned Enterprise, appointed in accordance with the relevant legislation, shall, subject to the provisions of this Act, serve as a member of the Board of the Government Owned Enterprise.\n(3) A person who immediately before the commencement of the Act held the office of Chief Executive Officer of a Government Owned Enterprise, appointed in accordance with relevant legislation, shall subject to the provisions of this Act, serve as the Chief Executive Officer of the Government Owned Enterprise.\n(4) A person who served as a member of staff of a Government Owned Enterprise shall, subject to the provisions of this Act, continue in office as a staff member of the Government Owned Enterprise.\n11. Audit and publication prior to transition\n(1) Before the transfer of any assets, liabilities, contracts, or transition of Board members and staff of a Government Owned Enterprise under this Schedule, the Auditor-General or an independent auditor approved by the Auditor-General shall audit and report the Government Owned Enterprise on –\n  (a) its accounts;\n  (b) value and condition of assets;\n  (c) all liabilities, including loans, guarantees, and contingent obligations;\n  (d) pending litigation and associated risks; and\n  (e) governance weaknesses that may affect continuity.\n(2) The Auditor-General shall publish and publicize the audit report and submit it to the National Assembly."
+  }
+ ],
+ "spent": {}
+}

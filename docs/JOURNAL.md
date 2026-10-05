@@ -1610,6 +1610,30 @@ explain, not to edit — and the best alarm is the system's own contradiction
 
 ---
 
+## 32. Your review of the first law flags (5 Oct 2026)
+
+You checked each flag by hand, and each one taught the system something.
+The Water Act's section 158 was not missing - Part IX is *spent* in the 2026
+revision, so the library now knows spent Parts. The EAC section 248 was in
+the file after all - my reader had lost it, twice (Arrangement entries next
+to Part headings; lines carrying the scan's running header). The Elections
+Act "1A" was a print slip for 39(1A). The Universities Act "2A" really does
+not exist - a human verdict, so it went into a reviewed file of dismissed
+flags with your reason.
+
+With 126 Acts saved, three more lessons: repealed sections that are listed
+but not printed stopped the reader (the Criminal Procedure Code went from 243
+to 426 sections once it steps over them); scans without text are read by
+OCR; and the amendment Acts you saved are not laws to quote but **signals** -
+they now tell the system which of its copies are older than an amendment
+(9 today, all from the Finance Acts 2025 and 2026).
+
+**Lesson 60:** a flag is a question, not an answer - every one you checked
+was a different kind of truth (spent, misread, misprinted, wrong at source),
+and each became a rule or a recorded verdict.
+
+---
+
 ## Glossary
 
 - **Text layer** — the text embedded in a PDF (exact for born-digital PDFs; a hidden OCR guess for scans).

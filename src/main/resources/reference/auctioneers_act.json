@@ -1,0 +1,735 @@
+{
+ "title": "Auctioneers Act",
+ "citation": "Cap. 526",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1996/5/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "AUCTIONEERS ACT CAP. 526 Published in Kenya Gazette Vol. XCVIII—No. 58 on 25 October 1996 Assented to on 16 October 1996 Commenced on 8 August 1997 by Auctioneers Act Commencement\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2002 (Act No. 2 of 2002) on 7 June 2002] [Amended by Statute Law (Miscellaneous Amendments) Act, 2007 (Act No. 7 of 2007) on 15 October 2007]\n[Amended by Finance Act, 2012 (Act No. 57 of 2012) on 1 January 2013] [Amended by Statute Law (Miscellaneous Amendments) Act, 2017 (Act No. 11 of 2017) on 4 May 2017]\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to consolidate and amend the law relating to auctioneers, to provide for the licensing and regulations of the business and practice of auctioneers, and for connected purposes",
+ "parts": [],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "This Act may be cited as the Auctioneers Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) In this Act, unless the context otherwise requires— \"advocate\" has the meaning assigned to it in section 2 of the Advocates Act (Cap. 16); \"auctioneer\" means a person licensed under section 10; \"Board\" means the Auctioneers Licensing Board established by section 3; \"Council of the Law Society\" means the Council of the Law Society of Kenya elected under section 13 of Law Society of Kenya Act (Cap. 18); \"court\" means any court of competent jurisdiction; \"licence\" means a licence issued under this Act; \"licensed auctioneer\" means an auctioneer licensed under this Act.\n(2) Subject to subsection (3), any person who—\n  (a) attaches for sale any movable or immovable property in execution of a court order made pursuant to the provisions of any written law or contract;\n  (b) sells or offers for sale any movable or immovable property or any interest therein by auction or by any other mode of sale by competition;\n  (c) levies distress for rent or distrains under the provisions of any written law;\n  (d) carries out evictions under an order of a court;\n  (e) repossesses goods from any person pursuant to the provisions of any written law or contract, shall, for the purposes of this Act, be deemed to carry on the business of an auctioneer. (3) The provisions of this Act shall not apply to an auction sale under the Tea Act (Cap. 343) or the Crops Act (Cap. 318) [Act No. 2 of 2002, Sch., Act No. 11 of 2017, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, unless the context otherwise requires— \"advocate\" has the meaning assigned to it in section 2 of the Advocates Act (Cap. 16); \"auctioneer\" means a person licensed under section 10; \"Board\" means the Auctioneers Licensing Board established by section 3; \"Council of the Law Society\" means the Council of the Law Society of Kenya elected under section 13 of Law Society of Kenya Act (Cap. 18); \"court\" means any court of competent jurisdiction; \"licence\" means a licence issued under this Act; \"licensed auctioneer\" means an auctioneer licensed under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to subsection (3), any person who— (a) attaches for sale any movable or immovable property in execution of a court order made pursuant to the provisions of any written law or contract; (b) sells or offers for sale any movable or immovable property or any interest therein by auction or by any other mode of sale by competition; (c) levies distress for rent or distrains under the provisions of any written law; (d) carries out evictions under an order of a court; (e) repossesses goods from any person pursuant to the provisions of any written law or contract, shall, for the purposes of this Act, be deemed to carry on the business of an auctioneer. (3) The provisions of this Act shall not apply to an auction sale under the Tea Act (Cap. 343) or the Crops Act (Cap. 318) [Act No. 2 of 2002, Sch., Act No. 11 of 2017, Sch.]"
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment and membership of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) There is established a Board to be known as the Auctioneers Licensing Board which shall consist of —\n  (a) one person qualified for appointment as a judge of the High Court or the Court of Appeal under Chapter 10 of the Constitution appointed by the Chief Justice, who shall be Chairperson;\n  (b) the Principal Secretary in the Office of the President for the time being responsible for matters relating to National Security, or his representative;\n  (c) one Chief Magistrate to be appointed by the Chief Justice;\n  (d) two advocates, of not less than ten years’ standing to be nominated by the Council of the Law Society;\n  (e) four auctioneers of not less than five years’ standing, nominated by the Chief Justice on the recommendation of the association;\n  (f) deleted by Act No. 2 of 2002, Sch.;\n  (g) one person nominated by the National Chamber of Commerce and Industry;\n  (h) one person nominated by the Kenya Bankers Association, to represent financial institutions.\n(2) A member of the Board other than an ex officio member shall hold office for three years but shall be eligible for re-appointment for one further term of three years.\n(3) Notwithstanding subsection (2), a member of the Board may—\n  (a) at any time resign from office by notice in writing to the Chief Justice;\n  (b) be removed from office by the Chief Justice if the member—\n  (i) has been absent from three consecutive meetings of the Board without permission of the Chairperson;\n  (ii) is adjudged bankrupt or enters into a composition scheme or arrangement with his creditors;\n  (iii) is convicted of a criminal offence and sentenced to imprisonment for a term exceeding six months or to a fine exceeding ten thousand shillings;\n  (iv) is incapacitated by prolonged physical or mental illness; or\n  (v) is otherwise unable or unfit to discharge his functions.\n(4) Where a member of the Board nominated under section 3(1)(a), (b), (c) or (d) is nominated to the position of High Court, Court of Appeal or Supreme Court of Kenya, the appointee shall cease to serve as a member of the Board immediately upon assumption of office or elevation.\n[Act No. 2 of 2002, Sch., Act No. 7 of 2007, Sch., Act No. 11 of 2017, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a Board to be known as the Auctioneers Licensing Board which shall consist of —"
+    },
+    {
+     "ref": "(2)",
+     "text": "A member of the Board other than an ex officio member shall hold office for three years but shall be eligible for re-appointment for one further term of three years."
+    },
+    {
+     "ref": "(3)",
+     "text": "Notwithstanding subsection (2), a member of the Board may—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Where a member of the Board nominated under section 3(1)(a), (b), (c) or (d) is nominated to the position of High Court, Court of Appeal or Supreme Court of Kenya, the appointee shall cease to serve as a member of the Board immediately upon assumption of office or elevation."
+    }
+   ]
+  },
+  "3A": {
+   "num": "3A",
+   "title": "Board to be a body corporate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Board shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding, developing or disposing of movable and immovable property;\n  (c) borrowing or lending money; and (d) doing or performing all such other things or acts, which may lawfully be done by a body corporate.\n[Act No. 11 of 2017, Sch.]",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Object and functions of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The object and purpose for which the Board is established is to exercise general supervision and control over the business and practice of auctioneers.\n(2) Without prejudice to the generality of subsection (1), the Board shall—\n  (a) license and regulate the business and practice of auctioneers;\n  (b) supervise and discipline licensed auctioneers;\n  (c) develop and facilitate adequate training programmes for licensed auctioneers;\n  (d) conduct routine inspections and visits of auctioneer's premises;\n  (e) set, maintain and continuously improve the standards of learning, professional competence and professional conduct for the provision of auctioneering services in Kenya; and (f) determine, maintain and enhance the standards of professional practice and ethical conduct and learning for the auctioneering profession in Kenya. [Act No. 2 of 2002, Sch., Act No. 11 of 2017, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The object and purpose for which the Board is established is to exercise general supervision and control over the business and practice of auctioneers."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), the Board shall— (a) license and regulate the business and practice of auctioneers; (b) supervise and discipline licensed auctioneers; (c) develop and facilitate adequate training programmes for licensed auctioneers; (d) conduct routine inspections and visits of auctioneer's premises; (e) set, maintain and continuously improve the standards of learning, professional competence and professional conduct for the provision of auctioneering services in Kenya; and (f) determine, maintain and enhance the standards of professional practice and ethical conduct and learning for the auctioneering profession in Kenya. [Act No. 2 of 2002, Sch., Act No. 11 of 2017, Sch.]"
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Powers of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Board shall have such powers as are necessary or expedient for the proper discharge of its functions under this Act.",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Meetings and procedure of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The conduct and regulation of the business and affairs of the Board shall be as provided for in the Schedule, but subject thereto, the Board may regulate its own procedure.",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Secretary to the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Chief Justice shall appoint a public officer to be the Secretary of the Board and such Secretary shall hold office for a renewable term of three years.\n(2) Where the person appointed under subsection (1) is for any reason unable to continue discharging his functions the Chief Justice may appoint another public officer to act in that capacity as the Secretary to the Board and such Secretary shall hold office for a renewable term of three years. [Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Chief Justice shall appoint a public officer to be the Secretary of the Board and such Secretary shall hold office for a renewable term of three years."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the person appointed under subsection (1) is for any reason unable to continue discharging his functions the Chief Justice may appoint another public officer to act in that capacity as the Secretary to the Board and such Secretary shall hold office for a renewable term of three years. [Act No. 2 of 2002, Sch.]"
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Revenue and expenditure",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The expenses of the Board shall be defrayed out of moneys provided by Parliament for that purpose. (2) All fees and other moneys received by the Board shall be paid into the Consolidated Fund.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The expenses of the Board shall be defrayed out of moneys provided by Parliament for that purpose. (2) All fees and other moneys received by the Board shall be paid into the Consolidated Fund."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Prohibition against unlicensed auctioneers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) No person shall, in Kenya, carry on the business of an auctioneer unless he holds a valid licence issued by the Board under this Act.\n(2) A person who contravenes the provisions of subsection (1) commits an offence and shall on conviction be liable to a fine not exceeding one hundred thousand shillings, or to imprisonment for a term not exceeding two years, or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No person shall, in Kenya, carry on the business of an auctioneer unless he holds a valid licence issued by the Board under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who contravenes the provisions of subsection (1) commits an offence and shall on conviction be liable to a fine not exceeding one hundred thousand shillings, or to imprisonment for a term not exceeding two years, or to both."
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Eligibility for licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Subject to subsection (2) of this section and to section 11, a person who satisfies the Board that he—\n  (a) is a Kenyan citizen;\n  (b) has obtained sufficient knowledge and experience for a continuous period of not less than three years under or from a reputable licensed auctioneering firm;\n  (c) has not been convicted in the ten years immediately preceding the application of an offence involving fraud, dishonesty or immorality and is otherwise of good character and reputation;\n  (d) is not disqualified under the provisions of this Act from obtaining or holding a licence, may, on application to the Board, be licensed to carry on the business of an auctioneer. (2) Notwithstanding the provisions of subsection (1), a person who—\n  (a) is a judge or a magistrate or is employed in any capacity as an executive or subordinate officer of a court; or\n  (b) deleted by Act No. 2 of 2002, Sch.;\n  (c) is an advocate deemed under section 30A of the Advocates Act (Cap. 16) to be practising in his professional capacity or is employed in any capacity by such advocate; or (d) is a public officer or an officer or employee of any local authority, statutory body or state corporation, shall not be eligible to be licensed under this Act. (3) A person who is a Member of the National Assembly, Senate or County Assembly shall be entitled to hold a general licence enabling him to realise securities and carry out repossessions in such parts of the country as may be specified therein. (4) A person who obtains or holds a licence contrary to any of the provisions of this section commits an offence and shall on conviction be liable to a fine not exceeding one hundred thousand shillings, or to imprisonment for a term not exceeding two years, or to both.\n[Act No. 2 of 2002, Sch., Act No. 11 of 2017, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2) of this section and to section 11, a person who satisfies the Board that he— (a) is a Kenyan citizen; (b) has obtained sufficient knowledge and experience for a continuous period of not less than three years under or from a reputable licensed auctioneering firm; (c) has not been convicted in the ten years immediately preceding the application of an offence involving fraud, dishonesty or immorality and is otherwise of good character and reputation; (d) is not disqualified under the provisions of this Act from obtaining or holding a licence, may, on application to the Board, be licensed to carry on the business of an auctioneer. (2) Notwithstanding the provisions of subsection (1), a person who—"
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Issue of licence in special circumstances",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Notwithstanding the provisions of section 10, the Board may issue a licence to a person who—\n  (a) deleted by Act No. 11 of 2017, Sch.;\n  (b) is not a Kenya citizen but is otherwise eligible to be licensed, to hold any auction of a specialized nature by reason of his knowledge and experience in conducting such auction.\n(2) A licensed auctioneer shall retire at the age of seventy years. [Act No. 11 of 2017, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Notwithstanding the provisions of section 10, the Board may issue a licence to a person who— (a) deleted by Act No. 11 of 2017, Sch.; (b) is not a Kenya citizen but is otherwise eligible to be licensed, to hold any auction of a specialized nature by reason of his knowledge and experience in conducting such auction."
+    },
+    {
+     "ref": "(2)",
+     "text": "A licensed auctioneer shall retire at the age of seventy years. [Act No. 11 of 2017, Sch.]"
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Licensing of auctioneers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) An application for a licence shall be made in the prescribed form and shall be forwarded to the Board together with the prescribed fee.\n(2) In considering the application, the Board may require the applicant to supply such additional information in support of the application as it may consider necessary.\n(3) The Board may, subject to the provisions of this Act and to the payment of the prescribed fee, issue a licence in the prescribed form to the applicant.\n(4) Licences issued by the Board shall be classified in such manner as may be prescribed.\n(5) A licence issued under this section shall, unless earlier revoked, be valid for twelve months next following the date of issue:\nProvided that where an application for its renewal is made, the licence shall be deemed to continue in force until the application for its renewal is determined.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An application for a licence shall be made in the prescribed form and shall be forwarded to the Board together with the prescribed fee."
+    },
+    {
+     "ref": "(2)",
+     "text": "In considering the application, the Board may require the applicant to supply such additional information in support of the application as it may consider necessary."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board may, subject to the provisions of this Act and to the payment of the prescribed fee, issue a licence in the prescribed form to the applicant."
+    },
+    {
+     "ref": "(4)",
+     "text": "Licences issued by the Board shall be classified in such manner as may be prescribed."
+    },
+    {
+     "ref": "(5)",
+     "text": "A licence issued under this section shall, unless earlier revoked, be valid for twelve months next following the date of issue:"
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Auctioneer’s identification card",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) In addition to the licence, the Board shall issue to a licensed auctioneer an identification card in permanent form, bearing the full names and address of the licensed auctioneer and the classification of his licence.\n(2) A licensed auctioneer shall, at all times while conducting auctioneer’s business within the meaning of this Act, wear his identification card.\n(3) An identification card issued to a licensed auctioneer under this section shall be incidental to the licence and shall be subject to renewal, revocation or suspension by the Board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In addition to the licence, the Board shall issue to a licensed auctioneer an identification card in permanent form, bearing the full names and address of the licensed auctioneer and the classification of his licence."
+    },
+    {
+     "ref": "(2)",
+     "text": "A licensed auctioneer shall, at all times while conducting auctioneer’s business within the meaning of this Act, wear his identification card."
+    },
+    {
+     "ref": "(3)",
+     "text": "An identification card issued to a licensed auctioneer under this section shall be incidental to the licence and shall be subject to renewal, revocation or suspension by the Board."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Conditions of licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A licence issued under this Act shall not be transferable.\n(2) A licensed auctioneer shall carry on business in his own name or in the name of a firm all of whose partners are licensed auctioneers:\nProvided that such licensed auctioneer or firm of auctioneers may employ or engage a licensed auctioneer with equal experience who shall nevertheless continue to be personally accountable to the Board.\n(3) The liability of a licensed auctioneer, in relation to the conduct of this auctioneers business, shall be unlimited.\n(4) Subject to subsection (5), before the grant of a licence, the applicant shall, if so required in any rules made under this Act, give security in such form and amount as may be prescribed as assurance for the faithful discharge of his duties.\n(5) Notwithstanding the provisions of subsection (4), the Board may dispense with the requirement of that subsection with respect to an auctioneer intending to enter into full time employment with a licensed auctioneer or firm of auctioneers, if such requirements have been met by his intended employer.\n(6) Except as may otherwise be provided by law, a licence under this Act shall not authorize any person to deal in or sell (either on account of or for the benefit of himself or of any other person) anything the dealing or sale of which is restricted to persons duly licensed or authorized in that behalf:\nProvided that it shall not be necessary for an auctioneer to take out a licence for the sale of liquor, television, radio or video sets or other items seized in the execution of a court decree or in distress for rent.\n(7) In addition to the conditions set out in this section, the Board may impose any conditions it may consider necessary on a licence and may add to, substitute or vary such conditions.\n(8) A person who breaches any of the conditions set out in this section, or any condition imposed by the Board under subsection (7) commits an offence.\n[Act No. 11 of 2017, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A licence issued under this Act shall not be transferable."
+    },
+    {
+     "ref": "(2)",
+     "text": "A licensed auctioneer shall carry on business in his own name or in the name of a firm all of whose partners are licensed auctioneers:"
+    },
+    {
+     "ref": "(3)",
+     "text": "The liability of a licensed auctioneer, in relation to the conduct of this auctioneers business, shall be unlimited."
+    },
+    {
+     "ref": "(4)",
+     "text": "Subject to subsection (5), before the grant of a licence, the applicant shall, if so required in any rules made under this Act, give security in such form and amount as may be prescribed as assurance for the faithful discharge of his duties."
+    },
+    {
+     "ref": "(5)",
+     "text": "Notwithstanding the provisions of subsection (4), the Board may dispense with the requirement of that subsection with respect to an auctioneer intending to enter into full time employment with a licensed auctioneer or firm of auctioneers, if such requirements have been met by his intended employer."
+    },
+    {
+     "ref": "(6)",
+     "text": "Except as may otherwise be provided by law, a licence under this Act shall not authorize any person to deal in or sell (either on account of or for the benefit of himself or of any other person) anything the dealing or sale of which is restricted to persons duly licensed or authorized in that behalf:"
+    },
+    {
+     "ref": "(7)",
+     "text": "In addition to the conditions set out in this section, the Board may impose any conditions it may consider necessary on a licence and may add to, substitute or vary such conditions."
+    },
+    {
+     "ref": "(8)",
+     "text": "A person who breaches any of the conditions set out in this section, or any condition imposed by the Board under subsection (7) commits an offence."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Condition with respect to sole proprietors and sole surviving partnerships",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A licensed auctioneer who—\n  (a) carries on business as a sole proprietor; or\n  (b) is the sole surviving partner in a firm of auctioneers, shall, within forty-five days of being licensed, nominate for approval by the Board, two licensed auctioneers who shall be responsible for winding up his business in the event of his death or the revocation of his licence.\n(2) A licensed auctioneer may, with the approval of the Board, at any time change his nominees under subsection (1).\n(3) If a licensed auctioneer fails to meet the requirements of subsection (1) within the prescribed period, the Board shall suspend the auctioneer’s licence and the licence shall remain so suspended until the auctioneer meets the said requirements.\n(4) Upon the death or the revocation of the licence of an auctioneer to whom this section applies, the licensed auctioneers nominated under this section shall, on being so directed by the Board, proceed to wind up the auctioneer’s business:\nProvided that where no action is taken within thirty days of the Board’s directions, the Board may nominate one or more licensed auctioneers to wind up the business and may take such further steps as may be necessary to assist in such winding up.\n[Act No. 11 of 2017, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A licensed auctioneer who—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A licensed auctioneer may, with the approval of the Board, at any time change his nominees under subsection (1)."
+    },
+    {
+     "ref": "(3)",
+     "text": "If a licensed auctioneer fails to meet the requirements of subsection (1) within the prescribed period, the Board shall suspend the auctioneer’s licence and the licence shall remain so suspended until the auctioneer meets the said requirements."
+    },
+    {
+     "ref": "(4)",
+     "text": "Upon the death or the revocation of the licence of an auctioneer to whom this section applies, the licensed auctioneers nominated under this section shall, on being so directed by the Board, proceed to wind up the auctioneer’s business:"
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Renewal of licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Board may, on application by a licensed auctioneer, renew a licence for a further period of twelve months.\n(2) An application under this section shall—\n  (a) be made in the prescribed form and forwarded to the Board together with the prescribed fee;\n  (b) be lodged with the Board at least one month prior to the expiry of the licence; and\n  (c) be considered in accordance with the provisions of sections 10 and 12.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may, on application by a licensed auctioneer, renew a licence for a further period of twelve months."
+    },
+    {
+     "ref": "(2)",
+     "text": "An application under this section shall—"
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Refusal to grant or renew licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Board may refuse to grant or renew a licence if it is satisfied that—\n  (a) the information contained in the application therefor is false or untrue in any material particular;\n  (b) the applicant does not meet any of the requirements for the issue or renewal of a licence.\n(2) Where the Board refuses to grant or renew a licence, it shall forthwith notify the applicant in the prescribed form, specifying the reasons for such refusal.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may refuse to grant or renew a licence if it is satisfied that—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Board refuses to grant or renew a licence, it shall forthwith notify the applicant in the prescribed form, specifying the reasons for such refusal."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Revocation of licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) In addition to the powers of the Board under section 24, the Board may revoke a licence if—\n  (a) it discovers that the licensed auctioneer made a statement in or in connection with the application therefore which he knew to be false or untrue in any material particular;\n  (b) any event occurs which renders the licensed auctioneer ineligible to hold a licence under this Act;\n  (c) the licensed auctioneer’s business is wound up or is otherwise dissolved;\n  (d) the licensed auctioneer is in breach of any condition attached to the licence; or\n  (e) if the licensed auctioneer does not comply with any of the provisions of this Act or any rules made thereunder.\n(2) The provisions of section 9 of the Probation of Offenders Act (Cap. 64) shall not apply to this section.\n(3) Where the revocation of a licence is contemplated, the Board shall serve the licensed auctioneer with a notice of revocation in the prescribed form.\n(4) A notice under subsection (3) shall be served not less than twenty-one days before the date of the intended revocation and shall specify the grounds for such revocation, and the Board shall consider any representations made to it in writing by the licensed auctioneer during that period and shall take every reasonable precaution to ensure fairness in the exercise of its powers under this section.\n(5) The revocation of a licence shall take effect from the date of service of a notice under subsection (4) if such notice is served on the licensed auctioneer personally, or, where the notice is sent through registered post, on a date seven days after the date of posting.\n(6) The Board shall, within fourteen days of the revocation of a licence, cause the name of the auctioneer whose licence is revoked to be published in the Gazette and in one local daily newspaper circulating in the area where the auctioneer carries on business the auctioneer may thereafter apply to the Board for the reinstatement of the licence.\n(7) An auctioneer whose licence is revoked shall forthwith surrender his licence to the Board and shall not be eligible to hold a licence under this Act for a period of five years starting from the effective date of the revocation.\n(8) Where a licence is reinstated, the holder of such licence shall be work for a period of twelve months under a licensed auctioneer of equal experience for supervision in order to become eligible to resume practice in their own capacity.\n[Act No. 2 of 2002, Sch., Act No. 11 of 2017, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In addition to the powers of the Board under section 24, the Board may revoke a licence if—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of section 9 of the Probation of Offenders Act (Cap. 64) shall not apply to this section."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the revocation of a licence is contemplated, the Board shall serve the licensed auctioneer with a notice of revocation in the prescribed form."
+    },
+    {
+     "ref": "(4)",
+     "text": "A notice under subsection (3) shall be served not less than twenty-one days before the date of the intended revocation and shall specify the grounds for such revocation, and the Board shall consider any representations made to it in writing by the licensed auctioneer during that period and shall take every reasonable precaution to ensure fairness in the exercise of its powers under this section."
+    },
+    {
+     "ref": "(5)",
+     "text": "The revocation of a licence shall take effect from the date of service of a notice under subsection (4) if such notice is served on the licensed auctioneer personally, or, where the notice is sent through registered post, on a date seven days after the date of posting."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Board shall, within fourteen days of the revocation of a licence, cause the name of the auctioneer whose licence is revoked to be published in the Gazette and in one local daily newspaper circulating in the area where the auctioneer carries on business the auctioneer may thereafter apply to the Board for the reinstatement of the licence."
+    },
+    {
+     "ref": "(7)",
+     "text": "An auctioneer whose licence is revoked shall forthwith surrender his licence to the Board and shall not be eligible to hold a licence under this Act for a period of five years starting from the effective date of the revocation."
+    },
+    {
+     "ref": "(8)",
+     "text": "Where a licence is reinstated, the holder of such licence shall be work for a period of twelve months under a licensed auctioneer of equal experience for supervision in order to become eligible to resume practice in their own capacity."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Suspension of licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Board may suspend a licence for a period not exceeding six months if—\n  (a) the licensed auctioneer is charged with any offence involving fraud, dishonesty, immorality, violence or malicious damage to property;\n  (b) having received a complaint against a licensed auctioneer under section 24 in respect of his conduct in executing court orders or in distraining, the Board considers it appropriate to suspend the licence pending further investigation of the complaint; or\n  (c) in the execution of his duties, the licensed auctioneer has acted in a manner incompatible with his status as an officer of the court.\n(2) Where a licence is suspended, the Board shall serve a notice of suspension in the prescribed form on the licensed auctioneer personally or through registered post, specifying the reason for the suspension.\n(3) The suspension of a licence under this section shall take effect from the date of service of a notice under subsection (2) if served personally on the licensed auctioneer or, if sent through registered post, on a date seven days after the date of posting.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may suspend a licence for a period not exceeding six months if—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a licence is suspended, the Board shall serve a notice of suspension in the prescribed form on the licensed auctioneer personally or through registered post, specifying the reason for the suspension."
+    },
+    {
+     "ref": "(3)",
+     "text": "The suspension of a licence under this section shall take effect from the date of service of a notice under subsection (2) if served personally on the licensed auctioneer or, if sent through registered post, on a date seven days after the date of posting."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Register of licences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Board shall keep a register, in such form as it may determine, of all licences issued under this Act and shall enter therein in respect of every licence—\n  (a) the full names and identity card number of the auctioneer;\n  (b) the place of business in respect of which the licence is granted;\n  (c) the county or counties to which the licence relates;\n  (d) the date of expiry of the licence;\n  (e) particulars of any amendment to the licence;\n  (f) particulars of any revocation or suspension of the licence;\n  (g) any other particulars the Board may require to be recorded.\n(2) Any person may, during working hours and on payment of the prescribed fee, inspect the register of licences:\nProvided that a person who is—\n  (a) a member of the police force or a public officer acting in the course of his duty; or\n  (b) authorized in writing by the Board, may inspect the register without payment of any fee.\n[Act No. 11 of 2017, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall keep a register, in such form as it may determine, of all licences issued under this Act and shall enter therein in respect of every licence—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person may, during working hours and on payment of the prescribed fee, inspect the register of licences:"
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Auction sales",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The date, time and place of every sale by auction shall be advertised in the prescribed manner and such sale shall take place on the date, at the time and at the place so advertised.\n(2) Where any movable or immovable property is put up for sale by auction in lots, each lot shall prima facie be deemed to be the subject of a separate contract of sale.\n(3) It shall be stated in the particulars or conditions of any sale by auction of any property whether such sale shall be subject to a reserve price or not or whether a right to bid is reserved.\n(4) If it is stated that the sale be without reserve or to that effect, then it shall not be lawful for the seller or any person employed by him to bid at such sale, or for the auctioneer to take knowingly any such bidding:\nProvided that if it is stated that the sale shall be subject to a right for the seller to bid, then it shall be lawful for the seller or for any person acting on his behalf to bid at such auction.\n(5) If it is stated that the sale will be subject to a reserve price as regards any one or more lots, it shall be lawful for the seller or any person acting on his behalf to give one bid for each such lot and no more.\n(6) If the seller or any person acting on his behalf bids at any sale contrary to any of the provisions of this section, any purchaser may refuse to fulfill his purchase:\nProvided that the highest bona fide bidder shall be entitled, if he shall so elect, to have the property at the price offered by him.\n(7) No auctioneer shall make a bid either on behalf of himself or as agent for any other person unless on making such bid, he announces that it is his bid.\n(8) A bidder may retract his bid at any time before the sale is complete.\n(9) A person who, knowingly—\n  (a) receives or makes any bid contrary to the provisions of this section; or\n  (b) makes a bid which he cannot honour or is fraudulent, or is intended to avoid a valid sale which is subject to the bid, commits an offence.\n(10) Where a person convicted of an offence under this section is a licensed auctioneer, he shall, in addition to any other penalty imposed, be liable to having his licence revoked.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The date, time and place of every sale by auction shall be advertised in the prescribed manner and such sale shall take place on the date, at the time and at the place so advertised."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where any movable or immovable property is put up for sale by auction in lots, each lot shall prima facie be deemed to be the subject of a separate contract of sale."
+    },
+    {
+     "ref": "(3)",
+     "text": "It shall be stated in the particulars or conditions of any sale by auction of any property whether such sale shall be subject to a reserve price or not or whether a right to bid is reserved."
+    },
+    {
+     "ref": "(4)",
+     "text": "If it is stated that the sale be without reserve or to that effect, then it shall not be lawful for the seller or any person employed by him to bid at such sale, or for the auctioneer to take knowingly any such bidding:"
+    },
+    {
+     "ref": "(5)",
+     "text": "If it is stated that the sale will be subject to a reserve price as regards any one or more lots, it shall be lawful for the seller or any person acting on his behalf to give one bid for each such lot and no more."
+    },
+    {
+     "ref": "(6)",
+     "text": "If the seller or any person acting on his behalf bids at any sale contrary to any of the provisions of this section, any purchaser may refuse to fulfill his purchase:"
+    },
+    {
+     "ref": "(7)",
+     "text": "No auctioneer shall make a bid either on behalf of himself or as agent for any other person unless on making such bid, he announces that it is his bid."
+    },
+    {
+     "ref": "(8)",
+     "text": "A bidder may retract his bid at any time before the sale is complete."
+    },
+    {
+     "ref": "(9)",
+     "text": "A person who, knowingly—"
+    },
+    {
+     "ref": "(10)",
+     "text": "Where a person convicted of an offence under this section is a licensed auctioneer, he shall, in addition to any other penalty imposed, be liable to having his licence revoked."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Recovery of charges by auctioneer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A licensed auctioneer making, any sale other than an auction of attached property shall, unless it is otherwise agreed between him and the seller, be entitled to sue for, recover and discharge all sums due in respect of the sale.\n(2) A licensed auctioneer making any sale, unless it is otherwise agreed between him and the seller, shall be liable to the due payment to the seller of the net proceeds of all sales of property within fifteen days of the sale.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A licensed auctioneer making, any sale other than an auction of attached property shall, unless it is otherwise agreed between him and the seller, be entitled to sue for, recover and discharge all sums due in respect of the sale."
+    },
+    {
+     "ref": "(2)",
+     "text": "A licensed auctioneer making any sale, unless it is otherwise agreed between him and the seller, shall be liable to the due payment to the seller of the net proceeds of all sales of property within fifteen days of the sale."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Duties of auctioneers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "A licensed auctioneer shall—\n  (a) at all times act in a manner befitting an officer of the court and shall ensure that his employees, servants or agents act in like manner;\n  (b) act in accordance with such rules as may be prescribed when repossessing, attaching, storing or selling any property pursuant to the provisions of any written law or contract;\n  (c) maintain such books, accounts, records or other documents as may be prescribed and furnish the same to the Board at such time and in such manner as may be prescribed.",
+   "clauses": []
+  },
+  "24": {
+   "num": "24",
+   "title": "Complaints against auctioneers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A complaint against a licensed auctioneer of misconduct, which expression includes disgraceful or dishonourable conduct incompatible with the status of an auctioneer, may be made to the Board by any aggrieved person within a period of one year after the occurrence of the event giving rise to the complaint.\n(2) Where a person makes a complaint under this section, the complaint shall be by affidavit by himself setting out the allegations of misconduct which appear to arise on the complaint, and shall be forwarded to the Board together with the prescribed fee.\n(3) The Board shall give the licensed auctioneer against whom the complaint is made an opportunity to file an affidavit in reply to the allegations and to appear before it, and shall furnish him with a copy of the complaint, and of any evidence in support thereof, and shall give him an opportunity of inspecting any relevant document not less than seven days before the date fixed for the hearing:\nProvided that where in the opinion of the Board the complaint does not disclose any prima facie case of misconduct, the Board may at any stage of the proceedings, dismiss the complaint without requiring the licensed auctioneer to whom the complaint relates to answer any allegation made against him and without hearing the complaint.\n(4) After hearing the complaint and the licensed auctioneer to whom the complaint relates, if he wishes to be heard, and considering the evidence adduced, the Board may order that the complaint be dismissed or if it is of the opinion that a case of misconduct on the part of the auctioneer has been made out, the Board may order—\n  (a) that the licensed auctioneer be admonished; or\n  (b) that the auctioneer’s licence be suspended for such period, not exceeding six months as the Board thinks fit; or\n  (c) that the auctioneers licence be revoked; or\n  (d) that such condition or conditions as it deems appropriate be attached to the auctioneer’s licence; or\n  (e) that the licensed auctioneer pay a fine not exceeding one hundred thousand shillings; or\n  (f) that the licensed auctioneer pay compensation not exceeding one hundred thousand shillings to the person damnified by his misconduct; or\n  (g) that the auctioneer be disqualified from holding an auctioneer’s licence for such period as the Board thinks fit; or\n  (h) such combination of the above orders as the Board thinks fit.\n(5) The Board may make such order as to the payment by any party of any costs or witness’ expenses and as to the expenses of the Board or the members thereof in connection with the hearing of any complaint as it may think fit.\n(6) Any order of the Board may be filed with a subordinate court and shall, upon service of the notice of filing thereof upon the licensed auctioneer, be enforceable in the same manner as an order of the subordinate court to the like effect.\n[Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A complaint against a licensed auctioneer of misconduct, which expression includes disgraceful or dishonourable conduct incompatible with the status of an auctioneer, may be made to the Board by any aggrieved person within a period of one year after the occurrence of the event giving rise to the complaint."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a person makes a complaint under this section, the complaint shall be by affidavit by himself setting out the allegations of misconduct which appear to arise on the complaint, and shall be forwarded to the Board together with the prescribed fee."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board shall give the licensed auctioneer against whom the complaint is made an opportunity to file an affidavit in reply to the allegations and to appear before it, and shall furnish him with a copy of the complaint, and of any evidence in support thereof, and shall give him an opportunity of inspecting any relevant document not less than seven days before the date fixed for the hearing:"
+    },
+    {
+     "ref": "(4)",
+     "text": "After hearing the complaint and the licensed auctioneer to whom the complaint relates, if he wishes to be heard, and considering the evidence adduced, the Board may order that the complaint be dismissed or if it is of the opinion that a case of misconduct on the part of the auctioneer has been made out, the Board may order—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The Board may make such order as to the payment by any party of any costs or witness’ expenses and as to the expenses of the Board or the members thereof in connection with the hearing of any complaint as it may think fit."
+    },
+    {
+     "ref": "(6)",
+     "text": "Any order of the Board may be filed with a subordinate court and shall, upon service of the notice of filing thereof upon the licensed auctioneer, be enforceable in the same manner as an order of the subordinate court to the like effect."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Appeals",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A person aggrieved by a decision of the Board under this Act may, within thirty days after receipt by him of written notice of such decision, appeal against the decision to the High Court by giving notice of appeal to the Registrar thereof setting out the grounds of appeal within thirty days after the giving by him of the notice.\n(2) The decision of the High Court on an appeal under this section shall be final.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person aggrieved by a decision of the Board under this Act may, within thirty days after receipt by him of written notice of such decision, appeal against the decision to the High Court by giving notice of appeal to the Registrar thereof setting out the grounds of appeal within thirty days after the giving by him of the notice."
+    },
+    {
+     "ref": "(2)",
+     "text": "The decision of the High Court on an appeal under this section shall be final."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Right to recover damages from auctioneer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Subject to the provisions of any other written law, a person who suffers any special or general damages by the unlawful or improper exercise of any power by a licensed auctioneer shall be entitled to recover any damages directly suffered by him from the auctioneer by action:\nProvided that nothing in this section shall—\n  (a) prevent the auctioneer from claiming contribution or indemnity from any other person;\n  (b) limit the damages recoverable under any other written law.",
+   "clauses": []
+  },
+  "27": {
+   "num": "27",
+   "title": "General penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "A person convicted of an offence under this Act for which no other penalty is specified shall be liable to a fine not exceeding one hundred thousand shillings, or to imprisonment for a term not exceeding two years, or to both.",
+   "clauses": []
+  },
+  "28": {
+   "num": "28",
+   "title": "Court may order revocation or suspension of licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A court in imposing a penalty on a licensed auctioneer for an offence under this Act or under any other written law may, if in the opinion of the court the offence is of such nature as to warrant the suspension or revocation of the auctioneer’s licence, order the suspension or revocation of the licence.\n(2) The court shall forthwith notify the Board of every order under subsection (1).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A court in imposing a penalty on a licensed auctioneer for an offence under this Act or under any other written law may, if in the opinion of the court the offence is of such nature as to warrant the suspension or revocation of the auctioneer’s licence, order the suspension or revocation of the licence."
+    },
+    {
+     "ref": "(2)",
+     "text": "The court shall forthwith notify the Board of every order under subsection (1)."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Acquittal no bar to disciplinary proceedings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The acquittal of a licensed auctioneer of an offence shall not prejudice the Board’s power to take disciplinary action against the auctioneer in accordance with the provisions of this Act.",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "Rules",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Chief Justice may make Rules for the better carrying out of the provisions of this Act and in particular, such rules may provide for—\n  (a) the manner of issue, amendment, renewal, revocation and suspension of licenses;\n  (b) the duties of licensed auctioneers when attaching, repossessing, storing or selling property under the provisions of any written law or contract;\n  (c) the duties of licensed auctioneers when acting as officers of the court, subject to the provisions of any other written law;\n  (d) the accounts and records to be kept by licensed auctioneers;\n  (e) the procedure for disciplining licensed auctioneers;\n  (f) the forms to be used, the fees payable by and the remuneration of licensed auctioneers; and (g) the training of auctioneers.",
+   "clauses": []
+  },
+  "31": {
+   "num": "31",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "",
+   "clauses": []
+  },
+  "32": {
+   "num": "32",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "",
+   "clauses": []
+  },
+  "33": {
+   "num": "33",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "",
+   "clauses": []
+  },
+  "34": {
+   "num": "34",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "",
+   "clauses": []
+  },
+  "35": {
+   "num": "35",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "",
+   "clauses": []
+  },
+  "36": {
+   "num": "36",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "",
+   "clauses": []
+  },
+  "37": {
+   "num": "37",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "Act not to apply to Customs auctions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The provisions of this Act shall not apply to any auction conducted in accordance with the provisions of the East African Community Customs Management Act, 2004.\n[Act No. 57 of 2012, s. 54.]",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 6]",
+   "subtitle": "MEETINGS AND PROCEDURE OF THE BOARD",
+   "text": "[Act No. 2 of 2002, Sch.]\n1. The Board shall meet at least once every three months.\n2. A meeting of the Board shall be held on such date and at such time as the Board shall decide or, in the absence of such decision or on any occasion on which the Chairperson in consultation with the secretary shall decide that a meeting is necessary, on a date and at a time determined by the Chairperson.\n3. The Chairperson shall, on the application of at least four members, convene a special meeting of the Board.\n4. Unless three-quarters of the total membership of the Board otherwise agree, at least fourteen days written notice of every meeting of the Board shall be given to every member of the Board.\n5. The quorum for the conduct of a meeting of the Board shall be—\n  (a) in the case of a meeting to consider a matter other than a disciplinary matter, six members; or\n  (b) in the case of a meeting to consider a disciplinary matter, three members:\nProvided that in each case at least one member shall be a qualified lawyer.\n6. (a) The Chairperson shall preside at every meeting of the Board at which he is present but in the absence of the Chairperson from a meeting, the Board shall elect one of the advocates appointed under section 3(1)(d) who shall, with respect to that meeting and the business transacted thereat, have all the powers of the Chairperson.\n  (b) Where the Secretary to the Board is unable to attend a meeting of the Board, the Board shall appoint one of the members appointed under section 3(1)(d) to serve as Secretary with respect to that meeting.\n7. Unless a unanimous decision is reached, a decision on any matter before the Board shall be by a majority of votes of the members present and in the case of an equality of votes, the Chairperson or the person presiding shall have a casting vote.\n8. Subject to paragraph 5, no proceedings of the Board shall be invalid by reason only of a vacancy among the members thereof.\n9. For the purposes of any application or complaint made to it under this Act, the Board may administer oaths or affirmations, and the complainant and the licensed auctioneer to whom a complaint relates, and an applicant making any application to the Board may take out a summons to give evidence or to produce documents, but no person shall be compellable under any such summons to produce any document which he could not legally be compelled to produce at the trial of a suit.\n10. All proceedings before the Board shall be deemed for the purposes of Chapter XI of the Penal Code (Cap. 63), to be judicial proceedings and for the purposes of Chapter VIII of the Evidence Act (Cap. 80) to be legal proceedings.\n11. All instruments made by and all decisions of the Board shall be signified under the hand of the Chairperson and the secretary.\n12. The Board shall cause minutes of all proceedings of meetings of the Board to be entered in books kept for that purpose.\n13. Except as provided in this Schedule, the Board shall regulate its own procedure."
+  }
+ ],
+ "spent": {}
+}

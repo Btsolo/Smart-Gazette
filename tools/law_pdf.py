@@ -32,9 +32,31 @@ RE_LETTER = re.compile(r'^\(([a-z]{1,4})\)\s')
 
 def text_of(pdf_path):
     out = subprocess.run(['pdftotext', '-enc', 'UTF-8', pdf_path, '-'], capture_output=True).stdout.decode('utf-8', 'replace')
+    if len(re.sub(r'\s+', '', out)) < 200:
+        out = ocr_text(pdf_path)                     # a scan without a text layer
     for a, b in LIGATURES.items():
         out = out.replace(a, b)
     return out
+
+
+def ocr_text(pdf_path):
+    """Tesseract text of a PDF without a text layer, one page per form feed;
+    cached beside the PDF in .ocr/ (gitignored with raw/) so a rebuild is fast"""
+    import os, tempfile, glob
+    cache = os.path.join(os.path.dirname(pdf_path), '.ocr', os.path.basename(pdf_path)[:-4] + '.txt')
+    if os.path.exists(cache) and os.path.getmtime(cache) >= os.path.getmtime(pdf_path):
+        return open(cache, encoding='utf-8').read()
+    tmp = tempfile.mkdtemp(prefix='lawocr')
+    subprocess.run(['pdftoppm', '-r', '300', '-gray', '-png', pdf_path, os.path.join(tmp, 'p')], capture_output=True)
+    pages = []
+    for png in sorted(glob.glob(os.path.join(tmp, 'p*.png'))):
+        r = subprocess.run(['tesseract', png, '-', '-l', 'eng'], capture_output=True)
+        pages.append(r.stdout.decode('utf-8', 'replace'))
+        os.remove(png)
+    text = '\f'.join(pages)
+    os.makedirs(os.path.dirname(cache), exist_ok=True)
+    open(cache, 'w', encoding='utf-8').write(text)
+    return text
 
 
 def tidy(s):
@@ -114,17 +136,57 @@ def render(lines):
     return '\n'.join(text)
 
 
+RE_SPENT_PART = re.compile(r'\bPart\s+([IVXLC]+[A-Z]?)\s*[—–-]+\s*\[Spent\]', re.I)
+
+
+def spent_sections(raw, preamble):
+    """{section: part} for a Part the revised edition marks "[Spent]" and no
+    longer prints (Water Act: "Part IX - [Spent]"). Its sections come from the
+    commencement note, "Part IX, (section 148-151, section 153 -154, section
+    156-159)": the Part spans the lowest to the highest number listed."""
+    out = {}
+    note = tidy(' '.join(preamble)) + ' ' + tidy(raw[:20000])
+    for part in sorted(set(m.group(1).upper() for m in RE_SPENT_PART.finditer(raw))):
+        m = re.search(r'\bPart\s+' + part + r'\b,?\s*\(([^)]*)\)', note)
+        if not m:
+            continue
+        nums = [int(n) for n in re.findall(r'\d+', m.group(1))]
+        if nums:
+            for n in range(min(nums), max(nums) + 1):
+                out[str(n)] = part
+    return out
+
+
 def parse(pdf_path):
     raw = text_of(pdf_path)
     pages = raw.split('\f')
     head = '\n'.join(pages[:3])
     # the running header is the most common first line of the body pages
-    firsts = [p.strip().split('\n')[0].strip() for p in pages if p.strip()]
-    header = max(set(firsts), key=firsts.count)
+    # the running header ("Land Registration Act (Cap. 300)") is the most common
+    # first line of the pages - not "Kenya", which Kenya Law prints on every page
+    # and wins on a two-page Act (Estate Duty (Abolition) Act, 1982)
+    firsts = []
+    for p in pages:
+        lines = [l.strip() for l in p.strip().split('\n') if l.strip() and l.strip() != 'Kenya'
+                 and not re.fullmatch(r'\d{1,4}', l.strip())]
+        if lines:
+            firsts.append(lines[0])
+    header = max(set(firsts), key=firsts.count) if firsts else ''
+    header = re.sub(r'\s+Contents$', '', header)          # a short Act: the Contents heading
     m = re.match(r'^(.*?)\s*\(([^()]*)\)\s*$', header)
     title, citation = (tidy(m.group(1)), tidy(m.group(2))) if m else (header, None)
     version = re.search(r'Legislation as at\s+(\d{1,2}\s+\w+\s+\d{4})', head)
     frbr = re.search(r'FRBR URI:\s*(\S+)', head)
+    cover = re.match(r'^LAWS OF KENYA\s+THE\s+(.+)$', title or '')
+    if cover:
+        # a very short Act has no running header, only the cover line
+        # ("LAWS OF KENYA THE ESTATE DUTY (ABOLITION) ACT")
+        small = {'of', 'and', 'the', 'for', 'on', 'in', 'to', 'by'}
+        words = cover.group(1).split()
+        title = ' '.join(w.lower() if k and w.lower() in small else w[:1] + w[1:].lower() if w[0] != '(' else
+                         '(' + w[1:2] + w[2:].lower() for k, w in enumerate(words))
+        num = re.search(r'/act/(\d{4})/(\d+)/', frbr.group(1)) if frbr else None
+        citation = 'Act No. %s of %s' % (num.group(2), num.group(1)) if num else citation
     # the body starts on the page with the Act's own heading / assent line
     start = next((i for i, p in enumerate(pages)
                   if i > 0 and re.search(r'Assented to on|Commenced on|AN ACT of Parliament|^\s*1\.\s', p, re.M)
@@ -141,9 +203,17 @@ def parse(pdf_path):
 
     def heading_of(line):
         """the expected section (index) this line opens, or None; looks ahead 3
-        entries so one missed heading does not stop the rest"""
-        for j in range(i, min(i + 4, len(expected))):
+        entries so one missed heading does not stop the rest. Repealed / deleted
+        entries ("[Repealed by Act No. 33 of 1963]") are often not printed in the
+        body, so they are stepped over without counting (Criminal Procedure Code
+        ss. 222-...)."""
+        counted = 0
+        for j in range(i, len(expected)):
             num, ttl = expected[j][1], expected[j][2]
+            if not ttl.startswith('['):
+                counted += 1
+                if counted > 4:
+                    break
             if not line.startswith(num + '.'):
                 continue
             rest = line[len(num) + 1:].strip()
@@ -200,11 +270,18 @@ def parse(pdf_path):
         else:
             cur['lines'].append(line)
     close()
+    # a repealed / deleted section the body does not print keeps its Contents note
+    # ("[Repealed by Act No. 33 of 1963, 1st Sch.]"): a notice citing it is told so
+    for kind, num, ttl in entries:
+        if kind == 'section' and num not in provisions and ttl.startswith('['):
+            provisions[num] = {'num': num, 'title': ttl, 'chapter': None, 'chapter_title': None,
+                               'part': None, 'part_title': None, 'text': ttl, 'clauses': []}
     for s in schedules:
         body = s.pop('lines')
         if body and body[0].isupper() and len(body[0]) < 120:
             s['subtitle'], body = body[0], body[1:]
         s['text'] = render(body)
+    spent = spent_sections(raw, preamble)
     return {
         'title': title,
         'citation': citation,
@@ -221,6 +298,7 @@ def parse(pdf_path):
         'parts': parts,
         'provisions': provisions,
         'schedules': schedules,
+        'spent': spent,
         'check': {'sections_in_contents': len(expected), 'sections_found': len(provisions),
                   'missing': [e[1] for e in expected if e[1] not in provisions]},
     }
@@ -237,15 +315,33 @@ RE_ARR_ENTRY = re.compile(r'(?:(?<=\s)|^)(\d+[A-Z]{0,2})\s*[\u2015\u2014\u2013.]
 MONTH_WORDS = r'(\d{1,2})(?:st|nd|rd|th)?\s+([A-Z][a-z]+),?\s+(\d{4})'
 
 
+RE_ARR_NUM = re.compile(r'(?<![\w.])(\d+[A-Z]{0,2})\s*[―—–.]\s*(?=[A-Z\[])')
+RE_ARR_TAIL = re.compile(r'\s*(?:PART\s+[IVXLC]+\b.*|SCHEDULES?\b.*|(?:FIRST|SECOND|THIRD)\s+SCHEDULE.*)$', re.S)
+
+
 def arrangement_entries(lines):
-    """[(num, title)] from the ARRANGEMENT OF SECTIONS lines (they may run on one line)"""
-    out, seen = [], set()
-    for line in lines:
-        for m in RE_ARR_ENTRY.finditer(line):
-            num, title = m.group(1), tidy(m.group(2)).rstrip('.')
-            if num not in seen and (not out or _after(num, out[-1][0])):
-                out.append((num, title))
-                seen.add(num)
+    """[(num, title)] from the ARRANGEMENT OF SECTIONS: walk the section numbers
+    in order (1., 2., ... 12A., 13.) over the whole text - entries run on one line
+    and Part headings sit between them ("228. Power of officer to prosecute.
+    PART XX APPEALS 229. ..."), so a number is taken only when it follows the
+    previous one closely; a Part heading at the end of a title is cut off."""
+    text = tidy(' '.join(lines))
+    cands = [(m.start(), m.end(), m.group(1)) for m in RE_ARR_NUM.finditer(text)]
+    kept = []
+    for c in cands:
+        n, suf = _key(c[2])
+        if not kept:
+            if n == 1:
+                kept.append(c)
+            continue
+        pn, psuf = _key(kept[-1][2])
+        if (n == pn and suf > psuf) or (pn < n <= pn + 3 and (not suf or n == pn + 1)):
+            kept.append(c)
+    out = []
+    for k, (start, end, num) in enumerate(kept):
+        stop = kept[k + 1][0] if k + 1 < len(kept) else len(text)
+        title = RE_ARR_TAIL.sub('', text[end:stop]).strip().rstrip('.').strip()
+        out.append((num, title))
     return out
 
 
@@ -274,9 +370,15 @@ def parse_arrangement(pdf_path, raw=None):
     lines = []
     for pg in pages:
         for l in pg.split('\n'):
-            t = l.strip()
-            if not t or t in run or re.fullmatch(r'\d{1,4}', t) or re.search(r'\[Rev\.\s*\d{4}', t):
+            # a scanned page's running header ("[Rev. 2009") can share a line with
+            # real text: cut the header out, keep the rest
+            t = re.sub(r'\[Rev\.\s*\d{4}\]?', ' ', l).strip()
+            if not t or t in run or re.fullmatch(r'\d{1,4}', t):
                 continue
+            for r in sorted(run, key=len, reverse=True):      # "<running title> 123. (1) ..."
+                if len(r) > 15 and t.startswith(r + ' '):
+                    t = t[len(r):].strip()
+                    break
             lines.append(t)
     flat = '\n'.join(lines)
     a0 = flat.find('ARRANGEMENT OF SECTIONS')

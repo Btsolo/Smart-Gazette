@@ -1,0 +1,600 @@
+{
+ "title": "Kenya Medical Training College Act",
+ "citation": "Cap. 261",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1990/14/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "KENYA MEDICAL TRAINING COLLEGE ACT CAP. 261 Published in Kenya Gazette Vol. XCII—No. 55 on 21 December 1990 Commenced on 1 April 1991 by Kenya Medical Training College Act Commencement\n[Amended by Health Laws (Amendment) Act, 2019 (Act No. 5 of 2019) on 17 May 2019] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to establish the Kenya Medical Training College as a self-governing institution and to provide for its government, control and management and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ESTABLISHMENT AND FUNCTIONS OF THE COLLEGE",
+   "provisions": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "MEMBERSHIP AND GOVERNMENT OF THE COLLEGE",
+   "provisions": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "15",
+    "16",
+    "17",
+    "18"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "19",
+    "20",
+    "21",
+    "22",
+    "23"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Kenya Medical Training College Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— “Academic Board” deleted by Act No. 5 of 2019, Sch.; \"Academic Council” means the Academic Council of the College established under section 11; “Alumni Association” means the Alumni Association of the College established under section 12; \"Board of Directors\" means the Board of Directors of the College established under section 9; “Board of Management” deleted by Act No. 5 of 2019, Sch.; \"Cabinet Secretary” means the Cabinet Secretary for the time being responsible for matters relating to health; \"Chief Executive Officer” means the Chief Executive Officer appointed under section 8; “College” means the Kenya Medical Training College established under section 3; “constituent training centre” means a constituent training centre of the College specified in the Schedule and any other centre or institution declared to be a constituent training centre of the College under section 3(1)(b); \"Deputy Director” means a Deputy Director of the College appointed under section 8. “Deputy Principal” deleted by Act No. 5 of 2019, Sch.; “faculty” means a faculty of the College established under section 5(2); “graduate” means a person upon whom a diploma or certificate has been conferred by the College; “Principal” deleted by Act No. 5 of 2019, Sch.; “statutes” means the statutes made by the Board of Directors under section 19.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment and incorporation of the College",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND FUNCTIONS OF THE COLLEGE",
+   "text": "(1) There shall be established a College which shall be the successor to the Government in respect of the institution hitherto known as the College of Health Professions, Nairobi, and which shall include—\n  (a) the campuses specified in the Schedule; and\n  (b) such other institutions as the Cabinet Secretary may, from time to time in consultation with the Board of Directors, by notice in the Gazette, declare to be a campus of the College.\n(2) The College shall be a body corporate by the name of the Kenya Medical Training College with perpetual succession and a common seal, and shall, in that name be capable of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding, charging and disposing of movable and immovable property;\n  (c) borrowing and lending money; and\n  (d) doing or performing all such other things or acts, including entering into such contracts as may be necessary or expedient for the furtherance of the provisions of this Act which may lawfully be done by a body corporate.\n(3) The headquarters of the College shall be in Nairobi.\n[Act 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be established a College which shall be the successor to the Government in respect of the institution hitherto known as the College of Health Professions, Nairobi, and which shall include—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The College shall be a body corporate by the name of the Kenya Medical Training College with perpetual succession and a common seal, and shall, in that name be capable of—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The headquarters of the College shall be in Nairobi."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Common seal and signification of documents",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND FUNCTIONS OF THE COLLEGE",
+   "text": "(1) The Common seal of the College shall be kept in the custody of the Corporation Secretary and shall not be used except by the order of the Board of Directors.\n(2) The common seal of the College shall be kept in the custody of the Corporation Secretary and shall be authenticated by the signature of the Chief Executive Officer.\n(3) The common seal of the College when affixed to any document and authenticated under this section shall be judicially and officially noticed, and unless the contrary is proved, any necessary order or authorization of the Board of Directors shall be presumed to have been duly given.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Common seal of the College shall be kept in the custody of the Corporation Secretary and shall not be used except by the order of the Board of Directors."
+    },
+    {
+     "ref": "(2)",
+     "text": "The common seal of the College shall be kept in the custody of the Corporation Secretary and shall be authenticated by the signature of the Chief Executive Officer."
+    },
+    {
+     "ref": "(3)",
+     "text": "The common seal of the College when affixed to any document and authenticated under this section shall be judicially and officially noticed, and unless the contrary is proved, any necessary order or authorization of the Board of Directors shall be presumed to have been duly given."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Functions of the College",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND FUNCTIONS OF THE COLLEGE",
+   "text": "(1) The objects and functions of the College shall be—\n  (a) to provide facilities for college education for national health manpower requirements, in addition to facilities provided by universities, other colleges, or schools or institutions;\n  (b) to play an effective role in the development and expansion of opportunities for Kenyans wishing to continue with their education in the disciplines approved by the Academic Council;\n  (c) to provide consultancy services in health related areas;\n  (d) to develop health trainers who can effectively teach, conduct operational research, develop relevant and usable health learning materials and manage health training institutions;\n  (e) to undertake research in disciplines and matters approved by the Academic Board either directly or through the medium of connected universities, or other colleges, schools or institutions;\n  (f) to conduct examinations for and to grant diplomas, certificates, and other awards of the College;\n  (g) to determine who may teach and what may be taught and how it may be taught in the College; and\n  (h) to examine and make proposals for the establishment of campuses and faculties. (2) For the better carrying out of the functions and objects of the College, the Board of Directors may establish faculties of the College. [Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The objects and functions of the College shall be—"
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Admission to the College",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND FUNCTIONS OF THE COLLEGE",
+   "text": "Admission to the College as candidates for diplomas, certificates or other awards shall be open to all persons accepted as being qualified by the Academic Board, without distinction of race, tribe, place of origin or residence or other local connections, political opinion, colour, creed or sex; and no barrier based on any such distinction shall be imposed upon any person as a condition of his becoming, or continuing to be a lecturer, graduate, or student of the College, or of his holding office in the College, nor shall any preference be given to, or advantage be withheld from, any person on the grounds of any such distinction.",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Membership of the College",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MEMBERSHIP AND GOVERNMENT OF THE COLLEGE",
+   "text": "The members of the College shall be—\n  (a) the Chief Executive Officer;\n  (b) the Deputy Directors;\n  (c) the head of each campus;\n  (d) the members of the Board of Directors;\n  (e) the members of the Academic Council;\n  (f) the lecturers and tutors;\n  (g) the librarian;\n  (h) the students;\n  (i) deleted by Act No. 5 of 2019, Sch;\n  (j) such other members of the staff of the College or any other body formally admitted into association with the College as the Board of Directors may from time to time determine. [Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "The Chief Executive Officer and Deputy Directors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MEMBERSHIP AND GOVERNMENT OF THE COLLEGE",
+   "text": "(1) There shall be a Chief Executive Officer who shall be the secretary to the Board of the College who shall be appointed by the Board of Directors, and who shall have the following minimum qualifications—\n  (a) hold a masters' degree in the relevant field from a university recognized in Kenya;\n  (b) have at least ten years' knowledge and experience in the relevant field;\n  (c) meet the requirements of Chapter Six of the Constitution; and (d) have served in a position of senior management for a period of at least five years. (2) The Chief Executive Officer shall be the chief executive of the College and shall—\n  (a) have overall responsibility for the direction, organization, administration and programmes of the College;\n  (b) be the Chairperson of the Academic Board; and (c) be responsible to the Board of Directors for the general conduct and discipline of the staff and students. (3) The Board of Directors shall appoint Deputy Directors in the following areas to assist the Chief Executive Officer—\n  (a) academic;\n  (b) finance, planning and administration;\n  (c) research and innovation; and (d) business development, resource mobilization and consultancy.\n(4) The Chief Executive Officer shall hold office for a term of four years and shall be eligible for reappointment for one further term of four years subject to satisfactory performance of duties.\n(5) There shall be a Corporation Secretary to the Board who shall be appointed by the Board, on such terms and conditions of service as the Board may determine. [Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Chief Executive Officer who shall be the secretary to the Board of the College who shall be appointed by the Board of Directors, and who shall have the following minimum qualifications— (a) hold a masters' degree in the relevant field from a university recognized in Kenya;"
+    },
+    {
+     "ref": "(4)",
+     "text": "The Chief Executive Officer shall hold office for a term of four years and shall be eligible for reappointment for one further term of four years subject to satisfactory performance of duties."
+    },
+    {
+     "ref": "(5)",
+     "text": "There shall be a Corporation Secretary to the Board who shall be appointed by the Board, on such terms and conditions of service as the Board may determine. [Act No. 5 of 2019, Sch.]"
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "The Board of Directors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MEMBERSHIP AND GOVERNMENT OF THE COLLEGE",
+   "text": "(1) The Board shall comprise the following—\n  (a) Chairperson appointed by the President who shall—\n  (i) have a minimum of a bachelors' degree in a relevant field from a university recognised in Kenya; and (ii) have at least ten years' experience in leadership and management;\n  (b) the Chief Executive Officer who shall be an ex officio member;\n  (c) the Principal Secretary in the Ministry for the time being responsible for health or their designated representative;\n  (d) the Principal Secretary in the Ministry for the time being responsible for National Treasury or their designated representative;\n  (e) the Director-General of Health or their designated representative;\n  (f) three independent members appointed by the Cabinet Secretary taking into consideration gender balance, regional balance and skills mix; and (g) one person with knowledge and expertise in finance or audit appointed by the Cabinet Secretary.\n(1A) The Chairperson shall preside over all meetings of the Board of Directors and in his or her absence the members present shall choose one of the members to act as the Chairperson.\n(1B) A person appointed to act as Chairperson shall have all the powers and privileges of the Chairperson in respect of the meeting at which he or she presides.\n(1C) The Board of Directors shall meet at least once every three months.\n(1D) Each member of the Board of Directors shall have a deliberative vote and the Chairperson for the time being at any meeting of the Board shall, in addition to the deliberative vote have a casting vote.\n(1E) Two-thirds of the members of the Board of Directors, including the Chairperson, shall constitute a quorum at any meeting of the Board, and all acts, matters or things authorized or required to be done by the Board of Directors, may be decided at any meeting at which a quorum is present.\n(1F) The powers of the Board of Directors shall not be affected by any vacancy in membership thereof.\n(1G) The Chief Executive Officer shall be a member without voting rights.\n(1H) The Board of Directors may constitute committees to perform the following functions—\n  (a) audit;\n  (b) governance;\n  (c) risk;\n  (d) compliance;\n  (e) finance;\n  (f) human resource;\n  (g) strategy; and\n  (h) technical matters.\n(2) Subject to subsection (3), a member of the Board of Directors, other than an ex officio member, shall hold office for a period of three years from the date of appointment specified in the instrument of appointment, but shall be eligible for reappointment for one further term.\n(3) The office of a member of the Board of Directors shall become vacant—\n  (a) if, not being an ex officio member—\n  (i) he resigns from office by writing to the appointing authority;\n  (ii) he is convicted of an offence and sentenced to imprisonment for a term exceeding six months without the option of a fine;\n  (iii) he is absent, without permission of the Board of Directors, from three consecutive meetings;\n  (b) if the Board of Directors is satisfied that such member is, by reason of physical or mental infirmity, unable to exercise the functions of his office;\n  (c) upon death;\n  (d) upon adjudication of bankruptcy by a court of competent jurisdiction;\n  (e) upon conviction of an offence related to fraud; or\n  (f) upon the conviction for offence under this Act.\n(4) Where the office of a member of the Board of Directors becomes vacant under subsection (3), the Chief Executive Officer shall forthwith notify the vacancy to the appropriate appointing body or person.\n(5) Notwithstanding the provisions of this section, the procedure and conduct of affairs of the Board of Directors shall be regulated by the statutes.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall comprise the following— (a) Chairperson appointed by the President who shall— (i) have a minimum of a bachelors' degree in a relevant field from a university recognised in Kenya; and (ii) have at least ten years' experience in leadership and management; (b) the Chief Executive Officer who shall be an ex officio member; (c) the Principal Secretary in the Ministry for the time being responsible for health or their designated representative; (d) the Principal Secretary in the Ministry for the time being responsible for National Treasury or their designated representative; (e) the Director-General of Health or their designated representative; (f) three independent members appointed by the Cabinet Secretary taking into consideration gender balance, regional balance and skills mix; and (g) one person with knowledge and expertise in finance or audit appointed by the Cabinet Secretary."
+    },
+    {
+     "ref": "(1A)",
+     "text": "The Chairperson shall preside over all meetings of the Board of Directors and in his or her absence the members present shall choose one of the members to act as the Chairperson."
+    },
+    {
+     "ref": "(1B)",
+     "text": "A person appointed to act as Chairperson shall have all the powers and privileges of the Chairperson in respect of the meeting at which he or she presides."
+    },
+    {
+     "ref": "(1C)",
+     "text": "The Board of Directors shall meet at least once every three months."
+    },
+    {
+     "ref": "(1D)",
+     "text": "Each member of the Board of Directors shall have a deliberative vote and the Chairperson for the time being at any meeting of the Board shall, in addition to the deliberative vote have a casting vote."
+    },
+    {
+     "ref": "(1E)",
+     "text": "Two-thirds of the members of the Board of Directors, including the Chairperson, shall constitute a quorum at any meeting of the Board, and all acts, matters or things authorized or required to be done by the Board of Directors, may be decided at any meeting at which a quorum is present."
+    },
+    {
+     "ref": "(1F)",
+     "text": "The powers of the Board of Directors shall not be affected by any vacancy in membership thereof."
+    },
+    {
+     "ref": "(1G)",
+     "text": "The Chief Executive Officer shall be a member without voting rights."
+    },
+    {
+     "ref": "(1H)",
+     "text": "The Board of Directors may constitute committees to perform the following functions—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to subsection (3), a member of the Board of Directors, other than an ex officio member, shall hold office for a period of three years from the date of appointment specified in the instrument of appointment, but shall be eligible for reappointment for one further term."
+    },
+    {
+     "ref": "(3)",
+     "text": "The office of a member of the Board of Directors shall become vacant—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Where the office of a member of the Board of Directors becomes vacant under subsection (3), the Chief Executive Officer shall forthwith notify the vacancy to the appropriate appointing body or person."
+    },
+    {
+     "ref": "(5)",
+     "text": "Notwithstanding the provisions of this section, the procedure and conduct of affairs of the Board of Directors shall be regulated by the statutes."
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Functions of the Board of Directors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MEMBERSHIP AND GOVERNMENT OF THE COLLEGE",
+   "text": "(1) Subject to this Act and without prejudice to any written law, trust, deed or other instrument, or power by or under which a constituent training centre is established, the government, control and administration of the College shall be vested in the Board of Directors.\n(2) Notwithstanding subsection (1), the Board of Directors shall have power—\n  (a) to administer the property and funds of the College in a manner and for purposes which shall promote the best interests of the College; but the Board of Directors shall not charge or dispose of immovable property of the College except in accordance with the procedures laid down by the State Corporations Advisory Committee established under the State Corporations Act (Cap. 446);\n  (b) to receive, on behalf of the College or a campus, gifts, donations, grants or other moneys and to make disbursements therefrom to the campuses or other bodies or persons;\n  (c) in consultation with the Cabinet Secretary, to determine the scales of fees payable by or in respect of students at the College and to prescribe the conditions under which fees may be remitted in whole or in part;\n  (d) to provide for the welfare of the staff and students of the College;\n  (e) to enter into association with universities, other colleges and other institutions of learning whether within Kenya or otherwise, as the Board of Directors may deem necessary and appropriate;\n  (f) to make, after consultation with the Academic Council, regulations governing the conduct and discipline of students of the College; and\n  (g) to make investments on behalf of the College.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this Act and without prejudice to any written law, trust, deed or other instrument, or power by or under which a constituent training centre is established, the government, control and administration of the College shall be vested in the Board of Directors."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding subsection (1), the Board of Directors shall have power—"
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "The Academic Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MEMBERSHIP AND GOVERNMENT OF THE COLLEGE",
+   "text": "(1) There shall be an Academic Council of the College which shall consist of—\n  (a) the Chief Executive Officer, who shall be the Chairperson of the Academic Council;\n  (b) four Deputy Directors;\n  (c) one head of the faculties of the College appointed by the Board;\n  (d) one head of each campus appointed by the Board;\n  (e) two members of the academic staff of the College, not being members of the Academic Council under any other provisions of this subsection, elected by the College Staff Association; and\n  (f) two student members elected by the student body of the College, except that the student members shall not be entitled to attend deliberations of the Academic Council on matters which are considered by the Chief Executive Officer to be confidential and which relate to examinations, the general discipline of students and other related matters.\n(2) The Academic Council shall have the following powers—\n  (a) to satisfy itself regarding the content and academic standard of any course of study in respect of any diploma, certificate or other award of the College, and to report its findings to the Board of Directors;\n  (b) to propose regulations to be made by the Board of Directors regarding the standard of proficiency to be gained in each examination for a diploma, certificate or other award;\n  (c) to decide which persons have attained such standard of proficiency or are otherwise fit to be granted the diploma, certificate or other award;\n  (d) to initiate proposals relating to the conduct of the College generally, and to discuss any matter relating to the College, including the establishment of faculties or training programmes, and make representations thereon to the Board of Directors;\n  (e) to make regulations governing such other matters as are within its powers in accordance with the provisions of this Act or the statutes;\n  (f) selection and admission of students; and\n  (g) to establish technical committees to enable the Academic Council to carry out the necessary functions.\n(3) Notwithstanding any other provisions of this Act, the Board of Directors shall not initiate any action in respect of any of the matters mentioned in subsection (2)(a), (b) or (c), except upon receipt of a report or proposal of the Academic Council thereunder and except in consultation with the Academic Council.\n(4) Subsection (2) shall be construed to incorporate the provisions of all other written laws that govern training, registration, enrolment and licensing of health professionals.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be an Academic Council of the College which shall consist of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Academic Council shall have the following powers—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Notwithstanding any other provisions of this Act, the Board of Directors shall not initiate any action in respect of any of the matters mentioned in subsection (2)(a), (b) or (c), except upon receipt of a report or proposal of the Academic Council thereunder and except in consultation with the Academic Council."
+    },
+    {
+     "ref": "(4)",
+     "text": "Subsection (2) shall be construed to incorporate the provisions of all other written laws that govern training, registration, enrolment and licensing of health professionals."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "The Alumni Association",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MEMBERSHIP AND GOVERNMENT OF THE COLLEGE",
+   "text": "(1) There shall be an Alumni Association of the College which shall consist of the past and future graduates of the College and such other persons as may be prescribed by the statutes.\n(2) The Alumni Association shall have the right to meet and discuss any matter relating to the College and to transmit resolutions thereon to the Board of Directors and the Academic Council, and may exercise such other functions as the statutes may prescribe.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be an Alumni Association of the College which shall consist of the past and future graduates of the College and such other persons as may be prescribed by the statutes."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Alumni Association shall have the right to meet and discuss any matter relating to the College and to transmit resolutions thereon to the Board of Directors and the Academic Council, and may exercise such other functions as the statutes may prescribe."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "The staff of the College",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MEMBERSHIP AND GOVERNMENT OF THE COLLEGE",
+   "text": "(1) The academic staff of the College shall consist of the Chief Executive Officer, the Deputy Directors, the Librarian and all members of staff who are engaged in teaching or research.\n(2) The administrative staff of the College shall consist of a finance officer and such other members of the staff, not being engaged in teaching or research, as the Board of Directors may from time to time, determine.\n(3) All the members of the staff of the College shall, subject to this Act, be appointed by the Board of Directors, and shall be so appointed either—\n  (a) upon such terms and conditions of service as may be prescribed by the statutes; or\n  (b) in the case of an officer seconded from the service of any university, university college or similar institution, any other college, the Government or any other public service or service of a state corporation, on such terms and conditions as may be agreed between the Board of directors and the seconding body.\n(4) The Board of Directors may, subject to such restrictions, if any, as it may impose, delegate, either generally or specially, to any person or committee, the power to appoint any member of the staff of the College.\n(5) All members of the staff of the College shall—\n  (a) be subject to the general authority of the Board of Directors and of the Chief Executive Officer;\n  (b) be deemed to be employed on a full-time basis unless specifically provided by the statutes or by the terms of a particular appointment.\n(6) There may be established with the approval of the Board of Directors a College Staff Association.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The academic staff of the College shall consist of the Chief Executive Officer, the Deputy Directors, the Librarian and all members of staff who are engaged in teaching or research."
+    },
+    {
+     "ref": "(2)",
+     "text": "The administrative staff of the College shall consist of a finance officer and such other members of the staff, not being engaged in teaching or research, as the Board of Directors may from time to time, determine."
+    },
+    {
+     "ref": "(3)",
+     "text": "All the members of the staff of the College shall, subject to this Act, be appointed by the Board of Directors, and shall be so appointed either—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The Board of Directors may, subject to such restrictions, if any, as it may impose, delegate, either generally or specially, to any person or committee, the power to appoint any member of the staff of the College."
+    },
+    {
+     "ref": "(5)",
+     "text": "All members of the staff of the College shall—"
+    },
+    {
+     "ref": "(6)",
+     "text": "There may be established with the approval of the Board of Directors a College Staff Association."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Performance of functions in absence of office holders",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "MEMBERSHIP AND GOVERNMENT OF THE COLLEGE",
+   "text": "(1) In the event of the incapacity, the functions of the Chief Executive Officer shall, during the incapacity, be performed by the Deputy Director appointed for that purpose by the Board of Directors.\n(2) In the event of the simultaneous incapacity of the Chief Executive Officer and the Deputy Directors, the Cabinet Secretary, after consultation with the Board of Directors, shall appoint a member of the Academic Council to perform the functions of the Chief Executive Officer during such incapacity.\n(3) In the event of the incapacity of any member of the college, other than the Chief Executive Officer, the Chief Executive Officer may appoint a suitable person to perform the functions of the member during the incapacity.\n(4) In this section “incapacity” means absence from Kenya or inability for any other reason to perform the functions of the office concerned.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In the event of the incapacity, the functions of the Chief Executive Officer shall, during the incapacity, be performed by the Deputy Director appointed for that purpose by the Board of Directors."
+    },
+    {
+     "ref": "(2)",
+     "text": "In the event of the simultaneous incapacity of the Chief Executive Officer and the Deputy Directors, the Cabinet Secretary, after consultation with the Board of Directors, shall appoint a member of the Academic Council to perform the functions of the Chief Executive Officer during such incapacity."
+    },
+    {
+     "ref": "(3)",
+     "text": "In the event of the incapacity of any member of the college, other than the Chief Executive Officer, the Chief Executive Officer may appoint a suitable person to perform the functions of the member during the incapacity."
+    },
+    {
+     "ref": "(4)",
+     "text": "In this section “incapacity” means absence from Kenya or inability for any other reason to perform the functions of the office concerned."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Financial year",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The financial year of the College shall be the period of twelve months commencing on the 1st July and ending on the 30th June in the next succeeding year.",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "Investment of funds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Board of Directors may invest any of the funds of the College in securities in which for the time being trustees may by law invest trust funds or in any other securities which the National Treasury may from time to time approve for the purpose.\n(2) The Board of Directors may place on deposit with such bank or banks as it may determine any moneys not immediately required for the purposes of the College.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board of Directors may invest any of the funds of the College in securities in which for the time being trustees may by law invest trust funds or in any other securities which the National Treasury may from time to time approve for the purpose."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board of Directors may place on deposit with such bank or banks as it may determine any moneys not immediately required for the purposes of the College."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) Before the commencement of a financial year, the Board of Directors shall cause to be prepared estimates of the revenue and expenditure of the College for that year.\n(2) The annual estimates shall make provisions for all the estimated expenditure of the College for the financial year concerned, and in particular shall provide—\n  (a) for the payment of the salaries, allowances and other charges in respect of the staff of the College;\n  (b) for the payment of the pensions, gratuities and other charges in respect of the retirement benefits which are payable out of the funds of the College;\n  (c) for the proper maintenance of the buildings and grounds of the College;\n  (d) for the proper maintenance, repair and replacement of the equipment and other movable property of the College;\n  (e) for the funding of the cost of teaching and research activities of and in the College;\n  (f) for the creation of such funds to meet future or contingent liabilities in respect of retiring benefits, insurance or replacement of buildings or equipment and in respect of such other matters as the Board of Directors may think fit.\n(3) Annual estimates shall be approved by the Board of Directors before the commencement of the financial year to which they relate, and shall be submitted to the Cabinet Secretary for approval and after the Cabinet Secretary has given his approval the Board of Directors shall not increase any sum provided in the estimates without the consent of the Cabinet Secretary.\n(4) No expenditure shall be incurred for the purposes of the College except in accordance with the annual estimates approved under subsection (3) or in pursuance of an authorization of the Board of Directors given with the prior approval of the Cabinet Secretary.\n(5) Where justifiable reasons exist, the College may seek authorization of the Board of Directors given with the prior approval of the Cabinet Secretary for reallocation of funds.\n(6) The sources of funds for the College shall be—\n  (a) the Exchequer;\n  (b) fees charged by the College;\n  (c) the income from resource mobilization; and\n  (d) any other source that the Board of Directors may authorize.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Before the commencement of a financial year, the Board of Directors shall cause to be prepared estimates of the revenue and expenditure of the College for that year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall make provisions for all the estimated expenditure of the College for the financial year concerned, and in particular shall provide—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Annual estimates shall be approved by the Board of Directors before the commencement of the financial year to which they relate, and shall be submitted to the Cabinet Secretary for approval and after the Cabinet Secretary has given his approval the Board of Directors shall not increase any sum provided in the estimates without the consent of the Cabinet Secretary."
+    },
+    {
+     "ref": "(4)",
+     "text": "No expenditure shall be incurred for the purposes of the College except in accordance with the annual estimates approved under subsection (3) or in pursuance of an authorization of the Board of Directors given with the prior approval of the Cabinet Secretary."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where justifiable reasons exist, the College may seek authorization of the Board of Directors given with the prior approval of the Cabinet Secretary for reallocation of funds."
+    },
+    {
+     "ref": "(6)",
+     "text": "The sources of funds for the College shall be—"
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Board of Directors shall cause to be kept all proper books and records of account of the income, expenditure and assets of the College.\n(2) Within a period of three months from the end of each financial year, the Board of Directors shall submit to the Auditor-General the accounts of the College together with—\n  (a) a statement of income and expenditure during the year; and\n  (b) a statement of the assets and liabilities of the College on the last day of that year.\n(3) The accounts of the College shall be audited and reported on annually by the Auditor-General in accordance with the Public Audit Act (Cap. 412B).\n(4) The expenses of and incidental to the auditing of the accounts of the College shall be borne by the College.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board of Directors shall cause to be kept all proper books and records of account of the income, expenditure and assets of the College."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within a period of three months from the end of each financial year, the Board of Directors shall submit to the Auditor-General the accounts of the College together with—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The accounts of the College shall be audited and reported on annually by the Auditor-General in accordance with the Public Audit Act (Cap. 412B)."
+    },
+    {
+     "ref": "(4)",
+     "text": "The expenses of and incidental to the auditing of the accounts of the College shall be borne by the College."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Statutes",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) In the performance of its functions under this Act, the Board of Directors shall, subject to this Act, make statutes generally for the government, control and administration of the College and for the better carrying into effect of the purposes of this Act, and in particular for—\n  (a) the establishment of faculties, institutes and schools of the College;\n  (b) the description of diplomas, certificates and other academic qualifications;\n  (c) the requirements for the award of diplomas, certificates and other academic qualifications;\n  (d) the conduct of examinations;\n  (e) prescribing fees and user charges;\n  (f) settling the terms and conditions of service, including the appointment, dismissal and recommendation of retirement benefits of the members of the staff of the College;\n  (g) the constitution and procedure of meetings of the Board of Directors and the establishment, composition and terms of reference of committees of the Board of Directors;\n  (h) prescribing the rules and regulations for the students’ association.\n(2) deleted by Act No. 5 of 2019, Sch.\n(3) deleted by Act No. 5 of 2019, Sch.\n(4) deleted by Act No. 5 of 2019, Sch.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In the performance of its functions under this Act, the Board of Directors shall, subject to this Act, make statutes generally for the government, control and administration of the College and for the better carrying into effect of the purposes of this Act, and in particular for—"
+    },
+    {
+     "ref": "(2)",
+     "text": "deleted by Act No. 5 of 2019, Sch."
+    },
+    {
+     "ref": "(3)",
+     "text": "deleted by Act No. 5 of 2019, Sch."
+    },
+    {
+     "ref": "(4)",
+     "text": "deleted by Act No. 5 of 2019, Sch."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Protection of name",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Notwithstanding any other written law, no public officer performing functions relating to the registration of companies or business names shall accept for registration any name which includes together with the word “College” the words “Kenya Medical Training” or the words “Medical Training” unless the application for the registration is accompanied by the written consent of the Board of Directors.\n(2) Any person who, except with the written consent of the Board of Directors, uses the words \"Kenya Medical Training College\" in furtherance of, or as, or in connection with, any advertisement for any trade, business, calling or profession commits an offence and shall be liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding two years or to both.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Notwithstanding any other written law, no public officer performing functions relating to the registration of companies or business names shall accept for registration any name which includes together with the word “College” the words “Kenya Medical Training” or the words “Medical Training” unless the application for the registration is accompanied by the written consent of the Board of Directors."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who, except with the written consent of the Board of Directors, uses the words \"Kenya Medical Training College\" in furtherance of, or as, or in connection with, any advertisement for any trade, business, calling or profession commits an offence and shall be liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding two years or to both."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Amendment of Schedules",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Cabinet Secretary may in consultation with the Board of Directors, by notice in the Gazette, amend the Schedule.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "22": {
+   "num": "22",
+   "title": "Transitional provisions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The funds, assets and other movable and immovable property held by the Government for and on behalf of the institution hitherto known as the College of Health Professions, Nairobi, shall be vested in the College.\n(2) Every public officer employed to effect or amend any entry in any register relating to property, or to issue or amend any certificate, or other document affecting or evidencing title to property shall do everything necessary under the law to transfer any property vested in the College by this paragraph.\n(3) All rights, powers, liabilities and duties whether arising under any written law or otherwise, vested in, imposed on, or enforceable by or against the Government for or in respect of the institution hitherto known as the College of Health Professions, Nairobi, shall be transferred to, vested in, imposed on or enforceable by or against the College.\n(4) Any action, suit or legal arbitration proceedings, or any application to any authority, by or against the Government for or in respect of the College of Health Professions, Nairobi, shall not abate or be discontinued or be prejudicially affected because of this Act but may be prosecuted or continued by or against the College, and any judgment or award obtained by or against the Government for or in respect of the College of Health Professions, Nairobi, and not fully satisfied shall be enforceable by or against the College.\n(5) In any legal or arbitration proceedings concerning any right or liability transferred to or vested in the College by this Act, a certificate by the accounting officer of the Ministry for the time being responsible for matters relating to health that the right or liability has been so transferred or vested shall be prima facie evidence thereof.\n(6) Any reference in any written law, or in any document or any instrument, to the Government, for or in respect of the former College of Health Professions, Nairobi, shall be read and construed as a reference to the College established by this Act.\n(7) All directions, orders, rules, appointments, requirements, authorizations and any other things made or done by the Government for or in respect of the College of Health Professions, Nairobi, shall be deemed to have been given, made or done by the College.\n(8) Unless the Board of Directors otherwise directs, all persons who are members of the staff of the College of Health Professions, Nairobi, immediately before coming into operation of this Act, shall be members of staff of the College if they so desire and shall be deemed to have been appointed under this Act on the terms and conditions of service applicable to them immediately before the coming into operation of this Act.\n(9) Unless the Board of Directors otherwise directs, the faculties of the College of Health Professions, Nairobi, existing immediately before the commencement of this Act shall be deemed to be the faculties of the College established under section 5(2).\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The funds, assets and other movable and immovable property held by the Government for and on behalf of the institution hitherto known as the College of Health Professions, Nairobi, shall be vested in the College."
+    },
+    {
+     "ref": "(2)",
+     "text": "Every public officer employed to effect or amend any entry in any register relating to property, or to issue or amend any certificate, or other document affecting or evidencing title to property shall do everything necessary under the law to transfer any property vested in the College by this paragraph."
+    },
+    {
+     "ref": "(3)",
+     "text": "All rights, powers, liabilities and duties whether arising under any written law or otherwise, vested in, imposed on, or enforceable by or against the Government for or in respect of the institution hitherto known as the College of Health Professions, Nairobi, shall be transferred to, vested in, imposed on or enforceable by or against the College."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any action, suit or legal arbitration proceedings, or any application to any authority, by or against the Government for or in respect of the College of Health Professions, Nairobi, shall not abate or be discontinued or be prejudicially affected because of this Act but may be prosecuted or continued by or against the College, and any judgment or award obtained by or against the Government for or in respect of the College of Health Professions, Nairobi, and not fully satisfied shall be enforceable by or against the College."
+    },
+    {
+     "ref": "(5)",
+     "text": "In any legal or arbitration proceedings concerning any right or liability transferred to or vested in the College by this Act, a certificate by the accounting officer of the Ministry for the time being responsible for matters relating to health that the right or liability has been so transferred or vested shall be prima facie evidence thereof."
+    },
+    {
+     "ref": "(6)",
+     "text": "Any reference in any written law, or in any document or any instrument, to the Government, for or in respect of the former College of Health Professions, Nairobi, shall be read and construed as a reference to the College established by this Act."
+    },
+    {
+     "ref": "(7)",
+     "text": "All directions, orders, rules, appointments, requirements, authorizations and any other things made or done by the Government for or in respect of the College of Health Professions, Nairobi, shall be deemed to have been given, made or done by the College."
+    },
+    {
+     "ref": "(8)",
+     "text": "Unless the Board of Directors otherwise directs, all persons who are members of the staff of the College of Health Professions, Nairobi, immediately before coming into operation of this Act, shall be members of staff of the College if they so desire and shall be deemed to have been appointed under this Act on the terms and conditions of service applicable to them immediately before the coming into operation of this Act."
+    },
+    {
+     "ref": "(9)",
+     "text": "Unless the Board of Directors otherwise directs, the faculties of the College of Health Professions, Nairobi, existing immediately before the commencement of this Act shall be deemed to be the faculties of the College established under section 5(2)."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 3(1)]",
+   "subtitle": "CAMPUSES",
+   "text": "[Act No. 5 of 2019, Sch.]\n1. The campuses established by the Government at—\n  (a) Mombasa.\n  (b) Machakos.\n  (c) Embu. (d) Meru. (e) Nyeri. (f) Murang’a. (g) Thika. (h) Garissa. (i) Nakuru. (j) Eldoret. (k) Kakamega. (l) Kisumu. (m) Kisii. (n) Homa Bay. (o) Karen, Nairobi. (p) Mathari Hospital, Nairobi. 2. The Hospital Maintenance Schools established by the Government at—\n  (a) Meru. (b) Eldoret. (c) Kilifi. (d) Loitokitok. 3. The School of Clinical Medicine at Port Reitz, Mombasa. 4. The College campuses shall be gazetted annually."
+  }
+ ],
+ "spent": {}
+}

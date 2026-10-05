@@ -1,0 +1,964 @@
+{
+ "title": "National Construction Authority Act",
+ "citation": "Cap. 118",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2011/41/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "NATIONAL CONSTRUCTION AUTHORITY ACT CAP. 118 Published in Kenya Gazette Vol. CXIII—No. 122 on 16 December 2011 Assented to on 2 December 2011 Commenced on 8 June 2012 by National Construction Authority Act Commencement\n[Amended by Revision of the Laws (Rectification) No. 2) Order, 2012 (Legal Notice 30 of 2012) on 11 May 2012] [Amended by Statute Law (Miscellaneous Amendments) Act, 2017 (Act No. 11 of 2017) on 4 May 2017]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2018 (Act No. 18 of 2018) on 18 January 2019] [Amended by Business Laws (Amendment) Act, 2020 (Act No. 1 of 2020) on 18 March 2020] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to provide for the establishment, powers and functions of the National Construction Authority and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "THE NATIONAL CONSTRUCTION AUTHORITY",
+   "provisions": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "TRADING AS A CONTRACTOR",
+   "provisions": [
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "23A",
+    "24",
+    "25",
+    "26"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "APPEALS BOARD",
+   "provisions": [
+    "27",
+    "28",
+    "29"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "MISCELLANEOUS",
+   "provisions": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the National Construction Authority Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— \"Authority\" means the National Construction Authority established under section 3; \"Board\" means the Board of the Authority established under section 7; \"building code\" means the building code provided for under regulations made pursuant to section 42; \"Cabinet Secretary\" means the Cabinet Secretary for the time being responsible for matters relating to public works; \"chairperson\" means the chairperson of the Board appointed under section 7 (1); \"class\" in relation to contract, means any of the classes of contract works set out in the Third Schedule in respect of which a contractor may be licensed by the Board; \"company\" means a company within the meaning of the Companies Act (Cap. 486); \"construction site supervisor\" means a person assigned to the construction site by a contractor to supervise construction works; \"construction industry\" means the industry concerning construction works; \"construction works\" means the construction, extension, installation, repair, maintenance, renewal, removal, renovation, alteration, dismantling, or demolition of—\n  (a) any building, erection, edifice, structure, wall, fence or chimney, whether constructed wholly or partly above or below ground level;\n  (b) any road, harbour works, railway, cableway, canal or aerodrome;\n  (c) any drainage, irrigation or river control works;\n  (d) any electrical, mechanical, water, gas, petrochemical or telecommunication works; or\n  (e) any bridge, viaduct, dam, reservoir, earthworks, pipeline, sewer, aqueduct, culvert, drive, shaft, tunnel or reclamation works, and includes any works' which form an integral part of, or are preparatory to or temporary for the works described in paragraphs (a) to (e), including site clearance, soil investigation and improvement, earth-moving, excavation, laying of foundation, site restoration and landscaping.\n\"contractor\" means a person registered under section 15; \"executive director\" means the executive director of the Authority appointed under section 12; \"member\" in relation to the Board or the Appeals Authority includes the chairperson and the vicechairperson; \"person\" includes a firm or body of persons, whether corporate or unincorporate; \"register\" means the Register of Contractors maintained by the Authority in accordance with the provisions of this Act; \"registered\" in relation to any contractor means a contractor whose name is entered in the relevant register; \"Registrar\" means the executive director.\n[Act No. 1 of 2020, s. 16.]",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment and incorporation of Authority.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE NATIONAL CONSTRUCTION AUTHORITY",
+   "text": "(1) There is hereby established an Authority to be known as the National Construction Authority. (2) The Authority shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of —\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property;\n  (c) borrowing and lending money; and (d) doing or performing all other things or acts which may be lawfully done or performed by a body corporate for the furtherance of the provisions of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is hereby established an Authority to be known as the National Construction Authority. (2) The Authority shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of — (a) suing and being sued; (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property; (c) borrowing and lending money; and (d) doing or performing all other things or acts which may be lawfully done or performed by a body corporate for the furtherance of the provisions of this Act."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Headquarters.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE NATIONAL CONSTRUCTION AUTHORITY",
+   "text": "(1) The Headquarters of the Authority shall be in Nairobi. (2) The Authority may establish such other offices anywhere in Kenya as it may consider necessary for the discharge of its functions.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Headquarters of the Authority shall be in Nairobi. (2) The Authority may establish such other offices anywhere in Kenya as it may consider necessary for the discharge of its functions."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Functions of the Authority.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE NATIONAL CONSTRUCTION AUTHORITY",
+   "text": "(1) The object for which the Authority is established is to oversee the construction industry and coordinate its development.\n(2) Without prejudice to the generality of subsection (1), the Authority shall—\n  (a) promote and stimulate the development, improvement and expansion of the construction industry;\n  (b) advise and make recommendations to the Cabinet Secretary on matters affecting or connected with the construction industry;\n  (c) undertake or commission research into any matter relating to the construction industry;\n  (d) prescribe the qualifications or other attributes required for registration as a contractor under this Act;\n  (e) assist in the exportation of construction services connected to the construction industry;\n  (f) provide consultancy and advisory services with respect to the construction industry;\n  (g) promote and ensure quality assurance in the construction industry;\n  (ga) enforce the prescribed Building Code in the construction industry;\n  (h) encourage the standardisation and improvement of construction techniques and materials;\n  (i) initiate and maintain a construction industry information system;\n  (j) provide, promote, review and co-ordinate training programmes organized by public and private accredited training centers for skilled construction workers and construction site supervisors;\n  (k) accredit and register contractors and regulate their professional undertakings;\n  (l) accredit and certify skilled construction workers and construction site supervisors;\n  (m) develop and publish a code of conduct for the construction industry, and\n  (n) do all other things that may be necessary for the better carrying out of its functions under the Act.\n[Act No. 1 of 2020, s. 17.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The object for which the Authority is established is to oversee the construction industry and coordinate its development."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), the Authority shall— (a) promote and stimulate the development, improvement and expansion of the construction industry;"
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Powers of Authority.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE NATIONAL CONSTRUCTION AUTHORITY",
+   "text": "The Authority shall have all the powers necessary for the proper performance of its functions under this Act, and, in particular, but without prejudice to the generality of the foregoing, the Authority shall have power—\n  (a) to award certificates of proficiency to contractors, skilled construction workers and construction site supervisors;\n  (b) with the approval of the Cabinet Secretary, to impose fees or any other charges as it deems fit in respect of any of its functions or powers;\n  (c) with the approval of the Cabinet Secretary, to facilitate, or promote the establishment or expansion of, companies, corporations or other bodies to carry on any activities related to construction either under the control or partial control of the Authority or independently; and\n  (d) to receive, in consideration of any services that may be rendered by it, such commission or payments as may be agreed upon with any person.",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Membership of the Board.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE NATIONAL CONSTRUCTION AUTHORITY",
+   "text": "(1) There shall be a Board of the Authority which shall consist of—\n  (a) a chairperson who shall be appointed by the Cabinet Secretary from among the members appointed under paragraph (g);\n  (b) the Principal Secretary in the Ministry for the time being responsible for matters relating to public works:\n  (c) the Principal Secretary in the Ministry for the time being responsible for matters relating to roads;\n  (d) the Principal Secretary in the Ministry for the time being responsible for matters relating to local government;\n  (e) the Principal Secretary to the National Treasury;\n  (f) the Principal Secretary in the Ministry for the time being responsible for housing;\n  (g) seven members comprising representatives of each of the organizations specified in Parts I and II of the First Schedule and appointed by the Cabinet Secretary from amongst three persons nominated by each of the organizations; and\n  (h) two members appointed by the Cabinet Secretary to represent groups with special interests in the construction industry.\n(2) In appointing persons as members the Cabinet Secretary shall have regard to the principle of gender equity and regional balance.\n(3) The Cabinet Secretary may, by notice in Gazette, amend the First Schedule\n(4) The members referred to under subsection (1)(b), (c), (d) and (e) may in writing, designate any officer not below the level of Deputy Secretary to represent them on the Board.\n(5) A person nominated by the associations set out in Part II of the First Schedule shall qualify for appointment as a member of the Board under paragraph (1)(g) if such person is the holder of a minimum of a Higher National Diploma in a relevant field or equivalent qualification and has at least ten years' practical experience in the construction industry.\n(6) The chairperson and members of the Board, other than the ex officio members, shall hold office for a period of three years from the date of appointment, but shall be eligible for re-appointment for one further term.\n[L.N. 30/2012.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Board of the Authority which shall consist of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In appointing persons as members the Cabinet Secretary shall have regard to the principle of gender equity and regional balance."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary may, by notice in Gazette, amend the First Schedule"
+    },
+    {
+     "ref": "(4)",
+     "text": "The members referred to under subsection (1)(b), (c), (d) and (e) may in writing, designate any officer not below the level of Deputy Secretary to represent them on the Board."
+    },
+    {
+     "ref": "(5)",
+     "text": "A person nominated by the associations set out in Part II of the First Schedule shall qualify for appointment as a member of the Board under paragraph (1)(g) if such person is the holder of a minimum of a Higher National Diploma in a relevant field or equivalent qualification and has at least ten years' practical experience in the construction industry."
+    },
+    {
+     "ref": "(6)",
+     "text": "The chairperson and members of the Board, other than the ex officio members, shall hold office for a period of three years from the date of appointment, but shall be eligible for re-appointment for one further term."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Vacation of office.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE NATIONAL CONSTRUCTION AUTHORITY",
+   "text": "The office of a member of the Board, other than an ex officio member, shall become vacant if the member—\n  (a) resigns his office by notice in writing addressed to the Cabinet Secretary;\n  (b) is absent from three consecutive meetings of the Board without the permission of the chairperson;\n  (c) is convicted of an offence by a court and sentenced to imprisonment for a term of six months or more without the option of a fine;\n  (d) is convicted of an offence involving fraud, dishonesty or moral turpitude;\n  (e) is unable, by reason of mental or physical infirmity, to discharge his functions as a member of the Board ;\n  (f) is otherwise unable or unfit to continue serving as member of the Board, or\n  (g) dies.",
+   "clauses": []
+  },
+  "9": {
+   "num": "9",
+   "title": "Conduct of business and affairs of the Board.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE NATIONAL CONSTRUCTION AUTHORITY",
+   "text": "The conduct and regulation of the business and affairs of the Board shall be as provided in the Second Schedule, but subject thereto the Board may regulate its own procedure.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Remuneration of Board members.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE NATIONAL CONSTRUCTION AUTHORITY",
+   "text": "There shall be paid to the members of the Board such remuneration, fees or allowances as the Cabinet Secretary, in consultation with the Salaries and Remuneration Commission, may determine.",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Delegation by the Authority.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE NATIONAL CONSTRUCTION AUTHORITY",
+   "text": "The Board may, by resolution either generally or in any particular case, delegate to any of its committees or to any member, officer, employee or agent of the Board, the exercise of any of the powers or the performance of any of the functions or duties of the Board under this Act or under any other written law.",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Executive Director.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE NATIONAL CONSTRUCTION AUTHORITY",
+   "text": "(1) There shall be an executive director of the Authority who shall be competitively recruited and appointed by the Board, and whose terms and conditions of service shall be specified in the instrument of appointment or otherwise in writing from time to time.\n(2) A person shall be qualified for appointment under this section where such person is a holder of a degree from a recognized university in—\n  (a) architecture;\n  (b) quantity surveying, or (c) engineering, and is registered as a professional under the relevant law for the time being in force, and has at least ten years' post-registration experience in a management position in a private or public organization.\n(3) The executive director shall—\n  (a) be the chief executive officer of the Authority and responsible to the Board for the day-today management of the affairs of the Authority; and (b) be the Secretary to the Board and the Registrar of contractors.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be an executive director of the Authority who shall be competitively recruited and appointed by the Board, and whose terms and conditions of service shall be specified in the instrument of appointment or otherwise in writing from time to time."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall be qualified for appointment under this section where such person is a holder of a degree from a recognized university in— (a) architecture; (b) quantity surveying, or (c) engineering, and is registered as a professional under the relevant law for the time being in force, and has at least ten years' post-registration experience in a management position in a private or public organization."
+    },
+    {
+     "ref": "(3)",
+     "text": "The executive director shall— (a) be the chief executive officer of the Authority and responsible to the Board for the day-today management of the affairs of the Authority; and (b) be the Secretary to the Board and the Registrar of contractors."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Staff of the Board.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE NATIONAL CONSTRUCTION AUTHORITY",
+   "text": "The Board may appoint such officers as may be necessary for the proper discharge of the functions of the Authority under this Act or any other written law, upon such terms and conditions of service as the Board may determine.",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "Co-option of members and establishment of Committees.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE NATIONAL CONSTRUCTION AUTHORITY",
+   "text": "(1) The Board may co-opt such experts and consultants as may be necessary to assist in the discharge of its functions.\n(2) The Board may establish such Committees as may be necessary for the performance of its functions and may, subject to the provisions of this Act, delegate powers conferred on it to such Committees.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may co-opt such experts and consultants as may be necessary to assist in the discharge of its functions."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may establish such Committees as may be necessary for the performance of its functions and may, subject to the provisions of this Act, delegate powers conferred on it to such Committees."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Requirement for registration.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRADING AS A CONTRACTOR",
+   "text": "(1) A person shall not carry on the business of a contractor unless the person is registered by the Board under this Act.\n(2) A person seeking registration under subsection (1) shall, in the case of a firm, be eligible for registration if at least one of the partners or directors of the firm possesses such technical qualifications, skills or experience as the Board may from time to time prescribe.\n(3) Any person who contravenes subsection (1) commits an offence and shall be liable on conviction to a fine not exceeding one million shillings, or to imprisonment for a term not exceeding three years or to both, and in the case of a continuing offence, to a fine not exceeding one hundred thousand shillings for every day or part thereof during which the offence continues.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not carry on the business of a contractor unless the person is registered by the Board under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person seeking registration under subsection (1) shall, in the case of a firm, be eligible for registration if at least one of the partners or directors of the firm possesses such technical qualifications, skills or experience as the Board may from time to time prescribe."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person who contravenes subsection (1) commits an offence and shall be liable on conviction to a fine not exceeding one million shillings, or to imprisonment for a term not exceeding three years or to both, and in the case of a continuing offence, to a fine not exceeding one hundred thousand shillings for every day or part thereof during which the offence continues."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Meaning of \"Contractor\".",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRADING AS A CONTRACTOR",
+   "text": "(1) For the purposes of this Act, a person carries on business as a contractor where such person, for reward or other valuable consideration, undertakes the construction, installation or erection, for any other person, of any structure situated below, on or above the ground, or other work connected therewith, or the execution, for any other person, of any alteration or otherwise to any structure or other work connected therewith, and undertakes to supply—\n  (a) the materials necessary for the work, or is authorized to exercise control over the type, quality or use of the materials supplied by any other person;\n  (b) the labour necessary for the work, or is authorized on behalf of the person for whom the work is undertaken or any other person, to employ or select workmen for employment for the purposes of the execution of the work, whether under a contract of service or otherwise:\nProvided that a person shall not be deemed to be a contractor if the work undertaken—\n  (i) does not incur a cost exceeding such sum or sums as the Board may from time to time determine; or\n  (ii) consists of a residential house for private use, not requiring a structural design.\n(2) The Board shall register eligible contractors to undertake any of the classes of contracted works set out in the Third Schedule depending on their knowledge and experience.\n(3) The Cabinet Secretary may by notice in the Gazette amend the Third Schedule.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "For the purposes of this Act, a person carries on business as a contractor where such person, for reward or other valuable consideration, undertakes the construction, installation or erection, for any other person, of any structure situated below, on or above the ground, or other work connected therewith, or the execution, for any other person, of any alteration or otherwise to any structure or other work connected therewith, and undertakes to supply—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall register eligible contractors to undertake any of the classes of contracted works set out in the Third Schedule depending on their knowledge and experience."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary may by notice in the Gazette amend the Third Schedule."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Application for Registration.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRADING AS A CONTRACTOR",
+   "text": "(1) A person or firm may apply to the Board for registration as a contractor for purposes of this Act.\n(2) An application for registration shall be in the prescribed form and shall be accompanied by the prescribed fee, and shall demonstrate to the satisfaction of the Board that the person, or, in the case of a firm, at least one director or partner thereof—\n  (a) is the holder of the minimum technical qualifications and skills prescribed by the Board for the class of contract works in respect of which registration is sought;\n  (b) has the necessary experience prescribed by the Board in works involving construction, erection, installation, alteration or any other activity Connected therewith;\n  (c) has professional and general conduct which in the opinion of the Board, makes the person suitable to be registered under this Act; and\n  (d) has the necessary plant and equipment for the category of works for which the registration is sought.\n(3) The Board may refuse to register a person as a contractor if in its opinion that person—\n  (a) does not meet the conditions stated in subsection (2);\n  (b) is a member of a consulting firm providing architectural, quantity surveying or engineering services, unless the person declares interest during the application for registration and does not carry out functions of consultancy and construction in the same project unless expressly specified.\n  (c) is a person whose registration as a contractor shall result in conflict of interest with his employer.\n(4) The Board shall, where it refuses to register a person under subsection (3), communicate its decision in writing to the person within fourteen days of the date of its decision and shall state the reasons for such refusal.\n(5) Upon registration, the person shall be issued with a certificate of registration indicating the registration number, the class of works for which registered, the date of registration and duration of registration.\n(6) The certificate issued under subsection (3) shall remain the property of the Authority and shall be withdrawn and returned to the Authority upon suspension or cancellation of the registration of the holder.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person or firm may apply to the Board for registration as a contractor for purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "An application for registration shall be in the prescribed form and shall be accompanied by the prescribed fee, and shall demonstrate to the satisfaction of the Board that the person, or, in the case of a firm, at least one director or partner thereof—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board may refuse to register a person as a contractor if in its opinion that person—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The Board shall, where it refuses to register a person under subsection (3), communicate its decision in writing to the person within fourteen days of the date of its decision and shall state the reasons for such refusal."
+    },
+    {
+     "ref": "(5)",
+     "text": "Upon registration, the person shall be issued with a certificate of registration indicating the registration number, the class of works for which registered, the date of registration and duration of registration."
+    },
+    {
+     "ref": "(6)",
+     "text": "The certificate issued under subsection (3) shall remain the property of the Authority and shall be withdrawn and returned to the Authority upon suspension or cancellation of the registration of the holder."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Registration of foreign contractors.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRADING AS A CONTRACTOR",
+   "text": "(1) The Board may accredit a firm incorporated outside Kenya to carry out construction works in Kenya for a prescribed period where the firm meets the conditions prescribed by the Board and satisfies the Board that the firm—\n  (a) intends to be present in Kenya only for the purpose of carrying out the specific works for which it has been contracted, for which, the sum payable is not less than the sum prescribed by the Board for the class of works in respect of which registration is sought;\n  (b) has a certificate of compliance from the Registrar of Companies showing that it is, or immediately prior to entering Kenya, was, trading as a contractor in the capacity which satisfies the Board with respect to its suitability to serve the public as a qualified contractor; and\n  (c) has lodged an affidavit with the Board to the effect that, once the contracted works are completed and the period of defects liability or maintenance has elapsed, it shall wind up business and shall not engage itself in the construction business within Kenya.\n(2) The Board may require an applicant under this section to appear before it and produce documentary evidence of its competence in executing construction works immediately prior to its entry in Kenya.\n(3) Registration of a firm under this section shall entitle it to undertake work only for the period of time prescribed by the Board in subsection (1), and on the expiry of that period that firm shall cease to be so registered, and shall return the registration certificate to the Board.\n(4) A firm registered under this section shall during the period of the contracted works, and in relation to things done or omitted to be done in the course of the contracted works, be treated as being duly registered under this Act as a contractor.\n(5) Notwithstanding the provisions of this section and section 16, the Cabinet Secretary, in consultation with the Board, shall make regulations stipulating ownership structures of foreign firms seeking registration under this Act, clearly stating the categories of contracts for which foreign firms may apply and those which shall be strictly reserved for local contractors.\n[Act No. 11 of 2017, Sch, Act No. 18 of 2018, Sch, Act No. 1 of 2020, s. 18.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may accredit a firm incorporated outside Kenya to carry out construction works in Kenya for a prescribed period where the firm meets the conditions prescribed by the Board and satisfies the Board that the firm—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may require an applicant under this section to appear before it and produce documentary evidence of its competence in executing construction works immediately prior to its entry in Kenya."
+    },
+    {
+     "ref": "(3)",
+     "text": "Registration of a firm under this section shall entitle it to undertake work only for the period of time prescribed by the Board in subsection (1), and on the expiry of that period that firm shall cease to be so registered, and shall return the registration certificate to the Board."
+    },
+    {
+     "ref": "(4)",
+     "text": "A firm registered under this section shall during the period of the contracted works, and in relation to things done or omitted to be done in the course of the contracted works, be treated as being duly registered under this Act as a contractor."
+    },
+    {
+     "ref": "(5)",
+     "text": "Notwithstanding the provisions of this section and section 16, the Cabinet Secretary, in consultation with the Board, shall make regulations stipulating ownership structures of foreign firms seeking registration under this Act, clearly stating the categories of contracts for which foreign firms may apply and those which shall be strictly reserved for local contractors."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Registers of Contractors.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRADING AS A CONTRACTOR",
+   "text": "(1) The Registrar shall keep and maintain registers in which the name of every registered contractor shall be entered as soon as practicable after being approved by the Board for registration.\n(2) The register shall contain, in respect of every person or firm—\n  (a) the date of registration;\n  (b) the physical and postal address;\n  (c) the registration number;\n  (d) the class of works for which the person is registered;\n  (e) the capital and other financial resources;\n  (f) tools, plants and equipment;\n  (g) the key managerial, professional or technical and other personnel;\n  (h) names and qualifications of directors or partners, who are technically qualified or experienced in the relevant works as prescribed by the Board;\n  (i) in the case of an individual, his qualifications or skills and experience;\n  (j) the annual turnover of construction activities;\n  (k) the duration of registration;\n  (l) the type of registration; and (m) any other particulars which the Board may, from time to time, direct.\n(3) The Registrar shall maintain separate registers in respect of the different classes of works, and shall record any changes in any of the particulars set out under subsection (1).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar shall keep and maintain registers in which the name of every registered contractor shall be entered as soon as practicable after being approved by the Board for registration."
+    },
+    {
+     "ref": "(2)",
+     "text": "The register shall contain, in respect of every person or firm— (a) the date of registration; (b) the physical and postal address; (c) the registration number; (d) the class of works for which the person is registered; (e) the capital and other financial resources; (f) tools, plants and equipment; (g) the key managerial, professional or technical and other personnel; (h) names and qualifications of directors or partners, who are technically qualified or experienced in the relevant works as prescribed by the Board; (i) in the case of an individual, his qualifications or skills and experience; (j) the annual turnover of construction activities; (k) the duration of registration; (l) the type of registration; and (m) any other particulars which the Board may, from time to time, direct."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall maintain separate registers in respect of the different classes of works, and shall record any changes in any of the particulars set out under subsection (1)."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Publication of registers and lists.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRADING AS A CONTRACTOR",
+   "text": "The Registrar shall by notice published in the Gazette, as soon as practicable after registration, publish the names and particulars of all persons registered by the Board, and shall, as soon as practicable after the 1st January and the 1st June in each year, publish in the Gazette the names and particulars of all contractors whose names remain on the register as at those dates.",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Publication prima facie evidence of registration.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRADING AS A CONTRACTOR",
+   "text": "(1) Publication of the name of a person in the Gazette under section 19 shall be prima facie evidence that the person is registered under this Act.\n(2) The registers, and any lists, copies, or extracts thereof, which are duly certified by the executive director shall be accepted in all courts and tribunals or other bodies authorized to receive evidence of the facts stated in them.\n(3) Any person may inspect the register and any document relating to any entry in it and may obtain from the Registrar a copy of an extract from the register for any document on payment of a prescribed fee.\nInquiries by the Board",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Publication of the name of a person in the Gazette under section 19 shall be prima facie evidence that the person is registered under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The registers, and any lists, copies, or extracts thereof, which are duly certified by the executive director shall be accepted in all courts and tribunals or other bodies authorized to receive evidence of the facts stated in them."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person may inspect the register and any document relating to any entry in it and may obtain from the Registrar a copy of an extract from the register for any document on payment of a prescribed fee."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Inquiry into conduct of contractors.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRADING AS A CONTRACTOR",
+   "text": "(1) The Board may institute an inquiry into the conduct of a contractor on its own initiative or upon receipt of a complaint addressed to the Board in writing, made by or on behalf of any person alleging unprofessional conduct on the part of a registered person.\n(2) The Board may conduct such inquiry or refer it to a subcommittee appointed by the Board for the purpose.\n(3) Upon receipt of a complaint against a contractor, the Board shall inform the person complained of, giving the grounds of the complaint, by notice sent to the contractor's last address acknowledged by the Registrar.\n(4) The Board may call upon the contractor whose conduct is complained of or is under investigation to file, within a specified period, an explanation in answer to the complaint, and may require such explanation to be verified by affidavit.\n(5) The Board may summon before it or before a subcommittee established for the purpose, any contractor against whom a complaint is lodged or whose conduct may appear to the Board to require investigation, and may call upon such contractor to produce any document, contract, book, paper, specification, quantities or other writing in that contractor's control in any way relating to or concerning the complaint or matter under investigation, and may hear any evidence and inspect any document which the complaint or the party complained against may desire to adduce.\n(6) The contractor against whom a complaint is made shall have the right to appear before the Board and to be heard either personally or through his advocate, and may call such evidence and produce such documents as may be relevant.\n(7) Any contractor who, having been served with a summons or an order issued under the provisions of subsection (5), fails without sufficient cause—\n  (a) to answer fully and satisfactorily to the best of his knowledge and belief all questions put to him by or with the concurrence of the Board; or\n  (b) to produce any documents in his possession or under his control which are specified in the order, commits an offence and is liable upon conviction to a fine not exceeding one million shillings or to imprisonment for a term not exceeding three years or to both.\n(8) Any person giving evidence before the Board shall in respect of any evidence given by him or any document produced by him, be entitled to all privileges to which he would be entitled as a witness before the High Court.\n(9) The Board, having inquired into the alleged misconduct of any contractor, may—\n  (a) caution the contractor;\n  (b) direct the contractor to take such action as it may deem appropriate in the circumstances;\n  (c) direct that the registration of the contractor be suspended for such period as it may specify: or\n  (d) direct that the name of the contractor be removed from the register.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may institute an inquiry into the conduct of a contractor on its own initiative or upon receipt of a complaint addressed to the Board in writing, made by or on behalf of any person alleging unprofessional conduct on the part of a registered person."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may conduct such inquiry or refer it to a subcommittee appointed by the Board for the purpose."
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon receipt of a complaint against a contractor, the Board shall inform the person complained of, giving the grounds of the complaint, by notice sent to the contractor's last address acknowledged by the Registrar."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Board may call upon the contractor whose conduct is complained of or is under investigation to file, within a specified period, an explanation in answer to the complaint, and may require such explanation to be verified by affidavit."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Board may summon before it or before a subcommittee established for the purpose, any contractor against whom a complaint is lodged or whose conduct may appear to the Board to require investigation, and may call upon such contractor to produce any document, contract, book, paper, specification, quantities or other writing in that contractor's control in any way relating to or concerning the complaint or matter under investigation, and may hear any evidence and inspect any document which the complaint or the party complained against may desire to adduce."
+    },
+    {
+     "ref": "(6)",
+     "text": "The contractor against whom a complaint is made shall have the right to appear before the Board and to be heard either personally or through his advocate, and may call such evidence and produce such documents as may be relevant."
+    },
+    {
+     "ref": "(7)",
+     "text": "Any contractor who, having been served with a summons or an order issued under the provisions of subsection (5), fails without sufficient cause—"
+    },
+    {
+     "ref": "(8)",
+     "text": "Any person giving evidence before the Board shall in respect of any evidence given by him or any document produced by him, be entitled to all privileges to which he would be entitled as a witness before the High Court."
+    },
+    {
+     "ref": "(9)",
+     "text": "The Board, having inquired into the alleged misconduct of any contractor, may—"
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Appointment of Investigating officers.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRADING AS A CONTRACTOR",
+   "text": "(1) The Board may, for the purpose the performance of its functions under section 21, appoint such number of investigating officers, to be known as investigating officers of the Board, as it considers necessary for the purposes of carrying out the investigation of any offence or inspection under this Act.\n(2) An investigating officer shall, for the purpose of ascertaining whether the provisions of this Act or any regulations made thereunder are being complied with, have power at all reasonable times to enter into any construction site where construction works are being carried out and make such enquiry or inspection as may be necessary for the purposes of the functions of the investigating officer.\n(3) In the course of an investigation or inspection under this section an investigating officer may—\n  (a) put questions concerning the registration of any contract, the accreditation and certification of the skilled construction workers and construction site supervisors or the payment of levy, and all the persons to whom the questions are addressed shall be legally bound to answer such questions truthfully to the best of their ability;\n  (b) require any person to produce any records required to be kept under this Act, and may sieze them or take copies of them, or\n  (c) by notice in writing order the suspension of all or any part of the works in respect of which the provisions of this Act have not been complied with until the time of such compliance.\n(3A) A person who willfully fails to comply with an order of an investigating officer under subsection (3) commits an offence and shall be liable, on conviction, to a fine not exceeding one million shillings or imprisonment for a term not exceeding three years or to both.\n(4) Every investigating officer when exercising any powers under this Act, shall identify himself as such to the person affected and produce written authority for the exercise of such powers.\n(5) Upon completion of an investigation, the investigating officer shall, where the investigation reveals an offence under this Act or any Regulations made thereunder, immediately give all information relating to the offence to an officer in charge of a police station, and that officer may, by warrant, arrest any person who may have committed such offence.\n[Act No. 1 of 2020, s. 18.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may, for the purpose the performance of its functions under section 21, appoint such number of investigating officers, to be known as investigating officers of the Board, as it considers necessary for the purposes of carrying out the investigation of any offence or inspection under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "An investigating officer shall, for the purpose of ascertaining whether the provisions of this Act or any regulations made thereunder are being complied with, have power at all reasonable times to enter into any construction site where construction works are being carried out and make such enquiry or inspection as may be necessary for the purposes of the functions of the investigating officer."
+    },
+    {
+     "ref": "(3)",
+     "text": "In the course of an investigation or inspection under this section an investigating officer may—"
+    },
+    {
+     "ref": "(3A)",
+     "text": "A person who willfully fails to comply with an order of an investigating officer under subsection (3) commits an offence and shall be liable, on conviction, to a fine not exceeding one million shillings or imprisonment for a term not exceeding three years or to both."
+    },
+    {
+     "ref": "(4)",
+     "text": "Every investigating officer when exercising any powers under this Act, shall identify himself as such to the person affected and produce written authority for the exercise of such powers."
+    },
+    {
+     "ref": "(5)",
+     "text": "Upon completion of an investigation, the investigating officer shall, where the investigation reveals an offence under this Act or any Regulations made thereunder, immediately give all information relating to the offence to an officer in charge of a police station, and that officer may, by warrant, arrest any person who may have committed such offence."
+    }
+   ]
+  },
+  "23A": {
+   "num": "23A",
+   "title": "Mandatory inspections.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRADING AS A CONTRACTOR",
+   "text": "The Authority shall undertake mandatory inspections at any time on sites under constructions in accordance with section 5(2)(g).\n[Act No. 1 of 2020, s. 19.]",
+   "clauses": []
+  },
+  "24": {
+   "num": "24",
+   "title": "Suspension.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRADING AS A CONTRACTOR",
+   "text": "(1) The Board shall have power to suspend any contractor if such—\n  (a) is convicted of an offence under this Act;\n  (b) is found guilty of any act or omission amounting to improper, disgraceful conduct or gross professional misconduct, after due inquiry held by the Board; or\n  (c) has breached the regulations or by-laws of the Authority.\n(2) In addition to the power to suspend registration under subsection (1) the Board may—\n  (a) caution or censure a registered contractor;\n  (b) direct that the registration of the contractor be suspended for such period as it may specify;\n  (c) direct that the contractor's name be deleted from the Register; or\n  (d) take legal action against the registered contractor.\n(3) The Board shall communicate its decision under subsection (1) to the suspended contractor in writing not later than fourteen days from the date of the decision.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall have power to suspend any contractor if such—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In addition to the power to suspend registration under subsection (1) the Board may—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board shall communicate its decision under subsection (1) to the suspended contractor in writing not later than fourteen days from the date of the decision."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Deletion of name.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRADING AS A CONTRACTOR",
+   "text": "(1) The Board may at any time direct that the name of a registered contractor be deleted from the register where that contractor—\n  (a) fails, within a period of six months from the date of an inquiry sent by the Registrar by registered letter to the address appearing in the register against his name, to notify the Registrar of his current address;\n  (b) requests that the name be deleted from the register, in which case that contractor may be required to satisfy the Board by swearing an affidavit certified by a commissioner for oaths and lodged with the Registrar that no criminal proceedings under section 20 or 21 of this Act are being, or are likely to be, taken against the contractor;\n  (c) fails to pay annual subscription fees for two consecutive years;\n  (d) fails to meet the registration criteria set by the Authority;\n  (e) fails to discharge the duties, responsibilities and obligations of a contractor;\n(2) The Registrar shall delete the name of every deregistered contractor from the register.\n(3) Except in the circumstances specified in subsection(1)(a) and subsection (2), the deletion of the name of any contractor from the register shall be notified by the Registrar to that contractor by a recorded delivery or a registered letter to the address appearing in the register against his name immediately prior to the deletion.\n(4) A contractor whose name has been deleted from the register under this section shall, with effect from the date of the deletion, cease to be registered for the purpose of this Act, and shall be obliged to immediately surrender to the Board the certificate of registration for cancellation.\n(5) Where the name of any contractor has been deleted from the register, that contractor shall not be registered afresh under any other name.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may at any time direct that the name of a registered contractor be deleted from the register where that contractor—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar shall delete the name of every deregistered contractor from the register."
+    },
+    {
+     "ref": "(3)",
+     "text": "Except in the circumstances specified in subsection(1)(a) and subsection (2), the deletion of the name of any contractor from the register shall be notified by the Registrar to that contractor by a recorded delivery or a registered letter to the address appearing in the register against his name immediately prior to the deletion."
+    },
+    {
+     "ref": "(4)",
+     "text": "A contractor whose name has been deleted from the register under this section shall, with effect from the date of the deletion, cease to be registered for the purpose of this Act, and shall be obliged to immediately surrender to the Board the certificate of registration for cancellation."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where the name of any contractor has been deleted from the register, that contractor shall not be registered afresh under any other name."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Powers of the Board with regard to register.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "TRADING AS A CONTRACTOR",
+   "text": "(1) Where the name of any contractor has been deleted from the register such name shall not be restored to the register except on the direction of the Board.\n(2) Where the name of any contractor has been deleted from the register or the contractor has been suspended in terms under 22, the Board may, either of its own motion or on application in the prescribed manner by the contractor concerned, and in either case after holding such inquiry as the Board may deem fit, direct that—\n  (a) the deletion of the contractor's name from the register be confirmed ;\n  (b) the name of that contractor be restored to the register; or\n  (c) the suspension of the contractor be lifted.\n(3) A direction by the Board under subsection (2) may include a provision of the date for—\n  (i) the restoration of the contractor's name to the register;\n  (ii) the lifting of the suspension of the contractor; or\n  (iii) the payment by the contractor of such penalty, not exceeding the fee payable for registration, as the Board may determine.\n(4) Any contractor aggrieved by a decision of the Board to —\n  (a) refuse to register the contractor;\n  (b) delete the contractor's name from the register; or\n  (c) suspend the contractor, may within thirty days from the date of the decision of the Board appeal to the Appeals Board against the decision of the Board and the Appeals Board may give such directions in the matter as it deems proper. (5) The Board may appear as respondent and be heard on any appeal against its decision and, for the purposes of enabling directions to be given as to the costs of any appeal, the Board shall be deemed to be a party thereto, whether or not it shall appear at the hearing of the appeal.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the name of any contractor has been deleted from the register such name shall not be restored to the register except on the direction of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the name of any contractor has been deleted from the register or the contractor has been suspended in terms under 22, the Board may, either of its own motion or on application in the prescribed manner by the contractor concerned, and in either case after holding such inquiry as the Board may deem fit, direct that—"
+    },
+    {
+     "ref": "(3)",
+     "text": "A direction by the Board under subsection (2) may include a provision of the date for—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Any contractor aggrieved by a decision of the Board to —"
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Establishment.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "APPEALS BOARD",
+   "text": "(1) There is established a board to be known as the National Construction Appeals Board (hereinafter referred to as \"the Appeals Board\").\n(2) The Appeals Board shall consist of the following persons, who shall be appointed by the Cabinet Secretary—\n  (a) a chairperson, being an advocate of the High Court of Kenya, who shall be nominated by the Attorney-General;\n  (b) a person with professional knowledge and experience in architecture, quantity surveying, engineering, building surveying or project management; and (c) a person nominated by the Chartered Institute of Arbitrators (Kenya Chapter).\n(3) An appeal shall lie to the Appeals Board at the suit of any person aggrieved by a decision of the Board under section 26(4).\n(4) A person aggrieved by the decision of the appeals Board may within thirty days from the date of the decision of the Appeals Board appeal to the High Court. [Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a board to be known as the National Construction Appeals Board (hereinafter referred to as \"the Appeals Board\")."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Appeals Board shall consist of the following persons, who shall be appointed by the Cabinet Secretary— (a) a chairperson, being an advocate of the High Court of Kenya, who shall be nominated by the Attorney-General; (b) a person with professional knowledge and experience in architecture, quantity surveying, engineering, building surveying or project management; and (c) a person nominated by the Chartered Institute of Arbitrators (Kenya Chapter)."
+    },
+    {
+     "ref": "(3)",
+     "text": "An appeal shall lie to the Appeals Board at the suit of any person aggrieved by a decision of the Board under section 26(4)."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person aggrieved by the decision of the appeals Board may within thirty days from the date of the decision of the Appeals Board appeal to the High Court. [Act No. 18 of 2018, Sch.]"
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Board may make the rules.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "APPEALS BOARD",
+   "text": "The Appeals Board may make rules for or with respect to the filing, hearing and disposal of appeals and other matters before it.",
+   "clauses": []
+  },
+  "29": {
+   "num": "29",
+   "title": "Expenses of the Appeals Board.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "APPEALS BOARD",
+   "text": "The expenses of the Appeals Board shall be provided by the Ministry.",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "Funds of the Authority.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The funds of the Authority shall consist of—\n  (a) such income as may be provided by Parliament for the purposes of the Authority:\n  (b) such monies as may accrue to the Authority in the performance of its functions under this Act:\n  (c) all the proceeds of the levy imposed under section 31: and (d) all monies from any other source provided for or donated or lent authority. [Act No. 11 of 2017, Sch, Act No. 18 of 2018, Sch.]",
+   "clauses": []
+  },
+  "31": {
+   "num": "31",
+   "title": "Imposition of levy.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Cabinet Secretary may, by notice in the Gazette, impose a levy to be known as the construction levy on construction work carried out by persons registered under this Act.\n(2) The levy shall be in an amount not exceeding an equivalent of 0.5%, of the value of any contract whose value exceeds five million shillings.\n(3) The Cabinet Secretary may make regulations prescribing the manner of payment of the levy.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, by notice in the Gazette, impose a levy to be known as the construction levy on construction work carried out by persons registered under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The levy shall be in an amount not exceeding an equivalent of 0.5%, of the value of any contract whose value exceeds five million shillings."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary may make regulations prescribing the manner of payment of the levy."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Financial year.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The financial year of the Authority shall be the period of twelve months ending on the thirtieth June in each year.",
+   "clauses": []
+  },
+  "33": {
+   "num": "33",
+   "title": "Annual Estimates.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) At least three months before the commencement of a financial year, the Board shall cause to be prepared the estimates of revenue and expenditure of the Authority for that year.\n(2) The annual estimates shall make provision for all estimated expenditure of the Authority for the financial year, and, in particular, shall make provision for—\n  (a) the payment of salaries, allowances, pension gratuities, and other changes in respect of the staff of the Authority;\n  (b) proper maintenance of the buildings and grounds of the Authority; and\n  (c) the maintenance, repair and replacement of the utilities, equipment and other property of the Authority.\n(3) The annual estimates shall be approved by the Board before the commencement of the financial year to which they relate, and shall be submitted to the Cabinet Secretary for approval, and thereafter the Authority shall not increase or decrease the annual estimates except with the authority of the Cabinet Secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "At least three months before the commencement of a financial year, the Board shall cause to be prepared the estimates of revenue and expenditure of the Authority for that year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall make provision for all estimated expenditure of the Authority for the financial year, and, in particular, shall make provision for—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual estimates shall be approved by the Board before the commencement of the financial year to which they relate, and shall be submitted to the Cabinet Secretary for approval, and thereafter the Authority shall not increase or decrease the annual estimates except with the authority of the Cabinet Secretary."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "The National Construction Authority Fund.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) There shall be established a Fund to be known as the National Construction Fund, which shall vest in the Authority.\n(2) There shall be paid into the Fund—\n  (a) the initial budgetary provision by the Government as start-up capital for the establishment of the Authority;\n  (b) the charges levied on contractors on services given by the Authority;\n  (c) such moneys or assets as may accrue to or vest in the Authority in the course of the exercise of its powers or the performance of its functions under this Act or under any other written law;\n  (d) all proceeds from the levy imposed under section 26; and\n  (e) all moneys from any other source provided for or donated or lent to the Authority;\n(3) All receipts, savings and accruals for the Fund and the balance of the Fund at the end of the financial year shall be retained for the purposes for which the Fund is established.\n(4) There shall be paid out of the Fund any expenditure incurred by the Authority in the exercise of its powers or the performance of its functions under this Act.\n(5) The Board may with the approval of the Cabinet Secretary, set a ceiling of the money which may be spent on recurrent expenditure in any one year.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be established a Fund to be known as the National Construction Fund, which shall vest in the Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "There shall be paid into the Fund—"
+    },
+    {
+     "ref": "(3)",
+     "text": "All receipts, savings and accruals for the Fund and the balance of the Fund at the end of the financial year shall be retained for the purposes for which the Fund is established."
+    },
+    {
+     "ref": "(4)",
+     "text": "There shall be paid out of the Fund any expenditure incurred by the Authority in the exercise of its powers or the performance of its functions under this Act."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Board may with the approval of the Cabinet Secretary, set a ceiling of the money which may be spent on recurrent expenditure in any one year."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Accounts and audit.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Board shall cause to be kept all proper books and records of account of the income, expenditure and assets of the Authority.\n(2) Within a period of three months from the end of each financial year, the Authority shall submit to the Auditor-General the accounts of the Authority together with—\n  (a) a statement of the income and expenditure of the Authority during that year; and\n  (b) a statement of the assets and liabilities of the Authority on the last day of that year.\n(3) The accounts of the Authority shall be audited and reported upon in accordance with the Public Audit Act (Cap. 412B).\n(4) The Authority shall ensure that in any financial year expenditure and commitments from the Account shall not exceed the annual income of the Fund together with any surplus income brought forward from a previous year.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall cause to be kept all proper books and records of account of the income, expenditure and assets of the Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within a period of three months from the end of each financial year, the Authority shall submit to the Auditor-General the accounts of the Authority together with—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The accounts of the Authority shall be audited and reported upon in accordance with the Public Audit Act (Cap. 412B)."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Authority shall ensure that in any financial year expenditure and commitments from the Account shall not exceed the annual income of the Fund together with any surplus income brought forward from a previous year."
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Investment of funds.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Authority may, with the approval of the Cabinet Secretary—\n  (a) invest any of its surplus funds in Government securities;\n  (b) place or deposit with any banks quoted on an approved securities exchange in Kenya as it may determine, any moneys not immediately required for the purposes of the Authority.\n(2) In this section, \"approved securities exchange\" means a securities exchange approved under the Capital Markets Act (Cap. 485A).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority may, with the approval of the Cabinet Secretary—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In this section, \"approved securities exchange\" means a securities exchange approved under the Capital Markets Act (Cap. 485A)."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Protection from liability.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) No matter or thing done by a member of the Board or any officer, employee or agent of the Authority shall, if the matter or thing is done bona fide for executing the functions, powers or duties of the Authority under this Act, render the officer, employee or agent or any person acting under their direction liable to any action, claim or demand whatsoever.\n(2) The provisions of subsection (1) shall not relieve the Authority of the liability to pay compensation or damages to any person for any injury to him, his property or any of his interests caused by the exercise of the powers conferred on the Authority by this Act or by any written law or by the failure, whether wholly or partially, of any works.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No matter or thing done by a member of the Board or any officer, employee or agent of the Authority shall, if the matter or thing is done bona fide for executing the functions, powers or duties of the Authority under this Act, render the officer, employee or agent or any person acting under their direction liable to any action, claim or demand whatsoever."
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of subsection (1) shall not relieve the Authority of the liability to pay compensation or damages to any person for any injury to him, his property or any of his interests caused by the exercise of the powers conferred on the Authority by this Act or by any written law or by the failure, whether wholly or partially, of any works."
+    }
+   ]
+  },
+  "38": {
+   "num": "38",
+   "title": "Common seal.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) Subject to this section, the common seal of the Authority shall be kept in the custody of the Executive Director or of such other person as the Board may direct, and shall not be used except upon the order of the Board.\n(2) The common seal of the Authority shall be authenticated by the signature of the chairperson and the executive director.\n(3) The common seal of the Authority, when affixed to any document and duly authenticated under this section, shall be judicially and officially noticed, and, unless the contrary is proved, the necessary order or authorization of the Board under this section shall be deemed to have been duly given.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this section, the common seal of the Authority shall be kept in the custody of the Executive Director or of such other person as the Board may direct, and shall not be used except upon the order of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "The common seal of the Authority shall be authenticated by the signature of the chairperson and the executive director."
+    },
+    {
+     "ref": "(3)",
+     "text": "The common seal of the Authority, when affixed to any document and duly authenticated under this section, shall be judicially and officially noticed, and, unless the contrary is proved, the necessary order or authorization of the Board under this section shall be deemed to have been duly given."
+    }
+   ]
+  },
+  "39": {
+   "num": "39",
+   "title": "Signification of documents.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "All documents other than those required by law to be under seal made on behalf of the Board shall be signified by the hand of the chairperson of the Board, the Executive Director, or any other member of the Board specifically authorized by the Board in that behalf.",
+   "clauses": []
+  },
+  "40": {
+   "num": "40",
+   "title": "Protection of name.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "Any person who, without the written consent of the Board, uses the words \"National Construction Authority\" in furtherance of, or as, or in connection with, any advertisement for any trade, business, calling or profession, commits an offence and is liable on conviction to imprisonment for a term not exceeding three years or a fine not exceeding one million shillings or to both such fine and imprisonment.",
+   "clauses": []
+  },
+  "41": {
+   "num": "41",
+   "title": "Power to dissolve Board.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "Notwithstanding any other provision of this Act, the Cabinet Secretary may by notice in the Gazette dissolve the Board where the Board performs its functions in a manner which is inconsistent with this Act.",
+   "clauses": []
+  },
+  "42": {
+   "num": "42",
+   "title": "Power to make Regulations.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) The Cabinet Secretary may in consultation with the Board, make regulations generally for the better carrying out of the purposes of this Act.\n(2) Without prejudice to the generality of the foregoing, regulation made under this section may provide for—\n  (a) the manner of payment of the levy imposed under section 31;\n  (aa) the Building Code in the construction industry;\n  (ab) the manner of conducting mandatory inspections by the Authority;\n  (b) the manner of service of any notice required under Act;\n  (c) the fees and charges to be paid in respect of any matter required for purposes of this Act;\n  (d) the manner and forms of accreditation and certification of contractors, skilled construction workers and construction site supervisors;\n  (e) the responsibilities and control of the officers and servants of the Authority;\n  (f) the performance of the functions, the exercise of the powers and discharge of the duties of the Authority under this Act, and (g) any other matter to give effect to the provisions of this Act.\n(3) Regulations made under this section shall be tabled in Parliament for approval before taking effect. [Act No. 11 of 2017, Sch, Act No. 18 of 2018, Sch, Act No. 1 of 2020, s. 20.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may in consultation with the Board, make regulations generally for the better carrying out of the purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of the foregoing, regulation made under this section may provide for— (a) the manner of payment of the levy imposed under section 31; (aa) the Building Code in the construction industry; (ab) the manner of conducting mandatory inspections by the Authority; (b) the manner of service of any notice required under Act; (c) the fees and charges to be paid in respect of any matter required for purposes of this Act; (d) the manner and forms of accreditation and certification of contractors, skilled construction workers and construction site supervisors; (e) the responsibilities and control of the officers and servants of the Authority; (f) the performance of the functions, the exercise of the powers and discharge of the duties of the Authority under this Act, and (g) any other matter to give effect to the provisions of this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "Regulations made under this section shall be tabled in Parliament for approval before taking effect. [Act No. 11 of 2017, Sch, Act No. 18 of 2018, Sch, Act No. 1 of 2020, s. 20.]"
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Supersession.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "Where any conflict arises between the provisions of this Act and the provisions of any other law on the training, registration and regulation of contractors and construction workers, the provisions of this Act shall prevail.",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [s. 7(1)(g)]",
+   "subtitle": "BODIES TO NOMINATE BOARD MEMBERS",
+   "text": "Part I 1. Architectural Association of Kenya; 2. The Institution of Engineers of Kenya; 3. The Institute of Quantity Surveyors of Kenya; 4. Law Society of Kenya.\nPart II 1. The Kenya Federation of Master Builders, 2. The Kenya Association of Building and Civil Engineering Contractors 3. The Roads and Civil Engineering Contractors Association."
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [s. 9]",
+   "subtitle": "CONDUCT OF THE BUSINESS AND AFFAIRS OF THE BOARD",
+   "text": "1. The Board shall meet at most six times in every financial year and not more than three months shall elapse between the date of one meeting and the date of the next meeting.\n2. Notwithstanding paragraph 1, the chairperson may at any time, and shall, within one month of the receipt by him of a written request signed by at least seven members of the Board, convene a special meeting of the Board.\n3. The members of the Board shall at the first meeting of the Board elect a vice-chairperson from amongst their number.\n4. The quorum for the conduct of the business of the Board shall be seven members. 5. The chairperson shall preside at every meeting of the Board at which he is present, but in the absence of the chairperson the vice-chairperson shall preside, and in the absence of both the chairperson and the vice-chairperson the members present shall elect one among their number to preside, and such member shall, as concerns that meeting, have all the powers of the chairperson. 6. The decisions of the Board shall be carried by the votes of a majority of the members present, but in the case of an equality of votes the chairperson or person presiding shall have a casting vote. 7. The members may appoint committees from among themselves or otherwise, to carry out such general or special functions as may be specified by the Board. 8. Any member who has a direct or indirect interest in any decision to be taken on any specific matter by the Board, shall disclose the nature of such interest at the meeting of the Board where such decision is being taken, and the disclosure shall be recorded in the minutes of the meeting, and if majority of the members of the Board believe that such member's interest in the matter is such as to influence his judgment, he shall not participate in the deliberation or the decision of the Board on such matter. 9. Except as provided in this Schedule, the Board may regulate its own procedure."
+  },
+  {
+   "id": "att_3",
+   "title": "THIRD SCHEDULE [s. 16 (2)]",
+   "subtitle": "CLASSES OF CONTRACT WORKS",
+   "text": "A — Building Works (a) General Building Contractor;\n  (b) Carpentry/Joinery;\n  (c) Painting;\n  (d) Masonry;\n  (e) Reinforced masonry works;\n  (f) Specialized building works.\nB — Civil Engineering (a) Roadworks;\n  (b) Structural Works;\n  (c) Boreholes;\n  (d) Site Investigation Works;\n  (e) Sewers.\nC — Electrical Engineering Services (a) Electrical Installation;\n  (b) Electronic (i) Telecommunications PABX, intercoms and telephone wiring);\n  (ii) Electronic communications (public address systems and conferences systems);\n  (iii) Road Communications;\n  (iv) Structured Cabling and computer networking Installations;\n  (v) Security Surveillance Systems (CCTV) intruder Alarm and access control systems (c) Lift hoists, escalators, mechanical ramps, travolators, conveyors and belt installation;\n  (d) Generating Plants and Control Panels;\n  (e) Solar Power Generation and Photovoltaic cells installation;\n  (f) Installation of uninterrupted Power Supply Systems (UPS), Automatic Voltage Regulators (AVR) and Surge Protectors;\n  (g) Retrofitting for improving Energy Efficiency;\n  (h) Construction of Power Transmission Lines and Installation of Power Distribution Equipment.\nD — Mechanical Engineering Services (a) Plumbing, Drainage and Sanitary Fittings;\n  (b) Refrigeration, cold rooms, Air-Conditioning and Ventilation;\n  (c) Kitchen and Laundry Equipment and refuse disposal systems;\n  (d) Boilers, Incinerators and Pressure Vessels;\n  (e) Solar Heating Systems;\n  (f) Water Tanks, Treatment Plant and Pumping plant;\n  (g) Compressed Air, Hydraulic, LP and Medical Gas Installation;\n  (h) Cranes and Hoists;\n  (i) Fire Engineering Services;\n  (j) Health club facilities;\n  (k) Borehole equipment;\n  (l) Hospital Equipment;\n  (m) Mobile shelving. (n) Roof rain-water harvesting;\n  (o) Laboratory installations and Fume Cupboards;\n  (p) Swimming pool installation;\n  (q) Oil storage, Pumping Reticulation."
+  }
+ ],
+ "spent": {}
+}

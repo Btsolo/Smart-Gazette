@@ -1,0 +1,504 @@
+{
+ "title": "National Crime Research Centre Act",
+ "citation": "Cap. 62",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1997/4/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "NATIONAL CRIME RESEARCH CENTRE ACT CAP. 62 Published in Kenya Gazette Vol. XCIX—No. 44 on 29 August 1997 Assented to on 22 August 1997 Commenced on 3 November 2000 by National Crime Research Centre Act Commencement\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2012 (Act No. 12 of 2012) on 12 July 2012] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to provide for the establishment of the National Crime Research Centre and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ESTABLISHMENT, OBJECTS AND FUNCTIONS OF THE CENTRE",
+   "provisions": [
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "STRUCTURE AND OFFICERS OF THE CENTRE",
+   "provisions": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "19",
+    "20",
+    "21",
+    "22"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the National Crime Research Centre Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— \"Centre\" means the National Crime Research Centre established under section 3; \"chairperson\" means the chairperson of the Council; \"Council\" means the Governing Council of the Centre established under section 6; \"Director\" means the Director of the Centre appointed under section 11; \"research\" means research undertaken and conducted by or on behalf of the Centre pursuant to the provisions of this Act; \"the Cabinet Secretary\" means the Attorney-General; \"university\" has the meaning assigned to it in the Universities Act (Cap. 210).",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment of the Centre.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, OBJECTS AND FUNCTIONS OF THE CENTRE",
+   "text": "(1) There is established a Centre to be known as the National Crime Research Centre. (2) The Centre shall be a body corporate with perpetual succession and a common seal and shall be capable, in its corporate name, of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property;\n  (c) entering into contracts;\n  (d) borrowing money;\n  (e) doing or performing all such other things or acts necessary for the proper performance of its functions under this Act, which may be lawfully done or performed by a body corporate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a Centre to be known as the National Crime Research Centre. (2) The Centre shall be a body corporate with perpetual succession and a common seal and shall be capable, in its corporate name, of— (a) suing and being sued; (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property; (c) entering into contracts; (d) borrowing money;"
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Objects of the Centre.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, OBJECTS AND FUNCTIONS OF THE CENTRE",
+   "text": "The objects of the Centre shall be to carry out research into the causes of crime and its prevention and to disseminate research findings to such institutions as the Council may, from time to time, determine for appropriate action.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Functions of the Centre.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, OBJECTS AND FUNCTIONS OF THE CENTRE",
+   "text": "The Centre shall, for the attainment of its objects—\n  (a) carry out co-ordinated research into, and evaluate the impact of, programmes pursued by the agencies responsible for the administration of criminal justice;\n  (b) collate all crime related data;\n  (c) carry out research into any criminal activity and in particular—\n  (i) crime causation and prevention;\n  (ii) group or culture related crimes;\n  (iii) socio-political and economic causes of criminal behaviour including drug trafficking, peddling or addiction;\n  (iv) the modus operandi of persons engaged in any criminal activity;\n  (v) juvenile delinquency;\n  (d) carry out research into deviations from the criminal justice system with a view to increasing the awareness and responsibility of the community in the rehabilitation of criminal offenders;\n  (e) carry out research into the efficacy and adequacy of criminal investigation and prosecution agencies, the penal system and treatment of criminal offenders;\n  (f) disseminate its research findings through publications, workshops, seminars, the mass media and other appropriate means of dissemination;\n  (g) communicate its research findings and recommendations to the agencies of Government concerned with the administration of criminal justice, with a view to assisting them in their policy formulation and planning;\n  (h) liaise with any other research bodies within or outside Kenya engaged in the pursuit of similar or related research; and (i) do all such things as appear necessary or expedient for the performance of its functions.",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Establishment and membership of the Council.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "STRUCTURE AND OFFICERS OF THE CENTRE",
+   "text": "(1) There is established a governing body of the Centre which shall be known as the Governing Council. (2) The membership of the Council shall comprise of the following persons—\n  (a) the Attorney-General or his representative who shall be the chairperson;\n  (aa) the Principal Secretary to the National Treasury;\n  (b) the Chief Justice or his representative;\n  (ba) the Director of Public Prosecutions;\n  (c) the Commissioner of Police or his representative;\n  (d) the Commissioner for Social Services or his representative;\n  (e) the Commissioner of Prisons or his representative;\n  (f) the Principal Probation Officer or his representative;\n  (g) three persons appointed by the Cabinet Secretary, being persons eminently qualified in the fields of criminal law, sociology or criminology, to represent universities in Kenya;\n  (h) one representative of non-Governmental Organizations to be nominated by the National Council of Non-Governmental Organizations; and\n  (i) three other persons appointed by the Cabinet Secretary, by virtue of their knowledge or expertise in specific aspects of crime-oriented research work.\n(3) The Council may co-opt not more than three other members with such knowledge or expertise in specific aspects of crime-oriented research as the Council may determine, to be members of the Council; and such persons may be co-opted for specific assignments or for general purposes.\n(4) Members of the Council appointed under paragraphs (g), (h) and (i) of subsection (2) shall hold office for three years but shall be eligible for re-appointment.\n(5) Members of the Council shall be paid such remuneration or allowances as may be determined by the Cabinet Secretary.\n(6) A member of the Council other than an ex officio member may at any time resign from office by notice in writing to the Director.\n(7) A member of the Council may be removed from office by the Cabinet Secretary if such member—\n  (a) absents himself from three consecutive meetings of the Council without proper cause or the permission of the chairperson;\n  (b) becomes bankrupt or enters into a composition or scheme of arrangement with his creditors;\n  (c) is incapacitated by physical or mental illness; or\n  (d) is otherwise unable or unfit to discharge the functions of his office.\n[Act No. 12 of 2012, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a governing body of the Centre which shall be known as the Governing Council. (2) The membership of the Council shall comprise of the following persons—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Council may co-opt not more than three other members with such knowledge or expertise in specific aspects of crime-oriented research as the Council may determine, to be members of the Council; and such persons may be co-opted for specific assignments or for general purposes."
+    },
+    {
+     "ref": "(4)",
+     "text": "Members of the Council appointed under paragraphs (g), (h) and (i) of subsection (2) shall hold office for three years but shall be eligible for re-appointment."
+    },
+    {
+     "ref": "(5)",
+     "text": "Members of the Council shall be paid such remuneration or allowances as may be determined by the Cabinet Secretary."
+    },
+    {
+     "ref": "(6)",
+     "text": "A member of the Council other than an ex officio member may at any time resign from office by notice in writing to the Director."
+    },
+    {
+     "ref": "(7)",
+     "text": "A member of the Council may be removed from office by the Cabinet Secretary if such member—"
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Functions of the Council.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "STRUCTURE AND OFFICERS OF THE CENTRE",
+   "text": "The functions of the Council shall be to—\n  (a) formulate the research policy and programmes of the Centre;\n  (b) direct the research activities of the Centre with a view to ensuring that its objects under this Act are attained; and\n  (c) plan and organize fund-raising activities to generate funds for the Centre.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Meetings of the Council.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "STRUCTURE AND OFFICERS OF THE CENTRE",
+   "text": "(1) The Council shall meet at such times as the chairperson may determine which shall be not less than once in every three months.\n(2) The chairperson shall preside at all meetings of the Council at which he is present but in his absence, the members present shall appoint one of them who shall, for the purposes of that meeting and the business transacted thereat, have all the powers of the chairperson.\n(3) Decisions at any meeting of the Council shall be by a majority of the members present and voting and in the event of equality of votes, the chairperson shall have a casting vote in addition to his deliberative vote.\n(4) The quorum at any meeting of the Council shall be eight. (5) Subject to subsections (3) and (4), the Council shall regulate its own procedures.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall meet at such times as the chairperson may determine which shall be not less than once in every three months."
+    },
+    {
+     "ref": "(2)",
+     "text": "The chairperson shall preside at all meetings of the Council at which he is present but in his absence, the members present shall appoint one of them who shall, for the purposes of that meeting and the business transacted thereat, have all the powers of the chairperson."
+    },
+    {
+     "ref": "(3)",
+     "text": "Decisions at any meeting of the Council shall be by a majority of the members present and voting and in the event of equality of votes, the chairperson shall have a casting vote in addition to his deliberative vote."
+    },
+    {
+     "ref": "(4)",
+     "text": "The quorum at any meeting of the Council shall be eight. (5) Subject to subsections (3) and (4), the Council shall regulate its own procedures."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Committees.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "STRUCTURE AND OFFICERS OF THE CENTRE",
+   "text": "The Council may appoint such committees as it may consider necessary for the performance of its functions under this Act and shall prescribe the terms and conditions under which such committees shall operate.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Departments, units or divisions of the Centre.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "STRUCTURE AND OFFICERS OF THE CENTRE",
+   "text": "The Council may create such departments, units or divisions of the Centre and appoint thereto staff, on such terms and conditions as it may determine, for the efficient performance of the functions of the Centre.",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Director and Deputy Director.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "STRUCTURE AND OFFICERS OF THE CENTRE",
+   "text": "(1) There shall be a Director of the Centre who shall be appointed by the Council on such terms and conditions of service as the Council may determine.\n(2) The Director shall be a person competent to direct the research functions of the Centre, who holds such qualifications as the Council may determine.\n(3) The Director shall be the Chief Executive Officer of the Centre and shall be responsible to the Council for—\n  (a) planning, directing and co-ordinating all research to be carried out by the Centre;\n  (b) the management of financial and administrative affairs of the Centre;\n  (c) the management and custody of the assets of the Centre;\n  (d) keeping and maintaining all records and documents of the Centre;\n  (e) the performance of such other duties as may be assigned by the Council from time to time.\n(4) The Director shall be the secretary to the Council. (5) There shall be a Deputy Director who shall be appointed by the Council, on such terms and conditions as the Council may determine. (6) The Deputy Director shall, under the general direction of the Director, perform such duties as may be assigned to him from time to time.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Director of the Centre who shall be appointed by the Council on such terms and conditions of service as the Council may determine."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Director shall be a person competent to direct the research functions of the Centre, who holds such qualifications as the Council may determine."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Director shall be the Chief Executive Officer of the Centre and shall be responsible to the Council for— (a) planning, directing and co-ordinating all research to be carried out by the Centre; (b) the management of financial and administrative affairs of the Centre; (c) the management and custody of the assets of the Centre; (d) keeping and maintaining all records and documents of the Centre; (e) the performance of such other duties as may be assigned by the Council from time to time."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Director shall be the secretary to the Council. (5) There shall be a Deputy Director who shall be appointed by the Council, on such terms and conditions as the Council may determine. (6) The Deputy Director shall, under the general direction of the Director, perform such duties as may be assigned to him from time to time."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Funds of the Centre.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The funds of the Centre shall consist of—\n  (a) moneys provided by Parliament for that purpose;\n  (b) proceeds from the sale of any research publications authorized by the Council; and (c) such moneys or assets as may accrue to or vest in the Centre in the course of the exercise of its powers or the performance of its functions under this Act; and\n  (d) all moneys from any other source provided for or donated or lent to the Centre.",
+   "clauses": []
+  },
+  "13": {
+   "num": "13",
+   "title": "Financial year.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The financial year of the Centre shall be the period of twelve months ending on the thirtieth June in every year.\n(2) In the event of any change in the financial year and for the purposes of the transition from the old financial year to the new financial year consequent upon such change, the transitional period shall, whether more or less than twelve months be deemed to be a financial year for the purposes of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The financial year of the Centre shall be the period of twelve months ending on the thirtieth June in every year."
+    },
+    {
+     "ref": "(2)",
+     "text": "In the event of any change in the financial year and for the purposes of the transition from the old financial year to the new financial year consequent upon such change, the transitional period shall, whether more or less than twelve months be deemed to be a financial year for the purposes of this Act."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Long-term planning, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Centre shall prepare its long-term planning, programming, budgeting and funding in accordance with the Government’s forward budget procedures and shall submit the same to the National Treasury for approval.\n(2) The Council may, pursuant to the provisions of paragraph (c) of section 7, raise funds from external sources, donations, endowments and trusts for its recurrent and non-recurrent needs and shall spend such monies in accordance with the proposals, terms and conditions on the basis of which the funds were solicited or granted.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Centre shall prepare its long-term planning, programming, budgeting and funding in accordance with the Government’s forward budget procedures and shall submit the same to the National Treasury for approval."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council may, pursuant to the provisions of paragraph (c) of section 7, raise funds from external sources, donations, endowments and trusts for its recurrent and non-recurrent needs and shall spend such monies in accordance with the proposals, terms and conditions on the basis of which the funds were solicited or granted."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Investment of funds.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Council may invest any of the funds of the Centre in securities in which, for the time being, trustees may by law invest trust funds or in any other securities which the National Treasury may from time to time approve for that purpose.\n(2) The Council may place on deposit with such bank or banks as it may determine any moneys not immediately required for the purposes of the Centre.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council may invest any of the funds of the Centre in securities in which, for the time being, trustees may by law invest trust funds or in any other securities which the National Treasury may from time to time approve for that purpose."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council may place on deposit with such bank or banks as it may determine any moneys not immediately required for the purposes of the Centre."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Annual estimates.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) Before the commencement of every financial year, the Council shall cause to be prepared estimates of revenue and expenditure of the Centre for that year.\n(2) The annual estimates shall make provision for all the estimated expenditure of the Centre for the financial year concerned, and in particular shall provide for—\n  (a) the payment of salaries, allowances and other charges in respect of staff of the Centre;\n  (b) the payment of pensions, gratuities and other charges in respect of retirement benefits which are payable out of the funds of the Centre;\n  (c) the proper maintenance of the buildings and grounds of the Centre;\n  (d) the proper maintenance, repair and replacement of the equipment and other movable property of the Centre;\n  (e) the cost of research activities of the Centre; and\n  (f) the creation of such reserve funds to meet future or contingent liabilities in respect of retirement benefits, insurance or replacement of buildings or equipment, or in respect of such other matter as the Council may deem fit.\n(3) Annual estimates shall be approved by the Council before the commencement of the financial year to which they relate, and shall be submitted to the Cabinet Secretary for approval within a period of three months after the commencement of the financial year and after the Cabinet Secretary has given his approval, the Council shall not increase any sum provided in the estimates without the consent of the Cabinet Secretary.\n(4) No expenditure shall be incurred for purposes of the Centre except in accordance with the annual estimates approved under subsection (3) or in pursuance of an authorization of the Council given with prior approval of the Cabinet Secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Before the commencement of every financial year, the Council shall cause to be prepared estimates of revenue and expenditure of the Centre for that year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall make provision for all the estimated expenditure of the Centre for the financial year concerned, and in particular shall provide for—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Annual estimates shall be approved by the Council before the commencement of the financial year to which they relate, and shall be submitted to the Cabinet Secretary for approval within a period of three months after the commencement of the financial year and after the Cabinet Secretary has given his approval, the Council shall not increase any sum provided in the estimates without the consent of the Cabinet Secretary."
+    },
+    {
+     "ref": "(4)",
+     "text": "No expenditure shall be incurred for purposes of the Centre except in accordance with the annual estimates approved under subsection (3) or in pursuance of an authorization of the Council given with prior approval of the Cabinet Secretary."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Accounts and audit.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Council shall cause to be kept proper books and records of account of the income, expenditure, assets and liabilities of the Centre.\n(2) Within a period of three months from the end of each financial year, the Council shall submit to the Auditor-General or an auditor appointed under subsection (3), accounts of the Centre together with —\n  (a) a statement of income and expenditure during that year; and\n  (b) a statement of assets and liabilities of the Centre as on the last day of the year.\n(3) The accounts of the Centre shall be audited by the Auditor-General or an auditor appointed under this section by the Council under the authority of the Auditor-General.\n(4) The appointment of an auditor under this section shall not be terminated by the Council without the consent of the Auditor-General.\n(5) The Auditor-General may give general or special directions to an auditor appointed by the Council under this section and the auditor shall comply with such directions.\n(6) An auditor appointed under this section shall report directly to the Auditor-General on any matter relating to the directions given under subsection (5).\n(7) Within a period of two months from the date the books and records of account are submitted to him under subsection (2), the Auditor-General or the auditor appointed by the Council, as the case may be, shall examine the accounts of the Centre and shall report his findings thereon to the Council and to the Cabinet Secretary; and where the auditor is appointed by the Council, he shall also transmit a copy of his report to the Auditor-General.\n(8) Nothing in this Act shall be construed as prohibiting the Auditor-General from carrying out an inspection of the Centre’s accounts or records if it appears to him desirable pursuant to the provisions of Part VII of the Exchequer and Audit Act (Cap. 412).\n(9) Notwithstanding anything in this Act, the Auditor-General may transmit to the Cabinet Secretary a special report on any matters incidental to his powers under this Act, and subsections (3) and (4) of section 19 of the Exchequer and Audit Act (Cap. 412) shall, mutatis mutandis, apply to any report made under this section.\n(10) The Cabinet Secretary shall lay the auditor’s report submitted to him under subsection (7) before the National Assembly in accordance with the provisions of subsection (4) of section 19 of the Exchequer and Audit Act (Cap. 412).\n(11) The remuneration of any auditor not in the service of the Government shall be determined and paid by the Council.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall cause to be kept proper books and records of account of the income, expenditure, assets and liabilities of the Centre."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within a period of three months from the end of each financial year, the Council shall submit to the Auditor-General or an auditor appointed under subsection (3), accounts of the Centre together with —"
+    },
+    {
+     "ref": "(3)",
+     "text": "The accounts of the Centre shall be audited by the Auditor-General or an auditor appointed under this section by the Council under the authority of the Auditor-General."
+    },
+    {
+     "ref": "(4)",
+     "text": "The appointment of an auditor under this section shall not be terminated by the Council without the consent of the Auditor-General."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Auditor-General may give general or special directions to an auditor appointed by the Council under this section and the auditor shall comply with such directions."
+    },
+    {
+     "ref": "(6)",
+     "text": "An auditor appointed under this section shall report directly to the Auditor-General on any matter relating to the directions given under subsection (5)."
+    },
+    {
+     "ref": "(7)",
+     "text": "Within a period of two months from the date the books and records of account are submitted to him under subsection (2), the Auditor-General or the auditor appointed by the Council, as the case may be, shall examine the accounts of the Centre and shall report his findings thereon to the Council and to the Cabinet Secretary; and where the auditor is appointed by the Council, he shall also transmit a copy of his report to the Auditor-General."
+    },
+    {
+     "ref": "(8)",
+     "text": "Nothing in this Act shall be construed as prohibiting the Auditor-General from carrying out an inspection of the Centre’s accounts or records if it appears to him desirable pursuant to the provisions of Part VII of the Exchequer and Audit Act (Cap. 412)."
+    },
+    {
+     "ref": "(9)",
+     "text": "Notwithstanding anything in this Act, the Auditor-General may transmit to the Cabinet Secretary a special report on any matters incidental to his powers under this Act, and subsections (3) and (4) of section 19 of the Exchequer and Audit Act (Cap. 412) shall, mutatis mutandis, apply to any report made under this section."
+    },
+    {
+     "ref": "(10)",
+     "text": "The Cabinet Secretary shall lay the auditor’s report submitted to him under subsection (7) before the National Assembly in accordance with the provisions of subsection (4) of section 19 of the Exchequer and Audit Act (Cap. 412)."
+    },
+    {
+     "ref": "(11)",
+     "text": "The remuneration of any auditor not in the service of the Government shall be determined and paid by the Council."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Annual report.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Council shall, within four months after the end of each financial year, make a report to the Cabinet Secretary on the activities of the Centre during the financial year and its research programmes for the following year.\n(2) The Cabinet Secretary shall, within fourteen days after receipt of the report, lay the same before the National Assembly.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall, within four months after the end of each financial year, make a report to the Cabinet Secretary on the activities of the Centre during the financial year and its research programmes for the following year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary shall, within fourteen days after receipt of the report, lay the same before the National Assembly."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Regulations.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) In the performance of its functions under this Act, the Council may, subject to this Act, make regulations generally for the government, control and administration of the Centre and for the better carrying out of the provisions of this Act, and in particular for—\n  (a) the establishment of departments, units or divisions into which the Centre may be divided for the efficient carrying out of its objects and functions;\n  (b) the conduct of research and related activities;\n  (c) the terms and conditions of service, including the appointment, dismissal, discipline, remuneration and retirement benefits of the staff of the Centre;\n  (d) the constitution and procedure of meetings of the Council and the establishment, composition and terms of reference of committees thereof;\n  (e) the determination of the manner of remuneration of members of the Council;\n  (f) the procedures of fund-raising activities;\n  (g) providing for or prescribing anything which, under this Act, may be provided for or prescribed by regulations.\n(2) Notwithstanding the provisions of subsection (1) the Council shall not make, amend or revoke any regulations governing privileges or terms and conditions of service of the offices established or officers appointed by the Council without first seeking the opinion of the Director:\nProvided that the Director’s opinion shall not be binding on the Council.\n(3) Regulations shall only be made by resolution passed at a meeting of the Council supported by a majority of not less than three-fourths of the members present and voting, being not less than half of the total membership of the Council.\n(4) Regulations made by the Council under this Act shall not require to be published in the Gazette and provisions of sections 27 and 34 of the Interpretations and General Provisions Act (Cap. 2) shall not apply to the regulations.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In the performance of its functions under this Act, the Council may, subject to this Act, make regulations generally for the government, control and administration of the Centre and for the better carrying out of the provisions of this Act, and in particular for—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding the provisions of subsection (1) the Council shall not make, amend or revoke any regulations governing privileges or terms and conditions of service of the offices established or officers appointed by the Council without first seeking the opinion of the Director:"
+    },
+    {
+     "ref": "(3)",
+     "text": "Regulations shall only be made by resolution passed at a meeting of the Council supported by a majority of not less than three-fourths of the members present and voting, being not less than half of the total membership of the Council."
+    },
+    {
+     "ref": "(4)",
+     "text": "Regulations made by the Council under this Act shall not require to be published in the Gazette and provisions of sections 27 and 34 of the Interpretations and General Provisions Act (Cap. 2) shall not apply to the regulations."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Protection of name.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Notwithstanding the provisions of any other written law, no public officer performing functions relating to the registration of companies or business names shall accept for such registration any name which includes the word \"Centre\" together with the words \"National Crime Research\" unless the application for the registration is accompanied by the written consent of the Council.\n(2) Any person who, except with the written consent of the Council, uses the word \"Centre\" together with the words \"National Crime Research\" in furtherance of, or as, or in connection with, any advertisement for any trade, business, calling or profession commits an offence and shall be liable, on conviction, to a fine not exceeding fifty thousand shillings, or to imprisonment for a term not exceeding two years, or to both:\nProvided that nothing in this subsection shall be construed as preventing the bona fide use by any person of any title in pursuance of research or work authorised by the Council or the Director.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Notwithstanding the provisions of any other written law, no public officer performing functions relating to the registration of companies or business names shall accept for such registration any name which includes the word \"Centre\" together with the words \"National Crime Research\" unless the application for the registration is accompanied by the written consent of the Council."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who, except with the written consent of the Council, uses the word \"Centre\" together with the words \"National Crime Research\" in furtherance of, or as, or in connection with, any advertisement for any trade, business, calling or profession commits an offence and shall be liable, on conviction, to a fine not exceeding fifty thousand shillings, or to imprisonment for a term not exceeding two years, or to both:"
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Request for information.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Director may, in writing, request any person to furnish the Centre with such information or to produce such documents or records as he deems necessary and relevant for the discharge of the functions of the Centre under this Act.\n(2) A person who—\n  (a) without reasonable cause, refuses or fails to comply with a request under subsection (1) to furnish any information or to produce any documents or records; or\n  (b) in furnishing such information, makes a statement which he knows to be false in a material particular, or recklessly makes a statement which is false in a material particular, commits an offence and shall be liable, on conviction, to a fine not exceeding thirty thousand shillings, or to imprisonment for a term not exceeding twelve months, or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Director may, in writing, request any person to furnish the Centre with such information or to produce such documents or records as he deems necessary and relevant for the discharge of the functions of the Centre under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who—"
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Common seal and signification of documents.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The common seal of the Centre shall be kept in such custody as the Council directs and shall be used as directed by the Council from time to time.\n(2) The seal shall be authenticated by the signatures of the chairperson and the Director.\n(3) The seal, when affixed to any document and duly authenticated as provided under subsection (2), shall be judicially noticed and unless and until the contrary is proved, any necessary order or authorization of the Council under this section, shall be presumed to have been duly given.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The common seal of the Centre shall be kept in such custody as the Council directs and shall be used as directed by the Council from time to time."
+    },
+    {
+     "ref": "(2)",
+     "text": "The seal shall be authenticated by the signatures of the chairperson and the Director."
+    },
+    {
+     "ref": "(3)",
+     "text": "The seal, when affixed to any document and duly authenticated as provided under subsection (2), shall be judicially noticed and unless and until the contrary is proved, any necessary order or authorization of the Council under this section, shall be presumed to have been duly given."
+    }
+   ]
+  }
+ },
+ "schedules": [],
+ "spent": {}
+}

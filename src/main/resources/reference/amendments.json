@@ -1,0 +1,150 @@
+{
+ "note": "Amending Acts (Gazette Supplements) and the laws in the library they name (tools/build_law_reference.py pdfs raw/law). The reference watch flags a law whose copy is older than an amendment of it.",
+ "amendments": [
+  {
+   "title": "Business Laws (Amendment) Act 2020",
+   "file": "Business Laws (Amendment) Act 2020.pdf",
+   "date": "2020-03-20",
+   "amends": [
+    "kenya_information_and_communications_act",
+    "miscellaneous_fees_and_levies_act",
+    "national_construction_authority_act",
+    "public_finance_management_act",
+    "registration_of_documents_act",
+    "land_registration_act",
+    "law_of_contract_act",
+    "excise_duty_act",
+    "stamp_duty_act",
+    "insolvency_act",
+    "companies_act",
+    "survey_act"
+   ]
+  },
+  {
+   "title": "Companies and Insolvency Legislation (Consequential Amendments) Act 2015",
+   "file": "Companies and Insolvency Legislation (Consequential Amendments) Act 2015.pdf",
+   "date": "2015-09-15",
+   "amends": [
+    "prevention_of_fraud_investments_act",
+    "cooperative_societies_act",
+    "national_police_service_act",
+    "land_registration_act",
+    "hire_purchase_act",
+    "labour_relations_act",
+    "income_tax_act",
+    "insolvency_act",
+    "advocates_act",
+    "companies_act",
+    "copyright_act",
+    "insurance_act",
+    "societies_act",
+    "banking_act",
+    "land_act"
+   ]
+  },
+  {
+   "title": "Criminal Law (Amendment Act) 2003",
+   "file": "Criminal Law (Amendment Act) 2003.pdf",
+   "date": "2003-07-18",
+   "amends": [
+    "narcotic_drugs_and_psychotropic_substances_control_act",
+    "criminal_procedure_code",
+    "children_act",
+    "evidence_act",
+    "penal_code"
+   ]
+  },
+  {
+   "title": "Election Laws (Amendment) Act",
+   "file": "Election Laws (Amendment) Act.pdf",
+   "date": "2016-09-20",
+   "amends": [
+    "independent_electoral_and_boundaries_commission_act",
+    "political_parties_act",
+    "elections_act"
+   ]
+  },
+  {
+   "title": "Finance Act 2025",
+   "file": "Finance Act 2025.pdf",
+   "date": "2025-06-27",
+   "amends": [
+    "miscellaneous_fees_and_levies_act",
+    "cooperative_societies_act",
+    "public_finance_management_act",
+    "social_health_insurance_act",
+    "value_added_tax_act",
+    "tax_procedures_act",
+    "excise_duty_act",
+    "income_tax_act",
+    "stamp_duty_act",
+    "banking_act"
+   ]
+  },
+  {
+   "title": "Finance Act 2026",
+   "file": "Finance Act 2026.pdf",
+   "date": "2026-06-26",
+   "amends": [
+    "virtual_asset_service_providers_act",
+    "miscellaneous_fees_and_levies_act",
+    "value_added_tax_act",
+    "gambling_control_act",
+    "hire_purchase_act",
+    "tax_procedures_act",
+    "excise_duty_act",
+    "income_tax_act",
+    "stamp_duty_act",
+    "insurance_act",
+    "banking_act"
+   ]
+  },
+  {
+   "title": "Health Laws (Amendment) Act 2019",
+   "file": "Health Laws (Amendment) Act 2019.pdf",
+   "date": "2019-05-17",
+   "amends": [
+    "technical_and_vocational_education_and_training_act",
+    "health_records_and_information_managers_act",
+    "kenya_medical_training_college_act",
+    "physiotherapists_act",
+    "universities_act"
+   ]
+  },
+  {
+   "title": "Security Laws (Amendment) Act 2014",
+   "file": "Security Laws (Amendment) Act 2014.pdf",
+   "date": null,
+   "amends": [
+    "narcotic_drugs_and_psychotropic_substances_control_act",
+    "proceeds_of_crime_and_anti_money_laundering_act",
+    "public_benefits_organizations_act",
+    "national_police_service_act",
+    "prevention_of_terrorism_act",
+    "criminal_procedure_code",
+    "evidence_act",
+    "traffic_act",
+    "penal_code"
+   ]
+  },
+  {
+   "title": "Statute Law (Miscellaneous Amendments) Act 2007",
+   "file": "Statute Law (Miscellaneous Amendments) Act 2007.pdf",
+   "date": "2007-10-15",
+   "amends": [
+    "kenya_maritime_authority_act",
+    "export_processing_zones_act",
+    "criminal_procedure_code",
+    "retirement_benefits_act",
+    "land_adjudication_act",
+    "sexual_offences_act",
+    "auctioneers_act",
+    "judicature_act",
+    "advocates_act",
+    "copyright_act",
+    "evidence_act",
+    "penal_code"
+   ]
+  }
+ ]
+}

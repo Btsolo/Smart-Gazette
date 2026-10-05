@@ -1,0 +1,453 @@
+{
+ "title": "Miscellaneous Fees and Levies Act",
+ "citation": "Cap. 469C",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2016/29/eng@2026-07-01",
+ "version_date": "2026-07-01",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "MISCELLANEOUS FEES AND LEVIES ACT CAP. 469C Published in Kenya Gazette Vol. CXVIII—No. 107 on 9 September 2016 Assented to on 31 August 2016 Commenced on 21 September 2016\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2017 (Act No. 11 of 2017) on 4 May 2017] [Amended by Finance Act, 2017 (Act No. 15 of 2017) on 1 January 2018] [Amended by Finance Act, 2018 (Act No. 10 of 2018) on 1 July 2018] [Amended by Finance Act, 2018 (Act No. 10 of 2018) on 1 October 2018]\n[Amended by Finance Act, 2019 (Act No. 23 of 2019) on 7 November 2019] [Amended by Business Laws (Amendment) Act, 2020 (Act No. 1 of 2020) on 18 March 2020]\n[Amended by Tax Laws (Amendment) Act, 2020 (Act No. 2 of 2020) on 25 April 2020] [Amended by Finance Act, 2020 (Act No. 8 of 2020) on 30 June 2020] [Amended by Finance Act, 2020 (Act No. 8 of 2020) on 1 July 2021] [Amended by Finance Act, 2021 (Act No. 8 of 2021) on 1 July 2021] [Amended by Finance Act, 2021 (Act No. 8 of 2021) on 1 January 2022] [Amended by Finance Act, 2022 (Act No. 22 of 2022) on 1 July 2022]\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] [Amended by Finance Act, 2023 (Act No. 4 of 2023) on 1 July 2023]\n[Amended by Finance Act, 2023 (Act No. 4 of 2023) on 1 September 2023] [Amended by Tax Laws (Amendment) Act, 2024 (Act No. 12 of 2024) on 27 December 2024]\n[Amended by Finance Act, 2025 (Act No. 9 of 2025) on 1 July 2025] [Amended by Finance Act, 2025 (Act No. 9 of 2025) on 1 January 2026] [Amended by Miscellaneous Fees and Levies (Amendment) Act, 2026 (Act No. 6 of 2026) on 27 March 2026] [Amended by Special Economic Zones (Amendment) Act, 2026 (Act No. 12 of 2026) on 15 May 2026]\n[Amended by Finance Act, 2026 (Act No. 19 of 2026) on 1 July 2026]\nAn Act of Parliament to provide for the imposition of duties, fees and levies on imported or exported goods and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ADMINISTRATION",
+   "provisions": [
+    "3",
+    "4"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "IMPOSITION OF LEVIES AND FEES",
+   "provisions": [
+    "5",
+    "6",
+    "7",
+    "7A",
+    "8",
+    "8A",
+    "8B",
+    "9",
+    "9A",
+    "9B",
+    "10"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "11",
+    "12"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Miscellaneous Fees and Levies Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In this Act, unless the context otherwise requires—\n\"Authority” means Kenya Revenue Authority established by the Kenya Revenue Authority Act (Cap. 469);\n\"authorised officer” means any officer appointed under section 3;\n\"Cabinet Secretary\" means the Cabinet Secretary for the time being responsible for finance;\n\"Commissioner\" means the Commissioner-General appointed under the Kenya Revenue Authority Act (Cap. 469) or any other Commissioner to whom powers or functions have been delegated under that Act;\n\"concessional loan\" means a loan with at least twenty-five percent grant element;\n\"customs value\" for the purposes of ascertaining the value for charging, means—\n  (a) the import declaration fee or railway development levy, the import value of goods as appraised by Customs for use as the basis for assessing the amount of import duty; or\n  (b) the export levy, the export value of the goods;\n\"East African Community Partner States\" means the Republics of Burundi, Rwanda, Uganda and the United Republic of Tanzania;\n\"export\" means to take or cause to be taken out of Kenya to a foreign country to an export processing zone or special economic zone;\n\"export processing zone\" means an export processing zone designated as such under the Export Processing Zones Act (Cap. 517);\n\"importer\" in relation to goods, means a person who owns the goods, or any other person who is, for the time being, in possession of or beneficially interested in the goods at the time of importation;\n\"official aid funded project\" means a project funded by means of a grant or concession loan in accordance with an agreement between the Government of Kenya and any foreign government, agency, institution, foundation, organization or any other aid agency;\n\"person\" means an individual, company, partnership, association of persons, trust, estate, the Government, a foreign government or a political subdivision of the Government or foreign government; and\n\"Special Economic Zone\" has the meaning assigned to it under the Special Economic Zones Act (Cap. 517A).\n(2) For the purpose of this Act, goods shall be classified by reference to the nomenclature set out in Annex 1 to the Protocol on the Establishment of the East African Community Customs Union and in interpreting the Annex; the general rules of interpretation set out therein shall apply.\n[Act No. 10 of 2018, s. 49, Act No. 23 of 2019, s. 36.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, unless the context otherwise requires—"
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purpose of this Act, goods shall be classified by reference to the nomenclature set out in Annex 1 to the Protocol on the Establishment of the East African Community Customs Union and in interpreting the Annex; the general rules of interpretation set out therein shall apply."
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Functions and powers of the Commissioner and other officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) The Commissioner shall unless otherwise provided for be responsible for the control and collection of, and accounting for, duties, fees and levies paid under this Act and shall, subject to the direction and control of the Cabinet Secretary, have the superintendence of all matters relating thereto.\n(2) The Commissioner shall appoint such officers as may be necessary for the administration of this Act.\n(3) The Commissioner may authorize any officer appointed under this section to perform any of the functions of the Commissioner under this Act or the regulations, other than the functions under subsection (2).\n(4) Every authorised officer appointed under this section shall enforce, and ensure due compliance with, the provisions of this Act and the regulations, and shall make all due inquiries in relation thereto.\n(5) Every authorised officer appointed under this section shall, on demand, produce such documents establishing his or her identity as may be approved by the Commissioner.\n(6) Every authorised officer shall, in carrying out the provisions of this Act, regard and deal with all documents and information relating to fees and charges and all confidential instructions in respect of the administration of this Act which may come into his possession or to his knowledge in the course of his duties as confidential. (7) Any decision made and any notice or communication issued or signed by any authorised officer may be withdrawn or amended by the Commissioner or by the authorised officer concerned, and shall, until it has been so withdrawn, be deemed to have been made, issued or signed by the Commissioner.\n[Act No. 6 of 2026, s. 2.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commissioner shall unless otherwise provided for be responsible for the control and collection of, and accounting for, duties, fees and levies paid under this Act and shall, subject to the direction and control of the Cabinet Secretary, have the superintendence of all matters relating thereto."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Commissioner shall appoint such officers as may be necessary for the administration of this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Commissioner may authorize any officer appointed under this section to perform any of the functions of the Commissioner under this Act or the regulations, other than the functions under subsection (2)."
+    },
+    {
+     "ref": "(4)",
+     "text": "Every authorised officer appointed under this section shall enforce, and ensure due compliance with, the provisions of this Act and the regulations, and shall make all due inquiries in relation thereto."
+    },
+    {
+     "ref": "(5)",
+     "text": "Every authorised officer appointed under this section shall, on demand, produce such documents establishing his or her identity as may be approved by the Commissioner."
+    },
+    {
+     "ref": "(6)",
+     "text": "Every authorised officer shall, in carrying out the provisions of this Act, regard and deal with all documents and information relating to fees and charges and all confidential instructions in respect of the administration of this Act which may come into his possession or to his knowledge in the course of his duties as confidential. (7) Any decision made and any notice or communication issued or signed by any authorised officer may be withdrawn or amended by the Commissioner or by the authorised officer concerned, and shall, until it has been so withdrawn, be deemed to have been made, issued or signed by the Commissioner."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Authorised officers to have powers of police officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "For the purposes of carrying out the provisions of this Act, every authorised officer shall, in the performance of his or her duties, have all the powers, rights, privileges and protection of a police officer.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Imposition of export levy",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "IMPOSITION OF LEVIES AND FEES",
+   "text": "(1) There shall be paid a levy to be known as the export levy, on all goods specified in the First Schedule.\n(2) The levy shall, where more than one rate is specified, be the higher of the ad valorem or the specific rate specified in the First Schedule and shall be paid by the exporter at the time of entering the goods for export.\n(3) The ad valorem rate shall be based on the custom value of the goods. (4) Deleted by Act No. 4 of 2023, s. 69.\n[Act No. 4 of 2023, s. 69.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be paid a levy to be known as the export levy, on all goods specified in the First Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "The levy shall, where more than one rate is specified, be the higher of the ad valorem or the specific rate specified in the First Schedule and shall be paid by the exporter at the time of entering the goods for export."
+    },
+    {
+     "ref": "(3)",
+     "text": "The ad valorem rate shall be based on the custom value of the goods. (4) Deleted by Act No. 4 of 2023, s. 69."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Exemption",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "IMPOSITION OF LEVIES AND FEES",
+   "text": "The provisions of section 5 shall not apply to goods exported to the East African Community Partner States.",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Import declaration fee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "IMPOSITION OF LEVIES AND FEES",
+   "text": "(1) There shall be paid a fee to be known as the import declaration fee, on all goods imported into the country for home use.\n(2) The fee shall be at the rate of two point-five per cent of the customs value of the goods and shall be paid by the importer of such goods at the time of entering the goods for home use.\n(2A) Deleted by Act No. 4 of 2023, s. 68 (b). (3) Despite subsection (1)—\n  (a) import declaration fee shall not be charged on the goods specified in Part A of the Second Schedule when imported or purchased before clearance through customs;\n  (b) deleted by Act No. 4 of 2023, s. 68 (c). (4) An importer of goods other than goods specified in Part A of the Second Schedule shall complete the prescribed import declaration form. (5) An importer shall present a copy of the import declaration form completed under subsection (4) to the Commissioner at the time of entering the goods for home use. (6) Out of the fee collected under subsection (2), twenty per cent shall be paid into a Fund established and managed in accordance with the Public Finance Management Act (Cap. 412A)\n(7) Ten percent of monies in the Fund under subsection (6) shall be used for the payment of kenya's contributions to the African Union and any other international organisation to which Kenya has a financial obligation, while ten percent shall be used for revenue enforcement initiatives.\n[Act No. 23 of 2019, s. 37, Act No. 2 of 2020, Sch., Act No. 8 of 2020, s. 20, Act No. 22 of 2022, s. 46, Act No. 4 of 2023, s. 68., Act No. 9 of 2025, s. 62.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be paid a fee to be known as the import declaration fee, on all goods imported into the country for home use."
+    },
+    {
+     "ref": "(2)",
+     "text": "The fee shall be at the rate of two point-five per cent of the customs value of the goods and shall be paid by the importer of such goods at the time of entering the goods for home use."
+    },
+    {
+     "ref": "(2A)",
+     "text": "Deleted by Act No. 4 of 2023, s. 68 (b). (3) Despite subsection (1)— (a) import declaration fee shall not be charged on the goods specified in Part A of the Second Schedule when imported or purchased before clearance through customs; (b) deleted by Act No. 4 of 2023, s. 68 (c). (4) An importer of goods other than goods specified in Part A of the Second Schedule shall complete the prescribed import declaration form. (5) An importer shall present a copy of the import declaration form completed under subsection (4) to the Commissioner at the time of entering the goods for home use. (6) Out of the fee collected under subsection (2), twenty per cent shall be paid into a Fund established and managed in accordance with the Public Finance Management Act (Cap. 412A)"
+    },
+    {
+     "ref": "(7)",
+     "text": "Ten percent of monies in the Fund under subsection (6) shall be used for the payment of kenya's contributions to the African Union and any other international organisation to which Kenya has a financial obligation, while ten percent shall be used for revenue enforcement initiatives."
+    }
+   ]
+  },
+  "7A": {
+   "num": "7A",
+   "title": "Export and investment promotion levy",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "IMPOSITION OF LEVIES AND FEES",
+   "text": "(1) There shall be paid a levy to be known as the export and investment promotion levy, on all goods specified in the Third Schedule, imported into the country for home use.\n(2) The levy shall be at the rates specified in the Third Schedule and shall be paid by the importer of such goods at the time of entering the goods into the country for home use.\n(3) The purpose of the levy shall be to provide funds to boost manufacturing, increase exports, create jobs, save on foreign exchange and promote investments.\n(4) The export and investment promotion levy shall not be charged on goods originating from East African Community Partner States that meet the East African Community Rules of Origin.\n(5) The funds collected from the levy shall be paid into a fund established and managed in accordance with the Public Finance Management Act (Cap. 412A).\n[Act No. 4 of 2023, s. 70.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be paid a levy to be known as the export and investment promotion levy, on all goods specified in the Third Schedule, imported into the country for home use."
+    },
+    {
+     "ref": "(2)",
+     "text": "The levy shall be at the rates specified in the Third Schedule and shall be paid by the importer of such goods at the time of entering the goods into the country for home use."
+    },
+    {
+     "ref": "(3)",
+     "text": "The purpose of the levy shall be to provide funds to boost manufacturing, increase exports, create jobs, save on foreign exchange and promote investments."
+    },
+    {
+     "ref": "(4)",
+     "text": "The export and investment promotion levy shall not be charged on goods originating from East African Community Partner States that meet the East African Community Rules of Origin."
+    },
+    {
+     "ref": "(5)",
+     "text": "The funds collected from the levy shall be paid into a fund established and managed in accordance with the Public Finance Management Act (Cap. 412A)."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Railway development levy",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "IMPOSITION OF LEVIES AND FEES",
+   "text": "(1) There shall be paid a levy to be known as the railway development levy, on all goods imported into the country for home use.\n(2) The levy shall be at the rate of two per cent of the customs value of the goods and shall be paid by the importer of such goods at the time of entering the goods into the country for home use.\n(2A) Deleted by Act No. 4 of 2023, s. 71 (b).\n(3) The purpose of the levy shall be to provide funds for—\n  (a) financing the development and construction of railway transport infrastructure;\n  (b) the safety and economic regulation of railway infrastructure; and\n  (c) on the approval of the Cabinet Secretary and the Cabinet Secretary responsible for matters relating to railway transport, rehabilitation of railway transport infrastructure.\n(4) There is established a fund known as the Railway Development Levy Fund, into which the proceeds of the levy shall be paid, and which shall vest in the Board established under subsection (4A).\n(4A) There is established a board known as the Railway Development Levy Fund Board which is a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of—\n  (a) suing and being sued;\n  (b) taking, purchasing, charging and disposing of movable and immovable property;\n  (c) entering into contracts; and\n  (d) doing or performing all other things necessary for the proper discharge of its functions under this Act which may be lawfully done or performed by a body corporate.\n(4B) The functions of the Board shall be to—\n  (a) formulate the strategic direction of the Fund including strategic plans, investment plans and policies;\n  (b) set up administrative, governance and financial management structures of the Fund;\n  (c) oversee the administration and management of the Fund;\n  (d) coordinate the optimal utilization of the Fund in implementing programmes relating to the purpose for which the Fund is established;\n  (e) supervise the performance of the Secretary to the Board, officers and staff of the Fund;\n  (f) approve and review the annual work programme and budget of the Fund;\n  (g) approve, with the concurrence of the Cabinet Secretary, the investment policy, investment plan and risk threshold of the Fund;\n  (h) invest the funds of the Board not immediately required for the purposes of this Act in such a manner as it may determine; and\n  (i) perform any other function necessary to promote the objects and purpose of the Fund.\n(4C) The Railway Development Levy Fund Board shall consist of—\n  (a) a chairperson appointed by the President from among the members appointed under paragraph (e);\n  (b) the Principal Secretary responsible for matters relating to railway transport;\n  (c) the Principal Secretary responsible for matters relating to finance;\n  (d) the Attorney-General;\n  (e) five other members, who shall not be public officers, appointed by the Cabinet Secretary responsible for matters relating to railway transport, with expertise in infrastructure finance, law, investment or public-private partnerships; and\n  (f) the Secretary to the Railway Development Levy Fund Board who shall be an ex-officio member without any right to vote at the meetings of the Board.\n(4D) A person appointed as a member of the Board under this Act, other than an ex-officio member, shall serve for a term of three years and be shall be eligible for reappointment for a further and final term of three years.\n(4E) A member of the Board, other than an ex-officio member, may—\n  (a) at any time resign from office by notice in writing—\n  (i) in the case of the chairperson, to the President; or\n  (ii) in the case of a member, to the chairperson;\n  (b) be removed from office if the member—\n  (i) has been absent from three consecutive meetings of the Board without the permission of the chairperson;\n  (ii) is adjudged bankrupt or enters into a composition scheme or arrangement with his or her creditors;\n  (iii) is convicted of an offence involving dishonesty or fraud;\n  (iv) is convicted of a criminal offence and sentenced to imprisonment for a term exceeding six months or to a fine exceeding ten thousand shillings;\n  (v) is incapacitated by prolonged physical or mental illness or is deemed otherwise unfit to discharge his or her duties as a member of the Board.\n(4F) The Cabinet Secretary shall make regulations to provide for—\n  (a) the recruitment and appointment of the Secretary to the Railway Development Levy Fund Board and other officers and staff of the Fund;\n  (b) the management and administration of the Railway Development Levy Fund;\n  (c) the usage and apportionment of monies from the Railway Development Levy Fund for the purposes for which the Fund is established; and\n  (d) the conduct of affairs and regulation of the business of the Board.\n(4G) The regulations under subsection (4F) shall be made under and in accordance with section 24 of the Public Finance Management Act.\n(4H) For the purposes of subsection (4F)(c), a proportion of the Railway Development Levy Fund not exceeding ninety per cent of the Fund may be used to secure additional funds for the purposes provided under subsection (3)(a).\n(4I) The administrative costs of the Fund shall not exceed zero point five per cent of the Fund.\n(4J) All monies accruing to the Fund shall be paid into the following accounts established by the Board with the approval of the Cabinet Secretary—\n  (a) a Fund account;\n  (b) a general account, which shall be applied towards the ordinary purposes of the Fund; and\n  (c) a special account, into which shall be paid and from which shall be disbursed the additional funds secured pursuant to subsection (4H).\n(4K) All transactions relating to the special account established pursuant to subsection (4J)(c) shall be recorded, reported on and audited in accordance with the Public Finance Management Act (Cap. 412A), the Public Audit Act (Cap. 412B) and any other relevant written law.\n(4L) The Board shall submit to the Cabinet Secretary and the Cabinet Secretary responsible for matters relating to railway transport, at least once every three months, and annually to the National Assembly, reports detailing the inflows, outflows, and balances of the accounts established pursuant to subsection (4J).\n(5) The fund referred to in subsection (4) shall be established, managed, administered or wound up in accordance with section 24 of the Public Finance Management Act (Cap. 412A) and the regulations made under that Act.\n(6) No levy shall be charged in respect of the goods specified in Part B of the Second Schedule when imported or purchased before clearance through customs.\n[Act No. 23 of 2019, s. 38, Act No. 2 of 2020, Sch, Act No. 22 of 2022, s. 47, Act No. 4 of 2023, s. 71, Act No. 12 of 2024, s. 28, Act No. 6 of 2026, s. 3.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be paid a levy to be known as the railway development levy, on all goods imported into the country for home use."
+    },
+    {
+     "ref": "(2)",
+     "text": "The levy shall be at the rate of two per cent of the customs value of the goods and shall be paid by the importer of such goods at the time of entering the goods into the country for home use."
+    },
+    {
+     "ref": "(2A)",
+     "text": "Deleted by Act No. 4 of 2023, s. 71 (b)."
+    },
+    {
+     "ref": "(3)",
+     "text": "The purpose of the levy shall be to provide funds for—"
+    },
+    {
+     "ref": "(4)",
+     "text": "There is established a fund known as the Railway Development Levy Fund, into which the proceeds of the levy shall be paid, and which shall vest in the Board established under subsection (4A)."
+    },
+    {
+     "ref": "(4A)",
+     "text": "There is established a board known as the Railway Development Levy Fund Board which is a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of—"
+    },
+    {
+     "ref": "(4B)",
+     "text": "The functions of the Board shall be to—"
+    },
+    {
+     "ref": "(4C)",
+     "text": "The Railway Development Levy Fund Board shall consist of—"
+    },
+    {
+     "ref": "(4D)",
+     "text": "A person appointed as a member of the Board under this Act, other than an ex-officio member, shall serve for a term of three years and be shall be eligible for reappointment for a further and final term of three years."
+    },
+    {
+     "ref": "(4E)",
+     "text": "A member of the Board, other than an ex-officio member, may—"
+    },
+    {
+     "ref": "(4F)",
+     "text": "The Cabinet Secretary shall make regulations to provide for—"
+    },
+    {
+     "ref": "(4G)",
+     "text": "The regulations under subsection (4F) shall be made under and in accordance with section 24 of the Public Finance Management Act."
+    },
+    {
+     "ref": "(4H)",
+     "text": "For the purposes of subsection (4F)(c), a proportion of the Railway Development Levy Fund not exceeding ninety per cent of the Fund may be used to secure additional funds for the purposes provided under subsection (3)(a)."
+    },
+    {
+     "ref": "(4I)",
+     "text": "The administrative costs of the Fund shall not exceed zero point five per cent of the Fund."
+    },
+    {
+     "ref": "(4J)",
+     "text": "All monies accruing to the Fund shall be paid into the following accounts established by the Board with the approval of the Cabinet Secretary—"
+    },
+    {
+     "ref": "(4K)",
+     "text": "All transactions relating to the special account established pursuant to subsection (4J)(c) shall be recorded, reported on and audited in accordance with the Public Finance Management Act (Cap. 412A), the Public Audit Act (Cap. 412B) and any other relevant written law."
+    },
+    {
+     "ref": "(4L)",
+     "text": "The Board shall submit to the Cabinet Secretary and the Cabinet Secretary responsible for matters relating to railway transport, at least once every three months, and annually to the National Assembly, reports detailing the inflows, outflows, and balances of the accounts established pursuant to subsection (4J)."
+    },
+    {
+     "ref": "(5)",
+     "text": "The fund referred to in subsection (4) shall be established, managed, administered or wound up in accordance with section 24 of the Public Finance Management Act (Cap. 412A) and the regulations made under that Act."
+    },
+    {
+     "ref": "(6)",
+     "text": "No levy shall be charged in respect of the goods specified in Part B of the Second Schedule when imported or purchased before clearance through customs."
+    }
+   ]
+  },
+  "8A": {
+   "num": "8A",
+   "title": "Anti-adulteration levy",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "IMPOSITION OF LEVIES AND FEES",
+   "text": "(1) There shall be paid a levy to be known as the anti-adulteration levy, on all illuminating kerosene imported into the country for home use.\n(2) The levy shall be at the rate of eighteen shillings per litre of the customs value of the illuminating kerosene and shall be paid by the importer at the time of entering the illuminating kerosene into the country.\n(3) The Commissioner shall refund the levy on the written application of an importer where the Commissioner is satisfied that the levy was paid in respect of illuminating kerosene that has subsequently been used by a licensed or registered manufacturer to manufacture paint, resin or shoe polish.\n(4) The levy shall not apply to a licenced or registered manufacturer of paint, resin or shoe polish.\n[Act No. 10 of 2018, s. 50, Act No. 23 of 2019, s. 39, Act No. 8 of 2021, s. 49.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be paid a levy to be known as the anti-adulteration levy, on all illuminating kerosene imported into the country for home use."
+    },
+    {
+     "ref": "(2)",
+     "text": "The levy shall be at the rate of eighteen shillings per litre of the customs value of the illuminating kerosene and shall be paid by the importer at the time of entering the illuminating kerosene into the country."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Commissioner shall refund the levy on the written application of an importer where the Commissioner is satisfied that the levy was paid in respect of illuminating kerosene that has subsequently been used by a licensed or registered manufacturer to manufacture paint, resin or shoe polish."
+    },
+    {
+     "ref": "(4)",
+     "text": "The levy shall not apply to a licenced or registered manufacturer of paint, resin or shoe polish."
+    }
+   ]
+  },
+  "8B": {
+   "num": "8B",
+   "title": "Processing fees on duty free motor vehicles",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "IMPOSITION OF LEVIES AND FEES",
+   "text": "(1) There shall be a fee to be known as the processing fee on all motor vehicles excluding motorcycles imported or purchased duty free prior to clearance through customs under the Fifth Schedule to the East African Community Customs Management Act, 2004.\n(2) The fee shall be Kenya shillings ten thousand applicable to all motor vehicles excluding motorcycles imported or purchased duty free specified in paragraphs 4, 5, 6, 7, 8, 9, 10 and 11 of Part A, and paragraph 3 and 5 of Part B under the Fifth Schedule to the East African Community Customs Management Act, 2004.\n[Act No. 2 of 2020, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a fee to be known as the processing fee on all motor vehicles excluding motorcycles imported or purchased duty free prior to clearance through customs under the Fifth Schedule to the East African Community Customs Management Act, 2004."
+    },
+    {
+     "ref": "(2)",
+     "text": "The fee shall be Kenya shillings ten thousand applicable to all motor vehicles excluding motorcycles imported or purchased duty free specified in paragraphs 4, 5, 6, 7, 8, 9, 10 and 11 of Part A, and paragraph 3 and 5 of Part B under the Fifth Schedule to the East African Community Customs Management Act, 2004."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Application of East African Community Customs Management Act, 2004",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "IMPOSITION OF LEVIES AND FEES",
+   "text": "The provisions of the East African Community Customs Management Act, 2004, relating to the determination of value of imported goods, collection and enforcement of the payment of duty shall apply for the purposes of assessment, collection and enforcement of the payment of the fees and levies imposed under Part III.\n(Act No. 19 of 2026, s. 51)",
+   "clauses": []
+  },
+  "9A": {
+   "num": "9A",
+   "title": "Duty on goods for home use from an export processing zone enterprise",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "IMPOSITION OF LEVIES AND FEES",
+   "text": "Notwithstanding the import duties payable under section 110 of the East African Community Customs Management Act, 2004, an additional duty at a rate of two point five per cent of the customs value shall be payable in respect of goods entered for home use from an export processing zones enterprise.\nProvided that this section shall not apply to currency notes and coins imported by the Central Bank of Kenya.\n[Act No. 8 of 2020, s. 21, Act No. 22 of 2022, s. 48.]",
+   "clauses": []
+  },
+  "9B": {
+   "num": "9B",
+   "title": "Application of Tax Procedures Act (Cap. 469B).",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "IMPOSITION OF LEVIES AND FEES",
+   "text": "The Tax Procedures Act (Cap. 469B) shall apply for the purposes of—\n  (a) an application for refunds, ascertainment and repayment of fees and levies overpaid or paid in error under this Act; or\n  (b) the determination by the Commissioner of penalties and interests on fees and levies that remain unpaid.\n[Act No. 8 of 2021, s. 50, Act No. 22 of 2022, s. 49, Act No. 9 of 2025, s. 63.]",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Formalities may be carried out by information technology",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "IMPOSITION OF LEVIES AND FEES",
+   "text": "(1) Subject to such conditions as the Commissioner shall prescribe, formalities or procedures under this Act may be carried out by use of information technology in the customs computerized system.\n(2) The provisions of the East African Community Customs Management Act, 2004, relating to registration of users, access and use on the customs computerized system shall apply for the purposes of carrying out formalities and procedures under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to such conditions as the Commissioner shall prescribe, formalities or procedures under this Act may be carried out by use of information technology in the customs computerized system."
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of the East African Community Customs Management Act, 2004, relating to registration of users, access and use on the customs computerized system shall apply for the purposes of carrying out formalities and procedures under this Act."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Offence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A person who contravenes the provisions of this Act commits an offence. (2) A person convicted of an offence under this Act, where no specific penalty is provided, shall be liable to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding two years, or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who contravenes the provisions of this Act commits an offence. (2) A person convicted of an offence under this Act, where no specific penalty is provided, shall be liable to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding two years, or to both."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Cabinet Secretary may make regulations for the better carrying out of the provisions of this Act.",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [s. 5(1)] GOODS SUBJECT TO EXPORT LEVY",
+   "subtitle": null,
+   "text": "[Act No. 15 of 2017, s. 58, Act No. 22 of 2022, s. 50, LN 177 of 2022, LN 203 of 2022, Act No. 4 of 2023, s. 72.]\nPART I Tariff No.\nTariff Description Export Levy Rate Molasses resulting from the extraction or refining of sugar 20% of the customs value Iron ores and concentrates, including roasted iron pyrites USD 175 per tonne 4101.20.00 Whole unsplit hides and skins, of a weight per skin not exceeding 8 kg when simply dried, 10kg when dry salted, or 16kg when fresh, wet salted or otherwise preserved 50% or USD 0.32 whichever is higher 4102.21.00 Raw skins of sheep or lambs (pickled, but not tanned, parchment-dressed or further prepared), without wool on whether or not split, other than those excluded by Note 1(c) to Chapter 41.\n50% or USD 0.32 whichever is higher 4102.29.00 Other raw skins of sheep or lamb (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchmentdressed or further prepared), without wool on, whether or not split, other than those excluded by Note (c) to Chapter 41 50% or USD 0.32 whichever is higher 4103.20.00 Other raw hides and skins (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not debarred or split, other than those excluded by Note 1 (b) or (c) to this Chapter, of reptiles.\n50% or USD 0.32 whichever is higher.\nTariff No.\nTariff Description Export Levy Rate 4103.30.00 Other raw hides and skins (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), but not debarred or split, other than those excluded by Note 1 (b) or 1 (c) to this Chapter, of swine.\n50% or USD 0.32 whichever is higher 4103.90.00 Other raw hides and skins other than of reptiles, swine, goats or kids.\n50% or USD 0.32 whichever is higher.\n4104.19.00 Other tanned or crust hides and skins of bovine (including buffalo) or equine animals, without hair on, whether or not split, but not further prepared, in the wet state (including wet blue).\n50% or USD 0.32 whichever is higher 4301.60.00 Raw furskins of fox, whole, with or without head, tail or paws.\n50% or USD 0.32 whichever is higher 4101.50.00 Whole hides and skins, of weight exceeding 16 kg.\n50% or USD 0.32 whichever is higher 4101.90.00 Other, including butts, bends and bellies.\n50% or USD 0.32 whichever is higher 4102.10.00 Raw skins of sheep or lamb (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchmentdressed or further prepared), with wool on, whether or not split, other than those excluded by Note 1(c) to Chapter 41.\n50% or USD 0.32 whichever is higher 4301.10.00 Raw furskins of mink, whole, with or without head, tail or paws.\n50% or USD 0.32 whichever is higher 4301.30.00 Raw furskins of lamb, the following: Astrkhan, broadtail, Caracul, Persian and similar lamb, Indian, Chinese, Mongolian or Tibetan lamb, whole, with or without head, tail or paws.\n50% or USD 0.32 whichever is higher 4301.80.00 Other raw furskins, whole, with or without head, tail or paws.\n50% or USD 0.32 whichever is higher 4301.90.00 Heads, tail, paws, and other pieces or cuttings, suitable for furriers’ use.\n50% or USD 0.32 whichever is higher 4302.11.00 Whole skins, with or without head, tail or paws, not assembled, of mink.\n50% or USD 0.32 whichever is higher Tariff No.\nTariff Description Export Levy Rate 4302.19.00 Other whole skins, with or without head, tail or paws, not assembled.\n50% or USD 0.32 whichever is higher 4302.20.00 Heads, tails, paws and other pieces or cuttings, not assembled.\n50% or USD 0.32 whichever is higher 4302.30.00 Whole skins and pieces or cuttings thereof, assembled.\n50% or USD 0.32 whichever is higher 7112.30.00 Waste and scrap of precious metal or of metal clad with 20% precious metal; other waste and scrap containing precious metal or precious metal compounds of a kind used principally for the recovery of precious metal of ash containing precious metal or precious metal compounds.\n7112.91.00 Other waste and scrap of precious metal or precious metal 20% compounds of a kind used principally for the recovery of precious metal of gold including metal clad with gold.\n7112.92.00 Other waste and scraps of precious metal or precious metal 20% compounds of a kind used principally for the recovery of precious metal of platinum, including metal clad with platinum.\n7112.99.00 Other waste and scrap of precious metal or metal clad with 20% precious metal, other waste and scrap containing precious metal compounds, of a kind used principally for the recovery of precious metal.\n7204.10.00 Waste and scrap of cast of iron.\n20% 7204.29.00 Waste and scrap of other alloy or steel.\n20% 7204.30.00 Waste and scrap of tinned iron steel.\n20% 7204.41.00 Turnings, shavings, chips, milling waste, sawdust, fillings, 20% trimmings and stampings, whether or not in bundles, or iron or steel.\n7204.49.00 Other waste and scrap or iron or steel 20% 7204.50.00 Remelting scrap ingots 20% 7205.10.00 Granules of pig iron, spiegeleisen, iron or steel.\n20% Tariff No.\nTariff Description 7902.00.00 Zinc waste and scrap.\n8002.00.00 Tin waste and scrap.\n8102.94.00 Unwrought molybdenum including bars and rods obtained simply by sintering; waste and scrap.\n8102.97.00 Waste and scrap of molybdenum 8103.30.00 Waste and scrap of tantalum 8104.20.00 Waste of scrap of magnesium Cobalt mattes and other intermediate products of cobalt metallurgy; cobalt and articles thereof, including waste and scrap 8105.30.00 Waste and scrap of cobalt matters.\n8106.10.00 Bismuth and articles thereof including waste and scrap containing more than 99.99% of bismuth, by weight 8106.90.00 Other bismuth and articles thereof including waste and scrap 8109.31.00 Waste and scrap of zirconium containing less than 1 part hafnium to 500 parts zirconium by weight 8112.61.00 Waste and scrap of cadmium.\n8108.30.00 Waste and scrap of titanium.\n8110.20.00 Waste and scrap of antimony.\n8112.13.00 Waste and scrap of beryllium.\n8112.22.00 Waste and scrap of chromium.\n8112.52.00 Waste and scrap of thallium.\n8112.92.00 Unwrought waste and scrap; powders.\nExport Levy Rate 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% 20% PART II Part I shall not apply to exports to Export Processing Zones or Special Economic Zones. [Act No. 15 of 2017, s. 58.]\nPART III\n[s. 5(4)] (1) The specific rates of export levy on goods specified in Part I of this schedule shall be adjusted for inflation at a date not later than the 1st October of every financial year in accordance with the formula specified in paragraph (2). (2) Each rate of export levy specified in column 3 of the table in Part I of this schedule shall be replaced by the rate of export levy computed by reference to the following formula— AxB Where— A is the rate of export levy on the day immediately before the adjustment day; and B is the adjustment factor for the adjustment day calculated as one plus annual average rate of inflation of the preceding financial year. (3) For the purpose of this Part— “adjustment day” means 1st July of every year; \"inflation\" means the average annual inflation rate in a financial year; \"financial year\" means the period of 12 months ending on 30th June of every year."
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [s. 7(3)(a)] GOODS EXEMPT FROM IMPORT DECLARATION",
+   "subtitle": "FEE AND RAILWAY DEVELOPMENT LEVY",
+   "text": "(Act No. 11 of 2017, Sch., Act No. 15 of 2017, s. 59, Act No. 10 of 2018, s. 51, Act No. 1 of 2020, ss. 42 & 43, Act No. 2 of 2020, Sch., Act No. 8 of 2020, s. 22, Act No. 8 of 2021, s. 51, Act No. 22 of 2022, s. 51, Act No. 4 of 2023, s. 73, Act No. 4 of 2023, s. 71, Act No. 12 of 2024, s. 29, Act No. 9 of 2025, s. 64, Act No. 12 of 2026, Sch., Act No. 19 of 2026, s. 52) PART A GOODS EXEMPT FROM IMPORT DECLARATION FEE WHEN IMPORTED OR PURCHASED BEFORE CLEARANCE THROUGH CUSTOMS The following goods are exempt from payment of import declaration fee when imported or purchased before clearance through customs—\n  (i) goods destined for approved duty free shops;\n  (ii) goods destined for approved Export Processing Zones or Special Economic Zones enterprises;\n  (iii) goods destined for approved enterprises manufacturing under bond;\n  (iv) accompanied or unaccompanied used personal effects;\n  (v) ammunition, weapons or implements of war imported by the Government;\n  (vi) household and personal effects including motor vehicles, provided such motor vehicles qualify for exemption from duty under the Fifth Schedule to the East African Community Customs Management Act, 2004;\n  (vii) posted parcels, excluding goods imported for trade;\n  (viii) deleted by Act No. 2 of 2020, Sch.;\n  (ix) deleted by Act No. 2 of 2020, Sch.;\n  (x) goods for official use by diplomatic and consular missions, the United Nations and its agencies, and institutions or organizations exempted under the Privileges and Immunities Act (Cap. 179);\n  (xi) goods destined for official aid-funded projects;\n  (xii) currency notes and coins of current issues imported by the Central Bank of Kenya or by a financial institution with the approval of the Central Bank of Kenya; postage, revenue and excise stamps;\n  (xiii) explosive and pyrotechnic products imported by the Government;\n  (xiv) gifts by foreign Governments or international organizations to charities and foundations;\n  (xv) all parts of chapter 88 and goods of tariff heading 8802.30.00 and 8802.40.00;\n  (xva) any other aircraft spare parts including aircraft engines imported by aircraft operators or persons engaged in the business of aircraft maintenance upon recommendation by the competent authority responsible for civil aviation;\n  (xvi) aircraft catering stores for use in an aircraft owned and operated by a designated airline;\n  (xvii) currency notes, coins, travellers cheques and bullion;\n  (xviii) rail locomotives, wagons (86.0 to 86.06) and rail containers (86.09);\n  (xix) ships weighing 250 tonnes or more;\n  (xx) goods from the East African Community Partner States that meets the East African Community Rules of origin;\n  (xxi) deleted by Act No. 2 of 2020, Sch.;\n  (xxia) deleted by Act No. 2 of 2020, Sch.;\n  (xxib) goods imported or purchased for the construction of bulk storage facilities for supporting the Standard Gauge Railway operations with a minimum storage capacity of one hundred thousand metric tonnes of supplies as approved by the Cabinet Secretary responsible for transport;\n  (xxii) deleted by Act No. 8 of 2020, s. 22(a)(ii);\n  (xxiii) deleted by Act No. 8 of 2020, s. 22(a)(iii);\n  (xxv) All goods including material supplies, equipment, machinery and motor vehicles for the official use by the Kenya Defence Forces, the National Intelligence Service, the Defence Forces Welfare Services and National Police Service;\n  (xxva) inputs and raw materials imported by manufacturers of pharmaceutical products on the recommendation of the Cabinet Secretary responsible for matters relating to health;\n  (xxvb) goods imported for use in the construction and maintenance of human vaccine manufacturing plants as approved by the Cabinet Secretary for the National Treasury on recommendation of the Cabinet Secretary for Health;\n  (xxvc) goods, inputs and raw materials imported by a company which is—\n  (a) engaged in business under a special operating framework arrangement with the Government; and (b) incorporated for purposes of undertaking the manufacture of human vaccines or other manufacturing activities including refining; and whose capital investment is at least ten billion shillings, subject to approval of the Cabinet Secretary for the National Treasury, on recommendation of the Cabinet Secretary for health; and (xxvi) such other goods the exemption of which the Cabinet Secretary may determine is in the public interest, or to promote investment and the value of which shall not be less than five billion shillings; (xxvii) goods imported for official use by international and regional organizations that have bilateral or multilateral agreements with Kenya; (xxviii) liquefied petroleum gas;\n  (xxix) the supply of denatured ethanol of tariff number 2207.20.00;\n  (xxx) bioethanol vapour (BEV) stoves classified under HS Code 7321.12.00 (cooking appliances and plate warmers for liquid fuel);\n  (xxxi) deleted by Act No. 9 of 2025, s. 64; (xxxii) inputs, raw materials and machinery used in the manufacture of mosquito repellents upon recommendation by the Cabinet Secretary responsible for matters relating to health; and (xxxiii) Goods used in the construction of liquefied petroleum gas storage tanks and related infrastructure: Provided that the investment in the construction of liquefied petroleum gas storage tanks and related infrastructure in Kenya amounts to at least five billion shillings and has been recommended by the Cabinet Secretary responsible for matters relating to energy.\nPART B (s. 8(6)) GOODS EXEMPT FROM THE RAILWAY DEVELOPMENT LEVY WHEN IMPORTED OR PURCHASED BEFORE CLEARANCE THROUGH CUSTOMS The railway development levy shall not apply to goods imported or purchased before clearance through customs —\n  (i) for the implementation of an official aid funded project;\n  (ii) goods imported for official use by diplomatic and consular missions, United Nations and its agencies, and institutions or organizations exempted under the Privileges and Immunities Act;\n  (iii) deleted by Act No. 4 of 2023, s.73;\n  (iv) from the East African Community Partner States provided that they meet the East African Community Rules of origin;\n  (v) deleted by Act No. 2 of 2020, Sch.;\n  (va) deleted by Act No. 2 of 2020, Sch.;\n  (vb) goods imported or purchased for the construction of bulk storage facilities for supporting the Standard Gauge Railway operations with a minimum storage capacity of one hundred thousand metric tonnes of supplies as approved by the Cabinet Secretary responsible for transport;\n  (vi) deleted by Act No. 8 of 2020, s. 22(b)(i);\n  (vii) deleted by Act No. 2 of 2020, Sch.;\n  (viii) currency notes and coins imported by the Central Bank of Kenya;\n(viiia) inputs and raw materials imported by manufacturers of pharmaceutical products on the recommendation of the Cabinet Secretary responsible for matters relating to health;\n(viiib) goods imported for use in the construction and maintenance of human vaccine manufacturing plants as approved by the Cabinet Secretary for the National Treasury on recommendation of the Cabinet Secretary for Health;\n  (viiic) goods, inputs and raw materials imported by a company which is—\n  (a) engaged in business under a special operating framework arrangement with the Government; and\n  (b) incorporated for purposes of undertaking the manufacture of human vaccines or other manufacturing activities including refining; and whose capital investment is at least ten billion shillings, subject to approval of the Cabinet Secretary for the National Treasury, on recommendation of the Cabinet Secretary for health;\n  (ix) All goods including material supplies, equipment, machinery and motor vehicles for the official use by the Kenya Defence Forces, the National Intelligence Service, the Defence Forces Welfare Services and National Police Service;\n  (x) such other goods the exemption of which the Cabinet Secretary may determine is in the public interest, or to promote investment and the value of which shall not be less than five billion shillings.\n  (xi) goods imported for official use by international and regional organizations that have bilateral or multilateral agreements with Kenya;\n  (xii) liquefied petroleum gas;\n  (xiii) all parts of chapter 88 and goods of tariff heading 8802.30.00 and 8802.40.00;\n  (xiv) the supply of denatured ethanol of tariff number 2207.20.00;\n  (xv) bioethanol vapour (BEV) stoves classified under HS Code 7321.12.00 (cooking appliances and plate warmers for liquid fuel);\n  (xvi) any other aircraft spare parts including aircraft engines imported by aircraft operators or persons engaged in the business of aircraft maintenance upon recommendation by the competent authority responsible for civil aviation;\n  (xxvii) goods of chapter 5407 and 6309 imported as raw materials for manufacture of textile products in Kenya upon receommndation of the Cabinet Secretary responsible for investment, trade and industry;\n  (xviii) inputs, raw materials and machinery used in the manufacture of mosquito repellents upon recommendation by the Cabinet Secretary responsible for matters relating to health; and\n  (xix) goods destined for approved Export Processing Zones or Special Economic Zones designated for midstream petroleum operations or upstream petroleum operations.\n  (xix) Goods used in the construction of liquefied petroleum gas storage tanks and related infrastructure:\nProvided that the investment in the construction of liquefied petroleum gas storage tanks and related infrastructure in Kenya amounts to at least five billion shillings and has been recommended by the Cabinet Secretary responsible for matters relating to energy."
+  },
+  {
+   "id": "att_3",
+   "title": "THIRD SCHEDULE [s. 7A(1)]",
+   "subtitle": null,
+   "text": "[Act No. 4 of 2023, s. 74, Act No. 12 of 2024, s. 30.]\nTariff No.\nTariff Description Export and investment promotion levy rate 2523.10.00 Cement Clinkers 17.5 % of the customs value 7207.11.00 Semi-finished products of iron or non-alloy steel containing, by weight, <0.25% of carbon; of rectangular (including square) cross-section, the width measuring less than twice the thickness 17.5 % of the customs value 7213.91.10 Bars and rods of iron or non-alloy steel, hot-rolled, in irregularly wound coils of circular cross-section measuring less than 14mm in diameter of cross section measuring less than 8 mm 17.5 % of the customs value 7213.91.90 Bars and rods of iron or non-alloy steel, hot-rolled, in irregularly wound coils of circular cross-section measuring less than 14mm in diameter; other 17.5 % of the customs value 4804.11.00 Uncoated kraft paper and paperboard, in rolls or sheets; Kraft liner; Unbleached 10 % of the customs value 4804.21.00 Sack kraft paper; Unbleached 10 % of the customs value 4804.31.00 Other kraft paper and paperboard weighing 150 g/m2 or less: Unbleached 10 % of the customs value 4819.30.00 Sacks and bags, having a base of a width of 40 cm or more.\n10 % of the customs value 4819.40.00 Other sacks and bags, including cones.\n10 % of the customs value 4804.29.00 Sack kraft bleached 10 % of the customs value 4804.39.00 Sack kraft bleached 10 % of the customs value Tariff No.\nTariff Description Export and investment promotion levy rate 69.07 Ceramic flags and paving, hearth or wall tiles; unglazed 3% ceramic mosaic cubes and the like, whether or not on a backing; finishing ceramics.\n69.10 Ceramic sinks, wash basins, wash basin pedestals, baths, 3% bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures.\n72.06 Iron and non-alloy steel in ingots or other primary forms (excluding iron of heading 72.03).\n17.5% 72.07 Semi-finished products of iron or non-alloy steel 17.5% 72.13 Bars and rods, hot-rolled, in irregularly wound coils, of iron or non-alloy steel;\n17.5% 72.14 Other bars and rods of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded, but including those twisted after rolling.\n17.5% 72.24 Other alloy steel in ingots or other primary forms; semifinished products of other alloy steel.\n17.5%"
+  }
+ ],
+ "spent": {}
+}

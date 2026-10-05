@@ -1,0 +1,1840 @@
+{
+ "title": "Copyright Act",
+ "citation": "Cap. 130",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2001/12/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "COPYRIGHT ACT CAP. 130 Published in Kenya Gazette Vol. CIV—No. 2 on 11 January 2002 Assented to on 31 December 2001 Commenced on 1 February 2003 by Copyright Act Commencement\n[Amended by Laws of Kenya (Rectification) Order, 2003 (Legal Notice 54 of 2003) on 23 May 2003] [Amended by National Museums and Heritage Act (Cap. 216) on 8 September 2006]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2007 (Act No. 7 of 2007) on 15 October 2007] [Amended by Finance Act, 2010 (Act No. 10 of 2010) on 24 December 2010]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2012 (Act No. 12 of 2012) on 12 July 2012] [Amended by Statute Law (Miscellaneous Amendments) Act, 2014 (Act No. 18 of 2014) on 8 December 2014]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2017 (Act No. 11 of 2017) on 4 May 2017] [Amended by Companies and Insolvency Legislation (Consequential Amendments) Act, 2015 (Act No. 19 of 2015) on 3 July 2017]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2018 (Act No. 18 of 2018) on 18 January 2019] [Amended by Copyright (Amendment) Act, 2019 (Act No. 20 of 2019) on 2 October 2019] [Amended by Copyright (Amendment) Act, 2022 (Act No. 14 of 2022) on 22 April 2022] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to make provision for copyright in literary, musical and artistic works, audio-visual works, sound recordings, broadcasts and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ADMINISTRATION",
+   "provisions": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "COPYRIGHT AND RELATED RIGHTS",
+   "provisions": [
+    "22",
+    "22A",
+    "22B",
+    "22C",
+    "22D",
+    "23",
+    "24",
+    "25",
+    "26",
+    "26A",
+    "26B",
+    "26C",
+    "26D",
+    "27",
+    "28",
+    "29",
+    "30",
+    "30A",
+    "30B",
+    "30C",
+    "31",
+    "32",
+    "33",
+    "33A",
+    "34"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "INFRINGEMENT",
+   "provisions": [
+    "35",
+    "35A",
+    "35B",
+    "35C",
+    "35D",
+    "36",
+    "37",
+    "38",
+    "38A"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "INSPECTION",
+   "provisions": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "PUBLIC DOMAIN",
+   "provisions": [
+    "45"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "COLLECTIVE ADMINISTRATION OF COPYRIGHT",
+   "provisions": [
+    "46",
+    "46A",
+    "46B",
+    "46C",
+    "46D",
+    "46E",
+    "46F",
+    "46G",
+    "47",
+    "48"
+   ]
+  },
+  {
+   "id": "part_VIII",
+   "num": "VIII",
+   "title": "MISCELLANEOUS",
+   "provisions": [
+    "49",
+    "50",
+    "51",
+    "52"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Copyright Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In this Act, unless the context otherwise requires— \"accessible format copy\" means a copy of a work in an alternative manner or form which gives a beneficiary person access to the work, including permitting the person to have access as feasibly and comfortably as a person without visual impairment or other print disability; \"art market professional\" includes an auctioneer, owner or operator of a gallery, museum, an art dealer or any other person involved in the business of dealing in artworks; \"artiste\" means a singer, declaimer, musician or other person whose work constitutes a ring back tune; “artistic work” means, irrespective of artistic quality, any of the following, or works similar thereto —\n  (a) paintings, drawings, etchings, lithographs, woodcuts, engravings and prints;\n  (b) maps, plans and diagrams;\n  (c) works of sculpture;\n  (d) photographs not comprised in audio-visual works;\n  (e) works of architecture in the form of buildings or models; and\n  (f) works of artistic craftsmanship, pictorial woven tissues and articles of applied handicraft and industrial art;\n\"artwork\" means an original work of visual art created by an artist or artists, or produced under their authority;\n“audio-visual work” means a fixation in any physical medium of images, either synchronised with or without sound, from which a moving picture may by any means be reproduced and includes videotapes and videogames but does not include a broadcast;\n“authentication device” means any legal device that is used as proof that works or copies thereof are legitimate;\n“author” in relation to—\n  (a) a literary, musical dramatic or artistic work, means the person who first makes or creates the work;\n  (b) a photograph, means the person who is responsible for the composition of the photograph;\n  (c) a sound recording, means a person by whom the arrangements for the making of the sound recording were made;\n  (d) audio-visual works, means the person by whom the arrangements for the making of the work were made;\n  (e) a broadcast, means the first broadcaster;\n  (f) a published edition, means the publisher of the edition;\n  (g) a literary, dramatic, musical or artistic work or computer program which is computer generated, means the person by whom the arrangements necessary for the creation of the work were undertaken; and\n  (h) a computer programmer, means the person who exercised control over the making of the program;\n\"authorized entity\" means an entity that is authorized or recognized by the government to provide education, instructional training, adaptive reading or information access to beneficiary persons on a non-profit basis and includes a government institution or non-profit organization that provides the same services to beneficiary persons as one of its primary activities or institutional obligations;\n\"beneficiary person\" means a person who—\n  (a) is blind;\n  (b) has a visual impairment or a perceptual or reading disability which cannot be improved to give visual function substantially equivalent to that of a person who has no such impairment or disability and so is unable to read printed works to substantially the same degree as a person without an impairment or disability; or\n  (c) is otherwise unable, through physical disability, to hold or manipulate a book or to focus or move the eyes to the extent that would be normally acceptable for reading, regardless of any other disabilities;\n“Board” means the Kenya Copyright Board established under section 3;\n“broadcasting” means the transmission, by wire or wireless means, of sounds or images or both or the representations thereof, in such a manner as to cause such images or sounds to be received by the public and includes transmission by satellite;\n“broadcast authority” means the Kenya Broadcasting Corporation established by the Kenya Broadcasting Corporation Act (Cap. 221), or any other broadcaster authorized by or under any written law;\n“building” includes any structure;\n\"buyer\" means a person to whom ownership is transferred in an artwork under commercial resale;\n“Cabinet Secretary” means the Cabinet Secretary for the time being responsible for matters relating to copyright and related rights;\n\"collective management organisation\" means an organisation approved and authorized by the Board which has as its main object, or one of its main objects, the negotiating for the collection and distribution of royalties and the granting of licenses in respect of the use of copyright works or related rights;\n“computer” means an electronic or similar device having information-processing capabilities;\n“computer program” means a set of instructions expressed in words, codes, schemes or in any other form, which is capable, when incorporated in a medium that the computer can read, of causing a computer to perform or achieve a particular task or result;\n\"commercial resale\" means the subsequent re-transfer of ownership in artwork from one person to another for monetary consideration with the involvement of an art market professional;\n“communication to the public” means—\n  (a) a live performance; or\n  (b) a transmission to the public, other than a broadcast, of the images or sounds or both, of a work, performance or sound recording;\n“copy” means a reproduction of work in any manner or form and includes any sound audio or visual recording of a work and any permanent or transient storage of a work in any medium, by computer technology or any other electronic means;\n“copyright related rights” means copyright under this Act;\n\"Copyright Tribunal\" means the tribunal established under section 48 of the Act;\n“electronic rights management information” means any information by right-holders which identifies the work or recording;\n\"exclusive licence\" means a licence in writing signed by or on behalf of an owner or prospective owner of copyright or related rights, authorizing the licensee to the exclusion of all other persons, including the person granting the licence, to exercise a right which by virtue of this Act would apart from the licence be exercisable exclusively by the owner of copyright or related rights;\n“fixation” means the embodiment of sounds or images, or of the representation thereof from which they can be perceived, reproduced or communicated through a device;\n\"information system\" means a system for generating, sending, receiving, storing, displaying or otherwise processing data and includes internet;\n\"information system services\" includes the provision of connections, the operation of facilities for information systems, the provision of access to information systems, the transmission or routing of data between or among points specified by a user and the processing and storage of data, at the individual request of the recipient of the service;\n“infringement” means any act which violates a right protected by this Act;\n“infringing copy” means—\n  (a) a copy, the making of which constitutes an infringement of any rights protected by this Act;\n  (aa) the transmission of a work or live performance which constitutes an infringement of any rights protected by this Act through wire or wireless means to the public, including the making available of a work or a live performance to the public in such a way that members of the public may access the work or live performance from a place and at such a time individually chosen by them; or\n  (b) where imported, a copy the making of which would have constituted an infringement of such rights if made in Kenya by the importer;\n“inspector” means an inspector appointed under section 39;\n\"Internet Service Provider\" means a person providing information system services or access software that provides or enables computer access by multiple users to a computer server including connections for, the transmission or routing of data;\n“Kenya Revenue Authority” means the Kenya Revenue Authority established under the Kenya Revenue Authority Act (Cap. 469);\n“licence” means a lawfully granted licence permitting the doing of an act controlled by copyright;\n“literary work” means, irrespective of literary quality, any of the following, or works similar thereto —\n  (a) novels, stories and poetic works;\n  (b) plays, stage directions, film sceneries and broadcasting scripts;\n  (c) textbooks, treatises, histories, biographies, essays and articles;\n  (d) encyclopaedias and dictionaries;\n  (e) letters, reports and memoranda;\n  (f) lectures, addresses and sermons;\n  (g) charts and tables;\n  (h) computer programs; and\n  (i) tables and compilations of data including tables and compilations of data stored and embodied in a computer or a medium used in conjunction with a computer, but does not include a written law or a judicial decision;\n“moral rights” means the rights referred to in section 32 of this Act;\n“musical work” means a work consisting of music, irrespective of musical quality, and includes a graphical notation of such work and works composed for musical accompaniment;\n\"owner of the copyright\" means the first owner, an assignee or an exclusive licensee, as the case may be, of the relevant portion of the copyright;\n\"performance\" means the representation of a work by such action as dancing, playing, reciting, singing, declaiming or projecting to listeners by any means whatsoever;\n\"performer\" means an actor, singer, declaimer, musician or other person who performs a literary, musical work or a work of folklore and includes the conductor of the performance of any such work;\n\"premium rate service provider\" means a person authorized by the Communications Authority of Kenya to provide content services which includes ring back tunes and is delivered over electronic communications networks and services;\n“prescribed” means prescribed by regulations made under section 49;\n\"publication\" means a work or a sound recording, tangible copies of which have been made available to the public in a reasonable quantity for sale, rental, public lending or for other transfer of the ownership or the possession of the copies:\nProvided that, in the case of a work, the making available to the public took place with the consent of the author or other owner of copyright, and in the case of a sound recording, with the consent of the producer of the sound recording or his successor in title;\n\"public display\" means the showing of original or a copy of a work—\n  (a) directly;\n  (b) by means of a film, slide, television image or otherwise on screen;\n  (c) by means of any other device or process;\n  (d) in the case of an audio-visual work, showing of individual images consequentially at a place or places where persons outside the normal circle of a family and its closest social acquaintances are or can be present irrespective of whether they are or can be present at the same place and time or at different places or times, where the work can be displayed without communication to the public;\n\"public performance\" means—\n  (a) in the case of work other than an audio-visual work, the recitation, playing, dancing, acting or otherwise performing the work, either directly or by means of any device or process;\n  (b) in case of an audio-visual work, the showing of images in sequence and the making of accompanying sound audible; and\n  (c) in the case of a sound recording, making the recorded sounds audible at a place or at places where persons outside the normal circle of the family and its closest acquaintances are or can be present, irrespective of whether they are or can be present at the same place and time, or at different places or times, and where the performance can be perceived without the need for communication to the public;\n“rebroadcasting” means simultaneous or subsequent broadcasting by one or more broadcasting authorities of the broadcast of another broadcasting authority;\n\"record\" means any device in which sounds or the representations of sounds are embodied which are capable of reproduction therefrom with or without the aid of another instrument;\n\"Registry\" means the National Rights Registry established under section 22B;\n\"related rights\" mean rights neighboring on copyright, including those subsisting under sections 27(2), 28, 29 and 30 of this Act;\n“rental” means the transfer of, the possession of the original or a copy of a work or sound recording for a limited period of time in return for a monetary consideration;\n“reproduction” means the making of one or more copies of a work in any material form and includes any permanent or temporary storage of such work in electronic or any other form;\n\"resale royalty right\" means the right of an artist or group of artists or successors to receive resale royalty on commercial resale of an artwork;\n\"ring back tune\" means subscription music or a tone which is played by a telecommunication operator to the originator of a call;\n“school” means an institution registered or accredited under the Universities Act (Cap. 210), the Basic Education Act (Cap. 211) or the Technical and Vocational Education and Training Act (Cap. 210A);\n\"seller\" means a person who transfers ownership of the artwork under commercial resale;\n“sound recording” means any exclusively aural fixation of the sounds of a performance or of other sounds, or of a representation of sounds, regardless of the method by which the sounds are fixed or the medium in which the sounds are embodied but does not include a fixation of sounds and images, such as the sound track of an audio-visual work;\n\"specialized formats\" means Braille, audio, or digital text or any other media which is exclusively for use by visually impaired or other persons with disabilities, and with respect to print instructional materials, includes large print formats when such materials are distributed exclusively for use by visually impaired or other persons with disabilities;\n\"technological protection measure\" means any device, product or component incorporated into a work that effectively prevents or inhibits the infringement of any copyright or related right;\n\"telecommunication operator\" has the meaning assigned to it under the Kenya Information and Communications Act (Cap. 411);\n“work” means literary, musical, artistic, dramatic work, audio visual work and sound recordings and includes translations, adaptations, new versions, or arrangements of pre-existing works, and anthologies or collections of works which, by reason of the selection and arrangement of their content, present an original character:\nProvided that the visually impaired persons work shall be limited to literary and artistic works whether published or made available in any media;\n“work of joint authorship” means a work produced by the collaboration of two or more authors in which the contribution of each author is not separable from the contribution of the other author or authors.\n(2) For the purposes of this Act, the following provisions shall apply with respect to publications—\n  (a) a work shall be taken to have been published if, but only if, copies have been issued in sufficient quantities to satisfy the reasonable requirements of the public;\n  (b) where in the first instance a part only of a work is published, that part shall be treated for the purposes of this Act as a separate work; and\n  (c) a publication in a country shall not be treated as being other than the first publication by reason only of an earlier publication elsewhere, if the two publications took place within a period of not more than thirty days.\n[Act No. 11 of 2017, Sch., Act No. 19 of 2015, s. 133, Act No. 20 of 2019, s. 2, Act No. 14 of 2022, s. 2.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, unless the context otherwise requires— \"accessible format copy\" means a copy of a work in an alternative manner or form which gives a beneficiary person access to the work, including permitting the person to have access as feasibly and comfortably as a person without visual impairment or other print disability; \"art market professional\" includes an auctioneer, owner or operator of a gallery, museum, an art dealer or any other person involved in the business of dealing in artworks; \"artiste\" means a singer, declaimer, musician or other person whose work constitutes a ring back tune; “artistic work” means, irrespective of artistic quality, any of the following, or works similar thereto — (a) paintings, drawings, etchings, lithographs, woodcuts, engravings and prints; (b) maps, plans and diagrams; (c) works of sculpture; (d) photographs not comprised in audio-visual works; (e) works of architecture in the form of buildings or models; and"
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of this Act, the following provisions shall apply with respect to publications—"
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment and incorporation of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "There is established a Board to be known as the Kenya Copyright Board which shall be a body corporate with perpetual succession and a common seal and which shall be capable, in its corporate name of—\n  (a) suing and being sued;\n  (b) purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property;\n  (c) borrowing and lending money; and\n  (d) doing or performing all such other things or acts as may be necessary for the proper performance of its functions under this Act which may lawfully be done by a body corporate.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Headquarters",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "The Headquarters of the Board shall be in Nairobi.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Functions of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "The functions of the Board shall be to—\n  (a) direct, co-ordinate and oversee the implementation of laws and international treaties and conventions to which Kenya is a party and which relate to copyright and other rights recognised by this Act and ensure the observance thereof;\n  (b) license and supervise the activities of collective management societies as provided for under this Act;\n  (c) devise promotion, introduction and training programs on copyright and related rights, to which end it may co-ordinate its work with national, regional or international organisations concerned with the same subject matter;\n  (d) organise the legislation on copyright and related rights and propose other arrangements that will ensure its constant improvement and continuing effectiveness;\n  (e) enlighten and inform the public on matters relating to copyright and related rights;\n  (f) maintain an effective data bank on authors and their works; and (g) administer and enforce all matters of copyright and related rights in Kenya as provided for under this Act and to deal with ancillary matters connected with its functions under this Act. [Act No. 20 of 2019, s. 3.]",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Composition of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) The Board shall consist of—\n  (a) a Chairperson appointed by the President;\n  (b) the Principal Secretary in the National Treasury or a designated representative;\n  (c) the Principal Secretary incharge of matters relating to culture and heritage or a representative;\n  (d) the Principal Secretary in the Ministry responsible for matters relating to information and communications technology or a designated representative;\n  (e) the Attorney-General or a representative;\n  (f) three persons each nominated by associations recognised by the Government as representing stakeholders in music, film and publishing respectively; and (g) the Executive Director appointed under section 11.\n(2) Spent (3) Appointments under paragraph (1) (f) shall be by the Attorney-General.\n[L.N. 54/2003, r. 2, Act No. 7 of 2007, Sch, Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall consist of— (a) a Chairperson appointed by the President; (b) the Principal Secretary in the National Treasury or a designated representative; (c) the Principal Secretary incharge of matters relating to culture and heritage or a representative; (d) the Principal Secretary in the Ministry responsible for matters relating to information and communications technology or a designated representative; (e) the Attorney-General or a representative; (f) three persons each nominated by associations recognised by the Government as representing stakeholders in music, film and publishing respectively; and (g) the Executive Director appointed under section 11."
+    },
+    {
+     "ref": "(2)",
+     "text": "Spent (3) Appointments under paragraph (1) (f) shall be by the Attorney-General."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Functions and powers of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "The Board shall have all powers necessary for the proper performance of its functions under this Act and particular, but without prejudice to the generality of the foregoing, the Board shall have power to—\n  (a) control, supervise and administer the assets of the Board in such manner as best promotes the purposes for which the Board is established;\n  (b) determine the provisions to be made for capital and recurrent expenditure and for reserves of the Board;\n  (c) receive any grants, gifts, donations or endowments and make legitimate disbursements therefrom;\n  (d) enter into association with such other bodies or organizations within or outside Kenya as it may consider desirable or appropriate and in furtherance of the purposes for which the Board is established;\n  (e) open a banking account or banking accounts for the funds of the Board; and (f) invest any of its funds not immediately required for its purposes in the manner provided in section 20.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Conduct of business and affairs of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) The conduct and regulation of the business and affairs of the Board shall be as provided in the First Schedule.\n(2) Except as provided in the First Schedule, the Board may regulate its own procedure.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The conduct and regulation of the business and affairs of the Board shall be as provided in the First Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "Except as provided in the First Schedule, the Board may regulate its own procedure."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Remuneration of Board members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "The Board shall pay its members such remuneration, fees, or allowances for expenses as it may determine after consultation with the Cabinet Secretary for the time being responsible for finance.\n[Act No. 11 of 2017, Sch., Act No. 19 of 2015, s. 134.]",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Delegation by the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "The Board may, by resolution either generally or in any particular case, delegate to any committee of the Board or to any member, officer, employee or agent of the Board, the exercise of any of the powers or the performance of any of the functions or duties of the Board under this Act or under any other written law.",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Executive Director",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) There shall be an Executive Director of the Board who shall be appointed by the Board through a competitive process and whose terms and conditions of service shall be determined by the Board in the instrument of appointment or otherwise in writing from time to time.\n(2) A person shall qualify for appointment under this section if he or she—\n  (a) is an advocate of the High Court of Kenya of not less than five years' standing or has held judicial office in Kenya;\n  (b) has at least five years managerial experience; and (c) has at least five years' experience in matters relating to copyright and other related rights.\n(3) The Executive Director shall—\n  (a) be an ex officio member of the Board but shall have no right to vote at any meetings of the Board;\n  (b) be the secretary to the Board; and (c) subject to the directions of the Board, be responsible for the day to day management of the affairs of the Board.\n(4) The Executive Director shall be appointed for a term of four years and shall be eligible for reappointment for one further term of four years. [Act No. 11 of 2017, Sch., Act No. 20 of 2019, s. 5.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be an Executive Director of the Board who shall be appointed by the Board through a competitive process and whose terms and conditions of service shall be determined by the Board in the instrument of appointment or otherwise in writing from time to time."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall qualify for appointment under this section if he or she— (a) is an advocate of the High Court of Kenya of not less than five years' standing or has held judicial office in Kenya; (b) has at least five years managerial experience; and (c) has at least five years' experience in matters relating to copyright and other related rights."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Executive Director shall— (a) be an ex officio member of the Board but shall have no right to vote at any meetings of the Board; (b) be the secretary to the Board; and (c) subject to the directions of the Board, be responsible for the day to day management of the affairs of the Board."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Executive Director shall be appointed for a term of four years and shall be eligible for reappointment for one further term of four years. [Act No. 11 of 2017, Sch., Act No. 20 of 2019, s. 5.]"
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Staff of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "The Board may appoint such Deputy Executive Directors, Assistant Executive Directors, and such officers or other staff of the Board as are necessary for the proper discharge of its functions under this Act or any other written law upon such terms and conditions of service as the Board may determine.",
+   "clauses": []
+  },
+  "13": {
+   "num": "13",
+   "title": "The common seal of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) The common seal of the Board shall be kept in such custody as the Board may direct and shall not be used except on the order of the Board.\n(2) The common seal of the Board when affixed to a document and duly authenticated shall be judicially and officially noticed and unless and until the contrary is proved, any necessary order or authorisation by the Board under this section shall be presumed to have been duly given.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The common seal of the Board shall be kept in such custody as the Board may direct and shall not be used except on the order of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "The common seal of the Board when affixed to a document and duly authenticated shall be judicially and officially noticed and unless and until the contrary is proved, any necessary order or authorisation by the Board under this section shall be presumed to have been duly given."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Protection from personal liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "No matter or thing done by a member of the Board or any officer, employee or agent of the Board shall, if the matter or thing is done bona fide for executing the functions, powers or duties of the Board, render the member, officer, employee or agent or any person acting on his directions personally liable to any action, claim or demand whatsoever.",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "[Deleted by Act No. 12 of 2012, Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "Funds of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) The funds of the Board shall comprise—\n  (a) such sums as may be granted to the Board by the Cabinet Secretary pursuant to subsection (2);\n  (b) such monies or assets as may accrue to or vest in the Board in the course of the exercise of its powers or the performance of its functions under this Act or under any other written law; and (c) all monies from any other source provided for or donated or lent to the Board.\n(2) There shall be made to the Board, out of monies provided by Parliament for that purpose, grants towards the expenditure incurred by the Board in the exercise of its powers or the performance of its functions under this Act. [Act No. 11 of 2017, Sch., Act No. 19 of 2015, s. 135.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The funds of the Board shall comprise— (a) such sums as may be granted to the Board by the Cabinet Secretary pursuant to subsection (2); (b) such monies or assets as may accrue to or vest in the Board in the course of the exercise of its powers or the performance of its functions under this Act or under any other written law; and (c) all monies from any other source provided for or donated or lent to the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "There shall be made to the Board, out of monies provided by Parliament for that purpose, grants towards the expenditure incurred by the Board in the exercise of its powers or the performance of its functions under this Act. [Act No. 11 of 2017, Sch., Act No. 19 of 2015, s. 135.]"
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Financial year",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "The financial year of the Board shall be the period of twelve months ending on the thirtieth June in each year.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) At least three months before the commencement of each financial year, the Board shall cause to be prepared estimates of revenue and expenditure of the Board for that year.\n(2) The annual estimates shall make provision for all estimated expenditure of the Board for the financial year and in particular, the estimates shall provide for—\n  (a) the payment of the salaries, allowances and other charges in respect of the staff of the Board;\n  (b) the payment of pensions, gratuities and other charges in respect of the staff of the Board;\n  (c) the proper maintenance of the buildings and grounds of the Board;\n  (d) the remuneration of Board members pursuant to section 9;\n  (e) the maintenance, repair and replacement of equipment and other property of the Board; and\n  (f) the creation of such reserve funds to meet future or contingent liabilities in respect of retirement benefits, insurance or replacement of buildings or equipment, or in respect of such other matter as the Board may deem appropriate.\n(3) The annual estimates shall be approved by the Board before the commencement of the financial year to which they relate and shall be submitted to the Cabinet Secretary for approval and after the Cabinet Secretary’s approval, the Board shall not increase the annual estimates without the consent of the Cabinet Secretary.\n[Act No. 11 of 2017, Sch., Act No. 19 of 2015, s. 136.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "At least three months before the commencement of each financial year, the Board shall cause to be prepared estimates of revenue and expenditure of the Board for that year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall make provision for all estimated expenditure of the Board for the financial year and in particular, the estimates shall provide for— (a) the payment of the salaries, allowances and other charges in respect of the staff of the Board; (b) the payment of pensions, gratuities and other charges in respect of the staff of the Board;"
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual estimates shall be approved by the Board before the commencement of the financial year to which they relate and shall be submitted to the Cabinet Secretary for approval and after the Cabinet Secretary’s approval, the Board shall not increase the annual estimates without the consent of the Cabinet Secretary."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) The Board shall cause to be kept all proper books and records of accounts of its income, expenditure and assets.\n(2) Within a period of four months from the end of each financial year, the Board shall submit to the Auditor-General, the accounts of the Board together with—\n  (a) a statement of the income and expenditure of the Board during that year; and\n  (b) a statement of the assets and liabilities of the Board on the last day of that year.\n(3) The accounts of the Board shall be audited and reported in accordance with the provisions of the Public Audit Act (Cap. 412B).\n[Act No. 20 of 2019, s. 6.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall cause to be kept all proper books and records of accounts of its income, expenditure and assets."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within a period of four months from the end of each financial year, the Board shall submit to the Auditor-General, the accounts of the Board together with—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The accounts of the Board shall be audited and reported in accordance with the provisions of the Public Audit Act (Cap. 412B)."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Investment of funds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) The Board may invest any of its funds in securities in which for the time being trustees may by law invest trust funds, or in any other securities which the National Treasury may, from time to time, approve for that purpose.\n(2) The Board may place on deposit with such bank or banks as it may determine, any monies not immediately required for the purposes of the Board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may invest any of its funds in securities in which for the time being trustees may by law invest trust funds, or in any other securities which the National Treasury may, from time to time, approve for that purpose."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may place on deposit with such bank or banks as it may determine, any monies not immediately required for the purposes of the Board."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Appeals",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) A person aggrieved by the decision of the Board under this Act may, within sixty days from the date of the decision, appeal to the Copyright Tribunal.\n(2) The Board shall provide written comments on any matter over which an appeal has been submitted to the Copyright Tribunal under this section upon request from the Copyright Tribunal.\n(3) The Copyright Tribunal shall issue a decision on the appeal within thirty days from the date of an appeal.\n[Act No. 20 of 2019, s. 8.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person aggrieved by the decision of the Board under this Act may, within sixty days from the date of the decision, appeal to the Copyright Tribunal."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall provide written comments on any matter over which an appeal has been submitted to the Copyright Tribunal under this section upon request from the Copyright Tribunal."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Copyright Tribunal shall issue a decision on the appeal within thirty days from the date of an appeal."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Works eligible for copyright",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) Subject to this section, the following works shall be eligible for copyright or related rights—\n  (a) literary works;\n  (b) musical works;\n  (c) artistic works;\n  (ca) dramatic works;\n  (d) audio-visual works;\n  (e) sound recordings; and (f) broadcasts.\n(2) A broadcast shall not be eligible for copyright until it has been broadcast. (3) A literary, musical or artistic work shall not be eligible for copyright unless—\n  (a) sufficient effort has been expended on making the work to give it an original character; and (b) the work has been written down, recorded or otherwise reduced to material form. (4) A work shall not be ineligible for copyright by reason only that the making of the work, or the doing of any act in relation to the work, involved an infringement of copyright in some other work. (5) Rights protected by copyright shall accrue to the author automatically on affixation of a work subject to copyright in a material form, and non-registration of any copyright work or absence of either formalities shall not bar any claim from the author.\n[Act No. 18 of 2014, Sch., Act No. 20 of 2019, s. 9.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this section, the following works shall be eligible for copyright or related rights— (a) literary works; (b) musical works; (c) artistic works; (ca) dramatic works; (d) audio-visual works; (e) sound recordings; and (f) broadcasts."
+    },
+    {
+     "ref": "(2)",
+     "text": "A broadcast shall not be eligible for copyright until it has been broadcast. (3) A literary, musical or artistic work shall not be eligible for copyright unless—"
+    }
+   ]
+  },
+  "22A": {
+   "num": "22A",
+   "title": "Register of copyright works",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) The Board shall keep and maintain a register of all works under this Act in such manner as may be prescribed.\n(2) Without prejudice to the relevant provisions of this Act conferring Copyright, all works eligible for copyright may be entered on the Register on application in the prescribed format made by or on behalf of the author, owner, assignee or exclusive licensee of the work.\n(3) The Register shall be prima facie evidence of particulars entered therein and documents, extracts or copies made there from if certified by the Board shall be admissible in evidence without further proof or production of the original.\n(4) The register and the relevant details entered on application shall be available for search to the public on terms set by the Board. [Act No. 20 of 2019, s. 10.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall keep and maintain a register of all works under this Act in such manner as may be prescribed."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the relevant provisions of this Act conferring Copyright, all works eligible for copyright may be entered on the Register on application in the prescribed format made by or on behalf of the author, owner, assignee or exclusive licensee of the work."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Register shall be prima facie evidence of particulars entered therein and documents, extracts or copies made there from if certified by the Board shall be admissible in evidence without further proof or production of the original."
+    },
+    {
+     "ref": "(4)",
+     "text": "The register and the relevant details entered on application shall be available for search to the public on terms set by the Board. [Act No. 20 of 2019, s. 10.]"
+    }
+   ]
+  },
+  "22B": {
+   "num": "22B",
+   "title": "National rights registry",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) There is established a National Rights Registry which shall be an office within the Board. (2) The staff of the Registry shall be staff of the Board.\n[Act No. 14 of 2022, s. 4.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a National Rights Registry which shall be an office within the Board. (2) The staff of the Registry shall be staff of the Board."
+    }
+   ]
+  },
+  "22C": {
+   "num": "22C",
+   "title": "Functions of the Registry",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "The functions of the Registry shall be—\n  (a) digital registration of right holders;\n  (b) digital registration of copyright works;\n  (c) authentication and authorization of consumers of copyright works;\n  (d) media monitoring of registered copyright works;\n  (e) tracking, monitoring and dissemination of data or logs related to access of registered copyright works; and (f) any other functions as may be assigned by the Board. [Act No. 14 of 2022, s. 4.]",
+   "clauses": []
+  },
+  "22D": {
+   "num": "22D",
+   "title": "Voluntary registration on the Registry",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) Without prejudice to the generality of section 22C, the Board shall cause to be developed and maintained an online portal for registration of copyright works.\n(2) The author of copyright works or an owner of copyright may register his or her works on the Registry.\n(3) Subject to such conditions as may be prescribed by the Board and upon payment of the prescribed fees, any person may access the copyright works through the Registry. [Act No. 14 of 2022, s. 4.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Without prejudice to the generality of section 22C, the Board shall cause to be developed and maintained an online portal for registration of copyright works."
+    },
+    {
+     "ref": "(2)",
+     "text": "The author of copyright works or an owner of copyright may register his or her works on the Registry."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to such conditions as may be prescribed by the Board and upon payment of the prescribed fees, any person may access the copyright works through the Registry. [Act No. 14 of 2022, s. 4.]"
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Copyright by virtue of nationality or residence, and duration of copyright",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) Copyright shall be conferred by this section on every work eligible for copyright of which the author, or, in the case of a work of joint authorship, any of the authors is, at the time when the work is made, a citizen of, or is domiciled or ordinarily resident in, Kenya or is a body corporate which is incorporated under or in accordance with the laws of Kenya.\n(2) The term of a copyright conferred by this section shall be calculated according to the following table —\nType of Work 1. Literary, musical, dramatic or artistic work other than photographs 2. Audio-visual works and photographs 3. Sound recordings Date of Expiration of Copyright Fifty years after the end of the year in which the author dies.\nFifty years from the end of the year in which the work was either made, first made available to the public, or first published, whichever date is the latest.\nFifty years after the end of the year in which the recording was made.\n4. Broadcasts Fifty years after the end of the year in which the broadcast took place.\n(3) In the case of anonymous or pseudonymous literary, musical, dramatic or artistic works, the copyright therein shall subsist until the expiration of fifty years from the end of the year in which it was first published:\nProvided that in the event of the identity of the author becoming known the term of protection of a copyright shall be calculated in accordance with subsection (2).\n(4) In the case of a work of joint authorship, reference in the preceding table to the death of the author shall be taken to refer to the author who dies last, whether or not he is a qualified person.\n(5) Notwithstanding anything else contained in this Act copyright in works eligible for copyright and vested in the National Museums Board of Directors or the National Museums is conferred in perpetuity on the National Museums.\n[Act No. 6 of 2006, s. 71, Act No. 20 of 2019, s. 11.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Copyright shall be conferred by this section on every work eligible for copyright of which the author, or, in the case of a work of joint authorship, any of the authors is, at the time when the work is made, a citizen of, or is domiciled or ordinarily resident in, Kenya or is a body corporate which is incorporated under or in accordance with the laws of Kenya."
+    },
+    {
+     "ref": "(2)",
+     "text": "The term of a copyright conferred by this section shall be calculated according to the following table —"
+    },
+    {
+     "ref": "(3)",
+     "text": "In the case of anonymous or pseudonymous literary, musical, dramatic or artistic works, the copyright therein shall subsist until the expiration of fifty years from the end of the year in which it was first published:"
+    },
+    {
+     "ref": "(4)",
+     "text": "In the case of a work of joint authorship, reference in the preceding table to the death of the author shall be taken to refer to the author who dies last, whether or not he is a qualified person."
+    },
+    {
+     "ref": "(5)",
+     "text": "Notwithstanding anything else contained in this Act copyright in works eligible for copyright and vested in the National Museums Board of Directors or the National Museums is conferred in perpetuity on the National Museums."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Copyright by reference to country of origin",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) Copyright shall be conferred by this section on every work, other than a broadcast which is eligible for copyright and which—\n  (a) being a literary, musical, dramatic or artistic work or any audio-visual work, is first published in Kenya; or\n  (b) being a sound recording, is made or first published in Kenya; or\n  (c) being a broadcast, is transmitted from transmitters situated in Kenya.\n(2) Copyright conferred on a work by this section shall have the same duration as is provided for in section 23 in relation to a similar work.\n[Act No. 20 of 2019, s. 12.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Copyright shall be conferred by this section on every work, other than a broadcast which is eligible for copyright and which—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Copyright conferred on a work by this section shall have the same duration as is provided for in section 23 in relation to a similar work."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Copyright in works of Government and international bodies",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) Copyright is conferred under this section on any work eligible for copyright which has been created pursuant to a commission from the Government or such international body or non-governmental body as may be prescribed, and on which no copyright has been conferred under section 23(1) or 24(1).\n(2) Copyright conferred by this section on a literary, musical, dramatic or artistic work, shall subsist until the end of the expiration of fifty years from the end of the year in which it was first published.\n(3) Copyright conferred by this section on any audio-visual work, photograph, sound recording or broadcast shall have the same duration as is provided for by section 23 in relation to a similar work.\n(4) Sections 23 and 24 shall not confer copyright on works to which this section applies.\n[Act No. 20 of 2019, s. 13, Act No. 20 of 2019, s. 13.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Copyright is conferred under this section on any work eligible for copyright which has been created pursuant to a commission from the Government or such international body or non-governmental body as may be prescribed, and on which no copyright has been conferred under section 23(1) or 24(1)."
+    },
+    {
+     "ref": "(2)",
+     "text": "Copyright conferred by this section on a literary, musical, dramatic or artistic work, shall subsist until the end of the expiration of fifty years from the end of the year in which it was first published."
+    },
+    {
+     "ref": "(3)",
+     "text": "Copyright conferred by this section on any audio-visual work, photograph, sound recording or broadcast shall have the same duration as is provided for by section 23 in relation to a similar work."
+    },
+    {
+     "ref": "(4)",
+     "text": "Sections 23 and 24 shall not confer copyright on works to which this section applies."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Nature of copyright in literary, musical or artistic works and audio-visual works",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) Copyright in a literary, musical, artistic or audio-visual work shall be the exclusive right to control the doing in Kenya of any of the following acts—\n  (a) the reproduction in any material form of the original work;\n  (b) the translation or adaptation of the work;\n  (c) the distribution to the public of the work by way of sale, rental, lease, hire, loan, importation or similar arrangement;\n  (d) the communication to the public of the whole work or a substantial part thereof, either in its original form or in any form recognizably derived from the original;\n  (e) the making available of the whole work or a substantial part thereof, either in its original form or in any form recognizably derived from the original; and\n  (f) the broadcasting of the whole work or a substantial part thereof, either in its original form or in any form recognizably derived from the original.\n(2) Copyright in a work of architecture shall also include the exclusive right to control the erection of any building which reproduces the whole or a substantial part of the work either in its original form or in any form recognizably derived from the original; but the copyright in any such work shall not include the right to control the reconstruction of a building to which that copyright relates in the same style as the original.\n(3) The exclusive rights under this section shall be limited to the extent as provided for under the Second Schedule.\n[Act No. 20 of 2019, s. 14.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Copyright in a literary, musical, artistic or audio-visual work shall be the exclusive right to control the doing in Kenya of any of the following acts—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Copyright in a work of architecture shall also include the exclusive right to control the erection of any building which reproduces the whole or a substantial part of the work either in its original form or in any form recognizably derived from the original; but the copyright in any such work shall not include the right to control the reconstruction of a building to which that copyright relates in the same style as the original."
+    },
+    {
+     "ref": "(3)",
+     "text": "The exclusive rights under this section shall be limited to the extent as provided for under the Second Schedule."
+    }
+   ]
+  },
+  "26A": {
+   "num": "26A",
+   "title": "Computer programmes",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) A computer program shall be subject of fair dealing for the purposes of Part A of the Second Schedule.\n(2) Notwithstanding the provisions of subsection (1), a person who is in lawful possession of a computer program may do any of the following acts without the authorization of the right holder whereby copies are necessary for the use of the computer program in accordance with its intended purpose—\n  (a) to make copies of the program to the extent necessary to correct errors;\n  (b) to make a back-up copy;\n  (c) for the purpose of testing a program to determine its suitability for the person's use; or\n  (d) for any purpose that is not prohibited under any license or agreement whereby the person is permitted to use the program.\n(3) The authorization of the right holder of the program shall not be required to decompile the program, convert the program into a version expressed in different programming language, code, notation for the purpose of obtaining information needed to enable the program to operate with other programs.\n(4) Any copies made pursuant to this section shall be used only for the purpose for which it was made and shall be destroyed when the person's possession of the computer program ceases to be lawful.\n[Act No. 20 of 2019, s. 15.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A computer program shall be subject of fair dealing for the purposes of Part A of the Second Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding the provisions of subsection (1), a person who is in lawful possession of a computer program may do any of the following acts without the authorization of the right holder whereby copies are necessary for the use of the computer program in accordance with its intended purpose—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The authorization of the right holder of the program shall not be required to decompile the program, convert the program into a version expressed in different programming language, code, notation for the purpose of obtaining information needed to enable the program to operate with other programs."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any copies made pursuant to this section shall be used only for the purpose for which it was made and shall be destroyed when the person's possession of the computer program ceases to be lawful."
+    }
+   ]
+  },
+  "26B": {
+   "num": "26B",
+   "title": "Technological protection measures",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "Circumvention of technological protection measures shall be permitted in limited circumstances as set out in the Second Schedule to this Act.\n[Act No. 20 of 2019, s. 15.]",
+   "clauses": []
+  },
+  "26C": {
+   "num": "26C",
+   "title": "Visually impaired, and persons with other disabilities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) Notwithstanding the provisions of section 26, it shall not be an infringement of copyright for—\n  (a) an authorized entity to reproduce or to distribute copies or sound recordings of a previously published literary work if such copies or sound recordings are reproduced or distributed in specialized formats exclusively for use by visually impaired or other persons with disabilities; or\n  (b) to make, import, distribute, lend or share accessible format copies by a beneficiary person or authorized entities or persons acting on behalf of a beneficiary person, including the circumvention of any technological protection measures that may be in place, subject to the terms and conditions set out under Regulations.\n(2) Copies or sound recordings to which this section applies shall—\n  (a) not be reproduced or distributed in a format other than a specialized format exclusively for use by visually impaired or other persons with disabilities;\n  (b) bear a notice that any further reproduction or distribution in a format other than a specialized format is an infringement; and\n  (c) include a copyright notice identifying the copyright owner and the date of the original publication.\n[Act No. 20 of 2019, s. 15.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Notwithstanding the provisions of section 26, it shall not be an infringement of copyright for—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Copies or sound recordings to which this section applies shall—"
+    }
+   ]
+  },
+  "26D": {
+   "num": "26D",
+   "title": "Artist resale right",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) Artist resale right shall be valid as long as copyright continues to subsist in an original work of art.\n(2) The artist resale right is absolutely inalienable and shall not be waived under any circumstances.\n(3) Visual artists may form a collective management organization to manage the right under this section and in the absence of a registered collective management organization, the AttorneyGeneral shall designate any registered collective management organization.\n(4) The resale royalty shall be payable at the rate of five percent of the net sale price on the commercial resale of an artwork and the seller, the art market professional, the seller's agent and the buyer shall be jointly and severally liable to pay the resale royalty.\n(5) If a mark or name purporting to identify a person as an artist of an artwork appears on the artwork, it shall be presumed in the absence of any other mark or evidence, that the person is the artist.\n(6) There shall be no resale royalty payable on commercial resale of an artwork—\n  (a) if the sale price is less than twenty thousand shillings;\n  (b) if it concerns the resale of a building, or a drawing, plan or model of a building;\n  (c) if it is an auction for charitable purposes;\n  (d) if the works of fine art produced are of identical copies, or\n  (e) if it concerns a manuscript of a literary, dramatic or musical work.\n[Act No. 20 of 2019, s. 15.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Artist resale right shall be valid as long as copyright continues to subsist in an original work of art."
+    },
+    {
+     "ref": "(2)",
+     "text": "The artist resale right is absolutely inalienable and shall not be waived under any circumstances."
+    },
+    {
+     "ref": "(3)",
+     "text": "Visual artists may form a collective management organization to manage the right under this section and in the absence of a registered collective management organization, the AttorneyGeneral shall designate any registered collective management organization."
+    },
+    {
+     "ref": "(4)",
+     "text": "The resale royalty shall be payable at the rate of five percent of the net sale price on the commercial resale of an artwork and the seller, the art market professional, the seller's agent and the buyer shall be jointly and severally liable to pay the resale royalty."
+    },
+    {
+     "ref": "(5)",
+     "text": "If a mark or name purporting to identify a person as an artist of an artwork appears on the artwork, it shall be presumed in the absence of any other mark or evidence, that the person is the artist."
+    },
+    {
+     "ref": "(6)",
+     "text": "There shall be no resale royalty payable on commercial resale of an artwork—"
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Broadcasting of works incorporated in audio-visual works",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) Where the owner of the copyright in any literary, musical, dramatic or artistic work authorizes a person to incorporate the work in audio-visual works and a broadcasting authority broadcasts such works, it shall, in the absence of any express agreement to the contrary, be deemed that the owner of the copyright authorized the broadcast.\n(2) Notwithstanding subsection (1), where a broadcasting authority broadcasts audio-visual works in which a musical work is incorporated, the owner of the right to broadcast the musical work shall, subject to the provisions of this Act, be entitled to receive fair compensation from the broadcasting authority, and in the absence of an agreement the amount of compensation shall be determined by the Copyright Tribunal appointed under section 48;\n[Act No. 20 of 2019, s. 16.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the owner of the copyright in any literary, musical, dramatic or artistic work authorizes a person to incorporate the work in audio-visual works and a broadcasting authority broadcasts such works, it shall, in the absence of any express agreement to the contrary, be deemed that the owner of the copyright authorized the broadcast."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding subsection (1), where a broadcasting authority broadcasts audio-visual works in which a musical work is incorporated, the owner of the right to broadcast the musical work shall, subject to the provisions of this Act, be entitled to receive fair compensation from the broadcasting authority, and in the absence of an agreement the amount of compensation shall be determined by the Copyright Tribunal appointed under section 48;"
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Nature of copyright in sound recordings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) Subject to subsections (2) and (3), copyright in sound recordings shall be the exclusive right to control the doing in Kenya of any of the following acts in respect of the sound recording, namely—\n  (a) the direct or indirect reproduction in any manner or form; or\n  (b) the distribution to the public of copies by way of sale, rental, lease, hire, loan or any similar arrangements; or\n  (ba) the making available of the sound recording in whole or in part either in its original form or in any form recognizably derived from the original; or\n  (c) the importation into Kenya; or\n  (d) the communication to the public or the broadcasting of the sound recording in whole or in part either in its original form or in any form recognizably derived from the original.\n(2) The provisions of paragraphs (a), (f), (j) and (h) of section 26(1) shall apply mutatis mutandis to the copyright in a sound recording.\n(3) The rights of an owner of a copyright in a sound recording are not infringed by the making of a single copy of the recording for the personal and private use of the person making the copy; and in respect of such use the owner of copyright in the sound recording shall have the right to receive fair compensation consisting of a royalty levied on audio recording equipment or audio blank tape suitable for recording and other media intended for recording, payable at the point of first manufacture or entry in Kenya by the manufacturer or importer for commercial purposes of such equipment or media.\n(4) Deleted by Act No. 20 of 2019, s. 17.\n(5) Deleted by Act No. 20 of 2019, s. 17.\n(6) Any person who, for commercial purposes, makes available any audio recording equipment for the purposes of enabling any other person to make single copies of any sound recording for his personal or private use, without payment of the royalty levied under subsection (3) shall be guilty of an offence and shall be liable to a fine not exceeding two hundred thousand shillings or to imprisonment for a term not exceeding four years or to both.\n[Act No. 18 of 2014, Sch., Act No. 20 of 2019, s. 17.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsections (2) and (3), copyright in sound recordings shall be the exclusive right to control the doing in Kenya of any of the following acts in respect of the sound recording, namely—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of paragraphs (a), (f), (j) and (h) of section 26(1) shall apply mutatis mutandis to the copyright in a sound recording."
+    },
+    {
+     "ref": "(3)",
+     "text": "The rights of an owner of a copyright in a sound recording are not infringed by the making of a single copy of the recording for the personal and private use of the person making the copy; and in respect of such use the owner of copyright in the sound recording shall have the right to receive fair compensation consisting of a royalty levied on audio recording equipment or audio blank tape suitable for recording and other media intended for recording, payable at the point of first manufacture or entry in Kenya by the manufacturer or importer for commercial purposes of such equipment or media."
+    },
+    {
+     "ref": "(4)",
+     "text": "Deleted by Act No. 20 of 2019, s. 17."
+    },
+    {
+     "ref": "(5)",
+     "text": "Deleted by Act No. 20 of 2019, s. 17."
+    },
+    {
+     "ref": "(6)",
+     "text": "Any person who, for commercial purposes, makes available any audio recording equipment for the purposes of enabling any other person to make single copies of any sound recording for his personal or private use, without payment of the royalty levied under subsection (3) shall be guilty of an offence and shall be liable to a fine not exceeding two hundred thousand shillings or to imprisonment for a term not exceeding four years or to both."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Nature of copyright in broadcasts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "Copyright in a broadcast shall be the exclusive right to control the doing in Kenya of any of the following copyright acts—\n  (a) the fixation of the whole or a substantial part of the broadcast;\n  (b) the rebroadcasting of the whole or a substantial part of the broadcast;\n  (c) the communication to the public of the whole or a substantial part of a television broadcast either in its original form or in any form recognizably derived from the original;\n  (d) retransmission of the broadcast over any network;\n  (e) decrypting in any way or form any encrypted broadcast; or (f) any adaptation or modification by way of commentaries, or any unauthorised expropriation of the broadcast or pre-broadcast signal meant for reception by another broadcaster; Provided that—\n  (i) the provisions of the Second Schedule in respect of general exceptions and limits and paragraph 1(c) with regard to education institutions shall apply mutatis mutandis to the copyright in a broadcast; and\n  (ii) the copyright in a television broadcast shall include the right to control the taking of still photographs therefrom. [Act No. 20 of 2019, s. 18.]",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "Rights of performers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) Subject to section 30 of this Act, a performer shall have the exclusive right to carry out any of the following acts—\n  (a) broadcast his performance except where the broadcast is made from a fixation of the performance authorized by the performer;\n  (b) communicate to the public his performance except where the communication—\n  (i) is made from a fixation of the performance; or (ii) is made from broadcast of the performance, authorized by the performer;\n  (c) make a fixation of a previously unfixed performance; and (d) reproduce a fixation of the performance in either of the following cases—\n  (i) where the performance was initially fixed without the authorization of the performer; or (ii) where the reproduction is made for purposes different from those for which the performer gave his authorization;\n  (e) rent for commercial purposes to the public, the original and copies of their fixed performances;\n  (f) distribution of a fixation of his performance or copies thereof, to the public;\n  (g) the making available to the public of his fixed performance, by wire or wireless means in such a way that members of the public may access them from a place or a time individually chosen by them.\n(2) In the absence of any contractual agreement to the contrary in circumstances of employment from which the contrary would normally be inferred—\n  (a) the authorization to broadcast does not imply an authorization to license other organizations to broadcast the performance;\n  (b) the authorization to broadcast does not imply an authorization to make a fixation of the performance; and (c) the authorization to broadcast and fix the performance does not imply an authorization to reproduce the fixation.\n(3) A binding authorisation given under this section may be given by the performer or by a duly appointed representative to whom he has granted in writing the right to give such authorisation;\nand any authorisation given by the performer claiming that he has retained the relevant rights or by a person claiming to be a duly appointed representative of a performer shall be considered valid.\n(4) Protection of the rights of the performer under this section shall subsist for fifty years after the end of the year in which the performance was fixed.\n(5) The performer shall, during his lifetime, as regards live performances or performances fixed in phonograms, have the right, independently of his economic rights, to—\n  (a) be identified as the performer of his performances and to object to any distortion, mutilation, or other modification of his performances that would be prejudicial to his reputation; and\n  (b) seek relief in connection with any distortion, mutilation or other modification of, and any other derogatory action in relation to his work, where such work would be or is prejudicial to his honour or reputation;\n(6) The rights of an owner of a copyright in a fixation of their performance are not infringed by the making of a single copy of the performance for the personal and private use of the person making the copy and in respect of such use the owner of a related right in the performance shall have the right to receive fair compensation consisting of a royalty levied on audiovisual recording equipment or audio-visual blank media suitable for recording and other media intended for recording, payable at the point of first manufacture or entry in Kenya by the manufacturer or importer for commercial purposes of such equipment or media.\n(7) Deleted by Act No. 20 of 2019, s. 19.\n(8) Deleted by Act No. 20 of 2019, s. 19.\n[Act No. 12 of 2012, Act No. 11 of 2017, Sch., Act No. 20 of 2019, s. 19.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to section 30 of this Act, a performer shall have the exclusive right to carry out any of the following acts— (a) broadcast his performance except where the broadcast is made from a fixation of the performance authorized by the performer; (b) communicate to the public his performance except where the communication— (i) is made from a fixation of the performance; or (ii) is made from broadcast of the performance, authorized by the performer; (c) make a fixation of a previously unfixed performance; and (d) reproduce a fixation of the performance in either of the following cases— (i) where the performance was initially fixed without the authorization of the performer; or (ii) where the reproduction is made for purposes different from those for which the performer gave his authorization; (e) rent for commercial purposes to the public, the original and copies of their fixed performances; (f) distribution of a fixation of his performance or copies thereof, to the public; (g) the making available to the public of his fixed performance, by wire or wireless means in such a way that members of the public may access them from a place or a time individually chosen by them."
+    },
+    {
+     "ref": "(2)",
+     "text": "In the absence of any contractual agreement to the contrary in circumstances of employment from which the contrary would normally be inferred— (a) the authorization to broadcast does not imply an authorization to license other organizations to broadcast the performance; (b) the authorization to broadcast does not imply an authorization to make a fixation of the performance; and (c) the authorization to broadcast and fix the performance does not imply an authorization to reproduce the fixation."
+    },
+    {
+     "ref": "(3)",
+     "text": "A binding authorisation given under this section may be given by the performer or by a duly appointed representative to whom he has granted in writing the right to give such authorisation;"
+    },
+    {
+     "ref": "(4)",
+     "text": "Protection of the rights of the performer under this section shall subsist for fifty years after the end of the year in which the performance was fixed."
+    },
+    {
+     "ref": "(5)",
+     "text": "The performer shall, during his lifetime, as regards live performances or performances fixed in phonograms, have the right, independently of his economic rights, to—"
+    },
+    {
+     "ref": "(6)",
+     "text": "The rights of an owner of a copyright in a fixation of their performance are not infringed by the making of a single copy of the performance for the personal and private use of the person making the copy and in respect of such use the owner of a related right in the performance shall have the right to receive fair compensation consisting of a royalty levied on audiovisual recording equipment or audio-visual blank media suitable for recording and other media intended for recording, payable at the point of first manufacture or entry in Kenya by the manufacturer or importer for commercial purposes of such equipment or media."
+    },
+    {
+     "ref": "(7)",
+     "text": "Deleted by Act No. 20 of 2019, s. 19."
+    },
+    {
+     "ref": "(8)",
+     "text": "Deleted by Act No. 20 of 2019, s. 19."
+    }
+   ]
+  },
+  "30A": {
+   "num": "30A",
+   "title": "[Deleted by Act No. 11 of 2017, Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "",
+   "clauses": []
+  },
+  "30B": {
+   "num": "30B",
+   "title": "Collection and payment of royalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) Subject to the provisions of sections 28 and 30 of this Act, the Kenya Revenue Authority or any other designated entity by the Board shall collect royalties on behalf of collective management organizations licensed to represent performers and owners of sound recordings.\n(2) All claims for compensation under this section shall be made through the collective management organizations representative of performers and producers of sound recordings.\n(3) The level of the royalty payable shall be agreed between the collective management organization representative of performers and producers of sound recordings and the organization representative of manufacturers and importers of audio recording equipment, audio blank tape and media intended for recording or failing such agreement by the Board.\n(4) The Board shall determine and, by notice in the Gazette, publish the share of the private copying remuneration applicable to the respective rights holders.\n[Act No. 20 of 2019, s. 20.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of sections 28 and 30 of this Act, the Kenya Revenue Authority or any other designated entity by the Board shall collect royalties on behalf of collective management organizations licensed to represent performers and owners of sound recordings."
+    },
+    {
+     "ref": "(2)",
+     "text": "All claims for compensation under this section shall be made through the collective management organizations representative of performers and producers of sound recordings."
+    },
+    {
+     "ref": "(3)",
+     "text": "The level of the royalty payable shall be agreed between the collective management organization representative of performers and producers of sound recordings and the organization representative of manufacturers and importers of audio recording equipment, audio blank tape and media intended for recording or failing such agreement by the Board."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Board shall determine and, by notice in the Gazette, publish the share of the private copying remuneration applicable to the respective rights holders."
+    }
+   ]
+  },
+  "30C": {
+   "num": "30C",
+   "title": "Payment of ring back tune revenue",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) Without prejudice to section 30B, in the case of ring back tunes, the parties shall share the revenue net of taxes from the sale of ring back tunes, as follows—\n  (a) the premium rate service provider at eight point five percent;\n  (b) the telecommunication operator at thirty nine point five percent;\n  (c) the artiste or owner of the copyright at not less than fifty two percent.\n(2) Despite subsection (1), all contracts between premium rate service providers and artistes or owners of the copyright existing before the commencement of this Act shall apply until their expiry, and subsequent contracts shall conform to this provision.\n(3) The telecommunication operator shall remit directly to the artiste or owner of the copyright the ring back tune net revenue share allocated to them as specified subsection (1).\n[Act No. 14 of 2022, s. 3.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Without prejudice to section 30B, in the case of ring back tunes, the parties shall share the revenue net of taxes from the sale of ring back tunes, as follows—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Despite subsection (1), all contracts between premium rate service providers and artistes or owners of the copyright existing before the commencement of this Act shall apply until their expiry, and subsequent contracts shall conform to this provision."
+    },
+    {
+     "ref": "(3)",
+     "text": "The telecommunication operator shall remit directly to the artiste or owner of the copyright the ring back tune net revenue share allocated to them as specified subsection (1)."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "First ownership of copyright",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) Copyright conferred by sections 23 and 24 shall vest initially in the author:\nProvided that where a work—\n  (a) is commissioned by a person who is not the author’s employer under a contract of service; or\n  (b) not having been so commissioned, is made in the course of the author’s employment under a contract of service, the copyright shall be deemed to be transferred to the person who commissioned the work or the author’s employer, subject to any agreement between the parties excluding or limiting the transfer.\n(2) Copyright conferred by section 25 shall vest initially in the Government or such international bodies or other governmental organizations as may be prescribed, and not in the author.\n(3) In this section “owner of copyright”—\n  (a) where the economic rights are vested in the author, means the author;\n  (b) where the economic rights are originally vested in a physical person other than the author or in a legal entity, means that person or entity; and\n  (c) where the ownership of the economic rights has been transferred to a physical person or legal entity, means that person or entity.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Copyright conferred by sections 23 and 24 shall vest initially in the author:"
+    },
+    {
+     "ref": "(2)",
+     "text": "Copyright conferred by section 25 shall vest initially in the Government or such international bodies or other governmental organizations as may be prescribed, and not in the author."
+    },
+    {
+     "ref": "(3)",
+     "text": "In this section “owner of copyright”—"
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Moral rights of an author",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) Independently of the author’s economic rights and even after the transfer of the said rights, the author shall have the right to—\n  (a) claim the authorship of the work; and\n  (b) object to any distortion, mutilation or other modification of or other derogatory action in relation to, the said work which would be prejudicial to his honour or reputation.\n(2) None of the rights mentioned in subsection (1) shall be transmissible during the life of the author but the right to exercise any of the said rights shall be transmissible by testamentary disposition or by operation of the law following the demise of the author.\n(3) The author has the right to seek relief in connection with any distortion, mutilation or other modification of, and any other derogatory action in relation to his work, where such work would be or is prejudicial to his honour or reputation.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Independently of the author’s economic rights and even after the transfer of the said rights, the author shall have the right to—"
+    },
+    {
+     "ref": "(2)",
+     "text": "None of the rights mentioned in subsection (1) shall be transmissible during the life of the author but the right to exercise any of the said rights shall be transmissible by testamentary disposition or by operation of the law following the demise of the author."
+    },
+    {
+     "ref": "(3)",
+     "text": "The author has the right to seek relief in connection with any distortion, mutilation or other modification of, and any other derogatory action in relation to his work, where such work would be or is prejudicial to his honour or reputation."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Assignment and licences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) Subject to this section, copyright shall be transmissible by assignment, by licence, testamentary disposition, or by operation of law as movable property.\n(2) An assignment, license or testamentary disposition of copyright may be limited so as to apply only to some of the acts which the owner of the copyright has the exclusive right to control, or to a part only of the period of the copyright, or to a specified country or other geographical area.\n(3) No assignment of copyright and no exclusive licence to do an act the doing of which is controlled by copyright shall have effect unless it is in writing signed by or on behalf of the assignor, or by or on behalf of the licensor, as the case may be.\n(3A) An assignment under subsection (3) shall not be valid unless it is lodged at the Board and a certificate of recordal issued to the applicant and entry made in the Assignment Register.\n(4) A non-exclusive licence to do an act the doing of which is controlled by copyright may be written or oral, or may be inferred from conduct, and may be revoked at any time, but a licence granted by contract shall not be revoked, either by the person who granted the licence or his successor in title, except as the contract may provide, or by a further contract.\n(5) An assignment, licence or testamentary disposition may be effectively granted or made in respect of a future work, or an existing work in which copyright does not yet subsist, and the prospective copyright in any such work shall be transmissible by operation of law as movable property.\n(6) A testamentary disposition of the material on which a work is first written or otherwise recorded shall, in the absence of contrary indication, be taken to include the disposition of any copyright or prospective copyright in the work which is vested in the deceased.\n(7) Where an agreement for license of copyright does not specify the period of license, the license shall terminate after three years.\n(8) In the case of agreements regarding future works which are not specified in detail, either party may, on giving not less than one month’s notice, terminate the agreement not earlier than three years after it was signed or such shorter period as may be agreed.\n(9) A licence granted in respect of any copyright by the person who, in relation to the matters to which the licence relates, is the owner of the copyright, shall be binding upon every successor in title to his interest in the copyright, except a purchaser in good faith and without notice, actual or constructive, of the licence, or a person deriving title from such purchaser and any reference in this Act to the doing of anything in relation to any copyright, with or without the licence of the owner of the copyright, shall be construed accordingly.\n(10) Where the doing of anything is authorised by the grantee of a licence or a person deriving title from the grantee, and it is within the terms, including any implied terms of the licence for him to authorise it, it shall for the purpose of this Act be deemed to be done with the licence of the grantor and of every person, if any, upon whom the licence is binding.\n[Act No. 20 of 2019, s. 21.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this section, copyright shall be transmissible by assignment, by licence, testamentary disposition, or by operation of law as movable property."
+    },
+    {
+     "ref": "(2)",
+     "text": "An assignment, license or testamentary disposition of copyright may be limited so as to apply only to some of the acts which the owner of the copyright has the exclusive right to control, or to a part only of the period of the copyright, or to a specified country or other geographical area."
+    },
+    {
+     "ref": "(3)",
+     "text": "No assignment of copyright and no exclusive licence to do an act the doing of which is controlled by copyright shall have effect unless it is in writing signed by or on behalf of the assignor, or by or on behalf of the licensor, as the case may be."
+    },
+    {
+     "ref": "(3A)",
+     "text": "An assignment under subsection (3) shall not be valid unless it is lodged at the Board and a certificate of recordal issued to the applicant and entry made in the Assignment Register."
+    },
+    {
+     "ref": "(4)",
+     "text": "A non-exclusive licence to do an act the doing of which is controlled by copyright may be written or oral, or may be inferred from conduct, and may be revoked at any time, but a licence granted by contract shall not be revoked, either by the person who granted the licence or his successor in title, except as the contract may provide, or by a further contract."
+    },
+    {
+     "ref": "(5)",
+     "text": "An assignment, licence or testamentary disposition may be effectively granted or made in respect of a future work, or an existing work in which copyright does not yet subsist, and the prospective copyright in any such work shall be transmissible by operation of law as movable property."
+    },
+    {
+     "ref": "(6)",
+     "text": "A testamentary disposition of the material on which a work is first written or otherwise recorded shall, in the absence of contrary indication, be taken to include the disposition of any copyright or prospective copyright in the work which is vested in the deceased."
+    },
+    {
+     "ref": "(7)",
+     "text": "Where an agreement for license of copyright does not specify the period of license, the license shall terminate after three years."
+    },
+    {
+     "ref": "(8)",
+     "text": "In the case of agreements regarding future works which are not specified in detail, either party may, on giving not less than one month’s notice, terminate the agreement not earlier than three years after it was signed or such shorter period as may be agreed."
+    },
+    {
+     "ref": "(9)",
+     "text": "A licence granted in respect of any copyright by the person who, in relation to the matters to which the licence relates, is the owner of the copyright, shall be binding upon every successor in title to his interest in the copyright, except a purchaser in good faith and without notice, actual or constructive, of the licence, or a person deriving title from such purchaser and any reference in this Act to the doing of anything in relation to any copyright, with or without the licence of the owner of the copyright, shall be construed accordingly."
+    },
+    {
+     "ref": "(10)",
+     "text": "Where the doing of anything is authorised by the grantee of a licence or a person deriving title from the grantee, and it is within the terms, including any implied terms of the licence for him to authorise it, it shall for the purpose of this Act be deemed to be done with the licence of the grantor and of every person, if any, upon whom the licence is binding."
+    }
+   ]
+  },
+  "33A": {
+   "num": "33A",
+   "title": "Grant of licences in copyright works withheld from Kenyan market",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) The Board may upon application by any person grant a licence for works not made available in the Kenyan market during the term of copyright where the owner of the copyright in the work—\n  (a) refuses to republish or allow the republication of the work or to allow the performance of the work in public, and by reason of such refusal the work is withheld from the public; or\n  (b) refuses to allow—\n  (i) communication of such work to the public; or\n  (ii) in the case of a sound recording, the communication of the work recorded in such recording to the public by broadcast, on terms which the complainant considers unreasonable.\n(2) The Board may, after giving to the owner of the copyright in the work a reasonable opportunity to be heard and after holding such inquiry as it may deem necessary, if it is satisfied that the grounds for such refusal are not reasonable, grant to the complainant a licence to republish the work or communicate the work to the public by broadcast, as the case may be, subject to payment to the owner of the copyright of such compensation and subject to such other terms and conditions as the Board may determine.\n(3) Where two or more persons make an application in respect of the same work, the license shall be granted to the applicant who in the opinion of the Board would best serve the interests of the general public upon proof of refusal of license and subject to the terms set by the Board in its regulations.\n[Act No. 18 of 2014, Sch., Act No. 20 of 2019, s. 22.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may upon application by any person grant a licence for works not made available in the Kenyan market during the term of copyright where the owner of the copyright in the work—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may, after giving to the owner of the copyright in the work a reasonable opportunity to be heard and after holding such inquiry as it may deem necessary, if it is satisfied that the grounds for such refusal are not reasonable, grant to the complainant a licence to republish the work or communicate the work to the public by broadcast, as the case may be, subject to payment to the owner of the copyright of such compensation and subject to such other terms and conditions as the Board may determine."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where two or more persons make an application in respect of the same work, the license shall be granted to the applicant who in the opinion of the Board would best serve the interests of the general public upon proof of refusal of license and subject to the terms set by the Board in its regulations."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Rights of action and remedies of exclusive licensee and sub-licensee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "COPYRIGHT AND RELATED RIGHTS",
+   "text": "(1) An exclusive licensee and exclusive sub-licensee shall have the same rights of action and be entitled to the same remedies, as if the licence were an assignment and those rights and remedies shall be concurrent with the rights and remedies of the owner of the copyright under which the licence and sub-licence were granted.\n(2) Before an exclusive licensee or sub-licensee institutes proceedings under subsection (1), he shall give notice in writing to the owner of the copyright concerned, of his intention to do so, and the owner may intervene in such proceedings and recover any damages he may have suffered as a result of the infringement concerned or a reasonable royalty to which he may be entitled.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An exclusive licensee and exclusive sub-licensee shall have the same rights of action and be entitled to the same remedies, as if the licence were an assignment and those rights and remedies shall be concurrent with the rights and remedies of the owner of the copyright under which the licence and sub-licence were granted."
+    },
+    {
+     "ref": "(2)",
+     "text": "Before an exclusive licensee or sub-licensee institutes proceedings under subsection (1), he shall give notice in writing to the owner of the copyright concerned, of his intention to do so, and the owner may intervene in such proceedings and recover any damages he may have suffered as a result of the infringement concerned or a reasonable royalty to which he may be entitled."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Infringement",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INFRINGEMENT",
+   "text": "(1) Copyright or related rights shall be infringed by a person who, without the license of the owner of the copyright or related rights—\n  (a) does, or causes to be done, an act the doing of which is controlled by the copyright or related rights; or\n  (b) imports, or causes to be imported, otherwise than for his private and domestic use, an article which he knows to be an infringing copy.\n(2) The rights of a performer shall be infringed by a person who without the consent of the performer—\n  (a) does, or causes to be done, any act specified in section 30(1); or\n  (b) imports or causes to be imported, otherwise than for his own private or domestic use, an article which he knows would have been made contrary to section 30 had it been made in Kenya by the importer.\n(2A) The rights of a producer of sound recordings shall be infringed by a person who without the consent of the producer—\n  (a) does or causes to be done, any act specified in section 28(1); or\n  (b) imports or causes to be imported, otherwise than for his private use, an article which he knows would have been made contrary to section 28(1) had it been made in Kenya by the importer.\n(3) Copyright and related rights shall be infringed by a person who—\n  (a) circumvents any effective technological protection measure designed to protect works; or\n  (b) manufactures or distributes devices which are primarily designed or produced for the purpose of circumventing technological protection measures designed to protect works protected under this Act; or\n  (c) removes or alters any electronic rights management information; or\n  (d) distributes, imports, broadcasts or makes available to the public, protected works, records or copies from which electronic rights management information has been removed or has been altered without the authority of the right holder.\n(4) Infringement of any right protected under this Act shall be actionable at the suit of the owner of the right and in any action for infringement the following reliefs shall be available to the plaintiff—\n  (a) the relief by way of damages, injunction, accounts or otherwise that is available in any corresponding proceedings in respect of infringement of other proprietary rights;\n  (b) delivery up to the plaintiff of any article in the possession of the defendant which appears to the court to be an infringing copy, or any article used or intended to be used for making infringing copies;\n  (c) in lieu of damages, the plaintiff at his option, be awarded an amount calculated on the basis of reasonable royalty which would have been payable by a licensee in respect of the work or type of work concerned;\n  (d) for the purpose of determining the amount of damages or a reasonable royalty to be awarded under this section or section 33(2), the court may direct an enquiry to be held and may prescribe such procedures for conducting such enquiries as the court considers necessary; and\n  (e) before the owner of the right institutes proceedings under this section, he shall give notice in writing to the exclusive licensee or sub-licensee of the copyright concerned of the intention to do so, and the exclusive licensee or sub-licensee may intervene in such proceedings and recover any damages he may have suffered as a result of the infringement concerned or a reasonable royalty to which he may be entitled.\n(5) Where in an action for infringement of copyright it is proved or admitted—\n  (a) that an infringement was committed; but\n  (b) that at the time of the infringement the defendant was not aware, and had no reasonable grounds for suspecting, that copyright subsisted in the work to which the action relates, the plaintiff shall not be entitled under this section to any damages against the defendant in respect of the infringement whether or not other relief is granted under this section.\n(6) Where in an action under this section an infringement of copyright protected under this Act is proved or admitted, and the court, having regard (in addition to all other material considerations) to—\n  (a) the flagrancy of the infringement; and\n  (b) any benefit shown to have accrued to the defendant by reason of the infringement, is satisfied that effective relief would not otherwise be available to the plaintiff, the court, in assessing damages for the infringement, may award such additional damages by virtue of this subsection as the court may consider appropriate in the circumstances.\n(7) No injunction shall be issued in proceedings for infringement of any right protected under this Act which requires a completed or partly built building to be demolished or prevents the completion of a partly built building.\n(8) In an action under this section—\n  (a) copyright shall be presumed to subsist in the work or other subject matter to which the action relates, if the defendant does not put in issue the subsistence of copyright therein; and\n  (b) where the subsistence of copyright is proved, admitted or presumed under paragraph (a), the plaintiff shall be presumed to be the owner of the copyright if he makes a claim thereto and the defendant does not dispute that claim.\n(9) Where in an action under this section, a name purporting to be the name of the author or joint author appears on copies of a literary, dramatic or musical work as published or an artistic work when it was made, any person whose name so appears, if it is his true name or the name by which he is commonly known, shall be presumed, unless the contrary is proved, to be the author of the work.\n(10) In the case of an anonymous or pseudonymous work, the publisher whose name appears on the work shall, in the absence of any proof to the contrary, be presumed to represent the author and, in this capacity, shall be entitled to exercise and enforce the moral and economic rights of the author:\nProvided that the presumption under this subsection shall cease to apply when the author reveals his identity or where the pseudonym leaves no doubts as to the identity of the author.\n(11) Where, in any action under this section, the author of the literary, musical, dramatic or artistic work to which the action relates is dead, it shall be presumed, unless the contrary is proved—\n  (a) that the work is eligible for copyright; and\n  (b) that any allegation by the plaintiff that the work is a first publication and was published in a specified country on a specified date, is true.\n(12) Where, in an action under this section, the sound recording to which the action relates is reproduced on a record bearing a label or other mark which has been issued to the public, any statement on that label or mark to the effect that a person named thereon was the maker of the sound recording or by whom the recording was first published in a specified year shall, unless the contrary is proved, be presumed to be true.\n(13) In this section—\n“record” means any disc, tape, perforated roll or other device in which sounds or the representations of sounds are embodied which are capable of reproduction therefrom with or without the aid of another instrument;\n“action” includes a counterclaim and references to the plaintiff and to the defendant in an action shall be construed accordingly;\n“court” means a court of competent jurisdiction;\n“owner of the copyright” means the first owner, an assignee or an exclusive licensee, as the case may be, of the relevant portion of the copyright.\n[Act No. 20 of 2019, s. 23.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Copyright or related rights shall be infringed by a person who, without the license of the owner of the copyright or related rights—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The rights of a performer shall be infringed by a person who without the consent of the performer—"
+    },
+    {
+     "ref": "(2A)",
+     "text": "The rights of a producer of sound recordings shall be infringed by a person who without the consent of the producer—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Copyright and related rights shall be infringed by a person who—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Infringement of any right protected under this Act shall be actionable at the suit of the owner of the right and in any action for infringement the following reliefs shall be available to the plaintiff—"
+    },
+    {
+     "ref": "(5)",
+     "text": "Where in an action for infringement of copyright it is proved or admitted—"
+    },
+    {
+     "ref": "(6)",
+     "text": "Where in an action under this section an infringement of copyright protected under this Act is proved or admitted, and the court, having regard (in addition to all other material considerations) to—"
+    },
+    {
+     "ref": "(7)",
+     "text": "No injunction shall be issued in proceedings for infringement of any right protected under this Act which requires a completed or partly built building to be demolished or prevents the completion of a partly built building."
+    },
+    {
+     "ref": "(8)",
+     "text": "In an action under this section—"
+    },
+    {
+     "ref": "(9)",
+     "text": "Where in an action under this section, a name purporting to be the name of the author or joint author appears on copies of a literary, dramatic or musical work as published or an artistic work when it was made, any person whose name so appears, if it is his true name or the name by which he is commonly known, shall be presumed, unless the contrary is proved, to be the author of the work."
+    },
+    {
+     "ref": "(10)",
+     "text": "In the case of an anonymous or pseudonymous work, the publisher whose name appears on the work shall, in the absence of any proof to the contrary, be presumed to represent the author and, in this capacity, shall be entitled to exercise and enforce the moral and economic rights of the author:"
+    },
+    {
+     "ref": "(11)",
+     "text": "Where, in any action under this section, the author of the literary, musical, dramatic or artistic work to which the action relates is dead, it shall be presumed, unless the contrary is proved—"
+    },
+    {
+     "ref": "(12)",
+     "text": "Where, in an action under this section, the sound recording to which the action relates is reproduced on a record bearing a label or other mark which has been issued to the public, any statement on that label or mark to the effect that a person named thereon was the maker of the sound recording or by whom the recording was first published in a specified year shall, unless the contrary is proved, be presumed to be true."
+    },
+    {
+     "ref": "(13)",
+     "text": "In this section—"
+    }
+   ]
+  },
+  "35A": {
+   "num": "35A",
+   "title": "Protection of Internet Service Provider",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INFRINGEMENT",
+   "text": "An Internet Service Provider shall not be liable—\n  (a) for infringement for providing access to or transmitting content, routing or storage of content in ordinary course of business as long as it—\n  (i) does not initiate transmission;\n  (ii) does not select the addressee;\n  (iii) performs the functions in an automatic, technical manner without selection of the material;\n  (iv) does not modify the material contained in the transmission;\n  (v) does not in any way promote the content or material being transmitted:\nProvided that the acts of transmission, routing, and of the provision of access referred to in subsection (1) shall include automatic, intermediate and transient storage of the content.\n  (b) for infringement for the automatic, intermediate and temporary storage of that content, where the purpose of storing such content is to make onward transmission of the data more efficient to other recipients of the service upon their request as long as the Internet Service Provider—\n  (i) does not modify the material;\n  (ii) complies with conditions on access to the material;\n  (iii) complies with rules regarding updating the cache in conformity with generally accepted standards within the service sector;\n  (iv) does not interfere with the lawful use of technology to obtain information on the use of the material;\n  (v) removes or disables access once it receives a takedown notice as provided in section 35B(1) or where the original material has been deleted or access disabled on orders of a competent court or otherwise on obtaining knowledge of unlawful nature of the cached material.\n  (c) for damages arising from material stored at the request of the recipient of the services, as long as it —\n  (i) does not have actual knowledge that the content or activity related to the material is infringing the rights of a third party;\n  (ii) is not aware of the facts or circumstances of the allegedly infringing activity unless the infringing nature of the material is apparent;\n  (iii) upon the receipt of a takedown notice acts to remove or to disable access to the allegedly infringing content in the manner provided under section 35A (5) within forty eight business hours:\nProvided that the exemption shall not apply if the recipient of the service is acting under the authority or control of the Internet Service Provider.\n  (d) for damages incurred by a person if the service provider refers or links users to a webpage containing infringing material or facilitates infringing activity, by using information location tools including a directory, index, reference, pointer or hyperlink where the Internet Service Provider—\n  (i) does not have actual knowledge that the material is infringing the rights of that person;\n  (ii) is not aware of the facts or circumstances from which the allegedly infringing activity or infringing nature of the material is not apparent;\n[Act No. 20 of 2019, s. 24.]",
+   "clauses": []
+  },
+  "35B": {
+   "num": "35B",
+   "title": "Takedown notice",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INFRINGEMENT",
+   "text": "(1) A person whose rights have been infringed by content to which access is being offered by an Internet Service Provider may request, by way of a takedown notice, that Internet Service Provider removes the infringing content.\n(2) A takedown notice issued under subsection (1) shall—\n  (a) be in writing and addressed by complainant or his agent to the Internet Service Provider or their designated agent;\n  (b) contain the full names and telephone, physical and email address of the complainant;\n  (c) be signed by the complainant or his authorized agent;\n  (d) describe in specific detail the copyright work subject to the alleged infringement or sought to be removed;\n  (e) identify the rights being infringed;\n  (f) set out the content sought to be removed with details of where the content is contained;\n  (g) attach an affidavit or any other declaration attesting to claim of ownership, validity of the rights, good faith and setting out any efforts to have entities responsible for making the content available to remove the content;\n  (h) be copied to the Board, Communication Authority and the recognised umbrella association of service providers.\n(3) A takedown notice shall be deemed delivered on the next business day following physical delivery at its registered offices or two days following the day it is sent by registered post or immediately it is sent by electronic communication to a designated address of the Internet Service Provider or its designated agent.\n(4) An Internet Service Provider shall, upon receipt of a valid takedown notice, notify the person responsible for making available the alleged infringing content and provide them with a copy of the notice as soon as is practicable.\n(5) An Internet Service Provider shall disable access to the material within forty eight business hours unless it receives a counter notice fulfilling the requirements set out for a takedown notice and contesting the contents of the takedown notice.\n(6) An Internet Service Provider which fails to take down or disable access when it receives a takedown notice shall be fullyli able for any loss or damages resulting from non-compliance to a takedown notice without a valid justification.\n(7) An Internet Service Provider which contravenes the provisions of subsection (4) commits an offence and shall, upon conviction, be liable to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding five years, or to both.\n(8) Any person who falsely or maliciously lodges a takedown notice or a counter notice under this section commits an of fence and shall, upon conviction, be liable to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding five years, or to both.\n(9) A person responsible for such misrepresentation under subsection (7) shall, in addition to the penalty provided under that subsection, be liable for any damages resulting from such false or malicious misrepresentation.\n(10) An Internet Service Provider shall not be liable for wrongful takedown in response to a valid takedown notice.\n[Act No. 20 of 2019, s. 24.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person whose rights have been infringed by content to which access is being offered by an Internet Service Provider may request, by way of a takedown notice, that Internet Service Provider removes the infringing content."
+    },
+    {
+     "ref": "(2)",
+     "text": "A takedown notice issued under subsection (1) shall—"
+    },
+    {
+     "ref": "(3)",
+     "text": "A takedown notice shall be deemed delivered on the next business day following physical delivery at its registered offices or two days following the day it is sent by registered post or immediately it is sent by electronic communication to a designated address of the Internet Service Provider or its designated agent."
+    },
+    {
+     "ref": "(4)",
+     "text": "An Internet Service Provider shall, upon receipt of a valid takedown notice, notify the person responsible for making available the alleged infringing content and provide them with a copy of the notice as soon as is practicable."
+    },
+    {
+     "ref": "(5)",
+     "text": "An Internet Service Provider shall disable access to the material within forty eight business hours unless it receives a counter notice fulfilling the requirements set out for a takedown notice and contesting the contents of the takedown notice."
+    },
+    {
+     "ref": "(6)",
+     "text": "An Internet Service Provider which fails to take down or disable access when it receives a takedown notice shall be fullyli able for any loss or damages resulting from non-compliance to a takedown notice without a valid justification."
+    },
+    {
+     "ref": "(7)",
+     "text": "An Internet Service Provider which contravenes the provisions of subsection (4) commits an offence and shall, upon conviction, be liable to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding five years, or to both."
+    },
+    {
+     "ref": "(8)",
+     "text": "Any person who falsely or maliciously lodges a takedown notice or a counter notice under this section commits an of fence and shall, upon conviction, be liable to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding five years, or to both."
+    },
+    {
+     "ref": "(9)",
+     "text": "A person responsible for such misrepresentation under subsection (7) shall, in addition to the penalty provided under that subsection, be liable for any damages resulting from such false or malicious misrepresentation."
+    },
+    {
+     "ref": "(10)",
+     "text": "An Internet Service Provider shall not be liable for wrongful takedown in response to a valid takedown notice."
+    }
+   ]
+  },
+  "35C": {
+   "num": "35C",
+   "title": "Role of Internet Service Provider",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INFRINGEMENT",
+   "text": "(1) An Internet Service Provider may be required—\n  (a) to provide information to investigative agencies regarding identity of the subscribers of their services suspected to be engaging in infringement of content on orders of the court upon application by the copyright owner whose rights have been subject of a takedown notice;\n  (b) to designate an agent or electronic or other address for receiving such notices under its terms and conditions of service section.\n(2) Notwithstanding the provisions of subsection (1), there shall be no general obligation on the Internet Service Provider to—\n  (a) monitor the material transmitted, stored or linked; or\n  (b) actively seek facts or circumstances indicative of infringing activity within its services.\n[Act No. 20 of 2019, s. 24.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An Internet Service Provider may be required—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding the provisions of subsection (1), there shall be no general obligation on the Internet Service Provider to—"
+    }
+   ]
+  },
+  "35D": {
+   "num": "35D",
+   "title": "Application for injunction",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INFRINGEMENT",
+   "text": "(1) A person may apply to the High Court for the grant of interim relief where he or she has reasonable grounds to believe that his or her copyright is being or may be infringed by a person situated in or outside Kenya.\n(2) The High Court may, upon application under subsection (1), grant an order requiring—\n  (a) a person enabling or facilitating the infringement of copyright, or whose service is used by another person to infringe copyright, to cease such enabling or facilitating activity or disable that person's access to its service for the infringing purpose;\n  (b) a person hosting or making available an online location, service or facility situated in or outside Kenya which is used to infringe copyright or which enables or facilitates the infringement of copyright, to disable access to such online location, service or facility as replaced, amended or moved from time to time; or\n  (c) an internet service provider to prevent or impede the use of its service to access an online location, service or facility situated in or outside Kenya that is used to infringe copyright as replaced, amended or moved from time to time.\n[Act No. 20 of 2019, s. 24.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person may apply to the High Court for the grant of interim relief where he or she has reasonable grounds to believe that his or her copyright is being or may be infringed by a person situated in or outside Kenya."
+    },
+    {
+     "ref": "(2)",
+     "text": "The High Court may, upon application under subsection (1), grant an order requiring—"
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Authentication of copyright",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INFRINGEMENT",
+   "text": "(1) Every sound and audio-visual recording made available to the public by way of sale, lending or distribution in any other manner to the public for commercial purposes in Kenya shall have affixed on it an authentication device prescribed by the Board.\n(2) The Board shall authenticate copyright works according to all required documents furnished to it by the applicant for that purpose and shall issue an approval certificate in the prescribed form to the applicant for authority to purchase an authentication device.\n(3) The authentication device shall be issued to an applicant upon proof that the applicant has been authorized by the copyright owner to manufacture, reproduce, sell, import, rent or otherwise distribute the work.\n(4) The authentication device shall be affixed to each copy of the copyright work made or published by the applicant.\n(5) No person shall sell or exhibit for sale any copyright works that require an authentication device in any form without an authentication device affixed thereto pursuant to subsection (4).\n(6) Any person who knowingly sells or offers for sale any copyright work that require an authentication device without an authentication device affixed thereto is guilty of an offence and is liable to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding four years, or to both.\n(7) Any work requiring an authenticating device and which is sold or exhibited for sale without the authentication device shall be presumed to be an infringing copy.\n(8) Any person who, without the permission of the Board—\n  (a) is found to be in possession of or to have reproduced, a security device; or\n  (b) is found to be in possession of any machine, instrument or contrivance intended to be used to produce or reproduce a security device, shall be guilty of an offence and liable on conviction to a fine not exceeding two million shillings or to imprisonment for a term not exceeding ten years, or to both.\n(9) The Court upon conviction of a person under this section shall order for the destruction of the material seized.\n[Act No. 12 of 2012, Sch., Act No. 20 of 2019, s. 25.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every sound and audio-visual recording made available to the public by way of sale, lending or distribution in any other manner to the public for commercial purposes in Kenya shall have affixed on it an authentication device prescribed by the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall authenticate copyright works according to all required documents furnished to it by the applicant for that purpose and shall issue an approval certificate in the prescribed form to the applicant for authority to purchase an authentication device."
+    },
+    {
+     "ref": "(3)",
+     "text": "The authentication device shall be issued to an applicant upon proof that the applicant has been authorized by the copyright owner to manufacture, reproduce, sell, import, rent or otherwise distribute the work."
+    },
+    {
+     "ref": "(4)",
+     "text": "The authentication device shall be affixed to each copy of the copyright work made or published by the applicant."
+    },
+    {
+     "ref": "(5)",
+     "text": "No person shall sell or exhibit for sale any copyright works that require an authentication device in any form without an authentication device affixed thereto pursuant to subsection (4)."
+    },
+    {
+     "ref": "(6)",
+     "text": "Any person who knowingly sells or offers for sale any copyright work that require an authentication device without an authentication device affixed thereto is guilty of an offence and is liable to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding four years, or to both."
+    },
+    {
+     "ref": "(7)",
+     "text": "Any work requiring an authenticating device and which is sold or exhibited for sale without the authentication device shall be presumed to be an infringing copy."
+    },
+    {
+     "ref": "(8)",
+     "text": "Any person who, without the permission of the Board—"
+    },
+    {
+     "ref": "(9)",
+     "text": "The Court upon conviction of a person under this section shall order for the destruction of the material seized."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Anton Piller orders",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INFRINGEMENT",
+   "text": "(1) If a person has prima facie evidence that his right has been infringed by another party and he satisfies the court or Copyright Tribunal that prima facie—\n  (a) he has a cause of action against another person which he intends to pursue;\n  (b) the other person has, in his possession, documents infringing copies or other things of whatsoever nature which constitute evidence of great importance in substantiation of that cause of action; and\n  (c) there is the real and well-founded apprehension that the documents, infringing copies or other things may be hidden, destroyed or rendered inaccessible before discovery can be made in the usual way, the court or Copyright Tribunal as the case may be, may make such order as it considers necessary or appropriate to secure the preservation of the documents, copies or things as evidence.\n(2) An order made under subsection (1) may be granted ex parte.\n[Act No. 20 of 2019, s. 26.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If a person has prima facie evidence that his right has been infringed by another party and he satisfies the court or Copyright Tribunal that prima facie—"
+    },
+    {
+     "ref": "(2)",
+     "text": "An order made under subsection (1) may be granted ex parte."
+    }
+   ]
+  },
+  "38": {
+   "num": "38",
+   "title": "Offence and penalties for infringement",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INFRINGEMENT",
+   "text": "(1) A person who, at a time when copyright or the right of a performer or producer subsists in a work, knowingly—\n  (a) makes for sale or hire an infringing copy;\n  (b) sells or lets for hire or, by way of trade, exposes or offers for sale an infringing copy;\n  (c) distributes infringing copies;\n  (d) possesses otherwise than for his private and domestic use, an infringing copy;\n  (e) imports into Kenya otherwise than for his or her private and domestic use an infringing copy;\n  (f) makes or has in his or her possession a contrivance used or intended to be used for the purpose of making an infringing copy;\n  (g) causes a broadcast to be rebroadcast or transmitted in a diffusion service, knowing that copyright subsists in the broadcast and that such rebroadcast or transmission constitutes an infringement of the copyright;\n  (h) causes a program carrying signals to be distributed by a distributor for whom they were not intended, knowing that copyright subsists in the signals and that such distribution constitutes an infringement of the copyright;\n  (i) circumvents a technological protection measure or manufactures or distributes devices designed for circumventing technological protection measures; or\n  (j) removes or alters rights management information or imports or distributes, or makes available to the public a copy of a work from which electronic rights management information has been removed or altered, commits an offence.\n(2) Any person who causes a literary or musical work, an audio-visual work or a sound recording to be performed in public at a time when copyright subsists in such work or sound recording and where such performance is an infringement of that copyright shall be guilty of an offence.\n(3) For the purposes of paragraphs (a) to (f) of subsection (1), any person who has in his possession, custody or control two or more infringing copies of a work in the same form, shall, unless the contrary is proved, be presumed to be in possession of or to have imported such copies otherwise than for private and domestic use.\n(4) A person convicted of an offence under subsection (1)(a), (b, (c), (d) or (e) shall be liable to—\n  (a) in the case of a first conviction, a fine of five times the market value of the legitimate work or one thousand shillings for each infringing copy whichever is higher or to imprisonment for a term not exceeding ten years, or to both; and\n  (b) in any other case to a fine of ten times the market value of the legitimate work or two thousand shillings for each infringing copy, whichever is higher or imprisonment for a term not exceeding twenty years, or to both.\n(5) A person convicted of an offence under subsection (1)(f), (g), (h), (i) or (j) shall be liable to a fine not exceeding one million shillings or to imprisonment for a term not exceeding five years or to both.\n(6) Deleted by Act No. 20 of 2019, s. 27.\n(7) A person convicted of an offence under subsection (2) shall be liable to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding four years, or to both.\n(8) The court before which a person is charged with an offence under this section, shall whether such person is convicted of the offence or not, order that any article in his possession which appears to the court to be an infringing copy, or to be an article used or intended to be used for making infringing copies, be destroyed or delivered up to the owner of the copyright in question or otherwise dealt with as the court may think fit.\n(9) No prosecution for an offence under this section shall be instituted—\n  (a) after the expiration of the period of three years immediately following the date of the alleged offence; and\n  (b) except, before the High Court or a Resident Magistrate’s Court.\n(10) One half of all fines imposed and recovered by a competent court in respect of the contravention of any of the provisions of this Act or of any regulations made thereunder shall be paid into the revenues of the Board and the other half shall be paid into the general revenues of Kenya.\n(11) Any complaint alleging a breach of this section may be lodged by a licensed collective management organization where such rights are managed collectively.\n[Act No. 20 of 2019, s. 27.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who, at a time when copyright or the right of a performer or producer subsists in a work, knowingly—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who causes a literary or musical work, an audio-visual work or a sound recording to be performed in public at a time when copyright subsists in such work or sound recording and where such performance is an infringement of that copyright shall be guilty of an offence."
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purposes of paragraphs (a) to (f) of subsection (1), any person who has in his possession, custody or control two or more infringing copies of a work in the same form, shall, unless the contrary is proved, be presumed to be in possession of or to have imported such copies otherwise than for private and domestic use."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person convicted of an offence under subsection (1)(a), (b, (c), (d) or (e) shall be liable to—"
+    },
+    {
+     "ref": "(5)",
+     "text": "A person convicted of an offence under subsection (1)(f), (g), (h), (i) or (j) shall be liable to a fine not exceeding one million shillings or to imprisonment for a term not exceeding five years or to both."
+    },
+    {
+     "ref": "(6)",
+     "text": "Deleted by Act No. 20 of 2019, s. 27."
+    },
+    {
+     "ref": "(7)",
+     "text": "A person convicted of an offence under subsection (2) shall be liable to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding four years, or to both."
+    },
+    {
+     "ref": "(8)",
+     "text": "The court before which a person is charged with an offence under this section, shall whether such person is convicted of the offence or not, order that any article in his possession which appears to the court to be an infringing copy, or to be an article used or intended to be used for making infringing copies, be destroyed or delivered up to the owner of the copyright in question or otherwise dealt with as the court may think fit."
+    },
+    {
+     "ref": "(9)",
+     "text": "No prosecution for an offence under this section shall be instituted—"
+    },
+    {
+     "ref": "(10)",
+     "text": "One half of all fines imposed and recovered by a competent court in respect of the contravention of any of the provisions of this Act or of any regulations made thereunder shall be paid into the revenues of the Board and the other half shall be paid into the general revenues of Kenya."
+    },
+    {
+     "ref": "(11)",
+     "text": "Any complaint alleging a breach of this section may be lodged by a licensed collective management organization where such rights are managed collectively."
+    }
+   ]
+  },
+  "38A": {
+   "num": "38A",
+   "title": "Offence by body corporate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INFRINGEMENT",
+   "text": "(1) Where a body corporate is convicted of an offence under this Act, every person who at the time the offence was committed was in charge of or was responsible to the body corporate for the conduct of its business and affairs is also deemed to have committed the offence and shall be liable to prosecution.\n(2) Where it is proven that a body corporate committed an offence under this Act with the consent, connivance or willful lack of due diligence by a person in charge of or responsible to the body corporate for the conduct of its business and affairs, the person shall be guilty of the offence.\n(3) For the purposes of this section—\n  (a) \"body corporate\" includes a firm or other association of persons; and\n  (b) \"director\" in relation to a firm includes the partner in the firm.\n[Act No. 20 of 2019, s. 28.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a body corporate is convicted of an offence under this Act, every person who at the time the offence was committed was in charge of or was responsible to the body corporate for the conduct of its business and affairs is also deemed to have committed the offence and shall be liable to prosecution."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where it is proven that a body corporate committed an offence under this Act with the consent, connivance or willful lack of due diligence by a person in charge of or responsible to the body corporate for the conduct of its business and affairs, the person shall be guilty of the offence."
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purposes of this section—"
+    }
+   ]
+  },
+  "39": {
+   "num": "39",
+   "title": "Inspectors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INSPECTION",
+   "text": "(1) The Board shall, for the purposes of enforcing the provisions of this Act, appoint such number of inspectors as the Board considers appropriate and shall issue to them, in writing or in such form as may be prescribed, certificates of authority to act as such inspectors.\n(2) In addition to inspectors appointed under subsection (1), any member of the Board or a police officer may perform the functions of an inspector under this Act.\n(3) A person appointed as an inspector shall hold office subject to such conditions as the Board may determine with approval of the Cabinet Secretary.\n[Act No. 11 of 2017, Sch., Act No. 19 of 2015, s. 137]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall, for the purposes of enforcing the provisions of this Act, appoint such number of inspectors as the Board considers appropriate and shall issue to them, in writing or in such form as may be prescribed, certificates of authority to act as such inspectors."
+    },
+    {
+     "ref": "(2)",
+     "text": "In addition to inspectors appointed under subsection (1), any member of the Board or a police officer may perform the functions of an inspector under this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person appointed as an inspector shall hold office subject to such conditions as the Board may determine with approval of the Cabinet Secretary."
+    }
+   ]
+  },
+  "40": {
+   "num": "40",
+   "title": "Entry into premises",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INSPECTION",
+   "text": "Subject to the provisions of this section, an inspector may, at any reasonable time and on production of his certificate of authority, enter any premises, ship, aircraft or vehicle for the purpose of ascertaining whether there is or has been, on or in connexion with such premises, ship, aircraft or vehicle any contravention of this Act.",
+   "clauses": []
+  },
+  "41": {
+   "num": "41",
+   "title": "Mode of inspection",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INSPECTION",
+   "text": "(1) For the purpose of ascertaining whether there is or has been a contravention of this Act, an inspector may inspect—\n  (a) any substance or article appearing to him to be a work;\n  (b) any container or package used or intended to be used to contain any work; or\n  (c) any plant or equipment appearing to him to be used or intended to be used in connexion with the production, reproduction or otherwise manufacture of a work.\n(2) An inspector may seize and detain any substance or article which he has reasonable cause to believe to be an infringing copy of any work or in relation to which or by means of which he has reasonable cause to believe that an offence under this Act has been or is being committed, and any document which he has reasonable cause to believe to be a document which may be required in proceedings under this Act.\n(3) Where an inspector seizes any work he shall in writing, notify the person from whom it is seized the fact of that seizure and shall in that notification specify any item seized.\n(4) Any person who—\n  (a) willfully obstructs an inspector in the discharge of the inspector’s duties; or\n  (b) willfully fails to comply with any requirement properly made to him by an inspector; or\n  (c) without reasonable cause fails to give to the inspector any assistance or information which the inspector may reasonably require of that person for the purpose of the performance of his duties under this Act; or\n  (d) in giving any such information as is mentioned in subparagraph (c), makes any statement which he knows to be false or does not believe to be true, shall be guilty of an offence and shall be liable to a fine not exceeding twenty thousand shillings or to imprisonment for a term not exceeding six months or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "For the purpose of ascertaining whether there is or has been a contravention of this Act, an inspector may inspect—"
+    },
+    {
+     "ref": "(2)",
+     "text": "An inspector may seize and detain any substance or article which he has reasonable cause to believe to be an infringing copy of any work or in relation to which or by means of which he has reasonable cause to believe that an offence under this Act has been or is being committed, and any document which he has reasonable cause to believe to be a document which may be required in proceedings under this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where an inspector seizes any work he shall in writing, notify the person from whom it is seized the fact of that seizure and shall in that notification specify any item seized."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person who—"
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "Powers of arrest",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INSPECTION",
+   "text": "(1) A police officer may arrest, without a warrant, any person suspected, upon reasonable grounds, of having committed an offence under this Act, and any officer of the Board who at the time is wearing a visible badge of office and authorized thereto in writing by the Board, may arrest, without warrant, any person, who, in his presence, commits any such offence, and may detain such person until that person can be delivered into the custody of a police officer to be dealt with according to law:\nProvided that a person shall not be arrested or detained without warrant unless reasonable grounds exist for believing that, except by such arrest, the person may not be found or made answerable to justice without unreasonable delay, trouble or expense.\n(2) A police officer who is notified of an offence suspected to have been committed under subsection (1) may, upon obtaining a warrant of arrest, effect an arrest, and may thereupon confiscate any offending material necessary for evidence before a Court.\n[Act No. 10 of 2010, s. 77, Act No. 12 of 2012, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A police officer may arrest, without a warrant, any person suspected, upon reasonable grounds, of having committed an offence under this Act, and any officer of the Board who at the time is wearing a visible badge of office and authorized thereto in writing by the Board, may arrest, without warrant, any person, who, in his presence, commits any such offence, and may detain such person until that person can be delivered into the custody of a police officer to be dealt with according to law:"
+    },
+    {
+     "ref": "(2)",
+     "text": "A police officer who is notified of an offence suspected to have been committed under subsection (1) may, upon obtaining a warrant of arrest, effect an arrest, and may thereupon confiscate any offending material necessary for evidence before a Court."
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Conduct of prosecution",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INSPECTION",
+   "text": "(1) The Director of Public Prosecutions may, pursuant to the provisions of the Criminal Procedure Code (Cap. 75), appoint public prosecutors for the purposes of cases arising under this Act.\n(2) The Board shall, for the purposes of section 171(4) of the Criminal Procedure Code (Cap. 75), be deemed to be a public authority.\n[Act No. 20 of 2019, s. 29.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Director of Public Prosecutions may, pursuant to the provisions of the Criminal Procedure Code (Cap. 75), appoint public prosecutors for the purposes of cases arising under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall, for the purposes of section 171(4) of the Criminal Procedure Code (Cap. 75), be deemed to be a public authority."
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Inspectors not personally liable for acts done under this Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INSPECTION",
+   "text": "An inspector shall not be personally liable in respect of any act done in good faith by him in the course of his employment and in the execution or purported execution of any duty under this Act.",
+   "clauses": []
+  },
+  "45": {
+   "num": "45",
+   "title": "Works in the public domain",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "PUBLIC DOMAIN",
+   "text": "(1) The following works shall belong to the public domain—\n  (a) works whose terms of protection have expired;\n  (b) works in respect of which authors have renounced their rights; and\n  (c) foreign works which do not enjoy protection in Kenya.\n(2) For the purposes of paragraph (b), renunciation by an author or his successor in title of his rights shall be in writing and made public but any such renunciation shall not be contrary to any previous contractual obligation relating to the work.\n(3) Subject to the payment of such fees as may be determined by the Cabinet Secretary in relation thereto, a work which has fallen into the public domain may be used without any restriction.\n[Act No. 11 of 2017, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The following works shall belong to the public domain—"
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of paragraph (b), renunciation by an author or his successor in title of his rights shall be in writing and made public but any such renunciation shall not be contrary to any previous contractual obligation relating to the work."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to the payment of such fees as may be determined by the Cabinet Secretary in relation thereto, a work which has fallen into the public domain may be used without any restriction."
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "Collective administration of Copyright",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTIVE ADMINISTRATION OF COPYRIGHT",
+   "text": "(1) No person or association of persons shall commence or carry on the business of a copyright collective management organisation except under or in accordance with a certificate of registration granted under this section.\n(2) Applications for registration as collective management organisations shall be made to the Board accompanied with the prescribed fees and the Board, by a Gazette notice is empowered to declare a body which has applied for registration a collecting society, for all relevant copyright owners or for such classes of relevant copyright owners as are specified in the notice.\n(3) Every certificate issued to a collective management organisation shall be in the prescribed form and shall unless cancelled be valid for a period of twelve months from the date of issue.\n(3A) Where the collective management organization has not submitted a complete application or where administrative shortfalls are apparent, the Board may issue a provisional license for a period not exceeding six months and such provisional license shall be counted as part of the complete license if the license is subsequently issued.\n(4) The Board may approve a collective management organisation if it is satisfied that—\n  (a) the body is a company limited by guarantee and incorporated under the Companies Act (Cap. 486);\n  (b) it is a non-profit making entity;\n  (c) its rules and regulations contain such other provisions as are prescribed, being provisions necessary to ensure that the interests of members of the collecting society are adequately protected;\n  (d) its principal objectives are the collection and distribution of royalties; and\n  (e) its accounts are regularly audited by independent external auditors elected by the society.\n(5) The Board shall not approve another collective management organisation in respect of the same class of rights and category of works if there exists another collective management organisation that has been licensed and functions to the satisfaction of its members.\n(6) The Board may, where it finds it expedient, assist in establishing a collective management organisation for any class of copyright owners.\n(7) Deleted by Act No. 20 of 2019, s. 30.\n(8) Deleted by Act No. 20 of 2019, s. 30.\n(9) The Board may by notice in the Gazette and two daily newspapers of national circulation de-register a collective management organisation if its satisfied that the collective management organisation—\n  (a) is not functioning adequately as collective management organisation;\n  (b) is not acting in accordance with its Memorandum and Articles of Association or in the best interests of its members;\n  (c) has altered its rules so that it no longer complies with subsection 4 of this section; and\n  (d) it has refused or failed to comply with any of the provisions of this Act.\n(10) Before deregistering a collective management organization, the Board shall notify the organization in writing and invite it and any of its members to make written representations against deregistration within twenty one days from the date of the notice.\n(11) If, after consideration of any written representations made in terms of subsection (10), the Board is of the opinion that the failure in question on the part of the organisation is materially prejudicing or has materially prejudiced its members, the Board may withdraw the registration thereof or otherwise sanction members of the Board of Directors or Management of the organization as set out under this Act.\n(12) Any person who purports to collect royalties from users as provided for under this section without authority of the Board commits an offence and shall be liable to a fine not exceeding five hundred thousand shillings, or to imprisonment to a term not exceeding four years, or both. [Act No. 11 of 2017, Sch., Act No. 19 of 2015, s. 138, Act No. 20 of 2019, s. 30.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No person or association of persons shall commence or carry on the business of a copyright collective management organisation except under or in accordance with a certificate of registration granted under this section."
+    },
+    {
+     "ref": "(2)",
+     "text": "Applications for registration as collective management organisations shall be made to the Board accompanied with the prescribed fees and the Board, by a Gazette notice is empowered to declare a body which has applied for registration a collecting society, for all relevant copyright owners or for such classes of relevant copyright owners as are specified in the notice."
+    },
+    {
+     "ref": "(3)",
+     "text": "Every certificate issued to a collective management organisation shall be in the prescribed form and shall unless cancelled be valid for a period of twelve months from the date of issue."
+    },
+    {
+     "ref": "(3A)",
+     "text": "Where the collective management organization has not submitted a complete application or where administrative shortfalls are apparent, the Board may issue a provisional license for a period not exceeding six months and such provisional license shall be counted as part of the complete license if the license is subsequently issued."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Board may approve a collective management organisation if it is satisfied that—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The Board shall not approve another collective management organisation in respect of the same class of rights and category of works if there exists another collective management organisation that has been licensed and functions to the satisfaction of its members."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Board may, where it finds it expedient, assist in establishing a collective management organisation for any class of copyright owners."
+    },
+    {
+     "ref": "(7)",
+     "text": "Deleted by Act No. 20 of 2019, s. 30."
+    },
+    {
+     "ref": "(8)",
+     "text": "Deleted by Act No. 20 of 2019, s. 30."
+    },
+    {
+     "ref": "(9)",
+     "text": "The Board may by notice in the Gazette and two daily newspapers of national circulation de-register a collective management organisation if its satisfied that the collective management organisation—"
+    },
+    {
+     "ref": "(10)",
+     "text": "Before deregistering a collective management organization, the Board shall notify the organization in writing and invite it and any of its members to make written representations against deregistration within twenty one days from the date of the notice."
+    },
+    {
+     "ref": "(11)",
+     "text": "If, after consideration of any written representations made in terms of subsection (10), the Board is of the opinion that the failure in question on the part of the organisation is materially prejudicing or has materially prejudiced its members, the Board may withdraw the registration thereof or otherwise sanction members of the Board of Directors or Management of the organization as set out under this Act."
+    },
+    {
+     "ref": "(12)",
+     "text": "Any person who purports to collect royalties from users as provided for under this section without authority of the Board commits an offence and shall be liable to a fine not exceeding five hundred thousand shillings, or to imprisonment to a term not exceeding four years, or both. [Act No. 11 of 2017, Sch., Act No. 19 of 2015, s. 138, Act No. 20 of 2019, s. 30.]"
+    }
+   ]
+  },
+  "46A": {
+   "num": "46A",
+   "title": "Approval for imposition and collection of levy",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTIVE ADMINISTRATION OF COPYRIGHT",
+   "text": "Notwithstanding any other provision of this Act, no collecting society shall—\n  (a) impose or collect royalty based on a tariff that has not been approved and published in the Gazette by the Cabinet Secretary in charge of copyright issues in the Gazette from time to time; or (b) levy royalty on users exempted by the Cabinet Secretary by notice in the Gazette. [Act No. 18 of 2014, Sch.]",
+   "clauses": []
+  },
+  "46B": {
+   "num": "46B",
+   "title": "Qualification and tenure of Directors and Chairpersons of collective management organizations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTIVE ADMINISTRATION OF COPYRIGHT",
+   "text": "(1) A member of a collective management organization shall be eligible for election as a director if he holds a postsecondary qualification recognized in Kenya.\n(2) A director elected under this section shall serve for a term of three years and shall be eligible for reelection for one further term.\n(3) A director elected as a chairperson of a collective management organization shall hold office for a term of three years and shall be eligible for re-election for one further term.\n(4) A chief executive officer of a collective management organization shall hold office for a term of four years and shall be eligible for reappointment for one further term upon satisfactory performance as evaluated by the directors. [Act No. 20 of 2019, s. 31.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A member of a collective management organization shall be eligible for election as a director if he holds a postsecondary qualification recognized in Kenya."
+    },
+    {
+     "ref": "(2)",
+     "text": "A director elected under this section shall serve for a term of three years and shall be eligible for reelection for one further term."
+    },
+    {
+     "ref": "(3)",
+     "text": "A director elected as a chairperson of a collective management organization shall hold office for a term of three years and shall be eligible for re-election for one further term."
+    },
+    {
+     "ref": "(4)",
+     "text": "A chief executive officer of a collective management organization shall hold office for a term of four years and shall be eligible for reappointment for one further term upon satisfactory performance as evaluated by the directors. [Act No. 20 of 2019, s. 31.]"
+    }
+   ]
+  },
+  "46C": {
+   "num": "46C",
+   "title": "Role and types of collective management organizations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTIVE ADMINISTRATION OF COPYRIGHT",
+   "text": "(1) Authors, producers, performers, visual artists and publishers may form a collective management organization to collect, manage and distribute royalties and other remuneration accruing to their members.\n(2) Any new collective management organization to deal with rights not provided for under subsection (1) may be approved by the Kenya Copyright Board as may be necessary.\n(3) The designated extent of operation shall be set by Regulations made under this Act. [Act No. 20 of 2019, s. 31.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Authors, producers, performers, visual artists and publishers may form a collective management organization to collect, manage and distribute royalties and other remuneration accruing to their members."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any new collective management organization to deal with rights not provided for under subsection (1) may be approved by the Kenya Copyright Board as may be necessary."
+    },
+    {
+     "ref": "(3)",
+     "text": "The designated extent of operation shall be set by Regulations made under this Act. [Act No. 20 of 2019, s. 31.]"
+    }
+   ]
+  },
+  "46D": {
+   "num": "46D",
+   "title": "Submission and publication of information royalties",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTIVE ADMINISTRATION OF COPYRIGHT",
+   "text": "(1) A collective management organization shall submit to the Board information on its total collection and distribution of royalties annually.\n(2) The Board shall, by notice in the Gazette, publish information submitted under subsection (1). [Act No. 20 of 2019, s. 31.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A collective management organization shall submit to the Board information on its total collection and distribution of royalties annually."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall, by notice in the Gazette, publish information submitted under subsection (1). [Act No. 20 of 2019, s. 31.]"
+    }
+   ]
+  },
+  "46E": {
+   "num": "46E",
+   "title": "Inspection and control of collective management organisations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTIVE ADMINISTRATION OF COPYRIGHT",
+   "text": "(1) The Executive Director may authorize a person, in writing, to inspect the books of accounts and records of a collective management organization.\n(2) When an inspection is made under subsection (1), the collective management organisation concerned and every officer and employee thereof shall produce and make available to the person making the inspection all the books, accounts, records and other documents of the organization as the person making the inspection may require and within seven days or such longer times as he may direct in writing.\n(3) A person who wilfully fails to produce any books, accounts, records document, correspondence, statements, returns or other information within the period specified in the direction under subsection (2) commits an offence under the provisions of this Act and shall on conviction be liable to a fine not exceeding two hundred thousand shillings or imprisonment for a term not exceeding three months or to both.\n(4) The person authorized to inspect a collective management organization shall report to the Board on —\n  (a) any breach or non-observance of the requirements of this Act or regulations;\n  (b) any irregularity in the manner of conduct of the business of the organization;\n  (c) any apparent mismanagement or lack of management skills in the organization; or\n  (d) any other matter warranting remedial action or a forensic audit.\n(5) The Executive Director of the Kenya Copyright Board shall, by notice in writing, and after giving the collective management organization reasonable opportunity of being heard, require the inspected organization to comply by such date or within such period as may be specified therein, with such directions as he considers necessary in connection with any matter arising out of a report made under this section.\n(6) The powers conferred by subsection (1) may be exercised in the following circumstances—\n  (a) where a petition for inspection has been made by not less than forty five percent of the membership specifying breach of instruments establishing the entity, the regulations or the Act;\n  (b) failure by a collective management organization to account for monies to at least twenty percent of its members;\n  (c) failure by a collective management organization to offer an account of the exploitation of the copyright works assigned or licensed to it;\n  (d) where a collective management organization has acted beyond its powers in administering the rights to which it is assigned or licensed;\n  (e) where a collective management organization has altered its memorandum or other internal rules to exclude a section of its members in participating in its affairs or as to alter its core business;\n  (f) where a collective management organization has persistently failed to adhere to its set administrative budget without a reasonable cause; or\n  (g) where a collective management organisation has failed to comply with a request for information or records from its members or the Board.\n[Act No. 20 of 2019, s. 31.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Executive Director may authorize a person, in writing, to inspect the books of accounts and records of a collective management organization."
+    },
+    {
+     "ref": "(2)",
+     "text": "When an inspection is made under subsection (1), the collective management organisation concerned and every officer and employee thereof shall produce and make available to the person making the inspection all the books, accounts, records and other documents of the organization as the person making the inspection may require and within seven days or such longer times as he may direct in writing."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who wilfully fails to produce any books, accounts, records document, correspondence, statements, returns or other information within the period specified in the direction under subsection (2) commits an offence under the provisions of this Act and shall on conviction be liable to a fine not exceeding two hundred thousand shillings or imprisonment for a term not exceeding three months or to both."
+    },
+    {
+     "ref": "(4)",
+     "text": "The person authorized to inspect a collective management organization shall report to the Board on —"
+    },
+    {
+     "ref": "(5)",
+     "text": "The Executive Director of the Kenya Copyright Board shall, by notice in writing, and after giving the collective management organization reasonable opportunity of being heard, require the inspected organization to comply by such date or within such period as may be specified therein, with such directions as he considers necessary in connection with any matter arising out of a report made under this section."
+    },
+    {
+     "ref": "(6)",
+     "text": "The powers conferred by subsection (1) may be exercised in the following circumstances—"
+    }
+   ]
+  },
+  "46F": {
+   "num": "46F",
+   "title": "Directions and orders of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTIVE ADMINISTRATION OF COPYRIGHT",
+   "text": "Where the Kenya Copyright Board determines through the results of an audit or inspection report that a collective management organization conducts its business in a manner contrary to the provisions of this Act or of any regulations or any other Act or in any manner detrimental to or not in the best interests of its members, the Board may—\n  (a) recommend the suspension or removal of any officer or employee of the organization who, in the opinion of the Board, has contributed or caused the contravention of any law.\n  (b) issue directions regarding measures to be taken to improve the management of the organization or to secure or improve compliance with the requirements of this Act, any regulations or any other written law or regulations;\n  (c) require the organization to reconstitute its board of directors;\n  (d) demand for a plan to resolve all deficiencies to the satisfaction of the Board;\n  (e) appoint a person as the chairperson who is suitably qualified and competent in the opinion of the Board to advice and assist the organization in developing and implementing a corrective action plan and the person appointed shall regularly report to the Board on the progress of the implementation plan;\n  (f) issue an order placing the organization under statutory management;\n  (g) order for the revocation of the collection license;\n  (h) order for the convening of a special general meeting by the organization;\n  (i) order the organization to take such other action that the Board may deem necessary to rectify the deficiency, or issue such administrative directives as it may deem necessary.\n[Act No. 20 of 2019, s. 31.]",
+   "clauses": []
+  },
+  "46G": {
+   "num": "46G",
+   "title": "Record keeping and attendance of meetings by Board representatives",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTIVE ADMINISTRATION OF COPYRIGHT",
+   "text": "(1) The directors of a collective management organization shall cause minutes of all resolutions and proceedings of their meetings to be entered and updated in books kept for that purpose.\n(2) The Board may, through a designated representative, attend and advise a meeting of the directors of a collective management organization where matters affecting members' interests are proposed for discussion.\n[Act No. 20 of 2019, s. 31.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The directors of a collective management organization shall cause minutes of all resolutions and proceedings of their meetings to be entered and updated in books kept for that purpose."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may, through a designated representative, attend and advise a meeting of the directors of a collective management organization where matters affecting members' interests are proposed for discussion."
+    }
+   ]
+  },
+  "47": {
+   "num": "47",
+   "title": "Annual reports and accounts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTIVE ADMINISTRATION OF COPYRIGHT",
+   "text": "(1) A collective management organisation shall, as soon as reasonably practicable after the end of each financial year, submit to the Board—\n  (a) a report of its operations during that year;\n  (b) a copy of its audited accounts in respect of that year.\n(2) The obligations imposed by subsection (1) are in addition to those imposed by the Companies Act (Cap. 486), in the case of a collective management organisation that is a company.\n[Act No. 19 of 2015, s. 139, Act No. 20 of 2019, s. 32.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A collective management organisation shall, as soon as reasonably practicable after the end of each financial year, submit to the Board—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The obligations imposed by subsection (1) are in addition to those imposed by the Companies Act (Cap. 486), in the case of a collective management organisation that is a company."
+    }
+   ]
+  },
+  "48": {
+   "num": "48",
+   "title": "Appointment and duties of Copyright Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTIVE ADMINISTRATION OF COPYRIGHT",
+   "text": "(1) There shall be a Copyright Tribunal appointed by the Chief Justice for the purpose of exercising jurisdiction under this Act where any matter requires to be determined by such Tribunal.\n(2) The Copyright Tribunal shall consist of not less than three and not more than five persons, one of whom shall be an Advocate of not less than seven years standing or a person who has held judicial office in Kenya as Chairperson, appointed by the Chief Justice where any matters requires to be determined by the Tribunal.\n(3) No person shall be appointed under this section, nor shall any person so appointed act as a member of the Copyright Tribunal, if he, his partner, his employer body (whether statutory or not) of which he is a member has a pecuniary interest in any matter which requires to be determined by the Tribunal.\n(4) Subject to subsection (5), the Copyright Tribunal shall have jurisdiction to hear and determine—\n  (a) a dispute over registration of copyright; and\n  (b) an appeal against—\n  (i) the Board's refusal to grant a certificate of registration to a collective management organization;\n  (ii) imposition of unreasonable terms or conditions by the Board for the grant of a certificate of registration;\n  (iii) unreasonable refusal by a collective management organization to grant a licence in respect of a copyright work; or\n  (iv) imposition of unreasonable terms or conditions by a collective management organization for the grant of a licence in respect of a copyright work;\n(5) Before determining a matter referred to it under this section, the Copyright Tribunal shall, in accordance with such procedure as may be prescribed, give both parties an opportunity to present their respective cases, either in person or through representatives, both orally and in writing.\n(6) The Copyright Tribunal may order the grant of a certificate of registration or the grant of a license in respect of a copyright work subject to the payment of the applicable fees.\n[Act No. 11 of 2017, Sch., Act No. 19 of 2015, s. 140, Act No. 20 of 2019, s. 33.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Copyright Tribunal appointed by the Chief Justice for the purpose of exercising jurisdiction under this Act where any matter requires to be determined by such Tribunal."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Copyright Tribunal shall consist of not less than three and not more than five persons, one of whom shall be an Advocate of not less than seven years standing or a person who has held judicial office in Kenya as Chairperson, appointed by the Chief Justice where any matters requires to be determined by the Tribunal."
+    },
+    {
+     "ref": "(3)",
+     "text": "No person shall be appointed under this section, nor shall any person so appointed act as a member of the Copyright Tribunal, if he, his partner, his employer body (whether statutory or not) of which he is a member has a pecuniary interest in any matter which requires to be determined by the Tribunal."
+    },
+    {
+     "ref": "(4)",
+     "text": "Subject to subsection (5), the Copyright Tribunal shall have jurisdiction to hear and determine—"
+    },
+    {
+     "ref": "(5)",
+     "text": "Before determining a matter referred to it under this section, the Copyright Tribunal shall, in accordance with such procedure as may be prescribed, give both parties an opportunity to present their respective cases, either in person or through representatives, both orally and in writing."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Copyright Tribunal may order the grant of a certificate of registration or the grant of a license in respect of a copyright work subject to the payment of the applicable fees."
+    }
+   ]
+  },
+  "49": {
+   "num": "49",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) The Cabinet Secretary may make regulations generally for the better carrying into effect of the provisions of this Act, including the extension of its application.\n(2) Without prejudice to the generality of subsection (1) the regulations made under this section may—\n  (a) prescribe—\n  (i) the audit of collective management organizations;\n  (ii) the annual and special general meetings of collective management organizations;\n  (iii) guidelines on the gender representation and participation of persons with disability and other marginalized groups on the boards of collective management organizations;\n  (iv) the procedure of handling complaints made to the Board;\n  (iva) the fees for accessing the National Rights Registry;\n  (ivb) the format for registrations of the respective copyright works;\n  (ivc) the type of copyright works that are registrable with the National Rights Registry;\n  (ivd) anything necessary for the performance of the functions of the National Rights Registry;\n  (v) ratios of distributable income to administrative costs including deductions applicable to collective management organizations;\n  (vi) the manner of approval of distribution rules;\n  (vii) the manner of approval of cash reserves;\n  (viii) the manner of approval of membership to a collective management organization;\n  (ix) a system for the identification of copyright works and monitoring of payment, collection and distribution of royalties; and\n  (x) anything required by this Act to be prescribed;\n  (b) extend the application of this Act in respect of any or all of the works referred to in section 22(1)—\n  (i) to individuals or bodies corporate who are citizens of, domiciled or resident in or incorporated under the laws of Kenya or a country which is a party to a treaty to which Kenya is also a party and which provides for the protection of copyright and related rights in works to which the application of this Act extends;\n  (ii) to works, other than sound recordings, first published in Kenya or a country which is a party to a treaty to which Kenya is also a party and which provides for the protection of copyright and related rights in works to which the application of this Act extends; or\n  (iii) to sound recordings made or published in Kenya or a country which is a party to a treaty to which Kenya is also a party and which provides for the protection of copyright and related rights in works to which the application of this Act extends; and\n  (c) restrict the right to control the translation or the reproduction of a work up to the extent permitted by any Copyright Convention for the time being in force in Kenya:\nProvided that the work belongs to or is first published or first made in or first made available to the public by individuals or bodies corporate who are citizens of, domiciled or resident in or incorporated under laws of a country which is a party to a treaty, convention or international agreement which Kenya is a party to and which provides for the protection of copyright and related rights as Kenya.\n(3) For the purposes of Article 94 (6) of the Constitution—\n  (a) the purpose and objective of delegation under this section is to enable the Cabinet Secretary to make regulations to provide for the better carrying into effect of the provisions of this Act and to enable the Board to discharge its functions more effectively;\n  (b) the authority of the Cabinet Secretary to make regulations under this Act will be limited to bringing into effect the provisions of this Act and to fulfil the objectives specified under this section;\n  (c) the principles and standards applicable to the regulations made under this section are those set out in the Interpretation and General Provisions Act (Cap. 2) and the Statutory Instruments Act (Cap. 2A).\n[Act No. 11 of 2017, Sch., Act No. 19 of 2015, s. 141, Act No. 20 of 2019, s. 34, Act No. 14 of 2022, s. 5.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may make regulations generally for the better carrying into effect of the provisions of this Act, including the extension of its application."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1) the regulations made under this section may—"
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purposes of Article 94 (6) of the Constitution—"
+    }
+   ]
+  },
+  "50": {
+   "num": "50",
+   "title": "Application to works made before commencement of Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) This Act shall apply to—\n  (a) works, performances, sound recordings and broadcasts made prior to the commencement of this Act, where the term of protection had not expired under the former Act or under the legislation of the country of origin of such works;\n  (b) performances, sound recordings or broadcasts that are to be protected under an international treaty to which Kenya is a party.\n(2) This Act shall not affect contracts on works, performances, sound recordings and broadcasts concluded before the commencement of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "This Act shall apply to— (a) works, performances, sound recordings and broadcasts made prior to the commencement of this Act, where the term of protection had not expired under the former Act or under the legislation of the country of origin of such works; (b) performances, sound recordings or broadcasts that are to be protected under an international treaty to which Kenya is a party."
+    },
+    {
+     "ref": "(2)",
+     "text": "This Act shall not affect contracts on works, performances, sound recordings and broadcasts concluded before the commencement of this Act."
+    }
+   ]
+  },
+  "51": {
+   "num": "51",
+   "title": "Abrogation of common law rights",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "No copyright or right in the nature of copyright shall subsist otherwise than by virtue of this Act or of some other enactment in that behalf.",
+   "clauses": []
+  },
+  "52": {
+   "num": "52",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [s. 8(1)]",
+   "subtitle": "PROVISIONS AS TO THE CONDUCT OF BUSINESS AND AFFAIRS OF THE BOARD",
+   "text": "1. Tenure of office The chairperson or a member of the Board other than an ex officio member shall, subject to the provisions of this Schedule, hold office for a period of three years, on such terms and conditions as may be specified in the instrument of appointment, but shall be eligible for re-appointment.\n2. Vacation of office The chairperson or a member other than an ex officio member may—\n  (a) at any time resign from office by notice in writing to the Cabinet Secretary;\n  (b) be removed from office by the Cabinet Secretary on the recommendation of the Board if the member—\n  (i) has been absent from three consecutive meetings of the Board without the permission of the Board;\n  (ii) is convicted of a criminal offence and sentenced to imprisonment for a term exceeding six months or to a fine exceeding ten thousand shillings;\n  (iii) is incapacitated by prolonged physical or mental illness; or (iv) is otherwise unable or unfit to discharge his functions.\n3. Meetings (1) The Board shall meet not less than four times in every financial year and not more than four months shall elapse between the date of one meeting and the date of the next meeting. (2) Notwithstanding subparagraph (1), the chairperson may, and upon requisition in writing by at least five members shall, convene a special meeting of the Board at any time for the transaction of the business of the Board. (3) Unless three quarters of the total members of the Board otherwise agree, at least fourteen days’ written notice of every meeting of the Board shall be given to every member of the Board.\n(4) The quorum for the conduct of the business of the Board shall be seven members including the chairperson or the person presiding.\n(5) The chairperson shall preside at every meeting of the Board at which he is present but in his absence, the members present shall elect one of their number to preside, who shall, with respect to that meeting and the business transacted thereat, have all the powers of the chairperson.\n(6) Unless a unanimous decision is reached, a decision on any matter before the Board shall be by a majority of the votes of the members present and voting and in the case of an equality of votes, the chairperson or the person presiding shall have a second or casting vote.\n(7) Subject to paragraph (4), no proceedings of the Board shall be invalid by reason only of a vacancy among the members thereof.\n(8) Subject to the provisions of this Schedule, the Board may determine its own procedure and the procedure for any committee of the Board and for the attendance of other persons at its meetings and may make standing orders in respect thereof.\n4. Disclosure of interest\n(1) If a member is directly or indirectly interested in any contract, proposed contract or other matter before the Board and is present at a meeting of the Board at which the contract, proposed contract or other matter is the subject of consideration, he shall, at the meeting and as soon as reasonably practicable after the commencement thereof, disclose the fact and shall not take part in the consideration or discussion of, or vote on, any questions with respect to the contract or other matter, or be counted in the quorum of the meeting during consideration of the matter.\n(2) A disclosure of interest made under this paragraph shall be recorded in the minutes of the meeting at which it is made.\n5. The common seal The affixing of the common seal of the Board shall be authenticated by the signature of the chairperson and the Executive Director and any document not required by law to be made under seal and all decisions of the Board may be authenticated by the signatures of the chairperson and the Executive Director:\nProvided that the Board shall, in the absence of either the chairperson or the Executive Director in any particular matter, nominate one member to authenticate the seal on behalf of either the chairperson or the Executive Director.\n6. Contracts and instruments Any contract or instrument which, if entered into or executed by a person not being a body corporate, would not require to be under seal, may be entered into or executed on behalf of the Board by any person generally or specially authorised by the Board for that purpose."
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [s. 26(3), 26A(1), 26B, 29F(1)]",
+   "subtitle": "LIMITATION OF RIGHTS",
+   "text": "A. General exceptions and limitations 1. The exclusive rights under section 26 shall not include the right to control—\n  (a) the doing of any of those acts by way of fair dealing for the purposes of scientific research, private use, criticism or review, or the reporting of current events;\n  (b) the doing of any of the aforementioned acts by way of parody, pastiche or caricature;\n  (c) right to quote;\n  (d) any use made of a work for the purpose of a judicial proceeding or of any report of any such proceeding;\n  (e) the reproduction and distribution of copies or the inclusion in an audiovisual work or broadcast, of an artistic work situated in a place where it can be viewed by the public;\n  (f) the incidental inclusion of a copyright work in an artistic work, sound recording, audio visual work or broadcast;\n  (g) the reading or recitation in public or in a broadcast by one person of any reasonable extract from a published literary work if accompanied by a sufficient acknowledgement of the author.\n2. The above exceptions and limitations shall be subject to acknowledgement of the author(s).\nB. Educational Institutions 1. The exclusive rights under section 26 shall not include the right to control—\n  (a) the inclusion in a collection of literary or musical works of not more than one page from the work in question if the collection is designed for use in a school or any university established by or under any written law and includes an acknowledgement of the title and authorship of the work;\n  (b) the reprographic reproduction, for teaching in education institutions the activities of which do not serve direct or indirect commercial gain, of published articles, other short works or short extracts of works, to the extent justified by the purpose, provided that the act of reproduction is an isolated one occurring, if repeated, on separate and unrelated occasions, and there is no collective licence available, offered by a collective management organisation of which the educational institution should be aware, under which such reproduction can be made;\n  (c) the source of the work reproduced is sufficiently acknowledged;\n  (d) the broadcasting of a work if the broadcast is intended to be used for purposes of systematic instructional activities;\n  (e) the reproduction of a broadcast referred to in the preceding paragraph and the use of that reproduction in a school or any university established by or under any written law for the systematic instructional activities of any such school or university.\n2. Notwithstanding the above provisions, where there exists a licensed collective management organisation for reprographic rights, a reprographic license shall be obtained for any use over and above the limits set out herein and the tariff shall be agreed with users and published from time to time in accordance with section 46A.\nC. Libraries and Archives The exclusive rights under section 26 shall not include the right to control—\n  (a) the reproduction of a work by or under the direction or control of the Government, or by such public libraries or archives, noncommercial documentation and scientific institutions as may be prescribed, where the reproduction is in the public interest and no revenue is derived there from;\n  (b) the making of not more than one copy of a book (including a pamphlet, sheet music, map chart or plan) by or under the direction of—\n  (i) the person in charge of a public library for the use of the library; or\n  (ii) the archives for purposes of archiving and preservation, where such book is not available in Kenya.\nD. Broadcasting The exclusive rights under section 26 shall not include the right to control—\n  (a) the reproduction of a work by or under the direction or control of a broadcasting station where the reproduction or copies thereof are intended exclusively for broadcast by that broadcasting authority authorized by the copyright owner of the work and are destroyed before the end of the period of six calendar months immediately following the making of the reproduction or such longer period as may be agreed between the broadcasting authority and the owner of the relevant part of the copyright in the work:\nProvided that any reproduction of a work made under this paragraph may, if it is of an exceptional documentary nature, be preserved in the archives of the broadcasting authority, but, subject to the provisions of this Act, shall not be used for broadcasting or for any other purpose without the consent of the owner of the relevant part of the copyright in the work;\n  (b) the broadcasting of a literary, musical or artistic work or audiovisual works already lawfully made accessible to the public with which no licensing body referred to under section 46 is concerned:\nProvided that subject to the provisions of this paragraph, the owner of the broadcasting right in the work receives fair compensation determined, in the absence of agreement, by the Copyright Tribunal.\n[Act No. 20 of 2019, s. 35.]"
+  }
+ ],
+ "spent": {}
+}

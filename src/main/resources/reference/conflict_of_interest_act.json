@@ -1,0 +1,1170 @@
+{
+ "title": "Conflict of Interest Act",
+ "citation": "Act No. 11 of 2025",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2025/11/eng@2025-08-05",
+ "version_date": "2025-08-05",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "CONFLICT OF INTEREST ACT NO. 11 OF 2025 Published in Kenya Gazette on 5 August 2025 Assented to on 30 July 2025 Commenced on 19 August 2025 AN ACT of Parliament to provide for the management and regulation of conflict of interest and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ADMINISTRATION",
+   "provisions": [
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "CONFLICT OF INTEREST",
+   "provisions": [
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "COMPLIANCE MEASURES",
+   "provisions": [
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "COMPLAINTS AND CONDUCT OF INVESTIGATIONS",
+   "provisions": [
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "REPEALS, SAVINGS AND TRANSITIONAL PROVISIONS",
+   "provisions": [
+    "51",
+    "52",
+    "53"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Conflict of Interest Act, 2025.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— “accounting officer” has the meaning assigned to it under section 2 of the Public Finance Management Act (Cap. 412A); “Commission” means the Ethics and Anti-Corruption Commission established under section 3 of the Ethics and Anti-Corruption Commission Act (Cap. 7H); “complimentary treatment” means a treat offered free of charge as a favour or out of courtesy by a person who has significant official dealings with a public entity and includes offers for travel, holiday, hospitality, training, scholarship or medical treatment; \"conflict of interest’ means a conflict between the public duty and private interests of a public official, in which the public official has private capacity interests that could improperly influence the performance of his or her official duties and responsibilities; “family” means—\n  (a) the spouse, dependent child or parent of a public officer;\n  (b) a dependent child of the spouse of a public officer; and (c) a parent of the spouse of a public officer. “gainful employment” means work that a person pursues and performs for money or other form of compensation or remuneration; “official duty” means any task that a public officer is mandated to perform within the specific scope of his or her employment as defined by a contract of employment, an Act of Parliament or the Constitution; \"private interest” means a personal benefit, privilege, exemption or advantage that a public officer or a person affiliated to a public officer may gain from the office that the public officer holds and which may influence the judgement of the public officer in the exercise of a public duty, but does not include interest in a decision or matter that—\n  (a) is of general application;\n  (b) affects a public officer as a member of a broad class of persons; or (c) concerns the remuneration or benefits received by virtue of being a public officer;\n“public officer” has the meaning assigned to it by Article 260 of the Constitution;\n“registrable interests” means the interests set out in the Second Schedule;\n“relative” means a person who is related to a public officer by birth, marriage, adoption or affinity;\n“reporting authority” in relation to a public officer, means an office or body that is responsible for the public officer for the purposes of this Act and includes an accounting officer, a person who exercises executive control over the resources of the entity or any office or entity exercising a function delegated by the Commission;\n“reporting entity” means—\n  (a) a state organ;\n  (b) the national government or any organ or department of the national government;\n  (c) a county government or any organ or department of a county government;\n  (d) a state corporation within the meaning of State Corporations Act (Cap. 446);\n  (e) a public school within the meaning of the Basic Education Act (Cap. 211);\n  (f) a public university within the meaning of the Universities Act (Cap. 210);\n  (g) a company owned by the national government or a county government;\n  (h) a body that uses public assets in any form of contractual undertakings including public private partnerships;\n  (i) a company in which the national or county government has controlling shares in accordance with section 125 of the Companies Act;\n  (j) a college or other educational institution maintained or assisted out of public funds;\n  (k) an entity which renders a service involving the collection or administration of a levy, fee or funds authorized by legislation;\n  (l) any entity that uses public money in the delivery of government programmes or services, whether for profit or not;\n“responsible Commission” in relation to a public officer, means the entity determined under section 32 to be the responsible Commission in relation to a public officer;\n“significant official dealing” means an engagement with an entity by a public officer at a level which, in ordinary circumstances, and taking into account the totality of the circumstances, would be construed as capable of influencing the decision of the public officer in relation to the entity, including—\n  (a) engagement as an employee or agent of an entity;\n  (b) undertaking a consultancy for or on behalf of an entity;\n  (c) rendering of advice to an entity, whether directly or indirectly, and whether formally requested or not;\n  (d) any dealing with an entity in a contractual relationship for supply of goods, services or works; or\n  (e) any engagement where the public officer exercises regulatory or oversight functions over the affairs of the entity, in whatever form;\n“undeclared asset” means any asset that is not disclosed in the prescribed manner in any declaration year;\n“unexplained asset” means an asset of a person whose value is disproportionate to his or her known sources of income at or around that time and for which there is no satisfactory explanation; and\n\"windfall gain” includes unexpected income which may result from inheritance, lottery prizes, gambling winnings, payroll bonuses, proceeds from insurance claims, settlement from lawsuits, discoveries from treasure hunting or bounty rewards.",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "objects of the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) The object of this Act is to provide for the objects of the management of conflict of interest in the discharge of official duties.\n(2) Without prejudice to the generality of subsection (1), the objects of this Act are to—\n  (a) promote objectivity and impartiality in official decision making;\n  (b) ensure that the integrity of decision makers is not compromised by private interests;\n  (c) enhance integrity of public office and public confidence in the delivery of public services;\n  (d) provide a framework for the regulation and management of real, apparent or potential conflict between public interest and private interest;\n  (e) provide an institutional framework for the management of conflict of interest, (f) enhance accountability to the public for decisions and actions by public officers in execution of their duties; and (g) promote selfless service by public officers based solely on the public interest.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The object of this Act is to provide for the objects of the management of conflict of interest in the discharge of official duties."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), the objects of this Act are to— (a) promote objectivity and impartiality in official decision making; (b) ensure that the integrity of decision makers is not compromised by private interests; (c) enhance integrity of public office and public confidence in the delivery of public services; (d) provide a framework for the regulation and management of real, apparent or potential conflict between public interest and private interest; (e) provide an institutional framework for the management of conflict of interest, (f) enhance accountability to the public for decisions and actions by public officers in execution of their duties; and (g) promote selfless service by public officers based solely on the public interest."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Application of the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act shall apply to all reporting entities and public officers.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Administration of the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "This Act shall be administered by the Ethics and Anti-Corruption Commission.",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Functions of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "The functions of the Commission under this Act shall be to—\n  (a) oversee the management of conflict of interest for all public officers;\n  (b) develop an effective system for reporting violation of this Act;\n  (c) promote best practices and develop standards and guidelines for the management of conflict of interest;\n  (d) receive and process requests related to the management of conflict of interest;\n  (e) conduct inquiries on matters of conflict of interest and make recommendations to the relevant bodies;\n  (f) provide advisory opinions on conflict of interest on its own volition or on request by any person;\n  (g) conduct public awareness on the management of conflict of interest;\n  (h) analyse, seek for clarification and verify conflict of interest disclosures;\n  (i) institute proceedings for forfeiture of undeclared or unexplained assets; and\n  (j) develop policies, standards, guidelines and promote best practices for the management of conflict of interest.",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Powers of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "The Commission shall, in the performance of its functions under this Act, have the power to—\n  (a) conduct investigations on its own initiative or on a complaint made by a member of the public;\n  (b) request for and obtain professional assistance or advice from any person or organization as it considers appropriate;\n  (c) delegate to a reporting authority, any other person or body, by notice in the Gazette, any of its powers or functions under this Act in respect to classes of public officers specified by the Commission and that person or body shall be deemed to be responsible for the administration and management of conflict of interest; and (d) cooperate and collaborate with other public entities or agencies, any foreign governments and international or regional organizations in the management of conflict of interest and enforcement of this Act.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Conflict of interest",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "A public officer is in conflict of interest if—\n  (a) the public officer exercises an official power, duty or function to further his or her private interests or the private interests of another person;\n  (b) the private interests of the public officer can reasonably be perceived to impair or influence the public officer’s ability to act objectively in the performance of an official duty; or (c) the public officer has private interests that could conflict with the duties of the public officer in future.",
+   "clauses": []
+  },
+  "9": {
+   "num": "9",
+   "title": "Obligation to avoid conflict of interest",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "A public officer shall—\n  (a) take reasonable steps to avoid any real, apparent or potential conflict of interest in connection with the official duties of the public officer; and (b) disclose details of any private interest of the public officer that affects the official duties of the public officer.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Conflict of interest in decision making",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) A public officer shall not make a decision or participate in making a decision relating to the exercise of an official power or the performance of a duty or function if the public officer knows that, in the making of the decision, the officer would be in conflict of interest.\n(2) A person who contravenes subsection (1) commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public officer shall not make a decision or participate in making a decision relating to the exercise of an official power or the performance of a duty or function if the public officer knows that, in the making of the decision, the officer would be in conflict of interest."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who contravenes subsection (1) commits an offence."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Participation in proceedings before Parliament or county assembly",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) Subject to the Constitution or any other relevant written law, a member of Parliament or a member of a county assembly shall declare any direct pecuniary interest or benefit of whatever nature in any —\n  (a) debate or proceeding in the relevant House of Parliament or county assembly, as the case may be;\n  (b) debate or proceeding in any committee of the relevant House of Parliament or county assembly, as the case may be; or (c) transaction or communication which the member may have with another person or other members of the relevant House of Parliament or county assembly, as the case may be.\n(2) A member of Parliament or a member of a county assembly who makes a declaration under subsection (1) shall not use any information obtained by the member in the discharge of the member’s constitutional role to advance the member’s private interests.\n(3) The Speaker or a Chairperson of a committee of the relevant House of Parliament or county assembly may allow a member of Parliament or a member of a county assembly to speak to a matter under deliberation after considering the nature, extent, and effect of the interest declared under subsection (1).\n(4) A person who contravenes subsection (1) or subsection (2) commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the Constitution or any other relevant written law, a member of Parliament or a member of a county assembly shall declare any direct pecuniary interest or benefit of whatever nature in any — (a) debate or proceeding in the relevant House of Parliament or county assembly, as the case may be; (b) debate or proceeding in any committee of the relevant House of Parliament or county assembly, as the case may be; or (c) transaction or communication which the member may have with another person or other members of the relevant House of Parliament or county assembly, as the case may be."
+    },
+    {
+     "ref": "(2)",
+     "text": "A member of Parliament or a member of a county assembly who makes a declaration under subsection (1) shall not use any information obtained by the member in the discharge of the member’s constitutional role to advance the member’s private interests."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Speaker or a Chairperson of a committee of the relevant House of Parliament or county assembly may allow a member of Parliament or a member of a county assembly to speak to a matter under deliberation after considering the nature, extent, and effect of the interest declared under subsection (1)."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person who contravenes subsection (1) or subsection (2) commits an offence."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Preferential treatment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) A public officer shall not, in the exercise of an official power or in the performance of a duty or function, grant a person, whether directly or indirectly, any special consideration, treatment or advantage beyond what is allowed by law or written policy.\n(2) A person who contravenes subsection (1) commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public officer shall not, in the exercise of an official power or in the performance of a duty or function, grant a person, whether directly or indirectly, any special consideration, treatment or advantage beyond what is allowed by law or written policy."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who contravenes subsection (1) commits an offence."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Misuse of official information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) A public officer shall not, directly or indirectly, use or allow any person under the officer’s authority to use any information that is obtained in the course of performing official duties and is not available to the public to improperly further or seek to further the private interest of the officer or the interests of another person.\n(2) A person who contravenes subsection (1) commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public officer shall not, directly or indirectly, use or allow any person under the officer’s authority to use any information that is obtained in the course of performing official duties and is not available to the public to improperly further or seek to further the private interest of the officer or the interests of another person."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who contravenes subsection (1) commits an offence."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Undue influence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) A public officer shall not use his or her position to influence the decision of another person or another public officer so as to further his or her private interests or the private interests of another person.\n(2) A person who contravenes subsection (1) commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public officer shall not use his or her position to influence the decision of another person or another public officer so as to further his or her private interests or the private interests of another person."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who contravenes subsection (1) commits an offence."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Offers of outside employment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) A public officer shall—\n  (a) not allow himself or herself to be influenced in the exercise of an official power or performance of a duty or function by plans for or any offer of outside employment; and (b) disclose in writing to the reporting authority any offer of outside employment that could place the officer in a situation of conflict of interest, within seven days of receiving the offer.\n(2) A public officer who accepts an offer of outside employment shall, within seven days of acceptance, disclose his or her acceptance of the offer in writing to the reporting authority.\n(3) For purposes of this section “offer of outside employment” means a formal proposal made to a public officer to work for or privately do business with an entity which has official dealings with the reporting entity which the public officer is serving.\n(4) A person who contravenes subsection (1) or subsection (2) commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public officer shall— (a) not allow himself or herself to be influenced in the exercise of an official power or performance of a duty or function by plans for or any offer of outside employment; and (b) disclose in writing to the reporting authority any offer of outside employment that could place the officer in a situation of conflict of interest, within seven days of receiving the offer."
+    },
+    {
+     "ref": "(2)",
+     "text": "A public officer who accepts an offer of outside employment shall, within seven days of acceptance, disclose his or her acceptance of the offer in writing to the reporting authority."
+    },
+    {
+     "ref": "(3)",
+     "text": "For purposes of this section “offer of outside employment” means a formal proposal made to a public officer to work for or privately do business with an entity which has official dealings with the reporting entity which the public officer is serving."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person who contravenes subsection (1) or subsection (2) commits an offence."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Gifts and other benefits",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) A public officer shall not accept or request a gift or favour from a person who—\n  (a) has an interest that may be affected by the carrying out, or not carrying out, of the public officer’s duties;\n  (b) carries on regulated activities with respect to which the public officer’s organisation has a role; or\n  (c) has a contractual or similar relationship with the public officer’s organisation.\n(2) Notwithstanding subsection (1), a public officer may receive a gift given in an official capacity, provided that the gift—\n  (a) is received as a normal expression of courtesy or protocol;\n  (b) is within the customary standards that normally accompany the public officer’s position;\n  (c) is not monetary; or\n  (d) does not exceed such value as may be prescribed.\n(3) Subject to subsection (2), if a public officer accepts any gift or benefit, the public officer shall, within forty-eight hours of acceptance of such gift or benefit, or, if not on duty, within forty-eight hours of resumption of duty, make a declaration of such acceptance, giving sufficient details of the nature of the gift or other benefit accepted, the donor and the circumstances under which it was accepted.\n(4) Where a public officer has knowledge that a family member or a relative has accepted a gift or favour under subsection (1), the public officer shall, within forty-eight hours of such knowledge, or, if not on duty, within forty-eight hours of resumption of duty, make a declaration of the acceptance giving sufficient details of the nature of the gift or favour accepted, the donor and the circumstances under which it was accepted for purposes of assessment of potential conflict of interest.\n(5) A person who contravenes this section commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public officer shall not accept or request a gift or favour from a person who—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding subsection (1), a public officer may receive a gift given in an official capacity, provided that the gift—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to subsection (2), if a public officer accepts any gift or benefit, the public officer shall, within forty-eight hours of acceptance of such gift or benefit, or, if not on duty, within forty-eight hours of resumption of duty, make a declaration of such acceptance, giving sufficient details of the nature of the gift or other benefit accepted, the donor and the circumstances under which it was accepted."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where a public officer has knowledge that a family member or a relative has accepted a gift or favour under subsection (1), the public officer shall, within forty-eight hours of such knowledge, or, if not on duty, within forty-eight hours of resumption of duty, make a declaration of the acceptance giving sufficient details of the nature of the gift or favour accepted, the donor and the circumstances under which it was accepted for purposes of assessment of potential conflict of interest."
+    },
+    {
+     "ref": "(5)",
+     "text": "A person who contravenes this section commits an offence."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Register of gifts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "Every reporting authority shall maintain a register of-\n  (a) gifts received by any person serving in the reporting entity; and\n  (b) gifts given by the reporting entity to any person.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Complimentary treatment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) A public officer shall not accept any complimentary treatment for any purpose unless the complimentary treatment offered is required in his or her official capacity or in exceptional circumstances.\n(2) Where a public officer accepts a complimentary treatment in the exceptional circumstances referred to in subsection (1), the public officer shall, within forty-eight hours of acceptance of the complimentary treatment, or, if not on duty, within forty-eight hours of resumption of duty, make a declaration of such acceptance, giving sufficient detail on—\n  (a) the nature of the complimentary treatment accepted;\n  (b) the donor; and\n  (c) the circumstances under which the complimentary treatment was accepted.\n(3) Where a public officer has knowledge that a family member or a relative has accepted a complimentary treatment in the exceptional circumstances contemplated under subsection (1), the public officer shall, within forty-eight hours of such knowledge, or, if not on duty, within forty-eight hours of resumption of duty, make a declaration of die acceptance, giving sufficient details of the nature of the complimentary treatment accepted, the donor and the circumstances under which it was accepted for purposes of assessment of potential conflict of interest.\n(4) A person who contravenes this section commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public officer shall not accept any complimentary treatment for any purpose unless the complimentary treatment offered is required in his or her official capacity or in exceptional circumstances."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a public officer accepts a complimentary treatment in the exceptional circumstances referred to in subsection (1), the public officer shall, within forty-eight hours of acceptance of the complimentary treatment, or, if not on duty, within forty-eight hours of resumption of duty, make a declaration of such acceptance, giving sufficient detail on—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a public officer has knowledge that a family member or a relative has accepted a complimentary treatment in the exceptional circumstances contemplated under subsection (1), the public officer shall, within forty-eight hours of such knowledge, or, if not on duty, within forty-eight hours of resumption of duty, make a declaration of die acceptance, giving sufficient details of the nature of the complimentary treatment accepted, the donor and the circumstances under which it was accepted for purposes of assessment of potential conflict of interest."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person who contravenes this section commits an offence."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Contracts with public entities prohibited",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) A public officer shall not be a party to or beneficiary of a contract for the supply of goods, works or services with his or her reporting entity.\n(2) A public officer shall not be a party to or beneficiary of a contract for the disposal of goods with his or her reporting entity.\n(3) A public officer shall not, in the exercise of official power, duty or function, award or influence the award of a contract in which the officer has a private interest.\n(4) A person who contravenes any provision of this section commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public officer shall not be a party to or beneficiary of a contract for the supply of goods, works or services with his or her reporting entity."
+    },
+    {
+     "ref": "(2)",
+     "text": "A public officer shall not be a party to or beneficiary of a contract for the disposal of goods with his or her reporting entity."
+    },
+    {
+     "ref": "(3)",
+     "text": "A public officer shall not, in the exercise of official power, duty or function, award or influence the award of a contract in which the officer has a private interest."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person who contravenes any provision of this section commits an offence."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Acquisition of interest in partnerships and private companies",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) A public officer shall not acquire an interest in a partnership, private company or any other legal entity that is a party to a contract with any reporting entity which the partnership, private company or legal entity receives a benefit.\n(2) Subsection (1) shall not apply to interests acquired through trading in the regulated financial markets provided that the public officer shall not acquire controlling shares in the entity.\n(3) A person who contravenes subsection (1) commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public officer shall not acquire an interest in a partnership, private company or any other legal entity that is a party to a contract with any reporting entity which the partnership, private company or legal entity receives a benefit."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subsection (1) shall not apply to interests acquired through trading in the regulated financial markets provided that the public officer shall not acquire controlling shares in the entity."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who contravenes subsection (1) commits an offence."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Conflict in recruitment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) A public officer shall not—\n  (a) participate in or influence a recruitment and selection process in which the public officer has a private interest; or\n  (b) canvass for a candidate in a recruitment and selection process in which the public officer has a private interest.\n(2) Subsection (1) shall not apply to appointment of personal staff permitted to the public officer as may be prescribed.\n(3) A person who contravenes subsection (1) commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public officer shall not—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Subsection (1) shall not apply to appointment of personal staff permitted to the public officer as may be prescribed."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who contravenes subsection (1) commits an offence."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Collusion by public officers to conceal conflict of interest",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) A public officer shall not enter into an arrangement with a public officer of another reporting entity in furtherance of an action which would amount to concealing conflict of interest.\n(2) A person who contravenes subsection (1) commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public officer shall not enter into an arrangement with a public officer of another reporting entity in furtherance of an action which would amount to concealing conflict of interest."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who contravenes subsection (1) commits an offence."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Restricted gainful employment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) A public officer shall, while serving in a reporting entity, not engage in any other gainful employment which—\n  (a) is inherently incompatible with the official duties of the public officer;\n  (b) results in the impairment of judgment of the public officer in the execution of official duties;\n  (c) results in conflict of interest; or (d) the public officer is mandated to regulate or exercise oversight.\n(2) Where a public officer engages in gainful employment which is not prohibited under this Act, the officer shall, within thirty days of taking up the employment, make a declaration of the employment in the prescribed form and register the declaration with the reporting authority and the Commission.\n(3) A public officer shall not engage in any other gainful employment without permission from the reporting authority.\n(4) A person who contravenes any provision of this section commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public officer shall, while serving in a reporting entity, not engage in any other gainful employment which— (a) is inherently incompatible with the official duties of the public officer; (b) results in the impairment of judgment of the public officer in the execution of official duties; (c) results in conflict of interest; or (d) the public officer is mandated to regulate or exercise oversight."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a public officer engages in gainful employment which is not prohibited under this Act, the officer shall, within thirty days of taking up the employment, make a declaration of the employment in the prescribed form and register the declaration with the reporting authority and the Commission."
+    },
+    {
+     "ref": "(3)",
+     "text": "A public officer shall not engage in any other gainful employment without permission from the reporting authority."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person who contravenes any provision of this section commits an offence."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Register of conflict of interest",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) The reporting authority of a reporting entity shall maintain a register of conflict of interest in the prescribed manner.\n(2) The register referred to in subsection (1) shall—\n  (a) contain the particulars of the registrable interests of a public officer set out in the Second Schedule;\n  (b) state the nature and extent of a conflict; and (c) be open to the public, subject to the provisions of the Access to Information Act (Cap. 7M), for inspection.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The reporting authority of a reporting entity shall maintain a register of conflict of interest in the prescribed manner."
+    },
+    {
+     "ref": "(2)",
+     "text": "The register referred to in subsection (1) shall— (a) contain the particulars of the registrable interests of a public officer set out in the Second Schedule; (b) state the nature and extent of a conflict; and (c) be open to the public, subject to the provisions of the Access to Information Act (Cap. 7M), for inspection."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Political neutrality",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) An appointed public officer, other than a Cabinet Secretary or a member of a County Executive Committee, shall not, in the performance of his duties—\n  (a) act as an agent for, or further the political interests of a political party or political candidate;\n  (b) manifest support for or opposition to any political interests of a political party or political candidate; or (c) engage in political activity that may compromise or be seen to compromise the political neutrality of his or her office.\n(2) A person who contravenes subsection (1) commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An appointed public officer, other than a Cabinet Secretary or a member of a County Executive Committee, shall not, in the performance of his duties— (a) act as an agent for, or further the political interests of a political party or political candidate; (b) manifest support for or opposition to any political interests of a political party or political candidate; or (c) engage in political activity that may compromise or be seen to compromise the political neutrality of his or her office."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who contravenes subsection (1) commits an offence."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Public collections",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) An appointed public officer shall not—\n  (a) solicit for contributions from the public unless the President has, by notice in the Gazette, declared a national disaster and allowed a public collection for the purpose of the national disaster;\n  (b) participate in collection of funds from the public, either as a collector or promoter in a way that reflects adversely on the integrity and impartiality of the public officer or interferes with the performance of the duties of the public officer; or\n  (c) use official social media platforms or his or her place of work as a venue for soliciting or collecting funds.\n(2) A public officer shall not use his or her official position to solicit funds or coerce any person to contribute towards a private fund collection.\n(3) A person who contravenes subsection (1) or subsection (2) commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An appointed public officer shall not—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A public officer shall not use his or her official position to solicit funds or coerce any person to contribute towards a private fund collection."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who contravenes subsection (1) or subsection (2) commits an offence."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Prohibitions after leaving office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) A former public officer shall not—\n  (a) act for or on behalf of any person in connection with any specific proceeding, transaction, negotiation or case in which the State is a party and with respect to which the former public officer had acted for, or provided advice to the State;\n  (b) be engaged by or act for or against his or her former employer for at least two years after ceasing to be a public officer;\n  (c) use information obtained in his or her official capacity and which is not available to the public to further the interests of another person or entity; or\n  (d) accept any appointment to a board of directors of, or employment with, a private entity with which the public officer had significant official dealings during the period of two years immediately preceding the termination of his or her service.\n(2) The official dealings referred to in subsection (1)(d), may be either directly on the part of the public officer or through private affiliations.\n(3) A person who contravenes subsection (1) commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A former public officer shall not—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The official dealings referred to in subsection (1)(d), may be either directly on the part of the public officer or through private affiliations."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who contravenes subsection (1) commits an offence."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Prohibition against representing people before reporting entities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "A former public officer shall not, during the period of two years immediately after the termination of service represent or defend any person, whether for remuneration or not, before any reporting entity with which the former public officer had direct and significant official dealings.",
+   "clauses": []
+  },
+  "29": {
+   "num": "29",
+   "title": "Exemption of former public officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CONFLICT OF INTEREST",
+   "text": "(1) A former public officer may, upon making an application in writing, be exempted by the Commission from the provisions of section 27 and 28, on the grounds that—\n  (a) the former public officer was not directly involved in decision making in the reporting entity;\n  (b) the former public officer had no access to important policy information in the reporting entity; or\n  (c) the former public officer possesses expertise that is rare in the public service.\n(2) The Commission shall, within thirty days from the date of the application, in writing, communicate the decision made to the former public officer who applied for the exemption.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A former public officer may, upon making an application in writing, be exempted by the Commission from the provisions of section 27 and 28, on the grounds that—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Commission shall, within thirty days from the date of the application, in writing, communicate the decision made to the former public officer who applied for the exemption."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Duty to recuse",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "COMPLIANCE MEASURES",
+   "text": "(1) A public officer shall recuse himself or herself from any discussion, decision, debate or vote on any matter in respect of which the public officer would be in conflict of interest.\n(2) Where a public officer recuses himself or herself under subsection (1)—\n  (a) the recusal shall be recorded in the minutes of the transaction in question; and (b) a reporting entity shall, within sixty days after a day on which a recusal took place, transmit a declaration of the recusal to the Commission in the prescribed form.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public officer shall recuse himself or herself from any discussion, decision, debate or vote on any matter in respect of which the public officer would be in conflict of interest."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a public officer recuses himself or herself under subsection (1)— (a) the recusal shall be recorded in the minutes of the transaction in question; and (b) a reporting entity shall, within sixty days after a day on which a recusal took place, transmit a declaration of the recusal to the Commission in the prescribed form."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Declaration of income, assets and liabilities by public officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "COMPLIANCE MEASURES",
+   "text": "(1) Every public officer shall submit to their responsible Commission a declaration of his or her income, assets and liabilities and the income, assets and liabilities of his or her spouse and dependent children under the age of eighteen years.\n(2) The declaration referred to under subsection (1), shall be in the Form set out in the First Schedule. (3) Notwithstanding the generality of subsection (1), a public officer shall in a periodical or final declaration provide information on any material change in, or changes affecting any of the categories of income, assets or liabilities in the schedule of mandatory declarations that have occurred within the two-year period prior to the declaration. (4) For purposes of this section, “material change” means—\n  (a) at least twenty-five percent increase or decrease in the value of an income, asset or liability;\n  (b) the disposal or acquisition of an asset or liability;\n  (c) changes in marital status;\n  (d) appointment to or changes in directorships;\n  (e) changes in membership in companies or partnerships and other legal entities howsoever established; or (f) changes in membership in social associations, societies, clubs, foundations or trusts.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every public officer shall submit to their responsible Commission a declaration of his or her income, assets and liabilities and the income, assets and liabilities of his or her spouse and dependent children under the age of eighteen years."
+    },
+    {
+     "ref": "(2)",
+     "text": "The declaration referred to under subsection (1), shall be in the Form set out in the First Schedule. (3) Notwithstanding the generality of subsection (1), a public officer shall in a periodical or final declaration provide information on any material change in, or changes affecting any of the categories of income, assets or liabilities in the schedule of mandatory declarations that have occurred within the two-year period prior to the declaration. (4) For purposes of this section, “material change” means—"
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Determination of responsible Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "COMPLIANCE MEASURES",
+   "text": "(1) This section determines what body is the responsible Commission for a public officer for the purposes of this Act.\n(2) The committee of the National Assembly responsible for the ethics of members is the responsible Commission for—\n  (a) the Cabinet;\n  (b) Members of the National Assembly;\n  (c) the Director of Public Prosecutions;\n  (d) the Secretary to the Cabinet;\n  (e) members of the Judicial Service Commission;\n  (f) members of commissions and independent offices specified under Chapter Fifteen of the Constitution; and\n  (g) members of the Ethics and Anti-Corruption Commission and staff of the Commission holding the rank of Deputy Director and above.\n(3) The committee of the Senate responsible for the ethics of members is the responsible Commission for Senators.\n(4) The committee of a county assembly responsible for the ethics of members is the responsible Commission for—\n  (a) its respective county executive committee;\n  (b) members of the county assembly; and\n  (c) members and the secretary of its respective County Public Service Board.\n(5) The Public Service Commission is the responsible Commission for—\n  (a) principal secretaries;\n  (b) high commissioners, ambassadors and diplomatic and consular representatives;\n  (c) public officers in respect of which it exercises appointive and disciplinary control, including advisors and personal staff; and\n  (d) public officers who are officers, employees or members of state corporations that are public bodies.\n(6) A County Public Service Board is the responsible Commission for—\n  (a) public officers in respect of which it exercises appointive and disciplinary control, including advisors and personal staff; and\n  (b) public officers who are officers, employees or members of county corporations and entities that are public bodies.\n(7) The Judicial Service Commission is the responsible Commission for judges, magistrates and the public officers in respect of which it exercises disciplinary control.\n(8) The Parliamentary Service Commission is the responsible Commission for the public officers in respect of which it exercises disciplinary control.\n(9) A County Assembly Service Board is the responsible Commission for the public officers in respect of which it exercises disciplinary control.\n(10) The Teachers Service Commission established under the Teachers Service Commission Act (Cap. 212) is the responsible Commission for teachers registered under that Act.\n(11) The Defence Council established under Article 241(5) of the Constitution is the responsible Commission for members of the Kenya Defence Forces.\n(12) The National Intelligence Service Council established under the National Intelligence Service Act (Cap. 206) is the responsible Commission for members of the National Intelligence Service established under that Act.\n(13) The National Police Service Commission is the responsible Commission for members of the National Police Service.\n(14) The Witness Protection Advisory Board established under the Witness Protection Act shall be the responsible commission for the members of the Witness Protection Agency established under that Act.\n(15) The responsible Commission for a public officer for which no responsible Commission is otherwise specified under this section is the commission, committee or other body prescribed by regulations.\n(16) A body that is the responsible Commission for a public officer by virtue of exercising disciplinary control over that public officer remains the responsible Commission notwithstanding the delegation of any disciplinary powers with respect to that public officer.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "This section determines what body is the responsible Commission for a public officer for the purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The committee of the National Assembly responsible for the ethics of members is the responsible Commission for— (a) the Cabinet; (b) Members of the National Assembly; (c) the Director of Public Prosecutions; (d) the Secretary to the Cabinet; (e) members of the Judicial Service Commission;"
+    },
+    {
+     "ref": "(3)",
+     "text": "The committee of the Senate responsible for the ethics of members is the responsible Commission for Senators."
+    },
+    {
+     "ref": "(4)",
+     "text": "The committee of a county assembly responsible for the ethics of members is the responsible Commission for—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The Public Service Commission is the responsible Commission for—"
+    },
+    {
+     "ref": "(6)",
+     "text": "A County Public Service Board is the responsible Commission for—"
+    },
+    {
+     "ref": "(7)",
+     "text": "The Judicial Service Commission is the responsible Commission for judges, magistrates and the public officers in respect of which it exercises disciplinary control."
+    },
+    {
+     "ref": "(8)",
+     "text": "The Parliamentary Service Commission is the responsible Commission for the public officers in respect of which it exercises disciplinary control."
+    },
+    {
+     "ref": "(9)",
+     "text": "A County Assembly Service Board is the responsible Commission for the public officers in respect of which it exercises disciplinary control."
+    },
+    {
+     "ref": "(10)",
+     "text": "The Teachers Service Commission established under the Teachers Service Commission Act (Cap. 212) is the responsible Commission for teachers registered under that Act."
+    },
+    {
+     "ref": "(11)",
+     "text": "The Defence Council established under Article 241(5) of the Constitution is the responsible Commission for members of the Kenya Defence Forces."
+    },
+    {
+     "ref": "(12)",
+     "text": "The National Intelligence Service Council established under the National Intelligence Service Act (Cap. 206) is the responsible Commission for members of the National Intelligence Service established under that Act."
+    },
+    {
+     "ref": "(13)",
+     "text": "The National Police Service Commission is the responsible Commission for members of the National Police Service."
+    },
+    {
+     "ref": "(14)",
+     "text": "The Witness Protection Advisory Board established under the Witness Protection Act shall be the responsible commission for the members of the Witness Protection Agency established under that Act."
+    },
+    {
+     "ref": "(15)",
+     "text": "The responsible Commission for a public officer for which no responsible Commission is otherwise specified under this section is the commission, committee or other body prescribed by regulations."
+    },
+    {
+     "ref": "(16)",
+     "text": "A body that is the responsible Commission for a public officer by virtue of exercising disciplinary control over that public officer remains the responsible Commission notwithstanding the delegation of any disciplinary powers with respect to that public officer."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Certain delegations by Public Service Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "COMPLIANCE MEASURES",
+   "text": "(1) Subject to subsection (2), the Public Service Commission may, by notice in the Gazette delegate to another person or body any of its powers and functions in relation to declarations of income, assets and liabilities and enforcement of the code of conduct and with respect to specified classes of public officers over which it is the responsible Commission.\n(2) The Public Service Commission may delegate powers and functions only with respect to public officers in a job group below job group “M” or its equivalent.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2), the Public Service Commission may, by notice in the Gazette delegate to another person or body any of its powers and functions in relation to declarations of income, assets and liabilities and enforcement of the code of conduct and with respect to specified classes of public officers over which it is the responsible Commission."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Public Service Commission may delegate powers and functions only with respect to public officers in a job group below job group “M” or its equivalent."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Timelines for declaration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "COMPLIANCE MEASURES",
+   "text": "(1) A public officer shall, within thirty days of appointment as a public officer, submit an initial declaration relating to his or her financial affairs for the period of one year prior to appointment.\n(2) Every public officer shall, once every two years within the period of service, submit a declaration relating to the financial affairs of the public officer as at first day of November of the declaration year, and such declaration shall be made within the month of December next following.\n(3) A public officer shall, within thirty days after ceasing to be a public officer, submit a final declaration relating to his financial affairs as at the date he ceases to be a public officer.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public officer shall, within thirty days of appointment as a public officer, submit an initial declaration relating to his or her financial affairs for the period of one year prior to appointment."
+    },
+    {
+     "ref": "(2)",
+     "text": "Every public officer shall, once every two years within the period of service, submit a declaration relating to the financial affairs of the public officer as at first day of November of the declaration year, and such declaration shall be made within the month of December next following."
+    },
+    {
+     "ref": "(3)",
+     "text": "A public officer shall, within thirty days after ceasing to be a public officer, submit a final declaration relating to his financial affairs as at the date he ceases to be a public officer."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Clarification",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "COMPLIANCE MEASURES",
+   "text": "(1) Upon receipt of the declaration made under section 31, a responsible Commission shall analyse the declaration to ascertain—\n  (a) whether the declaration raises possible issues of conflict of interest;\n  (b) whether on the face of it, the declaration contains any discrepancy or inconsistency; and\n  (c) its completeness and correctness.\n(2) The responsible Commission may, within six months of receipt of a declaration, request, in writing, for clarification from the public officer who submitted the declaration under section 31.\n(3) A public officer from whom clarification is sought under sub section (2) shall, within thirty days of receipt of the request, provide the clarification to the Commission.\n(4) A request for clarification may include a requirement that—\n  (a) the omitted information be provided; or\n  (b) any discrepancy or inconsistency, including a discrepancy or inconsistency arising out of the omission, be explained or corrected.\n(5) The responsible Commission may verify any information provided in the declaration.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Upon receipt of the declaration made under section 31, a responsible Commission shall analyse the declaration to ascertain—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The responsible Commission may, within six months of receipt of a declaration, request, in writing, for clarification from the public officer who submitted the declaration under section 31."
+    },
+    {
+     "ref": "(3)",
+     "text": "A public officer from whom clarification is sought under sub section (2) shall, within thirty days of receipt of the request, provide the clarification to the Commission."
+    },
+    {
+     "ref": "(4)",
+     "text": "A request for clarification may include a requirement that—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The responsible Commission may verify any information provided in the declaration."
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Access to declarations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "COMPLIANCE MEASURES",
+   "text": "(1) Subject to subsection (2), the contents of a declaration or clarification under this Act shall be accessible to any person upon application to the responsible Commission in the prescribed manner if the applicant shows to the satisfaction of the responsible Commission that he or she has a legitimate interest and good cause in furtherance of the objectives of this Act, in such declaration or clarification. (2) Notwithstanding subsection (1), a law enforcement agency shall, after due process, have access to the disclosures and compliance reports made by a public officer under this Act. (3) The responsible Commission shall, before making an affirmative decision under this section, grant the affected party an opportunity to make representations on the matter. (4) Any person who—\n  (a) publishes or in any way makes public any information obtained under this section without prior permission of the responsible Commission; or\n  (b) knowingly republishes or otherwise disseminates discloses to another person information to which this section relates where—\n  (i) such information was disclosed to himself or herself or to some other person; or (ii) such information was obtained contravention of this Act, commits an offence and shall on conviction be liable to a fine not exceeding one million shillings or to imprisonment for a term not exceeding two years, or both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2), the contents of a declaration or clarification under this Act shall be accessible to any person upon application to the responsible Commission in the prescribed manner if the applicant shows to the satisfaction of the responsible Commission that he or she has a legitimate interest and good cause in furtherance of the objectives of this Act, in such declaration or clarification. (2) Notwithstanding subsection (1), a law enforcement agency shall, after due process, have access to the disclosures and compliance reports made by a public officer under this Act. (3) The responsible Commission shall, before making an affirmative decision under this section, grant the affected party an opportunity to make representations on the matter. (4) Any person who—"
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Retention of information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "COMPLIANCE MEASURES",
+   "text": "The responsible Commission shall keep information collected under this Act concerning a person for at least five years after the person ceases to be a public officer.",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "Failure to submit information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "COMPLIANCE MEASURES",
+   "text": "A public officer who fails to submit any information required under this Act, within the prescribed period, commits an offence.",
+   "clauses": []
+  },
+  "39": {
+   "num": "39",
+   "title": "False information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "COMPLIANCE MEASURES",
+   "text": "A public officer who submits information that the public officer knows, or ought to know, is false or misleading, commits an offence.",
+   "clauses": []
+  },
+  "40": {
+   "num": "40",
+   "title": "Publication of administrative mechanisms",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "COMPLIANCE MEASURES",
+   "text": "The Commission shall, within twelve months after the commencement of this Act, develop and publish in the Gazette, administrative mechanisms for the implementation of the requirements of this Part.",
+   "clauses": []
+  },
+  "41": {
+   "num": "41",
+   "title": "Lodging of complaints and investigations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COMPLAINTS AND CONDUCT OF INVESTIGATIONS",
+   "text": "(1) A person who alleges that a public officer has contravened any provision of this Act may lodge a complaint with the reporting authority or the Commission and the report shall be recorded in a register of complaints.\n(2) The reporting authority or the Commission may investigate the complaint and determine whether the public officer has contravened this Act.\n(3) A reporting authority and the Commission shall not conduct concurrent investigations over the same complaint: Provided that an investigation commenced against a public officer shall be concluded within ninety days.\n(4) A reporting authority or the Commission may initiate an investigation on its own volition.\n(5) A public officer who is under investigation under this section shall be informed of the allegations made and shall be given a reasonable opportunity to make a representation relating to the issue before the investigation is concluded.\n(6) A person who lodges a complaint against a public officer shall be informed of any action taken or to be taken in respect of the complaint.\n(7) Where an investigation under this section is initiated while the public officer is in office, the investigations may be continued even after the public officer has ceased to be in office.\n(8) The reporting entity or a reporting authority may take disciplinary action against a public officer serving in a reporting entity.\n(9) Where a reporting entity is unable to conduct or conclude an investigation against a public officer, the reporting authority may refer the matter to the Commission.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who alleges that a public officer has contravened any provision of this Act may lodge a complaint with the reporting authority or the Commission and the report shall be recorded in a register of complaints."
+    },
+    {
+     "ref": "(2)",
+     "text": "The reporting authority or the Commission may investigate the complaint and determine whether the public officer has contravened this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "A reporting authority and the Commission shall not conduct concurrent investigations over the same complaint: Provided that an investigation commenced against a public officer shall be concluded within ninety days."
+    },
+    {
+     "ref": "(4)",
+     "text": "A reporting authority or the Commission may initiate an investigation on its own volition."
+    },
+    {
+     "ref": "(5)",
+     "text": "A public officer who is under investigation under this section shall be informed of the allegations made and shall be given a reasonable opportunity to make a representation relating to the issue before the investigation is concluded."
+    },
+    {
+     "ref": "(6)",
+     "text": "A person who lodges a complaint against a public officer shall be informed of any action taken or to be taken in respect of the complaint."
+    },
+    {
+     "ref": "(7)",
+     "text": "Where an investigation under this section is initiated while the public officer is in office, the investigations may be continued even after the public officer has ceased to be in office."
+    },
+    {
+     "ref": "(8)",
+     "text": "The reporting entity or a reporting authority may take disciplinary action against a public officer serving in a reporting entity."
+    },
+    {
+     "ref": "(9)",
+     "text": "Where a reporting entity is unable to conduct or conclude an investigation against a public officer, the reporting authority may refer the matter to the Commission."
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "Discretion in investigations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COMPLAINTS AND CONDUCT OF INVESTIGATIONS",
+   "text": "(1) Despite section 41, the Commission or a reporting authority shall not commence investigations if—\n  (a) the subject matter of the request does not disclose an issue of conflict of interest under this Act;\n  (b) the subject matter of the request has been adequately dealt with, or could more appropriately be dealt with according to a procedure provided for under another Act of Parliament; or\n  (c) the substance of the request is frivolous, vexatious or made in bad faith.\n(2) If the Commission or a reporting authority declines to commence investigations, the Commission or reporting authority shall inform the person who lodged the complaint and give reasons for the decision.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Despite section 41, the Commission or a reporting authority shall not commence investigations if—"
+    },
+    {
+     "ref": "(2)",
+     "text": "If the Commission or a reporting authority declines to commence investigations, the Commission or reporting authority shall inform the person who lodged the complaint and give reasons for the decision."
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Suspension from office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COMPLAINTS AND CONDUCT OF INVESTIGATIONS",
+   "text": "(1) Subject to the Constitution and any written law, a public officer may be suspended from office with full pay pending the investigation and determination of allegations made against that officer where such suspension is considered necessary.\n(2) Despite subsection (1), the period of suspension of a State officer or public officer shall not exceed ninety days.\n(3) If the Commission or a reporting authority fails to conclude the investigations within ninety days, the investigations shall be deemed to have been concluded at the expiry of the ninety days and the officer shall resume his or her duties.\n(4) Despite subsection (3), a court of competent jurisdiction may make an order extending the period for conducting investigations.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the Constitution and any written law, a public officer may be suspended from office with full pay pending the investigation and determination of allegations made against that officer where such suspension is considered necessary."
+    },
+    {
+     "ref": "(2)",
+     "text": "Despite subsection (1), the period of suspension of a State officer or public officer shall not exceed ninety days."
+    },
+    {
+     "ref": "(3)",
+     "text": "If the Commission or a reporting authority fails to conclude the investigations within ninety days, the investigations shall be deemed to have been concluded at the expiry of the ninety days and the officer shall resume his or her duties."
+    },
+    {
+     "ref": "(4)",
+     "text": "Despite subsection (3), a court of competent jurisdiction may make an order extending the period for conducting investigations."
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Recommendations of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COMPLAINTS AND CONDUCT OF INVESTIGATIONS",
+   "text": "(1) The Commission may, pursuant to an investigation conducted by the Commission under this Act—\n  (a) recommend to a reporting authority to take disciplinary or other administrative action against a State or public officer alleged to have contravened the provisions of this Act;\n  (b) recommend to a public entity, appointing authority or the public officer, to take such measures as may be appropriate to ensure compliance with, or cessation of further violation of, the provisions of this Act;\n  (c) recommend to any other relevant public body to take appropriate action against a state or public officer, an associate to a state or public officer or a company in which a state or public officer has a controlling interest in; or\n  (d) recommend to the Director of Public Prosecutions the prosecution of a person who contravenes this Act.\n(2) Where a public entity, appointing authority or public officer fails to implement the recommendations under subsection (1)(a), (b) or (c), the Commission may make an application before the High Court for appropriate orders requiring the public entity, authorized officer or public officer to comply.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission may, pursuant to an investigation conducted by the Commission under this Act—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a public entity, appointing authority or public officer fails to implement the recommendations under subsection (1)(a), (b) or (c), the Commission may make an application before the High Court for appropriate orders requiring the public entity, authorized officer or public officer to comply."
+    }
+   ]
+  },
+  "45": {
+   "num": "45",
+   "title": "General penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A person who contravenes any provision of this Act for which no penalty is provided shall, upon conviction, be liable to—\n  (a) if the person is a natural person, a fine not exceeding four million shillings or to a term of imprisonment not exceeding ten years, or to both; or\n  (b) if the person is a body corporate, a fine not exceeding ten million shillings.\n(2) In addition to the penalty under subsection (1), the person shall be liable to a further mandatory fine if as a result of the conduct that constituted the offence the person received a quantifiable benefit or any other person suffered a quantifiable loss.\n(3) The mandatory fine referred to in subsection (2) shall be determined as follows—\n  (a) the mandatory fine shall be equal to two times the amount of the benefit or loss described in subsection (2); or\n  (b) if the conduct that constituted the offence resulted in both a benefit and loss described in subsection (2), the mandatory fine shall be equal to two times the sum of the amount of the benefit and the amount of the loss.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who contravenes any provision of this Act for which no penalty is provided shall, upon conviction, be liable to—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In addition to the penalty under subsection (1), the person shall be liable to a further mandatory fine if as a result of the conduct that constituted the offence the person received a quantifiable benefit or any other person suffered a quantifiable loss."
+    },
+    {
+     "ref": "(3)",
+     "text": "The mandatory fine referred to in subsection (2) shall be determined as follows—"
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "Confidentiality",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "A responsible Commission, the Commission or any person acting on their behalf shall not, unless required by law, disclose any information that comes to their knowledge in the performance of their duties under this Act, unless the disclosure is in the opinion of a responsible Commission or the Commission—\n  (a) essential for the purposes of carrying out of their functions and exercising the powers conferred on them under this Act; or\n  (b) is required by any law enforcement agency, after due process.",
+   "clauses": []
+  },
+  "47": {
+   "num": "47",
+   "title": "Protection of person making disclosure",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A person shall not be penalized in relation to any employment, profession, voluntary work, contract, membership of an organization, the holding of an office or in any other way, as a result of having made or proposed to make a disclosure of information which the person obtained in confidence in the course of that activity, if the disclosure is made in the public interest.\n(2) For purposes of subsection (1), a disclosure which is made to a law enforcement agency or to an appropriate public entity shall be deemed to be made in the public interest.\n(3) A person shall make a disclosure under subsection (1) or (2) where such person has reasonable belief in the veracity of the information.\n(4) Any person who provides false information maliciously intended to injure another person commits an offence and is liable, on conviction, to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding three years, or to both.\n(5) Disclosure of information under subsection (1) and (2) shall be information on conflict of interest.\n(6) For the purpose of this section, a person is penalized if the person is dismissed, discriminated against, made the subject of reprisal or other form of adverse treatment or is denied any appointment, promotion or advantage that otherwise would have been provided or any other personnel action provided under the law relating to whistle blower, and the imposition of any such penalty in contravention of this section shall be actionable as a tort.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not be penalized in relation to any employment, profession, voluntary work, contract, membership of an organization, the holding of an office or in any other way, as a result of having made or proposed to make a disclosure of information which the person obtained in confidence in the course of that activity, if the disclosure is made in the public interest."
+    },
+    {
+     "ref": "(2)",
+     "text": "For purposes of subsection (1), a disclosure which is made to a law enforcement agency or to an appropriate public entity shall be deemed to be made in the public interest."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person shall make a disclosure under subsection (1) or (2) where such person has reasonable belief in the veracity of the information."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person who provides false information maliciously intended to injure another person commits an offence and is liable, on conviction, to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding three years, or to both."
+    },
+    {
+     "ref": "(5)",
+     "text": "Disclosure of information under subsection (1) and (2) shall be information on conflict of interest."
+    },
+    {
+     "ref": "(6)",
+     "text": "For the purpose of this section, a person is penalized if the person is dismissed, discriminated against, made the subject of reprisal or other form of adverse treatment or is denied any appointment, promotion or advantage that otherwise would have been provided or any other personnel action provided under the law relating to whistle blower, and the imposition of any such penalty in contravention of this section shall be actionable as a tort."
+    }
+   ]
+  },
+  "48": {
+   "num": "48",
+   "title": "Protection from liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "No criminal or civil proceedings shall lie against the Commission or any person acting on behalf of the Commission, for anything done, reported or said in good faith in the exercise of any power, or the performance of any function of the Commission under this Act.",
+   "clauses": []
+  },
+  "49": {
+   "num": "49",
+   "title": "Reports by reporting entities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Every reporting entity shall, within six months after the end of the financial year, file compliance reports with the Commission in the prescribed form.",
+   "clauses": []
+  },
+  "50": {
+   "num": "50",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Attorney-General may make regulations for the better carrying out the provisions of this Act.\n(2) Without prejudice to the generality of subsection (1), the Attorney-General may make regulations prescribing—\n  (a) exceptional circumstances under which complimentary treatment may be accepted under this Act;\n  (b) the mechanism and procedure for the opening, maintaining and publicizing of registers of conflict of interest; and\n  (c) anything required to be prescribed under this Act.\n(3) For the purposes of Article 94(6) of the Constitution—\n  (a) the purpose and objective of delegation under this section is to enable the Attorney-General to make regulations to provide for the better carrying into effect of this Act and to enable the Commission and the reporting authorities to discharge its functions more effectively;\n  (b) the authority of the Attorney-General to make regulations under this Act shall be limited to bringing into effect the provisions of this Act and for the fulfilment of the objectives of this Act; and\n  (c) the principles and standards applicable to the regulations made under this section are those set out in the Interpretation and General Provisions Act (Cap. 2) and the Statutory Instruments Act (Cap. 2A).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Attorney-General may make regulations for the better carrying out the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), the Attorney-General may make regulations prescribing—"
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purposes of Article 94(6) of the Constitution—"
+    }
+   ]
+  },
+  "51": {
+   "num": "51",
+   "title": "Repeal of Cap. 185B",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "REPEALS, SAVINGS AND TRANSITIONAL PROVISIONS",
+   "text": "The Public Officer Ethics Act is repealed.",
+   "clauses": []
+  },
+  "52": {
+   "num": "52",
+   "title": "Saving and transitional provisions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "REPEALS, SAVINGS AND TRANSITIONAL PROVISIONS",
+   "text": "(1) Any statutory instrument made under the repealed Act shall remain in force, so far as it is not inconsistent with this Act, until it is revoked or repealed by a statutory instrument made under this Act, and shall be deemed for all purposes to have been made under this Act.\n(2) Any criminal proceedings commenced under the provisions in the Third Schedule proposed for repeal before the commencement of this Act shall be continued.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any statutory instrument made under the repealed Act shall remain in force, so far as it is not inconsistent with this Act, until it is revoked or repealed by a statutory instrument made under this Act, and shall be deemed for all purposes to have been made under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any criminal proceedings commenced under the provisions in the Third Schedule proposed for repeal before the commencement of this Act shall be continued."
+    }
+   ]
+  },
+  "53": {
+   "num": "53",
+   "title": "Consequential amendments",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "REPEALS, SAVINGS AND TRANSITIONAL PROVISIONS",
+   "text": "The Ethics and Anti-Corruption Commission Act (Cap. 7H), the Anti-Corruption and Economic Crimes Act (Cap. 65) and the Leadership and Integrity Act (Cap. 185C) are amended in the manner specified in the Third Schedule.",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [s. 31(2)]",
+   "subtitle": "DECLARATION OF INCOME ASSETS AND LIABILITIES",
+   "text": "The attention of all public officers is drawn to their obligation to declare their Income, Assets and Liabilities under the Conflict of Interest Act (No. ..................). Public officials are advised to familiarize themselves with the provisions of the Act and the applicable Code of Conduct and Ethics for their respective reporting entity.\nGUIDELINES ON THE COMPLETION OF THE DECLARATION OF INCOME, ASSETS AND LIABILITIES A public officer should read these guidelines carefully and follow the instructions in the form before completing it. When completing the form, a public officer shall write legibly, type or print the required information.\n1. Where the responsible Commission has a web application for filing the declaration, a public officer may fill and submit the declaration online. In such a case, a physical signature or delivery acknowledgment slip will not be necessary.\n2. The declaration is for the income, assets and liabilities of a public official, his spouse or spouses and his dependent children under the age of 18 years.\n3. All public officers are required to complete and submit their declarations to their responsible Commission, unless their responsible Commission has delegated its functions to another body.\n4. The obligation to make declarations applies to all state and public officers including those on leave, under disciplinary action, secondment and overseas assignments, unless the Attorney General has granted a dispensation exempting an officer or a certain category of public official from filing their declarations, for reasons to be published in the Gazette.\n5. The responsibility of ensuring that a declaration has been received by the appropriate reporting authority or its agent lies on the public officer. Provided that where the officer sends the form under confidential cover directly to the responsible Commission, the officer should label the envelope with the words “Declaration of Incomes, Assets and Liabilities”. The organization and job group of the officer should also be indicated on the envelope.\n6. A public officer is required to complete an initial declaration within thirty days of appointment and the statement date of the declaration will be the date the officer became a public officer.\n7. A public officer is required to make a biennial declaration on or before the 31st day of December every other year or as may be provided for under the Act. The statement date for the biennial declaration will be 1st of November of the year in which the declaration is required.\n8. A public officer is required to make a final declaration within thirty days of ceasing to be a public officer. The statement date of the final declaration shall be the date the public official ceased to be a public official.\n9. A person submitting a declaration or providing a clarification shall ensure that the declaration or clarification is correct to the best of their knowledge.\n10. If space on the form is not adequate, additional information may be included on separate sheets, while clearly indicating the number and paragraph being continued.\n11. For each form submitted, there will be an acknowledgment slip issued by the responsible Commission or its agent.\n12. Where a declaration is submitted electronically in accordance with the regulations made under this Act or administrative procedures adopted by the responsible Commission or any other competent authority, the declaration shall be valid notwithstanding the absence of a signature or acknowledgement stamp or receipt or slip.\n13. Income, assets and liabilities that a public officer may have outside Kenya, should be declared. Joint assets, properties, personal and business accounts within and outside Kenya should also be declared.\n14. Where a public officer has contravened the provisions of the Code of Conduct and Ethics relating to the declaration of Income, Assets and Liabilities, appropriate disciplinary action will be taken by the responsible Commission, or other appropriate authority, in accordance with the applicable disciplinary procedures.\n1. Name of public officer (Surname) (First name) (Other names) 2. Birth information (a) Date of birth (b) Place of birth 3. Marital status: 4. Address (a) Postal address:\n  (b) Physical address: 5. Employment information:\n  (a) Designation (b) Name of employer\n  (c) Nature of employment (permanent, temporary, contract, etc.) 6. Names of spouse or spouses (Surname) (First name) (Other names) 7. Names of dependent children under the age of 18 years:\n8. Financial statement for _______________________(A separate statement is required for the officer and each spouse and dependent child under the age of 18 years. Additional sheets should be added as required.)\n  (a) Statement date:\n  (b) Income, including emoluments, for periods from __________________ to ____________________(Including, but not limited to, salary and emoluments and.income from investments. The period is from the previous statement date to the current statement date. For an initial declaration, the period is the year ending on the statement date.) Description Approximate amount\n  (c) Assets (as of the statement date)(Including, but not limited to, land, buildings, vehicles, investments and financial obligations owed to the person for whom the statement is made.) Description (include location of asset where applicable) Approximate value\n  (c) Liabilities (as of the statement date) Description Approximate amount Conflict of Interest Act (Act No. 11 of 2025) 9. Other information that may be useful or relevant:\nI solemnly declare that the information I have given in this declaration is, to the best of my knowledge, true and complete.\nSignature of officer: ___________________________________ Date: __________________________________________________ WITNESS: Signature: _______________________________ Name: _____________________________________________ Address: _____________________________________________"
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [ss. 2, 24(2)(a)] REGISTRABLE INTERESTS",
+   "subtitle": null,
+   "text": "For purposes of section 24(2) the following are categories of income, assets and liabilities which a public official must declare—\n1. Directorships in public or private companies, whether or not remunerated directly or indirectly. 2. Remunerated employment (including office, trade, profession or vocation which is remunerated or which the State officer has any pecuniary interest). 3. Securities (shares, bonds, debentures or any other similar holding) in a company or enterprise or undertaking the aggregate nominal or market value of which exceeds a prescribed value while the state officer was in office. 4. Contracts for supply of goods and services. 5. Plans or expectations for or offers of future employment. 6. Public affairs advice and services to clients. 7. Shareholdings (amounting or not amounting to a controlling interest). 8. Land and property.\n9. Sponsorship (from companies, trade unions, professional bodies, charities, universities or other organizations or individuals).\n10. Travel facilities and overseas visits (made by a State officer or the State officer’s spouse or child substantially catered for by the office of the State officer).\n11. Gifts, benefits and hospitality (to a State officer or the State officer’s spouse or partner or child or any other material benefit of a prescribed value, from a company, organization or person within Kenya or overseas, which relates substantially to the membership of a state office to a state office or Parliament or County Assembly).\n12. Miscellaneous financial interests (not falling within the above categories but which a reasonable member of the public would think might influence the conduct of a State Officer in his or her office).\n13. Non-financial interests (which may reasonably be thought to affect the way a member discharges the duties in a State Office (such as unremunerated directorships; membership of public bodies such hospital trusts, governining bodies of universities, colleges or schools, and other spheres of government; trusteeships, etc.).\n14. Pending civil and criminal cases touching on the State officer or business associate or firm.\n15. Possession of dual citizenship or pending applications for dual citizenship and the status of such application."
+  },
+  {
+   "id": "att_3",
+   "title": "THIRD SCHEDULE [s. 53]",
+   "subtitle": "CONSEQUENTIAL AMENDMENTS",
+   "text": "Written Law Provision Amendment The Ethics and AntiCorruption Commission Act (Cap. 7H) section 11 Amendment Amended in subsection (1) by inserting the following new paragraph immediately after paragraph (j)—\n  (k) perform any other functions and exercise any other powers conferred by an Act of Parliament.\nThe Anti-Corruption and Economic Crimes Act (Cap. 65) section 42 Delete.\nThe Leadership and Integrity Act (Cap. 185C) section 6(3) section 6(4) Delete. Delete.\nWritten Law Provision section 13(1)(a) section 14 section 16 section 17 section 18 section 23 section 26 section 27 section 28 section 52 Amendment Delete and substitute therefor the following new paragraph— 13. (1)(a) demonstrate honesty in the conduct of public affairs;\nDelete.\nDelete.\nDelete.\nDelete.\nDelete.\nDelete.\nDelete.\nDelete.\nDelete and substitute therefor the following new section— 52. Pursuant to Article 80(c) of the Constitution, the provisions of Chapter Six of the Constitution and this Act shall apply to all public officers as if they were State officers."
+  }
+ ],
+ "spent": {}
+}

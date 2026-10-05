@@ -1,0 +1,796 @@
+{
+ "title": "Hire-Purchase Act",
+ "citation": "Cap. 507",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1968/42/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "HIRE-PURCHASE ACT CAP. 507 Assented to on 26 June 1968 Commenced on 2 November 1970 by Hire Purchase Act Commencement\n[Amended by Statute Law (Miscellaneous Amendments) Act, 1970 (Act No. 11 of 1970) on 7 August 1970] [Amended by Statute Law (Repeals and Miscellaneous Amendments) Act, 1984 (Act No. 12 of 1984) on 14 September 1984] [Amended by Finance Act, 1985 (Act No. 8 of 1985) on 14 June 1985] [Amended by Statute Law (Miscellaneous Amendments) Act, 1992 (Act No. 11 of 1992) on 23 October 1992] [Amended by Statute Law (Miscellaneous Amendments) Act, 2007 (Act No. 7 of 2007) on 15 October 2007] [Amended by Licensing Laws (Repeal and Amendment) Act, 2007 (Act No. 5 of 2007) on 15 November 2007] [Amended by Movable Property Security Rights Act (Cap. 499A) on 16 May 2017] [Amended by Companies and Insolvency Legislation (Consequential Amendments) Act, 2015 (Act No. 19 of 2015) on 3 July 2017] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to make provision for the regulation of certain hire-purchase agreements, and for the licensing of hire-purchase concerns, and for purposes connected therewith",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "REGISTRATION",
+   "provisions": [
+    "4",
+    "5"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "PROVISIONS AS TO HIRE-PURCHASE AGREEMENTS",
+   "provisions": [
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "CHANGE OF ADDRESS AND REMOVAL OF GOODS",
+   "provisions": [
+    "9",
+    "10",
+    "11"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "TERMINATION AND COMPLETION OF AGREEMENT",
+   "provisions": [
+    "12",
+    "13"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "RECOVERY OF POSSESSION BY SUIT",
+   "provisions": [
+    "14",
+    "15",
+    "16",
+    "17"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "LICENSING OF HIRE-PURCHASE BUSINESSES",
+   "provisions": [
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23"
+   ]
+  },
+  {
+   "id": "part_VIII",
+   "num": "VIII",
+   "title": "MISCELLANEOUS",
+   "provisions": [
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "32A",
+    "33",
+    "34",
+    "35"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Hire-Purchase Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In this Act, except where the context otherwise requires—\n\"the appointed day\", means such day as the Cabinet Secretary may, by notice in the Gazette, appoint to be the appointed day for the purpose of section 18 of this Act;\n\"contract of guarantee\", in relation to a hire-purchase agreement, means a contract, made at the express or implied request of the hirer, to guarantee the performance of the hirer’s obligations under the hire-purchase agreement, and\n\"guarantor\" shall be construed accordingly;\n\"delivery\", \"goods\" and \"warranty\" have the same meanings as in the Sale of Goods Act (Cap. 31);\n\"hire-purchase agreement\" means an agreement for the bailment of goods under which the bailee may buy the goods or under which the property in the goods will or may pass to the bailee; and, where by virtue of two or more agreements none of which by itself constitutes a hire-purchase agreement there is a bailment of goods and either the bailee may buy the goods or the property therein will or may pass to the bailee, the agreement shall be treated for the purposes of this Act as a single agreement made at the time when the last of those agreements was made;\n\"hire-purchase business\" means a business, whether carried on alone or with other business, of entering into hire-purchase agreements, whatever the hire-purchase price under any agreement;\n\"hire-purchase price\" means the total sum payable by the hirer under a hire-purchase agreement in order to complete the purchase of goods to which the agreement relates, including any sum payable by the hirer by way of a deposit or other initial payment or credited or to be credited to him under the agreement on account of any such deposit or payment, whether that sum is to be or has been paid to the owner or to any other person or is to be or has been discharged by a payment of money or by the transfer or delivery of goods or by any other means, but excludes any sum payable as penalty, compensation or damages for a breach of the agreement;\n\"hirer\" means the person who takes or has taken goods from an owner under a hire-purchase agreement, and includes a person to whom the hirer’s rights or liabilities under the agreement have passed by assignment or by operation of law;\n\"licence\" means a licence to carry on hire-purchase business issued under Part VII of this Act;\n\"owner\" means the person who lets or has let goods to a hirer under a hire- purchase agreement, and includes a person to whom the owner’s property in the goods or any of the owner’s rights or liabilities under the agreement has passed by assignment or by operation of law;\n\"registrar\" deleted by Act No. 13 of 2017, Sch.;\n\"suit\" includes counterclaim and set-off.\n(2) A reference in this Act to taking possession of goods let under a hire- purchase agreement does not include a reference to the owner taking possession as a result of the hirer voluntarily returning the goods, but it does include a reference to the owner taking possession pursuant to an order of a court and a return of goods after a notice has been served on the hirer pursuant to this Act.\n[Act No. 13 of 2017, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, except where the context otherwise requires—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A reference in this Act to taking possession of goods let under a hire- purchase agreement does not include a reference to the owner taking possession as a result of the hirer voluntarily returning the goods, but it does include a reference to the owner taking possession pursuant to an order of a court and a return of goods after a notice has been served on the hirer pursuant to this Act."
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Application",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) This Act applies to and in respect of all hire-purchase agreements entered into after the commencement of this Act under which the hire-purchase price does not exceed the sum of four million shillings or such other higher or lower sum as the Cabinet Secretary may, after taking into account market forces from time to time prevailing, prescribe other than a hire-purchase agreement in which the hirer is a body corporate, wherever incorporated:\nProvided that monetary limitation does not apply so as to affect the definition of \"hire-purchase business\" in section 2(1).\n(2) Notwithstanding subsection (1), nothing in this Act shall apply to any Scheme controlled, managed or guaranteed by the Government for the purpose of providing loans to any persons for the purchase of motor vehicles.\n[Act No. 11 of 1970, Sch., Act No. 11 of 1992, Act No. 7 of 2007, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "This Act applies to and in respect of all hire-purchase agreements entered into after the commencement of this Act under which the hire-purchase price does not exceed the sum of four million shillings or such other higher or lower sum as the Cabinet Secretary may, after taking into account market forces from time to time prevailing, prescribe other than a hire-purchase agreement in which the hirer is a body corporate, wherever incorporated:"
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding subsection (1), nothing in this Act shall apply to any Scheme controlled, managed or guaranteed by the Government for the purpose of providing loans to any persons for the purchase of motor vehicles."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Establishment of registry",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "REGISTRATION",
+   "text": "(1) Deleted by Act No. 13 of 2017, Sch.\n(2) For conducting the business of the registry, the Cabinet Secretary may, by notice in the Gazette, appoint a public officer to be Registrar of Hire-Purchase Agreements, a public officer to be Deputy Registrar of Hire-Purchase Agreements and where necessary public officers to be assistant registrars of hire-purchase agreements.\n(3) Subject to the directions of the Registrar of Hire-Purchase Agreements, the Deputy Registrar of Hire-Purchase Agreements and an assistant registrar of hire- purchase agreements shall have all the powers, and perform all the duties, and be subject to all the obligations, of the Registrar of HirePurchase Agreements.\n[Act No. 13 of 2017, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Deleted by Act No. 13 of 2017, Sch."
+    },
+    {
+     "ref": "(2)",
+     "text": "For conducting the business of the registry, the Cabinet Secretary may, by notice in the Gazette, appoint a public officer to be Registrar of Hire-Purchase Agreements, a public officer to be Deputy Registrar of Hire-Purchase Agreements and where necessary public officers to be assistant registrars of hire-purchase agreements."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to the directions of the Registrar of Hire-Purchase Agreements, the Deputy Registrar of Hire-Purchase Agreements and an assistant registrar of hire- purchase agreements shall have all the powers, and perform all the duties, and be subject to all the obligations, of the Registrar of HirePurchase Agreements."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Agreements to be registered",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "REGISTRATION",
+   "text": "(1) Deleted by Act No. 13 of 2017, Sch.\n(2) The registrar shall, on payment of the prescribed fee, register any hire- purchase agreement delivered to him under subsection(1), unless the agreement is liable to stamp duty and is not duly stamped, or is not in the English language.\n(3) On registration of a hire-purchase agreement, the registrar shall deliver to the owner a certificate of registration, and a certificate of registration purporting to be given under the hand of the registrar shall be prima facie proof of the facts therein certified in any proceedings.\n(4) Unless a hire-purchase agreement has been registered under subsection (2) of this Section—\n  (a) no person shall be entitled to enforce the agreement against the hirer or to enforce any contract of guarantee relating to the agreement, and the owner shall not be entitled to enforce any right to recover the goods form the hirer; and\n  (b) no security given by the hirer in respect of money payable under the agreement, or given by a guarantor in respect of money payable under a contract of guarantee relating to the agreement, shall be enforceable against the hirer or the guarantor by any holder thereof.\n(5) Any person may inspect the register of hire-purchase agreements during the prescribed hours, and may obtain from the registrar a certified copy of any entry in the register.\n[Act No. 13 of 2017, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Deleted by Act No. 13 of 2017, Sch."
+    },
+    {
+     "ref": "(2)",
+     "text": "The registrar shall, on payment of the prescribed fee, register any hire- purchase agreement delivered to him under subsection(1), unless the agreement is liable to stamp duty and is not duly stamped, or is not in the English language."
+    },
+    {
+     "ref": "(3)",
+     "text": "On registration of a hire-purchase agreement, the registrar shall deliver to the owner a certificate of registration, and a certificate of registration purporting to be given under the hand of the registrar shall be prima facie proof of the facts therein certified in any proceedings."
+    },
+    {
+     "ref": "(4)",
+     "text": "Unless a hire-purchase agreement has been registered under subsection (2) of this Section—"
+    },
+    {
+     "ref": "(5)",
+     "text": "Any person may inspect the register of hire-purchase agreements during the prescribed hours, and may obtain from the registrar a certified copy of any entry in the register."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Requirements relating to agreements",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "PROVISIONS AS TO HIRE-PURCHASE AGREEMENTS",
+   "text": "(1) Before a hire-purchase agreement is entered into in respect of any goods, the owner shall state in writing in the prescribed form to the prospective hirer, otherwise than in the agreement, a price at which the goods may be purchased by him for cash (in this section referred to as the cash price):\nProvided that this subsection shall be taken to have been sufficiently complied with—\n  (i) if the hirer has inspected the goods or like goods, and at the time of his inspection tickets or labels were attached to or displayed with the goods clearly stating the cash price, either of the goods as a whole or of all the different articles or sets of articles comprised therein; or\n  (ii) if the hirer has selected the goods by reference to a catalogue, price list or advertisement which clearly stated the cash price, either of the goods as a whole or of all the different articles or sets of articles comprised therein.\n(2) An owner shall not be entitled to enforce a hire-purchase agreement or any contract of guarantee relating to it or any right to recover the goods from the hirer, and no security given by the hirer in respect of money payable under the hire-purchase agreement or given by a guarantor in respect of money payable under a contract of guarantee relating to the hire-purchase agreement shall be enforceable against the hirer or guarantor by any holder thereof, unless the requirement specified in subsection (1) has been complied with, and—\n  (a) the agreement is made and signed by the hirer and by or on behalf of all other parties to the agreement; and\n  (b) the agreement contains a statement of—\n  (i) the hire-purchase price and the cash price of the goods to which the agreement relates; and\n  (ii) the amount of each of the instalments by which the hire- purchase price is to be paid and the date (or the mode of determining the date) upon which each instalment is payable; and\n  (iii) a description of the goods sufficient to identify them; and\n  (c) the agreement contains a notice in the prescribed form relating to the rights of the hirer which is at least as prominent as the rest of the contents of the agreement; and\n  (d) a copy of the agreement has been delivered or sent by registered post by the owner to the hirer within twenty-one days of the date of the agreement.\n(3) If the Court is satisfied in any suit that a failure to comply with the requirement specified in subsection (1), or any of the requirements specified in paragraphs (b), (c) and (d) of subsection (2) of this section, has not prejudiced the hirer, and that it would be just to dispense with the requirement, the Court may, subject to any conditions that it thinks fit to impose, dispense with that requirement for the purposes of the suit.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Before a hire-purchase agreement is entered into in respect of any goods, the owner shall state in writing in the prescribed form to the prospective hirer, otherwise than in the agreement, a price at which the goods may be purchased by him for cash (in this section referred to as the cash price):"
+    },
+    {
+     "ref": "(2)",
+     "text": "An owner shall not be entitled to enforce a hire-purchase agreement or any contract of guarantee relating to it or any right to recover the goods from the hirer, and no security given by the hirer in respect of money payable under the hire-purchase agreement or given by a guarantor in respect of money payable under a contract of guarantee relating to the hire-purchase agreement shall be enforceable against the hirer or guarantor by any holder thereof, unless the requirement specified in subsection (1) has been complied with, and—"
+    },
+    {
+     "ref": "(3)",
+     "text": "If the Court is satisfied in any suit that a failure to comply with the requirement specified in subsection (1), or any of the requirements specified in paragraphs (b), (c) and (d) of subsection (2) of this section, has not prejudiced the hirer, and that it would be just to dispense with the requirement, the Court may, subject to any conditions that it thinks fit to impose, dispense with that requirement for the purposes of the suit."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Avoidance of certain provisions in agreements",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "PROVISIONS AS TO HIRE-PURCHASE AGREEMENTS",
+   "text": "Any provisions in hire-purchase agreement whereby—\n  (a) an owner or any person acting on his behalf is authorized to enter upon any premises for the purpose of taking possession of goods which have been let under a hire-purchase agreement, or is relieved from liability for such an entry; or\n  (b) the right conferred on a hirer by section 12 of this Act to terminate the hire-purchase agreement is excluded or restricted, or any liability beyond that imposed by section 12 of this Act is imposed on a hirer by reason of the termination of the hire-purchase agreement by him under that section; or\n  (c) a hirer, after the termination of the hire-purchase agreement or the bailment in any manner whatsoever, is subject to a liability which exceeds the liability to which he would have been subject if the agreement had been terminated by him under this Act; or\n  (d) any person acting on behalf of an owner in connexion with the formation or conclusion of a hirepurchase agreement is treated as or deemed to be the agent of the hirer; or\n  (e) an owner is relieved from liability for the acts or defaults of any person acting on his behalf in connexion with the formation or conclusion of a hire-purchase agreement, shall be void.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Conditions and warranties implied in agreements",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "PROVISIONS AS TO HIRE-PURCHASE AGREEMENTS",
+   "text": "(1) In every hire-purchase agreement there shall be implied—\n  (a) a condition that the owner will have a right to sell the goods at the time when the property is to pass;\n  (b) a warranty that the hirer shall have and enjoy quiet possession of goods;\n  (c) a warranty that the goods will be free from any charge or encumbrance in favour of a third party at the time when the property is to pass;\n  (d) except where the goods are second-hand goods and the agreement contains a statement to that effect, a condition that the goods will be of merchantable quality; and\n  (e) a condition that the legal ownership of, and title to, the goods shall automatically be vested on the hirer upon payment by him of the hire- purchase price in full:\nProvided that no such condition shall be implied by virtue of this subsection as regards defects of which the owner could not reasonably have been aware at the time when the agreement was made or, if the hirer has examined the goods or a sample of them, as regards defects which the examination revealed or ought to have revealed.\n(2) Where the hirer expressly or by implication makes known the particular purpose for which the goods are required, there shall be implied a condition that the goods will be reasonably fit for that purpose.\n(3) The conditions and warranties set out in subsection (1) of this section shall be implied notwithstanding any agreement to the contrary; and the owner shall not be entitled to rely on any provision in the agreement excluding or modifying the condition set out in subsection (2) unless he proves that before the agreement was made the provision was brought to the notice of the hirer and its effect made clear to him.\n(4) Nothing in this section excludes or prejudices the operation of any other law whereby any condition or warranty is to be implied in an agreement.\n[Act No. 11 of 1992]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In every hire-purchase agreement there shall be implied—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the hirer expressly or by implication makes known the particular purpose for which the goods are required, there shall be implied a condition that the goods will be reasonably fit for that purpose."
+    },
+    {
+     "ref": "(3)",
+     "text": "The conditions and warranties set out in subsection (1) of this section shall be implied notwithstanding any agreement to the contrary; and the owner shall not be entitled to rely on any provision in the agreement excluding or modifying the condition set out in subsection (2) unless he proves that before the agreement was made the provision was brought to the notice of the hirer and its effect made clear to him."
+    },
+    {
+     "ref": "(4)",
+     "text": "Nothing in this section excludes or prejudices the operation of any other law whereby any condition or warranty is to be implied in an agreement."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Change of address and removal of goods from premises",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CHANGE OF ADDRESS AND REMOVAL OF GOODS",
+   "text": "(1) The owner of goods under a hire-purchase agreement may stipulate in the agreement—\n  (a) that the hirer shall record his postal, residential and business addresses in the agreement; and\n  (b) that, if before the ownership of the goods passes to the hirer, the hirer changes either his postal, residential or business address or removes or allows the goods or part thereof to be removed from any premises for keeping at other premises, he shall, before change or removal takes place, notify the owner or his agent in writing of all or any of the following particulars —\n  (i) his new postal, residential or business address, as the case may be;\n  (ii) the premises to which the goods are to be removed;\n  (iii) the name and postal, residential and business addresses of the landlord, if any, of the new premises, but no such stipulation shall require the hirer to notify the owner more than ninety-six hours before the time of the change or removal.\n(2) If a hirer fails to comply with any stipulation made in pursuance of subsection (1) he shall be guilty of an offence and liable to a fine not exceeding two thousand shillings.\n(3) In a prosecution for an offence under this section it shall be a defence if the hirer satisfies the Court that his failure to comply with the stipulation in question was due to circumstances over which he had no control.\n(4) If the owner of goods under a hire-purchase agreement has given written notice of his ownership thereof to the landlord of the premises where the goods are kept, the landlord shall not have any right of distress over the goods for rent.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The owner of goods under a hire-purchase agreement may stipulate in the agreement—"
+    },
+    {
+     "ref": "(2)",
+     "text": "If a hirer fails to comply with any stipulation made in pursuance of subsection (1) he shall be guilty of an offence and liable to a fine not exceeding two thousand shillings."
+    },
+    {
+     "ref": "(3)",
+     "text": "In a prosecution for an offence under this section it shall be a defence if the hirer satisfies the Court that his failure to comply with the stipulation in question was due to circumstances over which he had no control."
+    },
+    {
+     "ref": "(4)",
+     "text": "If the owner of goods under a hire-purchase agreement has given written notice of his ownership thereof to the landlord of the premises where the goods are kept, the landlord shall not have any right of distress over the goods for rent."
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Removal of goods from Kenya",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CHANGE OF ADDRESS AND REMOVAL OF GOODS",
+   "text": "(1) The owner of goods under a hire-purchase agreement may stipulate in the agreement that the hirer shall not remove or permit the removal of the goods from Kenya without the written consent of the owner.\n(2) If the hirer, in breach of a stipulation made in pursuance of subsection (1) and with intent to deprive the owner of his ownership of the goods or to defeat the rights of the owner to obtain any payment due to him under the agreement, removes or permits the removal of the goods from Kenya, he shall be guilty of an offence and liable to a fine not exceeding ten thousand shillings or to imprisonment for a term not exceeding one year, or to both such fine and imprisonment.\n(3) If a hire-purchase agreement contains a stipulation such as is referred to in subsection (1) of this section and the owner believes that the goods have been removed or are being removed or are about to be removed from Kenya without his written consent, he may institute a suit for the return of the goods.\n(4) Before instituting a suit in pursuance of subsection (3) of this section, or while the suit is pending, the owner may make an application, in which the hirer or other person substantially interested in the goods shall be made respondent, to a court for an order for the attachment of the goods.\n(5) An application for an order under subsection (4) may be made, on summons or ex parte on the respondent, to a court having jurisdiction in the area in which the respondent or the goods proposed to be attached are present or through which the goods are likely to be removed.\n(6) Such an application shall be governed by the rules of court relating to application on summons or notice or, as the case may be, applicable ex parte in interlocutory proceedings of a similar nature and which are in force in the Court to which the application is made, mutatis mutandis, subject to subsections (7), (8) and (9) of this section.\n(7) A court which makes an order ex parte for the attachment of goods under subsection (4) may require the applicant to give such security for damages as may be caused by the order as the Court may think fit.\n(8) An order for the attachment of goods under this section—\n  (a) may be discharged or varied by the Court on cause shown by any person affected by the order and on such terms as to costs as the Court may think fit; and\n  (b) shall ipso facto be discharged upon the respondent giving security both for the value of the goods to which the order relates and for the applicant’s costs.\n(9) If goods are attached by order of a court other than the court in which the action for the return of the goods is brought, the court which made the order of attachment shall cause copies of the application, order and proceedings, together with the goods attached or (as the case may be) the security given for their release, to be transmitted to the court in which the action is brought.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The owner of goods under a hire-purchase agreement may stipulate in the agreement that the hirer shall not remove or permit the removal of the goods from Kenya without the written consent of the owner."
+    },
+    {
+     "ref": "(2)",
+     "text": "If the hirer, in breach of a stipulation made in pursuance of subsection (1) and with intent to deprive the owner of his ownership of the goods or to defeat the rights of the owner to obtain any payment due to him under the agreement, removes or permits the removal of the goods from Kenya, he shall be guilty of an offence and liable to a fine not exceeding ten thousand shillings or to imprisonment for a term not exceeding one year, or to both such fine and imprisonment."
+    },
+    {
+     "ref": "(3)",
+     "text": "If a hire-purchase agreement contains a stipulation such as is referred to in subsection (1) of this section and the owner believes that the goods have been removed or are being removed or are about to be removed from Kenya without his written consent, he may institute a suit for the return of the goods."
+    },
+    {
+     "ref": "(4)",
+     "text": "Before instituting a suit in pursuance of subsection (3) of this section, or while the suit is pending, the owner may make an application, in which the hirer or other person substantially interested in the goods shall be made respondent, to a court for an order for the attachment of the goods."
+    },
+    {
+     "ref": "(5)",
+     "text": "An application for an order under subsection (4) may be made, on summons or ex parte on the respondent, to a court having jurisdiction in the area in which the respondent or the goods proposed to be attached are present or through which the goods are likely to be removed."
+    },
+    {
+     "ref": "(6)",
+     "text": "Such an application shall be governed by the rules of court relating to application on summons or notice or, as the case may be, applicable ex parte in interlocutory proceedings of a similar nature and which are in force in the Court to which the application is made, mutatis mutandis, subject to subsections (7), (8) and (9) of this section."
+    },
+    {
+     "ref": "(7)",
+     "text": "A court which makes an order ex parte for the attachment of goods under subsection (4) may require the applicant to give such security for damages as may be caused by the order as the Court may think fit."
+    },
+    {
+     "ref": "(8)",
+     "text": "An order for the attachment of goods under this section—"
+    },
+    {
+     "ref": "(9)",
+     "text": "If goods are attached by order of a court other than the court in which the action for the return of the goods is brought, the court which made the order of attachment shall cause copies of the application, order and proceedings, together with the goods attached or (as the case may be) the security given for their release, to be transmitted to the court in which the action is brought."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Court may allow goods to be removed",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CHANGE OF ADDRESS AND REMOVAL OF GOODS",
+   "text": "Where the terms of a hire-purchase agreement require the hirer to keep the goods comprised in the agreement in his possession or control at a particular place or not to remove the goods from a particular place, the Court may, on the application of the hirer and after hearing any representations made by or on behalf of the owner, make an order approving the removal of the goods to some other place within Kenya, which place shall thereafter, for the purposes of the agreement, be substituted for the first-mentioned place.",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Hirer may terminate agreement",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "TERMINATION AND COMPLETION OF AGREEMENT",
+   "text": "(1) At any time before the final payment under a hire-purchase agreement falls due, the hirer may terminate the agreement by returning the goods to the owner and giving him written notice of termination of the agreement, and if he does so he shall be liable (without prejudice to any liability which accrued before the termination) to pay the amount, if any, by which one-half of the hirepurchase price exceeds the total of the sums paid and the sums which were due in respect of the hire-purchase price immediately before the termination or such lesser amount as may be specified in the agreement.\n(2) Where a hire-purchase agreement has been terminated under this section, the hire shall, if he has failed to take reasonable care of the goods, be liable to pay damages for the failure.\n(3) A hirer returning goods under subsection (1) shall return them at his own expense to the premises from which they were originally supplied to him or to such other place as the owner may direct:\nProvided that the owner shall reimburse the hirer for any additional expense incurred in returning the goods to premises other than those from which they were originally supplied.\n(4) Nothing in this section prejudices any right of a hirer to determine a hire-purchase agreement otherwise than by virtue of this section.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "At any time before the final payment under a hire-purchase agreement falls due, the hirer may terminate the agreement by returning the goods to the owner and giving him written notice of termination of the agreement, and if he does so he shall be liable (without prejudice to any liability which accrued before the termination) to pay the amount, if any, by which one-half of the hirepurchase price exceeds the total of the sums paid and the sums which were due in respect of the hire-purchase price immediately before the termination or such lesser amount as may be specified in the agreement."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a hire-purchase agreement has been terminated under this section, the hire shall, if he has failed to take reasonable care of the goods, be liable to pay damages for the failure."
+    },
+    {
+     "ref": "(3)",
+     "text": "A hirer returning goods under subsection (1) shall return them at his own expense to the premises from which they were originally supplied to him or to such other place as the owner may direct:"
+    },
+    {
+     "ref": "(4)",
+     "text": "Nothing in this section prejudices any right of a hirer to determine a hire-purchase agreement otherwise than by virtue of this section."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Hirer may complete agreement",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "TERMINATION AND COMPLETION OF AGREEMENT",
+   "text": "(1) The hirer under a hire-purchase agreement may give notice in writing to the owner of his intention to complete the purchase of the goods by paying or tendering to the owner on a specified day the net balance due to the owner under the agreement, and having given such notice may complete the purchase accordingly on the day specified.\n(2) For the purposes of subsection (1) of this section, the net balance due is the balance originally payable under the agreement less any amounts (other than the deposit) paid or provided, whether by cash or by other consideration, by or on behalf of the hirer under the agreement.\n(3) The rights conferred on the hirer by this section may be exercised by him—\n  (a) at any time during the continuance of the agreement; or\n  (b) within twenty-eight days after the owner has taken possession of the goods, upon paying or tendering to the owner in addition to the net balance due—\n  (i) the reasonable costs incurred by the owner in and incidental to taking possession of the goods; and\n  (ii) any amount properly expended by the owner on the storage, repair or maintenance of the goods; and\n  (iii) any additional interest which is due under the agreement.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The hirer under a hire-purchase agreement may give notice in writing to the owner of his intention to complete the purchase of the goods by paying or tendering to the owner on a specified day the net balance due to the owner under the agreement, and having given such notice may complete the purchase accordingly on the day specified."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of subsection (1) of this section, the net balance due is the balance originally payable under the agreement less any amounts (other than the deposit) paid or provided, whether by cash or by other consideration, by or on behalf of the hirer under the agreement."
+    },
+    {
+     "ref": "(3)",
+     "text": "The rights conferred on the hirer by this section may be exercised by him—"
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Adverse possession",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "RECOVERY OF POSSESSION BY SUIT",
+   "text": "(1) Where an owner institutes a suit to enforce a right to recover possession of goods from a hirer and proves that, before the institution of the suit and after the right to recover possession of the goods accrued, he made a request in writing to the hirer to surrender the goods, the hirer’s possession of the goods shall, for the purpose of the owner’s claim to recover possession thereof, be deemed to be adverse to the owner.\n(2) Nothing in this section affects a claim for damages for conversion.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where an owner institutes a suit to enforce a right to recover possession of goods from a hirer and proves that, before the institution of the suit and after the right to recover possession of the goods accrued, he made a request in writing to the hirer to surrender the goods, the hirer’s possession of the goods shall, for the purpose of the owner’s claim to recover possession thereof, be deemed to be adverse to the owner."
+    },
+    {
+     "ref": "(2)",
+     "text": "Nothing in this section affects a claim for damages for conversion."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Recovery of possession where two-thirds of price paid",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "RECOVERY OF POSSESSION BY SUIT",
+   "text": "(1) Where goods have been let under a hire-purchase agreement and two- thirds of the hire-purchase price has been paid, whether in pursuance of the agreement or of a judgment or otherwise, or has been tendered by or on behalf of the hirer or a guarantor, the owner shall not enforce any right to recover possession of the goods from the hirer otherwise than by suit.\n(2) If an owner retakes possession of goods in contravention of subsection (1), the hire-purchase agreement, if not previously terminated, shall terminate and—\n  (a) the hirer shall be released from all liability under the agreement and shall be entitled to recover from the owner by suit all sums paid by the hirer under the agreement or under any security given by him in respect thereof; and\n  (b) guarantor shall be entitled to recover from the owner by suit all sums paid by him under the contract of guarantee or under any security given by him in respect thereof.\n(3) This section does not apply where the hirer has terminated the agreement or the bailment by virtue of any right vested in him, or to the removal of goods under section 16(3)(b).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where goods have been let under a hire-purchase agreement and two- thirds of the hire-purchase price has been paid, whether in pursuance of the agreement or of a judgment or otherwise, or has been tendered by or on behalf of the hirer or a guarantor, the owner shall not enforce any right to recover possession of the goods from the hirer otherwise than by suit."
+    },
+    {
+     "ref": "(2)",
+     "text": "If an owner retakes possession of goods in contravention of subsection (1), the hire-purchase agreement, if not previously terminated, shall terminate and—"
+    },
+    {
+     "ref": "(3)",
+     "text": "This section does not apply where the hirer has terminated the agreement or the bailment by virtue of any right vested in him, or to the removal of goods under section 16(3)(b)."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Provisions where suit instituted",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "RECOVERY OF POSSESSION BY SUIT",
+   "text": "(1) Where a suit is instituted in the circumstances described in section 15 of this Act, the owner shall not take any step to enforce payment of any sum due under the hire-purchase agreement or under any contract of guarantee relating thereto, except by claiming the sum in the suit.\n(2) Subject to rules of court, all the parties to the agreement and any guarantor shall be made parties to the suit.\n(3) Pending the hearing of the suit—\n  (a) the court shall have power, in addition to any other powers, to make upon the application of the owner such orders as the court thinks just for the purpose of protecting the goods from damage or depreciation, including orders restricting or prohibiting the use of the goods or giving directions as to their custody; and\n  (b) without prejudice to the powers of the court under paragraph (a) of this subsection, where two instalments of the hire-purchase price are due and unpaid the owner may remove the whole or any part of the goods to any premises under his control for the purpose of protecting them from damage or depreciation and retain them there pending the hearing of the suit, and the owner shall be liable to the hirer for any damage or loss which may be caused to them there after such removal but shall not be taken to have repossessed the goods for the purposes of this Act or of the hire-purchase agreement by reason of his having so done.\n(4) On the hearing of the suit the court may, without prejudice to any other power—\n  (a) make an order for the delivery of all the goods to the owner; or\n  (b) make an order for the delivery of all the goods to the owner, and postpone the operation of the order on condition that the hirer or any guarantor pays the unpaid balance of the hirepurchase price at such times and in such amounts and fulfils such other conditions as the court thinks just; or\n  (c) make an order for the delivery of a part of the goods to the owner and for the transfer to the hirer of the owner’s title to the remainder of the goods:\nProvided that—\n  (i) an order shall not be made under paragraph (b), unless the hirer satisfies the court that the goods are in his possession or control at the time when the order is made;\n  (ii) an order shall not be made under paragraph (c) transferring to the hirer the owner’s title to a part of the goods, unless the court is satisfied that the amount which the hirer has paid towards the hire-purchase price exceeds the price of that part of the goods by at least onethird of the unpaid balance of the hire-purchase price.\n(5) Where the court makes an order under subsection (4) for delivery of the whole or part of the goods to the owner, it shall in the order confer on the owner a right of entry on any premises where the goods may be for the purpose of obtaining possession of the goods.\n(6) Where damages are awarded against the owner in the suit, the court may treat the hirer as having paid towards the hire-purchase price, in addition to the actual amount paid, the amount of the damages or such part thereof as the Court thinks fit, and remit the damages accordingly.\n(7) If at any time before the hearing of the suit the owner has recovered possession of a part of the goods, the references in subsection (4) to all the goods shall be construed as references to all the goods which the owner has not recovered, and, if the parties have not agreed upon an adjustment of the hire- purchase price in respect of the goods so recovered, the court may for the purposes of paragraphs (b) and (c) of that subsection make such reduction of the hire- purchase price and of the unpaid balance thereof as it thinks just.\n(8) Where an owner has recovered part of the goods let under the hire-purchase agreement, and recovery was effected in contravention of section 15 of this Act, this section shall not apply in relation to a suit by the owner to recover the remainder of the goods.\n(9) In this section, \"order for delivery\" in relation to goods means an order for the delivery of the goods to the owner without giving the hirer an option to pay their value, and \"the price\" in relation to goods means such part of the hire-purchase price as is assigned to those goods in the agreement, or if no such assignment is made such part of the hire-purchase price as the court may determine.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a suit is instituted in the circumstances described in section 15 of this Act, the owner shall not take any step to enforce payment of any sum due under the hire-purchase agreement or under any contract of guarantee relating thereto, except by claiming the sum in the suit."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to rules of court, all the parties to the agreement and any guarantor shall be made parties to the suit."
+    },
+    {
+     "ref": "(3)",
+     "text": "Pending the hearing of the suit—"
+    },
+    {
+     "ref": "(4)",
+     "text": "On the hearing of the suit the court may, without prejudice to any other power—"
+    },
+    {
+     "ref": "(5)",
+     "text": "Where the court makes an order under subsection (4) for delivery of the whole or part of the goods to the owner, it shall in the order confer on the owner a right of entry on any premises where the goods may be for the purpose of obtaining possession of the goods."
+    },
+    {
+     "ref": "(6)",
+     "text": "Where damages are awarded against the owner in the suit, the court may treat the hirer as having paid towards the hire-purchase price, in addition to the actual amount paid, the amount of the damages or such part thereof as the Court thinks fit, and remit the damages accordingly."
+    },
+    {
+     "ref": "(7)",
+     "text": "If at any time before the hearing of the suit the owner has recovered possession of a part of the goods, the references in subsection (4) to all the goods shall be construed as references to all the goods which the owner has not recovered, and, if the parties have not agreed upon an adjustment of the hire- purchase price in respect of the goods so recovered, the court may for the purposes of paragraphs (b) and (c) of that subsection make such reduction of the hire- purchase price and of the unpaid balance thereof as it thinks just."
+    },
+    {
+     "ref": "(8)",
+     "text": "Where an owner has recovered part of the goods let under the hire-purchase agreement, and recovery was effected in contravention of section 15 of this Act, this section shall not apply in relation to a suit by the owner to recover the remainder of the goods."
+    },
+    {
+     "ref": "(9)",
+     "text": "In this section, \"order for delivery\" in relation to goods means an order for the delivery of the goods to the owner without giving the hirer an option to pay their value, and \"the price\" in relation to goods means such part of the hire-purchase price as is assigned to those goods in the agreement, or if no such assignment is made such part of the hire-purchase price as the court may determine."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Where order for delivery of goods postponed",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "RECOVERY OF POSSESSION BY SUIT",
+   "text": "(1) While the operation of an order for the delivery of goods to the owner is postponed under section 16(4)(b), the hirer shall be deemed to be bailee of the goods under and on the terms of the hirepurchase agreement—\n  (i) no further sum shall be or become payable by the hirer or a guarantor on account of the unpaid balance of the hire-purchase price, except in accordance with the terms of the order; and Provided that—\n  (ii) the Court may make such further modifications of the terms of the hire-purchase agreement, and of any contract of guarantee relating to it, as to payment as the Court considers necessary having regard to the variation of the terms of payment.\n(2) If, while the operation of an order for the delivery of the goods to the owner is postponed under section 16(4), the hirer or a guarantor fails to comply with any conditions of the postponement, or with any term of the hire-purchase agreement as modified by the Court, or wrongfully disposes of the goods, the owner shall not take any civil proceedings against the hirer or guarantor otherwise than by making an application to the Court by which the order was made:\nProvided that, in the case of a breach of any condition relating to the payment of the unpaid balance of the hire-purchase price, it is not necessary for the owner to apply to the court for leave to execute the order unless the Court has so directed.\n(3) When the unpaid balance of the hire-purchase price has been paid in accordance with the terms of the order, the owner’s title to the goods shall vest in the hirer.\n(4) The court may at any time during the postponement of the operation of an order for delivery of goods to the owner—\n  (a) vary the conditions of the postponement, and make such further modification of the hirepurchase agreement and of any contract of guarantee relating to it as the Court considers necessary having regard to the variation of the conditions of the postponement;\n  (b) revoke the postponement;\n  (c) make an order under section 16(4)(c) for the delivery of a part of the goods to the owner and for the transfer to the hirer of the owner’s title to the remainder of the goods.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "While the operation of an order for the delivery of goods to the owner is postponed under section 16(4)(b), the hirer shall be deemed to be bailee of the goods under and on the terms of the hirepurchase agreement—"
+    },
+    {
+     "ref": "(2)",
+     "text": "If, while the operation of an order for the delivery of the goods to the owner is postponed under section 16(4), the hirer or a guarantor fails to comply with any conditions of the postponement, or with any term of the hire-purchase agreement as modified by the Court, or wrongfully disposes of the goods, the owner shall not take any civil proceedings against the hirer or guarantor otherwise than by making an application to the Court by which the order was made:"
+    },
+    {
+     "ref": "(3)",
+     "text": "When the unpaid balance of the hire-purchase price has been paid in accordance with the terms of the order, the owner’s title to the goods shall vest in the hirer."
+    },
+    {
+     "ref": "(4)",
+     "text": "The court may at any time during the postponement of the operation of an order for delivery of goods to the owner—"
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Licence required to carry on hire-purchase business",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "LICENSING OF HIRE-PURCHASE BUSINESSES",
+   "text": "(1) No person after the appointed day shall carry on hire-purchase business, except under and in accordance with the terms of a current licence authorizing him to do so.\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding two hundred thousand shillings or to imprisonment for a term not exceeding one year, or to both such fine and imprisonment. [Act No. 7 of 2007, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No person after the appointed day shall carry on hire-purchase business, except under and in accordance with the terms of a current licence authorizing him to do so."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding two hundred thousand shillings or to imprisonment for a term not exceeding one year, or to both such fine and imprisonment. [Act No. 7 of 2007, Sch.]"
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Licensing officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "LICENSING OF HIRE-PURCHASE BUSINESSES",
+   "text": "The Cabinet Secretary shall appoint a public officer to be the licensing officer for the purposes of this Act.",
+   "clauses": []
+  },
+  "20": {
+   "num": "20",
+   "title": "Granting of licences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "LICENSING OF HIRE-PURCHASE BUSINESSES",
+   "text": "(1) A person may make application for a licence in the prescribed manner, and the licensing officer shall either grant a licence accordingly, either without conditions or subject to such conditions as he may think fit, or refuse to grant a licence.\n(2) Where a licensing officer refuses to grant a licence, or imposes conditions in a licence, he shall give to the applicant the reasons in writing for his action, if the applicant so requests.\n(3) A fee of one thousand shillings, is payable in respect of the issue of a licence. (4) A licence shall be issued so as to expire two years after the date of issue. (5) In considering an application for a licence, the licensing officer shall take into account the financial condition of the applicant and the manner in which he has conducted any hire-purchase business then or formerly carried on by him, and may require the applicant to provide such information as he requires to enable him to make a decision.\n[Act No. 8 of 1985. s. 25, Act No. 5 of 2007, s. 76.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person may make application for a licence in the prescribed manner, and the licensing officer shall either grant a licence accordingly, either without conditions or subject to such conditions as he may think fit, or refuse to grant a licence."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a licensing officer refuses to grant a licence, or imposes conditions in a licence, he shall give to the applicant the reasons in writing for his action, if the applicant so requests."
+    },
+    {
+     "ref": "(3)",
+     "text": "A fee of one thousand shillings, is payable in respect of the issue of a licence. (4) A licence shall be issued so as to expire two years after the date of issue. (5) In considering an application for a licence, the licensing officer shall take into account the financial condition of the applicant and the manner in which he has conducted any hire-purchase business then or formerly carried on by him, and may require the applicant to provide such information as he requires to enable him to make a decision."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Where renewal of licence refused",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "LICENSING OF HIRE-PURCHASE BUSINESSES",
+   "text": "Where the holder of a licence applies for and is refused a new licence, or where a person who immediately before the commencement of this Act was carrying on hire-purchase business applies before the appointed day for and is refused a licence, he may, notwithstanding section 18 of this Act, continue to carry on hirepurchase business so long and so far only as is necessary to complete existing hire-purchase agreements and wind up the business, and may not enter into any new hire-purchase agreements.",
+   "clauses": []
+  },
+  "22": {
+   "num": "22",
+   "title": "Appeals",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "LICENSING OF HIRE-PURCHASE BUSINESSES",
+   "text": "(1) Any person who is refused a licence may appeal to the Cabinet Secretary in writing within one month after the date of the refusal, and the Cabinet Secretary’s decision shall be final.\n(2) Where a person appeals under subsection (1) of this section, he may continue to carry on hirepurchase business until the appeal is decided, notwithstanding section 18.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who is refused a licence may appeal to the Cabinet Secretary in writing within one month after the date of the refusal, and the Cabinet Secretary’s decision shall be final."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a person appeals under subsection (1) of this section, he may continue to carry on hirepurchase business until the appeal is decided, notwithstanding section 18."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Licence to be displayed",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "LICENSING OF HIRE-PURCHASE BUSINESSES",
+   "text": "The holder of a licence shall ensure that the licence or a copy thereof is at all times conspicuously displayed in or on every premises in which he carries on hire- purchase business, and if he fails to do so he shall be guilty of an offence and liable to a fine not exceeding one thousand shillings.",
+   "clauses": []
+  },
+  "24": {
+   "num": "24",
+   "title": "Successive agreements between same parties",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "Where goods have been let under a hire-purchase agreement and at any time after two-thirds of the hirepurchase price has been paid or tendered the owner makes a further hire-purchase agreement with the hirer comprising those goods, sections 15 and 16 shall have effect in relation to that further agreement as from its commencement.",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "Owner to account for proceeds of sale",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "Where the owner under a hire-purchase agreement enforces a right to recover possession of the goods from the best price reasonably obtainable as soon as is reasonably practicable and he shall be liable to account for and pay hirer otherwise than by suit, he shall sell the goods at the to the hirer that part of the proceeds of sale which exceeds the sum of the unpaid balance of the hire-purchase price and the expenses necessarily incurred by the owner in recovering possession of and selling the goods.",
+   "clauses": []
+  },
+  "26": {
+   "num": "26",
+   "title": "Hirer’s refusal to surrender goods not conversion",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "If, while the enforcement by an owner of a right to recover possession of goods from a hirer is restricted by this Act, the hirer refuses to give up possession of goods to the owner, the hirer shall not, by reason only of such refusal, be liable to the owner for conversion of the goods.",
+   "clauses": []
+  },
+  "27": {
+   "num": "27",
+   "title": "Hirer may require information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) If a hirer hands or sends by registered post to the owner a written request therefor, and tenders to the owner a sum of ten shillings for expenses, the owner shall, within fourteen days after the request and tender are received by him, hand or send by registered post to the hirer a statement signed by or on behalf of the owner showing—\n  (a) the total of the payments made under the agreement by or on behalf of the hirer, and the date of each payment;\n  (b) the total amount due under the agreement and unpaid, and the amount of each unpaid instalment and the date on which it became due; and\n  (c) the total amount which is to become due under the agreement, the amount of each instalment which is to become due and the date (or the mode of determining the date) upon which it is to become due.\n(2) If the owner fails without reasonable cause to comply with a request made under subsection (1), then while the default continues—\n  (a) no person shall be entitled to enforce the agreement against the hirer or to enforce any contract of guarantee relating to the agreement, and the owner shall not be entitled to enforce any right to recover possession of the goods from the hirer; and\n  (b) no security given by the hirer in respect of money payable under the agreement or given by a guarantor in respect of money payable under a contract of guarantee shall be enforceable by any holder thereof against the hirer or guarantor, as the case may be, and if the default continues for a period exceeding thirty days the owner shall be guilty of an offence and liable to a fine not exceeding five hundred shillings.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If a hirer hands or sends by registered post to the owner a written request therefor, and tenders to the owner a sum of ten shillings for expenses, the owner shall, within fourteen days after the request and tender are received by him, hand or send by registered post to the hirer a statement signed by or on behalf of the owner showing—"
+    },
+    {
+     "ref": "(2)",
+     "text": "If the owner fails without reasonable cause to comply with a request made under subsection (1), then while the default continues—"
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Appropriation of payments where more than one agreement",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "A hirer who is liable to make payments in respect of two or more hire-purchase agreements to the same owner shall be entitled, on making any payment in respect of the agreements which is not sufficient to discharge the total amount then due under all the agreements, to require the owner to appropriate the sum so paid by him in or towards the satisfaction of the sum due under any one of the agreements, or in or towards the satisfaction of the sums due under any two or more of the agreements in such proportions as he thinks fit, and, if he fails to make any such appropriation, the payment shall by virtue of this section be appropriated in or towards the satisfaction of the sums due under the respective hire-purchase agreements in the order in which the agreements were entered into.",
+   "clauses": []
+  },
+  "29": {
+   "num": "29",
+   "title": "Limitation on enforcement of agreement",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "An owner shall not be entitled, by reason of the hirer’s failure to carry out any obligation under a hirepurchase agreement, to enforce—\n  (a) any provision in the agreement for the acceleration of the payment of an instalment, unless an instalment, or some part of an instalment which is not less than one-tenth of the hire-purchase price, or two or more instalments or part of instalments which altogether are not less than onetwentieth of the hire-purchase price, are due and unpaid; or\n  (b) any provision in the agreement for the payment of an amount of damages, or for forfeiture or penalty, or for the acceleration of the payment of an instalment, unless he has made written demand to the hirer to carry out the obligation in question within a specified period of not less than fourteen days beginning with the date of service of the demand and the hirer has failed to comply with the demand.",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "Agreement binding on trustee or liquidator of owner",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) If—\n  (a) in the case of a natural person, the owner is adjudged bankrupt; or\n  (b) in the case of a company, the owner is placed in liquidation, a hire- purchase agreement entered into by the person or company as owner continues in effect after the commencement of the bankruptcy or liquidation and is binding on the bankruptcy trustee or liquidator, but without affecting the right of the bankruptcy trustee or liquidator to disclaim.\n(2) Subsection (1) does not affect the powers of the court to set aside any disposition of property that is an undue preference.\n[Act No. 19 of 2015, s. 124.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Subsection (1) does not affect the powers of the court to set aside any disposition of property that is an undue preference."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Bankruptcy of hirer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "If a hirer is adjudged bankrupt, the rights and duties which are the subject of the hire-purchase agreement entered into by the hirer shall vest in his trustee, notwithstanding the terms of the agreement, but without prejudice to the trustee’s right to disclaim:\nProvided that if the goods are used by the trustee on behalf of the hirer’s estate, the trustee shall pay to the owner, as a cost in the administration of the estate, each instalment in respect of the purchase price which becomes due under the agreement during the period the goods are so used.",
+   "clauses": []
+  },
+  "32": {
+   "num": "32",
+   "title": "Service of notices",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) Any notice or document required or authorized to be served on or given to an owner or hirer under this Act may be so served or given—\n  (a) by delivering it to him personally;\n  (b) by leaving it at his place of abode or business with some other person apparently a resident thereof or employed thereat and apparently over the age of sixteen years; or\n  (c) by posting it addressed to him at his last known place of abode or business in Kenya.\n(2) The affidavit or oral evidence of an owner or his servant or agent as to the delivery or posting of any notice or document required or authorized to be served under this Act shall be admissible as prima facie evidence of the due service of the document or notice, if the deponent swears to the facts necessary to prove due service either from his own knowledge or to the best of his information and belief based on and verified by the records of the owner.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any notice or document required or authorized to be served on or given to an owner or hirer under this Act may be so served or given—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The affidavit or oral evidence of an owner or his servant or agent as to the delivery or posting of any notice or document required or authorized to be served under this Act shall be admissible as prima facie evidence of the due service of the document or notice, if the deponent swears to the facts necessary to prove due service either from his own knowledge or to the best of his information and belief based on and verified by the records of the owner."
+    }
+   ]
+  },
+  "32A": {
+   "num": "32A",
+   "title": "Cabinet Secretary may determine interest rates etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) The Cabinet Secretary may, in consultation with the Central Bank of Kenya established under the Central Bank of Kenya Act (Cap. 491), determine and publish—\n  (a) the matters to be taken into account in the computation of the hire-purchase price and the amounts of the instalments by which the hire-purchase price is to be paid including such matters as the rate of interest or charges which may be imposed on a hirer in respect of any sum credited or to be credited to the hirer by the owner; and\n  (b) the penalties or forfeitures which may be imposed on a hirer under a hire-purchase agreement.\n(2) The Cabinet Secretary may determine different matters and different penalties and forfeitures for different types of hire-purchase businesses.\n[Act No. 12 of 1984, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, in consultation with the Central Bank of Kenya established under the Central Bank of Kenya Act (Cap. 491), determine and publish—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary may determine different matters and different penalties and forfeitures for different types of hire-purchase businesses."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Cabinet Secretary’s power to obtain information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) Every person carrying on hire-purchase business shall furnish to the Cabinet Secretary, at the prescribed time and in the prescribed manner, all such information as the Cabinet Secretary may reasonably require for the proper implementation of this Act.\n(2) Any person who fails or refuses to comply with a written requirement made under subsection (1) shall be guilty of an offence and liable to a fine not exceeding one hundred thousand shillings.\n[Act No. 7 of 2007, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every person carrying on hire-purchase business shall furnish to the Cabinet Secretary, at the prescribed time and in the prescribed manner, all such information as the Cabinet Secretary may reasonably require for the proper implementation of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who fails or refuses to comply with a written requirement made under subsection (1) shall be guilty of an offence and liable to a fine not exceeding one hundred thousand shillings."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "False information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "Any person who knowingly gives false information in any proposal form or other document completed for the purpose of entering into a hire-purchase agreement shall be guilty of an offence and liable to a fine not exceeding five thousand shillings or to imprisonment for a term not exceeding six months, or to both such fine and imprisonment.",
+   "clauses": []
+  },
+  "35": {
+   "num": "35",
+   "title": "Cabinet Secretary’s power to make rules",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) The Cabinet Secretary may make rules generally for the better carrying out of any of the provisions or purposes of this Act.\n(2) Without prejudice to the generality of the powers conferred by subsection (1), rules thereunder may provide for all or any of the following matters—\n  (a) anything which is to be or may be prescribed under this Act;\n  (b) the form of hire-purchase agreements;\n  (c) the form of notices relating to hire-purchase agreements;\n  (d) deleted by Act No. 13 of 2017, Sch.\n  (e) the fees payable for anything which may be done under this Act.\n[Act No. 13 of 2017, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may make rules generally for the better carrying out of any of the provisions or purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of the powers conferred by subsection (1), rules thereunder may provide for all or any of the following matters—"
+    }
+   ]
+  }
+ },
+ "schedules": [],
+ "spent": {}
+}

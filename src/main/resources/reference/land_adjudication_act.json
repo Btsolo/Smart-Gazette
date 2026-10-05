@@ -1,0 +1,760 @@
+{
+ "title": "Land Adjudication Act",
+ "citation": "Cap. 284",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1968/35/eng@2023-12-11",
+ "version_date": "2023-12-11",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "LAND ADJUDICATION ACT CAP. 284 Assented to on 26 June 1968 Commenced on 28 June 1968\n[Amended by Statute Law (Miscellaneous Amendments) Act, 1969 (Act No. 10 of 1969) on 27 June 1969] [Amended by Statute Law (Miscellaneous Amendments) Act, 1977 (Act No. 16 of 1977) on 28 October 1977] [Amended by Statute Law (Miscellaneous Amendments) Act, 2007 (Act No. 7 of 2007) on 15 October 2007]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2016 (Act No. 7 of 2016) on 10 May 2016] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\n[Amended by Statute Law (Miscellaneous Amendment) Act, 2023 (Act No. 19 of 2023) on 11 December 2023]\nAn Act of Parliament to provide for the ascertainment and recording of rights and interests in community land, and for purposes connected therewith and purposes incidental thereto",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "THE ADJUDICATION OFFICER AND HIS STAFF, ADJUDICATION COMMITTEES AND ARBITRATION BOARDS",
+   "provisions": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "ASCERTAINMENT OF INTERESTS IN LAND",
+   "provisions": [
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "PREPARATION OF THE ADJUDICATION REGISTER",
+   "provisions": [
+    "23",
+    "24",
+    "25",
+    "26",
+    "26A",
+    "27",
+    "28",
+    "29"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "MISCELLANEOUS",
+   "provisions": [
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Land Adjudication Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, except where the context otherwise requires— \"adjudication area\" means an area to which this Act is applied under section 3(1) of this Act; \"adjudication officer\" means an adjudication officer appointed under section 4 of this Act; \"adjudication record\" means an adjudication record prepared under sections 19 and 23 of this Act; \"adjudication register\" means the adjudication register mentioned in section 24 of this Act; \"adjudication section\" means an adjudication section established under section 5 of this Act; \"board\" means an arbitration board or a special arbitration board appointed under section 7 of this Act; \"Cabinet Secretary\" means the Cabinet Secretary responsible for matters relating to land; \"Chief Land Registrar\" means the Chief Land Registrar appointed under the Registered Land Act (Repealed); \"committee\" means an adjudication committee appointed under section 6(1) of this Act; \"demarcation map\" means a demarcation map prepared under section 16 of this Act; \"demarcation officer\" means a demarcation officer appointed under section 4 of this Act; \"Director of Land Adjudication\" means the person for the time being holding the public office of that name; \"disability\" means disability arising from minority or other incapacity; \"group\" means a tribe, clan, section, family or other group of persons, whose land under recognized customary law belongs communally to the persons who are for the time being the members of the group, together with any person of whose land the group is determined to be the owner under the proviso to section 23(2)(a) of this Act;\n\"guardian\" means a person responsible (whether under recognized customary law or otherwise) for protecting the interests of a person who is under a disability;\n\"interest\", in relation to land, includes absolute ownership of the land and any right or interest in or over the land which is capable of being registered under the Registered Land Act (Repealed);\n\"land\" includes things growing on land and buildings and other things permanently affixed to land;\n\"land registrar\" means the person responsible for the registration of title to land in the area in question under the Registered Land Act (Repealed);\n\"parcel\" means an area of land separately shown on the demarcation map;\n\"recording officer\" means a recording officer appointed under section 4 of this Act;\n\"survey officer\" means a survey officer appointed under section 4 of this Act.\n[Act No. 7 of 2016, Sch.]",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Application",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) The Cabinet Secretary may by order apply this Act to any area of community land if—\n  (a) the county government in whom the land is vested so requests; and\n  (b) the Cabinet Secretary considers it expedient that the rights and interests of persons in the land should be ascertained and registered; and\n  (c) the Land Consolidation Act (Cap. 283) does not apply to the area:\nProvided that this Act may be applied to an area to which the Land Consolidation Act (Cap. 283) applies where a record of existing rights has not been completed and certified under section 16 of that Act, and in such case, where anything has been done in the course of or for the purpose of adjudication under that Act, the Cabinet Secretary, if he is satisfied that those things have been done substantially in accordance with the principles of this Act, may, by order, order that those things shall be deemed to have been done under the corresponding provisions of this Act.\n(2) An order under this section shall define the area to which it relates either by description or by reference to a plan or both.\n[Act No. 7 of 2016, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may by order apply this Act to any area of community land if—"
+    },
+    {
+     "ref": "(2)",
+     "text": "An order under this section shall define the area to which it relates either by description or by reference to a plan or both."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Appointment of officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE ADJUDICATION OFFICER AND HIS STAFF, ADJUDICATION COMMITTEES AND ARBITRATION BOARDS",
+   "text": "(1) Where an order is made under section 3(1) of this Act, the Cabinet Secretary shall, by notice in the Gazette, appoint a public officer to be the adjudication officer for the adjudication area, and the adjudication officer may in writing appoint such demarcation officers, survey officers and recording officers, being public officers, as may be necessary for demarcating, surveying and recording interests within the adjudication area, and they shall be subordinate to him.\n(2) Where the Cabinet Secretary has appointed an adjudication officer for an adjudication area, he may, if he considers that the situation so requires, appoint for that adjudication area additional adjudication officers having limited powers and confer on them all or any of the powers conferred by sections 9(2), 10, 11(b), 12, 20(b), 21(2), 26 and 34 of this Act, and an adjudication officer so appointed shall have the powers so conferred on him and no more.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where an order is made under section 3(1) of this Act, the Cabinet Secretary shall, by notice in the Gazette, appoint a public officer to be the adjudication officer for the adjudication area, and the adjudication officer may in writing appoint such demarcation officers, survey officers and recording officers, being public officers, as may be necessary for demarcating, surveying and recording interests within the adjudication area, and they shall be subordinate to him."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Cabinet Secretary has appointed an adjudication officer for an adjudication area, he may, if he considers that the situation so requires, appoint for that adjudication area additional adjudication officers having limited powers and confer on them all or any of the powers conferred by sections 9(2), 10, 11(b), 12, 20(b), 21(2), 26 and 34 of this Act, and an adjudication officer so appointed shall have the powers so conferred on him and no more."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Establishment of adjudication sections",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE ADJUDICATION OFFICER AND HIS STAFF, ADJUDICATION COMMITTEES AND ARBITRATION BOARDS",
+   "text": "(1) The adjudication officer shall by notice either—\n  (a) establish adjudication sections within the adjudication area;\n  (b) establish the whole adjudication area as an adjudication section.\n(2) A separate notice shall be published in respect of each adjudication section, and in each such notice the adjudication officer—\n  (a) shall define as clearly as possible the area of the adjudication section;\n  (b) shall declare that interests in land within the adjudication section will be ascertained and recorded in accordance with this Act;\n  (c) shall fix a period within which a person claiming an interest in land within the adjudication section must make his claim to the recording officer, either in writing or in person or by his agent duly authorized according to law (including recognized customary law); and\n  (d) may require any person making a claim to point out to the demarcation officer or to demarcate or assist in the demarcation of the boundaries of the land in which he claims to be interested or to clear any such boundaries or any other line in the manner and before a date fixed by the demarcation officer.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The adjudication officer shall by notice either—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A separate notice shall be published in respect of each adjudication section, and in each such notice the adjudication officer—"
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Appointment of adjudication committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE ADJUDICATION OFFICER AND HIS STAFF, ADJUDICATION COMMITTEES AND ARBITRATION BOARDS",
+   "text": "(1) In respect of each adjudication section, the adjudication officer, after consultation with the District Commissioner of the district within which the adjudication section lies, shall appoint not less than ten persons resident within the adjudication section to be the adjudication committee for that adjudication section.\n(2) The adjudication officer shall appoint an executive officer for each committee to keep its records and to inform the recording officer of its decisions, and the executive officer shall attend and may speak at any meeting of the committee, but may not vote.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In respect of each adjudication section, the adjudication officer, after consultation with the District Commissioner of the district within which the adjudication section lies, shall appoint not less than ten persons resident within the adjudication section to be the adjudication committee for that adjudication section."
+    },
+    {
+     "ref": "(2)",
+     "text": "The adjudication officer shall appoint an executive officer for each committee to keep its records and to inform the recording officer of its decisions, and the executive officer shall attend and may speak at any meeting of the committee, but may not vote."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Appointment of arbitration board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE ADJUDICATION OFFICER AND HIS STAFF, ADJUDICATION COMMITTEES AND ARBITRATION BOARDS",
+   "text": "(1) The Provincial Commissioner of the province in which the adjudication area lies shall, upon the request of the adjudication officer, appoint a panel for the adjudication area, consisting of not less than six and not more than twenty-five persons resident within the district in which the adjudication area is situate, and the adjudication officer may from time to time appoint in writing not less than five persons from the panel to form an arbitration board for a particular question arising in an adjudication section within the adjudication area:\nProvided that—\n  (i) no person who has sat on a committee which has given a decision upon a particular question shall sit as a member of a board to consider the same question;\n  (ii) where the land concerned lies on or near the boundary of a district, and the persons who claim an interest in it are resident in different districts, the Cabinet Secretary may, in his absolute discretion, appoint a special arbitration board consisting of eight persons.\n(2) The adjudication officer shall appoint an executive officer for each board to keep its records and to inform the recording officer of its decisions, and the executive officer shall attend and may speak at any meeting of the board, but may not vote:\nProvided that a person who has acted as executive officer of a committee which has given a decision upon a particular question shall not act as executive officer of a board in connexion with the same question.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Provincial Commissioner of the province in which the adjudication area lies shall, upon the request of the adjudication officer, appoint a panel for the adjudication area, consisting of not less than six and not more than twenty-five persons resident within the district in which the adjudication area is situate, and the adjudication officer may from time to time appoint in writing not less than five persons from the panel to form an arbitration board for a particular question arising in an adjudication section within the adjudication area:"
+    },
+    {
+     "ref": "(2)",
+     "text": "The adjudication officer shall appoint an executive officer for each board to keep its records and to inform the recording officer of its decisions, and the executive officer shall attend and may speak at any meeting of the board, but may not vote:"
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Procedure of committees and boards",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE ADJUDICATION OFFICER AND HIS STAFF, ADJUDICATION COMMITTEES AND ARBITRATION BOARDS",
+   "text": "(1) If a member of a committee or board has any interest, direct or indirect, in the determination of a claim to an interest in land which is before the committee or board (as the case may be), and is present at a meeting of the committee or board at which the determination of that claim is under consideration, he shall at the meeting, as soon as practicable after it begins, disclose his interest and not take part in the consideration or discussion of the claim, nor shall he vote on any question with respect to the determination of the claim.\n(2) Each committee and board shall elect one of its members to be chairman, who shall preside at all meetings at which he is present, and if at any meeting the chairman is absent the members present shall elect one of themselves to preside at that meeting.\n(3) The quorum of a committee or board, where the total number of members is an even number, shall be one-half of that number, and where the total number of members is an uneven number it shall be one-half of the even number that is greater than that number by one.\n(4) The decision of three-quarters or more of the members of a committee or board who are present and vote shall be the decision of the committee or board, as the case may be.\n(5) Any decision of a committee or board shall be signified in writing and signed by the chairman and the executive officer, and the executive officer shall inform any of the parties who are not present of the decision.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If a member of a committee or board has any interest, direct or indirect, in the determination of a claim to an interest in land which is before the committee or board (as the case may be), and is present at a meeting of the committee or board at which the determination of that claim is under consideration, he shall at the meeting, as soon as practicable after it begins, disclose his interest and not take part in the consideration or discussion of the claim, nor shall he vote on any question with respect to the determination of the claim."
+    },
+    {
+     "ref": "(2)",
+     "text": "Each committee and board shall elect one of its members to be chairman, who shall preside at all meetings at which he is present, and if at any meeting the chairman is absent the members present shall elect one of themselves to preside at that meeting."
+    },
+    {
+     "ref": "(3)",
+     "text": "The quorum of a committee or board, where the total number of members is an even number, shall be one-half of that number, and where the total number of members is an uneven number it shall be one-half of the even number that is greater than that number by one."
+    },
+    {
+     "ref": "(4)",
+     "text": "The decision of three-quarters or more of the members of a committee or board who are present and vote shall be the decision of the committee or board, as the case may be."
+    },
+    {
+     "ref": "(5)",
+     "text": "Any decision of a committee or board shall be signified in writing and signed by the chairman and the executive officer, and the executive officer shall inform any of the parties who are not present of the decision."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Duties of adjudication officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE ADJUDICATION OFFICER AND HIS STAFF, ADJUDICATION COMMITTEES AND ARBITRATION BOARDS",
+   "text": "(1) The adjudication officer shall be in charge of and shall exercise general supervision and control over the adjudication.\n(2) The adjudication officer shall hear and determine—\n  (a) any petition respecting any act done, omission made or decision given by a survey officer, demarcation officer or recording officer; and\n  (b) any objection to the adjudication register which is submitted in accordance with section 26 of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The adjudication officer shall be in charge of and shall exercise general supervision and control over the adjudication."
+    },
+    {
+     "ref": "(2)",
+     "text": "The adjudication officer shall hear and determine—"
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "General powers of adjudication officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE ADJUDICATION OFFICER AND HIS STAFF, ADJUDICATION COMMITTEES AND ARBITRATION BOARDS",
+   "text": "(1) The adjudication officer shall have jurisdiction in all claims made under this Act relating to interests in land in the adjudication area, with power to determine any question that needs to be determined in connexion with such claims, and for that purpose he shall be legally competent to administer oaths and to issue summonses, notices or orders requiring the attendance of such persons or the production of such documents as he may consider necessary for the carrying out of the adjudication.\n(2) The adjudication officer may himself exercise all or any of the powers which are given by this Act to officers subordinate to him.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The adjudication officer shall have jurisdiction in all claims made under this Act relating to interests in land in the adjudication area, with power to determine any question that needs to be determined in connexion with such claims, and for that purpose he shall be legally competent to administer oaths and to issue summonses, notices or orders requiring the attendance of such persons or the production of such documents as he may consider necessary for the carrying out of the adjudication."
+    },
+    {
+     "ref": "(2)",
+     "text": "The adjudication officer may himself exercise all or any of the powers which are given by this Act to officers subordinate to him."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Particular powers of adjudication officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE ADJUDICATION OFFICER AND HIS STAFF, ADJUDICATION COMMITTEES AND ARBITRATION BOARDS",
+   "text": "In the course of the adjudication, the adjudication officer shall have the following powers—\n  (a) he may issue to the officers subordinate to him and to committees and boards such general or particular directions as he thinks necessary for carrying out the provisions of the Act which relate to the procedure for demarcation, recording of title and survey within the adjudication area;\n  (b) at any time before the adjudication register is completed, he may correct any error or supply any omission occurring in the adjudication register;\n  (c) he may make a claim or otherwise act on behalf of a person who is absent or under a disability if he considers it necessary to avoid injustice.",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Procedure before adjudication officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE ADJUDICATION OFFICER AND HIS STAFF, ADJUDICATION COMMITTEES AND ARBITRATION BOARDS",
+   "text": "(1) In the hearing of any objection or petition made in writing, the adjudication officer shall make or cause to be made a record of the proceedings, and shall, so far as is practicable, follow the procedure directed to be observed in the hearing of civil suits, save that in his absolute discretion he may admit evidence which would not be admissible in a court of law, and may use evidence adduced in another claim or contained in any official record, and may call evidence of his own accord.\n(2) Any proceeding conducted under this Act by the adjudication officer or by an officer subordinate to him for that purpose is a judicial proceeding for the purpose of Chapters XI and XVIII of the Penal Code (Cap. 63).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In the hearing of any objection or petition made in writing, the adjudication officer shall make or cause to be made a record of the proceedings, and shall, so far as is practicable, follow the procedure directed to be observed in the hearing of civil suits, save that in his absolute discretion he may admit evidence which would not be admissible in a court of law, and may use evidence adduced in another claim or contained in any official record, and may call evidence of his own accord."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any proceeding conducted under this Act by the adjudication officer or by an officer subordinate to him for that purpose is a judicial proceeding for the purpose of Chapters XI and XVIII of the Penal Code (Cap. 63)."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Claims and attendance",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ASCERTAINMENT OF INTERESTS IN LAND",
+   "text": "(1) Every person who considers that he has an interest in land within an adjudication section shall make a claim to the recording officer, and point out his boundaries to the demarcation officer in the manner required and within the period fixed by the notice published under section 5 of this Act.\n(2) Every person whose presence is required by the adjudication officer, demarcation officer, recording officer, committee or board shall attend in person or by a duly authorized agent at the time and place ordered.\n(3) If any person who is ordered to attend fails to attend in person or by a duly authorized agent, the demarcation, recording, adjudication or arbitration, as the case may be, may proceed in his absence.\n(4) If the demarcation officer or the recording officer considers that a person who has not made a claim has an interest in land within the adjudication section, he may, but is not bound to, proceed as if that person had made a claim.\n(5) Where several persons claim separately as successors of a deceased person, and one or more of those persons attends, his or their attendance shall be taken to be the attendance of all the successors, unless the adjudication officer otherwise directs.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every person who considers that he has an interest in land within an adjudication section shall make a claim to the recording officer, and point out his boundaries to the demarcation officer in the manner required and within the period fixed by the notice published under section 5 of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Every person whose presence is required by the adjudication officer, demarcation officer, recording officer, committee or board shall attend in person or by a duly authorized agent at the time and place ordered."
+    },
+    {
+     "ref": "(3)",
+     "text": "If any person who is ordered to attend fails to attend in person or by a duly authorized agent, the demarcation, recording, adjudication or arbitration, as the case may be, may proceed in his absence."
+    },
+    {
+     "ref": "(4)",
+     "text": "If the demarcation officer or the recording officer considers that a person who has not made a claim has an interest in land within the adjudication section, he may, but is not bound to, proceed as if that person had made a claim."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where several persons claim separately as successors of a deceased person, and one or more of those persons attends, his or their attendance shall be taken to be the attendance of all the successors, unless the adjudication officer otherwise directs."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Warning of demarcation and recording",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ASCERTAINMENT OF INTERESTS IN LAND",
+   "text": "Not less than seven clear days before the demarcation of an adjudication section is begun, the demarcation officer shall give warning of the intended demarcation and recording of claims, and of the time and place at which it will begin, in such manner as the adjudication officer considers most likely to bring the matter to the knowledge of the persons who will be affected by the demarcation and recording.",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "Duties of demarcation officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ASCERTAINMENT OF INTERESTS IN LAND",
+   "text": "Subject to any general or particular directions given by the adjudication officer, the duties of the demarcation officer within an adjudication section are—\n  (a) to demarcate or cause to be demarcated—\n  (i) the boundaries of each separate piece of land, whether claimed by an individual or by a group:\nProvided that where the boundary of a piece of land is already demarcated by a physical feature it need not be determined whether the exact line of the boundary runs along the center of the feature or along its inner or outer side;\n  (ii) the boundaries of all land which is entirely free from private rights, or the private rights in or over which have been relinquished in favour of the county council;\n  (iii) the boundaries of all land which has been set apart under the Constitution; and\n  (b) to submit to the committee any boundary dispute which he is unable to resolve.",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "Duties of survey officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ASCERTAINMENT OF INTERESTS IN LAND",
+   "text": "Subject to any general or particular directions given by the adjudication officer, the duties of the survey officer within an adjudication section are—\n  (a) to carry out such survey work as is required in carrying out the adjudication process; and\n  (b) to prepare or cause to be prepared a demarcation map of the adjudication section, showing every parcel of land identified by a distinguishing number, except that roads, railways, waterways and lakes need not be identified by a number.",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "General powers of demarcation and survey officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ASCERTAINMENT OF INTERESTS IN LAND",
+   "text": "In the performance of their respective duties, the demarcation officer and the survey officer may each enter at any reasonable time upon any land within the adjudication area for the purpose of demarcating or surveying any parcel therein, and may summon any person who can give information regarding the boundaries of a parcel to point out the boundaries.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Particular powers of demarcation officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ASCERTAINMENT OF INTERESTS IN LAND",
+   "text": "(1) In the performance of his duties, the demarcation officer may—\n  (a) when the boundary between parcels of land is curved or irregular, or in his opinion is inconvenient or uneconomic for the use of the land, lay out a fresh boundary in its place and adjust the interests of the owners of the land adjoining the boundary either by exchange of land or by such other means as the parties may agree;\n  (b) demarcate any right of way which is necessary for providing a parcel completely surrounded by other parcels with access to a public road or to water;\n  (c) make such alignment of parcels adjoining a public road as may be required in the public interest;\n  (d) with the agreement of the owner or owners group together in one or more parcels, by way of exchange or otherwise, separate areas of land owned by such owner or owners.\n(2) Where a piece of land has not been demarcated in the manner and before the date fixed by the demarcation officer under section 5(2)(d) of this Act, the demarcation officer may demarcate or cause to be demarcated the land and may clear or cause to be cleared any boundary or other line which it may be necessary to clear for the purpose of such demarcation.\n(3) Where the demarcation officer demarcates or causes to be demarcated a piece of land or clears or causes to be cleared a boundary or other line under subsection (2) of this section, the cost shall be assessed in the prescribed manner by the adjudication officer, and shall be paid to the Director of Land Adjudication by the person interested in the land.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In the performance of his duties, the demarcation officer may—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a piece of land has not been demarcated in the manner and before the date fixed by the demarcation officer under section 5(2)(d) of this Act, the demarcation officer may demarcate or cause to be demarcated the land and may clear or cause to be cleared any boundary or other line which it may be necessary to clear for the purpose of such demarcation."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the demarcation officer demarcates or causes to be demarcated a piece of land or clears or causes to be cleared a boundary or other line under subsection (2) of this section, the cost shall be assessed in the prescribed manner by the adjudication officer, and shall be paid to the Director of Land Adjudication by the person interested in the land."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Duties of recording officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ASCERTAINMENT OF INTERESTS IN LAND",
+   "text": "(1) Subject to subsection (2) of this section, the recording officer shall consider all the claims made in pursuance of the notice published under section 5 of this Act, and, after such investigation as he considers proper, shall prepare in duplicate, in accordance with section 23 of this Act, a form in respect of every parcel shown on the demarcation map.\n(2) If there are two or more conflicting claims to an interest in land and the recording officer is unable to resolve the conflict, he shall submit the dispute to the committee to decide.\n(3) The recording officer shall rectify the forms in accordance with any decision which the adjudication officer, the committee or the board may make in accordance with this Act.\n(4) The recording officer shall perform and exercise his duties under this section in accordance with the general or particular directions of the adjudication officer.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2) of this section, the recording officer shall consider all the claims made in pursuance of the notice published under section 5 of this Act, and, after such investigation as he considers proper, shall prepare in duplicate, in accordance with section 23 of this Act, a form in respect of every parcel shown on the demarcation map."
+    },
+    {
+     "ref": "(2)",
+     "text": "If there are two or more conflicting claims to an interest in land and the recording officer is unable to resolve the conflict, he shall submit the dispute to the committee to decide."
+    },
+    {
+     "ref": "(3)",
+     "text": "The recording officer shall rectify the forms in accordance with any decision which the adjudication officer, the committee or the board may make in accordance with this Act."
+    },
+    {
+     "ref": "(4)",
+     "text": "The recording officer shall perform and exercise his duties under this section in accordance with the general or particular directions of the adjudication officer."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Functions of committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ASCERTAINMENT OF INTERESTS IN LAND",
+   "text": "The committee appointed for an adjudication section shall—\n  (a) adjudicate upon and decide in accordance with recognized customary law any question referred to it by the demarcation officer or the recording officer;\n  (b) advise the adjudication officer or any officer subordinate to him upon any question of recognized customary law as to which he has sought its guidance;\n  (c) safeguard the interests of absent persons and persons under disability;\n  (d) bring to the attention of officers engaged in the adjudication any interest in respect of which for any reason no claim has been made;\n  (e) assist generally in the adjudication process.",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Decisions of committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ASCERTAINMENT OF INTERESTS IN LAND",
+   "text": "(1) If a committee is unable to reach a decision on a matter before it, it shall refer the matter to the arbitration board for decision.\n(2) The adjudication officer may require the committee to reconsider any decision which it has made. (3) Any person named in or affected by a decision of the committee who considers the decision to be incorrect may, within fourteen days after the decision, complain to the executive officer of the committee, saying in what respect he considers the decision to be incorrect. (4) Upon receipt of a complaint under subsection (3) of this section, the executive officer of the committee shall refer it with all the particulars of the case to the executive officer of the board, who shall submit it to the board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If a committee is unable to reach a decision on a matter before it, it shall refer the matter to the arbitration board for decision."
+    },
+    {
+     "ref": "(2)",
+     "text": "The adjudication officer may require the committee to reconsider any decision which it has made. (3) Any person named in or affected by a decision of the committee who considers the decision to be incorrect may, within fourteen days after the decision, complain to the executive officer of the committee, saying in what respect he considers the decision to be incorrect. (4) Upon receipt of a complaint under subsection (3) of this section, the executive officer of the committee shall refer it with all the particulars of the case to the executive officer of the board, who shall submit it to the board."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Functions of arbitration board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ASCERTAINMENT OF INTERESTS IN LAND",
+   "text": "The board shall hear and determine any matter referred to it or complaint made to it under section 21 of this Act.",
+   "clauses": []
+  },
+  "23": {
+   "num": "23",
+   "title": "Preparation of adjudication record",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PREPARATION OF THE ADJUDICATION REGISTER",
+   "text": "(1) The forms prepared by the recording officer under section 19 of this Act shall together comprise the adjudication record.\n(2) In preparing the adjudication record, the recording officer, if he is satisfied that—\n  (a) any person has, under recognized customary law, exercised rights in or over land which should be recognized as ownership, shall determine that person to be owner of that land:\nProvided that if—\n  (i) the land adjoins land of which a group is determined under paragraph (b) of this subsection to be the owner; and\n  (ii) that person desires to join the group and to have his land added to the group’s land; and\n  (iii) the group is willing to have that person as a member, the recording officer shall determine that group to be the owner of that land, and thereupon that person shall become a member of that group;\n  (b) any group has, under recognized customary law, exercised rights in or over land which should be recognized as ownership, shall determine that group to be the owner of that land;\n  (c) land has been set apart under the Constitution, shall determine the person in whom the land is vested to be the owner of the land set apart;\n  (d) land is entirely free from private rights, or all private rights in or over the land have been relinquished in favour of the county government, shall determine the county government to be the owner of the land;\n  (e) any person or group is entitled to any interest in land not amounting to ownership, including any lease, right of occupation, charge or other encumbrance, whether by virtue of recognized customary law or otherwise, shall determine the nature, incidents and extent of the right to enable it to be recorded in the name of the person or group entitled to the benefit of it.\n(3) Each of the forms which comprise the adjudication record shall contain the following information—\n  (a) the number of the parcel as shown on the demarcation map and its approximate area;\n  (b) a record of—\n  (i) the name and description of the owner, with particulars of any restriction on his power of dealing with it;\n  (ii) where the land has been set apart, the year and number of the Gazette notice by which, and the purpose for which, the land was set apart; and\n  (iii) where the land is recorded under subsection (2)(d) of this section as being in the ownership of the county government, the fact that the land remains community land;\n  (c) particulars of any such right as is referred to in subsection (2)(e) of this section;\n  (d) if any owner or other person is under a disability, the name of his guardian, the nature of his disability and (if he is a minor) his age; and\n  (e) the date on which the form is completed.\n(4) If two or more persons are recorded as the owners of land or as entitled to any right not amounting to ownership, the recording officer shall determine and record whether they own or are entitled jointly or in common, and in the latter case the share of each.\n(5) Where a group is recorded as the owner of land or as entitled to an interest not amounting to ownership of land, the adjudication officer shall—\n  (a) cause the group to be advised to apply for group representatives to be incorporated under the Land (Group Representatives) Act (Repealed);\n  (b) cause the recording officer to record that the group has been so advised; and\n  (c) notify the Registrar of Group Representatives that the group has been so advised.\n(6) When completed, the form shall be signed by the chairman and the executive officer of the committee, and by the owner of each interest in the parcel or his authorized agent (or in the case of joint owners by at least one owner or his authorized agent), and the signature of the owner or authorized agent shall be witnessed:\nProvided that a form shall not be invalidated by the absence of the owner’s signature, if the chairman and the executive officer of the committee certify on it that the owner has withheld his signature or that his signature cannot be obtained without an amount of delay or expense which in the circumstances of the case is considered by them to be unreasonable.\n(7) After the form has been signed under subsection (6) of this section, no alteration shall be made in it except as provided by section 27(1) or section 29(3) of this Act.\n[Act No. 10 of 1969, Sch., Act No. 7 of 2016, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The forms prepared by the recording officer under section 19 of this Act shall together comprise the adjudication record."
+    },
+    {
+     "ref": "(2)",
+     "text": "In preparing the adjudication record, the recording officer, if he is satisfied that—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Each of the forms which comprise the adjudication record shall contain the following information—"
+    },
+    {
+     "ref": "(4)",
+     "text": "If two or more persons are recorded as the owners of land or as entitled to any right not amounting to ownership, the recording officer shall determine and record whether they own or are entitled jointly or in common, and in the latter case the share of each."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where a group is recorded as the owner of land or as entitled to an interest not amounting to ownership of land, the adjudication officer shall—"
+    },
+    {
+     "ref": "(6)",
+     "text": "When completed, the form shall be signed by the chairman and the executive officer of the committee, and by the owner of each interest in the parcel or his authorized agent (or in the case of joint owners by at least one owner or his authorized agent), and the signature of the owner or authorized agent shall be witnessed:"
+    },
+    {
+     "ref": "(7)",
+     "text": "After the form has been signed under subsection (6) of this section, no alteration shall be made in it except as provided by section 27(1) or section 29(3) of this Act."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Adjudication register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PREPARATION OF THE ADJUDICATION REGISTER",
+   "text": "The demarcation map and the adjudication record are collectively known as the adjudication register.",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "Action on completion of adjudication record",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PREPARATION OF THE ADJUDICATION REGISTER",
+   "text": "When the adjudication register has been completed, the adjudication officer shall so certify on the adjudication record and demarcation map, and shall then—\n  (a) deliver the duplicate adjudication record (bearing a copy of the certificate) to the Director of Land Adjudication;\n  (b) display the original adjudication register for inspection at a convenient place within the adjudication section; and\n  (c) give notice that the adjudication register has been completed and may be inspected at that place during a period of sixty days from the date of the notice.",
+   "clauses": []
+  },
+  "26": {
+   "num": "26",
+   "title": "Objection to adjudication register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PREPARATION OF THE ADJUDICATION REGISTER",
+   "text": "(1) Any person named in or affected by the adjudication register who considers it to be incorrect or incomplete in any respect may, within sixty days of the date upon which the notice of completion of the adjudication register is published, object to the adjudication officer in writing, saying in what respect he considers the adjudication register to be incorrect or incomplete.\n(2) The adjudication officer shall consider any objection made to him under subsection (1) of this section, and after such further consultation and inquiries as he thinks fit he shall determine the objection.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person named in or affected by the adjudication register who considers it to be incorrect or incomplete in any respect may, within sixty days of the date upon which the notice of completion of the adjudication register is published, object to the adjudication officer in writing, saying in what respect he considers the adjudication register to be incorrect or incomplete."
+    },
+    {
+     "ref": "(2)",
+     "text": "The adjudication officer shall consider any objection made to him under subsection (1) of this section, and after such further consultation and inquiries as he thinks fit he shall determine the objection."
+    }
+   ]
+  },
+  "26A": {
+   "num": "26A",
+   "title": "No Objection Register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PREPARATION OF THE ADJUDICATION REGISTER",
+   "text": "(1) When the time for objection under section 26(1) has expired, the adjudication officer shall prepare a No Objection Register in respect of any land not subject to an objection, and deliver the same to the Director of Land Adjudication who shall—\n  (a) certify thereon and on the duplicate adjudication register that the adjudication of the land set out therein has become final; and\n  (b) forward the No Objection Register together with a copy of the duplicate adjudication register to the Chief Land Registrar for the purpose of registration under section 28.\n(2) The provisions of this section shall apply to all adjudication registers not yet finalized before its commencement.\n[Act No. 7 of 2007, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "When the time for objection under section 26(1) has expired, the adjudication officer shall prepare a No Objection Register in respect of any land not subject to an objection, and deliver the same to the Director of Land Adjudication who shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of this section shall apply to all adjudication registers not yet finalized before its commencement."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Finalization of adjudication register, subject to appeals",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PREPARATION OF THE ADJUDICATION REGISTER",
+   "text": "(1) The adjudication officer shall from time to time alter the adjudication register to conform with any determinations of objections under section 26 of this Act.\n(2) If the adjudication officer considers that to alter the adjudication register would incur unreasonable expense, delay or inconvenience, he may, instead, recommend to the Cabinet Secretary that compensation be paid and the Cabinet Secretary may make such payment of compensation out of moneys provided by Parliament as he thinks fit.\n(3) When all objections have been determined and the time for appeal under section 29 of this Act has expired, the adjudication officer shall send the adjudication register to the Director of Land Adjudication together with particulars of all determinations of objections and the Director shall—\n  (a) alter the duplicate adjudication register accordingly; and then\n  (b) certify on the adjudication register and on the duplicate adjudication register that it has become final subject to the outstanding appeals; and\n  (c) forward the adjudication register to the Chief Land Registrar together with a list of the appeals.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The adjudication officer shall from time to time alter the adjudication register to conform with any determinations of objections under section 26 of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "If the adjudication officer considers that to alter the adjudication register would incur unreasonable expense, delay or inconvenience, he may, instead, recommend to the Cabinet Secretary that compensation be paid and the Cabinet Secretary may make such payment of compensation out of moneys provided by Parliament as he thinks fit."
+    },
+    {
+     "ref": "(3)",
+     "text": "When all objections have been determined and the time for appeal under section 29 of this Act has expired, the adjudication officer shall send the adjudication register to the Director of Land Adjudication together with particulars of all determinations of objections and the Director shall—"
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Action by Chief Land Registrar",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PREPARATION OF THE ADJUDICATION REGISTER",
+   "text": "Upon receiving the adjudication register under section 27 of this Act, the Chief Land Registrar shall cause registrations to be effected in accordance with the adjudication register:\nProvided that, where the land is affected by an appeal under section 29 of this Act, a restriction shall be made and registered in respect of that land expressed to endure until the determination of the appeal, and on such determination the register shall if necessary be altered in accordance with the determination.",
+   "clauses": []
+  },
+  "29": {
+   "num": "29",
+   "title": "Appeal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PREPARATION OF THE ADJUDICATION REGISTER",
+   "text": "(1) Any person who is aggrieved by the determination of an objection under section 26 of this Act may, within sixty days after the date of the determination, appeal against the determination to the Cabinet Secretary by—\n  (a) delivering to the Cabinet Secretary an appeal in writing specifying the grounds of appeal; and\n  (b) sending a copy of the appeal to the Director of Land Adjudication, and the Cabinet Secretary shall determine the appeal and make such order thereon as he thinks just and the order shall be final.\n(2) The Cabinet Secretary shall cause copies of the order to be sent to the Director of Land Adjudication and to the Chief Land Registrar.\n(3) When the appeals have been determined, the Director of Land Adjudication shall—\n  (a) alter the duplicate adjudication register to conform with the determinations; and\n  (b) certify on the duplicate adjudication register that it has become final in all respects, and send details of the alterations and a copy of the certificate to the Chief Land Registrar, who shall alter the adjudication register accordingly.\n(4) Notwithstanding the provisions of section 38(2) of the Interpretation and General Provisions Act (Cap. 2) or any other written law, the Cabinet Secretary may delegate, by notice in the Gazette, his powers to hear appeals and his duties and functions under this section to any public office by name, or to the person for the time being holding any public office specified in such notice, and the determination, order and acts of any such public officer shall be deemed for all purposes to be that of the Cabinet Secretary.\n[Act No. 16 of 1977, Act No. 7 of 2007, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who is aggrieved by the determination of an objection under section 26 of this Act may, within sixty days after the date of the determination, appeal against the determination to the Cabinet Secretary by—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary shall cause copies of the order to be sent to the Director of Land Adjudication and to the Chief Land Registrar."
+    },
+    {
+     "ref": "(3)",
+     "text": "When the appeals have been determined, the Director of Land Adjudication shall—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Notwithstanding the provisions of section 38(2) of the Interpretation and General Provisions Act (Cap. 2) or any other written law, the Cabinet Secretary may delegate, by notice in the Gazette, his powers to hear appeals and his duties and functions under this section to any public office by name, or to the person for the time being holding any public office specified in such notice, and the determination, order and acts of any such public officer shall be deemed for all purposes to be that of the Cabinet Secretary."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Staying of land suits",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) Except with the consent in writing of the adjudication officer, no person shall institute, and no court shall entertain, any civil proceedings concerning an interest in land in an adjudication section until the adjudication register for that adjudication section has become final in all respects under section 29(3) of this Act.\n(2) Where any such proceedings were begun before the publication of the notice under section 5 of this Act, they shall be discontinued, unless the adjudication officer, having regard to the stage which the proceedings have reached, otherwise directs.\n(3) Any person who is aggrieved by the refusal of the adjudication officer to give consent or make a direction under subsection (1) or (2) of this section may, within twenty-eight days after the refusal, appeal in writing to the Cabinet Secretary whose decision shall be final.\n(4) The foregoing provisions of this section do not prevent a final order or decision of a court made or given in proceedings concerning land in an adjudication section being enforced or executed, if at the time this Act is applied to the land the order or decision is not the subject of an appeal and the time for appeal has expired.\n(5) A certificate signed by an adjudication officer certifying land to be, or to have become on a particular date, land within an adjudication section shall be conclusive evidence that the land is such land.\n(6) Every certificate purporting to be signed by an adjudication officer shall be presumed to be so signed unless the contrary is shown.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Except with the consent in writing of the adjudication officer, no person shall institute, and no court shall entertain, any civil proceedings concerning an interest in land in an adjudication section until the adjudication register for that adjudication section has become final in all respects under section 29(3) of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where any such proceedings were begun before the publication of the notice under section 5 of this Act, they shall be discontinued, unless the adjudication officer, having regard to the stage which the proceedings have reached, otherwise directs."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person who is aggrieved by the refusal of the adjudication officer to give consent or make a direction under subsection (1) or (2) of this section may, within twenty-eight days after the refusal, appeal in writing to the Cabinet Secretary whose decision shall be final."
+    },
+    {
+     "ref": "(4)",
+     "text": "The foregoing provisions of this section do not prevent a final order or decision of a court made or given in proceedings concerning land in an adjudication section being enforced or executed, if at the time this Act is applied to the land the order or decision is not the subject of an appeal and the time for appeal has expired."
+    },
+    {
+     "ref": "(5)",
+     "text": "A certificate signed by an adjudication officer certifying land to be, or to have become on a particular date, land within an adjudication section shall be conclusive evidence that the land is such land."
+    },
+    {
+     "ref": "(6)",
+     "text": "Every certificate purporting to be signed by an adjudication officer shall be presumed to be so signed unless the contrary is shown."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Publication of notices",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) Except where the context otherwise requires, wherever a notice is to be or may be given under this Act, it shall be given in writing and the adjudication officer shall publish it—\n  (a) at the office of the Provincial Commissioner of the province concerned;\n  (b) at the office of the District Commissioner of the district concerned; and\n  (c) elsewhere and in such manner as he considers appropriate.\n(2) The District Commissioner shall also cause the purport of every notice to be published at barazas throughout the area concerned and in such other ways and on such other occasions as after consultation with the adjudication officer he considers appropriate.\n(3) Notices shall be published and the purport promulgated in such language or languages as the District Commissioner considers most likely to be understood by the persons whom they affect.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Except where the context otherwise requires, wherever a notice is to be or may be given under this Act, it shall be given in writing and the adjudication officer shall publish it—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The District Commissioner shall also cause the purport of every notice to be published at barazas throughout the area concerned and in such other ways and on such other occasions as after consultation with the adjudication officer he considers appropriate."
+    },
+    {
+     "ref": "(3)",
+     "text": "Notices shall be published and the purport promulgated in such language or languages as the District Commissioner considers most likely to be understood by the persons whom they affect."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Fees for adjudication",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) Every person whose name is recorded in an adjudication record as the owner of land or as the person entitled to an interest in land shall be liable to pay a fee at such rate and at such time as may be prescribed for that adjudication section to the Chief Land Registrar, and every person at whose request a question is referred to a committee or who makes a complaint under section 21(3) of this Act shall pay the prescribed hearing fee to the Director of Land Adjudication.\n(2) All fees, costs, charges and expenses to be paid under or by virtue of this Act or any regulations made under this Act shall be a civil debt recoverable summarily by the person to whom they are payable.\n[Act No. 10 of 1969, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every person whose name is recorded in an adjudication record as the owner of land or as the person entitled to an interest in land shall be liable to pay a fee at such rate and at such time as may be prescribed for that adjudication section to the Chief Land Registrar, and every person at whose request a question is referred to a committee or who makes a complaint under section 21(3) of this Act shall pay the prescribed hearing fee to the Director of Land Adjudication."
+    },
+    {
+     "ref": "(2)",
+     "text": "All fees, costs, charges and expenses to be paid under or by virtue of this Act or any regulations made under this Act shall be a civil debt recoverable summarily by the person to whom they are payable."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Offences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS",
+   "text": "Any person who—\n  (a) after receiving a summons issued under this Act, without reasonable excuse neglects or refuses to attend in pursuance of it or to produce any map, plan, instrument or other document which he is required by it to produce; or\n  (b) without reasonable excuse neglects or refuses to answer upon oath or otherwise, or knowingly gives an untrue answer to, a question lawfully put to him by an officer, committee or board under this Act; or\n  (c) without reasonable excuse neglects or refuses to demarcate his land, or to assist in the demarcation of his land, or to clear or assist in the clearing of any boundary or other line, when required to do so by a demarcation officer; or\n  (d) without reasonable excuse, interferes with any demarcated boundary, or defaces, removes, injures or otherwise impairs any feature of a demarcated boundary, or allows any demarcated boundary to fall into disrepair; or\n  (e) contravenes section 8(1) of this Act, shall be guilty of an offence and liable to a fine not exceeding three thousand shillings or to imprisonment for a term not exceeding six months, or to both such fine and such imprisonment:\nProvided that a prosecution for an offence under paragraph (e) of this section shall not be instituted except with the consent of the Director of Public Prosecutions.\n[Act No. 19 of 2023, Sch.]",
+   "clauses": []
+  },
+  "34": {
+   "num": "34",
+   "title": "Protection of officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS",
+   "text": "Any officer appointed under this Act, and any other person appointed for the purpose of adjudication proceedings under this Act, shall not be liable to any action, suit or proceedings for or in respect of any act or matter in good faith done or omitted to be done in exercise or supposed exercise of the powers given by this Act or any regulations made under it.",
+   "clauses": []
+  },
+  "35": {
+   "num": "35",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS",
+   "text": "The Cabinet Secretary may make regulations for the purpose of prescribing fees for anything to be done under this Act and generally for carrying into effect the provisions and purposes of this Act.",
+   "clauses": []
+  },
+  "36": {
+   "num": "36",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS",
+   "text": "",
+   "clauses": []
+  },
+  "37": {
+   "num": "37",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MISCELLANEOUS",
+   "text": "",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE AMENDMENTS TO THE LAND ADJUDICATION ACT",
+   "subtitle": null,
+   "text": "Spent"
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE AMENDMENTS TO THE REGISTERED LAND ACT",
+   "subtitle": null,
+   "text": "Spent"
+  }
+ ],
+ "spent": {}
+}

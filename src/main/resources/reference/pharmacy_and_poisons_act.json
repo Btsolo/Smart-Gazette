@@ -1,0 +1,1674 @@
+{
+ "title": "Pharmacy and Poisons Act",
+ "citation": "Cap. 244",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1956/17/eng@2023-12-11",
+ "version_date": "2023-12-11",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "PHARMACY AND POISONS ACT CAP. 244 Assented to on 11 May 1956 Commenced on 1 May 1957\n[Amended by Statute Law (Miscellaneous Amendments) Ordinance, 1961 (Act No. 15 of 1961) on 8 August 1961] [Amended by Kenya (Amendment of Laws) (Miscellaneous Amendments) (No. 6) Order, 1964 (Legal Notice 365 of 1964) on 12 December 1963]\n[Amended by Food, Drugs and Chemical Substances Act (Cap. 254) on 11 May 1965] [Amended by Statute Law (Miscellaneous Amendments) Act, 1966 (Act No. 21 of 1966) on 12 July 1966]\n[Amended by Pharmacy and Poisons (Amendment) Act, 1968 (Act No. 3 of 1968) on 26 January 1968] [Amended by Statute Law (Miscellaneous Amendments) Act, 1968 (Act No. 8 of 1968) on 16 February 1968]\n[Amended by Statute Law (Repeal and Miscellaneous Amendments) Act, 1980 (Act No. 13 of 1980) on 24 December 1980] [Amended by Statute Law (Miscellaneous Amendments) Act.(No.2), 1990 (Act No. 21 of 1990) on 18 January 1990]\n[Amended by Statute Law (Repealed and Miscellaneous Amendments) Act, 1990 (Act No. 7 of 1990) on 22 June 1990]\n[Amended by Statute Law (Repeal and Miscellaneous Amendments) Act, 1991 (Act No. 14 of 1991) on 27 December 1991] [Amended by Pharmacy and Poisons (Amendment) Act, 1992 (Act No. 12 of 1992) on 6 November 1992] [Amended by Statute Law (Miscellaneous Amendments) Act, 1993 (Act No. 11 of 1993) on 31 December 1993] [Amended by Finance Act, 2000 (Act No. 9 of 2000) on 1 January 2001] [Amended by Statute Law (Miscellaneous Amendments) Act, 2002 (Act No. 2 of 2002) on 7 June 2002] [Amended by Statute Law (Miscellaneous Amendments) Act, 2015 (Act No. 25 of 2015) on 24 December 2015] [Amended by Clinical Officers (Training, Registration and Licensing) Act (Cap. 253E) on 7 July 2017] [Amended by Statute Law (Miscellaneous Amendments) Act, 2018 (Act No. 4 of 2018) on 21 May 2018] [Amended by Health Laws (Amendment) Act, 2019 (Act No. 5 of 2019) on 17 May 2019] [Amended by National Electronic Single Window System Act (Cap. 485D) on 11 July 2022] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] [Amended by Statute Law (Miscellaneous Amendment) Act, 2023 (Act No. 19 of 2023) on 11 December 2023]\nAn Act of Parliament to make better provision for the control of the profession of pharmacy and the trade in drugs and poisons",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3",
+    "3A",
+    "3B",
+    "4",
+    "5"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "PHARMACY",
+   "provisions": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "9A",
+    "9B",
+    "9C",
+    "9D",
+    "9E",
+    "9F",
+    "10",
+    "11",
+    "12",
+    "12A",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "23A",
+    "24"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "POISONS",
+   "provisions": [
+    "25",
+    "25A",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35"
+   ]
+  },
+  {
+   "id": "part_IIIA",
+   "num": "IIIA",
+   "title": "MANUFACTURE OF MEDICINAL SUBSTANCES",
+   "provisions": [
+    "35A",
+    "35B"
+   ]
+  },
+  {
+   "id": "part_IIIB",
+   "num": "IIIB",
+   "title": "NATIONAL QUALITY CONTROL LABORATORY",
+   "provisions": [
+    "35C",
+    "35D",
+    "35E",
+    "35F",
+    "35G",
+    "35H",
+    "35I",
+    "35J",
+    "35K"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "42A",
+    "42B",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "50A",
+    "51",
+    "52"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Pharmacy and Poisons Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In this Act, unless the context otherwise requires—\n\"advertisement\" includes a notice, circular, label wrapper or other document, and any announcement made orally or by means of producing or transmitting light or sound;\n\"authorized officer\" means the registrar, pharmaceutical analyst, pharmaceutical inspector, a medical officer, an inspector of drugs, an administrative officer or a police officer not below the rank of Superintendent;\n\"authorized seller of poisons\" means any person such as is referred to in section 24;\n\"Board\" means the Pharmacy and Poisons Board appointed under the provisions of section 3;\n\"British Pharmaceutical Codex\" and \"British Veterinary Codex\" mean the editions for the time being current of the books published under those names by the Pharmaceutical Society of Great Britain and any addenda thereto;\n\"British Pharmacopoeia\" means the edition for the time being current of the book published under that name pursuant to section 54 of the Medical Act, 1858 of the United Kingdom;\n\"Cabinet Secretary\" means the Cabinet Secretary for the time being responsible for matters relating to health;\n\"clinical trial\" means any systematic study on pharmaceutical products in human subjects, whether in patients or other volunteers, in order to discover or verify the effects of, identify any adverse reaction to investigational products, to study the absorption, distribution, metabolism and excretion of the products with the object of ascertaining their efficacy and safety;\n\"dispense\", in relation to a medicine or poison means to supply a medicine or poison on and in accordance with a prescription duly given by a duly qualified medical practitioner, dentist or veterinary surgeon;\n\"drug\" includes any medicine, medicinal preparation or therapeutic substance;\n\"duly qualified\", in relation to a medical practitioner, dentist or veterinary surgeon, means permitted by law to practise his profession as such in Kenya;\n\"East African territories\" deleted by Act No. 13 of 1980, s. 2;\n\"enrolled pharmaceutical technologist\" means a holder of a diploma in pharmacy from a training institution recognised by the Board and whose name appears on the Roll;\n\"Good Manufacturing Practice\", also referred to as \"GMP\", \"cGMP\" or \"current Good Manufacturing Practice\" is the part of quality management which ensures that products are consistently produced and controlled according to their intended use as required by the marketing authorization, clinical trial authorization or product specification;\n\"health facility\" has the meaning assigned to it in the Health Act (Cap. 241);\n\"health product\" includes human and veterinary medicines, medical products, medicinal substances, vaccines, diagnostics, medical devices, blood products, traditional and alternative medicine, therapeutic feeds and nutritional formulations, cosmetics and related products;\n\"health technology\" means the application of organized knowledge and skills in the form of devices, medicine, vaccines, procedures and systems developed to solve a health problem and improve the quality of life;\n\"inspector of drugs\" means a person who is competitively recruited by the Board as a pharmaceutical inspector and who holds a minimum of a diploma in pharmacy;\n\"International Pharmacopoeia\" means the edition for the time being current of the book published under that name by the World Health Organization and any addenda thereto;\n\"investigational medicinal substance\" means a pharmaceutical form of an active substance or placebo being tested or used as a reference in a clinical trial, including products already with a marketing authorisation but used or assembled, formulated or packaged, in a way different from the authorised form, or when used for an unauthorised indication, or when used to gain further information about the authorised form;\n\"manufacture\" means any process carried out in the course of making a product or medicinal substance and includes packaging, blending, mixing, assembling, distillation, processing, changing of form or application of any chemical or physical process in the preparation of a medicinal substance or product; but does not include dissolving or dispensing the product by diluting or mixing it with some other substances used as a vehicle for administration;\n\"medical device\" means any instrument, apparatus, implement, machine, appliance, implant, in vitro reagent or calibrator, software, material or other similar or related article—\n  (a) intended by the manufacturer to be used, alone or in combination, for humans or animals for —\n  (i) diagnosis, prevention, monitoring, treatment or alleviation of disease;\n  (ii) diagnosis, monitoring, treatment, alleviation of or compensation for an injury;\n  (iii) investigation, replacement, modification or support of the anatomy or of a physiological process;\n  (iv) supporting or sustaining life;\n  (v) control of conception;\n  (vi) disinfection of medical devices; or\n  (vii) providing information for medical or diagnostic purposes by means of in vitro examination of specimens derived from the human body; and\n  (b) which does not achieve its primary intended action in or on the human or animal body by pharmacological, immunological or metabolic means, but which may be assisted in its intended function by such means;\n\"medicinal substance\" means any medicine, product, article, or substance which is claimed to be useful for any of the following purposes—\n  (a) treating, preventing or alleviating disease or symptoms of disease;\n  (b) diagnozing disease or ascertaining the existence, degree or extent of a physiological condition; or\n  (c) preventing or interfering with the normal operation of a physiological function whether permanently or temporarily and whether by way of terminating, reducing, postponing or increasing or accelerating the operation of the function in human beings or animals;\n\"medicine\" means any medicament or curative or preventive substance, whether proprietary or in the form of a preparation;\n\"pharmaceutical analyst\" means an analyst registered by the Board for the purposes of this Act;\n\"pharmaceutical inspector\" deleted by Act No. 5 of 2019, Sch.;\n\"pharmacovigilance\" means the practice of monitoring the effects of medical drugs after they have been licensed for use, especially in order to identify and evaluate previously unreported adverse reactions, and includes the science and activities relating to the detection, assessment, understanding and prevention of adverse effects or any other possible drug related problem;\n\"poisons\" means a poison included in the Poisons List referred to in section 25;\n\"post market surveillance\" means the practice of monitoring the safety and quality of a pharmaceutical drug or medical device after it has been released on the market and is an important part of the science of pharmacovigilance;\n\"practising licence\" means a licence issued under section 9A; and\n\"register\" means the register of pharmacists referred to in section 6;\n\"registered midwife\" means a person permitted by law to practise the profession of midwife in Kenya;\n\"registered pharmacist\" means a holder of a degree in pharmacy from a university recognised by the Board and whose name is entered on the register;\n\"registrar\" means the registrar appointed under the provisions of section 5;\n\"Roll\" means the Roll of pharmaceutical technologists kept under section 6(2);\n\"specialist pharmacist\" means a registered pharmacist who has completed an approved postgraduate training programme in a particular field of pharmaceutical sciences, and who has gained sufficient experience and demonstrated to the Board's satisfaction, adequate knowledge and skill in his or her chosen field;\n\"substance\" includes a preparation;\n\"substance recommended as a medicine\", in relation to the sale of an article consisting of or comprising a substance so recommended, means a substance which is referred to—\n  (a) on the article or any wrapper or container in which the article is sold, or on any label affixed to, or in any document enclosed in, the article or such wrapper or container; or\n  (b) in any placard or other document exhibited at the place where the article is sold; or\n  (c) in any advertisement published by or on behalf of the manufacturer of the article, or the person carrying on the business in the course of which the article was sold, or, in a case where the article was sold under a proprietary designation, the proprietor of the designation, in terms which are calculated to lead to the use of the substance for the prevention or treatment of any ailment, infirmity or injury affecting human beings or animals, not being terms which give a definite indication that the substance is intended to be used as, or as part of, a food or drink, and not as, or as part of, a medicine.\n(2) In this Act reference to the sale of an article includes reference to the supply of an article as a sample for the purpose of inducing persons to buy by retail the substance of which the article consists or which it comprises. [Act No. 21 & 22 Vict., c. 90, Act No. 21 of 1966, First Sch., Act No. 3 of 1968, s. 2, Act No. 8 of 1968, Sch., Act No. 13 of 1980. Sch., Act No. 12 of 1992, s. 2, Act No. 2 of 2002, Sch., Act No. 25 of 2015, Sch., Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, unless the context otherwise requires—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In this Act reference to the sale of an article includes reference to the supply of an article as a sample for the purpose of inducing persons to buy by retail the substance of which the article consists or which it comprises. [Act No. 21 & 22 Vict., c. 90, Act No. 21 of 1966, First Sch., Act No. 3 of 1968, s. 2, Act No. 8 of 1968, Sch., Act No. 13 of 1980. Sch., Act No. 12 of 1992, s. 2, Act No. 2 of 2002, Sch., Act No. 25 of 2015, Sch., Act No. 5 of 2019, Sch.]"
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment of Pharmacy and Poisons Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) There is established a Board which shall consist of—\n  (a) a Chairperson who shall be appointed by the President and who shall—\n  (i) be a registered pharmacist of good standing with a degree in pharmacy; and (ii) have at least ten years' experience in the pharmaceutical sector;\n  (b) the Director of pharmaceutical services;\n  (c) the Principal Secretary in the ministry for the time being responsible for matters relating to finance or his or her representative;\n  (d) two persons representing the pharmacy training institutions, of which one shall be a pharmacist and one shall be a pharmaceutical technologist;\n  (e) three other persons appointed by the Cabinet Secretary, of whom—\n  (i) one person shall be a pharmacist representing institutions of higher learning;\n  (ii) one person shall be a pharmaceutical technologist representing mid-level colleges; and (iii) one person shall be an enrolled pharmaceutical technologist with expertise in community pharmacy nominated by the Kenya Pharmaceutical Association;\n  (f) the Chief Executive Officer, who shall be an ex officio member; and (g) one medical practitioner nominated by the Kenya Medical Association and appointed by the Cabinet Secretary.\n(2) The persons appointed under subsection (1)(f) shall be appointed by the Cabinet Secretary from among members nominated by their relevant professional associations, each of which shall nominate two candidates in each category taking into consideration gender, ethnicity and regional balance.\n(3) A person shall not qualify for appointment as a member of the Board under subsection (1)(e) and (1) unless such person is the holder of a minimum of a diploma in the relevant field from an institution recognized in Kenya and has at least five years managerial experience. [Act No. 13 of 1980, Sch., Act No. 11 of 1993, Sch., Act No. 2 of 2002, Sch., Act No. 25 of 2015, Sch., Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a Board which shall consist of— (a) a Chairperson who shall be appointed by the President and who shall— (i) be a registered pharmacist of good standing with a degree in pharmacy; and (ii) have at least ten years' experience in the pharmaceutical sector; (b) the Director of pharmaceutical services; (c) the Principal Secretary in the ministry for the time being responsible for matters relating to finance or his or her representative; (d) two persons representing the pharmacy training institutions, of which one shall be a pharmacist and one shall be a pharmaceutical technologist; (e) three other persons appointed by the Cabinet Secretary, of whom— (i) one person shall be a pharmacist representing institutions of higher learning; (ii) one person shall be a pharmaceutical technologist representing mid-level colleges; and (iii) one person shall be an enrolled pharmaceutical technologist with expertise in community pharmacy nominated by the Kenya Pharmaceutical Association; (f) the Chief Executive Officer, who shall be an ex officio member; and (g) one medical practitioner nominated by the Kenya Medical Association and appointed by the Cabinet Secretary."
+    },
+    {
+     "ref": "(2)",
+     "text": "The persons appointed under subsection (1)(f) shall be appointed by the Cabinet Secretary from among members nominated by their relevant professional associations, each of which shall nominate two candidates in each category taking into consideration gender, ethnicity and regional balance."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person shall not qualify for appointment as a member of the Board under subsection (1)(e) and (1) unless such person is the holder of a minimum of a diploma in the relevant field from an institution recognized in Kenya and has at least five years managerial experience. [Act No. 13 of 1980, Sch., Act No. 11 of 1993, Sch., Act No. 2 of 2002, Sch., Act No. 25 of 2015, Sch., Act No. 5 of 2019, Sch.]"
+    }
+   ]
+  },
+  "3A": {
+   "num": "3A",
+   "title": "Powers of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The Board may—\n  (a) formulate guidelines for regulating the manufacture, import and export, distribution, sale and use of medical products;\n  (b) grant or withdraw authorization for conducting clinical trials of medical products;\n  (c) grant or withdraw marketing authorization for medical products subject to appropriate conditions and revise such conditions for marketing authorization as necessary;\n  (d) recall medical products from the market;\n  (e) grant or withdraw licenses to manufacturers, wholesalers, retailers, importers, exporters and distributors;\n  (f) investigate conduct related to the manufacture, import, export storage, distribution, sale and use of medical products;\n  (g) levy, collect and utilize fees for services rendered;\n  (h) prescribe the standards appropriate for new medical products; new uses, dosages, and formulations of existing medical products; and such other categories as may be appropriate;\n  (i) constitute technical and expert advisory committees;\n  (j) institute administrative, civil and criminal proceedings;\n  (k) exercise such other powers as necessary for the performance of its functions.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "3B": {
+   "num": "3B",
+   "title": "Functions of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) The Board shall be responsible for the regulation of health products, technologies and the profession of pharmacy.\n(2) The Board shall perform the following functions in relation to regulation of health products and technologies—\n  (a) advise the national and county governments in all matters relating to the safety, packaging and distribution of medicines;\n  (b) ensure that all medicinal products manufactured in, imported into or exported from the country conform to prescribed standards of quality safety and efficacy;\n  (c) ensure that the personnel, premises and practices employed in the manufacture, storage, marketing, distribution and sale of medicinal substances comply with the defined codes of practice and other prescribed requirements;\n  (d) enforce the prescribed standards of quality, safety and efficacy of all medicinal substances manufactured, imported into or exported out of the country;\n  (e) grant or revoke licenses for the manufacture, importation, exportation, distribution and sale of medicinal substances;\n  (f) maintain a register of all authorized medicinal substances;\n  (g) publish, at least once in every three months, lists of authorized or registered medicinal substances and of products with marketing authorizations;\n  (h) regulate licit use of narcotic, psychotropic substances and precursor chemical substances in accordance with either the Single Convention on Narcotic Drugs of 1961, the Convention on Psychotropic Substances 1971, and the UN Convention against Illicit Traffic Drug and Psychotropic Substances, 1988;\n  (i) consider applications for approval and alterations of dossiers intended for use in marketing authorization of medicinal substances;\n  (j) inspect and license all manufacturing premises, importing and exporting agents, wholesalers, distributors, pharmacies, including those in hospitals and clinics, and other retail outlets;\n  (k) prescribe a system for sampling, analysis and other testing procedures of finished medicinal products released into the market to ensure compliance with the labeled specifications;\n  (l) conduct post-market surveillance of safety and quality of medical products;\n  (m) monitor the market for the presence of illegal or counterfeit medicinal substances;\n  (n) regulate the promotion, advertising and marketing of medicinal substances in accordance with approved product information;\n  (o) approve the use of any unregistered medicinal substance for purposes of clinical trials and compassionate use;\n  (p) approve and regulate clinical trials on medicinal substances;\n  (q) disseminate information on medical products to health professionals and to the public in order to promote their rational use;\n  (r) collaborate with other national, regional and international institutions on medicinal substances regulation;\n  (s) advise the Cabinet Secretary on matters relating to control, authorization and registration of medicinal substances; and\n  (t) perform any other function relating to regulation of medicinal substances.\n(3) The Board shall perform the following functions in relation to regulation of the profession of pharmacy—\n  (a) promote the practice of pharmacy that complies with universally accepted norms and values;\n  (b) prescribe the minimum requirements and consider and approve the qualifications of persons wishing to be registered as pharmacists under this Act;\n  (c) prescribe the minimum requirements and consider and approve the qualifications of persons wishing to be enrolled as pharmaceutical technologists under this Act;\n  (d) maintain a register of all persons registered or enrolled under this Act;\n  (e) prescribe and conduct examinations for purposes of recognition, registration or enrolment under this Act;\n  (f) establish or prescribe the different categories of pharmacy business and the scope of practice of persons registered or enrolled in terms of this Act, or the services or acts which shall for purposes of this Act be deemed to be services or acts specially pertaining to pharmacists or pharmaceutical technologists, and the conditions under which those services may be provided or the acts which may be performed;\n  (g) approve institutions to be established or accredited under the Universities Act (Cap. 210) training pharmacists, and mid-level institutions training pharmaceutical technologists;\n  (h) license the practice of pharmacists and pharmaceutical technologists under this Act;\n  (i) approve and license the premises for the practice by pharmacists and pharmaceutical technologists under this Act;\n  (j) regulate the professional conduct of pharmacists and pharmaceutical technologists and take such disciplinary measures as may be appropriate to maintain proper professional standards and ethics;\n  (k) establish, approve and accredit continuing professional educational programs for pharmacists and pharmaceutical technologists;\n  (l) establish and maintain a professional code of conduct for pharmacists and pharmaceutical technologists; and\n  (m) perform any other function relating to regulation of the profession of pharmacy.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall be responsible for the regulation of health products, technologies and the profession of pharmacy."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall perform the following functions in relation to regulation of health products and technologies—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board shall perform the following functions in relation to regulation of the profession of pharmacy—"
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Proceedings of Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) The Board shall meet at such times and places as it deems necessary or expedient for the transaction of its business.\n(2) The Chairperson shall preside at all meetings of the Board, and in his absence for any reason at a meeting the Board shall choose one of its number who shall act in his stead during such absence.\n(3) The Chairperson at any meeting of the Board shall, in addition to his deliberative vote as a member of the Board, have a casting vote.\n(4) The quorum of the Board shall be five, of whom three shall be pharmacists.\n(5) The Chief Executive Officer shall cause details of all business conducted or transacted at meetings of the Board to be entered regularly in a minute book kept for the purpose under his direction. The minutes of the proceedings of each meeting shall be submitted at the meeting following, and, if then passed as correct, shall be confirmed by the signature of the Chairperson and shall, when so confirmed, be prima facie evidence in all courts and places that the minutes are an accurate record of the proceedings so recorded.\n(6) The powers of the Board shall not be affected by any vacancy in the membership thereof, nor by any defect in the appointment or qualifications of a person purporting to be a member of the Board.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall meet at such times and places as it deems necessary or expedient for the transaction of its business."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Chairperson shall preside at all meetings of the Board, and in his absence for any reason at a meeting the Board shall choose one of its number who shall act in his stead during such absence."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Chairperson at any meeting of the Board shall, in addition to his deliberative vote as a member of the Board, have a casting vote."
+    },
+    {
+     "ref": "(4)",
+     "text": "The quorum of the Board shall be five, of whom three shall be pharmacists."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Chief Executive Officer shall cause details of all business conducted or transacted at meetings of the Board to be entered regularly in a minute book kept for the purpose under his direction. The minutes of the proceedings of each meeting shall be submitted at the meeting following, and, if then passed as correct, shall be confirmed by the signature of the Chairperson and shall, when so confirmed, be prima facie evidence in all courts and places that the minutes are an accurate record of the proceedings so recorded."
+    },
+    {
+     "ref": "(6)",
+     "text": "The powers of the Board shall not be affected by any vacancy in the membership thereof, nor by any defect in the appointment or qualifications of a person purporting to be a member of the Board."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "The Registrar",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) There shall be a Registrar of the Board who shall be the Chief Executive Officer of the Board competitively recruited and appointed by the Board upon such terms and conditions of service as shall be determined by the Board upon the advice of the Salaries and Remuneration Commission.\n(2) The Registrar shall perform such duties and exercise such powers, in addition to those required under the provisions of this Act to be performed and exercised, as the Board may from time to time direct.\n(3) The Registrar shall be responsible to the Board for the day to day management of its affairs.\n(4) The Board shall through a transparent and competitive recruitment process appoint the Registrar who shall—\n  (a) be a Kenyan citizen;\n  (b) hold at least a pharmacy degree and is registered to practice pharmacy in Kenya;\n  (c) belong to the professional body of registered pharmacists;\n  (d) have at least fifteen years of pharmacy practice experience;\n  (e) have served in a senior management position for a period of at least ten years; and\n  (f) meet the requirements of Chapter Six of the Constitution.\n(5) The Registrar shall hold office for a term of four years, but shall be eligible for reappointment once subject to good performance.\n[Act No. 11 of 1993, Sch., Act No 4 of 2018, Sch., Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Registrar of the Board who shall be the Chief Executive Officer of the Board competitively recruited and appointed by the Board upon such terms and conditions of service as shall be determined by the Board upon the advice of the Salaries and Remuneration Commission."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar shall perform such duties and exercise such powers, in addition to those required under the provisions of this Act to be performed and exercised, as the Board may from time to time direct."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall be responsible to the Board for the day to day management of its affairs."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Board shall through a transparent and competitive recruitment process appoint the Registrar who shall—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The Registrar shall hold office for a term of four years, but shall be eligible for reappointment once subject to good performance."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Register of pharmacists",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) The registrar shall keep a register of pharmacists and specialist pharmacists in the prescribed form. (2) The registrar shall keep a Roll of pharmaceutical technologists in the prescribed form. (3) The register kept under this section shall be automated for the purposes of sharing information under the National Single Window System established under section 3 of the National Electronic Single Window System Act.\n[Act No. 2 of 2002, Sch., Act No. 5 of 2019, Sch., Act No. 25 of 2022, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The registrar shall keep a register of pharmacists and specialist pharmacists in the prescribed form. (2) The registrar shall keep a Roll of pharmaceutical technologists in the prescribed form. (3) The register kept under this section shall be automated for the purposes of sharing information under the National Single Window System established under section 3 of the National Electronic Single Window System Act."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Application for registration as pharmacist",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) Every application by a person to be registered as a pharmacist shall be made in writing in the form prescribed and shall be addressed to the registrar.\n(2) Every application by a person to be entered in the Roll of pharmaceutical technologists shall be made in the prescribed form and shall be addressed to the registrar. [Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every application by a person to be registered as a pharmacist shall be made in writing in the form prescribed and shall be addressed to the registrar."
+    },
+    {
+     "ref": "(2)",
+     "text": "Every application by a person to be entered in the Roll of pharmaceutical technologists shall be made in the prescribed form and shall be addressed to the registrar. [Act No. 2 of 2002, Sch.]"
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Qualifications for registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) Every person who—\n  (a) is at the commencement of this Act already registered as a pharmacist under the provisions of the Pharmacy and Poisons Act (Repealed); or (b) satisfies the Board that he holds at least a bachelor of pharmacy degree (whether of Kenya or of some other country) which the Board considers acceptable, shall, subject to this Act, be entitled to have his name entered in the register. (2) Any person who satisfies the Board that he holds a diploma in pharmacy from any college recognised by the Board in Kenya shall, subject to this Act, be entitled to have his or her name entered in the register. [Act No. 3 of 1968, s. 3, Act No. 11 of 1993, Sch., Act No. 2 of 2002, Sch., Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every person who— (a) is at the commencement of this Act already registered as a pharmacist under the provisions of the Pharmacy and Poisons Act (Repealed); or (b) satisfies the Board that he holds at least a bachelor of pharmacy degree (whether of Kenya or of some other country) which the Board considers acceptable, shall, subject to this Act, be entitled to have his name entered in the register. (2) Any person who satisfies the Board that he holds a diploma in pharmacy from any college recognised by the Board in Kenya shall, subject to this Act, be entitled to have his or her name entered in the register. [Act No. 3 of 1968, s. 3, Act No. 11 of 1993, Sch., Act No. 2 of 2002, Sch., Act No. 5 of 2019, Sch.]"
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Certificate of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) Upon the registration of a pharmacist, the registrar shall, on payment of the prescribed fee, issue a certificate of registration in the prescribed form: Provided that fee shall be payable if the pharmacist was, at the commencement of this Act, already registered under the Pharmacy and Poisons Ordinance (Repealed).\n(2) The Registrar shall issue to every Pharmaceutical technologist whose name is entered in the Roll, a certificate of enrolment in the prescribed form, upon payment of the prescribed fee. [Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Upon the registration of a pharmacist, the registrar shall, on payment of the prescribed fee, issue a certificate of registration in the prescribed form: Provided that fee shall be payable if the pharmacist was, at the commencement of this Act, already registered under the Pharmacy and Poisons Ordinance (Repealed)."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar shall issue to every Pharmaceutical technologist whose name is entered in the Roll, a certificate of enrolment in the prescribed form, upon payment of the prescribed fee. [Act No. 2 of 2002, Sch.]"
+    }
+   ]
+  },
+  "9A": {
+   "num": "9A",
+   "title": "Practising licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) The Registrar shall issue, in accordance with rules made under this Act, a practising licence authorizing registered pharmacists or enrolled pharmaceutical technologists to practice as registered pharmacists or enrolled pharmaceutical technologists.\n(2) Every practising licence shall expire at the end of the practising year in which it was issued. (3) The practising year shall be from 1st January to 31st December. (4) Any registered pharmacist or enrolled pharmaceutical technologist who practices without a valid practising licence in line with subsection (1) commits an act of professional misconduct. [Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar shall issue, in accordance with rules made under this Act, a practising licence authorizing registered pharmacists or enrolled pharmaceutical technologists to practice as registered pharmacists or enrolled pharmaceutical technologists."
+    },
+    {
+     "ref": "(2)",
+     "text": "Every practising licence shall expire at the end of the practising year in which it was issued. (3) The practising year shall be from 1st January to 31st December. (4) Any registered pharmacist or enrolled pharmaceutical technologist who practices without a valid practising licence in line with subsection (1) commits an act of professional misconduct. [Act No. 5 of 2019, Sch.]"
+    }
+   ]
+  },
+  "9B": {
+   "num": "9B",
+   "title": "Application for practising licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "A person wishing to be issued with a practising licence under section 9A shall make an application to the Registrar in the prescribed form and such application shall be accompanied by the prescribed fee.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "9C": {
+   "num": "9C",
+   "title": "Issue of practising licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) Where an application for a practising licence is made by a person in accordance with section 9B, the Registrar shall issue a practising licence if satisfied that the person—\n  (a) is registered under section 6 of this Act;\n  (b) has undertaken continuous professional development in the preceding year as prescribed by the Board; and (c) meets such other requirements as may be prescribed.\n(2) For the purposes of this Act, a person shall be deemed to engage in the practice of pharmacy if the person—\n  (a) engages in, conducts or carries on the dispensing, manufacture, compounding of any drugs or medicines, or offers any form of pharmaceutical care or pharmaceutical services within Kenya; or (b) advertises or represents himself or herself by a title, sign, display, declaration, or other item to be a pharmacist or pharmaceutical technologist.\n(3) For purposes of this Act, it shall be a requirement for every practising registered pharmacist and enrolled pharmaceutical technologist, practising in their private capacity, government, faith based institutions, non-governmental organizations, training institutions, research organizations or any other institution, to have a valid practising licence. [Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where an application for a practising licence is made by a person in accordance with section 9B, the Registrar shall issue a practising licence if satisfied that the person— (a) is registered under section 6 of this Act; (b) has undertaken continuous professional development in the preceding year as prescribed by the Board; and (c) meets such other requirements as may be prescribed."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of this Act, a person shall be deemed to engage in the practice of pharmacy if the person— (a) engages in, conducts or carries on the dispensing, manufacture, compounding of any drugs or medicines, or offers any form of pharmaceutical care or pharmaceutical services within Kenya; or (b) advertises or represents himself or herself by a title, sign, display, declaration, or other item to be a pharmacist or pharmaceutical technologist."
+    },
+    {
+     "ref": "(3)",
+     "text": "For purposes of this Act, it shall be a requirement for every practising registered pharmacist and enrolled pharmaceutical technologist, practising in their private capacity, government, faith based institutions, non-governmental organizations, training institutions, research organizations or any other institution, to have a valid practising licence. [Act No. 5 of 2019, Sch.]"
+    }
+   ]
+  },
+  "9D": {
+   "num": "9D",
+   "title": "Refusal to issue or renew a license",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "The Board may deny or refuse to issue or renew a license under this Act if it determines after due process, that the applicant has failed to comply with the requirements of this Act or its rules.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "9E": {
+   "num": "9E",
+   "title": "Renewal, cancellation and suspension of license",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) A registered pharmacist or enrolled pharmaceutical technologist issued with a license under this Act may apply for renewal of the license in the prescribed form at least thirty days before the date of expiry thereof.\n(2) A registered pharmacist or an enrolled pharmaceutical technologist who fails to renew a license within the prescribed period shall, when applying for a renewal, be required to pay such late application fee as shall be prescribed.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A registered pharmacist or enrolled pharmaceutical technologist issued with a license under this Act may apply for renewal of the license in the prescribed form at least thirty days before the date of expiry thereof."
+    },
+    {
+     "ref": "(2)",
+     "text": "A registered pharmacist or an enrolled pharmaceutical technologist who fails to renew a license within the prescribed period shall, when applying for a renewal, be required to pay such late application fee as shall be prescribed."
+    }
+   ]
+  },
+  "9F": {
+   "num": "9F",
+   "title": "Continuous professional development",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "For purposes of maintaining a level of competence in his or her ongoing practice, every registered pharmacist and enrolled pharmaceutical technologist shall undertake appropriate Continuous Professional Development as prescribed by the Board.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Corrections to the register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) It shall be the duty of the registrar—\n  (a) to delete from the register the name of any registered pharmacist who has died;\n  (b) to delete from the register any entry which the Board direct him to delete therefrom as being in their opinion an entry which was procured by fraud;\n  (c) to correct in accordance with the Board’s directions any entry in the register which the Board direct him to correct as being in their opinion an incorrect entry; and\n  (d) to make from time to time any necessary alterations in the register, including such deletions, alterations and insertions as he may by virtue of this Act be required to make.\n(2) If the registrar sends by post to any registered pharmacist a registered letter addressed to him at his address on the register inquiring whether he has ceased to practice as a pharmacist or has changed his address and receives no reply to the letter within six months from the date of posting it he may delete the name of that person from the register:\nProvided that the Board may, on the application of the person whose name has been so deleted and on payment by him of such fee as may be prescribed, direct the registrar to restore the name to the register.\n(3) It shall be the duty of the Principal Registrar of Births and Deaths, on receiving notice of the death of any registered pharmacist, forthwith to transmit to the registrar a certificate under his own hand of death, with particulars of the time and place such of death.\n[Act No. 7 of 1990, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "It shall be the duty of the registrar—"
+    },
+    {
+     "ref": "(2)",
+     "text": "If the registrar sends by post to any registered pharmacist a registered letter addressed to him at his address on the register inquiring whether he has ceased to practice as a pharmacist or has changed his address and receives no reply to the letter within six months from the date of posting it he may delete the name of that person from the register:"
+    },
+    {
+     "ref": "(3)",
+     "text": "It shall be the duty of the Principal Registrar of Births and Deaths, on receiving notice of the death of any registered pharmacist, forthwith to transmit to the registrar a certificate under his own hand of death, with particulars of the time and place such of death."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Publication of details of registered pharmacists",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) Whenever a name is added to or deleted from the register for any cause the registrar shall without undue delay publish in the Gazette the fact of such the addition or deletion and the reason therefor, together with the name and address of the person concerned.\n(2) The registrar shall, as soon as conveniently may be after the first day of January in every year, publish in the Gazette a list of the names, qualifications and addresses of all registered pharmacists.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Whenever a name is added to or deleted from the register for any cause the registrar shall without undue delay publish in the Gazette the fact of such the addition or deletion and the reason therefor, together with the name and address of the person concerned."
+    },
+    {
+     "ref": "(2)",
+     "text": "The registrar shall, as soon as conveniently may be after the first day of January in every year, publish in the Gazette a list of the names, qualifications and addresses of all registered pharmacists."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Professional misconduct",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) Where—\n  (a) a person applying to have his name registered; or\n  (b) a registered pharmacist or any person employed by him in the carrying on of his business; or\n  (c) a person whose name has been deleted from the register or any person employed by him as aforesaid, has at any time been convicted, whether within or outside Kenya, of any criminal offence or been guilty of any misconduct (being in a case falling within paragraph (c) of this subsection a conviction or misconduct which took place either before or after the deletion of the name) which in the opinion of the Board renders the convicted or guilty person unfit to have his name on the register, the Board may, after inquiring into the matter—\n  (i) in a case falling within paragraph (a) of this subsection, direct that the applicant’s name shall not be registered, or shall not be registered until the Board otherwise directs;\n  (ii) in a case falling within paragraph (b) of this subsection, direct the registrar to delete the name of the registered pharmacist from the register;\n  (iii) in a case falling within paragraph (c) of this subsection, direct that the name removed from the register shall not be restored thereto, or shall not be restored thereto until the Board otherwise directs, and where the Board directs that a name shall be deleted from the register or shall not until the Board otherwise directs be registered or restored to the register, the Board may also direct that no application to the registrar in respect of its registration, or as the case may be its restoration to the register, shall be entertained thereafter until the expiration of such period as may be specified in the direction or until the fulfilment of such conditions as may be so specified.\n(2) Where the name of any person has been deleted from the register in pursuance of a direction under paragraph (ii) of subsection (1) of this section, the Board may, either of its own motion or on the application of that person, direct the registrar to restore the name to the register, either without fee or on the payment to the registrar of such fee as may be prescribed in the behalf, not exceeding the fee prescribed for registration in pursuance of section 9.\n(3) It shall be the duty of the registrar—\n  (a) to give notice of any direction under this section to the person to whom the direction relates;\n  (b) to give notice of any refusal of an application made under the last foregoing subsection to the applicant, and any such notice shall be sent by registered letter which, in the case of a registered pharmacists, shall be addressed to his address on the register.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the name of any person has been deleted from the register in pursuance of a direction under paragraph (ii) of subsection (1) of this section, the Board may, either of its own motion or on the application of that person, direct the registrar to restore the name to the register, either without fee or on the payment to the registrar of such fee as may be prescribed in the behalf, not exceeding the fee prescribed for registration in pursuance of section 9."
+    },
+    {
+     "ref": "(3)",
+     "text": "It shall be the duty of the registrar—"
+    }
+   ]
+  },
+  "12A": {
+   "num": "12A",
+   "title": "Enquiries and Disciplinary Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) The Board shall establish an Enquiries and Disciplinary Committee which shall enquire into any matter arising under section 12 of this Act.\n(2) Where on the recommendations of the Enquiries and Disciplinary Committee the Board is satisfied that a pharmacist or pharmaceutical technologist is in breach of any of the terms or conditions of practice prescribed by the Board, the Board may—\n  (a) issue the pharmacist or pharmaceutical technologist with a letter of admonishment;\n  (b) impose a fine as may be prescribed in regulations;\n  (c) suspend the registration or enrolment of the pharmacist or pharmaceutical technologist for a specified period not exceeding five years; or\n  (d) remove the name of the pharmacist or pharmaceutical technologist from the Register as may be appropriate.\n(3) The Board may order a pharmacist or pharmaceutical technologist to reimburse costs and expenses incurred in connection with a disciplinary hearing and such costs shall be a civil debt recoverable summarily by the Board.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall establish an Enquiries and Disciplinary Committee which shall enquire into any matter arising under section 12 of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where on the recommendations of the Enquiries and Disciplinary Committee the Board is satisfied that a pharmacist or pharmaceutical technologist is in breach of any of the terms or conditions of practice prescribed by the Board, the Board may—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board may order a pharmacist or pharmaceutical technologist to reimburse costs and expenses incurred in connection with a disciplinary hearing and such costs shall be a civil debt recoverable summarily by the Board."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Restriction on directions by Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) Where an act or omission which under subsection (1) of section 12 may be made the ground of a direction by the Board involving the cesser or restriction of the right of a person to have his name registered is an act or omission on the part of an employee of that person, the Board shall not give any such direction unless proof is given to its satisfaction of some one or more of the facts specified in the next subsection and the Board is of the opinion that, having regard to the facts so proved, the said person ought to be regarded as responsible for the act or omission.\n(2) The facts as to some one or more of which the Board must be satisfied before giving any such direction as is mentioned in subsection (1) of this section are—\n  (a) that the act or omission in question was instigated or connived at by the said person;\n  (b) that the person or any employee of his had been guilty at some time within twelve months before the date on which the act or omission in question took place of a similar act or omission and that the person had, or reasonably ought to have had, knowledge of that previous act or omission;\n  (c) if the act or omission in question was a continuing act or omission, that the person had, or reasonably ought to have had, knowledge of the continuance thereof;\n  (d) in the case of a criminal offence being an offence under this Act, that the person had not used due diligence to enforce the execution of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where an act or omission which under subsection (1) of section 12 may be made the ground of a direction by the Board involving the cesser or restriction of the right of a person to have his name registered is an act or omission on the part of an employee of that person, the Board shall not give any such direction unless proof is given to its satisfaction of some one or more of the facts specified in the next subsection and the Board is of the opinion that, having regard to the facts so proved, the said person ought to be regarded as responsible for the act or omission."
+    },
+    {
+     "ref": "(2)",
+     "text": "The facts as to some one or more of which the Board must be satisfied before giving any such direction as is mentioned in subsection (1) of this section are—"
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Appeal against direction, etc",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) A person aggrieved by a direction of the Board under section 12 of this Act or by the refusal of an application made under subsection (2) of that section may at any time within one month from the date on which notice of the direction or, as the case may be, of the refusal is given to him appeal to the Supreme Court against the direction or refusal, and the Board may appear as respondent in any such appeal.\n(2) The Supreme Court may on any such appeal make such order as it thinks fit in the matter and any order of the Supreme Court on any such appeal shall be final.\n(3) It shall be the duty of the registrar to make such alterations in the register as are necessary to give effect to any such order as aforesaid.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person aggrieved by a direction of the Board under section 12 of this Act or by the refusal of an application made under subsection (2) of that section may at any time within one month from the date on which notice of the direction or, as the case may be, of the refusal is given to him appeal to the Supreme Court against the direction or refusal, and the Board may appear as respondent in any such appeal."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Supreme Court may on any such appeal make such order as it thinks fit in the matter and any order of the Supreme Court on any such appeal shall be final."
+    },
+    {
+     "ref": "(3)",
+     "text": "It shall be the duty of the registrar to make such alterations in the register as are necessary to give effect to any such order as aforesaid."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Time of operation of direction for deletion of name",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "A direction under paragraph (ii) of subsection (1) of section 12 of this Act shall not take effect until the expiration of one month from the giving of notice of the direction as required by subsection (3) of that section or, where an appeal to the Supreme Court is brought against the direction, until the appeal is determined or withdrawn.",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "Registration or restoration of name where appeal dismissed",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "If the Supreme Court has dismissed an appeal against a direction under subsection (1) of section 12 of this Act that a name shall be deleted from the register or shall not, until the Board otherwise directs, be registered or restored to the register, a direction by the Board authorizing the registration or restoration of the name shall not take effect unless it is approved by the Cabinet Secretary.\n[Act No. 25 of 2015, Sch.]",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "Deletion of name from register for conduct outside Kenya",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "If by reason of a conviction or of professional misconduct the name of a pharmacist registered in Kenya (whether before or after such conviction or misconduct) is in any other country removed, deleted or struck from the register of pharmacists (by whatever name or style designated) of such country, or if by any order or other process such pharmacist is in any such country disentitled to practise as a pharmacist (by whatever name or style designated), the Board may direct the registrar to delete the name of the pharmacist from the register, but without prejudice to the provisions of subsection (2) of section 12 of this Act.\n[Act No. 13 of 1980, Sch.]",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Surrender of certificate on deletion of name",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) Every person whose name is deleted from the register for any reason shall forthwith surrender his certificate of registration to the Registrar for cancellation.\n(2) Any person refusing or failing to comply with the provisions of this section shall be guilty of an offence and shall be liable on conviction, to a fine not exceeding ten thousand shillings, or to imprisonment for a term not exceeding one year, or to both.\n[Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every person whose name is deleted from the register for any reason shall forthwith surrender his certificate of registration to the Registrar for cancellation."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person refusing or failing to comply with the provisions of this section shall be guilty of an offence and shall be liable on conviction, to a fine not exceeding ten thousand shillings, or to imprisonment for a term not exceeding one year, or to both."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "General restrictions as to unregistered persons",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) No person other than a registered pharmacist shall, except as provided for in sections 21 and 22 of this Act—\n  (a) carry on, either on his own behalf, or on behalf of another, the business of a pharmacist;\n  (b) in the course of any trade or business, prepare, mix, compound or dispense any drug except under the immediate supervision of a registered pharmacist;\n  (c) assume, take, exhibit or in any way make use of any title, emblem or description reasonably calculated to suggest that he is registered as a pharmacist.\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding thirty thousand shillings or to imprisonment for a term not exceeding three years or to both.\n(3) For the purpose of paragraph (c) of subsection (1) of this section, the use of any of the words \"pharmacist\", \"druggist\", \"chemist\", \"medical\" or any similar word or combination of words in any language shall be deemed to be reasonably calculated to suggest that the owner of the business and the person having control of the business on the premises are registered pharmacists.\n(4) Nothing in this section shall extend to or interfere with the supply of medicine to a particular person by a medical practitioner or his assistant working under his immediate supervision, direction and control, a qualified dentist or a qualified veterinary surgeon, for the purpose of legitimate medical treatment, dental treatment or veterinary treatment, as the case may be.\n(5) Nothing in this section shall be deemed to make it unlawful for any person to sell any nonpoisonous drugs provided that such drug is sold in its original condition as received by the seller or to require such person to be registered as a pharmacist.\n[Act No. 3 of 1968, s. 4, Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No person other than a registered pharmacist shall, except as provided for in sections 21 and 22 of this Act—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding thirty thousand shillings or to imprisonment for a term not exceeding three years or to both."
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purpose of paragraph (c) of subsection (1) of this section, the use of any of the words \"pharmacist\", \"druggist\", \"chemist\", \"medical\" or any similar word or combination of words in any language shall be deemed to be reasonably calculated to suggest that the owner of the business and the person having control of the business on the premises are registered pharmacists."
+    },
+    {
+     "ref": "(4)",
+     "text": "Nothing in this section shall extend to or interfere with the supply of medicine to a particular person by a medical practitioner or his assistant working under his immediate supervision, direction and control, a qualified dentist or a qualified veterinary surgeon, for the purpose of legitimate medical treatment, dental treatment or veterinary treatment, as the case may be."
+    },
+    {
+     "ref": "(5)",
+     "text": "Nothing in this section shall be deemed to make it unlawful for any person to sell any nonpoisonous drugs provided that such drug is sold in its original condition as received by the seller or to require such person to be registered as a pharmacist."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Pharmacist to display name and registration certificate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) It shall not be lawful for any person to carry on the business of a pharmacist unless the name and certificate of registration of the person having control of the business are conspicuously exhibited in the premises in which the business is carried on.\n(1A) No person shall carry on the business of a pharmaceutical technologist unless the name and certificate of enrolment of the person having control of the business are conspicuously exhibited in the premises in which the business is carried on.\n(1B) No person shall operate the business of a pharmacist or pharmaceutical technologist without the presence of a registered pharmacist or enrolled pharmaceutical technologist in the premises where such business is being carried out.\n(2) Any person contravening the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding one million shillings, or to imprisonment for a term not exceeding one year, or to both.\n[Act No. 7 of 1990, Act No. 9 of 2000, s. 79, Act No. 2 of 2002, Sch., Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "It shall not be lawful for any person to carry on the business of a pharmacist unless the name and certificate of registration of the person having control of the business are conspicuously exhibited in the premises in which the business is carried on."
+    },
+    {
+     "ref": "(1A)",
+     "text": "No person shall carry on the business of a pharmaceutical technologist unless the name and certificate of enrolment of the person having control of the business are conspicuously exhibited in the premises in which the business is carried on."
+    },
+    {
+     "ref": "(1B)",
+     "text": "No person shall operate the business of a pharmacist or pharmaceutical technologist without the presence of a registered pharmacist or enrolled pharmaceutical technologist in the premises where such business is being carried out."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person contravening the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding one million shillings, or to imprisonment for a term not exceeding one year, or to both."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Bodies corporate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) Notwithstanding anything contained in the foregoing provisions of this Part, it shall not be necessary for a body corporate carrying on the business of a pharmacist to be registered under this Act provided that—\n  (a) a copy of the certificate of incorporation of the body corporate is lodged with the Board;\n  (b) such business is under the management of a superintendent who is a registered pharmacist and a member of the board of directors of the body corporate, and who is not acting in a similar capacity for any other body corporate;\n  (c) in each set of premises where the business is carried on, the business, so far as concerns the retail sale of drugs, is carried on by the superintendent, or, subject to the directions of the superintendent, by a manager or assistant who is a registered pharmacist;\n  (d) in each set of premises where the business is carried on, the name and certificate of registration of the person in control of the business is conspicuously displayed.\n(2) Any emblem, description or title which may be used by a registered pharmacist, may be used by a body corporate lawfully carrying on the business of the pharmacist.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Notwithstanding anything contained in the foregoing provisions of this Part, it shall not be necessary for a body corporate carrying on the business of a pharmacist to be registered under this Act provided that—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any emblem, description or title which may be used by a registered pharmacist, may be used by a body corporate lawfully carrying on the business of the pharmacist."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Carrying on of business by personal representatives",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) Notwithstanding anything in the foregoing provisions of this Part, if a registered pharmacist dies, or becomes of unsound mind or is adjudged bankrupt or enters into an arrangement with his creditors, his representatives may, with the permission of the Board and subject to such directions and conditions as the Board may deem fit to impose, carry on the business, and it shall not be necessary for such representatives to be registered provided that such business is continued only under the personal management and control of a registered pharmacist and for such period not exceeding five years as the Board may decide, and that the provisions of subsection (1) of section 20 of this Act are complied with.\n(2) Any title, emblem or description which may lawfully have been used by the registered pharmacist may continue to be used by his representatives as long as they are authorized by the Board to carry on the business.\n(3) For the purposes of this section an arrangement with creditors means a composition or scheme made in pursuance of the law for the time being in force relating to bankruptcy and includes a deed of arrangement to which the Deeds of Arrangement Act (Cap. 54) applies.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Notwithstanding anything in the foregoing provisions of this Part, if a registered pharmacist dies, or becomes of unsound mind or is adjudged bankrupt or enters into an arrangement with his creditors, his representatives may, with the permission of the Board and subject to such directions and conditions as the Board may deem fit to impose, carry on the business, and it shall not be necessary for such representatives to be registered provided that such business is continued only under the personal management and control of a registered pharmacist and for such period not exceeding five years as the Board may decide, and that the provisions of subsection (1) of section 20 of this Act are complied with."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any title, emblem or description which may lawfully have been used by the registered pharmacist may continue to be used by his representatives as long as they are authorized by the Board to carry on the business."
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purposes of this section an arrangement with creditors means a composition or scheme made in pursuance of the law for the time being in force relating to bankruptcy and includes a deed of arrangement to which the Deeds of Arrangement Act (Cap. 54) applies."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Premises to be registered",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) It shall not be lawful for any person to carry on the business of a pharmacist except in premises registered in accordance with this section.\n(1A) No person shall carry on the business of a pharmaceutical technologist except in premises registered in accordance with this section.\n(2) Application for registration of premises shall be made to the Board in the prescribed form, and shall be accompanied by such fee, not exceeding one hundred shillings, in respect of the registration of any set of premises, as may be prescribed.\n(3) The registration of any premises under this section shall become void upon the expiration of thirty days from the date of any change in the ownership of the business carried on therein.\n(4) The Board may, for good and sufficient reason to be stated in writing, refuse to register or may cause to be deleted from the register any premises which in the Board’s opinion are or have become unsuitable for the carrying on therein of the business of a pharmacist.\n(5) It shall be the duty of the registrar to keep a register in the form prescribed of all premises registered under the provisions of this section.\n(6) Any person contravening the provisions of subsection (1) of this section shall be guilty of an offence and shall be liable to a fine not exceeding one million shillings or to imprisonment for a term not exceeding three years or to both such fine and imprisonment.\n[Act No. 2 of 2002, Sch., Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "It shall not be lawful for any person to carry on the business of a pharmacist except in premises registered in accordance with this section."
+    },
+    {
+     "ref": "(1A)",
+     "text": "No person shall carry on the business of a pharmaceutical technologist except in premises registered in accordance with this section."
+    },
+    {
+     "ref": "(2)",
+     "text": "Application for registration of premises shall be made to the Board in the prescribed form, and shall be accompanied by such fee, not exceeding one hundred shillings, in respect of the registration of any set of premises, as may be prescribed."
+    },
+    {
+     "ref": "(3)",
+     "text": "The registration of any premises under this section shall become void upon the expiration of thirty days from the date of any change in the ownership of the business carried on therein."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Board may, for good and sufficient reason to be stated in writing, refuse to register or may cause to be deleted from the register any premises which in the Board’s opinion are or have become unsuitable for the carrying on therein of the business of a pharmacist."
+    },
+    {
+     "ref": "(5)",
+     "text": "It shall be the duty of the registrar to keep a register in the form prescribed of all premises registered under the provisions of this section."
+    },
+    {
+     "ref": "(6)",
+     "text": "Any person contravening the provisions of subsection (1) of this section shall be guilty of an offence and shall be liable to a fine not exceeding one million shillings or to imprisonment for a term not exceeding three years or to both such fine and imprisonment."
+    }
+   ]
+  },
+  "23A": {
+   "num": "23A",
+   "title": "Power to close premises",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "(1) Any premises having been deleted from the register of premises by the Board or any premises which in the Board's opinion have become unsuitable for the carrying on of the business of a pharmacist or pharmaceutical technologist shall be closed.\n(2) The Board shall give the person in charge of the premises at least fourteen days' notice of the intended closure under subsection (1) and the reasons thereof in writing.\n(3) If at the expiry of the period under subsection (2), the Board is not satisfied that the improvements required have been made, an authorized officer shall order closure of the premises\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any premises having been deleted from the register of premises by the Board or any premises which in the Board's opinion have become unsuitable for the carrying on of the business of a pharmacist or pharmaceutical technologist shall be closed."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall give the person in charge of the premises at least fourteen days' notice of the intended closure under subsection (1) and the reasons thereof in writing."
+    },
+    {
+     "ref": "(3)",
+     "text": "If at the expiry of the period under subsection (2), the Board is not satisfied that the improvements required have been made, an authorized officer shall order closure of the premises"
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Authorized seller of poisons",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PHARMACY",
+   "text": "Any person lawfully carrying on the business of a pharmacist in accordance with the provisions of this Part shall be an authorized seller of poisons.",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "Preparation of Poisons List",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "POISONS",
+   "text": "(1) The Board shall prepare and submit to the Cabinet Secretary for his approval a list of the substances which are to be treated as poisons for the purposes of this Act.\n(2) The list to be prepared under this section shall be divided into two parts as follows—\n  (a) Part I of the list shall consist of those poisons which, subject to this Act, are not to be sold except by authorized sellers of poisons and by licensed wholesale dealers and dealers in mining, agricultural or horticultural accessories;\n  (b) Part II of the list shall consist of those poisons which, subject to the provisions of this Act, are not to be sold except by persons entitled to sell Part I poisons and by persons licensed under the provisions of section 32 of this Act.\n(3) In determining the distribution of poisons as between Part I and Part II of the list, regard shall be had to the desirability of restricting Part II to articles which are in common use, or likely to come into common use, which it is reasonably necessary to include therein if the public are to have adequate facilities for obtaining them.\n(4) The Cabinet Secretary may, by order, confirm the list with or without modification, and may, after consultation with or on the recommendation of the Board, from time to time by order amend or vary the list as he thinks proper.\n(5) The said list as in force for the time being is in this Act referred to as the Poisons List, and for the purposes of this Act the expressions \"Part I Poison\" and \"Part II Poison\" mean any of the poisons listed in Part I and Part II respectively of the Poisons List.\n[Act No. 25 of 2015, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall prepare and submit to the Cabinet Secretary for his approval a list of the substances which are to be treated as poisons for the purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The list to be prepared under this section shall be divided into two parts as follows—"
+    },
+    {
+     "ref": "(3)",
+     "text": "In determining the distribution of poisons as between Part I and Part II of the list, regard shall be had to the desirability of restricting Part II to articles which are in common use, or likely to come into common use, which it is reasonably necessary to include therein if the public are to have adequate facilities for obtaining them."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Cabinet Secretary may, by order, confirm the list with or without modification, and may, after consultation with or on the recommendation of the Board, from time to time by order amend or vary the list as he thinks proper."
+    },
+    {
+     "ref": "(5)",
+     "text": "The said list as in force for the time being is in this Act referred to as the Poisons List, and for the purposes of this Act the expressions \"Part I Poison\" and \"Part II Poison\" mean any of the poisons listed in Part I and Part II respectively of the Poisons List."
+    }
+   ]
+  },
+  "25A": {
+   "num": "25A",
+   "title": "Clinical trials",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "POISONS",
+   "text": "(1) A pharmaceutical product shall not be used for clinical trial unless an approval is granted by the Board with the approval of the relevant ethics body.\n(2) Any person who intends to commence a clinical trial on a pharmaceutical product shall make an application to the Board in the prescribed form and the application shall be accompanied by the study protocol in the prescribed format and the prescribed fee.\n(3) The study protocol submitted under subsection (2) shall include a post- trial access program to ensure access of investigational medicinal substances by participants in a trial before grant of marketing authorization by the Board.\n(4) The Board shall prescribe guidelines for evaluation of applications made under subsection (2) to be implemented for accelerated evaluations during emergency situations, epidemics and outbreaks.\n(5) A person granted an approval under section 25A(1) shall put up a robust quality assurance system to ensure that the clinical trial is carried out so as to ensure the integrity of data generated, the safety and well-being of study participants.\n(6) The Board shall carry out inspections of the clinical trials so as to ensure compliance of the clinical trials with the prescribed requirements.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A pharmaceutical product shall not be used for clinical trial unless an approval is granted by the Board with the approval of the relevant ethics body."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who intends to commence a clinical trial on a pharmaceutical product shall make an application to the Board in the prescribed form and the application shall be accompanied by the study protocol in the prescribed format and the prescribed fee."
+    },
+    {
+     "ref": "(3)",
+     "text": "The study protocol submitted under subsection (2) shall include a post- trial access program to ensure access of investigational medicinal substances by participants in a trial before grant of marketing authorization by the Board."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Board shall prescribe guidelines for evaluation of applications made under subsection (2) to be implemented for accelerated evaluations during emergency situations, epidemics and outbreaks."
+    },
+    {
+     "ref": "(5)",
+     "text": "A person granted an approval under section 25A(1) shall put up a robust quality assurance system to ensure that the clinical trial is carried out so as to ensure the integrity of data generated, the safety and well-being of study participants."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Board shall carry out inspections of the clinical trials so as to ensure compliance of the clinical trials with the prescribed requirements."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Possession of Part I poisons",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "POISONS",
+   "text": "(1) It shall be lawful for the following persons may be in possession of Part I poisons, but to the extent only and subject to the limitations prescribed by this subsection that is to say—\n  (a) a wholesale dealer licensed under section 27 of this Act, for the purposes of the licence and on the premises so licensed;\n  (b) an authorized seller of poisons, on premises registered under section 23 of this Act;\n  (c) a person licensed under section 28 of this Act to sell poisons for mining, agricultural or horticultural purposes, for the purposes of the licence and on premises so licensed;\n  (d) any person, institution or department, to whom a Part I poison has been lawfully sold in accordance with section 29 of this Act, for the purpose for which such sale was made;\n  (e) any person for whom the poison has been lawfully supplied or dispensed by a duly qualified medical practitioner, dentist, or veterinary surgeon, or by a hospital, dispensary or similar institution under the provisions of section 31 of this Act;\n  (f) subject to any conditions which may be prescribed, a representative of a person engaged in the business of selling and supplying pharmaceutical goods, for the purpose of giving free samples of such goods, in the course of such business, to persons who may lawfully be in possession of Part I poisons;\n  (g) the personal representative of any deceased person, or the liquidator, receiver or other person appointed to deal with the property of a bankrupt or of a company which is being wound up compulsorily, or the manager of the estate of a person of unsound mind, in respect of poisons in the possession of the deceased person, bankrupt person, company or person of unsound mind at the time of the death or bankruptcy or the beginning of the winding up or the order appointing the manager, for the purpose of disposing of those poisons, with the written permission of the Board and in accordance with its directions, to a wholesale dealer in poisons licensed under this Act or to an authorized seller of poisons.\n(2) Any person who is in possession of a Part I poison otherwise than in accordance with the provisions of this section shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand shillings or to imprisonment for a term not exceeding three years or to both such fine and imprisonment.\n[Act No. 3 of 1968, ss. 5, 6, Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "It shall be lawful for the following persons may be in possession of Part I poisons, but to the extent only and subject to the limitations prescribed by this subsection that is to say—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who is in possession of a Part I poison otherwise than in accordance with the provisions of this section shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand shillings or to imprisonment for a term not exceeding three years or to both such fine and imprisonment."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Wholesale dealer’s licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "POISONS",
+   "text": "(1) If the Board is satisfied that it is in the public interest that a licence to deal as a wholesale dealer in poisons should be issued or renewed it may, on application being made to the Board in writing on such form as may be prescribed, and on payment of the prescribed fee, issue to the applicant a licence in the form prescribed, or, as the case may be, renew such licence.\n(2) The Board may refuse to issue or renew, or may revoke, a licence under this section, for any good and sufficient reason relating either to the applicant or licensee, or to the premises in which the business is, or is proposed to be, carried on, and an appeal shall lie from such refusal or revocation to the Cabinet Secretary, whose decision thereon shall be final.\n(3) A separate licence under this section shall be required in respect of each set of premises in which the business of the licensee is carried on.\n(4) No licence shall be issued or renewed under this section unless the person applying for or holding such licence is or has a registered pharmacist in control of the distribution of the poisons and the registered pharmacist is resident in Kenya.\n(5) Every licence issued under this section shall expire on the 31st day of December in the year of issue, subject to renewal.\n(6) The Registrar shall keep a register of all licences issued by the Board under this section.\n(7) It shall be an offence to deal as a wholesale dealer in poisons without a licence granted by the Board under subsection (1).\n[Act No. 13 of 1980, Sch., Act No. 25 of 2015, Sch., Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If the Board is satisfied that it is in the public interest that a licence to deal as a wholesale dealer in poisons should be issued or renewed it may, on application being made to the Board in writing on such form as may be prescribed, and on payment of the prescribed fee, issue to the applicant a licence in the form prescribed, or, as the case may be, renew such licence."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may refuse to issue or renew, or may revoke, a licence under this section, for any good and sufficient reason relating either to the applicant or licensee, or to the premises in which the business is, or is proposed to be, carried on, and an appeal shall lie from such refusal or revocation to the Cabinet Secretary, whose decision thereon shall be final."
+    },
+    {
+     "ref": "(3)",
+     "text": "A separate licence under this section shall be required in respect of each set of premises in which the business of the licensee is carried on."
+    },
+    {
+     "ref": "(4)",
+     "text": "No licence shall be issued or renewed under this section unless the person applying for or holding such licence is or has a registered pharmacist in control of the distribution of the poisons and the registered pharmacist is resident in Kenya."
+    },
+    {
+     "ref": "(5)",
+     "text": "Every licence issued under this section shall expire on the 31st day of December in the year of issue, subject to renewal."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Registrar shall keep a register of all licences issued by the Board under this section."
+    },
+    {
+     "ref": "(7)",
+     "text": "It shall be an offence to deal as a wholesale dealer in poisons without a licence granted by the Board under subsection (1)."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Licence to deal in poisons for mining agricultural or horticultural purposes",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "POISONS",
+   "text": "(1) A person carrying on a regular business in mining, agricultural or horticultural accessories may apply to the Board in writing on the prescribed form for a licence to deal in poisons and any such licence, if granted, shall authorize the licensee to sell only the poisons specified therein, to persons who require them for a trade or business of mining, agriculture or horticulture.\n(2) A separate licence under this section shall be required in respect of each set of premises in which the business of the licensee is carried on.\n(3) If the Board is satisfied that it is in the public interest that a licence under this section should be issued or renewed it may, upon payment of the prescribed fee, issue to the applicant a licence in the prescribed form, or, as the case may be, renew such licence:\nProvided that the Board may refuse to issue or renew, or may revoke, a licence for any good and sufficient reason relating either to the applicant or licensee or to the premises in which the business is, or is proposed to be, carried on, and in case of such refusal or revocation an appeal shall lie to the Cabinet Secretary, whose decision thereon shall be final.\n(4) The Board may refuse to issue or renew, or may revoke, a licence for any good and sufficient reason relating either to the applicant or licensee or to the premises in which the business is, or is proposed to be, carried on, and in case of refusal or revocation an appeal shall lie to the Cabinet Secretary, whose decision thereon shall be final.\n(5) Every licence under this section shall expire on the 31st December in the year of issue, subject to renewal.\n(6) The Registrar shall keep a register of all licences issued by the Board under this section.\n(7) A person who sells poisons for the purposes specified in subsection (1) contrary to any of the provisions of this section shall be guilty of an offence and liable to a fine not exceeding twenty thousand shillings, or to imprisonment for a term not exceeding two years, or to both.\n[Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person carrying on a regular business in mining, agricultural or horticultural accessories may apply to the Board in writing on the prescribed form for a licence to deal in poisons and any such licence, if granted, shall authorize the licensee to sell only the poisons specified therein, to persons who require them for a trade or business of mining, agriculture or horticulture."
+    },
+    {
+     "ref": "(2)",
+     "text": "A separate licence under this section shall be required in respect of each set of premises in which the business of the licensee is carried on."
+    },
+    {
+     "ref": "(3)",
+     "text": "If the Board is satisfied that it is in the public interest that a licence under this section should be issued or renewed it may, upon payment of the prescribed fee, issue to the applicant a licence in the prescribed form, or, as the case may be, renew such licence:"
+    },
+    {
+     "ref": "(4)",
+     "text": "The Board may refuse to issue or renew, or may revoke, a licence for any good and sufficient reason relating either to the applicant or licensee or to the premises in which the business is, or is proposed to be, carried on, and in case of refusal or revocation an appeal shall lie to the Cabinet Secretary, whose decision thereon shall be final."
+    },
+    {
+     "ref": "(5)",
+     "text": "Every licence under this section shall expire on the 31st December in the year of issue, subject to renewal."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Registrar shall keep a register of all licences issued by the Board under this section."
+    },
+    {
+     "ref": "(7)",
+     "text": "A person who sells poisons for the purposes specified in subsection (1) contrary to any of the provisions of this section shall be guilty of an offence and liable to a fine not exceeding twenty thousand shillings, or to imprisonment for a term not exceeding two years, or to both."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Power to sell Part I poisons",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "POISONS",
+   "text": "(1) Subject to the provisions of this Act, a person licensed under section 27 to deal as a wholesale dealer in poisons may sell Part I poisons to—\n  (a) a person lawfully carrying on the business of a wholesale dealer in poisons in Kenya;\n  (b) a person lawfully carrying on the business of a pharmacist in Kenya;\n  (c) a person lawfully carrying on the business of a dealer in poisons for mining, agricultural or horticultural purposes in Kenya;\n  (d) a duly qualified medical practitioner, dentist or veterinary surgeon for purposes of medical, dental or veterinary treatment respectively;\n  (e) the Government or a local authority or its institutions for public purposes;\n  (f) a hospital, dispensary or similar institution or a person or institution concerned with scientific education or research, whether within or outside Kenya, where such hospital, dispensary, institution or person has been approved in that behalf by an order, whether general or special, of the Cabinet Secretary:\nProvided but it shall be an offence to sell Part I poisons to any of the persons or institutions specified in paragraphs (d) and (f) of this subsection unless a registered pharmacist is in direct control of the poisons at the premises from which they are so sold.\n(2) Subject to the provisions of this Act, an authorized seller of poisons may sell Part I poisons to any of the persons, institutions and others referred to in subsection (1) of this section, and in addition may sell such poisons to any person who is—\n  (a) in possession of the prescription of a duly qualified medical practitioner, dentist or veterinary surgeon, in accordance with such prescription; or\n  (b) in possession of a written certificate to the effect that he may properly be supplied with the poison, such certificate having been issued by a person authorized by the Board in that behalf, a list of which persons shall be published by the Board in the Gazette from time to time; or\n  (c) a person known by the seller to be a person to whom the poison may properly be sold.\n(3) Subject to the provisions of this Act, a person licensed under section 28 to sell poisons for mining, agricultural or horticultural purposes may sell Part I poisons in accordance with such licence.\n(4) Nothing in this section shall make it illegal for a person to sell or resell to a wholesale dealer licensed under section 27, or to an authorized seller of poisons, stocks of Part I poisons which are found to be surplus to requirements, or for a person whose licence has been revoked or has expired to sell the poisons in his possession at the time of revocation or expiry, if the sale takes place within one year after the time of revocation or expiry or such longer time as the Board may allow.\n(5) A person who sells a Part I poison except in accordance with the provisions of this section shall be guilty of an offence and liable to a fine not exceeding one hundred thousand shillings or to imprisonment for a term not exceeding ten years or to both.\n[Act No. 3 of 1968, ss. 6, 7 and 8, Act No. 13 of 1980, Sch., Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of this Act, a person licensed under section 27 to deal as a wholesale dealer in poisons may sell Part I poisons to—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to the provisions of this Act, an authorized seller of poisons may sell Part I poisons to any of the persons, institutions and others referred to in subsection (1) of this section, and in addition may sell such poisons to any person who is—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to the provisions of this Act, a person licensed under section 28 to sell poisons for mining, agricultural or horticultural purposes may sell Part I poisons in accordance with such licence."
+    },
+    {
+     "ref": "(4)",
+     "text": "Nothing in this section shall make it illegal for a person to sell or resell to a wholesale dealer licensed under section 27, or to an authorized seller of poisons, stocks of Part I poisons which are found to be surplus to requirements, or for a person whose licence has been revoked or has expired to sell the poisons in his possession at the time of revocation or expiry, if the sale takes place within one year after the time of revocation or expiry or such longer time as the Board may allow."
+    },
+    {
+     "ref": "(5)",
+     "text": "A person who sells a Part I poison except in accordance with the provisions of this section shall be guilty of an offence and liable to a fine not exceeding one hundred thousand shillings or to imprisonment for a term not exceeding ten years or to both."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Poisons Book",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "POISONS",
+   "text": "(1) Where any Part I poison is sold in the presence of the person by whom it is to be used, the seller shall not deliver it until—\n  (a) he has made or caused to be made an entry in a book kept for the purpose, to be called a Poisons Book, indicating in the form prescribed the date of the sale, the name and address of the purchaser and of the person, if any, by whom the certificate required under paragraph (b) of subsection 29(2) was given, the name and quantity of poison sold, and the purpose for which it is stated by the purchaser to be required; and\n  (b) the purchaser has affixed his signature to the aforesaid entry.\n(2) Where a Part I poison is sold in the presence of an agent or servant of the person by whom it is to be used, or where any such sale is effected by post, the following provisions shall apply—\n  (a) before the sale is completed the seller shall obtain an order in writing signed by the purchaser, showing the purchaser’s name, address and occupation, the name and quantity of poison to be purchased and the purpose for which it is required:\nProvided that where a person represents that he urgently requires a poison for the purpose of his trade, business or profession and satisfies the seller that by reason of some emergency he is unable before delivery to furnish the order in writing, the seller may forthwith deliver the poison to the purchaser who shall within twenty-four hours of the sale furnish the seller with such written order as aforesaid;\n  (b) before the sale is completed the seller shall satisfy himself that the signature on the order is that of the person by whom it purports to be signed, and that that person carries on the occupation stated in the order, being an occupation in which the poison to be purchased is properly required;\n  (c) the requirements of subsection (1) of this section as to the making of entries in the Poisons Book shall be complied with, except that in place of the purchaser’s signature in the Poisons Book it shall be sufficient to enter in the space provided for such signature the words \"signed order\", together with a reference whereby the particular order may be readily identified;\n  (d) all signed orders and prescribed records of transactions to which this section applies shall be retained on the premises where the sales were made, for such period as shall be prescribed;\n  (e) if the poison is sent by post it shall be sent by registered or parcel post.\n(3) Any person who contravenes or fails to comply with any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding one hundred thousand shillings or to imprisonment for a term not exceeding three years or to both such fine and imprisonment.\n[Act No. 3 of 1968, s. 6, Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where any Part I poison is sold in the presence of the person by whom it is to be used, the seller shall not deliver it until—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a Part I poison is sold in the presence of an agent or servant of the person by whom it is to be used, or where any such sale is effected by post, the following provisions shall apply—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person who contravenes or fails to comply with any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding one hundred thousand shillings or to imprisonment for a term not exceeding three years or to both such fine and imprisonment."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Supply and dispensing of Part I poisons by doctors, hospitals, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "POISONS",
+   "text": "(1) A duly qualified medical practitioner, dentist or veterinary surgeon, or a member of the staff of a hospital, dispensary or similar institution who has been authorized so to do by general or special order of the Cabinet Secretary, may supply or dispense a Part I poison for the purpose of medical, dental or veterinary treatment, as the case may be, subject to the following provisions—\n  (a) the poison shall be distinctly labelled with the name and address of the person by whom it is supplied or dispensed;\n  (b) the following particulars shall within twenty-four hours after the poison has been supplied or dispensed be entered in a book used regularly for the purpose (but which need not be used exclusively for that purpose), and which shall be called the Prescription Book—\n  (i) the date on which the poison was supplied or dispensed;\n  (ii) the ingredients and the quantity supplied;\n  (iii) the name and address of the person to whom the poison was supplied;\n  (iv) the name and address of the person by whom the prescription was given, and a registered midwife practising domiciliary midwifery may supply or dispense a Part I poison in accordance with the regulations made under the Nurses and Midwives Act (Cap. 257), if he complies with paragraph (b) of this subsection in relation to the supplying or dispensing of the poison.\n(2) An authorized seller of poisons may supply a Part I poison prescribed and dispensed by himself, and in every case in which he supplies a Part I poison on prescription (whether the prescription has been drawn up by himself or not) shall enter the particulars in his Prescription Book in accordance with this section, but shall not in respect of such supply be required to make any entry in the Poisons Book in accordance with section 30 of this Act.\n(3) Any person to whom subsection (1) of this section apply who supplies or dispenses any Part I poison otherwise than in compliance with these provisions shall be guilty of an offence and liable to a fine not exceeding five thousand shillings or to imprisonment for a term not exceeding one year or to both such fine and such imprisonment.\n[Act No. 3 of 1968, s. 9, Act No. 25 of 2015, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A duly qualified medical practitioner, dentist or veterinary surgeon, or a member of the staff of a hospital, dispensary or similar institution who has been authorized so to do by general or special order of the Cabinet Secretary, may supply or dispense a Part I poison for the purpose of medical, dental or veterinary treatment, as the case may be, subject to the following provisions—"
+    },
+    {
+     "ref": "(2)",
+     "text": "An authorized seller of poisons may supply a Part I poison prescribed and dispensed by himself, and in every case in which he supplies a Part I poison on prescription (whether the prescription has been drawn up by himself or not) shall enter the particulars in his Prescription Book in accordance with this section, but shall not in respect of such supply be required to make any entry in the Poisons Book in accordance with section 30 of this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person to whom subsection (1) of this section apply who supplies or dispenses any Part I poison otherwise than in compliance with these provisions shall be guilty of an offence and liable to a fine not exceeding five thousand shillings or to imprisonment for a term not exceeding one year or to both such fine and such imprisonment."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Licence to sell Part II poisons",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "POISONS",
+   "text": "(1) Every person who, not being otherwise empowered so to do, desires to sell Part II poisons may make application for a licence in writing in the manner prescribed to the Board or a person appointed by it in writing for the purpose.\n(2) If the Board or the person appointed by it is satisfied that it is necessary for a licence under this section to be issued or renewed in order that the public may have adequate facilities for obtaining Part II poisons and that the applicant is a fit and proper person to sell the poisons, and that the premises in which this business is to be carried on are suitable, he may, on payment of the fee prescribed, issue or renew the licence.\n(3) A licence granted under this section may be made subject to such conditions and limitations as the Board or the person appointed by it may think fit to impose.\n(4) Every licence granted under this section shall be in the prescribed form and shall expire on the 31st December of the year in which it is granted.\n(5) The Board or the person appointed by it may refuse to issue or renew a licence, or may revoke the licence of any person who in his opinion is for a reason relating either to the person or his premises not fit to be so licensed, and in the event of refusal or revocation an appeal shall lie to the Cabinet Secretary, whose decision shall be final.\n(6) The Registrar shall keep a register in the prescribed form of all licences issued under this section.\n[Act No. 3 of 1968, s. 10, Act No. 25 of 2015, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every person who, not being otherwise empowered so to do, desires to sell Part II poisons may make application for a licence in writing in the manner prescribed to the Board or a person appointed by it in writing for the purpose."
+    },
+    {
+     "ref": "(2)",
+     "text": "If the Board or the person appointed by it is satisfied that it is necessary for a licence under this section to be issued or renewed in order that the public may have adequate facilities for obtaining Part II poisons and that the applicant is a fit and proper person to sell the poisons, and that the premises in which this business is to be carried on are suitable, he may, on payment of the fee prescribed, issue or renew the licence."
+    },
+    {
+     "ref": "(3)",
+     "text": "A licence granted under this section may be made subject to such conditions and limitations as the Board or the person appointed by it may think fit to impose."
+    },
+    {
+     "ref": "(4)",
+     "text": "Every licence granted under this section shall be in the prescribed form and shall expire on the 31st December of the year in which it is granted."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Board or the person appointed by it may refuse to issue or renew a licence, or may revoke the licence of any person who in his opinion is for a reason relating either to the person or his premises not fit to be so licensed, and in the event of refusal or revocation an appeal shall lie to the Cabinet Secretary, whose decision shall be final."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Registrar shall keep a register in the prescribed form of all licences issued under this section."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Power to sell Part II poisons",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "POISONS",
+   "text": "(1) Subject to the provisions of this Act, Part II poisons may be sold by—\n  (a) a person licensed under section 27 to deal as a wholesale dealer in poisons, to the persons and others to whom he is entitled under section 29 to sell Part I poisons, and to persons licensed under section 32 of this Act in accordance with their licences;\n  (b) an authorized seller of poisons;\n  (c) a person licensed under section 28 to sell poisons for mining, agricultural or horticultural purposes, in accordance with such licence;\n  (d) a person licensed under section 32 to sell Part II poisons, in accordance with that licence.\n(2) Nothing in subsection (1) shall make it illegal for a person to sell or resell to a wholesale dealer licensed under section 27, or to an authorised seller of poisons, stocks of Part II poisons which are found to be surplus to requirements, or for a person whose licence has been revoked or has expired to sell the poisons in his possession at the time of revocation or expiry, if the sale takes place within three months after the time of revocation or expiry or such longer time as the Board may allow.\n(3) A person who sell a Part II poison except in accordance with the provisions of this section shall be guilty of an offence and liable to a fine not exceeding twenty thousand shillings, or to imprisonment for a term not exceeding one year, or to both.\n[Act No. 3 of 1968, ss. 8, 11, Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of this Act, Part II poisons may be sold by—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Nothing in subsection (1) shall make it illegal for a person to sell or resell to a wholesale dealer licensed under section 27, or to an authorised seller of poisons, stocks of Part II poisons which are found to be surplus to requirements, or for a person whose licence has been revoked or has expired to sell the poisons in his possession at the time of revocation or expiry, if the sale takes place within three months after the time of revocation or expiry or such longer time as the Board may allow."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who sell a Part II poison except in accordance with the provisions of this section shall be guilty of an offence and liable to a fine not exceeding twenty thousand shillings, or to imprisonment for a term not exceeding one year, or to both."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Labelling of containers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "POISONS",
+   "text": "(1) It shall be an offence for any person to supply any poison unless the container of the poison is labelled in the prescribed manner—\n  (a) with the name of the poison; and\n  (b) in the case of a preparation which contains a poison as one of the ingredients thereof, with the prescribed particulars as to the proportion which the poison contained in the preparation bears to the total ingredients; and\n  (c) with the word \"Poison\" or other prescribed indication of the character of the article; and\n  (d) if supplied on sale (other than wholesale), with the name of the seller and the address of the premises on which it is sold; and\n  (e) if supplied otherwise than on sale, with the name and address of the supplier:\nProvided that the provisions of paragraph (a), (b) and (c) of this section shall not apply in respect of a poison made up and supplied for the use of a particular person being a poison prescribed by reference to the needs of that person.\n(2) The provisions of paragraphs (a), (b) and (c) of subsection (1) shall not apply in respect of a poison made up and supplied for the use of a particular person being a poison prescribed by reference to the needs of that person.\n(3) Any person who commits an offence under this section shall be liable to a fine not exceeding twenty thousand shillings, or to imprisonment for a period not exceeding one year or to both. [Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "It shall be an offence for any person to supply any poison unless the container of the poison is labelled in the prescribed manner—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of paragraphs (a), (b) and (c) of subsection (1) shall not apply in respect of a poison made up and supplied for the use of a particular person being a poison prescribed by reference to the needs of that person."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person who commits an offence under this section shall be liable to a fine not exceeding twenty thousand shillings, or to imprisonment for a period not exceeding one year or to both. [Act No. 2 of 2002, Sch.]"
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Prohibition on sale of poisons in automatic machines",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "POISONS",
+   "text": "A person exposing or causing to be exposed for sale any poison in or by means of an automatic machine shall be guilty of an offence and liable to a fine not exceeding twenty thousand shillings or to imprisonment for a period not exceeding one year or to both.\n[Act No. 2 of 2002, Sch.]",
+   "clauses": []
+  },
+  "35A": {
+   "num": "35A",
+   "title": "Licence to manufacture medicinal substances",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IIIA",
+   "part_title": "MANUFACTURE OF MEDICINAL SUBSTANCES",
+   "text": "(1) No person shall manufacture any medicinal substance unless he has been granted a manufacturing licence by the Board.\n(2) Each manufacturing licence shall expire on the 31st December of every year and the renewal thereof shall be subject to compliance with conditions prescribed by the Board.\n(3) No person shall manufacture any medicinal substance for sale unless he has applied for and obtained a licence from the Board in respect of each substance intended to be manufactured.\n(4) Any person who intends to manufacture a medicinal substance shall make an application in the prescribed form for the licensing of the premises; and the application shall be accompanied by the prescribed fee.\n(5) The Board or any person authorized in writing by the Board shall have power to enter and sample any medicinal substance under production in any manufacturing premises and certify that the method of manufacture approved by the Board is being followed. [Act No. 12 of 1992, s. 3, Act No. 20 of 2017, s. 34(a).]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No person shall manufacture any medicinal substance unless he has been granted a manufacturing licence by the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "Each manufacturing licence shall expire on the 31st December of every year and the renewal thereof shall be subject to compliance with conditions prescribed by the Board."
+    },
+    {
+     "ref": "(3)",
+     "text": "No person shall manufacture any medicinal substance for sale unless he has applied for and obtained a licence from the Board in respect of each substance intended to be manufactured."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person who intends to manufacture a medicinal substance shall make an application in the prescribed form for the licensing of the premises; and the application shall be accompanied by the prescribed fee."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Board or any person authorized in writing by the Board shall have power to enter and sample any medicinal substance under production in any manufacturing premises and certify that the method of manufacture approved by the Board is being followed. [Act No. 12 of 1992, s. 3, Act No. 20 of 2017, s. 34(a).]"
+    }
+   ]
+  },
+  "35B": {
+   "num": "35B",
+   "title": "Compliance with good manufacturing practice",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IIIA",
+   "part_title": "MANUFACTURE OF MEDICINAL SUBSTANCES",
+   "text": "Every person who is granted a manufacturing licence under section 35A shall comply with the good manufacturing practices prescribed by the Board.\n[Act No. 12 of 1992, s. 3.]",
+   "clauses": []
+  },
+  "35C": {
+   "num": "35C",
+   "title": "Interpretation of Part",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IIIB",
+   "part_title": "NATIONAL QUALITY CONTROL LABORATORY",
+   "text": "In this Part, unless the context otherwise requires— \"Director\" means the Director of the National Quality Control Laboratory appointed under section 35H; \"Laboratory\" means the National Quality Control Laboratory established under section 35D.\n[Act No. 12 of 1992, s. 3.]",
+   "clauses": []
+  },
+  "35D": {
+   "num": "35D",
+   "title": "Establishment of the National Drug Quality Control Laboratory",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IIIB",
+   "part_title": "NATIONAL QUALITY CONTROL LABORATORY",
+   "text": "There shall be established a National Quality Laboratory which shall be used as a facility for—\n  (a) the examination and testing of drugs and any material or substance from or with which and the manner in which drugs may be manufactured, processed or treated and ensuring the quality control of drugs and medicinal substances;\n  (b) performing chemical, biological, bio-chemical, physiological and pharmacological analysis and other pharmaceutical evaluation; and\n  (c) testing, at the request of the Board and on behalf of the Government, of locally manufactured and imported drugs or medicinal substances with a view to determining whether such drugs or medicinal substances comply with this Act or rules made thereunder.\n[Act No. 12 of 1992, s. 3.]",
+   "clauses": []
+  },
+  "35E": {
+   "num": "35E",
+   "title": "Incorporation of the Laboratory",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IIIB",
+   "part_title": "NATIONAL QUALITY CONTROL LABORATORY",
+   "text": "The Laboratory shall be a body corporate with perpetual succession and a common seal and shall have power to sue and be sued in its corporate name and to acquire, hold and dispose of movable and immovable property for its own purposes.\n[Act No. 12 of 1992, s. 3.]",
+   "clauses": []
+  },
+  "35F": {
+   "num": "35F",
+   "title": "Board of Management",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IIIB",
+   "part_title": "NATIONAL QUALITY CONTROL LABORATORY",
+   "text": "(1) There shall be a Board of Management for the Laboratory, which shall consist of nine members to be appointed by the Pharmacy and Poisons Board.\n(2) A member of the Board of Management appointed under subsection (1) shall hold office for three years but shall be eligible for re-appointment.\n(3) A quorum of the Board of Management shall be five members.\n(4) The Board of management shall meet not less than four times each calendar year.\n(5) The Director shall be the secretary of the Board of Management.\n(6) Subject to this subsection, the Board of Management may regulate its own procedure.\n[Act No. 12 of 1992, s. 3.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Board of Management for the Laboratory, which shall consist of nine members to be appointed by the Pharmacy and Poisons Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "A member of the Board of Management appointed under subsection (1) shall hold office for three years but shall be eligible for re-appointment."
+    },
+    {
+     "ref": "(3)",
+     "text": "A quorum of the Board of Management shall be five members."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Board of management shall meet not less than four times each calendar year."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Director shall be the secretary of the Board of Management."
+    },
+    {
+     "ref": "(6)",
+     "text": "Subject to this subsection, the Board of Management may regulate its own procedure."
+    }
+   ]
+  },
+  "35G": {
+   "num": "35G",
+   "title": "Functions of the Board of Management",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IIIB",
+   "part_title": "NATIONAL QUALITY CONTROL LABORATORY",
+   "text": "The functions of the Board of Management shall be—\n  (a) to administer the property and funds of the Laboratory in such manner and for such purposes as shall, in the opinion of the Board of Management, promote its best interests;\n  (b) to receive, on behalf of the Laboratory, grants-in-aid, gifts, donations, fees, subscriptions or other moneys and make disbursements therefrom;\n  (c) to make regulations governing the appointment, conduct and discipline of employees of the Laboratory;\n  (d) in consultation with the Cabinet Secretary, to draw up a scheme of service for employees of the Laboratory;\n  (e) to administer the approved terms and conditions of service, including appointments, dismissals, remuneration and retiring benefits of employees of the Laboratory; and\n  (f) to appoint such employees upon terms and conditions to be laid down by the Board of Management, after consultation with the Cabinet Secretary, as it considers necessary for the proper and efficient administration of the Laboratory.\n[Act No. 12 of 1992, s. 3, Act No. 25 of 2015, Sch.]",
+   "clauses": []
+  },
+  "35H": {
+   "num": "35H",
+   "title": "Director",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IIIB",
+   "part_title": "NATIONAL QUALITY CONTROL LABORATORY",
+   "text": "(1) The Board of Management shall appoint a Director who shall be the chief executive of the Laboratory responsible to the Board of Management for the day to day management of the Laboratory.\n(2) The Director shall hold office on such terms and conditions of service as may be specified in the instrument of his appointment.\n[Act No. 12 of 1992, s. 3.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board of Management shall appoint a Director who shall be the chief executive of the Laboratory responsible to the Board of Management for the day to day management of the Laboratory."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Director shall hold office on such terms and conditions of service as may be specified in the instrument of his appointment."
+    }
+   ]
+  },
+  "35I": {
+   "num": "35I",
+   "title": "Powers of the Director",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IIIB",
+   "part_title": "NATIONAL QUALITY CONTROL LABORATORY",
+   "text": "The Director shall have power—\n  (a) to develop and administer a data bank on quality assurance on behalf of the Board of management;\n  (b) deleted by Act No. 20 of 2017, s. 34;\n  (c) to advise and obtain advice from the Board of Management in regard to any matter within his purview under this Act.\n[Act No. 12 of 1992, s. 3, Act No. 20 of 2017, s. 34(b).]",
+   "clauses": []
+  },
+  "35J": {
+   "num": "35J",
+   "title": "Financial provisions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IIIB",
+   "part_title": "NATIONAL QUALITY CONTROL LABORATORY",
+   "text": "(1) The funds to be used for the management of the Laboratory shall consist of all moneys received or recovered under this Part and moneys provided by Parliament.\n(2) The Laboratory may accept gifts, donations, subscriptions, fees and other moneys for the implementation of approved programmes.\n(3) The financial year of the Laboratory shall be the same as the Government financial year.\n(4) The estimates for the expenditure of the Laboratory shall be submitted through the Cabinet Secretary for approval by the Treasury and shall make provisions for—\n  (a) the payment of salaries, allowances and all other charges in respect of the employees of the Laboratory;\n  (b) the payment of pensions, gratuities and all other charges in respect of retirement benefits payable out of the funds of the Laboratory;\n  (c) the procurement, proper maintenance, repair and replacement of equipment and other immovable property of the Laboratory;\n  (d) the proper maintenance of the buildings and grounds of the Laboratory;\n  (e) the creation of such reserve funds to meet future or contingent liabilities in respect of retiring benefits, insurance or replacement of building, or equipment or in respect of such other matters as the Board of Management may think fit;\n  (f) the cost of Board of Management meetings; and\n  (g) capital expenditure.\n(5) The Board of Management shall cause to be kept and the Director shall keep all proper books of accounts of the Laboratory.\n(6) The accounts of the Laboratory shall be audited by the Auditor-General. (7) The disposal of fixed assets by the Board of Management shall be subject to the approval of the Treasury. [Act No. 12 of 1992, s. 3, Act No. 25 of 2015, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The funds to be used for the management of the Laboratory shall consist of all moneys received or recovered under this Part and moneys provided by Parliament."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Laboratory may accept gifts, donations, subscriptions, fees and other moneys for the implementation of approved programmes."
+    },
+    {
+     "ref": "(3)",
+     "text": "The financial year of the Laboratory shall be the same as the Government financial year."
+    },
+    {
+     "ref": "(4)",
+     "text": "The estimates for the expenditure of the Laboratory shall be submitted through the Cabinet Secretary for approval by the Treasury and shall make provisions for—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The Board of Management shall cause to be kept and the Director shall keep all proper books of accounts of the Laboratory."
+    },
+    {
+     "ref": "(6)",
+     "text": "The accounts of the Laboratory shall be audited by the Auditor-General. (7) The disposal of fixed assets by the Board of Management shall be subject to the approval of the Treasury. [Act No. 12 of 1992, s. 3, Act No. 25 of 2015, Sch.]"
+    }
+   ]
+  },
+  "35K": {
+   "num": "35K",
+   "title": "Certificate of analysis",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IIIB",
+   "part_title": "NATIONAL QUALITY CONTROL LABORATORY",
+   "text": "(1) A certificate of analysis shall be issued and signed by the Director for every analysis done. (2) The certificate of analysis issued under subsection (1) shall be in the prescribed form.\n[Act No. 12 of 1992, s. 3.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A certificate of analysis shall be issued and signed by the Director for every analysis done. (2) The certificate of analysis issued under subsection (1) shall be in the prescribed form."
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Advertisement of drugs",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Subject to the provisions of this Act, no person shall advertise any drug or poison except with the written permission of the Board.\n(2) Applications for the advertisement of any drug or poison shall be made to the Board in the prescribed form and shall be accompanied by the prescribed fee. [Act No. 7 of 1990, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of this Act, no person shall advertise any drug or poison except with the written permission of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "Applications for the advertisement of any drug or poison shall be made to the Board in the prescribed form and shall be accompanied by the prescribed fee. [Act No. 7 of 1990, Sch.]"
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Prohibition of advertisements as to certain diseases, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Subject to the provisions of this Act, no person shall take part in the publication of an advertisement referring to a drug, appliance or article of any description in terms which are calculated to imply that such drugs, appliances or articles may be effective for any of the purposes specified in the Schedule to this Act.\n(2) In any proceedings for contravention of the foregoing provisions of this section, it shall be a defence for the person charged to prove that the advertisement to which the proceedings relate was published only so far as was reasonably necessary to bring it to the notice of one or more persons of the following classes—\n  (a) members of the National Assembly;\n  (b) members of the governing body of a voluntary hospital;\n  (c) duly qualified medical practitioners, dentists and veterinary surgeons;\n  (d) registered pharmacists, authorized sellers of poisons and licensed wholesale dealers;\n  (e) persons carrying on a business which includes the sale or supply of surgical appliances, or that the said advertisement was so published in connection with an application for a patent submitted to the appropriate authority so far only as was requisite for the purpose of the application.\n(3) The Cabinet Secretary may from time to time, by notice in the Gazette, amend or vary the Schedule to this Act. [L.N. 365/1964, Act No. 25 of 2015, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of this Act, no person shall take part in the publication of an advertisement referring to a drug, appliance or article of any description in terms which are calculated to imply that such drugs, appliances or articles may be effective for any of the purposes specified in the Schedule to this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "In any proceedings for contravention of the foregoing provisions of this section, it shall be a defence for the person charged to prove that the advertisement to which the proceedings relate was published only so far as was reasonably necessary to bring it to the notice of one or more persons of the following classes— (a) members of the National Assembly; (b) members of the governing body of a voluntary hospital; (c) duly qualified medical practitioners, dentists and veterinary surgeons; (d) registered pharmacists, authorized sellers of poisons and licensed wholesale dealers; (e) persons carrying on a business which includes the sale or supply of surgical appliances, or that the said advertisement was so published in connection with an application for a patent submitted to the appropriate authority so far only as was requisite for the purpose of the application."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary may from time to time, by notice in the Gazette, amend or vary the Schedule to this Act. [L.N. 365/1964, Act No. 25 of 2015, Sch.]"
+    }
+   ]
+  },
+  "38": {
+   "num": "38",
+   "title": "Prohibition of advertisements as to abortion",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Subject to the provisions of this Act, no person shall take any part in the publication of any advertisement referring to any drug, appliance or article of any description, in terms which are calculated to lead to the use of such drugs, appliance or article for procuring the miscarriage of women.",
+   "clauses": []
+  },
+  "39": {
+   "num": "39",
+   "title": "Prohibition of misleading advertisements",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Subject to the provisions of this Act, no person shall take any part in the publications of any advertisement referring to a drug, medicine, medical appliance or similar article in terms which in the opinion of the Board are considered to be extravagant and to bear little or no relation to the pharmacological properties and action of the ingredients or components thereof.",
+   "clauses": []
+  },
+  "40": {
+   "num": "40",
+   "title": "Offences and penalties in respect of advertisements",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A person who contravenes any of the provisions of sections 36, 37, 38 and 39 shall, subject to this Act, be liable—\n  (a) in the case of a first conviction, to a fine not exceeding twenty thousand shillings or to imprisonment for a term not exceeding one year, or both;\n  (b) in the case of a subsequent conviction, to a fine not exceeding thirty thousand shillings or to imprisonment for a term not exceeding two years or to both.\n(2) Where, in proceedings for contravention of any of the provisions of sections 37 and 38, it is proved —\n  (a) that an advertisement was published referring to any drug, appliance or article of any description, in terms calculated to lead to the use of such drugs, appliance, or article—\n  (i) in the case of a contravention of section 37 of this Act, for the treatment of any of the human ailments referred to in subsection (1) of that section; or\n  (ii) in the case of a contravention of section 38 of this Act, for procuring the miscarriage of women; and\n  (b) that the advertisement also referred to the drug, appliance or article in terms calculated to indicate that it was manufactured, produced, imported, sold or offered for sale by the person charged, then, unless the contrary is proved, it shall be presumed for the purpose of those proceedings that that person took part in the publication of the advertisement, but without prejudice to the liability of any other person.\n(3) In any proceedings for contravention of any of the provisions of sections 36, 37, 38 and 39, it shall be a defence for the person charged to prove—\n  (a) that the advertisement to which the proceedings relate was published in such circumstances that he did not know and had no reason to believe that he was taking part in the publication thereof; or\n  (b) that the advertisement was published only in a publication of a technical character intended for circulation mainly amongst persons of the following classes, or of one or some of them that is to say—\n  (i) duly qualified medical practitioners, dentists and veterinary surgeons;\n  (ii) registered pharmacists and authorized sellers of poisons;\n  (iii) persons undergoing training with a view to becoming duly qualified medical practitioners, dentists or veterinary surgeons, or registered pharmacists;\n  (iv) persons carrying on a business which includes the sale or supply of surgical appliances.\n(4) Deleted by Act No. 5 of 2019, Sch.\n[Act No. 7 of 1990, Sch., Act No. 2 of 2002, Sch., Act No. 5 of 2019, Sch, Act No. 19 of 2023, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who contravenes any of the provisions of sections 36, 37, 38 and 39 shall, subject to this Act, be liable—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where, in proceedings for contravention of any of the provisions of sections 37 and 38, it is proved —"
+    },
+    {
+     "ref": "(3)",
+     "text": "In any proceedings for contravention of any of the provisions of sections 36, 37, 38 and 39, it shall be a defence for the person charged to prove—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Deleted by Act No. 5 of 2019, Sch."
+    }
+   ]
+  },
+  "41": {
+   "num": "41",
+   "title": "Labelling of articles containing medicine",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Subject to the provisions of this Act, no person shall sell by retail any article consisting of or comprising a substance recommended as a medicine unless there is written so as to be clearly legible on the article or on a label affixed thereto, or, if the article is sold or supplied as aforesaid in a container, on the container or on a label affixed thereto, or, if the article is sold or supplied as aforesaid in more than one container, on the inner container or on a label affixed thereto—\n  (a) the appropriate designation of the substance so recommended or of each of the active constituents thereof, or of each of the ingredients of which it has been compounded; and\n  (b) in a case where the appropriate designation of each of the active constituents or ingredients is written as aforesaid, the appropriate quantitative particulars of the constituents or ingredients:\nProvided that this subsection shall not apply to any article made up and supplied for the use of a particular person, being an article prescribed by reference to the needs of that person.\n(2) In preceding subsection (1)—\n  (a) \"appropriate designation\", in relation to a substance, constituent or ingredient, means—\n  (i) in a case where the substance, constituent or ingredient is a poison included in the Poisons List, the name with which the container of the poison is for the time being required to be labelled in pursuance of section 34 of this Act;\n  (ii) in a case where the substance, constituent or ingredient is not such a poison and is described in any of the monographs contained in the edition of the British Pharmacopoeia or the British Pharmaceutical Codex or the International Pharmacopoeia or the British Veterinary Codex which was last published before the date on which the article was sold or supplied, the description set out at the head of that monograph;\n  (iii) in a case where the substance, constituent or ingredient is not such a poison and is not so described, the accepted scientific name, or other name descriptive of the true nature of the substance, constituent or ingredient, and in all cases the appropriate name of the substance shall be written in English or in Latin;\n  (b) the expression \"appropriate quantitative particulars\", in relation to the active constituents or the ingredients of a substance, means—\n  (i) the approximate percentage of each of those constituents or ingredients contained in the substance or the approximate quantity of each of those constituents or ingredients contained in the article sold or supplied; or\n  (ii) in a case where the article consists of or comprises a number of separate portions of the substance, either the approximate percentage or quantity aforesaid or the approximate quantity of each of the constituents or ingredients contained in each portion; and\n  (c) the expression \"container\" includes a wrapper.\n(3) If any person sells or supplies an article in contravention of this section, he shall, subject to the provisions of this Act, be liable—\n  (a) in the case of a first conviction, to a fine not exceeding ten thousand shillings;\n  (b) in the case of a subsequent conviction, to a fine not exceeding twenty thousand shillings or to imprisonment for a term not exceeding one year or to both such fine and such imprisonment.\n[Act No. 3 of 1968, s. 12, Act No. 2 of 2002, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of this Act, no person shall sell by retail any article consisting of or comprising a substance recommended as a medicine unless there is written so as to be clearly legible on the article or on a label affixed thereto, or, if the article is sold or supplied as aforesaid in a container, on the container or on a label affixed thereto, or, if the article is sold or supplied as aforesaid in more than one container, on the inner container or on a label affixed thereto—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In preceding subsection (1)—"
+    },
+    {
+     "ref": "(3)",
+     "text": "If any person sells or supplies an article in contravention of this section, he shall, subject to the provisions of this Act, be liable—"
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "Proceedings on charge concerning labelling",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) It shall be a defence for a person charged with selling or supplying, in contravention of any of the provisions of section 41 of this Act, an article consisting of or comprising a substance recommended as a medicine to prove—\n  (a) that he did not know, and had no reason to believe that the article consisted of or comprised such a substance; or\n  (b) that, in relation to the matter in respect of which he is charged, he acted in the course of his employment as a servant or agent of another person on the instructions of his employer or of some other specified person.\n(2) In any proceedings for contravention of any of the provisions of section 41 of this Act a document purporting to be a certificate signed by a public analyst within the meaning of the Food and Drugs (Adulteration) Act (Cap. 127) or by an officer authorized in writing by the Cabinet Secretary to perform such analysis, and stating the result of an analysis made by him, shall be admissible as evidence of the matters stated therein, but any party to the proceedings may require the person by whom the analysis was made to be called as a witness.\n[Act No. 25 of 2015, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "It shall be a defence for a person charged with selling or supplying, in contravention of any of the provisions of section 41 of this Act, an article consisting of or comprising a substance recommended as a medicine to prove—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In any proceedings for contravention of any of the provisions of section 41 of this Act a document purporting to be a certificate signed by a public analyst within the meaning of the Food and Drugs (Adulteration) Act (Cap. 127) or by an officer authorized in writing by the Cabinet Secretary to perform such analysis, and stating the result of an analysis made by him, shall be admissible as evidence of the matters stated therein, but any party to the proceedings may require the person by whom the analysis was made to be called as a witness."
+    }
+   ]
+  },
+  "42A": {
+   "num": "42A",
+   "title": "Proceedings on charge of selling poisons, etc",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Where a person is charged with an offence under section 26, section 29 or section 33 of this Act by reason of his having sold or been in possession of a container labelled as containing poisons, and the container appears to have been packed by the manufacturer of the contents and to be intact, the container shall be presumed to contain poisons of the description specified on the label, until the contrary is proved.\n[Act No. 3 of 1968, s. 13.]",
+   "clauses": []
+  },
+  "42B": {
+   "num": "42B",
+   "title": "Appeals",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "An appeal under any of sections 27(2), 28(3), 32(5) and 50(2) of this Act shall be in writing, and shall be lodged within thirty days after the date of the act appealed against.\n[Act No. 3 of 1968, s. 13.]",
+   "clauses": []
+  },
+  "43": {
+   "num": "43",
+   "title": "Power to prohibit or control certain medicines",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary, on the recommendation of the Board, may, by order, prohibit or control the manufacture, sale, advertisement or possession of any secret, patent, proprietary or homoeopathic medicine, preparation or appliance.\n(2) Any person who contravenes or fails to comply with any order made by the Cabinet Secretary under subsection (1) of this section shall be guilty of an offence.\n[Act No. 25 of 2015, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary, on the recommendation of the Board, may, by order, prohibit or control the manufacture, sale, advertisement or possession of any secret, patent, proprietary or homoeopathic medicine, preparation or appliance."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who contravenes or fails to comply with any order made by the Cabinet Secretary under subsection (1) of this section shall be guilty of an offence."
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Rules",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary may, after consultation with the Board, make rules with respect to any of the following matters or for any of the following purposes—\n  (a) prohibiting the sale by retail of a specified Part I poison except on a prescription duly given by a duly qualified medical practitioner, dentist or veterinary surgeon and for prescribing the form and regulating the use of those prescriptions;\n  (b) prohibiting, regulating or restricting the sale of Part II poisons or of any specified Part II poisons by any of the persons licensed under section 28 or section 32 of this Act or by any class of such persons;\n  (c) exempting from any of the provisions of this Act relating to the sale of poisons any article or substance containing poison or any class of such articles or substances or for dispensing with or relaxing with respect to poisons any of the provisions contained in Part III of this Act;\n  (d) prohibiting, regulating or restricting the manufacture, sale or advertising of drugs, pharmaceutical preparations and therapeutic substances;\n  (e) the safe custody and storage of poisons;\n  (f) the importation, exportation, transport and labelling of poisons;\n  (ff) the importation and exportation of drugs;\n  (g) the containers in which poisons may be supplied;\n  (h) the addition to poisons of specified ingredients for the purpose of rendering them readily distinguishable as poisons;\n  (i) the compounding and dispensing of poisons;\n  (j) the period for which any books or registers required to be kept for the purposes of this Act are to be preserved;\n  (k) the fees to be paid for anything to be done under this Act;\n  (l) the procedure to be observed by the Board;\n  (m) the conduct of inquiries by the Board under section 12 of this Act and the attendance of witnesses and the production of evidence thereat;\n  (ma) prescribing the qualification for registration of pharmaceutical analysts;\n  (mb) the standards and practice of pharmacy;\n  (mc) pharmacy education and training;\n  (md) continuing professional development for all practising pharmacists and pharmaceutical technologists;\n  (me) criteria for issuance of pharmaceutical representatives permits;\n  (mf) pharmacovigilance, post market surveillance and Good Manufacturing Practice; and\n  (n) anything which is by this Act required or authorized to be prescribed.\n(2) The power to make rules under this section with respect to poisons or drugs includes the power to make rules with respect to any class of poisons or drugs or any particular poison or drug.\n(3) All rules made under this section shall be laid before the Legislative Council as soon as may be after they are made, and if a resolution is passed within the next twenty days on which the Council sits after any such rule is laid before it that the regulation be annulled, it shall thenceforth be void, but without prejudice to the validity of anything done thereunder or to the making of any new rule.\n[Act No. 39 of 1956, Sch., Act No. 3 of 1968, s. 14, Act No. 13 of 1980, Sch., Act No. 12 of 1992, s. 4, Act No. 25 of 2015, Sch., Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, after consultation with the Board, make rules with respect to any of the following matters or for any of the following purposes—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The power to make rules under this section with respect to poisons or drugs includes the power to make rules with respect to any class of poisons or drugs or any particular poison or drug."
+    },
+    {
+     "ref": "(3)",
+     "text": "All rules made under this section shall be laid before the Legislative Council as soon as may be after they are made, and if a resolution is passed within the next twenty days on which the Council sits after any such rule is laid before it that the regulation be annulled, it shall thenceforth be void, but without prejudice to the validity of anything done thereunder or to the making of any new rule."
+    }
+   ]
+  },
+  "45": {
+   "num": "45",
+   "title": "Power to enter and search premises, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) If a magistrate is satisfied by information on oath that there is reasonable ground for suspecting that an offence against any of the provisions of this Act has been or is being or is about to be committed and that evidence of the commission of the offence is to be found on or in any premises, vehicle or vessel specified in the information, he may grant a search warrant authorizing any police officer to enter and search any such premises or to detain, enter and search any such vehicle or vessel, and to seize any drugs, articles or documents which the officer has reasonable cause for believing to be evidence of the commission of the offence.\n(2) An authorized officer, if he has reasonable cause to believe that an offence against any of the provisions of this Act is being or has been committed on or in any premises, vehicle or vessel, or that any drug, article or document in respect of which there is reasonable ground for suspecting that such offence has been or is being committed is on or in any premises, vehicle or vessel, and if the delay which would occur in obtaining a search warrant as hereinbefore provided would, or would tend to, defeat the purposes of this Act, may without such warrant enter and search any such premises or may detain, enter and search any such vehicle or vessel, and may seize any drugs, articles and documents which he has reasonable cause to believe to be evidence of the commission of any such offence.\n(3) Where any drug, article or document has been seized under the provisions of this section the person who has seized it shall forthwith report to a magistrate the fact of such seizure.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If a magistrate is satisfied by information on oath that there is reasonable ground for suspecting that an offence against any of the provisions of this Act has been or is being or is about to be committed and that evidence of the commission of the offence is to be found on or in any premises, vehicle or vessel specified in the information, he may grant a search warrant authorizing any police officer to enter and search any such premises or to detain, enter and search any such vehicle or vessel, and to seize any drugs, articles or documents which the officer has reasonable cause for believing to be evidence of the commission of the offence."
+    },
+    {
+     "ref": "(2)",
+     "text": "An authorized officer, if he has reasonable cause to believe that an offence against any of the provisions of this Act is being or has been committed on or in any premises, vehicle or vessel, or that any drug, article or document in respect of which there is reasonable ground for suspecting that such offence has been or is being committed is on or in any premises, vehicle or vessel, and if the delay which would occur in obtaining a search warrant as hereinbefore provided would, or would tend to, defeat the purposes of this Act, may without such warrant enter and search any such premises or may detain, enter and search any such vehicle or vessel, and may seize any drugs, articles and documents which he has reasonable cause to believe to be evidence of the commission of any such offence."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where any drug, article or document has been seized under the provisions of this section the person who has seized it shall forthwith report to a magistrate the fact of such seizure."
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "Retention and disposal of goods seized",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Any drug, article or document seized under the provisions of section 45 of this Act may be retained for a period not exceeding one month or if within that period proceedings are commenced for an offence under this Act in respect of such drug, article or document, until the final determination of those proceedings.\n(2) Where a magistrate is satisfied that any such drug or article is of a perishable nature or that by reason of the fact that the market for any such drug or article is seasonal, or for any other reason, any delay in disposing of the drug or article would unduly prejudice the owner thereof, he may authorize the sale or other disposal of such drug or article.\n(3) Where proceedings are taken for any offence against this Act the court by or before which the alleged offender is tried may make such order as to the forfeiture or other disposal of any drug or article in respect of which such offence was committed as the court shall see fit.\n(4) In this section references to a drug or article shall be construed as including the proceeds of any sale effected in accordance with the provisions of subsection (2) hereof.\n(5) The Board may retain or confiscate a medicinal substance that it has reasons to believe is a counterfeit or is illegally imported and the substance, if found to be counterfeit or illegally imported shall be disposed at the expense of the owner or importer of such substance.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any drug, article or document seized under the provisions of section 45 of this Act may be retained for a period not exceeding one month or if within that period proceedings are commenced for an offence under this Act in respect of such drug, article or document, until the final determination of those proceedings."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a magistrate is satisfied that any such drug or article is of a perishable nature or that by reason of the fact that the market for any such drug or article is seasonal, or for any other reason, any delay in disposing of the drug or article would unduly prejudice the owner thereof, he may authorize the sale or other disposal of such drug or article."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where proceedings are taken for any offence against this Act the court by or before which the alleged offender is tried may make such order as to the forfeiture or other disposal of any drug or article in respect of which such offence was committed as the court shall see fit."
+    },
+    {
+     "ref": "(4)",
+     "text": "In this section references to a drug or article shall be construed as including the proceeds of any sale effected in accordance with the provisions of subsection (2) hereof."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Board may retain or confiscate a medicinal substance that it has reasons to believe is a counterfeit or is illegally imported and the substance, if found to be counterfeit or illegally imported shall be disposed at the expense of the owner or importer of such substance."
+    }
+   ]
+  },
+  "47": {
+   "num": "47",
+   "title": "Inspection of licences and books",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Every authorized or licensed seller of poisons shall, on the demand of an authorized officer, produce for inspection his certificate of registration or his licence, as the case may be.\n(2) All books kept by any seller of poisons, medical practitioner, dentist or veterinary surgeon, or by any hospital, dispensary or similar institution, in accordance with the provisions of this Act, shall be open for inspection by an authorized officer at all reasonable times.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every authorized or licensed seller of poisons shall, on the demand of an authorized officer, produce for inspection his certificate of registration or his licence, as the case may be."
+    },
+    {
+     "ref": "(2)",
+     "text": "All books kept by any seller of poisons, medical practitioner, dentist or veterinary surgeon, or by any hospital, dispensary or similar institution, in accordance with the provisions of this Act, shall be open for inspection by an authorized officer at all reasonable times."
+    }
+   ]
+  },
+  "48": {
+   "num": "48",
+   "title": "Obstruction of authorized officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Any person who obstructs or hinders an authorized officer in the lawful exercise of the powers conferred by section 45 or section 47 of this Act shall be guilty of an offence.",
+   "clauses": []
+  },
+  "49": {
+   "num": "49",
+   "title": "Vicarious criminal responsibility",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) An act which if done by an individual would be an offence against this Act or any rules made thereunder shall, if done by a body corporate, be an offence by every director, secretary and manager thereof unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.\n(2) If an offence against this Act or any rules thereunder has been committed by a partner in a firm, every person who at the time of the commission of the offence was a partner in that firm, or was purporting to act in that capacity, shall be deemed to be guilty of that offence unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An act which if done by an individual would be an offence against this Act or any rules made thereunder shall, if done by a body corporate, be an offence by every director, secretary and manager thereof unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances."
+    },
+    {
+     "ref": "(2)",
+     "text": "If an offence against this Act or any rules thereunder has been committed by a partner in a firm, every person who at the time of the commission of the offence was a partner in that firm, or was purporting to act in that capacity, shall be deemed to be guilty of that offence unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances."
+    }
+   ]
+  },
+  "50": {
+   "num": "50",
+   "title": "Penal sanctions with regard to bodies corporate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) If—\n  (a) a body corporate has been convicted of an offence under this Act or any rules made thereunder; or\n  (b) any member of the Board or any officer of a body corporate, or any person employed by a body corporate in carrying on a business, has been convicted of any such criminal offence, or been guilty of such misconduct as in the opinion of the Board renders him, or would if he were a registered pharmacist render him, unfit to be on the register, then, whether the body corporate was or was not an authorized seller of poisons at the time when the offence or misconduct was committed, the Board may inquire into the case and may, subject to this Act, direct—\n  (i) that the body corporate shall, in a case where it is an authorized seller of poisons, cease to be a seller and, in any case, be disqualified for such period as may be specified in the directions from being an authorised seller of poisons; or\n  (ii) that all or any of the premises of the body corporate shall, in a case where they are registered in the register of premises kept in pursuance of section 23 of this Act, be removed from that register and in any case be disqualified for such period as may be specified in the directions from being registered therein.\n(2) Any body corporate may appeal to the Cabinet Secretary against a direction given under this section, and the decision of the Cabinet Secretary on any such appeal shall be final.\n[Act No. 15 of 1961, Sch., Act No. 25 of 2015, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any body corporate may appeal to the Cabinet Secretary against a direction given under this section, and the decision of the Cabinet Secretary on any such appeal shall be final."
+    }
+   ]
+  },
+  "50A": {
+   "num": "50A",
+   "title": "Offences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "A person who engages in the manufacture, importation, exportation, compounding, storage, promotion or distribution of medicinal substances—\n  (a) that is unfit for use in humans or in animals;\n  (b) that is adulterated;\n  (c) that has upon it any natural or added deleterious substances which renders it injurious to human or animal health;\n  (d) that has been manufactured, prepared, preserved, packaged or stored for sale under insanitary and or unfavourable conditions;\n  (e) that has been labeled, packaged or promoted in a manner that is false, misleading, deceptive or likely to create an erroneous impression regarding its source, character, value, quality, composition, potency, merit or safety; or\n  (f) any counterfeit starting materials, commits an offence under this Act.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "51": {
+   "num": "51",
+   "title": "Penalties",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Any person guilty of an offence under the provisions of this Act shall, except as otherwise provided, be liable on conviction to a fine not exceeding one million shillings or to imprisonment for a term not exceeding two years, or to both such fine or imprisonment, and in addition to any penalty imposed under this Act the court may order any article in respect of which the offence has been committed or which has been used for the commission of such offence to be forfeited.\n[Act No. 3 of 1968, s. 15, Act No. 14 of 1991, Sch., Act No. 2 of 2002, Sch.]",
+   "clauses": []
+  },
+  "52": {
+   "num": "52",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 37]",
+   "subtitle": "PURPOSES FOR WHICH DRUGS, ETC., MAY NOT BE ADVERTISED",
+   "text": "1. The cure of syphilis, gonorrhoea or soft chancre in any of their forms.\n2. The prevention, relief or cure of Bright’s disease, schistosomiasis, cancer, consumption or tuberculosis, leprosy, lupus, diabetes, epilepsy or fits, locomotor ataxy, paralysis, or infantile paralysis.\n3. The cure of arterio-sclerosis, septicaemia, diphtheria, dropsy, erysipelas, gallstones, kidney stones and bladder stones, goitre, heart disease, tetanus or lockjaw, pleurisy, pneumonia, scarlet-fever, smallpox, trachoma, amenorrhoea, hernia or rupture, blindness, or any structural or organic ailment of the auditory system.\n4. The cure of any habit associated with sexual indulgence, or of any ailment associated with those habits; or the restoration or stimulation of the sexual functions."
+  }
+ ],
+ "spent": {}
+}

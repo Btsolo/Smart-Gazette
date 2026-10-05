@@ -1,0 +1,36 @@
+{
+ "title": "Estate Duty (Abolition) Act",
+ "citation": "Act No. 10 of 1982",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1982/10/eng@1982-06-28",
+ "version_date": "1982-06-28",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "ESTATE DUTY (ABOLITION) ACT NO. 10 OF 1982 Published in Kenya Gazette Vol. LXXXIV—No. 27 on 28 June 1982 Assented to on 25 June 1982 Commenced on 28 June 1982 An Act of Parliament to abolish the imposition of estate duty",
+ "parts": [],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title and construction",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "This Act may be cited as the Estate Duty (Abolition) Act, 1982, and shall be read as one with the Estate Duty Act (Cap. 483).",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Abolition of estate duty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Nothwithstanding the provisions of the Estate Duty Act (Cap. 483), no estate duty shall be levied or paid on property which passes on the death of any person dying on or after 1st January, 1982.",
+   "clauses": []
+  }
+ },
+ "schedules": [],
+ "spent": {}
+}

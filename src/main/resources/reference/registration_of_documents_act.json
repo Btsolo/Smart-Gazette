@@ -1,0 +1,483 @@
+{
+ "title": "Registration of Documents Act",
+ "citation": "Cap. 285",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1902/26/eng@2026-09-25",
+ "version_date": "2026-09-25",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "REGISTRATION OF DOCUMENTS ACT CAP. 285 Published in Kenya Gazette Vol. IV—No. 72 on 1 November 1902 Commenced on 15 October 1901\n[Amended by Registration of Documents (Amendment) Act, 1950 (Act No. 24 of 1950) on 13 June 1950] [Amended by Missing Act (Act No. 41 of 1956) on 1 January 1956] [Amended by Land Consolidation Act (Cap. 283) on 28 July 1959]\n[Amended by Registration of Documents (Amendment) Act, 1959 (Act No. 19 of 1959) on 1 January 1961] [Amended by Registered Land Act (Cap. 300) on 16 September 1963] [Amended by Kenya (Amendment of Laws) (Written Laws) Order, 1963 (Legal Notice 2 of 1964) on 12 December 1963]\n[Amended by Kenya (Amendment of Laws) (Miscellaneous Amendments) (No. 5) Order, 1964 (Legal Notice 303 of 1964) on 12 December 1963]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 1966 (Act No. 21 of 1966) on 12 July 1966] [Amended by Business Laws (Amendment) Act, 2020 (Act No. 1 of 2020) on 18 March 2020] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] [Amended by Trust Administration Act (Act No. 28 of 2026) on 25 September 2026]\nAn Act of Parliament to provide for the registration of documents",
+ "parts": [],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "This Act may be cited as the Registration of Documents Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "In this Act, except where the context otherwise requires—\n\"advanced electronic signature\" means an electronic signature which is—\n  (a) uniquely linked to the signatory;\n  (b) capable of identifying the signatory;\n  (c) created using means that the signatory may maintain under his or her sole control; and\n  (d) linked to the data to which it relates in such a manner that any subsequent change to the data may be detectable;\n\"book\" includes an electronic book, a portion of a book, and also any number of sheets connected together with a view to forming a book or portion of a book;\n\"electronic signature\" means data in electronic form affixed to or logically associated with other electronic data which may be used to identify the signatory in relation to the data message and indicate the signatory's approval of the information contained in the data message;\n\"endorsement\" and \"endorsed\" include and apply to an entry in writing by a registering officer on a rider or covering slip to any document tendered for registration under this Act;\n\"immovable property\" includes land, buildings, hereditary allowances, rights of way, lights, ferries, fisheries and any other benefit to arise out of land, and things attached to the earth or permanently fastened to anything which is attached to the earth, but not standing timber (except coconut trees), growing crops or grass;\n\"minor\" means a person who has not attained the age of eighteen years;\n\"Principal Registrar\" means such person as may be appointed by the Cabinet Secretary to exercise the duties of the Principal Registrar of Documents;\n\"registrar\" means any person appointed by the Cabinet Secretary to exercise the duties of a registrar of documents;\n\"representative\" includes the guardian of a minor, and the committee or other legal representative of a lunatic or idiot;\n\"signature\" and \"signed\" include and apply to the fixing of a mark, advanced electronic signature and electronic signature.\n(Act No. 41 of 1956, s. 2, L.N. 303/1964, Act No. 1 of 2020, s. 2)",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Registries",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A registry shall be kept at Nairobi for the whole of Kenya except the Coast Province, and shall be known as the Principal Registry, and another registry shall be kept at Mombasa for the Coast Province only, and shall be known as the Coast Registry.\n(2) The Registrar may establish and maintain the Principal and Coast registries in electronic form.\n(Act No. 41 of 1956, s. 3, Act No. 21 of 1966, 2nd Sch, Act No. 1 of 2020, s. 5)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A registry shall be kept at Nairobi for the whole of Kenya except the Coast Province, and shall be known as the Principal Registry, and another registry shall be kept at Mombasa for the Coast Province only, and shall be known as the Coast Registry."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar may establish and maintain the Principal and Coast registries in electronic form."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Documents to be registered",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) All documents conferring, or purporting to confer, declare, limit or extinguish any right, title or interest, whether vested or contingent to, in or over immovable property (other than such documents as may be of a testamentary nature) and vakallas shall be registered as hereinafter prescribed:\nProvided that the registration of the documents following shall not be compulsory—\n  (i) any composition deed;\n  (ii) any document relating to shares in a joint stock company, notwithstanding that the assets of such company consist in whole or in part of immovable property;\n  (iii) any debenture issued by such a company, and not creating, declaring, assigning, limiting or extinguishing any right, title or interest to, in or over any immovable property, except in so far as it entitles the holder to the security afforded by a registered instrument, whereby the company has mortgaged, conveyed or otherwise transferred the whole or part of its immovable property, or any interest therein, to trustees upon trust for the benefit of the holders of such debentures;\n  (iv) any endorsement upon or transfer of any debenture issued by any such company;\n  (v) any document not itself creating, declaring, assigning, limiting or extinguishing any right, title or interest to, in or over any immovable property but merely creating a right to obtain another document, which will, when executed, create, declare, assign, limit or extinguish any such right, title or interest;\n  (vi) any lease or licence of land for any term not exceeding one year; or\n  (vii) [spent];\n  (viii) a trust deed or deed of appointment of trustees registered under the Trust Administration Act (No. 28 of 2026):\nProvided that, if any such document relates to land registrable under any such Act and also to land not so registrable, such document shall also be registered under this Act.\n(2) A person may register a document referred to in subsection (1) by filing it in physical or electronic form.\n(Act No. 27 of 1959, Sch., Act No. 25 of 1963, Sch., Act No. 21 of 1966, 2nd Sch, Act No. 1 of 2020, s. 6, Act No. 28 of 2026, s. 97)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "All documents conferring, or purporting to confer, declare, limit or extinguish any right, title or interest, whether vested or contingent to, in or over immovable property (other than such documents as may be of a testamentary nature) and vakallas shall be registered as hereinafter prescribed:"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person may register a document referred to in subsection (1) by filing it in physical or electronic form."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Other documents may be registered",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Any other document may be registered, at the option of the person holding the same:\nProvided that a registrar may refuse to register any such document, for reasons to be stated by him in writing.",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "As to documents not written in specified languages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "If any document duly presented for registration is not written in English, Arabic, Kiswahili or Gujerati, or such other language as may from time to time be prescribed, either generally or locally, the registrar may refuse to register the same unless it is accompanied by a true translation in English, certified to the satisfaction of the registrar.\n(Act No. 19 of 1959, s. 2)",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "When registrar may refuse to register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The registrar may refuse to accept for registration any document in which any interlineation, blank, erasure or alteration appears, unless the persons executing the document attest with their signature or initials such interlineation, blank, erasure or alteration.\n(2) If he registers such document, he shall, at the time of registering the same, make a note in the register of such interlineation, blank, erasure or alteration.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The registrar may refuse to accept for registration any document in which any interlineation, blank, erasure or alteration appears, unless the persons executing the document attest with their signature or initials such interlineation, blank, erasure or alteration."
+    },
+    {
+     "ref": "(2)",
+     "text": "If he registers such document, he shall, at the time of registering the same, make a note in the register of such interlineation, blank, erasure or alteration."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Property must be identified",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "No non-testamentary document relating to immovable property shall be accepted for registration unless it contains a description of the property sufficient to identify the same.",
+   "clauses": []
+  },
+  "9": {
+   "num": "9",
+   "title": "Document to be registered within two months of execution",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Every document the registration whereof is compulsory shall be registered within two months after its execution, and if executed outside Kenya it shall be registered within two months after its arrival in Kenya.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Penalties for non-registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "If any such document is not registered within the time prescribed, the person in whose favour the document is made, or his successor in title, shall be liable to the payment of a fine not exceeding ten times the prescribed registration fee on the document in question, with a maximum of one thousand shillings, and the registrar may impose the fine in his discretion and delay the registration until the fine has been paid.",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Registry at which document to be registered",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Any document relating to immovable property situate in a place other than the Coast Province shall be registrable only in the Principal Registry, and any document relating to immovable property situate in the Coast Province shall be registrable only in the Coast Registry:\nProvided that if any document relates to immovable property in the Coast Province and elsewhere it shall be registrable in either or both the registries.\n(2) Any document not relating to immovable property shall, if the duties to be performed under the document are to be performed in a place other than the Coast Province, be registrable in the Principal Registry, and, if the duties are to be performed in the Coast Province, it shall be registrable in the Coast Registry:\nProvided that, if any such duty or duties under a document may be performed in the Coast Province and elsewhere, the documents shall be registrable in either or both the registries.\n(Act No. 41 of 1956, s. 4, Act No. 21 of 1966, 2nd Sch.)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any document relating to immovable property situate in a place other than the Coast Province shall be registrable only in the Principal Registry, and any document relating to immovable property situate in the Coast Province shall be registrable only in the Coast Registry:"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any document not relating to immovable property shall, if the duties to be performed under the document are to be performed in a place other than the Coast Province, be registrable in the Principal Registry, and, if the duties are to be performed in the Coast Province, it shall be registrable in the Coast Registry:"
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Person to present document",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Every document presented for registration shall be presented by the party executing or claiming an interest under it or his agent or attorney duly appointed, or by the representative or assign of such person.",
+   "clauses": []
+  },
+  "13": {
+   "num": "13",
+   "title": "Registrar to satisfy himself as to genuineness",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The registrar shall take such steps to satisfy himself as to the identity of the person presenting a document for registration, and of the right of such person to appear, as he may deem necessary or desirable, and shall inquire whether or not such document was executed by the person by whom it purports to be executed.",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "When Registrar must register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "If all the persons executing the document shall appear personally before the registrar and satisfy him that they are the persons they represent themselves to be, and if they all admit the execution of the document, or, in the case of any person appearing by his representative, assign or agent, such representative, assign or agent admits the execution, or if the person executing the document is dead and his representative or assign appears before the registrar and admits the execution, the document shall be registered as provided by this Act.",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "When Registrar may refuse to register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "If any of the persons by whom the document purports to be executed denies its execution, or if any such person appears to the registrar to be a minor, an idiot or a lunatic, or if the person by whom the document purports to be executed is dead and his representative or assign denies its execution, or if the registrar considers it unsuitable for a photostatic copy, the registrar shall refuse to register the document.\n(Act No. 19 of 1959, s. 3)",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "Power to cancel registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "If the registration of any document has been obtained by fraud, mistake or misrepresentation, or the document is forged, or the document or the execution thereof is contrary to law, the registration of such document shall be forthwith cancelled by the registrar.\n(Act No. 24 of 1950, s. 2)",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "Registrar may procure issue of summons to compel attendance of witness",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "If any person presenting a document for registration desires the appearance of any person whose presence or testimony is necessary for the registration of such document, the registrar may call upon a subordinate court of the first or second class having jurisdiction, or the High Court, to issue a summons requiring him to appear at the registry, either in person or by a duly authorized agent as in the summons may be mentioned and at a time named therein.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Non-registered document not to be received in evidence without leave of court",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "A document the registration of which is compulsory under this Act shall not, unless duly registered, be received as evidence in any transaction affecting the property to which the document relates, except with the consent of the court and upon such terms and conditions as the court may impose: Provided that nothing in this Act shall make any document inadmissible in any criminal proceeding.",
+   "clauses": []
+  },
+  "19": {
+   "num": "19",
+   "title": "Books to be kept by registrars",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The following books shall be kept in both registries—\n  (a) register of documents of which the registration is compulsory;\n  (b) register of documents of which the registration is optional;\n  (c) register of reasons for refusal to register;\n  (d) register of reasons for cancellation of the registration of a document. (Act No. 24 of 1950, s. 3, Act No. 41 of 1956, s. 5)",
+   "clauses": []
+  },
+  "20": {
+   "num": "20",
+   "title": "Receipt to be given for document",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "On a document being presented for registration the registrar shall give a receipt therefor, and such receipt shall be produced upon any application for the return of the document to which it relates.",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Procedure in event of loss of receipt",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "In the event of receipt being lost the registrar may deliver the document to which it refers to the owner or his authorized agent upon being satisfied as to the applicant’s right thereto, and he may also require a reasonable indemnity before delivering the document.",
+   "clauses": []
+  },
+  "22": {
+   "num": "22",
+   "title": "Registrar may notify applications for registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Upon receiving for registration any instrument relating to immovable property the registrar may give public notice thereof in such manner with such particulars as the Principal Registrar may from time to time direct.",
+   "clauses": []
+  },
+  "23": {
+   "num": "23",
+   "title": "Objectors may lodge protest",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Any person who may have cause to object to the registration of any document may lodge a protest with the registrar stating the grounds of his objection, and upon receipt of such protest the registrar shall inquire into the matter and either refuse to register or delay the registration for a period of fourteen days from the date of his decision.",
+   "clauses": []
+  },
+  "24": {
+   "num": "24",
+   "title": "Method of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Every person desiring to register a document shall produce the original document to be registered at the office of the registrar.\n(2) Subject to the provisions of this Act, the registrar shall register the document by filling a photostatic copy thereof in the register in such manner as the Principal Registrar may direct, and shall number every such copy consecutively and shall inscribe thereon the day of the month and year when it was presented for registration.\n(3) All copies shall be entered in the register in the order in which the documents to be registered are presented for registration: Provided that, if, before the enactment of this Act, any document has been registered in the way prescribed by this section, such registration shall be valid and have as full force and effect as if such registration had been made in accordance with the provisions of this Act. (Act No. 19 of 1959, s. 4)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every person desiring to register a document shall produce the original document to be registered at the office of the registrar."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to the provisions of this Act, the registrar shall register the document by filling a photostatic copy thereof in the register in such manner as the Principal Registrar may direct, and shall number every such copy consecutively and shall inscribe thereon the day of the month and year when it was presented for registration."
+    },
+    {
+     "ref": "(3)",
+     "text": "All copies shall be entered in the register in the order in which the documents to be registered are presented for registration: Provided that, if, before the enactment of this Act, any document has been registered in the way prescribed by this section, such registration shall be valid and have as full force and effect as if such registration had been made in accordance with the provisions of this Act. (Act No. 19 of 1959, s. 4)"
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Indexes to be kept",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "At each registry indexes shall be kept of all registered documents in such form and containing such particulars as the Principal Registrar may direct.",
+   "clauses": []
+  },
+  "26": {
+   "num": "26",
+   "title": "Certificate of registration to be endorsed on document",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "A certificate of registration, signed by the registrar, shall be endorsed on every registered document, showing the number of the document in the register and the date of registration.",
+   "clauses": []
+  },
+  "27": {
+   "num": "27",
+   "title": "Date of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The day upon which a document is presented for registration shall be deemed to be the date of registration.",
+   "clauses": []
+  },
+  "28": {
+   "num": "28",
+   "title": "Documents to be returned when registered",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "On completion of the registration of any document, the registrar shall, on production of the receipt referred to in section 20 or, if the receipt be lost, upon being satisfied as to the applicant’s right and upon taking indemnity as provided in section 21, return the document.",
+   "clauses": []
+  },
+  "29": {
+   "num": "29",
+   "title": "Translations of certain documents to be registered",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) When a document is presented for registration under section 6 the translation shall be filed in the register of documents with the photostatic copy of the original document.\n(2) The document and the translation shall be treated as one document for the purpose of making copies and endorsement. (Act No. 19 of 1959, s. 5)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "When a document is presented for registration under section 6 the translation shall be filed in the register of documents with the photostatic copy of the original document."
+    },
+    {
+     "ref": "(2)",
+     "text": "The document and the translation shall be treated as one document for the purpose of making copies and endorsement. (Act No. 19 of 1959, s. 5)"
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Principal Registrar to superintend",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Principal Registrar shall exercise a general superintendence over both registries. (Act No. 41 of 1956, s. 6)",
+   "clauses": []
+  },
+  "31": {
+   "num": "31",
+   "title": "Registrar may administer oaths",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Every registrar may, at his discretion, administer an oath to any person examined by him under this Act.",
+   "clauses": []
+  },
+  "32": {
+   "num": "32",
+   "title": "Registrar refusing to register shall record his reasons",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Every registrar refusing to register a document shall make an order of refusal and record his reasons for such order in the book prescribed in section 19 and shall endorse the words \"registration refused\" on the document and, on application made by any person executing or claiming under the document, shall, without payment and without unnecessary delay, give him a copy of the reasons so recorded.",
+   "clauses": []
+  },
+  "33": {
+   "num": "33",
+   "title": "Registrar cancelling registration shall record his reasons",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Every registrar cancelling the registration of a document shall make an order of cancellation and record his reasons for such order in the book prescribed in section 19 and shall endorse the words \"registration cancelled\" on the document and, upon the application of any person executing or claiming under the document, shall, without payment and without unnecessary delay, give him a copy of the reasons so recorded.\n(Act No. 24 of 1950, s. 4)",
+   "clauses": []
+  },
+  "34": {
+   "num": "34",
+   "title": "Appeals against refusals to register from registrars to Principal Registrar",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "An appeal shall lie against an order of refusal or of cancellation from any registrar to the Principal Registrar, and the Principal Registrar may reverse or alter such order; and if the order of the Principal Registrar directs the document to be registered the registrar shall register it.\n(Act No. 24 of 1950, s. 5)",
+   "clauses": []
+  },
+  "35": {
+   "num": "35",
+   "title": "Appeal from Principal Registrar to Court",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) When the Principal Registrar—\n  (a) has refused to register a document presented to him for registration or has cancelled the registration of any such document; or\n  (b) has, pursuant to section 34, refused to direct a registrar to register a document or to reregister a document the registration whereof such registrar has cancelled, any person claiming under such a document, or his representative, assignee or agent, may, within thirty days after the making of the order of refusal pursuant to section 32 or of the order of cancellation pursuant to section 33, institute in the High Court a suit for a decree directing that the document be registered or re-registered, as the case may be, in such office, and, notwithstanding anything in this Act, the document shall be receivable as evidence in such suit.\n(2) The High Court may remit or reduce any of the prescribed fees in special cases for reasons to be recorded.\n(Act No. 24 of 1950, s. 6)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "When the Principal Registrar—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The High Court may remit or reduce any of the prescribed fees in special cases for reasons to be recorded."
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Registrars protected for acts done in good faith",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Principal Registrar or any registrar shall not be liable to any suit, claim or demand by reason of anything in good faith done or omitted to be done in his official capacity.",
+   "clauses": []
+  },
+  "37": {
+   "num": "37",
+   "title": "Defects in appointment or procedure not to invalidate acts done in good faith",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Nothing done in good faith pursuant to this Act or any regulations thereunder by the Principal Registrar or any registrar shall be deemed invalid merely by reason of any defect in his appointment or procedure.",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "As to documents executed on behalf of Government",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Notwithstanding anything in this Act contained, it shall not be necessary for any officer of the Government to appear in person or by agent at any registry in any proceedings connected with the registration of any document executed by him in his official capacity; but when any document is so executed the registrar to whom it is presented for registration may if he thinks fit refer to such office for information and, upon being satisfied, shall register the document.",
+   "clauses": []
+  },
+  "39": {
+   "num": "39",
+   "title": "Searches",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Any person desiring information may apply in person at the Principal Registry or at the Coast Registry (as the case may require), and, on completion of the prescribed form and on payment of the prescribed fee, may inspect the register relating to the document mentioned in the form.\n(Act No. 19 of 1959, s. 6)",
+   "clauses": []
+  },
+  "40": {
+   "num": "40",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Cabinet Secretary may from time to time make regulations for the purpose of regulating any matter or thing to be done under this Act, including the specifying of fees to be levied, and the prescribing of forms to be used, for or in connection with services under this Act, and generally for the better carrying out of the intent and provisions of this Act.\n(Act No. 19 of 1959, s. 6)",
+   "clauses": []
+  }
+ },
+ "schedules": [],
+ "spent": {}
+}

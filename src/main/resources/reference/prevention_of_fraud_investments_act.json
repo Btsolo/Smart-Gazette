@@ -1,0 +1,627 @@
+{
+ "title": "Prevention of Fraud (Investments) Act",
+ "citation": "Cap. 59C",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1977/1/eng@2023-12-11",
+ "version_date": "2023-12-11",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "Kenya Not commenced PREVENTION OF FRAUD (INVESTMENTS) ACT CAP. 59C Published in Kenya Gazette Vol. LXXIX—No. 10 on 4 March 1977 Assented to on 1 March 1977 Commenced\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2012 (Act No. 12 of 2012) on 12 July 2012] [Amended by Companies and Insolvency Legislation (Consequential Amendments) Act, 2015 (Act No. 19 of 2015) on 3 July 2017]\n[Amended by Companies and Insolvency Legislation (Consequential Amendments) Act, 2015 Commencement (Legal Notice 105 of 2017) on 3 July 2017]\n[Amended by Statute Law (Miscellaneous Amendment) Act, 2023 (Act No. 19 of 2023) on 11 December 2023]\nAn Act of Parliament to provide for the control of persons dealing in securities, and for the more effective prevention of fraud in investments; and for matters incidental thereto and connected therewith",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "OFFERS OF SHARES AND DEBENTURES",
+   "provisions": [
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "REGULATION OF BUSINESS OF DEALING IN SECURITIES",
+   "provisions": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "PREVENTION OF FRAUD",
+   "provisions": [
+    "16",
+    "17"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "AUTHORIZATIONS AND EXEMPTIONS",
+   "provisions": [
+    "18",
+    "19"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "COMPENSATION FUND",
+   "provisions": [
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "SUPPLEMENTAL",
+   "provisions": [
+    "26",
+    "27",
+    "28"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title and commencement",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Prevention of Fraud (Investments) Act, 1977, and shall come into operation on such date as the Minister may, by notice in the Gazette, appoint, and different dates may be so appointed for different Parts or provisions of this Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In this Act, unless the context otherwise requires—\n“building society” means a building society registered under the Building Societies Act (Cap. 489);\n“the committee” means the New Issues committee established by section 4 of this Act;\n“co-operative society” means a society registered as a co-operative society under the Co-operative Societies Act (Cap. 490);\n“corporation” means any body corporate whether established or incorporated in Kenya or elsewhere;\n“dealing in securities” means doing any of the following things, whether as principal or agent, that is to say, making or offering to make with any person, or inducing or attempting to induce any person to enter into or offer to enter into—\n  (a) any agreement for, or with a view to, acquiring, disposing of, subscribing for or underwriting securities, or lending or depositing money to or with any co-operative society or building society; or\n  (b) any agreement the purpose or the proclaimed or pretended purpose of which is to secure a profit to any of the parties from the yield of securities or by reference to fluctuations in the value of securities, and “deal in securities” shall be construed accordingly;\n“debentures” means any debentures, debenture stock or bonds of a corporation, whether constituting a charge on the assets of the corporation or not;\n“exempted dealer” means any person declared by order under section 19 of this Act to be an exempted dealer for the purposes of this Act;\nKenya Not commenced “foreign company” means any corporation, unit trust or other corporate body incorporated or established outside Kenya;\n“licence” means a licence granted under this Act and for the time being in force;\n“local company” means a company registered or deemed to have been registered under the Companies Act (Cap. 486) which is neither a private company nor a foreign company within the meaning of that Act;\n“manager” and “trustee” in relation to a unit trust have the meanings assigned to them by the Unit Trusts Act (Cap. 521);\n“the Minister” means the Minister for the time being responsible for matters relating to Finance;\n“newspaper” includes any newspaper, journal, magazine or other periodical publication;\n“Permanent Secretary” means the Permanent Secretary to the Treasury;\n“principal’s licence” means a licence granted under subsection (1) of section 9 of this Act;\n“prospectus” means any prospectus, notice, circular, advertisement or other invitation, offering to the public for subscription or purchase any securities;\n“securities” means—\n  (a) shares or debentures, or rights or interests (whether described as units or otherwise) in any shares or debentures;\n  (b) securities of the Government of Kenya or of the government of any other country;\n  (c) securities of statutory corporations and local authorities; or\n  (d) any other securities or investments, declared by the Minister, by notice in the Gazette, to be securities for the purposes of this Act;\n“shares” means shares in the share capital of a corporation or stock in the share capital of a corporation or stock of a corporation;\n“statutory corporation” means—\n  (a) a corporation incorporated directly by an act of Parliament,\n  (b) any other corporation to which functions in respect of the carrying on of an undertaking are entrusted by or under an Act of Parliament; but, save as provided in paragraph (b) of this definition, does not include a company within the meaning of the Companies Act (Cap. 486);\n“stock exchange” means a stock exchange, or an association of dealers in securities, recognized as such for the purposes of this Act by virtue of an order made under section 18 of this Act;\n“unit trust” means a unit trust as defined in the Unit Trusts Act (Cap. 521) and for the time being registered under that Act.\n(2) Any reference in this Act to the holder of a licence or of a principal’s licence shall be construed as a reference to the person named in the licence as being thereby authorized to carry on the business of dealing in securities.\n(3) Any reference in this Act to a servant of, or to a person employed by, any person shall in relation to a corporation, be construed as including a reference to any director or officer of the corporation; and any reference in this Act to leaving or entering the service of a person shall be construed accordingly.\nKenya Not commenced\n(4) For the purposes of this Act, a person shall be deemed to be a director of a corporation if he occupies in relation thereto to the position of a director, by whatever name called, or is a person in accordance with whose directions of the corporation, or any of them, act:\nProvided that a person shall not, by reason only that the directors of a corporation act on advice given by him in a professional capacity, be taken to be a person in accordance with whose directions or instructions those directors act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, unless the context otherwise requires—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any reference in this Act to the holder of a licence or of a principal’s licence shall be construed as a reference to the person named in the licence as being thereby authorized to carry on the business of dealing in securities."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any reference in this Act to a servant of, or to a person employed by, any person shall in relation to a corporation, be construed as including a reference to any director or officer of the corporation; and any reference in this Act to leaving or entering the service of a person shall be construed accordingly."
+    },
+    {
+     "ref": "(4)",
+     "text": "For the purposes of this Act, a person shall be deemed to be a director of a corporation if he occupies in relation thereto to the position of a director, by whatever name called, or is a person in accordance with whose directions of the corporation, or any of them, act:"
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Saving of other laws",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "Save where otherwise expressly stated, the provisions of this Act shall be in addition to and not in derogation of the provisions of any other written law.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Establishment of New Issues Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "OFFERS OF SHARES AND DEBENTURES",
+   "text": "(1) There is hereby established a committee, to be known as the New Issues Committee, which shall consist of not less than five members appointed by the Minister by notice in the Gazette, of whom—\n  (a) one shall be a public officer representing the Minister, who shall be the chairman of the Committee;\n  (b) one shall be a public officer representing the Minister for the time being responsible for matters relating to commerce;\n  (c) one shall be a public officer representing the Attorney-General; and\n  (d) at least two shall be holders of principal’s licences.\n(2) The Minister shall, by notice in the Gazette, appoint a public officer to be the secretary to the committee.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is hereby established a committee, to be known as the New Issues Committee, which shall consist of not less than five members appointed by the Minister by notice in the Gazette, of whom—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Minister shall, by notice in the Gazette, appoint a public officer to be the secretary to the committee."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Regulation of new issues",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "OFFERS OF SHARES AND DEBENTURES",
+   "text": "(1) No local company shall issue, and no statutory corporation shall issue in Kenya, any prospectus unless the issue of the securities to which such prospectus relates has been approved by the Committee.\n(2) The Committee may refuse to grant approval of the issue of any securities or of any rights or offers by a local company or statutory corporation, or may make such issue subject to such conditions as the committee may deem necessary in the public interest.\n(3) Any applicant for approval under this section who is aggrieved by a decision of the Committee under subsection (2) of this section may, within fourteen days of the receipt of written notification of that decision, appeal to the Minister therefrom, and the decision of the Minister on any such appeal shall be final.\n(4) Any local company or statutory corporation which contravenes the provisions of subsection (1) of this section, or fails to comply with any condition imposed under subsection (2) of this section, shall be guilty of an offence.\n(5) Notwithstanding the provisions of any other written law, in any criminal proceedings under this section, a certificate purporting to be signed by the secretary to the Committee stating that no approval has been given by the Committee to any particular issue of securities shall be admissible as evidence of the matters stated therein.\nKenya Not commenced",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No local company shall issue, and no statutory corporation shall issue in Kenya, any prospectus unless the issue of the securities to which such prospectus relates has been approved by the Committee."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Committee may refuse to grant approval of the issue of any securities or of any rights or offers by a local company or statutory corporation, or may make such issue subject to such conditions as the committee may deem necessary in the public interest."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any applicant for approval under this section who is aggrieved by a decision of the Committee under subsection (2) of this section may, within fourteen days of the receipt of written notification of that decision, appeal to the Minister therefrom, and the decision of the Minister on any such appeal shall be final."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any local company or statutory corporation which contravenes the provisions of subsection (1) of this section, or fails to comply with any condition imposed under subsection (2) of this section, shall be guilty of an offence."
+    },
+    {
+     "ref": "(5)",
+     "text": "Notwithstanding the provisions of any other written law, in any criminal proceedings under this section, a certificate purporting to be signed by the secretary to the Committee stating that no approval has been given by the Committee to any particular issue of securities shall be admissible as evidence of the matters stated therein."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Advertisements relating to foreign issues",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "OFFERS OF SHARES AND DEBENTURES",
+   "text": "(1) No person shall publish in any newspaper printed and published in Kenya, any advertisement inviting members of the public to subscribe to or purchase any shares or debentures of, or to deposit money with, or otherwise invest in any manner, in any foreign company unless—\n  (a) such advertisement has been approved in writing by the Committee; and\n  (b) it includes a notification that it has been so approved.\n(2) Any person aggrieved by the refusal of the Committee to approve an advertisement under this section may appeal therefrom to the Minister whose decision on such appeal shall be final.\n(3) Where any advertisement is published in contravention of this section the person placing the advertisement for publication, or causing it to be so placed, and the proprietor and publisher of the newspaper concerned shall be guilty of an offence.\n(4) Notwithstanding the provisions of any other written law, in any criminal proceedings under this section, a certificate purporting to be signed by the secretary to the committee or where an appeal has been made under subsection (2) of this section, by the Permanent Secretary stating that no approval has been given in respect of a particular advertisement, shall be admissible as evidence of the matters stated therein.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No person shall publish in any newspaper printed and published in Kenya, any advertisement inviting members of the public to subscribe to or purchase any shares or debentures of, or to deposit money with, or otherwise invest in any manner, in any foreign company unless—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person aggrieved by the refusal of the Committee to approve an advertisement under this section may appeal therefrom to the Minister whose decision on such appeal shall be final."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where any advertisement is published in contravention of this section the person placing the advertisement for publication, or causing it to be so placed, and the proprietor and publisher of the newspaper concerned shall be guilty of an offence."
+    },
+    {
+     "ref": "(4)",
+     "text": "Notwithstanding the provisions of any other written law, in any criminal proceedings under this section, a certificate purporting to be signed by the secretary to the committee or where an appeal has been made under subsection (2) of this section, by the Permanent Secretary stating that no approval has been given in respect of a particular advertisement, shall be admissible as evidence of the matters stated therein."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Licensing of dealers in securities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATION OF BUSINESS OF DEALING IN SECURITIES",
+   "text": "(1) Subject to the provisions of section 8 of this Act, no person shall carry on or purport to carry on the business of dealing in securities except under the authority of a principal’s licence.\n(2) Any person who contravenes this section shall be guilty of an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of section 8 of this Act, no person shall carry on or purport to carry on the business of dealing in securities except under the authority of a principal’s licence."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who contravenes this section shall be guilty of an offence."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Saving for certain transactions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATION OF BUSINESS OF DEALING IN SECURITIES",
+   "text": "(1) The restrictions imposed by section 7 of this Act in relation to dealing in securities shall not apply to the doing of anything by, or on behalf of—\n  (a) the Central Bank of Kenya, any statutory corporation, any exempted dealer or any cooperative society or building society; or\n  (b) any person acting in the capacity of manager or trustee of a unit trust.\n(2) For the purpose of determining whether or not a person has contravened any of the restrictions imposed by section 7 of this Act, no account shall be taken of his having done, whether as principal or agent, any of the following things:\n  (a) effecting transactions with, or through the agency of—\n  (i) any of the persons mentioned in subsection (1) of this section or a person acting on behalf of a person so mentioned; or\n  (ii) the holder of a licence;\n  (b) issuing any prospectus to which—\n  (i) section 40 of the Companies Act (Cap. 486) applies or would apply if not excluded by paragraph (b) of subsection (6) of that section; or\n  (ii) section 376 of the Companies Act (Cap. 486) applies or would apply if not excluded by paragraph (b) of subsection (5) of that section;\nKenya Not commenced\n  (c) issuing any document relating to securities of a corporation incorporated in Kenya but which is not registered under the Companies Act (Cap. 486), being a document which—\n  (i) would if the corporation were so registered, be a prospectus to which section 40 of the said Act applies or would apply if not excluded by paragraph (b) of subsection (6) of that section; and\n  (ii) contains all the matters and is issued with the consents which, by virtue of sections 376 and 377 of the said Act, it would have to contain and be issued with if the corporation were a company incorporated outside Kenya, and the document were a prospectus issued by that company;\n  (d) issuing any form of application for shares in, or debentures of, a corporation together with—\n  (i) a prospectus which complies with the requirements of section 40 of the Companies Act (Cap. 486), or is not required to comply therewith because excluded by paragraph (b) of subsection (6) of that section, or complies with the requirements of Part X of that Act relating to prospectuses and is not issued in contravention of section 377 of that Act; or\n  (ii) in the case of a corporation incorporated in Kenya which is not registered under the Companies Act (Cap. 486), a document containing all the matters, and issued with the consents, mentioned in subparagraph (ii) of paragraph (c) of this subsection, or of his having, as a principal, acquired, subscribed for or underwritten securities, or effected transactions with a person whose business involves the acquisition and disposal, or the holding, of securities whether as a principal or as an agent.\n(3) Nothing in this section shall be construed as authorizing any person to hold himself out as carrying on the business of dealing in securities.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The restrictions imposed by section 7 of this Act in relation to dealing in securities shall not apply to the doing of anything by, or on behalf of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purpose of determining whether or not a person has contravened any of the restrictions imposed by section 7 of this Act, no account shall be taken of his having done, whether as principal or agent, any of the following things:"
+    },
+    {
+     "ref": "(3)",
+     "text": "Nothing in this section shall be construed as authorizing any person to hold himself out as carrying on the business of dealing in securities."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Application for, and grant and extent of, licences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATION OF BUSINESS OF DEALING IN SECURITIES",
+   "text": "(1) Subject to the following provisions of this Part, the Minister upon application in that behalf made by any person in the prescribed manner, and on payment of the prescribed fee, shall grant to that person a principal’s licence.\n(2) A licence shall, unless it is in the meantime revoked, be valid for the period of one year beginning with the day specified in the licence as the day on which it takes effect.\n(3) A principal’s licence shall specify the name for the person thereby authorized to carry on the business of dealing in securities, and shall not authorize such person to carry on that business under any name other than that specified in the licence as his name:\nProvided that, if the Minister thinks fit, such a licence may, at the request of the applicant therefor, be framed so as to authorize the holder thereof to carry on the said business, either alone or jointly with any other person being the holder of a principal’s licence, under such name or style as the applicant may specify in his application.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the following provisions of this Part, the Minister upon application in that behalf made by any person in the prescribed manner, and on payment of the prescribed fee, shall grant to that person a principal’s licence."
+    },
+    {
+     "ref": "(2)",
+     "text": "A licence shall, unless it is in the meantime revoked, be valid for the period of one year beginning with the day specified in the licence as the day on which it takes effect."
+    },
+    {
+     "ref": "(3)",
+     "text": "A principal’s licence shall specify the name for the person thereby authorized to carry on the business of dealing in securities, and shall not authorize such person to carry on that business under any name other than that specified in the licence as his name:"
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Restrictions on grant of principal’s licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATION OF BUSINESS OF DEALING IN SECURITIES",
+   "text": "No principal’s licence shall be granted to any person who is not a member of a stock exchange:\nProvided that—\n  (i) this section shall not apply during any period when there is no stock exchange in Kenya;\n  (ii) the Minister may exempt, after consultation with the representatives of that stock exchange, any person from the prohibition imposed by this section where he is satisfied that membership of a stock exchange has been unreasonably withheld from such person;\nKenya Not commenced\n  (iii) upon a first application for such licence the Minister may grant the licence if he is satisfied that upon such grant the applicant will be admitted to membership of a stock exchange.",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Guarantee in connection with principal’s licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATION OF BUSINESS OF DEALING IN SECURITIES",
+   "text": "(1) Subject to this section, a principal's licence may be granted to a person only if a guarantee, in the prescribed form, is provided by such guarantor as the Cabinet Secretary approves to the effect that, if an insolvency event involving the applicant occurs during the currency of the licence, the guarantor will pay to the bankruptcy trustee or the liquidator the sum of one million shillings or such other sum as the Cabinet Secretary determines from time to time.\n(2) The bankruptcy trustee or liquidator may recover from the guarantor a sum that becomes payable to a bankruptcy trustee under a guarantee given in accordance with subsection (1).\n(3) If any such sum exceeds the amount required to satisfy the debts and liabilities (including the costs and expenses of the bankruptcy administration, the amount of the excess or the amount of the sum (whichever is the less) is repayable by the bankruptcy trustee or liquidator to or in relation to the guarantor.\n(4) In this section—\n“company” includes a body corporate that is not a company registered under the Companies Act, 2015;\n“insolvency event” means—\n  (a) in relation to a natural person—\n  (i) the making of a bankruptcy order in respect of the person;\n  (ii) the entering into by the person of a deed of composition or a voluntary arrangement with the person's creditors;\n  (iii) the making of a summary instalment order in respect of the person; or\n  (iv) the entry of the person into the no assets procedure; or\n  (b) in relation to a company—\n  (i) the making of a liquidation order or an administration order in respect of the company;\n  (ii) the passing of a resolution for the voluntary liquidation of the company; or\n  (iii) the entering into a voluntary arrangement with the creditors of the company.\n[Act No. 19 of 2015, s. 6.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this section, a principal's licence may be granted to a person only if a guarantee, in the prescribed form, is provided by such guarantor as the Cabinet Secretary approves to the effect that, if an insolvency event involving the applicant occurs during the currency of the licence, the guarantor will pay to the bankruptcy trustee or the liquidator the sum of one million shillings or such other sum as the Cabinet Secretary determines from time to time."
+    },
+    {
+     "ref": "(2)",
+     "text": "The bankruptcy trustee or liquidator may recover from the guarantor a sum that becomes payable to a bankruptcy trustee under a guarantee given in accordance with subsection (1)."
+    },
+    {
+     "ref": "(3)",
+     "text": "If any such sum exceeds the amount required to satisfy the debts and liabilities (including the costs and expenses of the bankruptcy administration, the amount of the excess or the amount of the sum (whichever is the less) is repayable by the bankruptcy trustee or liquidator to or in relation to the guarantor."
+    },
+    {
+     "ref": "(4)",
+     "text": "In this section—"
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Refusal and revocation of licences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATION OF BUSINESS OF DEALING IN SECURITIES",
+   "text": "(1) The Minister may refuse to grant an application for a licence, or may at any time revoke a licence, if —\n  (a) the applicant or the holder of the licence has not furnished such information relating to himself, and to any circumstance likely to affect his methods of conducting business, as may be prescribed, or has furnished such information otherwise than in a prescribed manner; or\n  (b) it appears to the Minister that by reason—\n  (i) of the applicant or the holder of the licence, or any person employed by, or associated with, such applicant or holder for the purposes of his business, have been convicted, in Kenya or any other country, of an offence, his conviction for which necessarily involved a finding that he acted fraudulently or dishonestly; or Kenya Not commenced\n  (ii) of such applicant holder or person having been convicted of an offence under this Act or having committed a breach of any rules under this Act for regulating the conduct of business by holders of licences; or\n  (iii) of any other circumstances whatsoever which are likely to lead to the improper conduct of business by, or reflect discredit upon, the method of conducting business of, such applicant, holder or person, the applicant or holder, is not, or, as the case may be, is no longer, a fit and proper person to hold a licence.\n(2) The Minister may also revoke a principal’s licence at any time if it appears to the Minister that the holder of such licence is not carrying on in Kenya the business of dealing in securities.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Minister may refuse to grant an application for a licence, or may at any time revoke a licence, if —"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Minister may also revoke a principal’s licence at any time if it appears to the Minister that the holder of such licence is not carrying on in Kenya the business of dealing in securities."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Information to be furnished",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATION OF BUSINESS OF DEALING IN SECURITIES",
+   "text": "(1) The holder of a principal’s licence shall forthwith give written notice to the Minister—\n  (a) of any change in the address at which he carries on the business of dealing in securities in Kenya, or\n  (b) of his ceasing to carry on such business in Kenya.\n(2) A corporation which is the holder of a principal’s licence shall forthwith give written notice to the Minister of the name and nationality of any person who becomes, or ceases to be a director of the corporation.\n(3) Any person failing to comply with any of the provisions of this section shall be guilty of an offence and liable to a fine not exceeding two thousand shillings.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The holder of a principal’s licence shall forthwith give written notice to the Minister—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A corporation which is the holder of a principal’s licence shall forthwith give written notice to the Minister of the name and nationality of any person who becomes, or ceases to be a director of the corporation."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person failing to comply with any of the provisions of this section shall be guilty of an offence and liable to a fine not exceeding two thousand shillings."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Publication of particulars of holders of principal’s licences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATION OF BUSINESS OF DEALING IN SECURITIES",
+   "text": "The Minister shall cause to be published at such times and in such manner as he may think proper the names and addresses of all holders of principal’s licences for the time being in force.",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "Rules relating to conduct of business",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATION OF BUSINESS OF DEALING IN SECURITIES",
+   "text": "(1) The Minister may, in consultation with the Attorney-General and the committee or other governing body of any stock exchange, make rules for regulating the conduct of business by holders of licences, and in particular, but without prejudice to the generality of such power, such rules may make provision for all or any of the following matters—\n  (a) for determining the class of persons in relation to whom, and the manner and circumstances in which, any holder of a licence may deal in securities;\n  (b) for prescribing forms of contracts which may or shall be used in making contracts under the authority of a licence;\n  (c) for prescribing the books, accounts and other documents which must be kept by the holder of a principal’s licence in relation to any dealing in securities by him;\n  (d) for requiring the holder of a principal’s licence to produce, for inspection by, or by an agent of, any person with whom he has made any agreement by way of dealing in securities, such contract notes and vouchers relating to that agreement as may be prescribed, and to furnish to that person on demand and on payment of the prescribed fees, copies of entries in books kept by such holder which relate to the transaction.\n(2) A person shall not be guilty of an offence by reason only of a breach of any rule made under this section.\nKenya Not commenced",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Minister may, in consultation with the Attorney-General and the committee or other governing body of any stock exchange, make rules for regulating the conduct of business by holders of licences, and in particular, but without prejudice to the generality of such power, such rules may make provision for all or any of the following matters—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall not be guilty of an offence by reason only of a breach of any rule made under this section."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Fraudulently inducing investment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PREVENTION OF FRAUD",
+   "text": "Any person who, by any statement, promise or forecast which he knows, or ought reasonably to know, to be misleading, false or deceptive, or by any dishonest concealment of material facts, or by the reckless making of any statement, promise or forecast which is misleading, false or deceptive, induces or attempts to induce another person—\n  (a) to enter into or offer to enter into—\n  (i) any agreement for, or with a view to, acquiring, disposing of, subscribing for or underwriting securities or lending to or depositing money with any co-operative society or building society; or\n  (ii) any agreement the purpose or pretended purpose of which is to secure a profit to any of the parties from the yield of securities or by reference to fluctuation in the value of securities; or\n  (b) to acquire or offer to acquire any right or interest under any arrangement the purpose or effect or pretended purpose or effect, of which is to provide facilities for the participation by persons in profits or income alleged to arise, or to be likely to arise, from the acquisition, holding, management or disposal of any property other than securities; or\n  (c) to enter into or offer to enter into an agreement the purpose or pretended purpose of which is to secure a profit to any of the parties by reference to fluctuations in the value of any property other than securities, shall be guilty of an offence and liable to imprisonment for a term not exceeding seven years, or to a fine not exceeding one hundred thousand shillings, or to both such fine and imprisonment.",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "Restriction on distribution of circulars",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PREVENTION OF FRAUD",
+   "text": "(1) Subject to the provisions of this section, no person shall—\n  (a) distribute or cause to be distributed any documents which, to his knowledge, are circulars containing—\n  (i) any invitations to persons to do any of the acts mentioned in paragraphs (a), (b) and (c) of section 16 of this Act; or\n  (ii) any information calculated to lead directly or indirectly to the doing of any of such acts by the recipient of the information; or\n  (b) have in his possession for the purpose of distribution any documents which, to his knowledge, are circulars as aforesaid, being documents of such a nature as to show that the object or principal object of distributing them would be to communicate such an invitation or such information as aforesaid.\n(2) Subsection (1) of this section shall not apply—\n  (a) in relation to any of the matters mentioned in paragraphs (b), (c) and (d) of subsection (2) of section 8 of this Act; or\n  (b) in relation to any distribution of documents which is required or authorized by or under any written law other than this Act; or\n  (c) in relation to any distribution of documents permitted by the Minister.\nKenya Not commenced\n(3) This section shall not prohibit the distribution or possession of any document by reason only that it contains an invitation or information—\n  (a) made or given with respect to any securities by or on behalf of the holder of a principal’s licence; or\n  (b) made or given with respect to any securities by or on behalf of the Central Bank of Kenya or by any exempted dealer; or\n  (c) made or given by or on behalf of a corporation to holders of securities of, or to persons employed by, or to creditors of, the corporation or any other corporation that, in relation to the first-mentioned corporation, is a subsidiary company with respect to securities of either such corporation; or\n  (d) made or given by or on behalf of the manager of a unit trust with respect to any securities created in pursuance of such trust; or\n  (e) made or given by or on behalf of the Government of Kenya or the Government of any other country with respect to securities of that Government; or\n  (f) made or given by or on behalf of any co-operative society or building society with respect to shares of the society, or loans or deposits which may be made to or with the society; or\n  (g) made or given to beneficiaries under a trust by or on behalf of a person acting in the capacity of a trustee of that trust; or\n  (h) made or given with respect to any securities in connexion only with a sale or proposed sale of those securities by auction; or\n  (i) which a person whose ordinary business, or part of whose ordinary business, it is to buy and sell any property other than securities (whether as a principal or as an agent) may make or give in the course of the business of buying and selling such property—\nProvided that nothing in this paragraph shall authorize any person to do any thing in pursuance of, or for the purpose of, any arrangements the purpose or effect, or pretended purpose or effect, of which is to provide facilities for the participation by persons in profits or income alleged to arise or to be likely to arise from the acquisition, holding, management or disposal of any property other than securities.\n(4) Documentation shall not, for the purposes of this section, be deemed not to be circulars by reason only that they are in the form of a newspaper, but a person shall not be taken to contravene this section by reason only that he distributes, or causes to be distributed, to purchasers thereof, or has in his possession for the purposes of distribution to purchasers thereof, copies of any newspaper.\n(5) A person shall not be taken to contravene this section by reason only that he distributes documents to persons whose business involves the acquisition or disposal, or the holding, of securities (whether as principal or agent), or has documents in his possession for the purpose of distribution to such persons.\n(6) Any person who contravenes this section shall be guilty of an offence.\n(7) Where any person is convicted of an offence under this section, the court dealing with the case may make an order authorizing the destruction or other disposal of any documents produced to the court which are shown to its satisfaction to be documents in respect of which the offence was committed:\nProvided that an order under this subsection shall not be carried into effect until the conclusion of all proceedings in the matter concerned.\n(8) In this section, \"subsidiary company\" has the meaning assigned to it in section 4 of the Companies Act, 2015.\n[Act No. 19 of 2015, s. 7.]\nKenya Not commenced",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of this section, no person shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Subsection (1) of this section shall not apply—"
+    },
+    {
+     "ref": "(3)",
+     "text": "This section shall not prohibit the distribution or possession of any document by reason only that it contains an invitation or information—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Documentation shall not, for the purposes of this section, be deemed not to be circulars by reason only that they are in the form of a newspaper, but a person shall not be taken to contravene this section by reason only that he distributes, or causes to be distributed, to purchasers thereof, or has in his possession for the purposes of distribution to purchasers thereof, copies of any newspaper."
+    },
+    {
+     "ref": "(5)",
+     "text": "A person shall not be taken to contravene this section by reason only that he distributes documents to persons whose business involves the acquisition or disposal, or the holding, of securities (whether as principal or agent), or has documents in his possession for the purpose of distribution to such persons."
+    },
+    {
+     "ref": "(6)",
+     "text": "Any person who contravenes this section shall be guilty of an offence."
+    },
+    {
+     "ref": "(7)",
+     "text": "Where any person is convicted of an offence under this section, the court dealing with the case may make an order authorizing the destruction or other disposal of any documents produced to the court which are shown to its satisfaction to be documents in respect of which the offence was committed:"
+    },
+    {
+     "ref": "(8)",
+     "text": "In this section, \"subsidiary company\" has the meaning assigned to it in section 4 of the Companies Act, 2015."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Authorization of stock exchanges",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "AUTHORIZATIONS AND EXEMPTIONS",
+   "text": "(1) The Minister may, by order, declare any body or association of persons carrying on the business of dealing in securities to be a recognized stock exchange or a recognized association of dealers in securities for the purposes of this Act.\n(2) Any order under this section may be varied or revoked by a subsequent order of the Minister, but an order by virtue of which any body ceases to be a recognized stock exchange or a recognized association of dealers in securities shall not take effect until the expiration of the period of three months beginning with the date of publication of such order.\n(3) It shall be the duty of every body or association recognized under this section to furnish to the Minister whenever he may so require, with respect to any specified member of such body or association, a list of the persons who are for the time being authorized by that member to deal in securities on his behalf.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Minister may, by order, declare any body or association of persons carrying on the business of dealing in securities to be a recognized stock exchange or a recognized association of dealers in securities for the purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any order under this section may be varied or revoked by a subsequent order of the Minister, but an order by virtue of which any body ceases to be a recognized stock exchange or a recognized association of dealers in securities shall not take effect until the expiration of the period of three months beginning with the date of publication of such order."
+    },
+    {
+     "ref": "(3)",
+     "text": "It shall be the duty of every body or association recognized under this section to furnish to the Minister whenever he may so require, with respect to any specified member of such body or association, a list of the persons who are for the time being authorized by that member to deal in securities on his behalf."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Exemption of certain dealers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "AUTHORIZATIONS AND EXEMPTIONS",
+   "text": "(1) The Minister may by order declare a person to be an exempted dealer for the purposes of this Act subject to the following conditions being fulfilled so long as the order is in force, that is to say—\n  (a) the main business of such person must consist of either or both of the following activities—\n  (i) carrying on some business other than the business of dealing in securities;\n  (ii) dealing in securities in one or more of the ways mentioned in subsection (2) of this section; and\n  (b) the greater part of dealing in securities done by him in Kenya otherwise than in one of the ways referred to in subparagraph (ii) of paragraph (a) of this subsection must be effected with, or through the agency of—\n  (i) the Central Bank of Kenya or an exempted dealer;\n  (ii) the manager or trustee of a unit trust;\n  (iii) a person acting on behalf of a person mentioned in subparagraph (i) or (ii) of this paragraph;\n  (iv) the holder of a licence, or be effected, with the consent of the Minister, through the agency of a member of a stock exchange outside Kenya.\n(2) The ways of dealing in securities referred to in subparagraph (ii) of paragraph (a) of subsection (1) of this section are—\n  (a) issuing any document which is, or is deemed to be a prospectus within the meaning of the Companies Act (Cap. 486);\n  (b) making or offering to make with any person an agreement for, or with a view to, the underwriting of securities;\n  (c) making any invitation to persons to subscribe for securities, or to purchase securities on the first sale thereof;\n  (d) making any invitation to persons to subscribe for, or purchase, securities of the Government of Kenya or the Government of any other country;\nKenya Not commenced\n  (e) effecting any transaction with a person whose business involves the acquisition and disposal, or the holding, of securities, being a transaction with that person as principal.\n(3) If, with respect to any exempted dealer, the Minister considers that the order declaring him to be an exempted dealer ought to be revoked on the ground that—\n  (a) the conditions subject to which the order was made have not been fulfilled in his case; or\n  (b) that the circumstances relevant to the making of the order have materially changed since the making thereof, the Minister may serve on such dealer a written notice that he is considering revocation of the order on that ground, specifying particulars of such non-fulfilment or change, and inviting the dealer to make to the Minister, within the period of one month from the date of the service of the notice, any representations which he may desire to make with respect to such proposed revocation, and the Minister may revoke the order after the expiration of the said period but, before deciding whether to revoke the order or not, shall take into consideration any representations so made.\n(4) The Minister shall cause to be published at such times and in such manner, as he thinks proper, the names and addresses of all persons who are for the time being exempted dealers.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Minister may by order declare a person to be an exempted dealer for the purposes of this Act subject to the following conditions being fulfilled so long as the order is in force, that is to say—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The ways of dealing in securities referred to in subparagraph (ii) of paragraph (a) of subsection (1) of this section are—"
+    },
+    {
+     "ref": "(3)",
+     "text": "If, with respect to any exempted dealer, the Minister considers that the order declaring him to be an exempted dealer ought to be revoked on the ground that—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The Minister shall cause to be published at such times and in such manner, as he thinks proper, the names and addresses of all persons who are for the time being exempted dealers."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Interpretation of Part",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "COMPENSATION FUND",
+   "text": "In this Part— “the Authority” means the Committee of the Nairobi Stock Exchange; “the Fund” means the Compensation Fund established under section 21 of this Act; “licensee” means the holder of a principal’s licence; “the Trustee” means the Public Trustee appointed under the Public Trustee Act (Cap. 168).",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Establishment of Fund",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "COMPENSATION FUND",
+   "text": "(1) The trustee shall establish, maintain and administer a fund, to be called the Compensation Fund, and shall hold the same on trust for the purposes of this Part.\n(2) Upon the issue (including the renewal) of a principal’s licence, the person to whom it is to be issued shall pay to the Minister, and the Minister shall pay into the fund, a contribution of two thousand shillings, and the issue (including the renewal) of a principal’s licence may be withheld until such contribution is made.\n(3) There shall be paid into or carried to the credit of the Fund—\n  (a) all contributions paid pursuant to subsection (2) of this section;\n  (b) all interest, dividends and other income and accretions of capital arising from investments of the Fund or any part thereof;\n  (c) the proceeds of the realization of any investments of the Fund;\n  (d) all sums received by the Trustee by virtue of section 24 of this Act; and (e) all other moneys which may belong or accrue to the Fund received by the Authority or the Trustee in respect thereof.\nKenya Not commenced",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The trustee shall establish, maintain and administer a fund, to be called the Compensation Fund, and shall hold the same on trust for the purposes of this Part."
+    },
+    {
+     "ref": "(2)",
+     "text": "Upon the issue (including the renewal) of a principal’s licence, the person to whom it is to be issued shall pay to the Minister, and the Minister shall pay into the fund, a contribution of two thousand shillings, and the issue (including the renewal) of a principal’s licence may be withheld until such contribution is made."
+    },
+    {
+     "ref": "(3)",
+     "text": "There shall be paid into or carried to the credit of the Fund— (a) all contributions paid pursuant to subsection (2) of this section; (b) all interest, dividends and other income and accretions of capital arising from investments of the Fund or any part thereof; (c) the proceeds of the realization of any investments of the Fund; (d) all sums received by the Trustee by virtue of section 24 of this Act; and (e) all other moneys which may belong or accrue to the Fund received by the Authority or the Trustee in respect thereof."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Application of Fund",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "COMPENSATION FUND",
+   "text": "All moneys from time to time forming part of the Fund, and all investments of the Fund, shall be applicable as follows—\n  (a) for the payment of all costs, charges and expenses of establishing, maintaining, administering and applying the Fund;\n  (b) for the payment of any grant made in pursuance of section 23 of this Act;\n  (c) for the payment of all costs, charges and expenses incurred by the Authority in investigating any request for such a grant;\n  (d) for the payment of any other sums properly payable out of the Fund for the purposes of this Part or of any rules made thereunder.",
+   "clauses": []
+  },
+  "23": {
+   "num": "23",
+   "title": "Grants from Fund",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "COMPENSATION FUND",
+   "text": "(1) Subject to the provisions of this Act and of any rules made under this Part, the Authority may direct the Trustee to make grants out of the Fund in any case which the Authority thinks suitable for such treatment, and in its absolute discretion decides so to treat, for the purpose of relieving or mitigating any losses sustained by any person in consequence of any dishonesty on the part of any licensee, or of any clerk or servant of a licensee, in connection with the business of such licensee under this Act.\n(2) No grant shall be made under this section in respect of—\n  (a) any loss which first came to the knowledge of the loss prior to the commencement of this Act; or\n  (b) any other loss unless notice of such loss is received by the Authority in such manner, and within such time after the same first came to the knowledge of the loser, as may be prescribed by rules made under this Part, and unless such loss is proved, to the satisfaction of the Authority to be one in respect of which a grant may properly be made under this section.\n(3) A grant may be made under this section notwithstanding the fact that the licensee concerned may, subsequent to the commission of the act of dishonesty complained of have died or have ceased to be the holder of a principal’s licence or otherwise ceased to carry on business under this Act.\n(4) Notwithstanding the provisions of this section, the Trustee shall only comply with a direction under subsection (1) of this section to the extent that the amounts standing to the credit of the Fund at the date of receipt of such direction may permit.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of this Act and of any rules made under this Part, the Authority may direct the Trustee to make grants out of the Fund in any case which the Authority thinks suitable for such treatment, and in its absolute discretion decides so to treat, for the purpose of relieving or mitigating any losses sustained by any person in consequence of any dishonesty on the part of any licensee, or of any clerk or servant of a licensee, in connection with the business of such licensee under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "No grant shall be made under this section in respect of—"
+    },
+    {
+     "ref": "(3)",
+     "text": "A grant may be made under this section notwithstanding the fact that the licensee concerned may, subsequent to the commission of the act of dishonesty complained of have died or have ceased to be the holder of a principal’s licence or otherwise ceased to carry on business under this Act."
+    },
+    {
+     "ref": "(4)",
+     "text": "Notwithstanding the provisions of this section, the Trustee shall only comply with a direction under subsection (1) of this section to the extent that the amounts standing to the credit of the Fund at the date of receipt of such direction may permit."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Subrogation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "COMPENSATION FUND",
+   "text": "On the making of any grant out of the Fund under this Part in respect of any loss—\n  (a) the Trustee shall, to the amount of such grant, be subrogated—\n  (i) to any rights or remedies to which the person to whom the grant was made is entitled, on account of such loss, against the license concerned or any other person, or, in the event of the death or insolvency or other disability of such licensee or other person, against his personal representatives or any other persons having authority to administer his estate;\n  (ii) to any rights or remedies which such licensee, his clerk or servant, was entitled on account of such loss against any other person or, in the event of the death or insolvency or other disability of such other person, against his personal representatives or any other persons having authority to administer his estate; and Kenya Not commenced\n  (iii) to all other rights and remedies, if any of the person to whom the grant was made or such licensee, his clerk or servant, in respect of such loss; and\n  (b) the person to whom the grant was made, or, in the event of his death, insolvency or other disability, his personal representatives or any other persons having authority to administer his estate, shall have no right under bankruptcy or other legal proceedings or otherwise to receive any sum out of the assets of such licensee or other person in respect of such loss until the Fund has been reimbursed the full amount of the grant.",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "Rules",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "COMPENSATION FUND",
+   "text": "The Director of Public Prosecutions may make rules with respect to the procedure to be followed in giving effect to the provisions of this Part, and with respect to any matters incidental, ancillary or supplemental to those provisions or concerning the administration or protection of the fund.\n[Act No. 12 of 2012. Sch.]",
+   "clauses": []
+  },
+  "26": {
+   "num": "26",
+   "title": "False statements",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "SUPPLEMENTAL",
+   "text": "Any person who, in furnishing any information for any of the purposes of this Act or any rules or regulations made thereunder, makes any statement which, to his knowledge, is false in a material particular, shall be guilty of an offence.",
+   "clauses": []
+  },
+  "27": {
+   "num": "27",
+   "title": "General penalty and provisions as to offences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "SUPPLEMENTAL",
+   "text": "(1) Any person guilty of an offence under this Act for which no other penalty is provided shall be liable to a fine not exceeding twenty thousand shillings or to imprisonment for a term not exceeding two years or to both such fine and such imprisonment.\n(2) Where any offence under this Act committed by a corporation is proved to have been committed with the consent or connivance of any director, manager, secretary or other officer of the corporation, he, as well as the corporation, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.\n(3) No proceedings for an offence under section 7 or section 17 of this Act shall be instituted except by or with the consent of the Director of Public Prosecutions:\nProvided that this subsection shall not prevent the arrest, or the issue or execution of a warrant for the arrest, of any person in respect of such offence, or the remanding, in custody or on bail, of any person charged with such an offence, notwithstanding that the necessary consent to the institution of proceedings has not been obtained.\n[Act No. 19 of 2023, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person guilty of an offence under this Act for which no other penalty is provided shall be liable to a fine not exceeding twenty thousand shillings or to imprisonment for a term not exceeding two years or to both such fine and such imprisonment."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where any offence under this Act committed by a corporation is proved to have been committed with the consent or connivance of any director, manager, secretary or other officer of the corporation, he, as well as the corporation, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly."
+    },
+    {
+     "ref": "(3)",
+     "text": "No proceedings for an offence under section 7 or section 17 of this Act shall be instituted except by or with the consent of the Director of Public Prosecutions:"
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "SUPPLEMENTAL",
+   "text": "The Minister may make regulations for prescribing anything which by this Act, other than Part VI, is required or authorized to be prescribed.",
+   "clauses": []
+  }
+ },
+ "schedules": [],
+ "spent": {}
+}

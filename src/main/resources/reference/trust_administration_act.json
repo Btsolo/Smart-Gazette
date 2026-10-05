@@ -1,0 +1,2206 @@
+{
+ "title": "Trust Administration Act, 2026",
+ "citation": "No. 28 of 2026",
+ "source": "Government Printer edition (saved from Kenya Law)",
+ "source_url": null,
+ "version_date": "2026-09-25",
+ "retrieved": "2026-10-05",
+ "note": "Text of a Government Printer edition (PDF), converted to JSON by tools/build_law_reference.py; scanned editions carry OCR errors - check against the PDF. There is no copyright on the legislative content (Copyright Act, Cap. 130, s. 2).",
+ "provision_label": "section",
+ "preamble": "AN ACT of Parliament to consolidate laws relating to the registration, incorporation, management and regulation of trusts and trustees and for connected purposes ENACTED by the Parliament of Kenya, as follows—\nPART I — PRELIMINARY",
+ "parts": [],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "This Act may be cited as the Trust Administration Short title. Act, 2026.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "In this Act unless, the context otherwise Interpretation. requires—\n“beneficiary” means a person entitled to benefit under a trust and includes a discretionary beneficiary in whose favour a discretion to distribute property held on trust may be exercised;\n“beneficial owner” means the natural person who ultimately owns or controls a legal person or arrangement or the natural person on whose behalf a transaction is conducted, and includes those persons who exercise ultimate effective control over a legal person or arrangement;\n“competent authority” means the Attorney-General, any criminal investigation agency established by law, a law enforcement agency or any authority that supervises and monitors the financial sector, including, the Central Bank of Kenya, the Financial Reporting Centre and the Kenya Revenue Authority;\n“corporate trustee” means an entity registered in Kenya and licensed under this Act to act as a trustee;\n“designated non-financial business or professionals” has the meaning assigned to it under section 2 of the Proceeds of Crime and Anti-Money Laundering Act;\nCap. 59A.\n“discretionary beneficiary” means a person who benefits under a trust at the discretion of the trustee but does not have a fixed, vested, or contingent interest in the trust property;\n“discretionary trust” means a trust where the beneficiaries or the benefits of the trust become ascertainable once the trust deed sets out the criteria or at the discretion of the trustees;\n“enforcer” means a person appointed as such under section 14(1);\n“financial institution” has the meaning assigned to it under section 2 of the Proceeds of Crime and Anti-Money Laundering Act;\n“founder” means a person who provides or donates property or makes a testamentary disposition on a trust or to a trust with an intention to establish a trust and “donor” has a corresponding meaning;\n“personal representative” has the meaning assigned to it under the Law of Succession Act;\nCap. 160.\n“Registrar” means the person designated as the Registrar of Trusts under section 77 of this Act;\n“Registry” means the registry of trusts established under section 77(2);\n“reporting institution” has the meaning assigned to it under the Proceeds of Crime and Anti-Money Laundering Act;\nCap. 59A.\n“settlor” means a person who establishes a trust in accordance with this Act and includes a founder or a donor;\n“trust” means a trust created in accordance with section 4 of this Act;\n“trust agent” means an advocate of the High Court of Kenya, a certified secretary or a certified accountant authorized to act on behalf of the trust;\n“trust deed” means a document that sets out the objects of a trust and the rules, regulations, terms and conditions regulating its affairs thereof and includes reference to a constitution or trust instrument;\n“trustee” means a person, including the founder, donor or settlor of a trust, who is authorized to act as a trustee in terms of this Act, including a person whose authorization to act as a trustee is in force at the commencement of this Act; and “trust property” or “property” means money or any other movable, immovable, corporeal or incorporeal 554 Trust Administration property, including any rights, interests or claims in that property which is administered by a trustee in accordance with the provisions of a trust deed.",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Application of the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) This Act shall apply to a trust—\n  (a) registered or incorporated under this Act;\n  (b) created by an order of a court; and\n  (c) created by or under any other written law.\n(2) Nothing in this Act shall limit, invalidate or otherwise affect a trust or a fiduciary obligation arising under customary law, equity, a will, court order or any written law or the jurisdiction of the court to recognise, enforce, vary or supervise such trust or fiduciary obligation.\nPART II — TRUST AND TRUST FORMATION Creation of a trust",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "This Act shall apply to a trust— (a) registered or incorporated under this Act;"
+    },
+    {
+     "ref": "(2)",
+     "text": "Nothing in this Act shall limit, invalidate or otherwise affect a trust or a fiduciary obligation arising under customary law, equity, a will, court order or any written law or the jurisdiction of the court to recognise, enforce, vary or supervise such trust or fiduciary obligation."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Creation of trust",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "A trust is created where—\n  (a) an identifiable property or an interest in property is transferred to, vested in or placed under the control of a trustee or the owner declares that the property is held in trust;\n  (b) the property is held for the benefit of one or more beneficiaries or a class of beneficiaries or for the furtherance of a specified lawful purpose; and\n  (c) the trustee is appointed to administer, control or dispose of the property in accordance with the terms of the trust deed, the operation of law or an order of a court.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Registration or incorporation of written trust",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trust may be in writing or implied.\n(2) A trust which is written shall be registered or incorporated in accordance with this Act.\nRecognition and enforceability of trusts.\n(3) A written trust shall not be enforceable unless it is registered or incorporated under this Act and the terms of the trust deed.\n(4) A person claiming an interest under a written trust that has not been registered or incorporated under this Act may apply to the court for recognition or enforcement of the written trust.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trust may be in writing or implied."
+    },
+    {
+     "ref": "(2)",
+     "text": "A trust which is written shall be registered or incorporated in accordance with this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "A written trust shall not be enforceable unless it is registered or incorporated under this Act and the terms of the trust deed."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person claiming an interest under a written trust that has not been registered or incorporated under this Act may apply to the court for recognition or enforcement of the written trust."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Invalidation of a trust",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Without limiting the grounds on which a trust Invalidation of a may be declared invalid under this Act or any other trust. applicable law, a trust may be declared invalid if—\n  (a) it is created for a purpose or purports to do anything which is illegal in Kenya;\n  (b) it has no identifiable or ascertainable beneficiary unless the trust is for non-charitable purposes;\n  (c) it is established by duress, fraud, misrepresentation or in breach of a fiduciary duty;\n  (d) the terms are so uncertain as to render performance impossible;\n  (e) the settlor had no legal capacity to create the trust; or\n  (f) the trust has not been registered or incorporated in accordance with section 5.\n(2) A trust shall not become void by virtue of—\n  (a) the settlor’s bankruptcy;\n  (b) liquidation of the settlor’s property; or\n  (c) proceedings or a suit against the settlor by the creditors.\n(3) The Court may declare a trust to be void where it is proven that the trust was made for fraudulent purposes, including to evade creditors of the settlor.\n(4) Where a trust is created for two or more purposes of which some are lawful and others are unlawful, —\n  (a) if those purposes cannot be separated, the trust shall be invalid; and\n  (b) where the purposes can be separated, the Court may declare that trust is valid as to each purpose that is lawful.\n(5) Where a trust is partially invalid, the Court may determine the property that is trust property and the property that is not trust property.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Without limiting the grounds on which a trust Invalidation of a may be declared invalid under this Act or any other trust. applicable law, a trust may be declared invalid if—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A trust shall not become void by virtue of—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Court may declare a trust to be void where it is proven that the trust was made for fraudulent purposes, including to evade creditors of the settlor."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where a trust is created for two or more purposes of which some are lawful and others are unlawful, —"
+    },
+    {
+     "ref": "(5)",
+     "text": "Where a trust is partially invalid, the Court may determine the property that is trust property and the property that is not trust property."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Irrevocable trusts. Types of Trusts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trust shall be deemed to be an irrevocable Irrevocable trusts. trust unless the trust deed contains an express power of revocation.\n556 Trust Administration\n(2) A revocable trust shall be deemed to be irrevocable if an express power of revocation has not been exercised by the settlor during the lifetime of the settlor.\nTypes of Trusts",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trust shall be deemed to be an irrevocable Irrevocable trusts. trust unless the trust deed contains an express power of revocation."
+    },
+    {
+     "ref": "(2)",
+     "text": "A revocable trust shall be deemed to be irrevocable if an express power of revocation has not been exercised by the settlor during the lifetime of the settlor."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Charitable trusts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A charitable trust is a trust formed for the exclusive purpose of the relief of poverty, the advancement of education, religion, human rights and fundamental freedoms, the protection of the environment or any other purpose beneficial to the general public.\n(2) A trust shall be deemed to be charitable if—\n  (a) the charitable objects may be pursued in Kenya or elsewhere;\n  (b) the objects are beneficial to the general public or a section of the public;\n  (c) the trust is discretionary; and\n  (d) the trustee has power to defer distribution of the assets of the trust to any charity or other beneficiary of the trust for a period not exceeding the duration of the trust as may be provided under the trust deed.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A charitable trust is a trust formed for the exclusive purpose of the relief of poverty, the advancement of education, religion, human rights and fundamental freedoms, the protection of the environment or any other purpose beneficial to the general public."
+    },
+    {
+     "ref": "(2)",
+     "text": "A trust shall be deemed to be charitable if—"
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Non-charitable purpose trust",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A non-charitable purpose trust is a trust Non-charitable established to fulfil a specific purpose that does not qualify purpose trust. as charitable under the law.\n(2) A non-charitable purpose trust may be created for a specific purpose notwithstanding the absence of any beneficiary.\n(3) A non-charitable purpose trust is valid if—\n  (a) the purpose, whether partly charitable or not, for which the trust is created is specific, capable of fulfillment and is not illegal; and\n  (b) the terms of the trust provide for the disposition of surplus assets of the trust upon its termination.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A non-charitable purpose trust is a trust Non-charitable established to fulfil a specific purpose that does not qualify purpose trust. as charitable under the law."
+    },
+    {
+     "ref": "(2)",
+     "text": "A non-charitable purpose trust may be created for a specific purpose notwithstanding the absence of any beneficiary."
+    },
+    {
+     "ref": "(3)",
+     "text": "A non-charitable purpose trust is valid if—"
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Family trust",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A family trust is a trust, whether living or testamentary, partly charitable or non-charitable, that is registered or incorporated by any person or persons, whether jointly or as an individual, for the purposes of planning or managing their personal estate.\n(2) A family trust shall be—\n  (a) made in contemplation of beneficiaries, whether such intended beneficiaries are directly related to the settlor or not;\n  (b) made for the purpose of preservation or creation of wealth for generations; and\n  (c) a non-trading entity.\n(3) Notwithstanding subsection (2), a family trust shall not be invalid for the reason that the settlor or joint settlors are also beneficiaries to the trust.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A family trust is a trust, whether living or testamentary, partly charitable or non-charitable, that is registered or incorporated by any person or persons, whether jointly or as an individual, for the purposes of planning or managing their personal estate."
+    },
+    {
+     "ref": "(2)",
+     "text": "A family trust shall be—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Notwithstanding subsection (2), a family trust shall not be invalid for the reason that the settlor or joint settlors are also beneficiaries to the trust."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Limitation of the number of trustees. Parties to a trust",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A charitable and a non-charitable purpose trust Limitation of the shall have at least three natural persons as trustees or one number of trustees.\ncorporate trustee.\n(2) A family trust shall have at least one trustee.\n(3) A trust shall, where the trustees are natural persons, have at least one trustee who is a Kenyan citizen or a resident of Kenya, as prescribed in the Regulations.\nParties to a trust",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A charitable and a non-charitable purpose trust Limitation of the shall have at least three natural persons as trustees or one number of trustees."
+    },
+    {
+     "ref": "(2)",
+     "text": "A family trust shall have at least one trustee."
+    },
+    {
+     "ref": "(3)",
+     "text": "A trust shall, where the trustees are natural persons, have at least one trustee who is a Kenyan citizen or a resident of Kenya, as prescribed in the Regulations."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Settlor",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Subject to this Act, a settlor who has the legal Settlor. capacity to contract, may create a trust by providing trust property to that trust or by making a testamentary disposition to that trust.\n(2) A settlor shall be deemed to have the legal capacity to create a trust if, at the time he or she transfers or otherwise vests trust property in a trust, he or she is not a minor and is of sound mind.\n(3) A settlor may be a trustee, a beneficiary or an enforcer but shall not be the sole beneficiary of a trust for which he or she is a settlor.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this Act, a settlor who has the legal Settlor. capacity to contract, may create a trust by providing trust property to that trust or by making a testamentary disposition to that trust."
+    },
+    {
+     "ref": "(2)",
+     "text": "A settlor shall be deemed to have the legal capacity to create a trust if, at the time he or she transfers or otherwise vests trust property in a trust, he or she is not a minor and is of sound mind."
+    },
+    {
+     "ref": "(3)",
+     "text": "A settlor may be a trustee, a beneficiary or an enforcer but shall not be the sole beneficiary of a trust for which he or she is a settlor."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Powers of a settlor",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A settlor may, subject to the terms of the trust Powers of a deed, this Act and any other written law, have powers to— settlor.\n  (a) revoke, vary or amend the terms of the trust;\n  (b) direct or approve the advancement, distribution or application of income or capital of the trust property;\n  (c) give directions to the trustee in connection with the purchase, retention, sale, management, 558 Trust Administration lending, pledging or charging of the trust property or the exercise of any powers or rights arising from such property;\n  (d) appoint or remove any trustee, enforcer or beneficiary or any other person who holds a power, discretion or right, or who acts in connection with the trust or with trust property;\n  (e) appoint or remove a trust agent; or\n  (f) restrict the exercise of any powers or discretions of a trustee.\n(2) The grant of powers under this section shall not confer on the settlor the right to act as a trustee.\n(3) In exercising the powers under this section, a settlor may delegate any of the powers to a trustee or any other person.\n(4) A trustee or any other person who exercises the powers granted by the settlor under subsection (3) shall comply with the terms of the trust deed and this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A settlor may, subject to the terms of the trust Powers of a deed, this Act and any other written law, have powers to— settlor."
+    },
+    {
+     "ref": "(2)",
+     "text": "The grant of powers under this section shall not confer on the settlor the right to act as a trustee."
+    },
+    {
+     "ref": "(3)",
+     "text": "In exercising the powers under this section, a settlor may delegate any of the powers to a trustee or any other person."
+    },
+    {
+     "ref": "(4)",
+     "text": "A trustee or any other person who exercises the powers granted by the settlor under subsection (3) shall comply with the terms of the trust deed and this Act."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Enforcer of a trust",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Subject to the terms of a trust deed, a settlor or, Enforcer of a in the absence of a settlor, a beneficiary may appoint one or trust. more persons as an enforcer or enforcers of a trust.\n(2) Where a person is appointed as an enforcer under subsection (1), that person or the trustee shall, in the specified manner, notify the Registrar within twenty-one days from the date of appointment.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the terms of a trust deed, a settlor or, Enforcer of a in the absence of a settlor, a beneficiary may appoint one or trust. more persons as an enforcer or enforcers of a trust."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a person is appointed as an enforcer under subsection (1), that person or the trustee shall, in the specified manner, notify the Registrar within twenty-one days from the date of appointment."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Functions of an enforcer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The functions of an enforcer may, subject to Functions of an subsection (2), include —\nenforcer.\n  (a) enforcing the terms of the trust deed;\n  (b) inquiring into the status of implementation of the trust;\n  (c) requiring the trustee to take remedial action where there is breach of the terms of the trust deed;\n  (d) reporting to the settlor or the beneficiaries any financial or other breaches by the trustees; and\n  (e) pursuing legal action against the trustees, whether criminal or civil.\n(2) A person shall not perform the functions of an enforcer set out in subsection (1) if that person is also a trustee.\n(3) An enforcer shall not—\n  (a) directly or indirectly profit from the enforcer's appointment;\n  (b) cause or permit any other person to profit directly or indirectly from the enforcer's appointment; or\n  (c) on the enforcer's own account, enter into any transaction with the trustees or relating to the trust property which may result in such profit.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The functions of an enforcer may, subject to Functions of an subsection (2), include —"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall not perform the functions of an enforcer set out in subsection (1) if that person is also a trustee."
+    },
+    {
+     "ref": "(3)",
+     "text": "An enforcer shall not—"
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Access to documents by enforcer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "An enforcer shall have access to any document, Access to trust deed, account or any other information necessary for documents by enforcer.\nthe performance of his or her functions.",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "Cessation of appointment of enforcer. 548 Trust Administration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) An enforcer shall cease to be an enforcer of a trust where he or she—\n  (a) resigns by notice in writing to the appointing authority and the trustee;\nCessation of appointment of enforcer.\n  (b) is removed from the role by court;\n  (c) is removed from the role by the appointing authority;\n  (d) dies;\n  (e) is appointed as a trustee of the trust; or\n  (f) ceases to be an enforcer by virtue of the coming into effect of a provision in the terms of the trust under which the enforcer is removed from office or otherwise ceases to hold office.\n(2) Where an enforcer ceases to be an enforcer under subsection (1), a trustee shall notify the Registrar, in the specified manner, within twenty-one days of the cessation.\n(3) Where there is a change of an enforcer of a trust, a trustee shall lodge with the Registrar a copy of the notice of any change of enforcers within twenty-one days from the date of the change as prescribed by the Regulations.\n(4) A trustee who fails to comply with the provisions of subsection (2) or (3) of this section shall be liable to an administrative sanction of—\n560 Trust Administration\n  (a) five thousand shillings, where the trustee in default is a natural person; or\n  (b) ten thousand shillings, where the trustee in default is a body corporate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An enforcer shall cease to be an enforcer of a trust where he or she—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where an enforcer ceases to be an enforcer under subsection (1), a trustee shall notify the Registrar, in the specified manner, within twenty-one days of the cessation."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where there is a change of an enforcer of a trust, a trustee shall lodge with the Registrar a copy of the notice of any change of enforcers within twenty-one days from the date of the change as prescribed by the Regulations."
+    },
+    {
+     "ref": "(4)",
+     "text": "A trustee who fails to comply with the provisions of subsection (2) or (3) of this section shall be liable to an administrative sanction of—"
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Protection from personal liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "An enforcer or a person acting as an officer, employee or agent of the enforcer or performing any duty on behalf of the enforcer shall not be liable to damages for anything done or omitted to be done in the discharge or of the duties of the enforcer under this Act or under the terms of the trust, unless it is proved that the act or omission constituted or arose from the person's own fraud, dishonesty or willful misconduct.",
+   "clauses": []
+  },
+  "19": {
+   "num": "19",
+   "title": "Beneficiaries of a trust",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A beneficiary of a trust shall be—\n  (a) identifiable by name; or\n  (b) ascertainable by reference to—\n  (i) a class; or\n  (ii) a relationship with another person, whether living or not, at the time of the creation of the trust.\n(2) Subject to subsection (1), the terms of a trust may expressly provide for the addition or exclusion of a person as beneficiary or for the exclusion of a beneficiary from benefit under the trust.\n(3) The terms of a trust may impose an obligation or condition on a beneficiary as a requirement for receiving benefits under the trust.\n(4) A settlor or a trustee of a trust may also be a beneficiary of the trust.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A beneficiary of a trust shall be—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to subsection (1), the terms of a trust may expressly provide for the addition or exclusion of a person as beneficiary or for the exclusion of a beneficiary from benefit under the trust."
+    },
+    {
+     "ref": "(3)",
+     "text": "The terms of a trust may impose an obligation or condition on a beneficiary as a requirement for receiving benefits under the trust."
+    },
+    {
+     "ref": "(4)",
+     "text": "A settlor or a trustee of a trust may also be a beneficiary of the trust."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Class of beneficiaries",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Where a trust is created in favour of a class of beneficiaries —\n  (a) the class shall be deemed to close when it is no longer possible for any person to become a member of that class; and\n  (b) where the interests in a class relate to income, and no member of the class exists, the income shall be accumulated and retained until the member of the class comes into being.",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Disclaimer of interest",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Subject to the terms of the trust deed, a beneficiary may, in writing to the trustees, disclaim his or Disclaimer of beneficial interest.\nher interest or any part of it, under the trust whether or not he or she has received any benefit from the trust.\nPART III — REGISTRATION OF A TRUST",
+   "clauses": []
+  },
+  "22": {
+   "num": "22",
+   "title": "Registration of a trust",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A person who wishes to register a trust shall Registration of a lodge with the Registrar an application for registration of a Trust. trust in the prescribed manner.\n(2) The application for registration of a trust under subsection (1) shall be accompanied by—\n  (a) a trust deed;\n  (b) the prescribed fee;\n  (c) a copy of the register of beneficial owners as prescribed in the Regulations;\n  (d) statement of initial trust property in the form prescribed by the Regulations;\n  (e) statement of the initial enforcers of the trust, if any, giving a written acceptance to act as enforcers in respect of the trust property, in the form prescribed by the Regulations;\n  (f) a copy of the court order if the trust was created by an order of the court; and\n  (g) such other information or documents as may be prescribed by the Regulations or any other written law.\n(3) An application lodged with the Registrar under subsection (1) shall—\n  (a) indicate the nature and type of trust;\n  (b) give details on the date the trust was established;\n  (c) state the purpose of the trust;\n  (d) provide details of the settlor;\n  (e) state the details and description of the beneficiaries;\n  (f) indicate details of the initial trustees;\n  (g) indicate details of the initial enforcers, if any;\n  (h) state the details and description of the beneficial owners;\n562 Trust Administration\n  (i) indicate the proposed registered address of the trust or the address of the trust agent; and\n  (j) provide any other details as may be prescribed in the Regulations.\n(4) If the application for registration is submitted by a trust agent on behalf of the settlor or trustees, the trust agent shall include their name and address and their acceptance to act as such on behalf of the settlor or trustees.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who wishes to register a trust shall Registration of a lodge with the Registrar an application for registration of a Trust. trust in the prescribed manner."
+    },
+    {
+     "ref": "(2)",
+     "text": "The application for registration of a trust under subsection (1) shall be accompanied by—"
+    },
+    {
+     "ref": "(3)",
+     "text": "An application lodged with the Registrar under subsection (1) shall—"
+    },
+    {
+     "ref": "(4)",
+     "text": "If the application for registration is submitted by a trust agent on behalf of the settlor or trustees, the trust agent shall include their name and address and their acceptance to act as such on behalf of the settlor or trustees."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Contents of a deed",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trust deed shall—\n  (a) set out terms and conditions for creating and managing a trust;\n  (b) set out the process of appointment and removal of trustees;\n  (c) state that the trustees have agreed to act as trustees of the trust;\n  (d) indicate the type of trust and its purposes;\n  (e) specify the trust property;\n  (f) contain information of the initial trustees, including names, addresses and their roles;\n  (g) contain information of the trustee or enforcer, if applicable, including written acceptance to act as such;\n  (h) where applicable, indicate whether the trustee must provide security in terms of the trust instrument or is exempted from payment of security;\n  (i) identify the beneficiaries by name or a clear description of the class of beneficiaries of the trust; and Contents of a trust deed.\n  (j) contain any other information that may be prescribed in the Regulations or any other written law.\n(2) A trust deed shall be executed by the settlor or his or her representative and the trustees and the signature shall be attested by a witness who shall provide details including their occupation and postal address.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trust deed shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A trust deed shall be executed by the settlor or his or her representative and the trustees and the signature shall be attested by a witness who shall provide details including their occupation and postal address."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Issuance of Certificate of Registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) If satisfied that an application for registration of a trust complies with the requirements of this Act, the Registrar shall register the trust.\n(2) Upon registration, the Registrar shall issue to the applicant a certificate of registration that contains—\n  (a) name of the trust, ending with the words ‘Registered Trust’;\n  (b) a unique identification number assigned to the trust;\n  (c) the date of registration;\n  (d) the type of trust; and\n  (e) any other information as may be prescribed.\n(3) The Registrar shall sign the certificate of registration and authenticate it with the Registrar’s official seal or as may otherwise be prescribed in the Regulations.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If satisfied that an application for registration of a trust complies with the requirements of this Act, the Registrar shall register the trust."
+    },
+    {
+     "ref": "(2)",
+     "text": "Upon registration, the Registrar shall issue to the applicant a certificate of registration that contains—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall sign the certificate of registration and authenticate it with the Registrar’s official seal or as may otherwise be prescribed in the Regulations."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Refusal to issue a certificate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Registrar shall refuse to register a trust under this Act if satisfied that—\n  (a) the trust is formed for an unlawful purpose or is likely to be operated for an unlawful purpose or for purposes prejudicial to public peace, welfare or good order in Kenya; or\n  (b) the trust does not meet the requirements stipulated under this Act.\n(2) Where the Registrar refuses a registration under subsection (1) of this section, the Registrar shall, in writing and within fourteen days of making a determination, notify the applicant of his or her decision and the reasons for the refusal.\n(3) In making a determination under subsection (1), an applicant shall be given an opportunity to be heard or to regularize an application to meet the requirements for registration.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar shall refuse to register a trust under this Act if satisfied that—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Registrar refuses a registration under subsection (1) of this section, the Registrar shall, in writing and within fourteen days of making a determination, notify the applicant of his or her decision and the reasons for the refusal."
+    },
+    {
+     "ref": "(3)",
+     "text": "In making a determination under subsection (1), an applicant shall be given an opportunity to be heard or to regularize an application to meet the requirements for registration."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Revocation of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Registrar may, pursuant to a court order, revoke a registration of a trust under this Act.",
+   "clauses": []
+  },
+  "27": {
+   "num": "27",
+   "title": "Effect of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A certificate of registration of a trust is conclusive evidence that—\n  (a) the requirements relating to registration under this Act have been complied with; and\n  (b) the trust has been registered as an unincorporated trust as at the date stated on the certificate.\n(2) The certificate of registration shall not confer the trust legal personality.\n564 Trust Administration PART IV —INCORPORATION OF A TRUST",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A certificate of registration of a trust is conclusive evidence that—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The certificate of registration shall not confer the trust legal personality."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Name of incorporated trust",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Registrar may, upon application, reserve a Name of name pending incorporation of a trust.\nincorporated trust.\n(2) The Registrar may not reserve a trust by a name if—\n  (a) it is identical to that of any other name appearing in the Registrar’s index of names;\n  (b) the use of the name would contravene any law or constitute an offence;\n  (c) the name consists of abbreviations, characters or initials not authorised by or under this Act or the Regulations made thereunder;\n  (d) the Registrar, after taking into account the relevant criteria, is of the opinion that the name is misleading, offensive or undesirable;\n  (e) the name appears in the Registrars index of names that has been revoked or dissolved; or\n  (f) the name does not meet the criteria prescribed in the Regulations.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar may, upon application, reserve a Name of name pending incorporation of a trust."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar may not reserve a trust by a name if—"
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Requirements for incorporation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Upon reservation of a name under section 28 of Requirements for this Act, a person may apply for incorporation of a trust and incorporation. the application shall—\n  (a) be accompanied by a copy of the reserved name of the trust;\n  (b) indicate details of the trustees;\n  (c) specify the nature and type of trust;\n  (d) state the date the trust was created;\n  (e) provide details of the settlor;\n  (f) state the details or description of the beneficiaries;\n  (g) state the details or description of the beneficial owners;\n  (h) indicate the details of the enforcer, if any;\n  (i) state the purpose of the trust; and\n  (j) indicate the proposed registered address of the trust; or\n  (k) in the case of a family trust, indicate the proposed registered address of the trust or the address of the trust agent.\n(2) An application for incorporation of a trust shall accompanied by—\n  (a) the trust deed;\n  (b) the prescribed fee;\n  (c) statement of initial trust property in the form prescribed by the Regulations;\n  (d) a copy of the register of beneficial owners; and\n  (e) such other information or documents as may be prescribed by the Regulations or required under this Act.\n(3) If the application for incorporation is submitted by a trust agent on behalf of the settlor, trustees, the trust agent shall include their name and address.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Upon reservation of a name under section 28 of Requirements for this Act, a person may apply for incorporation of a trust and incorporation. the application shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "An application for incorporation of a trust shall accompanied by—"
+    },
+    {
+     "ref": "(3)",
+     "text": "If the application for incorporation is submitted by a trust agent on behalf of the settlor, trustees, the trust agent shall include their name and address."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Issuance of Certificate of Incorporation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Upon incorporation, the Registrar shall issue to Issuance of the trust a certificate of incorporation that complies with Certificate of Incorporation.\nthis section and shall state—\n  (a) the name of the trust ending with the words “Incorporated Trust”;\n  (b) a unique identification number;\n  (c) the date of incorporation; and\n  (d) the type and nature of trust.\n(3) The Registrar shall sign the certificate of incorporation and authenticate it with the Registrar’s official seal or as may otherwise be prescribed in the Regulations.\n(4) The certificate of incorporation is conclusive evidence that the requirements of this Act relating to incorporation have been complied with and the trust is duly incorporated.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Upon incorporation, the Registrar shall issue to Issuance of the trust a certificate of incorporation that complies with Certificate of Incorporation."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall sign the certificate of incorporation and authenticate it with the Registrar’s official seal or as may otherwise be prescribed in the Regulations."
+    },
+    {
+     "ref": "(4)",
+     "text": "The certificate of incorporation is conclusive evidence that the requirements of this Act relating to incorporation have been complied with and the trust is duly incorporated."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Refusal to incorporate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Without limiting the provisions of this Refusal to subsection, the Registrar shall refuse to incorporate a trust incorporate. under this section if satisfied that—\n  (a) the trust is formed for an unlawful purpose or is likely to be operated for an unlawful purpose or 566 Trust Administration for purposes prejudicial to public peace, welfare or good order in Kenya;\n  (b) the trust does not meet the requirements stipulated under this Act; or\n(2) Where the Registrar refuses to incorporate a trust under this section, the Registrar shall, in writing and within fourteen days of making a determination, notify the applicant of his or her decision and reasons for the refusal.\n(3) In making a determination under subsection (1), an applicant shall be given an opportunity to be heard or to regularize an application to meet the requirements for incorporation.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Without limiting the provisions of this Refusal to subsection, the Registrar shall refuse to incorporate a trust incorporate. under this section if satisfied that—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Registrar refuses to incorporate a trust under this section, the Registrar shall, in writing and within fourteen days of making a determination, notify the applicant of his or her decision and reasons for the refusal."
+    },
+    {
+     "ref": "(3)",
+     "text": "In making a determination under subsection (1), an applicant shall be given an opportunity to be heard or to regularize an application to meet the requirements for incorporation."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Effect of incorporation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "From the date of incorporation of a trust, the trust shall be a body corporate by the name described in the certificate capable of—\n  (a) having perpetual succession;\n  (b) suing and being sued;\n  (c) acquiring, owning, holding and developing or disposing of property in its name; and\n  (d) doing such other acts a body corporate may lawfully do.",
+   "clauses": []
+  },
+  "33": {
+   "num": "33",
+   "title": "Incorporation of a registered trust",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A registered trust may apply to the Registrar for a certificate of incorporation in the manner prescribed in the Regulations.\n(2) A registered trust shall provide the details required in section 29 of this Act in an application for incorporation.\n(3) The Registrar, shall, upon being satisfied that the trust has met the requirements of this Act in relation to incorporation, issue the trust with a certificate of incorporation.\n(4) The certificate of incorporation shall be in accordance with the provisions of section 30 of this Act and may contain any other particulars that the Registrar may determine.\n(5) Upon being issued with a certificate of incorporation, the trust shall cease to exist as a registered trust and shall become a body corporate by the name described in the certificate.\nPART V— PROPERTY OF A TRUST",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A registered trust may apply to the Registrar for a certificate of incorporation in the manner prescribed in the Regulations."
+    },
+    {
+     "ref": "(2)",
+     "text": "A registered trust shall provide the details required in section 29 of this Act in an application for incorporation."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar, shall, upon being satisfied that the trust has met the requirements of this Act in relation to incorporation, issue the trust with a certificate of incorporation."
+    },
+    {
+     "ref": "(4)",
+     "text": "The certificate of incorporation shall be in accordance with the provisions of section 30 of this Act and may contain any other particulars that the Registrar may determine."
+    },
+    {
+     "ref": "(5)",
+     "text": "Upon being issued with a certificate of incorporation, the trust shall cease to exist as a registered trust and shall become a body corporate by the name described in the certificate."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Property of a trust",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trustee shall deal or manage the property of a trust in accordance with the terms of the trust deed, without any deviation or derogation, unless explicitly authorised by the terms of the trust deed, by a court of law or a written law.\n(2) Where a trust is revoked or declared invalid, the property under the trust shall be dealt with in accordance with the terms of the trust deed or by a determination of the court if there is no provision in the trust deed to this effect.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trustee shall deal or manage the property of a trust in accordance with the terms of the trust deed, without any deviation or derogation, unless explicitly authorised by the terms of the trust deed, by a court of law or a written law."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a trust is revoked or declared invalid, the property under the trust shall be dealt with in accordance with the terms of the trust deed or by a determination of the court if there is no provision in the trust deed to this effect."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Property acquired illegally",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Any property acquired illegally or through unlawful means shall not form part of the property of the trust and such property may be subject to recovery and forfeiture under the Proceeds of Crimes and Anti-Money Laundering Act or any other enabling law in relation to the offence committed in the process of acquiring the property.\nPART VI— TRUSTEES",
+   "clauses": []
+  },
+  "36": {
+   "num": "36",
+   "title": "Qualification and disqualification to act as a trustee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A person shall qualify to act as a trustee if that person—\n  (a) is above the age of eighteen years;\n  (b) is not disqualified under any other written law from appointment as such; and\n  (c) meets any other requirement as may be prescribed in the Regulations or any other written law.\n(2) A person shall be disqualified for appointment as a trustee if that person—\n  (a) is disqualified from acting as a director or secretary of a company in accordance with the Companies Act;\n  (b) is disqualified from acting as a liquidator or administrator under the Insolvency Act;\n  (c) has been declared mentally incapacitated under the Mental Health Act;\n  (d) has been convicted of a criminal offence which attracts imprisonment for a term exceeding six months;\n  (e) has been convicted of corruption or an economic crime; or Property acquired illegally. Cap. 59A.\nCap. 486. Cap. 53. Cap. 248.\n568 Trust Administration\n  (f) is an undischarged bankrupt or, in the case of a corporate trustee, is declared insolvent.\n(3) An entity shall qualify to act as a corporate trustee if that entity —\n  (a) is a company incorporated under the Companies Act whose main object is to provide corporate trustee services;\n  (b) is not disqualified under any other written law from appointment as such;\n  (c) is licensed to act as such under any other relevant written law; or\n  (d) meets any other requirement as may be prescribed in the Regulations.\n(4) A corporate trustee shall be required to have a local contact person who is a natural person and a resident of Kenya, as prescribed in the Regulations.\n(5) For purposes of subsection (2), the words “corruption” and “economic crime” have the meaning assigned to them under the Anti-Corruption and Economic Crimes Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall qualify to act as a trustee if that person—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall be disqualified for appointment as a trustee if that person—"
+    },
+    {
+     "ref": "(3)",
+     "text": "An entity shall qualify to act as a corporate trustee if that entity —"
+    },
+    {
+     "ref": "(4)",
+     "text": "A corporate trustee shall be required to have a local contact person who is a natural person and a resident of Kenya, as prescribed in the Regulations."
+    },
+    {
+     "ref": "(5)",
+     "text": "For purposes of subsection (2), the words “corruption” and “economic crime” have the meaning assigned to them under the Anti-Corruption and Economic Crimes Act."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Appointment of Trustee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Subject to this Act and any other written law, a person may act as a trustee of a trust if appointed as a trustee—\nCap. 65.\n  (a) under the terms of the trust deed;\n  (b) through a court order; or (c) under the Public Trustee Act.\nCap. 168.\n(2) A trustee shall notify the Registrar of his or her appointment within twenty-one days of the appointment in the form prescribed in the Regulations and shall be accompanied by—\n  (a) a written consent by the trustee to act in that capacity and be bound by the terms of the trust deed; and\n  (b) the prescribed fee.\n(3) If a trustee fails to comply with subsection (2), the trustee shall be liable to pay an administrative penalty of—\n  (a) seven thousand shillings, if the trustee in default is a natural person; or\n  (b) fourteen thousand shillings, where the trustee in default is a body corporate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this Act and any other written law, a person may act as a trustee of a trust if appointed as a trustee—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A trustee shall notify the Registrar of his or her appointment within twenty-one days of the appointment in the form prescribed in the Regulations and shall be accompanied by—"
+    },
+    {
+     "ref": "(3)",
+     "text": "If a trustee fails to comply with subsection (2), the trustee shall be liable to pay an administrative penalty of—"
+    }
+   ]
+  },
+  "38": {
+   "num": "38",
+   "title": "Power of appointing substitute or additional trustees",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Where a trustee has been disqualified to act as a trustee under section 36 of this Act or has otherwise ceased to be a trustee under this Act or any other applicable law, the powers of appointment of additional trustees shall be exercised in accordance with the trust deed and any other written law.\n(2) Where the trust deed does not provide for the process of appointment of additional trustees—\n  (a) the existing trustee may appoint additional trustees; or\n  (b) the beneficiaries or the enforcer, if any, shall make an application to court to appoint such additional trustees.\n(3) Where a trustee—\n  (a) in the case of a natural person, is dead or incapable of acting;\n  (b) in the case of a corporation, has been dissolved;\n  (c) desires to be discharged from all or any of the trusts or powers conferred on him or her;\n  (d) refuses to act in accordance with the trust deed;\n  (e) has been removed under a power contained in the trust deed; or\n  (f) in the case of a charitable trust or where a limit has been provided in the trust deed, the number goes below the minimum required number of trustees, an additional trustee may be appointed in accordance with subsection (4).\n(4) An additional trustee referred to under subsection (3) may be appointed by—\n  (a) the settlor or in their absence, the enforcer, if any;\n  (b) the person nominated for the purpose of appointing new trustees by the trust deed;\n  (c) the surviving or continuing trustees; or\n  (d) the Court.\n570 Trust Administration\n(5) A new trustee appointed under this section shall have the same power, authority and discretion and may in all respects act as if he or she had been appointed as a trustee under the trust deed.\n(6) Where an incapacitated trustee is the sole beneficiary, no appointment of a new trustee in his or her place shall be made by the continuing trustees or trustee, under this section, unless leave has been given by a court.\n(7) A trustee appointed through a court order shall—\n  (a) have the same power, authority, and discretion and may in all respect act as if they had been appointed a trustee under the trust deed; or\n  (b) act in accordance with the orders of the court.\n(8) The trustees shall notify the Registrar of the appointment of a new trustee within twenty-one days of the appointment in the form prescribed in the Regulations and shall be accompanied by—\n  (a) a written consent by the trustee to act in that capacity and be bound by the terms of the trust deed; and\n  (b) the prescribed fee.\n(9) If the trustee fails to comply with subsection (8), the trustee shall be liable to an administrative penalty not exceeding thirty thousand shillings.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a trustee has been disqualified to act as a trustee under section 36 of this Act or has otherwise ceased to be a trustee under this Act or any other applicable law, the powers of appointment of additional trustees shall be exercised in accordance with the trust deed and any other written law."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the trust deed does not provide for the process of appointment of additional trustees—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a trustee—"
+    },
+    {
+     "ref": "(4)",
+     "text": "An additional trustee referred to under subsection (3) may be appointed by—"
+    },
+    {
+     "ref": "(5)",
+     "text": "A new trustee appointed under this section shall have the same power, authority and discretion and may in all respects act as if he or she had been appointed as a trustee under the trust deed."
+    },
+    {
+     "ref": "(6)",
+     "text": "Where an incapacitated trustee is the sole beneficiary, no appointment of a new trustee in his or her place shall be made by the continuing trustees or trustee, under this section, unless leave has been given by a court."
+    },
+    {
+     "ref": "(7)",
+     "text": "A trustee appointed through a court order shall—"
+    },
+    {
+     "ref": "(8)",
+     "text": "The trustees shall notify the Registrar of the appointment of a new trustee within twenty-one days of the appointment in the form prescribed in the Regulations and shall be accompanied by—"
+    },
+    {
+     "ref": "(9)",
+     "text": "If the trustee fails to comply with subsection (8), the trustee shall be liable to an administrative penalty not exceeding thirty thousand shillings."
+    }
+   ]
+  },
+  "39": {
+   "num": "39",
+   "title": "Resignation of trustee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Unless the trust deed provides otherwise, a trustee may resign by issuing a written notice of resignation to his or her co-trustees or in the case of a sole trustee, to the beneficiaries.\n(2) A resignation under subsection (1) shall have no effect if it—\n  (a) is given to facilitate a breach of trust; or\n  (b) is contrary to the provisions of the trust deed.\n(3) The court may, subject to the Public Trustee Act, appoint the Public Trustee to act as a trustee of a trust where there is no trustee capable of acting as a trustee and the trust deed does not provide for the mechanism of appointing a trustee.\nCap. 168.\n(4) A trustee shall cease to be a trustee of a trust immediately upon—\n  (a) his or her removal by the court;\n  (b) the trustee’s resignation becoming effective;\n  (c) being disqualified to act as a trustee under section 36 of this Act;\n  (d) the coming into effect of a provision in the terms of a trust deed under which the trustee is removed from office or otherwise ceases to hold office; or\n  (e) the declaration of bankruptcy or insolvency of the trustee.\n(5) A person who ceases to be a trustee under this section shall upon cessation—\n  (a) vest the trust property in the new or continuing trustee or the trust, in the case of an incorporated trust; and\n  (b) surrender documents of title, accounts and records relating to the trust and held by him or her in his or her capacity as a trustee.\n(6) A person who fails to comply with the provisions of subsection (5) commits an offence and shall be liable, upon conviction, to a fine not exceeding five hundred thousand shillings or to imprisonment for a term of one year, or to both.\n(7) A trustee may apply to court for orders compelling persons who have ceased to be trustees to produce anything in their possession that was in their custody by virtue of their trusteeship.\n(8) A trustee who resigns in order to facilitate a breach of trust shall be liable for that breach as if he or she had not resigned.\n(9) The trustees shall notify the Registrar of the resignation of the trustees within twenty-one days of the resignation in the form prescribed in the Regulations.\n(10) A trustee who fails to comply with subsection (9) shall be liable to an administrative penalty of—\n  (a) seven thousand shillings, if the trustee in default is a natural person; or\n  (b) fourteen thousand shillings, where the trustee in default is a body corporate.\n572 Trust Administration",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Unless the trust deed provides otherwise, a trustee may resign by issuing a written notice of resignation to his or her co-trustees or in the case of a sole trustee, to the beneficiaries."
+    },
+    {
+     "ref": "(2)",
+     "text": "A resignation under subsection (1) shall have no effect if it—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The court may, subject to the Public Trustee Act, appoint the Public Trustee to act as a trustee of a trust where there is no trustee capable of acting as a trustee and the trust deed does not provide for the mechanism of appointing a trustee."
+    },
+    {
+     "ref": "(4)",
+     "text": "A trustee shall cease to be a trustee of a trust immediately upon—"
+    },
+    {
+     "ref": "(5)",
+     "text": "A person who ceases to be a trustee under this section shall upon cessation—"
+    },
+    {
+     "ref": "(6)",
+     "text": "A person who fails to comply with the provisions of subsection (5) commits an offence and shall be liable, upon conviction, to a fine not exceeding five hundred thousand shillings or to imprisonment for a term of one year, or to both."
+    },
+    {
+     "ref": "(7)",
+     "text": "A trustee may apply to court for orders compelling persons who have ceased to be trustees to produce anything in their possession that was in their custody by virtue of their trusteeship."
+    },
+    {
+     "ref": "(8)",
+     "text": "A trustee who resigns in order to facilitate a breach of trust shall be liable for that breach as if he or she had not resigned."
+    },
+    {
+     "ref": "(9)",
+     "text": "The trustees shall notify the Registrar of the resignation of the trustees within twenty-one days of the resignation in the form prescribed in the Regulations."
+    },
+    {
+     "ref": "(10)",
+     "text": "A trustee who fails to comply with subsection (9) shall be liable to an administrative penalty of—"
+    }
+   ]
+  },
+  "40": {
+   "num": "40",
+   "title": "Removal of a trustee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Any person that has a legitimate interest in a trust may apply to court for the removal of a trustee and if the court is satisfied that the removal of the trustee is in the interest of the trust and the beneficiaries of the trust, the court may issue an order for removal of that trustee.\n(2) Despite subsection (1), a trustee may be removed in accordance with the terms of the trust deed.\n(3) Before removing a person as a trustee under subsection (2), the trustee shall be given a twenty-one-day written notice of the intention to remove the trustee.\n(4) If a trustee is removed, the trustees of the trust shall file a notice of removal of the trustee with the Registrar within twenty-one days of such removal in the manner prescribed in the Regulations.\n(5) If the trustee fails to comply with subsection (4) the trustee shall be liable to an administrative penalty of—\n  (a) seven thousand shillings, if the trustee in default is a natural person; or\n  (b) fourteen thousand shillings, where the trustee in default is a body corporate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person that has a legitimate interest in a trust may apply to court for the removal of a trustee and if the court is satisfied that the removal of the trustee is in the interest of the trust and the beneficiaries of the trust, the court may issue an order for removal of that trustee."
+    },
+    {
+     "ref": "(2)",
+     "text": "Despite subsection (1), a trustee may be removed in accordance with the terms of the trust deed."
+    },
+    {
+     "ref": "(3)",
+     "text": "Before removing a person as a trustee under subsection (2), the trustee shall be given a twenty-one-day written notice of the intention to remove the trustee."
+    },
+    {
+     "ref": "(4)",
+     "text": "If a trustee is removed, the trustees of the trust shall file a notice of removal of the trustee with the Registrar within twenty-one days of such removal in the manner prescribed in the Regulations."
+    },
+    {
+     "ref": "(5)",
+     "text": "If the trustee fails to comply with subsection (4) the trustee shall be liable to an administrative penalty of—"
+    }
+   ]
+  },
+  "41": {
+   "num": "41",
+   "title": "Death or dissolution of a trustee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Where a power or function of a trustee is vested in two or more trustees jointly and one of those trustees dies or in the case of a body corporate, is dissolved, the surviving trustees may exercise such powers or perform such functions to allow the trustee or them to maintain and preserve the trust and trust property, for a period not exceeding thirty days, pending the appointment of a new trustee in accordance with sections 37 and 38 of this Act, in the place of the trustee who died or was dissolved.\n(2) If a sole trustee or the last surviving or continuing trustee dies or in the case of a body corporate, is dissolved, and the trust deed does not provide for the replacement of such trustee, any beneficiary or an enforcer may apply to court to make an order for the appointment of a new trustee.\n(3) The trustees shall notify the Registrar of the replacement within twenty-one days of the appointment in the form prescribed in the Regulations.\n(4) If the trustee fails to comply with the provisions of subsection (3), the trustee shall be liable to an administrative penalty of—\n  (a) seven thousand shillings, if the trustee in default is a natural person; or\n  (b) fourteen thousand shillings, where the trustee in default is a body corporate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a power or function of a trustee is vested in two or more trustees jointly and one of those trustees dies or in the case of a body corporate, is dissolved, the surviving trustees may exercise such powers or perform such functions to allow the trustee or them to maintain and preserve the trust and trust property, for a period not exceeding thirty days, pending the appointment of a new trustee in accordance with sections 37 and 38 of this Act, in the place of the trustee who died or was dissolved."
+    },
+    {
+     "ref": "(2)",
+     "text": "If a sole trustee or the last surviving or continuing trustee dies or in the case of a body corporate, is dissolved, and the trust deed does not provide for the replacement of such trustee, any beneficiary or an enforcer may apply to court to make an order for the appointment of a new trustee."
+    },
+    {
+     "ref": "(3)",
+     "text": "The trustees shall notify the Registrar of the replacement within twenty-one days of the appointment in the form prescribed in the Regulations."
+    },
+    {
+     "ref": "(4)",
+     "text": "If the trustee fails to comply with the provisions of subsection (3), the trustee shall be liable to an administrative penalty of—"
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "Effect of change of trustee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "A change in the trustees of a trust shall not affect the existence, rights or obligations of the trust.\nPART VII— DUTIES AND GENERAL POWERS OF TRUSTEES",
+   "clauses": []
+  },
+  "43": {
+   "num": "43",
+   "title": "Duty of trustee to exercise reasonable care, skill and diligence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) In carrying out the powers conferred to a trustee, a trustee shall exercise care, skill and diligence as it is reasonable in the circumstances, having regard to—\n  (a) the general knowledge, skill and experience that may reasonably be expected of a person carrying out the functions performed by a trustee in relation to the trust;\n  (b) any special knowledge or experience that he or she has or holds himself or herself out as having; and\n  (c) when he or she acts as a trustee in the course of a business or profession, any special knowledge or experience that may reasonably be expected of a person acting in the course of that kind of business or profession.\n(2) Despite the generality of subsection (1), a trustee shall, in exercise of his or her powers—\n  (a) know the terms of the trust deed;\n  (b) act in accordance with the terms of the trust instrument;\n  (c) act honestly and in good faith;\n  (d) hold or deal with trust property and act for the benefit of the beneficiaries or to further the permitted purpose of the trust;\n  (e) avoid a conflict between his or her interests and the interests of the trust or any of the beneficiaries of the trust;\n  (f) where a trust has more than one beneficiary, treat all beneficiaries impartially and in accordance with the terms of the trust instrument; and\n  (g) not take remuneration or reward in his or her capacity as trustee except the remuneration and expenses contemplated in section 60 of this Act.\n574 Trust Administration",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In carrying out the powers conferred to a trustee, a trustee shall exercise care, skill and diligence as it is reasonable in the circumstances, having regard to—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Despite the generality of subsection (1), a trustee shall, in exercise of his or her powers—"
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Duty of trustee to act within powers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trustee shall execute, administer the trust and exercise his or her functions in accordance with the provisions of this Act and terms of the trust deed and only in the interest of the beneficiaries or advancement of the charitable or non-charitable purpose, as the case may be.\n(2) The trustees shall, at all times, act jointly in the exercise of their powers and performance of their functions in accordance with the terms of the trust deed.\n(3) Where the trust deed does not provide for the manner in which the trustees shall exercise their powers and perform their functions relating to decision making, amendment of the trust deed, dissolution of a trust or variation of an entitlement under the trust, the trustees may make an application to court for guidance or for any such orders as the court may deem fit in the circumstances.\n(4) A corporate trustee may—\n  (a) act in connection with a trust by a resolution of its board of directors; or\n  (b) by resolution, appoint an officer or employee or a committee of officers or employees or both, to act on its behalf in connection with the trust.\n(5) A corporate trustee shall be required to lodge with the Registrar a notice of appointment of any person under subsection (4)(b) within twenty-one days of such appointment.\n(6) If a corporate trustee fails to comply with subsection (5), the corporate trustee shall be liable to an administrative penalty of fifty thousand shillings.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trustee shall execute, administer the trust and exercise his or her functions in accordance with the provisions of this Act and terms of the trust deed and only in the interest of the beneficiaries or advancement of the charitable or non-charitable purpose, as the case may be."
+    },
+    {
+     "ref": "(2)",
+     "text": "The trustees shall, at all times, act jointly in the exercise of their powers and performance of their functions in accordance with the terms of the trust deed."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the trust deed does not provide for the manner in which the trustees shall exercise their powers and perform their functions relating to decision making, amendment of the trust deed, dissolution of a trust or variation of an entitlement under the trust, the trustees may make an application to court for guidance or for any such orders as the court may deem fit in the circumstances."
+    },
+    {
+     "ref": "(4)",
+     "text": "A corporate trustee may—"
+    },
+    {
+     "ref": "(5)",
+     "text": "A corporate trustee shall be required to lodge with the Registrar a notice of appointment of any person under subsection (4)(b) within twenty-one days of such appointment."
+    },
+    {
+     "ref": "(6)",
+     "text": "If a corporate trustee fails to comply with subsection (5), the corporate trustee shall be liable to an administrative penalty of fifty thousand shillings."
+    }
+   ]
+  },
+  "45": {
+   "num": "45",
+   "title": "Duty of trustee not to profit from trusteeship",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Subject to the terms of the trust deed, a trustee Duty of trustee shall not—\nnot to profit from trusteeship.\n  (a) derive, directly or indirectly, any profit from his or her trusteeship;\n  (b) cause or permit any other person to derive any profit from his or her trusteeship; or\n  (c) on his or her own account, enter into any transaction with his or her co-trustees relating to the trust property, which may result in any drawing of profit, except–\n  (i) with the approval of the Court; or\n  (ii) as permitted by the provisions of this Act.",
+   "clauses": []
+  },
+  "46": {
+   "num": "46",
+   "title": "Duty to preserve the trust property",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trustee shall, subject to the terms of the trust Duty to preserve deed and the provisions of this Act, preserve the value of the trust property. the trust property vested in him or her.\n(2) A trustee shall not dispose off trust property or any part of it in such a manner as to frustrate or adversely affect the purpose of the trust and the interest of the beneficiaries.\n(3) If a trustee fails to comply with subsection (2), each of the trustees in default commits an offence and is liable on conviction—\n  (a) if the offender is a natural person, to a fine not exceeding five million shillings or an imprisonment of five years or to both; and\n  (b) if the offender is a body corporate, to a fine not exceeding twenty million shillings.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trustee shall, subject to the terms of the trust Duty to preserve deed and the provisions of this Act, preserve the value of the trust property. the trust property vested in him or her."
+    },
+    {
+     "ref": "(2)",
+     "text": "A trustee shall not dispose off trust property or any part of it in such a manner as to frustrate or adversely affect the purpose of the trust and the interest of the beneficiaries."
+    },
+    {
+     "ref": "(3)",
+     "text": "If a trustee fails to comply with subsection (2), each of the trustees in default commits an offence and is liable on conviction—"
+    }
+   ]
+  },
+  "47": {
+   "num": "47",
+   "title": "Duty to keep trust property separate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trustee shall keep trust property separate from the trustee's own property and separately identifiable from other property of which he or she is a trustee.\n(2) A trustee shall—\n  (a) indicate clearly in the books of the trust, the trust property which he or she holds in his or her capacity as trustee;\n  (b) ensure that any account or investment of a trust kept by a financial institution is identifiable as a trust account or trust investment; and\n  (c) in the case of trust property other than property referred to in paragraph (b), make such property identifiable as the trust property in the prescribed manner.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trustee shall keep trust property separate from the trustee's own property and separately identifiable from other property of which he or she is a trustee."
+    },
+    {
+     "ref": "(2)",
+     "text": "A trustee shall—"
+    }
+   ]
+  },
+  "48": {
+   "num": "48",
+   "title": "Duty to keep records",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Every trustee shall keep adequate, accurate, Duty to keep and up-to-date records of the trust and all matters relating records. to the administration of the trust.\n(2) The information referred to in the records shall include—\n  (a) the information relating to the settlor, each trustee including foreign trustees if any, each enforcer, 576 Trust Administration each beneficiary, and each beneficial owner as prescribed in the Regulations;\n  (b) information relating to a trust agent of the trust;\n  (c) the trust deed and any other documents that contain terms of the trust;\n  (d) the certificate of registration or incorporation;\n  (e) any amendment of a trust deed and details of its effect on the trust property;\n  (f) records of the trust property that identify the assets, liabilities, income and expenses relating to the trust property and beneficial ownership of the trust property;\n  (g) any foreign trust administered by the trustees, including—\n  (i) details of the foreign trust such as the settlors, trustees, beneficiaries, protectors or enforcers, if any;\n  (ii) information on the beneficial owners of the foreign trust;\n  (iii) property of the trust within Kenya; and\n  (iv) records of transactions that have any connection with Kenya;\n  (h) all transactions, advisory communications and matters relating to trust accounts including trust investments;\n  (i) prescribed details relating to financial institutions and reporting institutions—\n  (i) with which the trust has business relationships with and the nature of that business relationship;\n  (ii) which the trust uses as agents to perform any of the trustee’s functions relating to the trust property; and\n  (iii) from which the trust obtains any services in respect of the trustee’s functions relating to the trust property;\n  (j) any written contracts entered into during the tenure of the trustee;\n  (k) any records of resolutions of the trustees made during tenure of the trustee;\n  (l) any management records and books of accounts prepared during the tenure of the trustee;\n  (m) documents of appointment, removal and discharge of trustees, including any court orders appointing or removing trustees;\n  (n) any reports of material irregularities and how the trustee dealt with those material irregularities;\n  (o) a register of charges and security rights created under the Movable Property Security Rights Act or Cap. 499A. any other law; and\n  (p) any other document necessary for the administration of the trust.\n(3) The trustees shall ensure that the records are kept for at least seven years from—\n  (a) the date of termination or dissolution of the trust; or\n  (b) the date they cease being trustees of a trust.\n(4) A trustee shall lodge with the Registrar a copy of any amendment to the trust deed or the list of assets within twenty-one days after making the amendment:\nProvided that a trustee shall obtain any approval required under any other written law prior to lodging the amendment.\n(5) A trustee who fails to comply with subsection (4) shall be liable to an administrative penalty of—\n  (a) seven thousand shillings, if the trustee in default is a natural person; and\n  (b) fourteen thousand shillings, if the trustee in default is a body corporate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every trustee shall keep adequate, accurate, Duty to keep and up-to-date records of the trust and all matters relating records. to the administration of the trust."
+    },
+    {
+     "ref": "(2)",
+     "text": "The information referred to in the records shall include—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The trustees shall ensure that the records are kept for at least seven years from—"
+    },
+    {
+     "ref": "(4)",
+     "text": "A trustee shall lodge with the Registrar a copy of any amendment to the trust deed or the list of assets within twenty-one days after making the amendment:"
+    },
+    {
+     "ref": "(5)",
+     "text": "A trustee who fails to comply with subsection (4) shall be liable to an administrative penalty of—"
+    }
+   ]
+  },
+  "49": {
+   "num": "49",
+   "title": "Access to information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The trustees shall not use or disclose their trust Access to information except—\ninformation.\n  (a) upon written request of—\n  (i) an enforcer;\n578 Trust Administration\n  (ii) a beneficiary, subject to the terms of the trust deed; or\n  (iii) a settlor, if such power is specifically reserved under the trust deed;\n  (b) in order to comply with the Proceeds of Crime and Anti-Money Laundering Act;\nCap. 59A.\n  (c) in order to comply with the Prevention of Terrorism Act;\nCap. 59B.\n  (d) in order to comply with a court order; or\n  (e) in order to comply with any other written law.\n(2) The trustees shall provide full and accurate information required in subsection (1) within fourteen days of receipt of the request.\n(3) Where a trustee fails to comply with the requirements under this section, each trustee who is in default, commits an offence and upon conviction is liable—\n  (a) if the offender is a natural person, to a fine not exceeding one million shillings or to imprisonment for a term not exceeding two years or to both; and\n  (b) if the offender is a body corporate, to a fine not exceeding three million shillings.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The trustees shall not use or disclose their trust Access to information except—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The trustees shall provide full and accurate information required in subsection (1) within fourteen days of receipt of the request."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a trustee fails to comply with the requirements under this section, each trustee who is in default, commits an offence and upon conviction is liable—"
+    }
+   ]
+  },
+  "50": {
+   "num": "50",
+   "title": "Power to apply income for maintenance and to accumulate surplus income during a minority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trustee may, at their discretion, make payments to a parent or guardian of a beneficiary who is a minor for the purposes of the maintenance, education or benefit of the minor from income arising from the property of the trust for which the minor is entitled.\nPower to apply income for maintenance and to accumulate surplus income during minority\n(2) Any income not otherwise applied in accordance with subsection (1) may be accumulated and paid to the beneficiary upon the attainment of the age of eighteen years.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trustee may, at their discretion, make payments to a parent or guardian of a beneficiary who is a minor for the purposes of the maintenance, education or benefit of the minor from income arising from the property of the trust for which the minor is entitled."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any income not otherwise applied in accordance with subsection (1) may be accumulated and paid to the beneficiary upon the attainment of the age of eighteen years."
+    }
+   ]
+  },
+  "51": {
+   "num": "51",
+   "title": "Power to manage and control trust property",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trustee may, subject to the provisions of this Act or the terms of the trust deed, take possession, control, maintain, repair or improve trust property.\n(2) Subject to the provisions of this Act, a trustee may make any investment relating to the assets of the trust.\n(3) In exercising any power of investment, or otherwise, a trustee shall undertake appropriate legal and financial due diligence and shall seek the necessary advice from persons qualified to render such advice in relation to the investment in question.\n(4) A trustee shall not invest assets of the trust unless the trustee is authorised to do so in the trust deed and the investment is—\n  (a) in accordance with the purposes, terms and duration of the trust;\n  (b) in accordance with the interests and circumstances of the beneficiaries;\n  (c) commensurate to the liquidity requirements of the trust;\n  (d) commensurate to the nature and extent of the risks associated with the investment;\n  (e) does not pose any actual or potential conflict of interest to the trust or the trustee; and\n  (f) prudent and in the best interest of the trust.\n(5) A trustee shall, from time to time, review the investments of the trust and consider whether they should be varied considering diversification and potential risk of the investment.\n(6) A trustee shall not be liable for breach of trust due to continuing to hold an investment which has ceased to be an investment authorized by the trust deed or by the general law.\n(7) A trustee lending money on the security of any trust property on which the trustee can lend shall not be liable for breach of trust by reason only of the proportion borne by the amount of the loan to the value of the property at the time when the loan was made, if it appears to the court that —\n  (a) in making the loan, the trustee was acting upon a report as to the value of the property made by a person whom the trustee reasonably believed to be a surveyor or a valuer instructed and employed independently of any owner of the property, whether the surveyor or valuer carried on business in the locality where the property is situate or elsewhere;\n  (b) the amount of the loan does not exceed two-thirds of the value of the property as stated in the report;\n580 Trust Administration\n  (c) the loan was made under the advice of the surveyor or valuer expressed in the report.\n(8) Where a trustee improperly advances trust money on a mortgage security which would at the time of the investment be a proper investment in all respects for a smaller sum than is actually advanced thereon, the security shall be deemed an authorized investment for the smaller sum, and the trustee shall only be liable to make good the sum advanced in excess thereof with interest.\n(9) A trustee lending money on the security of any leasehold property shall not be chargeable with breach of trust only upon the grounds that in making the loan the trustee dispensed either wholly or partly with the production or investigation of the lessor’s title.\n(10) A trustee shall not be chargeable with breach of trust only upon the grounds that in effecting the purchase, or in lending money upon the security, of any property he or she has accepted a shorter title than the title which a purchaser is, in the absence of a special contract, entitled to require, if in the opinion of the court the title accepted be such as a person acting with prudence and caution would have accepted.\n(11) The provisions of this section shall apply to the transfer of existing and new securities and to investments made prior to the commencement of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trustee may, subject to the provisions of this Act or the terms of the trust deed, take possession, control, maintain, repair or improve trust property."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to the provisions of this Act, a trustee may make any investment relating to the assets of the trust."
+    },
+    {
+     "ref": "(3)",
+     "text": "In exercising any power of investment, or otherwise, a trustee shall undertake appropriate legal and financial due diligence and shall seek the necessary advice from persons qualified to render such advice in relation to the investment in question."
+    },
+    {
+     "ref": "(4)",
+     "text": "A trustee shall not invest assets of the trust unless the trustee is authorised to do so in the trust deed and the investment is—"
+    },
+    {
+     "ref": "(5)",
+     "text": "A trustee shall, from time to time, review the investments of the trust and consider whether they should be varied considering diversification and potential risk of the investment."
+    },
+    {
+     "ref": "(6)",
+     "text": "A trustee shall not be liable for breach of trust due to continuing to hold an investment which has ceased to be an investment authorized by the trust deed or by the general law."
+    },
+    {
+     "ref": "(7)",
+     "text": "A trustee lending money on the security of any trust property on which the trustee can lend shall not be liable for breach of trust by reason only of the proportion borne by the amount of the loan to the value of the property at the time when the loan was made, if it appears to the court that —"
+    },
+    {
+     "ref": "(8)",
+     "text": "Where a trustee improperly advances trust money on a mortgage security which would at the time of the investment be a proper investment in all respects for a smaller sum than is actually advanced thereon, the security shall be deemed an authorized investment for the smaller sum, and the trustee shall only be liable to make good the sum advanced in excess thereof with interest."
+    },
+    {
+     "ref": "(9)",
+     "text": "A trustee lending money on the security of any leasehold property shall not be chargeable with breach of trust only upon the grounds that in making the loan the trustee dispensed either wholly or partly with the production or investigation of the lessor’s title."
+    },
+    {
+     "ref": "(10)",
+     "text": "A trustee shall not be chargeable with breach of trust only upon the grounds that in effecting the purchase, or in lending money upon the security, of any property he or she has accepted a shorter title than the title which a purchaser is, in the absence of a special contract, entitled to require, if in the opinion of the court the title accepted be such as a person acting with prudence and caution would have accepted."
+    },
+    {
+     "ref": "(11)",
+     "text": "The provisions of this section shall apply to the transfer of existing and new securities and to investments made prior to the commencement of this Act."
+    }
+   ]
+  },
+  "52": {
+   "num": "52",
+   "title": "Power to delegate functions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trustee may delegate his or her functions if Power to delegate permitted by this Act or by the terms of the trust deed.\nfunctions.\n(2) In exercising the power under subsection (1), the trustee may—\n  (a) delegate the management of the trust property to, and appoint, a manager who the trustee reasonably considers to be competent and qualified to manage the trust property;\n  (b) delegate the power to invest trust property to, and appoint an investment manager who the trustee reasonably considers to be competent and qualified to invest the trust property; and\n  (c) authorise any such manager or person to retain any commission or payment usually payable for services of the description rendered.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trustee may delegate his or her functions if Power to delegate permitted by this Act or by the terms of the trust deed."
+    },
+    {
+     "ref": "(2)",
+     "text": "In exercising the power under subsection (1), the trustee may—"
+    }
+   ]
+  },
+  "53": {
+   "num": "53",
+   "title": "Power to appropriate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Subject to the terms of the trust deed and the duties of the trustee under this Act, a trustee may, without the consent of any beneficiary, appropriate trust property in or towards satisfaction of the interest of a beneficiary in such manner and in accordance with such valuation as he or she considers fit.",
+   "clauses": []
+  },
+  "54": {
+   "num": "54",
+   "title": "Power of sale and lease",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Subject to this Act and any other written law, where a trustee is authorised by the trust deed or by law to pay or apply capital money subject to the trust for any purpose or in any manner, the trustee shall have and shall be deemed always to have had the power to raise the money required by sale, conversion, calling in, leasing or mortgage of all or any part of the trust property for the time being in their possession.\n(2) Where a trust for a sale or a power of sale of a property is vested in a trustee, he or she may sell or concur with any other person in selling all or any part of the property either subject to prior charges or not, and either together or in lots, by public auction or by private contract, subject to any such conditions respecting title or evidence of title or other matter as the trustee thinks fit, with power to vary any contract for sale, and to buy in at any auction, or to rescind any contract for sale and to resell, without being answerable for any loss.\n(3) A trustee may lease out trust property on terms that are favourable to the trust.\n(4) Notwithstanding anything to the contrary contained in a trust deed, subsection (1) does not apply to trustees of property held for charitable purposes.\n(5) No sale made by a trustee shall be impeached by a beneficiary upon the grounds that any of the conditions subject to which the sale was made may have been unnecessarily depreciatory unless it also appears that the consideration for the sale was thereby rendered inadequate.\n(6) No sale made by a trustee shall, after the execution of the conveyance, be impeached as against the purchaser upon the ground that any of the conditions subject to which the sale was made may have been unnecessarily depreciatory, unless it appears that the purchaser was acting in collusion with the trustee at the time when the contract for sale was made.\n582 Trust Administration\n(7) No purchaser, upon any sale made by a trustee, may make any objection against the title upon any of the grounds specified in this section.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this Act and any other written law, where a trustee is authorised by the trust deed or by law to pay or apply capital money subject to the trust for any purpose or in any manner, the trustee shall have and shall be deemed always to have had the power to raise the money required by sale, conversion, calling in, leasing or mortgage of all or any part of the trust property for the time being in their possession."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a trust for a sale or a power of sale of a property is vested in a trustee, he or she may sell or concur with any other person in selling all or any part of the property either subject to prior charges or not, and either together or in lots, by public auction or by private contract, subject to any such conditions respecting title or evidence of title or other matter as the trustee thinks fit, with power to vary any contract for sale, and to buy in at any auction, or to rescind any contract for sale and to resell, without being answerable for any loss."
+    },
+    {
+     "ref": "(3)",
+     "text": "A trustee may lease out trust property on terms that are favourable to the trust."
+    },
+    {
+     "ref": "(4)",
+     "text": "Notwithstanding anything to the contrary contained in a trust deed, subsection (1) does not apply to trustees of property held for charitable purposes."
+    },
+    {
+     "ref": "(5)",
+     "text": "No sale made by a trustee shall be impeached by a beneficiary upon the grounds that any of the conditions subject to which the sale was made may have been unnecessarily depreciatory unless it also appears that the consideration for the sale was thereby rendered inadequate."
+    },
+    {
+     "ref": "(6)",
+     "text": "No sale made by a trustee shall, after the execution of the conveyance, be impeached as against the purchaser upon the ground that any of the conditions subject to which the sale was made may have been unnecessarily depreciatory, unless it appears that the purchaser was acting in collusion with the trustee at the time when the contract for sale was made."
+    },
+    {
+     "ref": "(7)",
+     "text": "No purchaser, upon any sale made by a trustee, may make any objection against the title upon any of the grounds specified in this section."
+    }
+   ]
+  },
+  "55": {
+   "num": "55",
+   "title": "Power to borrow",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Where a trustee is authorised by the trust deed, or by law to pay or apply capital money subject to the trust, the trustee shall have power to raise the money required by charging all or any part of the trust property for the time being in possession.",
+   "clauses": []
+  },
+  "56": {
+   "num": "56",
+   "title": "Power to distribute trust property",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "A trustee shall distribute the trust property in accordance with the trust deed or this Act.",
+   "clauses": []
+  },
+  "57": {
+   "num": "57",
+   "title": "Power to sue and settle claim",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "A trustee may sue or be sued in his or her capacity and may settle any action or claim brought by or against the trustee or in any way relating to the trust or the trust property.",
+   "clauses": []
+  },
+  "58": {
+   "num": "58",
+   "title": "Power of Attorney",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trustee may, subject to the provisions of this Act, any other written law and the terms of the trust deed, by a power of attorney, delegate for a period not exceeding three years, the performance of any trust or function vested in him or her as trustee, alone or jointly.\n(2) A power of attorney under this section is renewable in accordance with the terms of the trust deed for a further period of three years.\n(3) For the purposes of this section, a trustee who delegates a function by the power of attorney under this section shall be referred to as the “donor” and the person to whom the function is delegated shall be referred to as the “donee”.\n(4) Without prejudice to any applicable law, within twenty-one days of giving power of attorney under this section, the donor shall give a written notice or as may be prescribed to—\n  (a) every other person who, under the terms of the trust deed, has power, alone or jointly, to appoint a new trustee;\n  (b) every co-trustee; and\n  (c) the Registrar.\n(5) The notice under subsection (5) shall state—\n  (a) the date of commencement and duration of the power of attorney;\n  (b) the name and address of the donee;\n  (c) the reason for giving the power of attorney;\n  (d) the functions delegated; and\n  (e) any other information as may be prescribed in Regulations.\n(6) Any information that may be prescribed in the failure to comply with subsection (4) or (5) shall not invalidate anything done by the donee.\n(7) The donor is bound by and liable for all acts and omissions of the donee, done or purportedly done under the power of attorney as if they were his or her own acts and omissions.\n(8) The donee shall not delegate any of the delegated powers under the power of attorney.\n(9) Where a trustee fails to comply with the provisions of subsection (4), each trustee who is in default, commits an offence and on conviction is liable—\n  (a) if the offender is a natural person, to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding two years or to both; and\n  (b) if the offender is a body corporate, to a fine not exceeding two million shillings.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trustee may, subject to the provisions of this Act, any other written law and the terms of the trust deed, by a power of attorney, delegate for a period not exceeding three years, the performance of any trust or function vested in him or her as trustee, alone or jointly."
+    },
+    {
+     "ref": "(2)",
+     "text": "A power of attorney under this section is renewable in accordance with the terms of the trust deed for a further period of three years."
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purposes of this section, a trustee who delegates a function by the power of attorney under this section shall be referred to as the “donor” and the person to whom the function is delegated shall be referred to as the “donee”."
+    },
+    {
+     "ref": "(4)",
+     "text": "Without prejudice to any applicable law, within twenty-one days of giving power of attorney under this section, the donor shall give a written notice or as may be prescribed to—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The notice under subsection (5) shall state—"
+    },
+    {
+     "ref": "(6)",
+     "text": "Any information that may be prescribed in the failure to comply with subsection (4) or (5) shall not invalidate anything done by the donee."
+    },
+    {
+     "ref": "(7)",
+     "text": "The donor is bound by and liable for all acts and omissions of the donee, done or purportedly done under the power of attorney as if they were his or her own acts and omissions."
+    },
+    {
+     "ref": "(8)",
+     "text": "The donee shall not delegate any of the delegated powers under the power of attorney."
+    },
+    {
+     "ref": "(9)",
+     "text": "Where a trustee fails to comply with the provisions of subsection (4), each trustee who is in default, commits an offence and on conviction is liable—"
+    }
+   ]
+  },
+  "59": {
+   "num": "59",
+   "title": "Power to insure",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "A trustee may insure any property which is subject to the trust against risks of loss or damage due to any event and pay the premiums out of the trust funds.\nPART VIII — REMUNERATION, INDEMNITY AND LIABILITY OF A TRUSTEE",
+   "clauses": []
+  },
+  "60": {
+   "num": "60",
+   "title": "Remuneration and expenses",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trustee may, in respect of the execution of his or her official duties, receive remuneration as authorised by—\n  (a) the terms of the trust deed;\n  (b) the consent in writing of every beneficiary or an enforcer;\n  (c) an order of the court; or\n  (d) any other written law.\n(2) A trustee may pay from the trust property and may reimburse himself or herself from the trust property, for all 584 Trust Administration expenses and liabilities properly incurred in connection with the trust—\n  (a) in accordance with the terms of the trust deed or any other agreement; or\n  (b) with the approval of the enforcer, co-trustees or the beneficiaries.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trustee may, in respect of the execution of his or her official duties, receive remuneration as authorised by—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A trustee may pay from the trust property and may reimburse himself or herself from the trust property, for all 584 Trust Administration expenses and liabilities properly incurred in connection with the trust—"
+    }
+   ]
+  },
+  "61": {
+   "num": "61",
+   "title": "Liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Subject to the provisions of this Act and the Liability. terms of a trust deed, a trustee who commits or is party to a breach of trust is liable for—\n  (a) any loss or depreciation in value of the trust property resulting from the breach; and\n  (b) any profit which would have accrued to the trust had there been no breach.\n(2) In addition to the liability under subsection (1), a trustee who commits or is a party to a breach of trust is liable—\n  (a) where the trustee is a natural person, to an administrative penalty not exceeding one million shillings;\n  (b) where the trustee is a body corporate, to an administrative penalty not exceeding five million shillings.\n(3) A trustee shall not set off a profit accruing from one breach of trust against a loss or depreciation in value resulting from another.\n(4) A trustee is not liable for a breach of trust committed by another person prior to his or her appointment.\n(5) A trustee is not liable for a breach of trust committed by a co-trustee, unless—\n  (a) the trustee becomes aware or ought to have become aware of the commission of such breach or of the intention of his or her co-trustee to commit a breach of trust; and\n  (b) the trustee actively conceals such breach or such intention or fails within a reasonable time to take proper steps to protect or restore the trust property or prevent such breach.\n(6) Where two or more trustees are liable in respect of a breach of trust, they shall be liable jointly and severally.\n(7) A trustee who becomes aware of a breach of trust to which subsection (4) applies shall take all reasonable steps to have the breach remedied.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of this Act and the Liability. terms of a trust deed, a trustee who commits or is party to a breach of trust is liable for—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In addition to the liability under subsection (1), a trustee who commits or is a party to a breach of trust is liable—"
+    },
+    {
+     "ref": "(3)",
+     "text": "A trustee shall not set off a profit accruing from one breach of trust against a loss or depreciation in value resulting from another."
+    },
+    {
+     "ref": "(4)",
+     "text": "A trustee is not liable for a breach of trust committed by another person prior to his or her appointment."
+    },
+    {
+     "ref": "(5)",
+     "text": "A trustee is not liable for a breach of trust committed by a co-trustee, unless—"
+    },
+    {
+     "ref": "(6)",
+     "text": "Where two or more trustees are liable in respect of a breach of trust, they shall be liable jointly and severally."
+    },
+    {
+     "ref": "(7)",
+     "text": "A trustee who becomes aware of a breach of trust to which subsection (4) applies shall take all reasonable steps to have the breach remedied."
+    }
+   ]
+  },
+  "62": {
+   "num": "62",
+   "title": "Indemnity",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trust deed shall not—\n  (a) limit or exclude the trustee’s liability for any breach of trust arising from the trustee's dishonesty, willful misconduct or gross negligence; or\n  (b) give a trustee any indemnity against the trust property for liability for any breach of trust arising from the trustee's dishonesty, willful misconduct or gross negligence.\n(2) Subsection (1) shall apply to a trust created before or after the commencement of this Act.\n(3) The beneficiaries may—\n  (a) relieve a trustee of liability for any breach of trust; or\n  (b) indemnify a trustee against liability for any breach of trust done in good faith.\n(4) Subsection (3) shall not apply if a beneficiary—\n  (a) is a minor or person who has been declared to be of unsound mind under the Mental Health Act;\n  (b) does not have full knowledge of all the material facts; or\n  (c) is improperly induced by the trustee to act under subsection (3).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trust deed shall not—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Subsection (1) shall apply to a trust created before or after the commencement of this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "The beneficiaries may—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Subsection (3) shall not apply if a beneficiary—"
+    }
+   ]
+  },
+  "63": {
+   "num": "63",
+   "title": "Register and records to be kept by the trust",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trust shall keep—\n  (a) a certificate of registration or incorporation issued under this Act;\n  (b) a register of prescribed information relating to each settlor, trustee, beneficiaries, enforcers and beneficial owners;\n  (c) a copy of any statement and notices lodged with the Registrar under this Act;\n586 Trust Administration\n  (d) a copy of the trust deed and any amendment thereto;\n  (e) a list of trust property;\n  (f) a register of charges and security rights created under the Movable Property Security Rights Act; and\n  (g) any other documents that the Registrar may, from time to time, require to be kept.\n(2) A trust shall keep the documents in subsection (1) for a minimum period of seven years.\n(3) A trust and each trustee that fails to comply with this section commits an offence and is liable on conviction—\n  (a) if the offender is a natural person, to a fine not exceeding five hundred thousand shillings; and\n  (b) if the offender is a body corporate, to a fine not exceeding two million shillings.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trust shall keep—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A trust shall keep the documents in subsection (1) for a minimum period of seven years."
+    },
+    {
+     "ref": "(3)",
+     "text": "A trust and each trustee that fails to comply with this section commits an offence and is liable on conviction—"
+    }
+   ]
+  },
+  "64": {
+   "num": "64",
+   "title": "Accounting records",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Every trust shall keep such accounting and other records as may be prescribed in the Regulations to—\n  (a) show and explain the accounting transactions;\n  (b) disclose with reasonable accuracy the financial position of the trust;\n  (c) enable income and expenditure account and a balance sheet to be prepared, from time to time, that gives a true and fair view of the state of affairs of the trust; and\n  (d) comply with the prescribed financial accounting standards.\n(2) A trust shall retain its accounting records for not less than seven years after completion of the matters to which they relate.\n(3) A trust shall keep its accounting records in a manner that can be open to inspection as provided for under this Act.\n(4) If a trust fails to comply with this section, the trustee commits an offence and is liable upon conviction—\n587 Trust Administration\n  (a) if the offender is a natural person, to a fine not exceeding one hundred thousand shillings; and\n  (b) if the offender is a body corporate, to a fine not exceeding five hundred thousand shillings.\nPART IX — BENEFICIAL OWNERS OF A TRUST",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every trust shall keep such accounting and other records as may be prescribed in the Regulations to—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A trust shall retain its accounting records for not less than seven years after completion of the matters to which they relate."
+    },
+    {
+     "ref": "(3)",
+     "text": "A trust shall keep its accounting records in a manner that can be open to inspection as provided for under this Act."
+    },
+    {
+     "ref": "(4)",
+     "text": "If a trust fails to comply with this section, the trustee commits an offence and is liable upon conviction—"
+    }
+   ]
+  },
+  "65": {
+   "num": "65",
+   "title": "Register of beneficial owners",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Every trust shall compile and keep a register of Register of its beneficial owners.\nbeneficial owners.\n(2) A trust shall enter in the register of beneficial owners, information relating to the beneficial owners as prescribed in the Regulations.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every trust shall compile and keep a register of Register of its beneficial owners."
+    },
+    {
+     "ref": "(2)",
+     "text": "A trust shall enter in the register of beneficial owners, information relating to the beneficial owners as prescribed in the Regulations."
+    }
+   ]
+  },
+  "66": {
+   "num": "66",
+   "title": "Lodgement of the Register. 550 Trust Administration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trust shall lodge with the Registrar a copy of the register of beneficial owners referred to under section 65.\nLodgement of the register.\n(2) All trusts incorporated before the commencement of this Act shall lodge with the Registrar a copy of the register of beneficial owners within twenty-four months of coming into force of this Act.\n(3) The Registrar may, on the application of the trustee or for any other reason the Registrar deems fit, extend the period referred to in subsection (2).\n(4) A trustee who fails to comply with the provisions of this section shall be liable to an administrative penalty of—\n  (a) ten thousand shillings, if the trustee in default is a natural person; and\n  (b) twenty thousand shillings, if the trustee in default is a body corporate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trust shall lodge with the Registrar a copy of the register of beneficial owners referred to under section 65."
+    },
+    {
+     "ref": "(2)",
+     "text": "All trusts incorporated before the commencement of this Act shall lodge with the Registrar a copy of the register of beneficial owners within twenty-four months of coming into force of this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar may, on the application of the trustee or for any other reason the Registrar deems fit, extend the period referred to in subsection (2)."
+    },
+    {
+     "ref": "(4)",
+     "text": "A trustee who fails to comply with the provisions of this section shall be liable to an administrative penalty of—"
+    }
+   ]
+  },
+  "67": {
+   "num": "67",
+   "title": "Changes to the beneficial ownership",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trust shall update any changes to the beneficial ownership of the trust and shall lodge with the Registrar a copy of the changes to its register of beneficial owners within twenty-one days after making the change.\n(2) A trustee who fails to comply with provisions of this section shall be liable to an administrative penalty of—\n  (a) ten thousand shillings if the trustee in default is a natural person; and\n  (b) twenty thousand shillings if the trustee in default is a body corporate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trust shall update any changes to the beneficial ownership of the trust and shall lodge with the Registrar a copy of the changes to its register of beneficial owners within twenty-one days after making the change."
+    },
+    {
+     "ref": "(2)",
+     "text": "A trustee who fails to comply with provisions of this section shall be liable to an administrative penalty of—"
+    }
+   ]
+  },
+  "68": {
+   "num": "68",
+   "title": "Records of the beneficial ownership",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Every trust shall keep records of its beneficial owner’s information for at least seven years from the date which a person ceases to be a beneficial owner.\nRecords of beneficial owners.",
+   "clauses": []
+  },
+  "69": {
+   "num": "69",
+   "title": "Breach of this Part",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Registrar shall give a directive to a trust Breach of this that is in breach of this Part, specifying—\nPart.\n  (a) the statutory requirement of which the trustee is in breach;\n  (b) the action that the trustee is required to take;\n  (c) the timelines within which the trust should comply; and\n  (d) the consequence for failure to comply with the directive by the Registrar.\n(2) The Registrar shall, where the trustees fail to comply with the directive issued under subsection (1), issue a notice, addressed to the trustees, that upon the expiry of thirty days, the trustees may be disqualified.\n(3) Where the trustees fail to comply within the time prescribed in subsection (2), the Registrar shall publish in the Gazette an intention to have the trustees disqualified from acting as trustees of the trust.\n(4) At the end of the period specified in the gazette notice under subsection (3), the Registrar may, unless cause to the contrary is shown by the trustees, disqualify the trustees for a maximum period of three years and Gazette the names of the disqualified trustees.\n(5) Any person dissatisfied with the decision of the Registrar to disqualify a trustee under subsection (4) may appeal to court for such orders as the court may deem expedient.\nPART X — POWERS OF THE COURT IN RELATION TO VESTING ORDERS",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar shall give a directive to a trust Breach of this that is in breach of this Part, specifying—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar shall, where the trustees fail to comply with the directive issued under subsection (1), issue a notice, addressed to the trustees, that upon the expiry of thirty days, the trustees may be disqualified."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the trustees fail to comply within the time prescribed in subsection (2), the Registrar shall publish in the Gazette an intention to have the trustees disqualified from acting as trustees of the trust."
+    },
+    {
+     "ref": "(4)",
+     "text": "At the end of the period specified in the gazette notice under subsection (3), the Registrar may, unless cause to the contrary is shown by the trustees, disqualify the trustees for a maximum period of three years and Gazette the names of the disqualified trustees."
+    },
+    {
+     "ref": "(5)",
+     "text": "Any person dissatisfied with the decision of the Registrar to disqualify a trustee under subsection (4) may appeal to court for such orders as the court may deem expedient."
+    }
+   ]
+  },
+  "70": {
+   "num": "70",
+   "title": "Vesting orders",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A court may issue a vesting order in relation to property of a trust where—\n  (a) the trust does not have any person capable of acting in relation to the trust property; or\n  (b) the court appoints a trustee in relation to a trust where the trust did not have any trustee; or\n  (c) the court deems fit to issue such orders.\n(2) A vesting order under subsection (1) shall have the same effect as if the persons who would have had the powers to execute any document, had duly executed any document required to effect the transfer of the property.\n(3) The court may, in any case where it has powers to issue vesting orders, direct or appoint a person to execute any document required for the transfer or conveyance of the property of a trust.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A court may issue a vesting order in relation to property of a trust where—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A vesting order under subsection (1) shall have the same effect as if the persons who would have had the powers to execute any document, had duly executed any document required to effect the transfer of the property."
+    },
+    {
+     "ref": "(3)",
+     "text": "The court may, in any case where it has powers to issue vesting orders, direct or appoint a person to execute any document required for the transfer or conveyance of the property of a trust."
+    }
+   ]
+  },
+  "71": {
+   "num": "71",
+   "title": "Power to appoint person to convey",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Where a minor is beneficially entitled to any property, the court may, with a view to the application of the capital or income thereof for the maintenance, education or benefit of the minor, make an order appointing a person to convey or transfer the property.\nPART XI — PROVISIONS RELATING TO THE CHANGE OF NAME, FILING OF ANNUAL RETURNS AND APPOINTMENT OF TRUST AGENT",
+   "clauses": []
+  },
+  "72": {
+   "num": "72",
+   "title": "Change of name of a trust",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trust may, on application to the Registrar, change its name as may be prescribed in the Regulations.\n(2) On receiving an application of change of the name of the trust and on being satisfied that the new name complies with the requirements of this Act, the Registrar shall enter the new name on the register in place of the former name.\n(3) Upon registering the new name, the Registrar shall issue a certificate of change of name to the trust.\n(4) A change of a trust’s name shall have effect from the date on which the certificate of change of name is issued.\n(5) The change of name shall not affect any rights or obligations of the trust or invalidate any legal proceedings by or against it.\n(6) Any legal proceedings that might have been continued or commenced against it by its former name may be continued or commenced against it by its new name.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trust may, on application to the Registrar, change its name as may be prescribed in the Regulations."
+    },
+    {
+     "ref": "(2)",
+     "text": "On receiving an application of change of the name of the trust and on being satisfied that the new name complies with the requirements of this Act, the Registrar shall enter the new name on the register in place of the former name."
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon registering the new name, the Registrar shall issue a certificate of change of name to the trust."
+    },
+    {
+     "ref": "(4)",
+     "text": "A change of a trust’s name shall have effect from the date on which the certificate of change of name is issued."
+    },
+    {
+     "ref": "(5)",
+     "text": "The change of name shall not affect any rights or obligations of the trust or invalidate any legal proceedings by or against it."
+    },
+    {
+     "ref": "(6)",
+     "text": "Any legal proceedings that might have been continued or commenced against it by its former name may be continued or commenced against it by its new name."
+    }
+   ]
+  },
+  "73": {
+   "num": "73",
+   "title": "Power to direct change of name by the Registrar",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Registrar may direct a trust to change its name if it has been registered or incorporated by a name that is the same as or, in the opinion of the Registrar, is—\n  (a) too similar to a name appearing at the time of the registration or incorporation in the Registrar's index of names;\n590 Trust Administration\n  (b) too similar to a name that has been reserved; or\n  (c) contravenes the provisions of this Act or the Regulations made hereunder.\n(2) In giving a direction under subsection (1), the Registrar shall require the trust to comply with the direction within the time specified in the directive.\n(3) If the trust fails to comply with a direction given to it under this section, the trust and each trustee who is in default, commits an offence and shall be liable on conviction—\n  (a) if the offender is a natural person, to a fine not exceeding five hundred thousand shillings; and\n  (b) if the offender is a body corporate, to a fine not exceeding two million shillings.\n(4) Any person with a legitimate interest may, in writing, apply to the Registrar to give a direction to a trust, to change its name on any of the grounds specified under subsection (1).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar may direct a trust to change its name if it has been registered or incorporated by a name that is the same as or, in the opinion of the Registrar, is—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In giving a direction under subsection (1), the Registrar shall require the trust to comply with the direction within the time specified in the directive."
+    },
+    {
+     "ref": "(3)",
+     "text": "If the trust fails to comply with a direction given to it under this section, the trust and each trustee who is in default, commits an offence and shall be liable on conviction—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person with a legitimate interest may, in writing, apply to the Registrar to give a direction to a trust, to change its name on any of the grounds specified under subsection (1)."
+    }
+   ]
+  },
+  "74": {
+   "num": "74",
+   "title": "Trust may apply to court for order to quash the direction under section 73",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trust dissatisfied with the decision by the Registrar to issue a directive may apply to court for remedy.\n(2) In considering an application under subsection (1), the court may take into consideration the effect of sustaining similar names in the index of registered names held by the Registrar.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trust dissatisfied with the decision by the Registrar to issue a directive may apply to court for remedy."
+    },
+    {
+     "ref": "(2)",
+     "text": "In considering an application under subsection (1), the court may take into consideration the effect of sustaining similar names in the index of registered names held by the Registrar."
+    }
+   ]
+  },
+  "75": {
+   "num": "75",
+   "title": "Annual returns",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trust shall file its annual returns with the Registrar within thirty days of the anniversary of its registration or incorporation under this Act.\n(2) The annual returns referred to under subsection (1) shall contain information prescribed in the Regulations.\n(3) If a trust fails to comply with the requirements of subsection (1), the trust or any trustee of the trust in default is liable to pay to the Registrar an administrative penalty of three thousand shillings for each year of default.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trust shall file its annual returns with the Registrar within thirty days of the anniversary of its registration or incorporation under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual returns referred to under subsection (1) shall contain information prescribed in the Regulations."
+    },
+    {
+     "ref": "(3)",
+     "text": "If a trust fails to comply with the requirements of subsection (1), the trust or any trustee of the trust in default is liable to pay to the Registrar an administrative penalty of three thousand shillings for each year of default."
+    }
+   ]
+  },
+  "76": {
+   "num": "76",
+   "title": "Trust agent",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trust agent is a person who has been appointed by the trustee to offer services to a trust including—\n  (a) trust formation and set up including offering advisory services, preparing registration or incorporation documents and ensuring the trust complies with the relevant laws and regulations;\n  (b) providing a registered office address for a family trust; or\n  (c) lodging statutory documents on behalf of the trust.\n(2) A trustee shall notify the Registrar of any appointment or termination made of a trust agent appointed for the purposes of lodging statutory documents on behalf of a trust or appointed to provide address or keep records on behalf of the trust within twenty-one days of appointment.\n(3) A trust agent appointed for purposes of subsection (2) shall be an advocate of the High Court of Kenya, a Certified Secretary or a Certified Accountant:\nProvided that nothing in this section shall be construed as permitting an unqualified person to draw documents required to be drawn by an advocate under the Advocates Act.\n(4) A trust agent shall keep records of all transactions with the trust for a period of not less than seven years from the time they cease acting as a trust agent of the trust.\n(5) A trust agent shall, upon request by a competent authority, disclose such information within fourteen days of such a request.\nPART XII—REGISTRAR AND REGISTER OF TRUSTS",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trust agent is a person who has been appointed by the trustee to offer services to a trust including—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A trustee shall notify the Registrar of any appointment or termination made of a trust agent appointed for the purposes of lodging statutory documents on behalf of a trust or appointed to provide address or keep records on behalf of the trust within twenty-one days of appointment."
+    },
+    {
+     "ref": "(3)",
+     "text": "A trust agent appointed for purposes of subsection (2) shall be an advocate of the High Court of Kenya, a Certified Secretary or a Certified Accountant:"
+    },
+    {
+     "ref": "(4)",
+     "text": "A trust agent shall keep records of all transactions with the trust for a period of not less than seven years from the time they cease acting as a trust agent of the trust."
+    },
+    {
+     "ref": "(5)",
+     "text": "A trust agent shall, upon request by a competent authority, disclose such information within fourteen days of such a request."
+    }
+   ]
+  },
+  "77": {
+   "num": "77",
+   "title": "Designation of the Registrar and other officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) There shall be a Registrar of Trusts which shall be an office within the Business Registration Service.\n(2) The Registrar of Trusts shall be responsible for the setting up of the registry and maintenance of the Register of Trusts as required under this or any other law.\n(3) There shall be a Deputy Registrar of Trusts and such other Assistant Registrars of Trusts as may be necessary for the proper performance of the functions of the office.\n(4) The Registrar may authorise the Deputy Registrar or an Assistant Registrar to perform and exercise such functions and powers as the Registrar may from time to time specify.\nCap. 16.\n592 Trust Administration\n(5) Functions and powers of the Registrar performed or exercised in accordance with an authority conferred under subsection (4) shall be deemed to have been performed or exercised by the Registrar.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Registrar of Trusts which shall be an office within the Business Registration Service."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar of Trusts shall be responsible for the setting up of the registry and maintenance of the Register of Trusts as required under this or any other law."
+    },
+    {
+     "ref": "(3)",
+     "text": "There shall be a Deputy Registrar of Trusts and such other Assistant Registrars of Trusts as may be necessary for the proper performance of the functions of the office."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Registrar may authorise the Deputy Registrar or an Assistant Registrar to perform and exercise such functions and powers as the Registrar may from time to time specify."
+    },
+    {
+     "ref": "(5)",
+     "text": "Functions and powers of the Registrar performed or exercised in accordance with an authority conferred under subsection (4) shall be deemed to have been performed or exercised by the Registrar."
+    }
+   ]
+  },
+  "78": {
+   "num": "78",
+   "title": "The Register and functions of the Registrar",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Registrar shall keep a Register of trusts.\n(2) The Register shall contain—\n  (a) the information relating to trusts that is contained in documents lodged or filed with, or delivered to, the Registrar under this or any other Act; and\n  (b) certificates of registration and incorporation of trusts issued by the Registrar.\n(3) The Registrar shall keep records of dissolved trusts for at least seven years.\n(4) The Registrar shall record and keep the information contained in documents lodged with the Registrar in such form, including electronic form, as may be prescribed in the Regulations.\n(5) The Registrar shall ensure that all records kept by the Registrar are in such form as will enable all the information contained in the records to be readily retrieved for inspection and copied.\n(6) If the records are kept in electronic form, the Registrar shall ensure that they are capable of being reproduced in hard copy form.\n(7) The Registrar shall perform such other functions conferred on the Registrar by this Act or any other law.\n(8) The Registrar may disclose the information maintained in subsection (2)—\n  (a) to the trustees of a trust, enforcer, beneficiary or settlor where the settlor has reserved powers under the trust deed;\n  (b) to competent authorities upon written request or any other means as the Registrar may specify;\n  (c) to regulatory bodies including self-regulatory bodies regulating or supervising for money laundering, terrorism financing and proliferation of weapons of mass destruction;\n  (d) to any person or institution designated as a reporting institution under the Proceeds of Crime and Anti-Money Laundering Act;\nCap. 59A.\n  (e) to any other person permitted by any written law in Kenya; or\n  (f) where the Court orders such information to be disclosed.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar shall keep a Register of trusts."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Register shall contain—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall keep records of dissolved trusts for at least seven years."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Registrar shall record and keep the information contained in documents lodged with the Registrar in such form, including electronic form, as may be prescribed in the Regulations."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Registrar shall ensure that all records kept by the Registrar are in such form as will enable all the information contained in the records to be readily retrieved for inspection and copied."
+    },
+    {
+     "ref": "(6)",
+     "text": "If the records are kept in electronic form, the Registrar shall ensure that they are capable of being reproduced in hard copy form."
+    },
+    {
+     "ref": "(7)",
+     "text": "The Registrar shall perform such other functions conferred on the Registrar by this Act or any other law."
+    },
+    {
+     "ref": "(8)",
+     "text": "The Registrar may disclose the information maintained in subsection (2)—"
+    }
+   ]
+  },
+  "79": {
+   "num": "79",
+   "title": "Power to issue directives by the Registrar",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Registrar may issue a directive to an existing trust to provide information that is required to be kept by the Registrar under this Act and is not available in relation to the trust.\n(2) The directive requiring an existing trust to provide information shall stipulate the timelines within which to comply with the notice and shall indicate all the information required to be furnished with the Registrar.\n(3) The Registrar shall, where the trustees fail to comply with the directive issued under subsection (2), issue a notice, addressed to the trustees that upon the expiry of thirty days, the trustees may be gazetted for disqualification.\n(4) Where the trustees fail to comply within the time prescribed in subsection (3), the Registrar shall publish in the Gazette an intention to have the trustees of the trust disqualified from acting as trustees of the trust.\n(5) At the end of the period specified in the notice under subsection (4), the Registrar may, unless cause to the contrary is previously shown by the trustees, disqualify the trustees for a maximum period of three years and Gazette the names of the disqualified trustees.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar may issue a directive to an existing trust to provide information that is required to be kept by the Registrar under this Act and is not available in relation to the trust."
+    },
+    {
+     "ref": "(2)",
+     "text": "The directive requiring an existing trust to provide information shall stipulate the timelines within which to comply with the notice and shall indicate all the information required to be furnished with the Registrar."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall, where the trustees fail to comply with the directive issued under subsection (2), issue a notice, addressed to the trustees that upon the expiry of thirty days, the trustees may be gazetted for disqualification."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where the trustees fail to comply within the time prescribed in subsection (3), the Registrar shall publish in the Gazette an intention to have the trustees of the trust disqualified from acting as trustees of the trust."
+    },
+    {
+     "ref": "(5)",
+     "text": "At the end of the period specified in the notice under subsection (4), the Registrar may, unless cause to the contrary is previously shown by the trustees, disqualify the trustees for a maximum period of three years and Gazette the names of the disqualified trustees."
+    }
+   ]
+  },
+  "80": {
+   "num": "80",
+   "title": "Electronic lodgment of documents with Registrar",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Registrar may require any document to be lodged under this Act to be lodged electronically subject to such conditions, if any, as the Registrar may impose from time to time.",
+   "clauses": []
+  },
+  "81": {
+   "num": "81",
+   "title": "Registrar’s official seal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Registrar shall have an official seal for the authentication of documents in connection with the performance of the Registrar’s functions.",
+   "clauses": []
+  },
+  "82": {
+   "num": "82",
+   "title": "Rectification",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A trustee may apply to the Registrar for rectification of the register, in respect of which an entry in a register—\n  (a) has been omitted;\n594 Trust Administration\n  (b) is incorrect; or\n  (c) has been included in error.\n(2) Upon receipt of the application under subsection (1), the Registrar may require the applicant to produce such documents or furnish such information as the Registrar deems necessary in order to determine whether the register should be rectified.\n(3) The Registrar shall give notice of that application to such other person as Registrar may identify being a person who appears to the Registrar to be concerned or to have an interest in the trust.\n(4) Upon expiry of the period prescribed under the notice in subsection (3), the Registrar may proceed to rectify the register where no objection is received from persons notified in subsection (3).\n(5) The Registrar may, without an application being made under subsection (1), rectify the register where, in the view of the Registrar an entry—\n  (a) has been omitted;\n  (b) is incorrect; or\n  (c) has been included in error:\nProvided that the Registrar shall consider fair administrative action before rectifying the register.\n(6) A person aggrieved by the decision of the Registrar under this section may appeal to the High Court for determination.\n(7) Nothing in this section shall be construed as permitting the rectification, amendment, or alteration of the substantive content of the trust deed.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A trustee may apply to the Registrar for rectification of the register, in respect of which an entry in a register—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Upon receipt of the application under subsection (1), the Registrar may require the applicant to produce such documents or furnish such information as the Registrar deems necessary in order to determine whether the register should be rectified."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall give notice of that application to such other person as Registrar may identify being a person who appears to the Registrar to be concerned or to have an interest in the trust."
+    },
+    {
+     "ref": "(4)",
+     "text": "Upon expiry of the period prescribed under the notice in subsection (3), the Registrar may proceed to rectify the register where no objection is received from persons notified in subsection (3)."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Registrar may, without an application being made under subsection (1), rectify the register where, in the view of the Registrar an entry—"
+    },
+    {
+     "ref": "(6)",
+     "text": "A person aggrieved by the decision of the Registrar under this section may appeal to the High Court for determination."
+    },
+    {
+     "ref": "(7)",
+     "text": "Nothing in this section shall be construed as permitting the rectification, amendment, or alteration of the substantive content of the trust deed."
+    }
+   ]
+  },
+  "83": {
+   "num": "83",
+   "title": "Fees payable to the Registrar",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) There shall be prescribed fees payable to the Fees payable to Registrar in respect of—\nthe Registrar.\n  (a) the performance of a function imposed on the Registrar by this or any other Act; or\n  (b) the provision by the Registrar of services or facilities for a purpose connected with the performance of any of the Registrar's functions under this Act;\n  (c) the receipt of documents lodged with the Registrar for registration or incorporation under this or any other Act; and\n  (d) the provision of copies of documents or parts of documents forming part of the Register.\n(2) In respect of the performance of functions, or the provision of services or facilities, by the Registrar—\n  (a) for which fees are not provided for by the Regulations; or\n  (b) in circumstances other than those for which fees are provided for by Regulations, the Registrar may determine from time-to-time what fees, if any, are chargeable.\n(3) The Registrar shall be responsible for ensuring that—\n  (a) fees received by the Registrar;\n  (b) such moneys as may accrue to, or vest in the Registry in the course of the exercise of its powers or the performance of it functions under this Act or any other written law;\n  (c) such monies may be payable to the Registry pursuant to this Act or any other written law;\n  (d) such gifts as may be donated to the Registry pursuant to this Act or any other written law;\n  (e) such money as may be appropriated by the National Assembly for the Registry pursuant to this Act or any other written law; and\n  (f) money from any other source granted, donated or lent to the Registry, are managed or utilised for the purposes of this Act in accordance with the Public Finance Management Act.\nCap. 412A.\nPART XIII— DISSOLUTION OF A TRUST",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be prescribed fees payable to the Fees payable to Registrar in respect of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In respect of the performance of functions, or the provision of services or facilities, by the Registrar—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall be responsible for ensuring that—"
+    }
+   ]
+  },
+  "84": {
+   "num": "84",
+   "title": "Dissolution of a trust",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) On application by the trustee of a trust or other person authorized under the trust deed, the Registrar may dissolve a trust.\n(2) An application for dissolution of a trust is effective only if—\n596 Trust Administration\n  (a) the purpose of the trust has been fulfilled or has otherwise ceased to exist in accordance with the trust deed or this Act;\n  (b) the trustee demonstrates that it is impossible to achieve the purpose of the trust in accordance with the terms of the trust deed; or\n  (c) a court has ordered that the trust be dissolved.\n(3) An application under this section shall be—\n  (a) in the prescribed form;\n  (b) made on behalf of the trust by—\n  (i) the trustees accompanied by a resolution, outlining the reasons and confirming that all conditions for dissolution as set out in the trust deed have been met; or\n  (ii) the settlor, where such powers have been reserved under the trust deed; or\n  (c) made in compliance with a court order; and\n  (d) accompanied by any other information as may be prescribed in the Regulations.\n(4) The Registrar may not dissolve a trust under this section until after three months from the date of the publication of a notice in the Gazette—\n  (a) stating that the Registrar may exercise the power under this section in relation to the trust; and\n  (b) inviting any person to show cause why the trust should not be dissolved.\n(5) Subject to subsection (4), the Registrar shall publish in the Gazette, a notice that the trust has been dissolved.\n(6) On publication of the notice under subsection (5), the trust shall be deemed dissolved.\n(7) Notwithstanding the provisions of subsection (6)—\n  (a) any liability incurred by a trustee of the trust shall continue to accrue to that trustee and may be enforced as if the trust had not been dissolved; and\n  (b) nothing in this section shall affect the power of the court to liquidate a trust which is dissolved under this section.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "On application by the trustee of a trust or other person authorized under the trust deed, the Registrar may dissolve a trust."
+    },
+    {
+     "ref": "(2)",
+     "text": "An application for dissolution of a trust is effective only if—"
+    },
+    {
+     "ref": "(3)",
+     "text": "An application under this section shall be—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The Registrar may not dissolve a trust under this section until after three months from the date of the publication of a notice in the Gazette—"
+    },
+    {
+     "ref": "(5)",
+     "text": "Subject to subsection (4), the Registrar shall publish in the Gazette, a notice that the trust has been dissolved."
+    },
+    {
+     "ref": "(6)",
+     "text": "On publication of the notice under subsection (5), the trust shall be deemed dissolved."
+    },
+    {
+     "ref": "(7)",
+     "text": "Notwithstanding the provisions of subsection (6)—"
+    }
+   ]
+  },
+  "85": {
+   "num": "85",
+   "title": "Withdrawal of an application to dissolve",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) An applicant may, at any time before a trust is Withdrawal of an dissolved under section 84 of this Act, withdraw an application to dissolve.\napplication for dissolution.\n(2) Upon receipt of the notice of withdrawal under subsection (1), the Registrar shall—\n  (a) notify the trust that the application to dissolve the trust has been withdrawn; and\n  (b) where a notice of intention to dissolve the trust had been published, publish a notice in the Gazette indicating that the application to dissolve has been withdrawn.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An applicant may, at any time before a trust is Withdrawal of an dissolved under section 84 of this Act, withdraw an application to dissolve."
+    },
+    {
+     "ref": "(2)",
+     "text": "Upon receipt of the notice of withdrawal under subsection (1), the Registrar shall—"
+    }
+   ]
+  },
+  "86": {
+   "num": "86",
+   "title": "Restoration where dissolution was by mistake",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Registrar may restore the name of a trust Restoration where to the Register if satisfied that the dissolution of the trust is dissolution was by mistake.\nas a result of a mistake of the Registrar.\n(2) For purposes of subsection (1), “a mistake of the Registrar” excludes a mistake that is made on the basis of wrong, false or misleading information given by the applicant in connection with the application for dissolution of the name of the trust from the Register.\n(3) The Registrar shall act within a reasonable time after identification of a mistake to have the name of the trust restored in the register.\n(4) The Registrar may restore the name of a trust to the Register by publishing in the Gazette, a notice declaring the restoration and which shall take effect on the date of publication of the notice.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar may restore the name of a trust Restoration where to the Register if satisfied that the dissolution of the trust is dissolution was by mistake."
+    },
+    {
+     "ref": "(2)",
+     "text": "For purposes of subsection (1), “a mistake of the Registrar” excludes a mistake that is made on the basis of wrong, false or misleading information given by the applicant in connection with the application for dissolution of the name of the trust from the Register."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall act within a reasonable time after identification of a mistake to have the name of the trust restored in the register."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Registrar may restore the name of a trust to the Register by publishing in the Gazette, a notice declaring the restoration and which shall take effect on the date of publication of the notice."
+    }
+   ]
+  },
+  "87": {
+   "num": "87",
+   "title": "Restoration by Court",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) An application may be made to the court to Restoration by restore the name of a trust that has been dissolved.\nCourt.\n(2) An application under subsection (1) may be made by—\n  (a) the trustee;\n  (b) beneficiaries of the trust; or\n  (c) any person who would appear to the court to have a legitimate interest in the trust.\n598 Trust Administration",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An application may be made to the court to Restoration by restore the name of a trust that has been dissolved."
+    },
+    {
+     "ref": "(2)",
+     "text": "An application under subsection (1) may be made by—"
+    }
+   ]
+  },
+  "88": {
+   "num": "88",
+   "title": "Effect of restoration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Where the name of a trust is restored to the Register under this Act, the trust shall be deemed to be in existence as if its name had not been dissolved and shall maintain the same legal status as before the dissolution.\n(2) The trust shall not be liable for any liability arising from an obligation to file any document with the Registrar during the time within which it was dissolved.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the name of a trust is restored to the Register under this Act, the trust shall be deemed to be in existence as if its name had not been dissolved and shall maintain the same legal status as before the dissolution."
+    },
+    {
+     "ref": "(2)",
+     "text": "The trust shall not be liable for any liability arising from an obligation to file any document with the Registrar during the time within which it was dissolved."
+    }
+   ]
+  },
+  "89": {
+   "num": "89",
+   "title": "Dealings with property upon dissolution",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Upon dissolution of a trust, the property held Dealings with by the trust or the trustees shall be dealt with in accordance property upon dissolution.\nwith the provisions of the trust deed or applicable law.\n(2) Where the trust deed does not have provisions in relation to the property in the event of dissolution, the Court shall make a determination on how the property shall be dealt with.\nPART XIV — MISCELLANEOUS PROVISIONS",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Upon dissolution of a trust, the property held Dealings with by the trust or the trustees shall be dealt with in accordance property upon dissolution."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the trust deed does not have provisions in relation to the property in the event of dissolution, the Court shall make a determination on how the property shall be dealt with."
+    }
+   ]
+  },
+  "90": {
+   "num": "90",
+   "title": "Electronic filing and keeping of records",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Any filing required to be made with the Registrar under this Act may be filed electronically.\n(2) Any record required to be kept by the Registrar or any other person under this Act may be kept in electronic form.\n(3) The Registrar is under no obligation to keep the originals of documents lodged in electronic form so long as the information contained in them has been recorded in the Register.\n(4) The Registrar may not certify copies of records provided in electronic form as true copies unless the applicant expressly requests that certification.\n(5) Regulations may prescribe the mode of electronic lodgement or manner in which electronic records may be kept.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any filing required to be made with the Registrar under this Act may be filed electronically."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any record required to be kept by the Registrar or any other person under this Act may be kept in electronic form."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar is under no obligation to keep the originals of documents lodged in electronic form so long as the information contained in them has been recorded in the Register."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Registrar may not certify copies of records provided in electronic form as true copies unless the applicant expressly requests that certification."
+    },
+    {
+     "ref": "(5)",
+     "text": "Regulations may prescribe the mode of electronic lodgement or manner in which electronic records may be kept."
+    }
+   ]
+  },
+  "91": {
+   "num": "91",
+   "title": "Compliance to the Data Protection Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Any person processing personal data under this Act shall comply with the Data Protection Act.",
+   "clauses": []
+  },
+  "92": {
+   "num": "92",
+   "title": "Lodging of false or misleading documents",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "A person who—\n  (a) lodges or causes to be lodged with the Registrar, a document containing information; or Compliance to the Data Protection Act Cap. 411C.\n  (b) makes a statement to the Registrar for any purpose that the person knows, or has reason to suspect, 599 Trust Administration that is false or misleading in a material respect commits an offence and on conviction is liable to a fine not exceeding one million shillings or imprisonment for a term not exceeding two years, or to both.",
+   "clauses": []
+  },
+  "93": {
+   "num": "93",
+   "title": "General penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "A person who is convicted of an offence, under General penalty. this Act, for which no penalty is specifically provided for, shall be liable to a fine not exceeding one million shillings.",
+   "clauses": []
+  },
+  "94": {
+   "num": "94",
+   "title": "Dispute resolution",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Any dispute in relation to a trust shall be Dispute determined in accordance with the dispute resolution resolution. mechanisms set out in the trust deed.\n(2) Where the trust deed does not prescribe a method of dispute resolution, the dispute shall be determined by the High Court.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any dispute in relation to a trust shall be Dispute determined in accordance with the dispute resolution resolution. mechanisms set out in the trust deed."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the trust deed does not prescribe a method of dispute resolution, the dispute shall be determined by the High Court."
+    }
+   ]
+  },
+  "95": {
+   "num": "95",
+   "title": "Exemption from the provisions of the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A charitable trust registered or incorporated Exemption from under this Act may apply to the Attorney-General for the provisions of the Act.\nexemption from any of the provisions of the Act.\n(2) The application under subsection (1) shall state the reasons for seeking the exemption.\n(3) The Attorney-General may grant an exemption on such terms as he or she may consider necessary, subject to prior approval by the committee of the National Assembly responsible for delegated legislation.\nPART XV— PROVISIONS ON DELEGATED POWERS",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A charitable trust registered or incorporated Exemption from under this Act may apply to the Attorney-General for the provisions of the Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The application under subsection (1) shall state the reasons for seeking the exemption."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Attorney-General may grant an exemption on such terms as he or she may consider necessary, subject to prior approval by the committee of the National Assembly responsible for delegated legislation."
+    }
+   ]
+  },
+  "96": {
+   "num": "96",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Attorney-General may make Regulations, not inconsistent with the provisions of this Act, containing provisions as may be necessary to give effect to the provisions of this Act.\n(2) Without prejudice to the generality of subsection (1), the Regulations made under this Act may prescribe—\n  (a) manner and form of lodgment of any document required to lodged under this Act;\n  (b) fees for services offered under this Act;\n  (c) requirements to be met by corporate trustees;\n  (d) disqualification of trustees;\n  (e) manner and form of documents issued by the Registrar;\n600 Trust Administration\n  (f) manner of access to information required to be shared under this Act;\n  (g) procedure and requirements for electronic lodgments;\n  (h) beneficial ownership information;\n  (i) the manner and form of applying for an exemption from the provisions of the Act;\n  (j) licensing of corporate trustees; and\n  (k) any other information required to be prescribed by the Registrar under this Act.\nPART XVI— REPEAL, TRANSITIONAL AND SAVINGS PROVISIONS",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Attorney-General may make Regulations, not inconsistent with the provisions of this Act, containing provisions as may be necessary to give effect to the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), the Regulations made under this Act may prescribe—"
+    }
+   ]
+  },
+  "97": {
+   "num": "97",
+   "title": "Consequential amendment to Cap. 285",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Section 4 of the Registration of Documents Act is amended in subsection (1) by inserting the following paragraph immediately after paragraph (vii)—\n  (viii) a trust deed or deed of appointment of trustees registered under the Trust Administration Act.",
+   "clauses": []
+  },
+  "98": {
+   "num": "98",
+   "title": "Consequential amendments to Cap. 499B",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Business Registration Service Act is amended—\n  (a) in the long title, by inserting the word “trust” immediately after the word “firms”; and\n  (b) in section 4, by inserting the word “trusts” immediately after the word “bankruptcy” appearing in subsection (1).",
+   "clauses": []
+  },
+  "99": {
+   "num": "99",
+   "title": "Repeal. 552 Trust Administration THE TRUST ADMINISTRATION ACT, 2026",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Upon the coming into effect of this Act, the following Acts are repealed—\n  (a) the Trustees (Perpetual Succession) Act; and\n  (b) the Trustees Act.\n(2) Despite the repeal of the laws in subsection (1)—\n  (a) a trust, which has been duly incorporated under the Trustees (Perpetual Succession) Act (now repealed) and is in existence at the commencement of this Act or created as a result of registration of the deed under the Registration of Documents Act shall be deemed to be a Trust under this Act;\nConsequential amendment to Cap. 285.\nConsequential amendments to Cap. 499B.\nRepeal. Cap. 164. Cap. 167.\nCap. 285.\n  (b) all existing trusts shall be required to comply with the requirements of this Act within twenty-four months of coming into effect of this Act or any such time as the Registrar may direct;\n  (c) all rights, powers, liabilities and duties, whether arising under any written law or otherwise, which immediately before coming into operation of this Act were vested in, imposed on or enforceable by or against the existing trust, shall be transferred to, vested in, imposed on or be enforceable by or against the trust under this Act;\n  (d) the settlor, trustee, beneficiary or enforcer of any existing trust shall on the date of the commencement of this Act be deemed to be the settlor, trustee, beneficiary or enforcer under this Act.\n(3) The Registrar may issue an existing trust with a new certificate of incorporation for trusts incorporated before the coming into effect of this Act and recall all certificates issues under the repealed Trustees (Perpetual Succession) Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Upon the coming into effect of this Act, the following Acts are repealed—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Despite the repeal of the laws in subsection (1)—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar may issue an existing trust with a new certificate of incorporation for trusts incorporated before the coming into effect of this Act and recall all certificates issues under the repealed Trustees (Perpetual Succession) Act."
+    }
+   ]
+  }
+ },
+ "schedules": []
+}

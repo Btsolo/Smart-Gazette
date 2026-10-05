@@ -1,0 +1,709 @@
+{
+ "title": "Nurses and Midwives Act",
+ "citation": "Cap. 257",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1983/3/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "NURSES AND MIDWIVES ACT CAP. 257 Published in Kenya Gazette Vol. LXXXV—No. 27 on 27 May 1983 Assented to on 18 May 1983 Commenced on 10 June 1983 by Nurses Act Commencement\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2002 (Act No. 2 of 2002) on 7 June 2002] [Amended by Nurses (Amendment) Act, 2011 (Act No. 27 of 2011) on 17 October 2011] [Amended by Health Laws (Amendment) Act, 2019 (Act No. 5 of 2019) on 17 May 2017] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to make provision for the training, registration, enrolment and licensing of nurses, to regulate their conduct and to ensure their maximum participation in the health care of the community and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ADMINISTRATION",
+   "provisions": [
+    "3",
+    "4",
+    "4A",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "REGISTRATION, ENROLMENT AND LICENSING",
+   "provisions": [
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+   ]
+  },
+  {
+   "id": "part_IIIA",
+   "num": "IIIA",
+   "title": "DISCIPLINARY PROVISIONS",
+   "provisions": [
+    "18A",
+    "18B"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "27A",
+    "27B",
+    "28"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Nurses and Midwives Act. [Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires—\n\"approved institution\" means an institution for the training of persons seeking registration or enrolment under this Act and which has been declared by notice in the Gazette to be so approved by the Cabinet Secretary on the recommendation of the Council;\n\"Cabinet Secretary” means the person for the time being responsible for matters relating to health;\n\"Council” means the Nursing Council of Kenya established by section 3;\n“enrolled” means entered on a roll;\n\"enrolled community health nurse\" means a person who has undergone training in an approved nursing programme in an approved institution and has been enrolled and licensed by the Council;\n“health institution” means a hospital, nursing home, convalescent home, maternity home, health centre, dispensary or other institution where health or medical services are rendered, either free or on the payment of fees;\n\"licence\" means a licence to practise nursing or midwifery granted under section 17;\n“local supervising authority” means a local authority or a person appointed by the Cabinet Secretary on the recommendation of the Council to carry out, within such areas as the Cabinet Secretary shall specify, the powers and duties which may be prescribed by regulations made under section 26;\n“medical practitioner” means a person registered under the Medical Practitioners and Dentists Act (Cap. 253) as a medical practitioner;\n\"member” means a member of the Council;\n\"midwife\" means a person who has successfully completed midwifery education programme based on the essential competences for basic midwifery practice according to global standards of midwifery education and is recognized and licensed in the country of origin;\n\"nurse” means a person who is authorized by licensure to practice as an enrolled or registered nurse;\n“nurse educator community health nursing” means a registered nurse who is also a registered midwife and registered community health nurse who holds a teaching diploma or degree in community health approved by the Council;\n“nurse educator general” means a registered nurse who holds a teaching diploma or degree in general nursing approved by the Council;\n“nurse educator midwifery” means a registered nurse who is also a registered midwife and who holds a teaching degree or diploma in midwifery approved by the Council;\n“nurse educator psychiatric nursing” means a registered nurse who is also a registered psychiatric nurse and who holds a teaching diploma or degree in psychiatric nursing approved by the Council;\n\"post basic\" means acquiring a second qualification after initial entry into the profession through a basic nursing course;\n\"private practice\" means the engagement as a registered or enrolled nurse or midwife in the provision of nursing care in the private sector in an independent capacity;\n“register” means any of the registers required to be kept under section 12, and “registered” means entered in any of those registers;\n“registered community health nurse” means a person whose name appears in the register kept by the Registrar under section 12(1)(c);\n“registered nurse” means a person whose name appears in the register kept by the Registrar under section 12(1)(a);\n“registered psychiatric nurse” means a person whose name appears in the register kept by the Registrar under section 12(1)(d);\n2 “Registrar” means the Registrar of the Council appointed under section 11;\n“retention fee” means a fee prescribed under section 11(4);\nand clinical competencies for expanded practice and who has a master's degree or above from a recognized university in any of the following disciplines—\n  (a) midwifery;\n  (b) medical surgical nursing;\n  (c) paediatrics nursing;\n  (d) oncology and palliative care nursing;\n  (e) forensic nursing;\n  (f) community health nursing;\n  (g) nursing education;\n  (h) nursing management and leadership;\n  (i) mental health nursing;\n  (j) nursing informatics;\n  (k) critical care nursing;\n  (l) gerontology nursing;\n  (m) nephrology nursing; and (n) such other specialization that the Council may from time to time deem necessary; and \"year\" means financial year.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "There is hereby established a Council to be known as the Nursing Council of Kenya which shall be a body corporate having perpetual succession and a common seal with power to sue and be sued and to purchase, hold, manage and dispose of land and other property, and to enter into such contracts as it may consider necessary or expedient.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Membership of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) The Council shall consist of the following persons appointed by the Cabinet Secretary—\n  (a) a Chairperson who shall—\n  (i) be a holder of a diploma or Bachelor's degree in nursing from a university or college recognized in Kenya; and (ii) have at least ten years' experience in leadership and management;\n  (b) the Director of Nursing Services or a representative appointed in writing by the Director of Nursing Services;\n  (c) one person nominated by the National Nurses Association of Kenya;\n  (d) one person nominated by other professional associations of Kenya representing nurses and midwives;\n  (e) one representative of midwives involved in clinical practice;\n  (f) one representative of accredited mid-level institutions involved in the training of nurses and midwives in Kenya;\n  (g) one representative of accredited universities involved in training of nurses and midwives in Kenya;\n  (h) one person nominated by the Cabinet Secretary to represent the public;\n  (i) the Chief Executive Officer who shall be the Registrar and shall be appointed in accordance to section 11 of this Act and shall be an ex officio member of the Council; and\n  (j) the Director-General of Health or a representative appointed in writing by the DirectorGeneral of Health.\n(2) Appointments under subsection (1)(h) shall take into consideration gender and regional balance and the mix of skills and competencies required for the achievement of the organization's longterm goals, and shall be published in the Kenya Gazette.\n(3) A member appointed under paragraph (1)(b) shall be an ex officio member of the Council.\n(4) A member of the Council including the chairperson shall be a Kenyan citizen of good professional standing and meet the requirements of Chapter Six of the Constitution.\n(5) A member of the Council appointed under this Act shall be a holder of a relevant diploma or degree obtained from a university or institution recognized by the Council.\n(6) A member of the Council except the ex officio members shall hold office for a term of three years and may be eligible for reappointment for one further term.\n(7) There shall be a Corporation Secretary who shall be appointed by the Council through a competitive process.\n(8) Pursuant to nominations in paragraphs (c), (d), (e), (f) and (g) of subsection (1), each organization shall present two nominees one of whom shall be appointed by the Cabinet Secretary taking into account ethnic diversity, gender disability, skills mix and regional balance.\n[Act No. 2 of 2002, Sch., Act No. 27 of 2011, s. 2, Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall consist of the following persons appointed by the Cabinet Secretary— (a) a Chairperson who shall— (i) be a holder of a diploma or Bachelor's degree in nursing from a university or college recognized in Kenya; and (ii) have at least ten years' experience in leadership and management; (b) the Director of Nursing Services or a representative appointed in writing by the Director of Nursing Services; (c) one person nominated by the National Nurses Association of Kenya; (d) one person nominated by other professional associations of Kenya representing nurses and midwives; (e) one representative of midwives involved in clinical practice;"
+    },
+    {
+     "ref": "(2)",
+     "text": "Appointments under subsection (1)(h) shall take into consideration gender and regional balance and the mix of skills and competencies required for the achievement of the organization's longterm goals, and shall be published in the Kenya Gazette."
+    },
+    {
+     "ref": "(3)",
+     "text": "A member appointed under paragraph (1)(b) shall be an ex officio member of the Council."
+    },
+    {
+     "ref": "(4)",
+     "text": "A member of the Council including the chairperson shall be a Kenyan citizen of good professional standing and meet the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(5)",
+     "text": "A member of the Council appointed under this Act shall be a holder of a relevant diploma or degree obtained from a university or institution recognized by the Council."
+    },
+    {
+     "ref": "(6)",
+     "text": "A member of the Council except the ex officio members shall hold office for a term of three years and may be eligible for reappointment for one further term."
+    },
+    {
+     "ref": "(7)",
+     "text": "There shall be a Corporation Secretary who shall be appointed by the Council through a competitive process."
+    },
+    {
+     "ref": "(8)",
+     "text": "Pursuant to nominations in paragraphs (c), (d), (e), (f) and (g) of subsection (1), each organization shall present two nominees one of whom shall be appointed by the Cabinet Secretary taking into account ethnic diversity, gender disability, skills mix and regional balance."
+    }
+   ]
+  },
+  "4A": {
+   "num": "4A",
+   "title": "Corporation Secretary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "There shall be a Corporation Secretary to the Council who shall be appointed by the Council, on such terms and conditions of service as the Council may determine.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Disqualification from office and filling of vacancies",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) No person shall be qualified for appointment or election as a member of Council if—\n  (a) he is an undischarged bankrupt;\n  (b) his name has been and remains removed from the appropriate register or his registration, enrolment or licence has been suspended under section 18B; or\n  (c) he has contravened the provisions of Chapter 6 of the Constitution or convicted of a criminal offence punishable by a fine or imprisonment for more than six months.\n(2) A member of the Council shall vacate his office if he—\n  (a) becomes subject to any of the disqualifications referred to in subsection (1); or\n  (b) has been absent from more than two consecutive ordinary meetings of the Council without its leave; or\n  (c) gives notice in writing to the Council of his desire to resign from office and his resignation is accepted.\n(3) Every vacancy caused by the death of a member or by vacation of office under subsection (2) shall, in the case of a member appointed by the Cabinet Secretaty, be filled by a person appointed by the Cabinet Secretaty, and in every other case, unless the Council otherwise decides, shall be filled by a person appointed by the Council and every person so appointed shall hold office for the residue of the term for which his predecessor was appointed or elected.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No person shall be qualified for appointment or election as a member of Council if—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A member of the Council shall vacate his office if he—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Every vacancy caused by the death of a member or by vacation of office under subsection (2) shall, in the case of a member appointed by the Cabinet Secretaty, be filled by a person appointed by the Cabinet Secretaty, and in every other case, unless the Council otherwise decides, shall be filled by a person appointed by the Council and every person so appointed shall hold office for the residue of the term for which his predecessor was appointed or elected."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "[Deleted by Act No. 5 of 2019, Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Meetings of Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) The Council shall be convened by the Chairperson at least four times in each year.\n(2) The Chairperson may at any time convene a special meeting of the Council and shall do so within fifteen days of a written requisition of the meeting signed by at least five members.\n(3) Council meetings shall be presided over by the Chairperson or in the Chairperson's absence any other member elected by the Council at the meeting for that purpose.\n[Act No. 27 of 2011, s. 3, Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall be convened by the Chairperson at least four times in each year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Chairperson may at any time convene a special meeting of the Council and shall do so within fifteen days of a written requisition of the meeting signed by at least five members."
+    },
+    {
+     "ref": "(3)",
+     "text": "Council meetings shall be presided over by the Chairperson or in the Chairperson's absence any other member elected by the Council at the meeting for that purpose."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Quorum",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) The quorum of the Council meetings shall be five members, but no meeting shall be held or continued, notwithstanding that there is quorum, unless the Registrar or a person deputizing the Registrar is present.\n(2) The decision of the majority of the members present and voting at any meeting shall constitute the decision of the Council and in the event of an equality of votes the Chairperson of the meeting shall have a casting in addition to a deliberative vote.\n[Act No. 2 of 2002, Sch., Act No. 27 of 2011, s. 4, Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The quorum of the Council meetings shall be five members, but no meeting shall be held or continued, notwithstanding that there is quorum, unless the Registrar or a person deputizing the Registrar is present."
+    },
+    {
+     "ref": "(2)",
+     "text": "The decision of the majority of the members present and voting at any meeting shall constitute the decision of the Council and in the event of an equality of votes the Chairperson of the meeting shall have a casting in addition to a deliberative vote."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Functions of Council and annual report",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) The functions of the Council shall be—\n  (a) to establish and improve standards of all branches of the nursing profession in all their aspects and to safeguard the interests of all nurses;\n  (b) to establish and improve the standards of professional nursing and of health care within the community;\n  (c) with the approval of the Cabinet Secretary, to make provision for the training and instruction for persons seeking registration or enrolment under this Act;\n  (d) with the approval of the Cabinet Secretary, to prescribe and regulate syllabuses of instruction and courses of training for persons seeking registration or enrolment under this Act;\n  (e) to recommend to the Cabinet Secretary institutions to be approved institutions for training of persons seeking registration or enrolment under this Act;\n  (f) with the approval of the Cabinet Secretary, to prescribe and conduct examinations for persons seeking registration or enrolment under this Act;\n  (g) to prescribe badges, insignia or uniforms to be worn by persons registered, enrolled or licensed under this Act;\n  (h) to have regard to the conduct of persons registered, enrolled or licensed under this Act, and to take such disciplinary measures as may be necessary to maintain a proper standard of conduct among such persons;\n  (i) to have regard to the standards of nursing care, qualified staff, facilities, conditions and environment of health institutions, and to take such disciplinary or appropriate measures as may be necessary to maintain proper standard of nursing care in health institutions;\n  (j) to direct and supervise the compilation and maintenance of registers, rolls and records required to be kept under sections 12, 14 and 16;\n  (k) to advise the Cabinet Secretary on any matter falling within the scope of this Act.\n(2) The Council shall, before the end of the month of February in each year, cause a report on the work carried out by the Council during the previous year, together with a statement of the accounts for that year, to be supplied to the Cabinet Secretary, and shall cause such further information as may be required by the Cabinet Secretary from time to time to be supplied to him.\n[Act No. 27 of 2011, s. 5., Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The functions of the Council shall be—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council shall, before the end of the month of February in each year, cause a report on the work carried out by the Council during the previous year, together with a statement of the accounts for that year, to be supplied to the Cabinet Secretary, and shall cause such further information as may be required by the Cabinet Secretary from time to time to be supplied to him."
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Appointment and powers of committees of Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) The Council may, for the effective discharge of its functions under this Act, establish the following committees—\n  (a) registration, education and examination;\n  (b) discipline, standards and ethics;\n  (c) finance, strategy and development; and\n  (d) risk and audit.\n(2) The Council may from time to time appoint such other committees as it may deem necessary for the more effective carrying out of its functions under this Act.\n(3) Any committee appointed by the Council under sub-section (1) or (2) shall consist of such persons as the Council deems necessary.\n(4) The Council may prescribe and fix a quorum for each of its committees and may delegate to any committee such of its powers and duties as it deems fit.\n(5) Except where the Council has by resolution authorized a committee to manage, regulate, or conclude any matter, no act of a committee shall be binding on the Council until it has been approved by the Council.\n(6) A committee appointed under this section shall elect its own Chairperson and may also elect a viceChairperson.\n(7) Deleted by Act No. 5 of 2019, Sch.\n(8) Any committee other than a standing committee may be dissolved after notice of a motion to that effect by the vote of the majority of the Council.\n[Act No. 2 of 2002, Sch., Act No. 27 of 2011, s. 6, Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council may, for the effective discharge of its functions under this Act, establish the following committees—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council may from time to time appoint such other committees as it may deem necessary for the more effective carrying out of its functions under this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any committee appointed by the Council under sub-section (1) or (2) shall consist of such persons as the Council deems necessary."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Council may prescribe and fix a quorum for each of its committees and may delegate to any committee such of its powers and duties as it deems fit."
+    },
+    {
+     "ref": "(5)",
+     "text": "Except where the Council has by resolution authorized a committee to manage, regulate, or conclude any matter, no act of a committee shall be binding on the Council until it has been approved by the Council."
+    },
+    {
+     "ref": "(6)",
+     "text": "A committee appointed under this section shall elect its own Chairperson and may also elect a viceChairperson."
+    },
+    {
+     "ref": "(7)",
+     "text": "Deleted by Act No. 5 of 2019, Sch."
+    },
+    {
+     "ref": "(8)",
+     "text": "Any committee other than a standing committee may be dissolved after notice of a motion to that effect by the vote of the majority of the Council."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Appointment of Registrar and other officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION, ENROLMENT AND LICENSING",
+   "text": "(1) The Council shall, with the approval of the Cabinet Secretary, competitively appoint a Registrar who shall—\n  (a) be a registered nurse or midwife;\n  (b) be the Chief Executive Officer to the Council;\n  (c) perform such duties as may be prescribed by this Act or directed by the Council; and (d) be an ex officio member of the Council.\n(2) The Council may appoint such other officers as the work of the Council may require, and those officers shall perform such duties as the Council may direct.\n(3) The Registrar shall keep up to date or cause to be kept up to date all registers, rolls and records required to be kept under or for the purposes of this Act, subject to any directions which may from time to time be issued to him by the Council.\n(4) A fee, to be known as a retention fee, shall be prescribed for payment annually, or at such longer intervals as the Council may deem appropriate, by any person whose name appears on a register or roll as a condition of maintaining his name thereon.\n(5) The officers appointed under this section shall be paid such remuneration and allowances as the Council may, on the advice of the Salaries and Remuneration Commission, determine.\n(6) The Chief Executive Officer shall serve for a term of four years and shall be eligible for reappointment for one further term of four years, subject to satisfactory performance. [Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall, with the approval of the Cabinet Secretary, competitively appoint a Registrar who shall— (a) be a registered nurse or midwife; (b) be the Chief Executive Officer to the Council; (c) perform such duties as may be prescribed by this Act or directed by the Council; and (d) be an ex officio member of the Council."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council may appoint such other officers as the work of the Council may require, and those officers shall perform such duties as the Council may direct."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall keep up to date or cause to be kept up to date all registers, rolls and records required to be kept under or for the purposes of this Act, subject to any directions which may from time to time be issued to him by the Council."
+    },
+    {
+     "ref": "(4)",
+     "text": "A fee, to be known as a retention fee, shall be prescribed for payment annually, or at such longer intervals as the Council may deem appropriate, by any person whose name appears on a register or roll as a condition of maintaining his name thereon."
+    },
+    {
+     "ref": "(5)",
+     "text": "The officers appointed under this section shall be paid such remuneration and allowances as the Council may, on the advice of the Salaries and Remuneration Commission, determine."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Chief Executive Officer shall serve for a term of four years and shall be eligible for reappointment for one further term of four years, subject to satisfactory performance. [Act No. 5 of 2019, Sch.]"
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Registers to be kept",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION, ENROLMENT AND LICENSING",
+   "text": "(1) The Registrar shall compile and keep a register of nurses and midwives in the prescribed form. (2) Every person eligible to be registered as a nurse or midwife may apply in the prescribed form to the Registrar for registration and every such application shall be accompanied by the prescribed fee. (3) Subject to payment of a retention fee, there shall be entered and maintained in the appropriate register the name and address of every person entitled to be registered under this Act together with his or her professional qualifications and such other particulars as may be prescribed by the Council. (4) Every person registered under this Act who has obtained a higher degree or qualification other than the qualification in respect of which he has been registered, shall be entitled to have that higher degree or additional qualification inserted in the register in substitution for or in addition to the qualification previously registered, upon paying the prescribed fee.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar shall compile and keep a register of nurses and midwives in the prescribed form. (2) Every person eligible to be registered as a nurse or midwife may apply in the prescribed form to the Registrar for registration and every such application shall be accompanied by the prescribed fee. (3) Subject to payment of a retention fee, there shall be entered and maintained in the appropriate register the name and address of every person entitled to be registered under this Act together with his or her professional qualifications and such other particulars as may be prescribed by the Council. (4) Every person registered under this Act who has obtained a higher degree or qualification other than the qualification in respect of which he has been registered, shall be entitled to have that higher degree or additional qualification inserted in the register in substitution for or in addition to the qualification previously registered, upon paying the prescribed fee."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Persons entitled to be registered",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION, ENROLMENT AND LICENSING",
+   "text": "Except as otherwise provided in this Act or in any regulations made thereunder, every person shall be entitled to registration on the appropriate register who satisfies the Council that he is of good character and has paid the prescribed registration fee, and who—\n  (a) has undergone a prescribed course of instruction and has passed the appropriate examination conducted or prescribed by the Council; or\n  (b) has undergone a course of training and passed an examination, elsewhere than in Kenya, which the Council recognizes as equivalent to the training and instruction required in the case of persons trained in Kenya and as equivalent to the qualification by examination required under this Act.",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "Rolls to be kept",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION, ENROLMENT AND LICENSING",
+   "text": "(1) The Registrar shall, under the direction of the Council, compile and keep in his office the following rolls—\n  (a) a roll of nurses;\n  (b) a roll of midwives;\n  (c) a roll of community health nurses;\n  (d) a roll of psychiatric nurses, and such other rolls as may from time to time be required by the Council with the approval of the Cabinet Secretary.\n(2) Subject to the payment of a retention fee, there shall be entered and maintained on the appropriate roll the name and address of every person entitled to be enrolled under this Act together with his professional qualifications and such other particulars as may be prescribed by the Council.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar shall, under the direction of the Council, compile and keep in his office the following rolls—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to the payment of a retention fee, there shall be entered and maintained on the appropriate roll the name and address of every person entitled to be enrolled under this Act together with his professional qualifications and such other particulars as may be prescribed by the Council."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Persons entitled to be enrolled",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION, ENROLMENT AND LICENSING",
+   "text": "Except as otherwise provided in this Act or in any regulations made thereunder, every person shall be entitled to enrolment in the appropriate roll who satisfies the Council that he is of good character and has paid the prescribed enrolment fee and who—\n  (a) has undergone a prescribed course of instruction and has passed the appropriate examination conducted or prescribed by the Council; or\n  (b) has undergone a course of training and passed an examination, elsewhere than in Kenya, which the Council recognizes as equivalent to the qualification by examination required under this Act.",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "Records of licences to be kept",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION, ENROLMENT AND LICENSING",
+   "text": "(1) The Registrar shall, under the direction of the Council, compile and keep in his office the following separate records of licences to practise nursing in Kenya—\n  (a) a record of nurses licensed to practise general nursing;\n  (b) a record of nurses licensed to practise midwifery;\n  (c) a record of nurses licensed to practise community health nursing;\n  (d) a record of nurses licensed to practise psychiatric nursing;\n  (e) a record of nurses licensed to practise sick children’s nursing, and all such other records as may from time to time be required by the Council with the approval of the Cabinet Secretary.\n(2) There shall be entered on the appropriate record the name and address of every person licensed under this Act together with his professional qualifications and such other particulars as may be prescribed by the Council.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar shall, under the direction of the Council, compile and keep in his office the following separate records of licences to practise nursing in Kenya—"
+    },
+    {
+     "ref": "(2)",
+     "text": "There shall be entered on the appropriate record the name and address of every person licensed under this Act together with his professional qualifications and such other particulars as may be prescribed by the Council."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Private practice",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION, ENROLMENT AND LICENSING",
+   "text": "(1) A person may engage in private practice as a nurse or a midwife if that person—\n  (a) is a citizen of Kenya or a foreign national;\n  (b) is registered and licensed to practice in Kenya;\n  (c) is a holder of a valid practising license issued under this Act;\n  (d) is of professional good standing, as may be prescribed by the Council;\n  (e) has paid the fee as prescribed by the Council;\n  (f) meets such other requirements as may be prescribed by the Council; and (g) is a holder of such other nursing or midwifery qualification as may be prescribed.\n(2) A person is not qualified to operate a clinic in community nursing or midwifery services as a private practitioner unless such person has at least three years post qualification experience in community nursing or midwifery and is in active practice in Kenya.\n(3) Despite the provisions of sub sections (1) and (2), a person is not qualified to operate a nursing home, maternity home or a nursing and maternity home as a private practitioner unless such person has been in active practice for at least five years in Kenya.\n(4) If a license is due for renewal and the licensee has not made an application within the thirty days from the date of expiry, the licensee shall not engage in private practice until a renewal license is issued.\n(5) An application to engage in private practice or for renewal shall be made to the Council in the prescribed form, accompanied with the prescribed fee.\n(6) A person who has made an application to engage in private practice shall be issued with such license by the Council upon satisfying such requirements for issuance with a licence under this Act.\n(7) A practising certificate shall be valid from the date on which it is issued and shall expire on the thirtieth day of December of every year unless its holder ceases to be a registered person under this Act.\n(8) A person who contravenes the provisions of this section commits an offence and is liable upon conviction, to a fine not exceeding one million shillings or to imprisonment for a term not exceeding one year, or to both. [Act No. 27 of 2011, s. 7, Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person may engage in private practice as a nurse or a midwife if that person— (a) is a citizen of Kenya or a foreign national; (b) is registered and licensed to practice in Kenya; (c) is a holder of a valid practising license issued under this Act; (d) is of professional good standing, as may be prescribed by the Council; (e) has paid the fee as prescribed by the Council; (f) meets such other requirements as may be prescribed by the Council; and (g) is a holder of such other nursing or midwifery qualification as may be prescribed."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person is not qualified to operate a clinic in community nursing or midwifery services as a private practitioner unless such person has at least three years post qualification experience in community nursing or midwifery and is in active practice in Kenya."
+    },
+    {
+     "ref": "(3)",
+     "text": "Despite the provisions of sub sections (1) and (2), a person is not qualified to operate a nursing home, maternity home or a nursing and maternity home as a private practitioner unless such person has been in active practice for at least five years in Kenya."
+    },
+    {
+     "ref": "(4)",
+     "text": "If a license is due for renewal and the licensee has not made an application within the thirty days from the date of expiry, the licensee shall not engage in private practice until a renewal license is issued."
+    },
+    {
+     "ref": "(5)",
+     "text": "An application to engage in private practice or for renewal shall be made to the Council in the prescribed form, accompanied with the prescribed fee."
+    },
+    {
+     "ref": "(6)",
+     "text": "A person who has made an application to engage in private practice shall be issued with such license by the Council upon satisfying such requirements for issuance with a licence under this Act."
+    },
+    {
+     "ref": "(7)",
+     "text": "A practising certificate shall be valid from the date on which it is issued and shall expire on the thirtieth day of December of every year unless its holder ceases to be a registered person under this Act."
+    },
+    {
+     "ref": "(8)",
+     "text": "A person who contravenes the provisions of this section commits an offence and is liable upon conviction, to a fine not exceeding one million shillings or to imprisonment for a term not exceeding one year, or to both. [Act No. 27 of 2011, s. 7, Act No. 5 of 2019, Sch.]"
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Use of titles",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION, ENROLMENT AND LICENSING",
+   "text": "(1) Any person registered or enrolled under this Act may take and use the title appropriate to the register or roll on which his name appears.\n(2) Any person licensed under this Act may take and use the title appropriate to the terms of the licence granted to him.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person registered or enrolled under this Act may take and use the title appropriate to the register or roll on which his name appears."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person licensed under this Act may take and use the title appropriate to the terms of the licence granted to him."
+    }
+   ]
+  },
+  "18A": {
+   "num": "18A",
+   "title": "Professional misconduct",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IIIA",
+   "part_title": "DISCIPLINARY PROVISIONS",
+   "text": "(1) A registered nurse shall be culpable of professional misconduct if such nurse —\n  (a) allows any person to practise in his name as a registered nurse, unless such person is the holder of a practising certificate and is in partnership with him or employed by him;\n  (b) enters, for the purpose of or in the course of practising as a registered nurse, into partnership with a person who does not hold a practising certificate, or secures any professional business through the services of such a person or by means not open to a registered nurse;\n  (c) pays or allows or agrees to pay, directly or indirectly, to any person (other than a person who holds a practising certificate, is a retired partner or the legal representative of such a partner), any share, commission or brokerage out of the fees for, or profits of his professional services;\n  (d) solicits clients or professional work or advertises professional attainments or services by use of means which contravenes the guidelines published by the Council;\n  (e) discloses information acquired in the course of professional engagement to any person other than a client, without the consent of the client, or otherwise than required by law;\n  (f) fails to observe and apply professional, technical, ethical or other standards prescribed by the Council as guidelines for practice by registered nurses;\n  (g) is guilty of gross negligence in the conduct of his professional duties;\n  (h) expresses an opinion on any matter with which he is concerned in a professional capacity without obtaining sufficient information on which to base the opinion;\n  (i) fails to keep the funds of a client in a separate banking account or to use any such funds for purposes for which they are intended;\n  (j) includes in any statement, return or form to be submitted to the Council any particular knowing it to be false;\n  (k) is convicted of a crime under the Anti-Corruption and Economic Crimes Act (Cap. 65);\n  (l) fails to declare a conflict of interest in relation to any particular matter or acts in a matter notwithstanding the presence of an undisclosed conflict of interest; or\n  (m) fails to do any other act which may be prescribed.\n(2) For avoidance of doubt, this section applies in equal respects to all categories of nurses whether registered, enrolled or licensed as such under this Act.\n[Act No. 27 of 2011, s. 8.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A registered nurse shall be culpable of professional misconduct if such nurse — (a) allows any person to practise in his name as a registered nurse, unless such person is the holder of a practising certificate and is in partnership with him or employed by him;"
+    },
+    {
+     "ref": "(2)",
+     "text": "For avoidance of doubt, this section applies in equal respects to all categories of nurses whether registered, enrolled or licensed as such under this Act."
+    }
+   ]
+  },
+  "18B": {
+   "num": "18B",
+   "title": "Inquiry by the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IIIA",
+   "part_title": "DISCIPLINARY PROVISIONS",
+   "text": "(1) Where the Council, a member of the Council or any member of the public has reason to believe that a registered, enrolled or licensed nurse has committed an act of professional misconduct, the Council may, on its own or through a committee appointed for that purpose, inquire into the matter.\n(2) The provisions of the Schedule shall have effect with respect to an inquiry by the Council under this section.\n(3) On the completion of an inquiry under this section into the alleged professional misconduct of a registered, enrolled or licensed nurse, the Council may decide that—\n  (a) no further action be taken against that nurse;\n  (b) the nurse be reprimanded;\n  (c) the nurse pays to the Council such fine, not exceeding five hundred thousand shillings, as may be appropriate;\n  (d) the nurse undertakes training at his own cost, of such nature and duration and at such institutions as the Council may determine;\n  (e) the nurse discharges his professional obligations under any contractual arrangement subject of the alleged misconduct;\n  (f) any practising certificate held by the nurse be suspended for such period not exceeding five years as may be appropriate; or\n  (g) the nurse be de-registered from the register.\n(4) The Council shall as soon as practically possible, inform the registered, enrolled or licensed nurse of the action taken against him under this section.\n(5) Any person aggrieved by any decision of the Council on inquiry may, within twenty-eight days from the date of the decision, appeal to the High Court, and in any such appeal the High Court may annul or vary the decision as it thinks fit.\n(6) Any person whose name has been removed from a register, roll or record or whose registration, enrolment or licence has been suspended shall forthwith surrender to the Registrar his certificates and badges, and any person who contravenes this subsection commits an offence and is liable to a fine not exceeding fifty thousand shillings.\n[Act No. 27 of 2011, s. 8.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the Council, a member of the Council or any member of the public has reason to believe that a registered, enrolled or licensed nurse has committed an act of professional misconduct, the Council may, on its own or through a committee appointed for that purpose, inquire into the matter."
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of the Schedule shall have effect with respect to an inquiry by the Council under this section."
+    },
+    {
+     "ref": "(3)",
+     "text": "On the completion of an inquiry under this section into the alleged professional misconduct of a registered, enrolled or licensed nurse, the Council may decide that—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The Council shall as soon as practically possible, inform the registered, enrolled or licensed nurse of the action taken against him under this section."
+    },
+    {
+     "ref": "(5)",
+     "text": "Any person aggrieved by any decision of the Council on inquiry may, within twenty-eight days from the date of the decision, appeal to the High Court, and in any such appeal the High Court may annul or vary the decision as it thinks fit."
+    },
+    {
+     "ref": "(6)",
+     "text": "Any person whose name has been removed from a register, roll or record or whose registration, enrolment or licence has been suspended shall forthwith surrender to the Registrar his certificates and badges, and any person who contravenes this subsection commits an offence and is liable to a fine not exceeding fifty thousand shillings."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Offences by person not eligible to be registered, enrolled or licensed",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Any person who, not being eligible to be registered, enrolled or licensed under this Act, uses any title appropriate to a person so registered, enrolled or licensed, or holds himself out directly or indirectly as being so registered, enrolled or licensed, or wears any uniform, badge or other distinguishing device prescribed for the use of persons so registered, enrolled or licensed, or any imitation thereof, shall be guilty of an offence and shall be liable to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding two years or to both.\n(2) Any person who, not being eligible to be registered, enrolled or licensed under this Act, practises for gain as a nurse, except in an area which the Cabinet Secretary has, by notice in the Gazette, determined to be suitable for such practice by persons who are not so registered, enrolled or licensed, or, except in such circumstances as may be specifically laid down in regulations made under this Act, shall be guilty of an offence and shall be liable to a fine not exceeding five hundred thousand shillings or imprisonment for a term not exceeding two years or to both:\nProvided that nothing in this section shall prohibit persons employed in the service of the Government or by an approved institution from performing their duties under the supervision of a medical practitioner or of a person registered, enrolled or licensed under this Act.\n[Act No. 27 of 2011, s. 9, Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who, not being eligible to be registered, enrolled or licensed under this Act, uses any title appropriate to a person so registered, enrolled or licensed, or holds himself out directly or indirectly as being so registered, enrolled or licensed, or wears any uniform, badge or other distinguishing device prescribed for the use of persons so registered, enrolled or licensed, or any imitation thereof, shall be guilty of an offence and shall be liable to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding two years or to both."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who, not being eligible to be registered, enrolled or licensed under this Act, practises for gain as a nurse, except in an area which the Cabinet Secretary has, by notice in the Gazette, determined to be suitable for such practice by persons who are not so registered, enrolled or licensed, or, except in such circumstances as may be specifically laid down in regulations made under this Act, shall be guilty of an offence and shall be liable to a fine not exceeding five hundred thousand shillings or imprisonment for a term not exceeding two years or to both:"
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Offence by persons eligible to be registered, enrolled or licensed",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Any person who, though eligible to be registered, enrolled or licensed under this Act, is not so registered, enrolled or licensed and who practises as a nurse of any of the categories referred to in section 12, 14 or 16, shall be guilty of an offence and liable to a fine not exceeding one hundred thousand shillings or imprisonment for a term not exceeding six months.\n(2) Any person who, being registered, enrolled or licensed under this Act—\n  (a) wears any uniform, badge or other distinguishing device, or any imitation thereof, prescribed for—\n  (i) any category of persons registered or enrolled;\n  (ii) any particular category of person licensed under this Act when he is not the holder of a licence for such category;\n  (b) holds himself out, directly or indirectly, as being—\n  (i) registered in any register or enrolled in any roll under this Act in which his name is not registered or enrolled;\n  (ii) licensed under this Act to do anything which he is not licensed to do;\n  (c) uses any name, title or description other than that which he is entitled to use under this Act, shall be guilty of an offence and liable to a fine not exceeding one hundred thousand shillings or imprisonment for a term not exceeding six months.\n[Act No. 27 of 2011, s. 10.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who, though eligible to be registered, enrolled or licensed under this Act, is not so registered, enrolled or licensed and who practises as a nurse of any of the categories referred to in section 12, 14 or 16, shall be guilty of an offence and liable to a fine not exceeding one hundred thousand shillings or imprisonment for a term not exceeding six months."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who, being registered, enrolled or licensed under this Act—"
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Offences by persons conducting training courses or examinations without authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Any person, being in charge of any health or other institution which is not approved by the Council as an institution for the training of persons seeking registration or enrolment under this Act, who—\n  (a) admits to the institution under his charge any person for the purpose of training in any of the categories of nursing in respect of which provision is made for registration or enrolment under this Act;\n  (b) purports to be conducting courses of training or examinations under this Act or regulations made thereunder;\n  (c) issues any document, statement, badge, seal or uniform implying that the institution under his charge is approved by the Council as an institution for training of persons seeking registration or enrolment under this Act;\n  (d) issues any document, statement, certificate, badge or seal implying that the holder thereof has undergone a course of instruction or passed an examination prescribed by the Council, shall be guilty of an offence and liable to a fine not exceeding five hundred thousand shillings or imprisonment for a term not exceeding two years or to both.\n(2) Any person who purports to conduct examinations on behalf of the Council while not being authorized by the Council so to do shall be guilty of an offence and liable to a fine not exceeding one hundred thousand shillings or imprisonment for a term not exceeding six months.\n[Act No. 27 of 2011, s. 11.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person, being in charge of any health or other institution which is not approved by the Council as an institution for the training of persons seeking registration or enrolment under this Act, who—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who purports to conduct examinations on behalf of the Council while not being authorized by the Council so to do shall be guilty of an offence and liable to a fine not exceeding one hundred thousand shillings or imprisonment for a term not exceeding six months."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Employment of unregistered staff and entry of premises",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Any person who employs another person as a nurse to work in a health institution shall, if that other person is not registered, enrolled or licensed under this Act, be guilty of an offence and liable to a fine not exceeding five hundred thousand shillings or imprisonment for a term not exceeding two years or to both.\n(2) The Council may authorize any person in writing to enter any health institution to check the status of nurses employed therein or the condition of the premises or the standard of nursing care therein.\n(3) Any person who knowingly refuses entry to or obstructs an authorized person in any inspection under sub-section (2) shall be guilty of an offence and liable to a fine not exceeding one hundred thousand shillings or imprisonment for a term not exceeding six months.\n[Act No. 27 of 2011, s. 12.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who employs another person as a nurse to work in a health institution shall, if that other person is not registered, enrolled or licensed under this Act, be guilty of an offence and liable to a fine not exceeding five hundred thousand shillings or imprisonment for a term not exceeding two years or to both."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council may authorize any person in writing to enter any health institution to check the status of nurses employed therein or the condition of the premises or the standard of nursing care therein."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person who knowingly refuses entry to or obstructs an authorized person in any inspection under sub-section (2) shall be guilty of an offence and liable to a fine not exceeding one hundred thousand shillings or imprisonment for a term not exceeding six months."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Certificates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "A certificate under the seal of the Council stating that a person is or was at any date registered, enrolled or licensed under this Act shall be conclusive evidence of the fact stated in the certificate.",
+   "clauses": []
+  },
+  "24": {
+   "num": "24",
+   "title": "Falsification of registers, rolls or records",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Any person who wilfully makes or causes to be made any false entry in, or falsification of, any register, roll or record kept under this Act, or who procures or attempts to procure himself or any other person to be registered, enrolled or licensed under this Act by making or producing or causing to be made or produced any false or fraudulent representation or declaration either orally or in writing, shall be guilty of an offence and liable to a fine not exceeding five hundred thousand shillings or imprisonment for a term not exceeding two years or to both.\n[Act No. 27 of 2011, s. 13.]",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "[Repealed by Act No. 27 of 2011, s. 14.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "",
+   "clauses": []
+  },
+  "26": {
+   "num": "26",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Council, with the approval of the Cabinet Secretary, may make regulations generally for better carrying out of the provisions of this Act and, without prejudice to the foregoing generality, may make regulations to provide for—\n  (a) the form and the method of keeping the registers, rolls and records under this Act;\n  (b) the conditions of admission to the registers and rolls and of the issue of licences;\n  (c) the manner in which the various categories of persons for whom provision is made in this Act for registration or enrolment may be established and their training regulated;\n  (d) the conditions under which training schools for persons desirous of obtaining registration or enrolment under this Act may be approved and the courses of training and instruction to be undergone by persons seeking such registration or enrolment;\n  (e) the subject matter of training courses and examinations to be conducted by the Council;\n  (f) the conditions of admission for entry to training courses and examinations to be conducted by the Council;\n  (g) the uniforms, badges and other distinguishing devices which may be worn by persons registered, enrolled and licensed under this Act;\n  (h) the standards and conditions of professional practice of persons registered, enrolled or licensed under this Act;\n  (i) the fees payable in respect of examinations, registration, enrolment, issue of licences, issue of certificates and badges and in respect of any other matters under this Act;\n  (j) the procedure for election of those members of the Council who are required to be elected;\n  (k) the summoning of meetings of and the direction of the proceedings of the Council;\n  (l) the powers and duties of local supervising authorities, different powers and duties for which may be prescribed for different local supervising authorities;\n  (m) the disposal of fees collected, the authorization of such disbursements as may be necessary and the management of any funds within the control of the Council;\n  (n) the keeping and opening of new registers, rolls and records and the closing of existing registers, rolls and records or parts thereof. [Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "27": {
+   "num": "27",
+   "title": "Finance",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Cabinet Secretary may, with the consent of the National Treasury, out of moneys provided by Parliament—\n  (a) make to the Council such grants as may be necessary to enable it to discharge its functions under this Act;\n  (b) make such other payments as may be necessary to give effect to the provisions of this Act;\n  (c) pay remuneration, travelling and any other allowances to members of the Board (other than members who are public officers in receipt of a salary). [Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "27A": {
+   "num": "27A",
+   "title": "Financial year",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The financial year of the Council shall be the period of twelve months commencing on the first of July and ending on the thirtieth of June of the subsequent year.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "27B": {
+   "num": "27B",
+   "title": "Accounts and Audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Council shall keep proper books and records of account of income, expenditure, assets and liabilities of the Council.\n(2) Within a period of three months after the end of each financial year, the Council shall submit to the Auditor-General accounts of the Council in respect of that year together with a—\n  (a) statement of the income and expenditure of the Council during that year; and (b) statement of the assets and liabilities of the Council on the last day of that financial year.\n(3) The annual accounts of the Council shall be prepared, audited and reported upon, in accordance with the provisions of Articles 226 and 229 of the Constitution and the law relating to public audit. [Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall keep proper books and records of account of income, expenditure, assets and liabilities of the Council."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within a period of three months after the end of each financial year, the Council shall submit to the Auditor-General accounts of the Council in respect of that year together with a— (a) statement of the income and expenditure of the Council during that year; and (b) statement of the assets and liabilities of the Council on the last day of that financial year."
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual accounts of the Council shall be prepared, audited and reported upon, in accordance with the provisions of Articles 226 and 229 of the Constitution and the law relating to public audit. [Act No. 5 of 2019, Sch.]"
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 18B]",
+   "subtitle": "INQUIRY BY THE COUNCIL",
+   "text": "[Act No. 27 of 2011, s. 15.] 1. Statement of allegation\n(1) The Council, member of the Council or member of the public shall prepare, or cause to be prepared, a statement, in such form as may be prescribed, setting out the allegation of professional misconduct to be investigated by the Council.\n(2) The Registrar shall transmit to each member of the Council or its committee, and to the person whose conduct is the subject of investigation, a copy of the statement prepared pursuant to subparagraph (1) of this paragraph.\n2. Notice of meeting (1) The Registrar shall give notice of the first date, time and place fixed for the inquiry to the person whose conduct is the subject of investigation. (2) Every such notice shall, at least fourteen days, before the first date fixed for the inquiry, be delivered to the person whose conduct is the subject of investigation by hand or be sent to him through the post by registered letter addressed to his address last known to the Council. (3) Where a person whose conduct is the subject of investigation fails to appear either personally or by his advocate at the time and place fixed in the notice served on him, the inquiry may proceed in his absence. (4) Notice of the adjournment of an inquiry shall be given to the person whose conduct is the subject of investigation in such manner as the Council determines.\n3. Right to representation A person whose conduct is the subject of investigation may appear at the inquiry either personally or by his advocate.\n4. Power of Council (1) For the purpose of the conduct of the inquiry, the Council shall have power to—\n  (a) administer oaths;\n  (b) summon persons to attend and give evidence;\n  (c) order the production of relevant documents, including court judgements; and (d) recover in whole or in part the costs of the inquiry not exceeding one hundred thousand shillings from any or all the parties involved in the proceedings. (2) An oath may be administered by any member of the Council or by the Registrar. (3) Notices, orders and summonses of the Council shall be issued under the hand of the Registrar.\n5. Procedure at inquiry (1) Subject to this Act, during an inquiry—\n  (a) the procedure to be followed shall be within the discretion of the Council; and (b) the Council shall not be bound by the rules of evidence. (2) Unless the Council otherwise determines, the proceedings on the inquiry shall be held in camera. (3) The Registrar shall keep or cause to be kept, a record of the proceedings on the inquiry.\n(4) The Registrar may attend meetings of the Council and may with the consent of the person presiding at a meeting take part in the deliberations on any matter arising at the meeting but he shall not be entitled to vote on any such matter.\n6. Decision by majority\n(1) The decision of the Council on an inquiry shall be that of the majority of the members present and voting for the purpose of making a decision.\n(2) For the purposes of making a decision on an inquiry, every member of the Council shall have one vote, and, in the event of an equality of votes, the Chairperson shall have a casting vote.\n7. Spent"
+  }
+ ],
+ "spent": {}
+}

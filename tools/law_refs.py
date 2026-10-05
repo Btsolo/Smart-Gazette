@@ -72,9 +72,11 @@ def refs(notice):
         seen.add((key, num, clause))
         doc = law(key) if not key.startswith('?') else None
         prov = doc['provisions'].get(num) if doc else None
+        spent = doc.get('spent', {}).get(num) if doc and prov is None else None
         out.append({'law': key, 'provision': num, 'clause': clause,
                     'label': (doc['provision_label'] if doc else 'section') + ' ' + num + (clause or ''),
-                    'title': prov['title'] if prov else None, 'found': prov is not None})
+                    'title': prov['title'] if prov else ('Spent (Part %s)' % spent if spent else None),
+                    'found': prov is not None or spent is not None, 'spent': spent is not None})
 
     for m in RE_CITE.finditer(notice):
         kind = m.group('kind').lower()
@@ -85,10 +87,19 @@ def refs(notice):
             continue                     # "Article 5 of the Treaty", an Act's own article
         if kind.startswith('s') and key == 'constitution':
             continue                     # "section 7 of the Sixth Schedule" - handled below
+        prev = None
         for one in re.finditer(r'(\d+[A-Z]?)((?:\s*\(\s*[0-9a-zA-Z]{1,4}\s*\))*)', m.group('list')):
+            num = one.group(1)
+            doc = law(key) if not key.startswith('?') else None
+            # "sections 39 (1), 1A and (1B)": a bare number that is no section of the
+            # law but a subsection of the section just before it (a print slip for
+            # "(1A)") belongs to that section
+            if doc and prev and num not in doc['provisions'] and num not in doc.get('spent', {})                     and any(c['ref'] == '(' + num + ')' for c in doc['provisions'].get(prev, {}).get('clauses', [])):
+                continue
             clause = re.sub(r'\s+', '', one.group(2))
             first = re.match(r'\(\d+\)', clause)          # keep the sub-article, e.g. (2)
-            add(key, one.group(1), first.group(0) if first else None)
+            add(key, num, first.group(0) if first else None)
+            prev = num
     for m in RE_SCHED.finditer(notice):
         add('constitution', m.group('n').upper() + ' SCHEDULE', None)
     for r in out:                                         # schedules are looked up by title
@@ -141,7 +152,7 @@ def laws_for(notice):
                        heading names the Act and no section of it is cited
                        (reference/implied.json)
       kind 'act'     - a law named in the heading with nothing more specific"""
-    out = [dict(r, kind='cited') for r in refs(notice)]
+    out = [dict(r, kind='spent' if r.get('spent') else 'cited') for r in refs(notice)]
     cited = {r['law'] for r in out}
     named = heading_laws(notice)
     for rule in implied_rules():
@@ -163,10 +174,18 @@ def laws_for(notice):
     return out
 
 
+def spent_note(doc, num):
+    return ('Spent: section %s is in Part %s of the %s, which the revised edition (text as at %s) marks spent '
+            'and no longer prints. The notice cites it as it stood before.'
+            % (num, doc['spent'][num], doc['title'], doc.get('version_date')))
+
+
 def provision_text(key, num, clause=None):
     """The text to display: the whole provision, or one clause of it."""
     doc = law(key)
     p = doc and doc['provisions'].get(num)
+    if not p and doc and num in doc.get('spent', {}):
+        return spent_note(doc, num)
     if not p:
         return None
     if clause:

@@ -1,0 +1,269 @@
+{
+ "title": "Protection of Aircraft Act",
+ "citation": "Cap. 68",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1970/18/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "PROTECTION OF AIRCRAFT ACT CAP. 68 Assented to on 4 November 1970 Commenced on 1 June 1972 by Protection of Aircraft Act Commencement\n[Amended by Aircraft (Offences) (Amendment) Act, 1981 (Act No. 11 of 1981) on 20 November 1981] [Amended by Statute Law (Miscellaneous Amendments) Act, 2012 (Act No. 12 of 2012) on 12 July 2012]\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to give effect to the provisions of the Tokyo Convention on offences and certain other acts committed on board aircraft, the Hague Convention for the suppression of unlawful seizure of aircraft and the Montreal Convention for the suppression of unlawful acts against the safety of civil aviation; and for other matters connected therewith and incidental thereto",
+ "parts": [],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "This Act may be cited as the Protection of Aircraft Act.\n[L.N. 91/1972, Act No. 11 of 1981, s. 3.]",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) In this Act, unless the context otherwise requires—\n\"aircraft\" means any aircraft, whether or not a Kenya-controlled aircraft, other than—\n  (a) a military aircraft; or\n  (b) an aircraft which, not being a military aircraft, belongs to, or is exclusively employed in the service of, the Government;\n\"commander\", in relation to an aircraft, means the member of the crew designated as commander of that aircraft by the operator thereof, or, failing such a member, the person who is for the time being the pilot in command of the aircraft;\n\"Convention country\" means a country in which the Tokyo, Montreal and Hague Conventions are for the time being in force;\n\"Hague Convention\" means the Convention for the Suppression of Unlawful Seizure of Aircraft done at the Hague on 16th December, 1970;\n\"Kenya-controlled aircraft\" means an aircraft—\n  (a) which is for the time being registered in Kenya; or\n  (b) which is not for the time being registered in any country but of which either the operator of the aircraft or each person entitled as owner to any legal or beneficial interest in it satisfies the following requirements—\n  (i) that he is a person qualified to be the owner of a legal or beneficial interest in an aircraft registered in Kenya; and\n  (ii) that he resides or has his principal place of business in Kenya; or\n  (c) which, being for the time being registered in some other country, is for time being chartered by demise to a person who, or to persons each of whom, satisfies the said requirements;\n\"military aircraft\" means—\n  (a) an aircraft of the naval, military or air forces of any country; or\n  (b) any other aircraft which is treated as a military aircraft under any written law for the time being in force relating to civil aviation;\n\"Minister\" deleted by Act No. 11 of 1981, s. 4;\n\"Montreal Convention\" means the Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation done at Montreal on the 23rd September, 1971;\n\"operator\", in relation to any aircraft at any particular time, means the person who at that time has the management of that aircraft;\n\"pilot in command\", in relation to an aircraft, means a person who, for the time being, is in charge of the piloting of that aircraft, without being under the direction of any other pilot in the aircraft;\n\"Tokyo Convention\" means the Convention on Offences and certain other Acts committed on board Aircraft signed at Tokyo on 14th September, 1963.\n(2) For the purposes of this Act—\n  (a) the period during which an aircraft is in flight shall be deemed to include any period from the moment when all its external doors are closed following embarkation until the moment when any of the doors is opened for disembarkation, and, in the case of a forced landing, any period until the competent authorities take over responsibilities for the aircraft and for persons and property on board;\n  (b) the period during which an aircraft is in service shall be deemed to include the period from the beginning of the preflight preparation of the aircraft by ground personnel or by the crew for a specific flight until 24 hours after any landing and the period of service shall, in any event, extend for the entire period which the aircraft is in flight as defined in paragraph (a).\n(3) In this Act, unless the context otherwise requires, any reference to a country or the territorial limits thereof shall be construed as including a reference to the territorial waters, if any, of that country.\n(4) If the Cabinet Secretary is satisfied that the requirements of Article 18 of the Tokyo Convention, Article 5 of the Hague Convention and Article 9 of the Montreal Convention have been satisfied (which Articles make provision as to the country which is to be treated as the country of registration of certain aircraft operated by joint air transport organizations or international operating agencies established by two or more Convention countries) the Cabinet Secretary may, by order, provide that, for the purposes of this Act, such aircraft as may be specified in the order shall be treated as registered in such Convention country as may be so specified.\n(5) Notwithstanding the definition of \"aircraft\" in subsection (1) of his section, the Cabinet Secretary may, by order, provide that any of the provisions of this Act shall apply, with or without modifications, to aircraft such as are mentioned in paragraph (b) of that definition.\n[Act No. 11 of 1981, s. 4.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, unless the context otherwise requires—"
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of this Act—"
+    },
+    {
+     "ref": "(3)",
+     "text": "In this Act, unless the context otherwise requires, any reference to a country or the territorial limits thereof shall be construed as including a reference to the territorial waters, if any, of that country."
+    },
+    {
+     "ref": "(4)",
+     "text": "If the Cabinet Secretary is satisfied that the requirements of Article 18 of the Tokyo Convention, Article 5 of the Hague Convention and Article 9 of the Montreal Convention have been satisfied (which Articles make provision as to the country which is to be treated as the country of registration of certain aircraft operated by joint air transport organizations or international operating agencies established by two or more Convention countries) the Cabinet Secretary may, by order, provide that, for the purposes of this Act, such aircraft as may be specified in the order shall be treated as registered in such Convention country as may be so specified."
+    },
+    {
+     "ref": "(5)",
+     "text": "Notwithstanding the definition of \"aircraft\" in subsection (1) of his section, the Cabinet Secretary may, by order, provide that any of the provisions of this Act shall apply, with or without modifications, to aircraft such as are mentioned in paragraph (b) of that definition."
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Hijacking.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Any person who, on board an aircraft in flight, whether in Kenya or elsewhere, unlawfully, by force or threat thereof, or by any other form of intimidation, seizes or exercises control of that aircraft shall be guilty of the offence of hijacking and liable to imprisonment for life.\n[Act No. 11 of 1981, s. 5.]",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Offences in connection with hijacking.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Any person who, on board an aircraft in flight outside Kenya, does or omits anything which, if done or omitted by that person in Kenya would be an offence, commits that offence if the act or omission occurred in connection with the offence of hijacking.\n(2) Without prejudice to the generality of subsection (1), an act or omission by a person shall be deemed to occur in connection with hijacking if it was done or omitted with intent—\n  (a) to commit or facilitate the commission of the offence of hijacking;\n  (b) to avoid the detection of himself or of any other person in the commission of the offence of hijacking;\n  (c) to avoid the arrest or facilitate the flight of himself or of any other person after commission of the offence of hijacking. [Act No. 11 of 1981, s. 5.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who, on board an aircraft in flight outside Kenya, does or omits anything which, if done or omitted by that person in Kenya would be an offence, commits that offence if the act or omission occurred in connection with the offence of hijacking."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), an act or omission by a person shall be deemed to occur in connection with hijacking if it was done or omitted with intent— (a) to commit or facilitate the commission of the offence of hijacking; (b) to avoid the detection of himself or of any other person in the commission of the offence of hijacking; (c) to avoid the arrest or facilitate the flight of himself or of any other person after commission of the offence of hijacking. [Act No. 11 of 1981, s. 5.]"
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Other offences relating to aircraft.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Any person who, whether in or outside Kenya, wilfully and unlawfully—\n  (a) on board an aircraft in flight, commits an assault which is likely to endanger the safety of the aircraft;\n  (b) destroys an aircraft in service;\n  (c) causes damage to an aircraft in service which renders the aircraft incapable of flight or which is likely to endanger the safety of the aircraft in flight;\n  (d) places or causes to be placed on an aircraft in service anything which is likely to destroy the aircraft, or to cause damage to the aircraft which will render it incapable of flight, or which is likely to endanger the safety of the aircraft in flight;\n  (e) endangers the safety of an aircraft in flight by communicating to another person information which the person supplying the information knows to be false;\n  (f) destroys, damages or interferes with the operation of any air navigation facility used in international air navigation where the destruction, damage or interference is likely to endanger the safety of an aircraft in flight, shall be guilty of an offence and liable to imprisonment for a term not exceeding fourteen years. [Act No. 11 of 1981, s. 5.]",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Jurisdiction of Kenya courts in certain cases.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Where—\n  (a) in the case of an offence under section 3 or 4, the place of take-off and the place of actual landing of the aircraft;\n  (b) in the case of an offence under paragraphs (a) to (e) inclusive of section 5, the place of takeoff and the place of actual or intended landing of the aircraft, are in the territory of the country in which the aircraft is registered, or, in the case of an aircraft which is subject to joint or international registration, in the territory of one of the countries having an interest in the aircraft, then a court in Kenya shall have jurisdiction over the matter only where—\n  (i) the aircraft is a Kenya-controlled aircraft; or (ii) the alleged offender is a Kenya citizen or a person ordinarily resident in Kenya; or (iii) the offence occurred in Kenya; or (iv) the alleged offender is present in Kenya.\n(2) In any case where a court in Kenya has jurisdiction under this Act, the offence shall be deemed to have been committed where the alleged offender may for the time being be. [Act No. 11 of 1981, s. 5.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where— (a) in the case of an offence under section 3 or 4, the place of take-off and the place of actual landing of the aircraft; (b) in the case of an offence under paragraphs (a) to (e) inclusive of section 5, the place of takeoff and the place of actual or intended landing of the aircraft, are in the territory of the country in which the aircraft is registered, or, in the case of an aircraft which is subject to joint or international registration, in the territory of one of the countries having an interest in the aircraft, then a court in Kenya shall have jurisdiction over the matter only where— (i) the aircraft is a Kenya-controlled aircraft; or (ii) the alleged offender is a Kenya citizen or a person ordinarily resident in Kenya; or (iii) the offence occurred in Kenya; or (iv) the alleged offender is present in Kenya."
+    },
+    {
+     "ref": "(2)",
+     "text": "In any case where a court in Kenya has jurisdiction under this Act, the offence shall be deemed to have been committed where the alleged offender may for the time being be. [Act No. 11 of 1981, s. 5.]"
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Provisions as to extradition.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) For the purposes of the application of the extradition laws to crimes committed on board an aircraft —\n  (a) any aircraft registered in a Convention country shall, at any time while that aircraft is in flight or in service, be deemed to be within the jurisdiction of that country, whether or not it is for the time being also within the jurisdiction of some other country;\n  (b) no offence which may, or does, jeopardize the safety of an aircraft, or of any person or property on board an aircraft, in flight shall be regarded as an offence of a political nature irrespective of the motive or alleged motive for such offence.\n(2) In this section, \"the extradition laws\" means the Extradition (Contiguous and Foreign Countries) Act (Cap. 76) and the Extradition (Commonwealth Countries) Act (Cap. 77).\n[Act No. 11 of 1981, ss. 6 & 7.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "For the purposes of the application of the extradition laws to crimes committed on board an aircraft —"
+    },
+    {
+     "ref": "(2)",
+     "text": "In this section, \"the extradition laws\" means the Extradition (Contiguous and Foreign Countries) Act (Cap. 76) and the Extradition (Commonwealth Countries) Act (Cap. 77)."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Powers of commanders.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The provisions of subsections (2) to (5) of this edition shall have effect for the purposes of any proceedings before any court in Kenya.\n(2) If the commander of an aircraft in flight, wherever that aircraft may be, has reasonable grounds to believe in respect of any person on board the aircraft—\n  (a) that the person in question has done or is about to do any act on the aircraft while it is in flight which jeopardizes or may jeopardize—\n  (i) the safety of the aircraft or of persons or property on board the aircraft; or\n  (ii) good order and discipline on board the aircraft; or\n  (b) that the person in question has done, on board the aircraft while in flight, any act which, in the opinion of the commander, is a serious offence under any law in force in the country in which the aircraft is registered, then, subject to subsection (4) of this section, the commander may take with respect to that person such reasonable measures, including restraint of his person, as may be necessary—\n  (i) to protect the safety of the aircraft or of persons or property on board the aircraft; or\n  (ii) to maintain good order or discipline on board the aircraft; or\n  (iii) to enable the commander to disembark or deliver that person in accordance with subsection (5) of this section, and for the purposes of paragraph (b) of this subsection any Kenya-controlled aircraft shall be deemed to be registered in Kenya whether or not it is in fact so registered and whether or not it is in fact registered in some other country.\n(3) Any member of the crew of an aircraft and any other person on board the aircraft may, at the request or with the authority of the commander of the aircraft, and any such member shall if so required by the commander, render any assistance in restraining any person whom the commander is entitled to restrain under subsection (2) of this section, and at any time when the aircraft is in flight any such member or other person may, without obtaining the authority of the commander, take with respect to any person on board the aircraft any measures mentioned in the said subsection which he has reasonable grounds to believe are necessary to protect the safety of the aircraft or of persons or property on board the aircraft.\n(4) Any restraint imposed on any person on board an aircraft under the powers conferred by this section shall not be continued after the time when the aircraft first thereafter ceases to be in flight unless before, or as soon as is reasonably practicable after that time the commander of the aircraft causes notification of the fact that a person on board the aircraft is under restraint, and of the reasons therefor, to be sent to the appropriate authority of the country in which the aircraft so ceases to be in flight, but subject to such notification such restraint may be continued after that time—\n  (a) for any period (including the period of any further flight) between that time and the first occasion thereafter on which the commander is able with any requisite consent of the appropriate authorities to disembark or deliver the person under restraint in accordance with subsection (5) of this section; or\n  (b) if the person under restraint agrees to continue his journey under restraint on board that aircraft.\n(5) The commander of an aircraft—\n  (a) if in the case of any person on board the aircraft he has reasonable grounds—\n  (i) to believe as mentioned in paragraph (a) of subsection (2) of this section; and\n  (ii) to believe that it is necessary so to do in order to protect the safety of the aircraft or of persons or property on board the aircraft or to maintain good order and discipline on board the aircraft, he may disembark that person in any country in which that aircraft may be; and\n  (b) in the case of any person on board the aircraft he has reasonable grounds to believe as mentioned in paragraph (b) of subsection (2) of this section, may deliver that person—\n  (i) in Kenya, to a police officer or immigration officer; or\n  (ii) in any other country which is a Convention country, to an officer having functions corresponding to the functions in Kenya either of a police officer or of an immigration officer.\n(6) The commander of an aircraft—\n  (a) if he disembarks any person in pursuance of paragraph (a) of subsection (5) of this section, in the case of a Kenya-controlled aircraft, in any country or, in the case of any other aircraft, in Kenya, shall report the fact of, and the reasons for, that disembarkation to—\n  (i) an appropriate authority in the country of disembarkation; and\n  (ii) the appropriate diplomatic or consular office of the country of nationality of that person;\n  (b) if he intends to deliver any person in accordance with paragraph (b) of subsection (5) of this section in Kenya or, in the case of a Kenya- controlled aircraft, in any other country which is a Convention country, shall, before or as soon as reasonably practicable after landing, give notice of his intention and of the reasons therefor—\n  (i) where the country in question is Kenya, to a police officer or an immigration officer or, in the case of any other country, to an officer having functions corresponding to the functions in Kenya of a police officer or of an immigration officer; and\n  (ii) in either case to the appropriate diplomatic or consular office of the country of nationality of that person, and any commander of an aircraft who without reasonable cause fails to comply with the requirements of this subsection shall be guilty of an offence and liable to a fine not exceeding two thousand shillings.\n[Act No. 11 of 1981, s. 6.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The provisions of subsections (2) to (5) of this edition shall have effect for the purposes of any proceedings before any court in Kenya."
+    },
+    {
+     "ref": "(2)",
+     "text": "If the commander of an aircraft in flight, wherever that aircraft may be, has reasonable grounds to believe in respect of any person on board the aircraft—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Any member of the crew of an aircraft and any other person on board the aircraft may, at the request or with the authority of the commander of the aircraft, and any such member shall if so required by the commander, render any assistance in restraining any person whom the commander is entitled to restrain under subsection (2) of this section, and at any time when the aircraft is in flight any such member or other person may, without obtaining the authority of the commander, take with respect to any person on board the aircraft any measures mentioned in the said subsection which he has reasonable grounds to believe are necessary to protect the safety of the aircraft or of persons or property on board the aircraft."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any restraint imposed on any person on board an aircraft under the powers conferred by this section shall not be continued after the time when the aircraft first thereafter ceases to be in flight unless before, or as soon as is reasonably practicable after that time the commander of the aircraft causes notification of the fact that a person on board the aircraft is under restraint, and of the reasons therefor, to be sent to the appropriate authority of the country in which the aircraft so ceases to be in flight, but subject to such notification such restraint may be continued after that time—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The commander of an aircraft—"
+    },
+    {
+     "ref": "(6)",
+     "text": "The commander of an aircraft—"
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Piracy.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "For the avoidance of doubt, it is hereby declared that for the purposes of any proceedings before a court in Kenya in respect of piracy, the provisions set out in the Schedule to this Act of the Convention on the High Seas signed at Geneva on 29th April, 1958, shall be treated as constituting part of the law of nations, and any such court having jurisdiction in respect of piracy committed on the high seas shall have jurisdiction in respect of piracy committed by or against an aircraft wherever that piracy is committed.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Evidence taken abroad.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Where in any proceedings for an offence committed on board an aircraft the testimony of any person is required, and the court is satisfied that such person cannot be found in Kenya, there shall be admissible in evidence before that court any deposition relating to the subject matter of those proceedings previously made on oath by that person outside Kenya which was so made—\n  (a) in the presence of the person charged with the offence; and\n  (b) before a judge or magistrate of a country of which section 95 of the Constitution for the time being applies or before a consular officer of the Government.\n(2) Any deposition mentioned in subsection (1) of this section shall be authenticated by the signature of the judge, magistrate or consular officer before whom it was made, who shall certify that the person charged with the offence was present at the taking of the deposition.\n(3) It shall not be necessary in any proceedings to prove the signature or official character of the person appearing to have authenticated a deposition or to have given a certificate under this section, and the certificate shall, unless the contrary is proved, be sufficient evidence in any proceedings that the person charged with the offence was present at the making of the deposition.\n(4) If a complaint is made to a consular officer of the Government that any offence has been committed on board a Kenya-controlled aircraft while in flight elsewhere than in or over Kenya, that officer may inquire into the case upon oath.\n(5) In this section—\n\"deposition\" includes an affidavit, affirmation or statement made upon oath; and\n\"oath\" includes an affirmation or declaration, and nothing in this section shall prejudice the admission as evidence of any deposition which is admissible in evidence apart from this section.\n[Act No. 11 of 1981, s. 6.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where in any proceedings for an offence committed on board an aircraft the testimony of any person is required, and the court is satisfied that such person cannot be found in Kenya, there shall be admissible in evidence before that court any deposition relating to the subject matter of those proceedings previously made on oath by that person outside Kenya which was so made—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any deposition mentioned in subsection (1) of this section shall be authenticated by the signature of the judge, magistrate or consular officer before whom it was made, who shall certify that the person charged with the offence was present at the taking of the deposition."
+    },
+    {
+     "ref": "(3)",
+     "text": "It shall not be necessary in any proceedings to prove the signature or official character of the person appearing to have authenticated a deposition or to have given a certificate under this section, and the certificate shall, unless the contrary is proved, be sufficient evidence in any proceedings that the person charged with the offence was present at the making of the deposition."
+    },
+    {
+     "ref": "(4)",
+     "text": "If a complaint is made to a consular officer of the Government that any offence has been committed on board a Kenya-controlled aircraft while in flight elsewhere than in or over Kenya, that officer may inquire into the case upon oath."
+    },
+    {
+     "ref": "(5)",
+     "text": "In this section—"
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Evidence generally.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A notice by the Cabinet Secretary in the Gazette that any country specified in the notice is a Convention country shall, while such notice is in force, be conclusive evidence that the country is a Convention country.\n(2) A certificate, purporting to be signed by the Cabinet Secretary, that an aircraft is or is not a military aircraft for the purposes of this Act shall be conclusive evidence of the fact certified.\n(3) In any legal proceedings, a document purporting to be certified by such person or authority as the Cabinet Secretary may, by regulations under this section, designate for the purpose as being, or being a true copy of, or of part of, a document issued or record kept in pursuance of any law relating to civil aviation shall be evidence of the matters appearing from that document.\n[Act No. 11 of 1981, s. 6.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A notice by the Cabinet Secretary in the Gazette that any country specified in the notice is a Convention country shall, while such notice is in force, be conclusive evidence that the country is a Convention country."
+    },
+    {
+     "ref": "(2)",
+     "text": "A certificate, purporting to be signed by the Cabinet Secretary, that an aircraft is or is not a military aircraft for the purposes of this Act shall be conclusive evidence of the fact certified."
+    },
+    {
+     "ref": "(3)",
+     "text": "In any legal proceedings, a document purporting to be certified by such person or authority as the Cabinet Secretary may, by regulations under this section, designate for the purpose as being, or being a true copy of, or of part of, a document issued or record kept in pursuance of any law relating to civil aviation shall be evidence of the matters appearing from that document."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Director of Public Prosecutions consent required to prosecute.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) No prosecution for an offence under section 3, 4 or 5 shall be instituted without the written consent of the Director of Public Prosecutions.\n(2) Notwithstanding the provisions of subsection (1), a person may be arrested for, and charged with, an offence under section 3, 4 or 5, and may be remanded in custody or on bail. [Act No. 11 of 1981, ss. 6 & 9.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No prosecution for an offence under section 3, 4 or 5 shall be instituted without the written consent of the Director of Public Prosecutions."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding the provisions of subsection (1), a person may be arrested for, and charged with, an offence under section 3, 4 or 5, and may be remanded in custody or on bail. [Act No. 11 of 1981, ss. 6 & 9.]"
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 9]",
+   "subtitle": "PROVISIONS OF GENEVA CONVENTION ON THE HIGH SEAS TO BE TREATED AS PART OF THE LAW OF NATIONS",
+   "text": "Article 15 Piracy consists of any of the following acts—\n(1) Any illegal acts of violence, detention or any act of depredation, committed for private ends by the crew or the passengers of a private ship or a private aircraft, and directed—\n  (a) on the high seas, against another ship or aircraft, or against persons or property on board such ship or aircraft;\n  (b) against a ship, aircraft, persons or property in a place outside the jurisdiction of any State.\n(2) Any act of voluntary participation in the operation of a ship or of an aircraft with knowledge of facts making it a pirate ship or aircraft.\n(3) Any act of inciting or of intentionally facilitating an act described in subparagraph (1) or subparagraph (2) of this article.\nArticle 16 The acts of piracy, as defined in article 15, committed by a warship, government ship or government aircraft whose crew has mutinied and taken control of the ship or aircraft are assimilated to acts committed by a private ship.\nArticle 17 A ship or aircraft is considered a pirate ship or aircraft if it is intended by the persons in dominant control to be used for the purpose of committing one of the acts referred to in article 15. The same applies if the ship or aircraft has been used to commit any such act, so long as it remains under the control of the persons guilty of that act."
+  }
+ ],
+ "spent": {}
+}

@@ -1,0 +1,627 @@
+{
+ "title": "Kenya Revenue Authority Act",
+ "citation": "Cap. 469",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1995/2/eng@2026-07-24",
+ "version_date": "2026-07-24",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "KENYA REVENUE AUTHORITY ACT CAP. 469 Published in Kenya Gazette Vol. XCVII—No. 30 on 9 June 1995 Assented to on 31 May 1995 Commenced on 1 July 1995 by Kenya Revenue Authority Act Commencement\n[Amended by Kenya Revenue Authority Act Order, 1996 (Legal Notice 119 of 1996) on 14 June 1996] [Amended by Kenya Revenue Authority Act Order, 1996 (Legal Notice 119 of 1996) on 16 June 1996]\n[Amended by Finance Act, 1996 (Act No. 8 of 1996) on 18 June 1996] [Amended by Finance Act, 1997 (Act No. 8 of 1997) on 19 June 1997] [Amended by Amendment of First Schedule, 1997 (Legal Notice 143 of 1997) on 8 August 1997] [Amended by Amendment of First Schedule, 1998 (Legal Notice 56 of 1998) on 24 April 1998] [Amended by Finance Act, 1998 (Act No. 5 of 1998) on 11 June 1998] [Amended by Finance Act, 1999 (Act No. 4 of 1999) on 10 June 1999] [Amended by Finance Act, 1999 (Act No. 4 of 1999) on 1 October 1999] [Amended by Finance Act, 1999 (Act No. 4 of 1999) on 18 November 1999] [Amended by Finance Act, 2000 (Act No. 9 of 2000) on 15 June 2000] [Amended by Finance Act, 2000 (Act No. 9 of 2000) on 1 July 2000] [Amended by Finance Act, 2001 (Act No. 6 of 2001) on 14 June 2001] [Amended by Finance Act, 2001 (Act No. 6 of 2001) on 1 September 2001] [Amended by Finance Act, 2001 (Act No. 6 of 2001) on 24 December 2001] [Amended by Finance Act, 2003 (Act No. 15 of 2003) on 13 June 2003] [Amended by Amendment of the First Schedule, 2004 (Legal Notice 56 of 2004) on 2 July 2004] [Amended by Finance Act, 2004 (Act No. 4 of 2004) on 7 January 2005] [Amended by Finance Act, 2006 (Act No. 10 of 2006) on 1 January 2007] [Amended by Finance Act, 2007 (Act No. 9 of 2007) on 15 June 2007] [Amended by Finance Act, 2008 (Act No. 8 of 2008) on 1 January 2009] [Amended by Finance Act, 2012 (Act No. 57 of 2012) on 1 January 2013] [Amended by Finance Act, 2014 (Act No. 16 of 2014) on 19 September 2014] [Amended by Finance Act, 2015 (Act No. 14 of 2015) on 1 October 2015]\n[Amended by Tax Procedures Act (Cap. 469B) on 19 January 2016] [Amended by Finance Act, 2016 (Act No. 38 of 2016) on 1 January 2017] [Amended by Finance Act, 2017 (Act No. 15 of 2017) on 1 January 2018]\n[Amended by Finance Act, 2018 (Act No. 10 of 2018) on 1 July 2018] [Amended by Tax Laws (Amendment) Act, 2020 (Act No. 2 of 2020) on 25 April 2020]\n[Amended by Finance Act, 2020 (Act No. 8 of 2020) on 30 June 2020] [Amended by Finance Act, 2021 (Act No. 8 of 2021) on 1 July 2021] [Amended by Industrial Training (Amendment) Act, 2022 (Act No. 13 of 2022) on 22 April 2022] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] [Amended by Finance Act, 2023 (Act No. 4 of 2023) on 1 July 2023] [Amended by Affordable Housing Act (Cap. 177A) on 22 March 2024] [Amended by Kenya Revenue Authority (Amendment) Act, 2024 (Act No. 16 of 2024) on 27 December 2024] [Amended by Gambling Control Act (Act No. 14 of 2025) on 26 August 2025] [Amended by Sovereign Wealth Fund Act (Act No. 25 of 2026) on 24 July 2026]\nAn Act of Parliament to establish the Kenya Revenue Authority as a central body for the assessment and collection of revenue, for the administration and enforcement of the laws relating to revenue and to provide for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "provisions": [
+    "3",
+    "4",
+    "5",
+    "5A"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "ESTABLISHMENT AND FUNCTIONS OF THE BOARD OF DIRECTORS",
+   "provisions": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "COMMISSIONER-GENERAL, OFFICERS AND STAFF",
+   "provisions": [
+    "11",
+    "12",
+    "13",
+    "13A",
+    "14"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "15",
+    "15A",
+    "16",
+    "17",
+    "18",
+    "19"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "20",
+    "20A",
+    "21",
+    "22",
+    "23",
+    "24",
+    "24A",
+    "25"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Kenya Revenue Authority Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— “Authority” means the Kenya Revenue Authority established by section 3; “Board” means the Board of Directors established by section 6; “Cabinet Secretary” means the Cabinet Secretary for the time being responsible for finance; “Chairperson” means the Chairperson of the Board; \"Commissioner\" means a Commissioner appointed under section 13(1); “financial year” means the period from 1st July of any year to 30th June of the following year; “functional head” deleted by Act No. 4 of 2004, s. 65(b); “member” means a member of the Board of Directors and includes the Chairperson; “revenue” means taxes, duties, fees, levies, charges, penalties, fines or other monies collected or imposed under the written laws set out in the First Schedule.\n[Act No. 5 of 1998, s. 67, Act No. 4 of 2004, s. 65.]",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment of Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) There is established an Authority to be known as the Kenya Revenue Authority. (2) The Authority shall be a body corporate with perpetual succession and a common seal and shall, subject to this Act, be capable in its corporate name of—\n  (a) suing and being sued: Provided that any legal proceedings against the Authority arising from the performance of the functions or the exercise of any of the powers of the Authority under section 5 shall be deemed to be legal proceedings against the Government within the meaning of the Government Proceedings Act (Cap. 40);\n  (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property;\n  (c) borrowing or lending money;\n  (d) doing or performing all other things or acts for the furtherance of the provisions of this Act, which may be lawfully done or performed by a body corporate.\n(3) Deleted by Act No. 5 of 1998, s. 68(b). [Act No. 5 of 1998, s. 68.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established an Authority to be known as the Kenya Revenue Authority. (2) The Authority shall be a body corporate with perpetual succession and a common seal and shall, subject to this Act, be capable in its corporate name of— (a) suing and being sued: Provided that any legal proceedings against the Authority arising from the performance of the functions or the exercise of any of the powers of the Authority under section 5 shall be deemed to be legal proceedings against the Government within the meaning of the Government Proceedings Act (Cap. 40); (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property; (c) borrowing or lending money; (d) doing or performing all other things or acts for the furtherance of the provisions of this Act, which may be lawfully done or performed by a body corporate."
+    },
+    {
+     "ref": "(3)",
+     "text": "Deleted by Act No. 5 of 1998, s. 68(b). [Act No. 5 of 1998, s. 68.]"
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Seal of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) The seal of the Authority shall be authenticated by the signature of the Commissioner-General and the Secretary to the Board.\n(2) In the absence of the Commissioner-General, a Commissioner designated by him for the purpose may authenticate the seal in his place, and in the absence of the Secretary to the Board, the person for the time being performing the functions of the Secretary may authenticate the seal in his place.\n(3) Every document purporting to be an instrument issued by the Authority and to be sealed with the seal of the Authority authenticated in the manner provided by subsection (1) or (2) shall be deemed to be such an instrument and shall be received in evidence without further proof.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The seal of the Authority shall be authenticated by the signature of the Commissioner-General and the Secretary to the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "In the absence of the Commissioner-General, a Commissioner designated by him for the purpose may authenticate the seal in his place, and in the absence of the Secretary to the Board, the person for the time being performing the functions of the Secretary may authenticate the seal in his place."
+    },
+    {
+     "ref": "(3)",
+     "text": "Every document purporting to be an instrument issued by the Authority and to be sealed with the seal of the Authority authenticated in the manner provided by subsection (1) or (2) shall be deemed to be such an instrument and shall be received in evidence without further proof."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Functions of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) The Authority shall, under the general supervision of the Cabinet Secretary, be an agency of the Government for the collection and receipt of all revenue.\n(2) In the performance of its functions under subsection (1), the Authority shall—\n  (a) administer and enforce—\n  (i) all provisions of the written laws set out in Part I of the First Schedule and for that purpose, to assess, collect and account for all revenues in accordance with those laws;\n  (ii) the provisions of the written laws set out in Part II of the First Schedule relating to revenue and for that purpose to assess, collect and account for all revenues in accordance with those laws;\n  (b) advise the Government on all matters relating to the administration of, and the collection of revenue under the written laws or the specified provisions of the written laws set out in the First Schedule; and (c) perform such other functions in relation to revenue as the Cabinet Secretary may direct.\n(2A) The Authority may establish an institution to provide capacity building and training the staff of the Authority, general public and other jurisdictions.\n(2B) The functions of the institution established under subsection (2A) shall include—\n  (a) offering directly or in collaboration with any other institution of higher learning, programs in revenue administration and any other programs as may be deemed fit;\n  (b) the development of curricula; and (c) the assessment or examination of students and awarding of certificates.\n(3) The Cabinet Secretary may, by notice in the Gazette, amend the First Schedule. [Act No. 5 of 1998, s. 69, Act No. 8 of 2020, s. 33, Act No. 4 of 2023, s. 79, Act No. 16 of 2024, s. 2]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority shall, under the general supervision of the Cabinet Secretary, be an agency of the Government for the collection and receipt of all revenue."
+    },
+    {
+     "ref": "(2)",
+     "text": "In the performance of its functions under subsection (1), the Authority shall— (a) administer and enforce— (i) all provisions of the written laws set out in Part I of the First Schedule and for that purpose, to assess, collect and account for all revenues in accordance with those laws; (ii) the provisions of the written laws set out in Part II of the First Schedule relating to revenue and for that purpose to assess, collect and account for all revenues in accordance with those laws; (b) advise the Government on all matters relating to the administration of, and the collection of revenue under the written laws or the specified provisions of the written laws set out in the First Schedule; and (c) perform such other functions in relation to revenue as the Cabinet Secretary may direct."
+    },
+    {
+     "ref": "(2A)",
+     "text": "The Authority may establish an institution to provide capacity building and training the staff of the Authority, general public and other jurisdictions."
+    },
+    {
+     "ref": "(2B)",
+     "text": "The functions of the institution established under subsection (2A) shall include— (a) offering directly or in collaboration with any other institution of higher learning, programs in revenue administration and any other programs as may be deemed fit; (b) the development of curricula; and (c) the assessment or examination of students and awarding of certificates."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary may, by notice in the Gazette, amend the First Schedule. [Act No. 5 of 1998, s. 69, Act No. 8 of 2020, s. 33, Act No. 4 of 2023, s. 79, Act No. 16 of 2024, s. 2]"
+    }
+   ]
+  },
+  "5A": {
+   "num": "5A",
+   "title": "Rewards",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) The Commissioner-General may, upon the recommendation of a Commissioner, reward any person for information leading to the identification or recovery of unassessed taxes or duties: Provided that this section shall not apply to any officer of the Authority.\n(2) The reward payable under subsection (1) shall be—\n  (a) in the case of information leading to the identification of unassessed duties or taxes, one per centum of the duties or taxes so identified or five hundred thousand shillings, whichever is the less;\n  (b) in the case of information leading to the recovery of unassessed duties or taxes, five per centum of the taxes or duties so recovered or five million shillings, whichever is the less; and\n  (c) in the case of information not specified in paragraph (a) and (b) leading to the enforcement of the tax laws, five hundred thousand shillings. [Act No. 8 of 1997, s. 71, Act No. 4 of 2004, s. 66, Act No. 8 of 2008, s. 45, Act No. 2 of 2020, Sch., Act No. 8 of 2021, s. 59]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commissioner-General may, upon the recommendation of a Commissioner, reward any person for information leading to the identification or recovery of unassessed taxes or duties: Provided that this section shall not apply to any officer of the Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "The reward payable under subsection (1) shall be— (a) in the case of information leading to the identification of unassessed duties or taxes, one per centum of the duties or taxes so identified or five hundred thousand shillings, whichever is the less;"
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Board of Directors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ESTABLISHMENT AND FUNCTIONS OF THE BOARD OF DIRECTORS",
+   "text": "(1) There is established a Board of Directors which shall be the governing body of the Authority. (2) The Board shall comprise the following members—\n  (a) a Chairperson to be appointed by the President;\n  (b) the Commissioner-General;\n  (c) the Principal Secretary in the Ministry responsible for finance or his representative;\n  (d) the Attorney-General or his representative;\n  (e) six other persons appointed by the Cabinet Secretary by virtue of their knowledge and experience in accountancy, commerce, law, taxation, business administration or public administration. (3) No person shall be appointed as the Chairperson of the Board or as a member of the Board under paragraph (e) of subsection (2) if such person is a public officer or has been a public officer within the immediately preceding twelve months. (4) Representatives of the members of the Board under paragraphs (c) and (d) of subsection (2) shall be persons with knowledge or experience in matters relating to tax policy or legislation. (5) Deleted by Act No. 16 of 2014, s. 30. (6) The Board shall be responsible for—\n  (a) the approval and review of the policy of the Authority;\n  (b) the monitoring of the performance of the Authority in carrying out its functions; and (c) the discipline and control of all members of staff of the Authority appointed under this Act.\n[Act No. 5 of 1998, s. 70, Act No. 4 of 1999, s. 104, Act No. 16 of 2014, s. 30. ]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a Board of Directors which shall be the governing body of the Authority. (2) The Board shall comprise the following members—"
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Tenure of office of Chairperson and members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ESTABLISHMENT AND FUNCTIONS OF THE BOARD OF DIRECTORS",
+   "text": "(1) A member of the Board, other than an ex officio member—\n  (a) shall hold office on such terms and conditions including remuneration as are specified in his instrument of appointment, and for a period not exceeding three years; and (b) shall be eligible for re-appointment for one further term of three years.\n(2) A member of the Board, other than an ex officio member, may resign his office by written notification under his hand addressed to the Cabinet Secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A member of the Board, other than an ex officio member— (a) shall hold office on such terms and conditions including remuneration as are specified in his instrument of appointment, and for a period not exceeding three years; and (b) shall be eligible for re-appointment for one further term of three years."
+    },
+    {
+     "ref": "(2)",
+     "text": "A member of the Board, other than an ex officio member, may resign his office by written notification under his hand addressed to the Cabinet Secretary."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Termination of appointment of Chairperson and members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ESTABLISHMENT AND FUNCTIONS OF THE BOARD OF DIRECTORS",
+   "text": "The appointment of a member, other than an ex officio member, may be terminated, in the case of the Chairperson, by the President, and in the case of any other member, by the Cabinet Secretary, on any of the following grounds—\n  (a) for his inability to perform the functions of his office by reason of mental or physical infirmity;\n  (b) if he is declared or becomes bankrupt or insolvent;\n  (c) if he is convicted of a criminal offence and sentenced to a term of imprisonment of not less than six months;\n  (d) if, without reasonable cause to the satisfaction of the Cabinet Secretary, he is absent from six meetings of the Board in any financial year;\n  (e) if in any particular case, he fails to comply with the provisions of section 9;\n  (f) for such other sufficient cause as the Cabinet Secretary may, by notice in the Gazette, specify.\n[Act No. 5 of 1998, s. 71.]",
+   "clauses": []
+  },
+  "9": {
+   "num": "9",
+   "title": "Disclosure of interest by Chairperson and members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ESTABLISHMENT AND FUNCTIONS OF THE BOARD OF DIRECTORS",
+   "text": "(1) A member of the Board who has a direct or indirect personal interest in a matter being considered or to be considered by the Board shall as soon as possible after the relevant facts concerning the matter have come to his knowledge disclose the nature of his interest to the Board.\n(2) A disclosure of interest made by a member of the Board under subsection (1) shall be recorded in the minutes of the meeting of the Board and the member shall not unless the Board otherwise determines in respect of that matter—\n  (a) be present during any deliberations on the matter by the Board; or (b) take part in the decision of the Board on the matter.\n(3) For the purpose of the Board making a determination under subsection (2) in relation to a member who has made a disclosure under subsection (1), such member shall not—\n  (a) be present during the deliberations of the Board nor take part in the making of such determination by the Board; or (b) influence any other member to take part in the making of such determination by the Board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A member of the Board who has a direct or indirect personal interest in a matter being considered or to be considered by the Board shall as soon as possible after the relevant facts concerning the matter have come to his knowledge disclose the nature of his interest to the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "A disclosure of interest made by a member of the Board under subsection (1) shall be recorded in the minutes of the meeting of the Board and the member shall not unless the Board otherwise determines in respect of that matter— (a) be present during any deliberations on the matter by the Board; or (b) take part in the decision of the Board on the matter."
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purpose of the Board making a determination under subsection (2) in relation to a member who has made a disclosure under subsection (1), such member shall not— (a) be present during the deliberations of the Board nor take part in the making of such determination by the Board; or (b) influence any other member to take part in the making of such determination by the Board."
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Meetings of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ESTABLISHMENT AND FUNCTIONS OF THE BOARD OF DIRECTORS",
+   "text": "(1) The provisions of the Second Schedule shall apply to the meetings of the Board and other matters provided for in that Schedule.\n(2) The Board may co-opt any person to participate in its deliberations, but a person so co-opted shall have no right to vote.\n(3) The Cabinet Secretary may, by notice in the Gazette, amend the Second Schedule.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The provisions of the Second Schedule shall apply to the meetings of the Board and other matters provided for in that Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may co-opt any person to participate in its deliberations, but a person so co-opted shall have no right to vote."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary may, by notice in the Gazette, amend the Second Schedule."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Commissioner-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "COMMISSIONER-GENERAL, OFFICERS AND STAFF",
+   "text": "(1) There shall be a Commissioner-General of the Authority who shall be appointed by the Cabinet Secretary upon the recommendation of the Board on such terms and conditions as are specified in his instrument of appointment.\n(2) The Commissioner-General shall be the Chief Executive of the Authority and, subject to the general supervision and control of the Board, shall be responsible—\n  (a) for the day-to-day operations of the Authority;\n  (b) for the management of funds, property and affairs of the Authority; and (c) for the administration, organization and control of the staff of the Authority.\n(3) The Cabinet Secretary may, after consultation with the Board, terminate the appointment of the Commissioner-General for—\n  (a) misbehaviour in terms of the code of conduct and discipline prescribed under section 21;\n  (b) the Commissioner-General’s inability to perform the functions of his office by reason of mental or physical infirmity; or (c) any other sufficient cause.\n(4) The Commissioner-General may, with the approval of the Board, by notice in the Gazette, delegate any of his powers or functions under this Act or any other written law to a Commissioner. [Act No. 4 of 2004, s. 67.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Commissioner-General of the Authority who shall be appointed by the Cabinet Secretary upon the recommendation of the Board on such terms and conditions as are specified in his instrument of appointment."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Commissioner-General shall be the Chief Executive of the Authority and, subject to the general supervision and control of the Board, shall be responsible— (a) for the day-to-day operations of the Authority; (b) for the management of funds, property and affairs of the Authority; and (c) for the administration, organization and control of the staff of the Authority."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary may, after consultation with the Board, terminate the appointment of the Commissioner-General for— (a) misbehaviour in terms of the code of conduct and discipline prescribed under section 21; (b) the Commissioner-General’s inability to perform the functions of his office by reason of mental or physical infirmity; or (c) any other sufficient cause."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Commissioner-General may, with the approval of the Board, by notice in the Gazette, delegate any of his powers or functions under this Act or any other written law to a Commissioner. [Act No. 4 of 2004, s. 67.]"
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Secretary to the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "COMMISSIONER-GENERAL, OFFICERS AND STAFF",
+   "text": "(1) There shall be a Secretary to the Board who shall be appointed by the Board. (2) The Secretary shall be responsible for arranging the business of the Board’s meetings, keeping records of the Board’s meetings, keeping records of the proceedings of the Board, and shall perform such other duties as the Board may direct.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Secretary to the Board who shall be appointed by the Board. (2) The Secretary shall be responsible for arranging the business of the Board’s meetings, keeping records of the Board’s meetings, keeping records of the proceedings of the Board, and shall perform such other duties as the Board may direct."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Appointment of Commissioners and other officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "COMMISSIONER-GENERAL, OFFICERS AND STAFF",
+   "text": "(1) The Board shall appoint, to the service of the Authority, such Commissioners as may be deemed necessary.\n(1A) The Commissioner-General shall appoint Deputy Commissioners subject to the approval of the Board.\n(2) Deleted by Act No. 4 of 2023, s. 80(b). (3) The Commissioner-General shall appoint all other members of staff as may be required by the Authority for efficient performance of its functions. (4) The terms and conditions of all persons employed by the Authority shall be determined by the Board. (5) Except as may otherwise be determined by the Board in any particular case, an officer referred to in subsection (1), or in his absence the immediate deputy, shall be entitled to attend and participate in the deliberations of any meeting of the Board but shall have no right to vote.\n[Act No. 4 of 2004, s. 68, Act No. 4 of 2023, s. 80, Act No. 16 of 2024, s. 3]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall appoint, to the service of the Authority, such Commissioners as may be deemed necessary."
+    },
+    {
+     "ref": "(1A)",
+     "text": "The Commissioner-General shall appoint Deputy Commissioners subject to the approval of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "Deleted by Act No. 4 of 2023, s. 80(b). (3) The Commissioner-General shall appoint all other members of staff as may be required by the Authority for efficient performance of its functions. (4) The terms and conditions of all persons employed by the Authority shall be determined by the Board. (5) Except as may otherwise be determined by the Board in any particular case, an officer referred to in subsection (1), or in his absence the immediate deputy, shall be entitled to attend and participate in the deliberations of any meeting of the Board but shall have no right to vote."
+    }
+   ]
+  },
+  "13A": {
+   "num": "13A",
+   "title": "Transfer of functions and merger of departments",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "COMMISSIONER-GENERAL, OFFICERS AND STAFF",
+   "text": "The Commissioner-General may, with the approval of the Cabinet Secretary, transfer the functions of departments of the Authority or merge departments of the Authority.\n[Act No. 4 of 2004, s. 69.]",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "Employees to be personally liable for wrongful acts or omissions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "COMMISSIONER-GENERAL, OFFICERS AND STAFF",
+   "text": "Any person employed by the Authority shall be personally liable for any act or omission done or committed in the performance of his functions under this Act, if having regard to the circumstances of the case such act or omission—\n  (a) is done or committed wilfully or dishonestly by such person;\n  (b) is attributable to the negligence of such person; or\n  (c) is done or committed by such person in contravention of any provision of this Act or regulations made thereunder or any other written law.",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "Revenue to be paid into Consolidated Fund",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "All revenues collected by, or due and payable to, the Authority under this Act shall be paid into the Consolidated Fund:\nProvided that all revenues collected by the Authority in respect of any fund established under an Act of Parliament shall be paid into that fund after deducting the expenses incurred by the Authority for the collection of such revenue.\n[Act No. 8 of 1996, s. 60.]",
+   "clauses": []
+  },
+  "15A": {
+   "num": "15A",
+   "title": "Appointment of agents",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Commissioner may appoint a person registered under the Banking Act to act as an agent for revenue banking services through an agreement.\n(2) Any person appointed under this section shall be required to transfer the funds to the designated Central Bank accounts within two days following the date of collection.\n(3) A person who fails to transfer the funds in accordance with the provisions of subsection (2) shall be liable to a penalty equivalent to two per cent of the revenue collections not transferred and shall be compounded for every other day on the amount of revenue that is not transferred.\n(4) The penalty under subsection (3) shall be treated as a tax debt due to the government and the enforcement measures for collection and recovery of tax shall apply.\n(5) The Cabinet Secretary may waive part or the whole of the penalty due under subsection (3), where the person has transferred the funds to the Central Bank in full:\nProvided that failure to transfer the funds was not due to willful negligence but was as a result of—\n  (a) system downtime that prevented the transfer of funds and the matter has been promptly reported to the Commissioner;\n  (b) notification to the person that he has been put under receivership or statutory management preventing transfer of funds and the matter has been promptly reported to the Commissioner;\n  (c) occurrence of a force majeure event that prevents the person from transferring the funds; or\n  (d) any other justifiable reason as the Cabinet Secretary may deem appropriate.\n[Act No. 2 of 2020, Sch., Act No. 16 of 2024, s. 4.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commissioner may appoint a person registered under the Banking Act to act as an agent for revenue banking services through an agreement."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person appointed under this section shall be required to transfer the funds to the designated Central Bank accounts within two days following the date of collection."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who fails to transfer the funds in accordance with the provisions of subsection (2) shall be liable to a penalty equivalent to two per cent of the revenue collections not transferred and shall be compounded for every other day on the amount of revenue that is not transferred."
+    },
+    {
+     "ref": "(4)",
+     "text": "The penalty under subsection (3) shall be treated as a tax debt due to the government and the enforcement measures for collection and recovery of tax shall apply."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Cabinet Secretary may waive part or the whole of the penalty due under subsection (3), where the person has transferred the funds to the Central Bank in full:"
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Funds of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The funds of the Authority shall consist of—\n  (a) such amount, not exceeding two percent of the revenue estimated in the financial estimates for each financial year to be collected by the Authority under this Act, as may be determined by the Cabinet Secretary in each financial year;\n  (b) three percent of the revenue actually collected in each successive three-month period in the financial year in excess of the amount estimated to be collected in respect of that period;\n  (ba) any commission received by the Authority for collecting any revenue on behalf of a county government or government agency:\nProvided that such commission shall not exceed two per cent of the total revenue collected on behalf of the county government or government agency;\n  (c) loans and grants received by the Authority with the approval of the Cabinet Secretary; and\n  (d) any other monies as may, with the approval of the Cabinet Secretary, be received by or made available to the Authority for the purpose of performing its functions.\n(2) The funds of the Authority—\n  (a) specified in subsection (1)(a) shall be payable to the Authority in equal monthly instalments on or before the beginning of each month;\n  (b) specified in subsection (1)(b) shall be payable to the Authority within one month after the end of that three month period.\n(3) Any funds received by the Authority in respect of a financial year which are not expended by the end of that financial year shall be placed in a reserve fund to be expended subject to the budget of the Authority for the ensuing financial year approved by the Board.\n(4) Notwithstanding any other provision of this section, the capital projects of the Authority shall be funded separately.\n[Act No. 10 of 2006, s. 36, Act No. 57 of 2012, s. 28, Act No. 8 of 2020, s. 34.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The funds of the Authority shall consist of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The funds of the Authority—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Any funds received by the Authority in respect of a financial year which are not expended by the end of that financial year shall be placed in a reserve fund to be expended subject to the budget of the Authority for the ensuing financial year approved by the Board."
+    },
+    {
+     "ref": "(4)",
+     "text": "Notwithstanding any other provision of this section, the capital projects of the Authority shall be funded separately."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Estimates of income and expenditure of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Commissioner-General shall, not later than three months before the end of each financial year, prepare and submit to the Board for its approval, estimates of the income and expenditure of the Authority for the next ensuing financial year and may at any time before the end of each financial year, prepare and submit to the Board for approval any estimates supplementary to the estimates for that financial year.\n(2) No expenditure shall be made out of the funds of the Authority unless that expenditure is part of the expenditure approved by the Board according to the estimates for the financial year in which the expenditure is to be incurred or in the supplementary estimates for that year.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commissioner-General shall, not later than three months before the end of each financial year, prepare and submit to the Board for its approval, estimates of the income and expenditure of the Authority for the next ensuing financial year and may at any time before the end of each financial year, prepare and submit to the Board for approval any estimates supplementary to the estimates for that financial year."
+    },
+    {
+     "ref": "(2)",
+     "text": "No expenditure shall be made out of the funds of the Authority unless that expenditure is part of the expenditure approved by the Board according to the estimates for the financial year in which the expenditure is to be incurred or in the supplementary estimates for that year."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Accounts, audit and annual reports",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Authority shall keep accounts and records of its transactions and affairs and shall ensure that all moneys received are properly brought to account, all payments out of its funds are correctly made and properly authorized and that adequate control is maintained over its property and liabilities the Authority may incur under this Act.\n(2) The annual accounts of the Authority shall be audited by the Auditor-General.\n(3) The Commissioner-General shall, within three months after the end of each financial year submit—\n  (a) to the Cabinet Secretary and the Board an annual report in respect of that year, containing—\n  (i) financial statements of the Authority;\n  (ii) the Authority’s performance indicators and any other related information;\n  (iii) a report on the operations of the Authority; and (iv) such other information as the Board may deem fit; and (b) to the Auditor-General, the accounts of the Authority for the financial year; and the annual report referred to in paragraph (a).\n(4) The Auditor-General shall audit the accounts of the Authority within two months after he has received them and submit his report thereon to the Cabinet Secretary and to the Board.\n(5) The Cabinet Secretary shall cause copies of the annual report together with copies of the AuditorGeneral’s report to be laid before the National Assembly within two months or at the next sitting of the National Assembly after he has received them, whichever is the earlier.\n(6) The Commissioner-General shall, within six months after the end of each financial year, cause the audited accounts of the Authority to be published in the Gazette and in such other manner as the Board may determine, and may avail copies thereof to members of the public at such minimal fee for expenses as the Board may determine. [Act No. 9 of 2000, s. 86.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority shall keep accounts and records of its transactions and affairs and shall ensure that all moneys received are properly brought to account, all payments out of its funds are correctly made and properly authorized and that adequate control is maintained over its property and liabilities the Authority may incur under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual accounts of the Authority shall be audited by the Auditor-General."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Commissioner-General shall, within three months after the end of each financial year submit— (a) to the Cabinet Secretary and the Board an annual report in respect of that year, containing— (i) financial statements of the Authority; (ii) the Authority’s performance indicators and any other related information; (iii) a report on the operations of the Authority; and (iv) such other information as the Board may deem fit; and (b) to the Auditor-General, the accounts of the Authority for the financial year; and the annual report referred to in paragraph (a)."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Auditor-General shall audit the accounts of the Authority within two months after he has received them and submit his report thereon to the Cabinet Secretary and to the Board."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Cabinet Secretary shall cause copies of the annual report together with copies of the AuditorGeneral’s report to be laid before the National Assembly within two months or at the next sitting of the National Assembly after he has received them, whichever is the earlier."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Commissioner-General shall, within six months after the end of each financial year, cause the audited accounts of the Authority to be published in the Gazette and in such other manner as the Board may determine, and may avail copies thereof to members of the public at such minimal fee for expenses as the Board may determine. [Act No. 9 of 2000, s. 86.]"
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Internal audit and quarterly audit reports",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) In addition to any other functions assigned to him by the Board or the Commissioner-General, the head of internal audit shall be responsible for the internal audit of the Authority’s accounts and shall submit to the Commissioner-General a report on the accounts in respect of every three months of a financial year.\n(2) The Commissioner-General shall submit every report referred to in subsection (1) to the Board for its consideration at the next meeting of the Board after he has received the report and shall also submit copies of the report to the Cabinet Secretary and the Controller and Auditor-General.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In addition to any other functions assigned to him by the Board or the Commissioner-General, the head of internal audit shall be responsible for the internal audit of the Authority’s accounts and shall submit to the Commissioner-General a report on the accounts in respect of every three months of a financial year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Commissioner-General shall submit every report referred to in subsection (1) to the Board for its consideration at the next meeting of the Board after he has received the report and shall also submit copies of the report to the Cabinet Secretary and the Controller and Auditor-General."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Exemption",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Authority shall be exempted from the State Corporations Act (Cap. 446).",
+   "clauses": []
+  },
+  "20A": {
+   "num": "20A",
+   "title": "Limitation of actions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Legal action against the Authority shall not be instituted unless—\n  (a) it is commenced within three years after the act, neglect or default complained of;\n  (b) in the case of continuing injury or damage, within six months after the cessation of the act; and (c) at least one month written notice specifying the particulars of the claim and intention to commence the action or legal proceeding has been served upon the Commissioner-General [Act No. 8 of 2020, s. 35.]",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Board may make regulations for the carrying into effect the provisions of this Act, and in particular but without prejudice to the foregoing make regulations—\n  (a) respecting the terms and conditions of service, including pensions, gratuities and other retirement benefits, of all members of staff of the Authority;\n  (b) prescribing the procedure for the appointment of all members of the staff of the Authority;\n  (c) prescribing the code of conduct and discipline;\n  (d) respecting the administration and management of the funds of the Authority;\n  (e) respecting the performance targets of the Authority;\n  (f) with respect to capacity building and training.\n[Act No. 8 of 2020, s. 36.]",
+   "clauses": []
+  },
+  "22": {
+   "num": "22",
+   "title": "Vesting of assets and liabilities, subsisting contracts, pending proceedings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) All property, except any such property as the Cabinet Secretary may determine, which immediately before the commencement of this Act was vested in the Government for the use of the Departments of Customs and Excise, Income Tax and Value Added Tax for purposes of the written laws set out in the First Schedule, shall on the commencement of this Act, and without further assurance, vest in the Authority subject to all interests, liabilities, charges, obligations and trusts affecting such property.\n(2) Except as otherwise provided in subsection (1) in relation to property, all contracts, debts, obligations and liabilities of the Government attributable to the Departments of Customs and Excise, Income Tax and Value Added Tax before the commencement of this Act shall remain vested in the Government and may be enforced by or against the Government.\n(3) Subject to section 2, all legal proceedings and claims which before the commencement of this Act are pending in respect of revenue to which the written laws set out in the First Schedule apply shall be continued or enforced by or against the Authority in the same manner as they would have been continued or enforced if this Act had not been enacted.\n(4) Unless the Board otherwise determines, all persons being public officers, who before the commencement of this Act are employed by the Government for the purposes of the written laws specified in the First Schedule shall, on the commencement of this Act, be deemed to be on secondment to the Authority until they are employed in the service of the Authority in accordance with this Act or their secondment with the Authority otherwise ceases in accordance with the terms of the secondment.\n[Act No. 5 of 1998, s. 71.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "All property, except any such property as the Cabinet Secretary may determine, which immediately before the commencement of this Act was vested in the Government for the use of the Departments of Customs and Excise, Income Tax and Value Added Tax for purposes of the written laws set out in the First Schedule, shall on the commencement of this Act, and without further assurance, vest in the Authority subject to all interests, liabilities, charges, obligations and trusts affecting such property."
+    },
+    {
+     "ref": "(2)",
+     "text": "Except as otherwise provided in subsection (1) in relation to property, all contracts, debts, obligations and liabilities of the Government attributable to the Departments of Customs and Excise, Income Tax and Value Added Tax before the commencement of this Act shall remain vested in the Government and may be enforced by or against the Government."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to section 2, all legal proceedings and claims which before the commencement of this Act are pending in respect of revenue to which the written laws set out in the First Schedule apply shall be continued or enforced by or against the Authority in the same manner as they would have been continued or enforced if this Act had not been enacted."
+    },
+    {
+     "ref": "(4)",
+     "text": "Unless the Board otherwise determines, all persons being public officers, who before the commencement of this Act are employed by the Government for the purposes of the written laws specified in the First Schedule shall, on the commencement of this Act, be deemed to be on secondment to the Authority until they are employed in the service of the Authority in accordance with this Act or their secondment with the Authority otherwise ceases in accordance with the terms of the secondment."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Construction and modification of other written laws",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "On and after the coming into force of this Act—\n  (a) all references to the Commissioner of Customs and Excise, Commissioner of Income Tax or the Commissioner of Value Added Tax in any written law shall be construed as references to the Commissioner-General of the Authority;\n  (b) deleted by Act No. 4 of 2004, s. 70;\n  (c) any reference to Customs and Excise Department, Income Tax Department or Value Added Tax Department in any written law shall be deemed to be reference to the Authority;\n  (d) except as provided in paragraph (a) any reference to an officer of the Customs and Excise Department, Income Tax Department or Value Added Tax Department howsoever designated in any written law shall be deemed to be reference to such officer of the Authority. [Act No. 8 of 1997, s. 72, Act No. 4 of 2004, s. 70.]",
+   "clauses": []
+  },
+  "24": {
+   "num": "24",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "",
+   "clauses": []
+  },
+  "24A": {
+   "num": "24A",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [s. 2 & 5] WRITTEN LAWS RELATING TO REVENUE",
+   "subtitle": null,
+   "text": "[L.N. 119/1996, r. 2, L.N. 143/1997, L.N. 56/1998, Act No. 5 of 1998, s. 72, Act No. 4 of 1999, s. 105, Act No. 9 of 2000, s. 88, Act No. 6 of 2001, s. 59, Act No. 15 of 2003, s. 45, L.N. 56 of 2004, Act No. 10 of 2006, s. 37, Act No. 9 of 2007, s. 75, Act No. 14 of 2015, s. 21, Act No. 15 of 2017, s. 36, Act No. 10 of 2018, s. 71, Act No. 13 of 2022, s. 22., Act No. 4 of 2023, s. 81, Act No. 2 of 2024, 3rd Sch., Act No. 14 of 2025, s. 123(2), Act No. 25 of 2026, 4th Sch.]\nPart I 1. The Income Tax Act (Cap. 470). 2. Spent. 3. The Value Added Tax Act (Cap. 476). 4. The Road Maintenance Levy Fund Act (Cap. 427). 5. The Air Passenger Service Charge Act (Cap. 475). 6. The Entertainment Tax Act (Cap. 479). 7. The East African Community Customs Management Act (No. 1 of 2005). 8. The Annexes to the Protocol on the Establishment of the East African Community Customs Union. 9. Spent. 10. Excise Duty Act (Cap. 472). 11. Tax Procedures Act (Cap. 469B). 12. Miscellaneous Fees and Levies Act (Cap. 469C) 13. The Alcoholic Drinks Act (Cap. 121).\nPart II 1. The Traffic Act (Cap. 403). 2. Spent. 3. The Second-Hand Motor Vehicles Purchase Tax Act (Cap. 484). 4. The Civil Aviation Act (Cap. 394).\n5. The Widows’ and Children’s Pensions Act (Cap. 195). 6. The Parliamentary Pensions Act (Cap. 196). 7. The Gambling Control Act (No. 14 of 2025). 8. The Stamp Duty Act (Cap. 480). 9. The Horticultural Crops Development Authority (Imposition of Fees and Charges) Order, 1995 (L.N. 225 of 1995). 10. The Standards Levy Order, 1990 (L.N. 267 of 1990). 10A. The Industrial Training Act (Cap. 237). 11. The Government Lands Act (Cap. 280). 12. The Sugar Act (No. 10 of 2001) (Repealed). 13. The National Social Security Fund Act (Cap. 258). 14. Public Finance Management Act (Cap. 412A). 15. The Affordable Housing Act, 2024. 16. The Mining Act (Cap. 306). 17. Petroleum Act (Cap. 308).\nSpent Part III"
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [s. 10]",
+   "subtitle": "CONDUCT OF THE MEETINGS OF THE BOARD",
+   "text": "[ Act No. 5 of 1998, s. 73, Act No. 38 of 2016 s. 47.]\n1. Meetings of the Board\n(1) The first meeting of the Board shall be convened by the Chairperson and, subsequently, the Board shall meet as often as necessary for the transaction of business at such places and at such times as may be decided upon by the Board but it shall meet at least once every month.\n(2) The Chairperson shall preside at every meeting of the Board and in his absence the members present may appoint a member from among themselves to preside at that meeting.\n(3) The Chairperson or, in his absence a member appointed by the Board to act in his place, may at any time call a special meeting upon a written request by a majority of the members.\n(4) Notice of every meeting of the Board shall be given in writing to each member at least five days before the day of the meeting.\n2. Quorum\n(1) Subject to subparagraph (2), five members shall constitute a quorum for the conduct of business at any meeting of the Board.\n(2) When there is no quorum at, or for the continuation of, a meeting of the Board only because of the exclusion of a member under section 9 of the Act from the deliberations on a matter in which he has disclosed a personal interest, the other members present may if they deem it expedient so to do—\n  (a) postpone the consideration of that matter until there is a quorum without that member; or\n  (b) proceed to consider and decide the matter as if there was a quorum.\n3. Decisions of the Board\n(1) All questions proposed at a meeting of the Board shall be decided by a majority of the votes of the members present and voting, and in the event of an equality of votes, the person presiding shall have a casting vote in addition to his deliberative vote.\n(2) A decision may be made by the Board without a meeting by circulation of the relevant papers among the members of the Board and by the expression of the views of the majority of the members in writing but any member shall be entitled to require that the decision be deferred and the matter on which a decision is sought be considered at a meeting of the Board.\n4. Minutes of proceedings\n(1) The Board shall cause the minutes of all proceedings of its meetings to be recorded and kept, and the minutes of each meeting shall be confirmed by the Board at the next meeting of the Board and signed by the Chairperson or the person presiding at the meeting.\n(2) The Chairperson of the Board shall submit to the Cabinet Secretary a copy of the minutes of each meeting of the Board as soon as the minutes have been confirmed.\n5. Board to regulate its procedure Subject to the provisions of the Act, the Board may regulate its own procedure."
+  }
+ ],
+ "spent": {}
+}

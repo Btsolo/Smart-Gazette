@@ -1,0 +1,771 @@
+{
+ "title": "Vetting of Judges and Magistrates Act",
+ "citation": "Act No. 2 of 2011",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2011/2/eng@2023-12-11",
+ "version_date": "2023-12-11",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "VETTING OF JUDGES AND MAGISTRATES ACT NO. 2 OF 2011 Published in Kenya Gazette Vol. CXIII—No. 30 on 1 April 2011 Assented to on 21 March 2011 Commenced on 22 March 2011\n[Amended by Vetting of Judges and Magistrates (Amendment) Act, 2011 (Act No. 6 of 2011) on 19 May 2011] [Amended by Statute Law (Miscellaneous Amendments) Act, 2012 (Act No. 12 of 2012) on 12 July 2012] [Amended by Vetting of Judges and Magistrates (Amendment) Act, 2012 (Act No. 43 of 2012) on 14 December 2012]\n[Amended by Vetting of Judges and Magistrates (Amendment) Act, 2013 (Act No. 43 of 2013) on 10 January 2014] [Amended by Statute Law (Miscellaneous Amendment) Act, 2023 (Act No. 19 of 2023) on 11 December 2023]\nAn Act of Parliament to provide for the vetting of judges and magistrates pursuant to section 23 of the Sixth Schedule to the Constitution; to provide for the establishment, powers and functions of the Judges and Magistrates Vetting Board, and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ESTABLISHMENT, MEMBERSHIP, FUNCTIONS AND POWERS OF THE JUDGES AND MAGISTRATES VETTING BOARD",
+   "provisions": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "VETTING PROCEDURES",
+   "provisions": [
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "GENERAL",
+   "provisions": [
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Vetting of Judges and Magistrates Act, 2011.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In this Act, unless the context otherwise requires— \"Board\" means the Judges and Magistrates Vetting Board established by section 6; \"chairperson\" means the chairperson of the Board appointed under section 9; \"deputy chairperson\" means the deputy chairperson of the Board elected under section 10; \"effective date\" means the 27th August of 2010; \"judge or magistrate\" means a judge or magistrate to whom this Act applies in accordance with section 3, and includes the Registrar of the High Court and the Chief Court Administrator and their deputies, and persons seconded to administrative tribunals, in their capacity as judges or magistrates; \"member\" means a member of the Board appointed under section 9, and includes the chairperson and the deputy chairperson; \"Minister\" means the Minister for the time being responsible for matters relating to the Judiciary; \"pending complaint\" means a complaint filed or registered with any person or body mentioned in section 18(e) at least fourteen days before the judge or magistrate is vetted; \"secretary\" means the secretary of the Board appointed under section 15; \"vetting\" means the process by which the suitability of a serving judge or magistrate to continue serving in the Judiciary is determined in accordance with this Act.\n(2) Despite subsection (1), after the first elections under the Constitution, references in this Act to the expression \"Minister\" shall be construed to mean \"Cabinet Secretary\". [Act No. 6 of 2011, s. 2, Act No. 43 of 2012, s. 2.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, unless the context otherwise requires— \"Board\" means the Judges and Magistrates Vetting Board established by section 6; \"chairperson\" means the chairperson of the Board appointed under section 9; \"deputy chairperson\" means the deputy chairperson of the Board elected under section 10; \"effective date\" means the 27th August of 2010; \"judge or magistrate\" means a judge or magistrate to whom this Act applies in accordance with section 3, and includes the Registrar of the High Court and the Chief Court Administrator and their deputies, and persons seconded to administrative tribunals, in their capacity as judges or magistrates; \"member\" means a member of the Board appointed under section 9, and includes the chairperson and the deputy chairperson; \"Minister\" means the Minister for the time being responsible for matters relating to the Judiciary; \"pending complaint\" means a complaint filed or registered with any person or body mentioned in section 18(e) at least fourteen days before the judge or magistrate is vetted; \"secretary\" means the secretary of the Board appointed under section 15; \"vetting\" means the process by which the suitability of a serving judge or magistrate to continue serving in the Judiciary is determined in accordance with this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Despite subsection (1), after the first elections under the Constitution, references in this Act to the expression \"Minister\" shall be construed to mean \"Cabinet Secretary\". [Act No. 6 of 2011, s. 2, Act No. 43 of 2012, s. 2.]"
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Object and purpose of the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The object and purpose of this Act is to establish mechanisms and procedures for the vetting of judges and magistrates pursuant to the requirements of section of the Sixth Schedule to the Constitution.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Application",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "For the avoidance of doubt, the provisions of this Act shall apply only to persons who were serving as judges or magistrates and who were in office on or before the effective date.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Guiding principles",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In the exercise of its powers or the performance of its functions under this Act, the Board shall at all times, be guided by the principles and standards of judicial independence, natural justice and international best practice.",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Establishment of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, MEMBERSHIP, FUNCTIONS AND POWERS OF THE JUDGES AND MAGISTRATES VETTING BOARD",
+   "text": "(1) There is established an independent board to be known as the Judges and Magistrates Vetting Board.\n(2) The Board shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property; and (c) doing or performing all such other things or acts for the proper discharge of its functions under the Constitution and this Act as may be lawfully done or performed by a body corporate.\n(3) The provisions of the State Corporations Act (Cap. 446) shall not apply to the Board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established an independent board to be known as the Judges and Magistrates Vetting Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of— (a) suing and being sued; (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property; and (c) doing or performing all such other things or acts for the proper discharge of its functions under the Constitution and this Act as may be lawfully done or performed by a body corporate."
+    },
+    {
+     "ref": "(3)",
+     "text": "The provisions of the State Corporations Act (Cap. 446) shall not apply to the Board."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Membership of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, MEMBERSHIP, FUNCTIONS AND POWERS OF THE JUDGES AND MAGISTRATES VETTING BOARD",
+   "text": "(1) The Board shall consist of nine members, comprising a chairperson, a deputy chairperson and seven other members, of whom—\n  (a) six shall be citizens of Kenya appointed in accordance with section 9(1) to (12) and of whom three shall be lawyers; and (b) three shall be non-citizens of Kenya appointed in accordance with section 9(13).\n(2) Notwithstanding subsection (1), the Board may, for the purpose of the vetting of magistrates, coopt such members of the Judicial Service Commission as it considers necessary to its membership provided that such co-opted members are not serving magistrates. [Act No. 43 of 2012, s. 3.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall consist of nine members, comprising a chairperson, a deputy chairperson and seven other members, of whom— (a) six shall be citizens of Kenya appointed in accordance with section 9(1) to (12) and of whom three shall be lawyers; and (b) three shall be non-citizens of Kenya appointed in accordance with section 9(13)."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding subsection (1), the Board may, for the purpose of the vetting of magistrates, coopt such members of the Judicial Service Commission as it considers necessary to its membership provided that such co-opted members are not serving magistrates. [Act No. 43 of 2012, s. 3.]"
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Qualifications for appointment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, MEMBERSHIP, FUNCTIONS AND POWERS OF THE JUDGES AND MAGISTRATES VETTING BOARD",
+   "text": "(1) A person shall be qualified for appointment as a member if such person—\n  (a) holds a degree from a university recognised in Kenya;\n  (b) has at least fifteen years’ distinguished post qualification experience in their field of study; and (c) satisfies the requirements of Chapter Six of the Constitution.\n(2) A person shall not be qualified for appointment as the chairperson or deputy chairperson unless such person has at least twenty years’ or an aggregate of twenty years’ experience as a judge of a superior court, a distinguished legal academic, a judicial officer or other relevant legal practice in the public or the private sector in Kenya.\n(3) A person shall not be qualified for appointment as a member if such person—\n  (a) is a member of—\n  (i) Parliament; or (ii) a local authority; or (iii) the executive organ of a political party; or (b) was serving as a judge or magistrate in Kenya on the effective date.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall be qualified for appointment as a member if such person— (a) holds a degree from a university recognised in Kenya; (b) has at least fifteen years’ distinguished post qualification experience in their field of study; and (c) satisfies the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall not be qualified for appointment as the chairperson or deputy chairperson unless such person has at least twenty years’ or an aggregate of twenty years’ experience as a judge of a superior court, a distinguished legal academic, a judicial officer or other relevant legal practice in the public or the private sector in Kenya."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person shall not be qualified for appointment as a member if such person— (a) is a member of— (i) Parliament; or (ii) a local authority; or (iii) the executive organ of a political party; or (b) was serving as a judge or magistrate in Kenya on the effective date."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Procedure for appointment of members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, MEMBERSHIP, FUNCTIONS AND POWERS OF THE JUDGES AND MAGISTRATES VETTING BOARD",
+   "text": "(1) The President, in consultation with the Prime Minister and with the approval of the National Assembly, shall appoint the nine members of the Board in accordance with the procedure set out in this section.\n(2) Within seven days of the commencement of this Act, the President, in consultation with the Prime Minister shall, by notice in the Gazette and in at least two newspapers of national circulation, declare vacancies in the Board under section 7(a) and call for applications.\n(3) An application in respect of a vacancy declared under sub-section (2) shall be forwarded to the Public Service Commission within fourteen days of the publication of the notice and may be made by—\n  (a) any qualified person; or (b) any person, organisation or group of persons proposing the nomination of any qualified person.\n(4) The names of all applicants under sub-section (3) shall be published in the Gazette. (5) The Public Service Commission shall, within seven days of the expiry of the period prescribed under subsection (3), convene a selection Committee comprising one representative each of the—\n  (a) Cabinet Office;\n  (b) Office of the Prime Minister;\n  (c) Ministry for the time being responsible for matters relating to the Judiciary;\n  (d) office of the Attorney-General;\n  (e) Ministry for the time being responsible for matters relating to the public service;\n  (f) Public Service Commission;\n  (g) Judicial Service Commission, not being a serving judge or magistrate; and\n  (h) Law Society of Kenya, for the purpose of considering the applications, interviewing and selecting at least three candidates qualified for appointment as chairperson and eighteen candidates, of whom at least six shall be lawyers, qualified for appointment as members:\nProvided that not more than two-thirds of the candidates shall be of one gender.\n(6) The Public Service Commission shall, within seven days of the selection of candidates under subsection (5), forward the names of the selected candidates to the President and the Prime Minister for nomination.\n(7) The President, in consultation with the Prime Minister shall, within seven days of receipt of the names of the selected candidates under subsection (6), nominate a chairperson and five other persons for appointment as members of the Board and forward the names to the National Assembly.\n(8) The National Assembly shall, within fourteen days of the receipt of the nominees under subsection (7), consider all the nominations received and may approve or reject any nomination.\n(9) Where the National Assembly—\n  (a) approves the nominees, the Speaker shall, within three days of the approval, forward the names of the approved nominees to the President for appointment;\n  (b) rejects any nomination, the Speaker shall, within three days of the rejection, communicate the decision to the President, who in consultation with the Prime Minister, shall submit a fresh nominee from amongst the candidates selected and forwarded by the Public Service Commission under subsection (6).\n(10) If the National Assembly rejects all or any subsequent nominee submitted by the President for approval under subsection (9), the provisions of subsections (1) to (8) shall, with necessary modifications, apply.\n(11) The President shall, within seven days of the receipt of the approved nominees from the National Assembly, by notice in the Gazette, appoint the chairperson and members approved by the National Assembly.\n(12) In selecting, nominating, approving or appointing the chairperson and members of the Board, the selection Committee, the National Assembly, the President and the Prime Minister shall ensure that the Board reflects the regional and ethnic diversity of the people of Kenya and not more than two-thirds of the members are of the same gender.\n(13) The President, in consultation with the Prime Minister and subject to the approval of the National Assembly shall, in respect of the vacancies in the Board under section 7(b), appoint three distinguished non-citizen serving or retired judges, each of whom has served as a Chief Justice or judge of a superior court in the Commonwealth, to be members of the Board.\n(14) Despite the foregoing provisions of this section, the President, in consultation with the Prime Minister may, by notice in the Gazette, extend the period specified in respect of any matter under this section by a period not exceeding twenty-one days.\n[Act No. 6 of 2011, s. 3.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The President, in consultation with the Prime Minister and with the approval of the National Assembly, shall appoint the nine members of the Board in accordance with the procedure set out in this section."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within seven days of the commencement of this Act, the President, in consultation with the Prime Minister shall, by notice in the Gazette and in at least two newspapers of national circulation, declare vacancies in the Board under section 7(a) and call for applications."
+    },
+    {
+     "ref": "(3)",
+     "text": "An application in respect of a vacancy declared under sub-section (2) shall be forwarded to the Public Service Commission within fourteen days of the publication of the notice and may be made by— (a) any qualified person; or (b) any person, organisation or group of persons proposing the nomination of any qualified person."
+    },
+    {
+     "ref": "(4)",
+     "text": "The names of all applicants under sub-section (3) shall be published in the Gazette. (5) The Public Service Commission shall, within seven days of the expiry of the period prescribed under subsection (3), convene a selection Committee comprising one representative each of the— (a) Cabinet Office; (b) Office of the Prime Minister; (c) Ministry for the time being responsible for matters relating to the Judiciary; (d) office of the Attorney-General; (e) Ministry for the time being responsible for matters relating to the public service; (f) Public Service Commission; (g) Judicial Service Commission, not being a serving judge or magistrate; and"
+    },
+    {
+     "ref": "(6)",
+     "text": "The Public Service Commission shall, within seven days of the selection of candidates under subsection (5), forward the names of the selected candidates to the President and the Prime Minister for nomination."
+    },
+    {
+     "ref": "(7)",
+     "text": "The President, in consultation with the Prime Minister shall, within seven days of receipt of the names of the selected candidates under subsection (6), nominate a chairperson and five other persons for appointment as members of the Board and forward the names to the National Assembly."
+    },
+    {
+     "ref": "(8)",
+     "text": "The National Assembly shall, within fourteen days of the receipt of the nominees under subsection (7), consider all the nominations received and may approve or reject any nomination."
+    },
+    {
+     "ref": "(9)",
+     "text": "Where the National Assembly—"
+    },
+    {
+     "ref": "(10)",
+     "text": "If the National Assembly rejects all or any subsequent nominee submitted by the President for approval under subsection (9), the provisions of subsections (1) to (8) shall, with necessary modifications, apply."
+    },
+    {
+     "ref": "(11)",
+     "text": "The President shall, within seven days of the receipt of the approved nominees from the National Assembly, by notice in the Gazette, appoint the chairperson and members approved by the National Assembly."
+    },
+    {
+     "ref": "(12)",
+     "text": "In selecting, nominating, approving or appointing the chairperson and members of the Board, the selection Committee, the National Assembly, the President and the Prime Minister shall ensure that the Board reflects the regional and ethnic diversity of the people of Kenya and not more than two-thirds of the members are of the same gender."
+    },
+    {
+     "ref": "(13)",
+     "text": "The President, in consultation with the Prime Minister and subject to the approval of the National Assembly shall, in respect of the vacancies in the Board under section 7(b), appoint three distinguished non-citizen serving or retired judges, each of whom has served as a Chief Justice or judge of a superior court in the Commonwealth, to be members of the Board."
+    },
+    {
+     "ref": "(14)",
+     "text": "Despite the foregoing provisions of this section, the President, in consultation with the Prime Minister may, by notice in the Gazette, extend the period specified in respect of any matter under this section by a period not exceeding twenty-one days."
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Election of deputy chairperson",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, MEMBERSHIP, FUNCTIONS AND POWERS OF THE JUDGES AND MAGISTRATES VETTING BOARD",
+   "text": "(1) The chairperson shall, within seven days of the appointment of the members, convene the first meeting of the Board at which the members shall elect the deputy chairperson of the Board from amongst their number.\n(2) The chairperson and the deputy chairperson shall be of opposite gender.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The chairperson shall, within seven days of the appointment of the members, convene the first meeting of the Board at which the members shall elect the deputy chairperson of the Board from amongst their number."
+    },
+    {
+     "ref": "(2)",
+     "text": "The chairperson and the deputy chairperson shall be of opposite gender."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Functions of chairperson",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, MEMBERSHIP, FUNCTIONS AND POWERS OF THE JUDGES AND MAGISTRATES VETTING BOARD",
+   "text": "(1) The chairperson shall—\n  (a) preside over all meetings of the Board;\n  (b) be the spokesperson of the Board; and (c) supervise and direct the work of the Board.\n(2) In the absence of the chairperson, the deputy chairperson shall perform the functions of the chairperson under subsection (1).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The chairperson shall— (a) preside over all meetings of the Board; (b) be the spokesperson of the Board; and (c) supervise and direct the work of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "In the absence of the chairperson, the deputy chairperson shall perform the functions of the chairperson under subsection (1)."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Tenure and vacancy of office of chairperson and members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, MEMBERSHIP, FUNCTIONS AND POWERS OF THE JUDGES AND MAGISTRATES VETTING BOARD",
+   "text": "(1) The term of office of the chairperson or a member shall be from the date of appointment and shall, unless the office falls vacant earlier owing to any reason specified in the Constitution or in subsection (2), terminate on the dissolution of the Board.\n(2) The office of the chairperson or a member shall become vacant if the holder—\n  (a) dies;\n  (b) by a notice in writing addressed to the President, resigns from office;\n  (c) is removed from office under subsection (3);\n  (d) is convicted of an offence and sentenced to imprisonment for a term of six months or more, without the option of a fine;\n  (e) is unable to discharge the functions of his office by reason of physical or mental infirmity;\n  (f) is absent from three consecutive meetings of the Board without good cause; or (g) is adjudged bankrupt.\n(3) The chairperson or a member may be removed from office for misbehaviour or misconduct incompatible with the functions of the Board.\n(4) The President shall notify every resignation, vacancy or removal from office in the Gazette within seven days thereof.\n(5) Where a vacancy occurs in the membership of the Board, the President shall, in consultation with the Prime Minister, nominate a candidate from the list of candidates forwarded by the Public Service Commission under section 9(6), for approval by the National Assembly.\n(6) A member appointed to fill a vacancy under this section shall serve for the unexpired term of the member in respect of whom the vacancy arose.\n(7) No act or proceedings of the Board shall be invalid by reason only of a vacancy in the membership of the Board. [Act No. 43 of 2012, s. 4.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The term of office of the chairperson or a member shall be from the date of appointment and shall, unless the office falls vacant earlier owing to any reason specified in the Constitution or in subsection (2), terminate on the dissolution of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "The office of the chairperson or a member shall become vacant if the holder— (a) dies; (b) by a notice in writing addressed to the President, resigns from office; (c) is removed from office under subsection (3); (d) is convicted of an offence and sentenced to imprisonment for a term of six months or more, without the option of a fine; (e) is unable to discharge the functions of his office by reason of physical or mental infirmity; (f) is absent from three consecutive meetings of the Board without good cause; or (g) is adjudged bankrupt."
+    },
+    {
+     "ref": "(3)",
+     "text": "The chairperson or a member may be removed from office for misbehaviour or misconduct incompatible with the functions of the Board."
+    },
+    {
+     "ref": "(4)",
+     "text": "The President shall notify every resignation, vacancy or removal from office in the Gazette within seven days thereof."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where a vacancy occurs in the membership of the Board, the President shall, in consultation with the Prime Minister, nominate a candidate from the list of candidates forwarded by the Public Service Commission under section 9(6), for approval by the National Assembly."
+    },
+    {
+     "ref": "(6)",
+     "text": "A member appointed to fill a vacancy under this section shall serve for the unexpired term of the member in respect of whom the vacancy arose."
+    },
+    {
+     "ref": "(7)",
+     "text": "No act or proceedings of the Board shall be invalid by reason only of a vacancy in the membership of the Board. [Act No. 43 of 2012, s. 4.]"
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Function of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, MEMBERSHIP, FUNCTIONS AND POWERS OF THE JUDGES AND MAGISTRATES VETTING BOARD",
+   "text": "The function of the Board shall be to vet judges and magistrates in accordance with the provisions of the Constitution and this Act.",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "Powers of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, MEMBERSHIP, FUNCTIONS AND POWERS OF THE JUDGES AND MAGISTRATES VETTING BOARD",
+   "text": "(1) Subject to section 18, the Board shall have all the powers necessary for the execution of its functions under the Constitution and this Act, and without prejudice to the generality of the foregoing, the Board shall have the power to—\n  (a) gather relevant information, including requisition of reports, records, documents or any information from any source, including governmental authorities, and to compel the production of such information as and when necessary;\n  (b) interview any individual, group or members of organisations or institutions and, at the Board’s discretion, to conduct such interviews; and (c) hold inquiries for the purposes of performing its functions under this Act.\n(2) In the performance of its function, the Board—\n  (a) may inform itself in such manner as it thinks fit;\n  (b) may receive on oath, written or oral statements;\n  (c) shall not be bound by strict rules of evidence; and (d) shall not be subject to the direction or control of any person or authority.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to section 18, the Board shall have all the powers necessary for the execution of its functions under the Constitution and this Act, and without prejudice to the generality of the foregoing, the Board shall have the power to— (a) gather relevant information, including requisition of reports, records, documents or any information from any source, including governmental authorities, and to compel the production of such information as and when necessary; (b) interview any individual, group or members of organisations or institutions and, at the Board’s discretion, to conduct such interviews; and (c) hold inquiries for the purposes of performing its functions under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "In the performance of its function, the Board— (a) may inform itself in such manner as it thinks fit; (b) may receive on oath, written or oral statements; (c) shall not be bound by strict rules of evidence; and (d) shall not be subject to the direction or control of any person or authority."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Secretary and secretariat",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, MEMBERSHIP, FUNCTIONS AND POWERS OF THE JUDGES AND MAGISTRATES VETTING BOARD",
+   "text": "(1) There shall be a secretariat of the Board which shall be headed by a secretary who shall be competitively recruited and appointed by the Board in accordance with this section.\n(2) No person shall be qualified for appointment as a secretary unless such person—\n  (a) holds at least a degree from a university recognised in Kenya;\n  (b) has at least ten years’ post-qualification experience;\n  (c) has demonstrated competence in the performance of administrative duties for not less than five years; and (d) was not serving as a judge or magistrate on the effective date.\n(3) The secretary shall be the administrator of the secretariat and shall serve on a full-time basis. (4) The secretary shall, among other things, be responsible to the chairperson for—\n  (a) the day to day administration of the affairs of the Board;\n  (b) the co-ordination of the Board’s studies, reviews, research and evaluations;\n  (c) the recording of the Board’s proceedings;\n  (d) providing the Board with accurate information on the status of facilities and services required for the proper conduct of the vetting process;\n  (e) securing the maintenance and provision of facilities and services required for the discharge of the Board’s functions;\n  (f) providing the Board with accurate records and information regarding the judges and magistrates undergoing vetting;\n  (g) maintaining accurate records on financial matters and resource use;\n  (h) ensuring the drawing up and approval of the required budget;\n  (i) the custody of all records and documents of the Board; and\n  (j) performing any other duties as may be assigned by the Board from time to time. (5) Subject to the provisions of the Constitution or any other written law, the Board may delegate such of its functions as are necessary for the day to day management of its processes.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a secretariat of the Board which shall be headed by a secretary who shall be competitively recruited and appointed by the Board in accordance with this section."
+    },
+    {
+     "ref": "(2)",
+     "text": "No person shall be qualified for appointment as a secretary unless such person— (a) holds at least a degree from a university recognised in Kenya; (b) has at least ten years’ post-qualification experience; (c) has demonstrated competence in the performance of administrative duties for not less than five years; and (d) was not serving as a judge or magistrate on the effective date."
+    },
+    {
+     "ref": "(3)",
+     "text": "The secretary shall be the administrator of the secretariat and shall serve on a full-time basis. (4) The secretary shall, among other things, be responsible to the chairperson for—"
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Assisting counsel and staff",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, MEMBERSHIP, FUNCTIONS AND POWERS OF THE JUDGES AND MAGISTRATES VETTING BOARD",
+   "text": "(1) The staff of the Board shall comprise of—\n  (a) such number of assisting counsel and staff as the Board may appoint to assist it in the discharge of its functions under the Constitution and this Act; and (b) such public officers as may, upon the request of the Board, be seconded to the Board.\n(2) A public officer who is seconded to the Board under subsection (1) shall, during the secondment, be deemed to be an officer of the Board and subject to its direction and control.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The staff of the Board shall comprise of— (a) such number of assisting counsel and staff as the Board may appoint to assist it in the discharge of its functions under the Constitution and this Act; and (b) such public officers as may, upon the request of the Board, be seconded to the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "A public officer who is seconded to the Board under subsection (1) shall, during the secondment, be deemed to be an officer of the Board and subject to its direction and control."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Panels",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "VETTING PROCEDURES",
+   "text": "(1) The chairperson may, for the purpose of ensuring the expeditious disposal of matters, constitute three or more panels to work concurrently in the vetting of judges and magistrates.\n(2) The chairperson shall ensure that each panel constituted under subsection (1) consists of at least a non-citizen serving or retired judge, a lawyer and a non- lawyer.\n(3) Notwithstanding subsection (1), the vetting of judges shall be undertaken solely by the members of the Board appointed under section 7(1). [Act No. 43 of 2012, s. 5.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The chairperson may, for the purpose of ensuring the expeditious disposal of matters, constitute three or more panels to work concurrently in the vetting of judges and magistrates."
+    },
+    {
+     "ref": "(2)",
+     "text": "The chairperson shall ensure that each panel constituted under subsection (1) consists of at least a non-citizen serving or retired judge, a lawyer and a non- lawyer."
+    },
+    {
+     "ref": "(3)",
+     "text": "Notwithstanding subsection (1), the vetting of judges shall be undertaken solely by the members of the Board appointed under section 7(1). [Act No. 43 of 2012, s. 5.]"
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Relevant considerations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "VETTING PROCEDURES",
+   "text": "(1) The Board shall, in determining the suitability of a judge or magistrate, consider—\n  (a) whether the judge or magistrate meets the constitutional criteria for appointment as a judge of the superior courts or as a magistrate;\n  (b) the past work record of the judge or magistrate, including prior judicial pronouncements, competence and diligence;\n  (c) any pending or concluded criminal cases before a court of law against the Judge or Magistrate;\n  (d) any recommendations for prosecution of the Judge or Magistrate by the Director of Public Prosecutions or the Kenya Anti-Corruption Commission; and (e) pending complaints or other relevant information received from any person or body, including the—\n  (i) Law Society of Kenya;\n  (ii) Ethics and Anti-Corruption Commission;\n  (iii) Advocates Disciplinary Tribunal;\n  (iv) Advocates Complaints Commission; (v)Director of Public Prosecutions;\n  (vi) Commission on Administrative Justice;\n  (vii) Kenya National Human Rights and Equality Commission;\n  (viii) National Intelligence Service;\n  (ix) National Police Service Commission; or (x) Judicial Service Commission. (2) In considering the matters set out in subsection (1)(a) and (b), the Board shall take into account the following—\n  (a) professional competence, the elements of which shall include—\n  (i) intellectual capacity;\n  (ii) legal judgment;\n  (iii) diligence;\n  (iv) substantive and procedural knowledge of the law;\n  (v) organisational and administrative skills; and (vi) the ability to work well with a variety of people;\n  (b) written and oral communication skills, the elements of which shall include—\n  (i) the ability to communicate orally and in writing;\n  (ii) the ability to discuss factual and legal issues in clear, logical and accurate legal writing; and (iii) effectiveness in communicating orally in away that will readily be understood and respected by people from all walks of life;\n  (c) integrity, the elements of which shall include—\n  (i) a demonstrable consistent history of honesty and high moral character in professional and personal life;\n  (ii) respect for professional duties, arising under the codes of professional and judicial conduct; and\n  (iii) ability to understand the need to maintain propriety and the appearance of propriety;\n  (d) fairness, the elements of which shall include—\n  (i) a demonstrable ability to be impartial to all persons and commitment to equal justice under the law; and\n  (ii) open-mindedness and capacity to decide issues according to the law, even when the law conflicts with personal views;\n  (e) temperament, the elements of which shall include—\n  (i) demonstrable possession of compassion and humility;\n  (ii) history of courtesy and civility in dealing with others;\n  (iii) ability to maintain composure under stress; and (iv) ability to control anger and maintain calmness and order;\n  (f) good judgment, including common sense, elements of which shall include a sound balance between abstract knowledge and practical reality and in particular, demonstrable ability to make prompt decisions that resolve difficult problems in a way that makes practical sense within the constraints of any applicable rules or governing principles;\n  (g) legal and life experience, the elements of which shall include—\n  (i) the amount and breadth of legal experience and the suitability of that experience for the position, including trial and other courtroom experience and administrative skills; and\n  (ii) broader qualities reflected in life experiences, such as the diversity of personal and educational history, exposure to persons of different ethnic and cultural backgrounds, and demonstrable interests in areas outside the legal field; and\n  (h) demonstrable commitment to public and community service, the elements of which shall include the extent to which a judge or magistrate has demonstrated a commitment to the community generally and to improving access to the justice system in particular.\n[Act No. 43 of 2012, s. 6, Act No. 19 of 2023, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall, in determining the suitability of a judge or magistrate, consider— (a) whether the judge or magistrate meets the constitutional criteria for appointment as a judge of the superior courts or as a magistrate; (b) the past work record of the judge or magistrate, including prior judicial pronouncements, competence and diligence; (c) any pending or concluded criminal cases before a court of law against the Judge or Magistrate; (d) any recommendations for prosecution of the Judge or Magistrate by the Director of Public Prosecutions or the Kenya Anti-Corruption Commission; and (e) pending complaints or other relevant information received from any person or body, including the— (i) Law Society of Kenya; (ii) Ethics and Anti-Corruption Commission; (iii) Advocates Disciplinary Tribunal; (iv) Advocates Complaints Commission; (v)Director of Public Prosecutions; (vi) Commission on Administrative Justice;"
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Vetting procedure",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "VETTING PROCEDURES",
+   "text": "(1) The Board shall consider information gathered in the course of personal interviews with the affected judges and magistrates as well as their records.\n(2) All information obtained by the Board during personal interviews and records of the Judge or Magistrate being vetted shall be confidential.\n(3) Every judge or magistrate to be vetted shall be given sufficient notice.\n(4) The notice referred to under subsection (3) shall include a summary of complaints, if any, against the Judge or Magistrate.\n(5) The hearing by the Board shall not be conducted in public, unless the concerned judge or magistrate requests a public hearing.\n(6) The rules of natural justice shall apply to the Board’s proceedings.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall consider information gathered in the course of personal interviews with the affected judges and magistrates as well as their records."
+    },
+    {
+     "ref": "(2)",
+     "text": "All information obtained by the Board during personal interviews and records of the Judge or Magistrate being vetted shall be confidential."
+    },
+    {
+     "ref": "(3)",
+     "text": "Every judge or magistrate to be vetted shall be given sufficient notice."
+    },
+    {
+     "ref": "(4)",
+     "text": "The notice referred to under subsection (3) shall include a summary of complaints, if any, against the Judge or Magistrate."
+    },
+    {
+     "ref": "(5)",
+     "text": "The hearing by the Board shall not be conducted in public, unless the concerned judge or magistrate requests a public hearing."
+    },
+    {
+     "ref": "(6)",
+     "text": "The rules of natural justice shall apply to the Board’s proceedings."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Order of priority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "VETTING PROCEDURES",
+   "text": "The first judges and magistrates to be vetted shall be the Court of Appeal Judges, followed by Judges of the High Court, the Registrar of the High Court, the Chief Court Administrator, Chief Magistrates and others magistrates, in that order.",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Determination",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "VETTING PROCEDURES",
+   "text": "(1) The Board shall, upon determining the unsuitability of a judge or magistrate to continue serving in the Judiciary, within thirty days of the determination, inform the concerned judge or magistrate of the determination, in writing, specifying the reasons for the determination.\n(2) Once informed of the decision under subsection (1), the Judge or Magistrate shall, subject to section 22, be deemed to have been removed from service.\n(3) The decision to remove a judge or magistrate from service shall be made public.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall, upon determining the unsuitability of a judge or magistrate to continue serving in the Judiciary, within thirty days of the determination, inform the concerned judge or magistrate of the determination, in writing, specifying the reasons for the determination."
+    },
+    {
+     "ref": "(2)",
+     "text": "Once informed of the decision under subsection (1), the Judge or Magistrate shall, subject to section 22, be deemed to have been removed from service."
+    },
+    {
+     "ref": "(3)",
+     "text": "The decision to remove a judge or magistrate from service shall be made public."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Review",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "VETTING PROCEDURES",
+   "text": "(1) A judge or magistrate who has undergone the vetting process and is dissatisfied with the determination of the Board may request for a review by a new panel to be constituted by the Chairperson of the Board within seven days of being informed of the final determination under section 21(1).\n(2) The Board shall not grant a request for review under this section unless the request is based—\n  (a) on the discovery of a new and important matter which was not within the knowledge of, or could not be produced by the Judge or Magistrate at the time the determination or finding sought to be reviewed was made, provided that such lack of knowledge on the part of the Judge or Magistrate was not due to lack of due diligence; or\n  (b) on some mistake or error apparent on the face of the record.\n(3) A judge or a magistrate, who requests for review shall, pending the decision of the Board under this section, be suspended from office.\n(4) A removal or a process leading to the removal of a magistrate from office under this Act shall not be subject to question in, or review by, any court.\n(5) The decision by the Board under this section shall be final.\n[Act No. 43 of 2012, s. 7, Act No. 43 of 2013, s. 2.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A judge or magistrate who has undergone the vetting process and is dissatisfied with the determination of the Board may request for a review by a new panel to be constituted by the Chairperson of the Board within seven days of being informed of the final determination under section 21(1)."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall not grant a request for review under this section unless the request is based—"
+    },
+    {
+     "ref": "(3)",
+     "text": "A judge or a magistrate, who requests for review shall, pending the decision of the Board under this section, be suspended from office."
+    },
+    {
+     "ref": "(4)",
+     "text": "A removal or a process leading to the removal of a magistrate from office under this Act shall not be subject to question in, or review by, any court."
+    },
+    {
+     "ref": "(5)",
+     "text": "The decision by the Board under this section shall be final."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Time frame",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "GENERAL",
+   "text": "(1) The vetting process once commenced shall not exceed the period specified by this section.\n(2) The vetting process, once commenced, shall be concluded not later than the 31st December, 2015 and any review of a decision of the Board shall be heard and concluded within the above specified period.\n(3) Despite subsection (2), the Board shall conclude the process of vetting all the judges, chief magistrates and principal magistrates not later than the 28th March, 2013 and any review of a decision of the Board shall be heard and concluded within the above specified period.\n(4) The Board shall stand dissolved within thirty days of the execution of its mandate upon which this Act shall lapse.\n(5) During the period prescribed in subsection (4), the Board shall ensure that its affairs are wound up in an orderly manner and, in particular, shall ensure that—\n  (a) those aspects of its work that will be of value to other institutions are preserved, documented and transferred to the relevant institutions; and\n  (b) its files and records are preserved and transferred to the Kenya National Archives and Documentation Service.\n[Act No. 12 of 2012, Sch, Act No. 43 of 2012, s. 8, Act No. 43 of 2013, s. 3.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The vetting process once commenced shall not exceed the period specified by this section."
+    },
+    {
+     "ref": "(2)",
+     "text": "The vetting process, once commenced, shall be concluded not later than the 31st December, 2015 and any review of a decision of the Board shall be heard and concluded within the above specified period."
+    },
+    {
+     "ref": "(3)",
+     "text": "Despite subsection (2), the Board shall conclude the process of vetting all the judges, chief magistrates and principal magistrates not later than the 28th March, 2013 and any review of a decision of the Board shall be heard and concluded within the above specified period."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Board shall stand dissolved within thirty days of the execution of its mandate upon which this Act shall lapse."
+    },
+    {
+     "ref": "(5)",
+     "text": "During the period prescribed in subsection (4), the Board shall ensure that its affairs are wound up in an orderly manner and, in particular, shall ensure that—"
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Voluntary retirement and terminal benefits",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "GENERAL",
+   "text": "(1) A judge or magistrate shall, within three months of the commencement of this Act, elect—\n  (a) whether to be subjected to the vetting process; or\n  (b) to leave the judicial service voluntarily.\n(2) A judge or magistrate who elects to leave the judicial service voluntarily or is found unsuitable after vetting shall be entitled to terminal benefits for early retirement.\n(3) For the avoidance of doubt, a judge or magistrate who voluntarily leaves service or is found unsuitable after vetting shall be deemed qualified for early retirement.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A judge or magistrate shall, within three months of the commencement of this Act, elect—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A judge or magistrate who elects to leave the judicial service voluntarily or is found unsuitable after vetting shall be entitled to terminal benefits for early retirement."
+    },
+    {
+     "ref": "(3)",
+     "text": "For the avoidance of doubt, a judge or magistrate who voluntarily leaves service or is found unsuitable after vetting shall be deemed qualified for early retirement."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Allowances for members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "GENERAL",
+   "text": "The Board shall pay to its members such allowances for expenses as may be determined by the Minister in charge of finance.",
+   "clauses": []
+  },
+  "26": {
+   "num": "26",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "GENERAL",
+   "text": "(1) The financial year of the Board shall be the period of twelve months ending on the 30th of June in each year.\n(2) At least three months before the commencement of each financial year, the Board shall cause estimates of the expenditure of the Board for that year to be prepared and submitted to the Minister who shall present them for consideration and approval by the National Assembly.\n(3) The annual estimates shall make provision for all the estimated expenditure of the Board for that year.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The financial year of the Board shall be the period of twelve months ending on the 30th of June in each year."
+    },
+    {
+     "ref": "(2)",
+     "text": "At least three months before the commencement of each financial year, the Board shall cause estimates of the expenditure of the Board for that year to be prepared and submitted to the Minister who shall present them for consideration and approval by the National Assembly."
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual estimates shall make provision for all the estimated expenditure of the Board for that year."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Funds of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "GENERAL",
+   "text": "(1) The expenses incurred by the Board in accordance with this Act shall be charged on and issued out of the Consolidated Fund and the appropriation for the expenses shall be included in the Appropriation Bill introduced in the National Assembly to authorise the withdrawal from the Consolidated Fund.\n(2) Without prejudice to subsection (1), there may be made to the Board grants, gifts, donations or bequests towards the achievement of the objects of the vetting process specified in section 3.\n(3) The Board shall not accept any grant, gift, donation or bequest made on any condition that the Board performs any function or discharges any duty or obligation other than duties under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The expenses incurred by the Board in accordance with this Act shall be charged on and issued out of the Consolidated Fund and the appropriation for the expenses shall be included in the Appropriation Bill introduced in the National Assembly to authorise the withdrawal from the Consolidated Fund."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to subsection (1), there may be made to the Board grants, gifts, donations or bequests towards the achievement of the objects of the vetting process specified in section 3."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board shall not accept any grant, gift, donation or bequest made on any condition that the Board performs any function or discharges any duty or obligation other than duties under this Act."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "GENERAL",
+   "text": "(1) The Board shall cause to be kept proper books and records of accounts of its income, expenditure, assets and liabilities.\n(2) The annual accounts of the Board shall be prepared, audited and reported upon in accordance with the Public Audit Act (Cap. 412B).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall cause to be kept proper books and records of accounts of its income, expenditure, assets and liabilities."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual accounts of the Board shall be prepared, audited and reported upon in accordance with the Public Audit Act (Cap. 412B)."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Protection from personal liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "GENERAL",
+   "text": "(1) No matter or thing done by a member of the Board, or any officer, employee or agent of the Board shall, if the matter or thing is done in good faith for executing the functions, powers or duties of the Board, render the member, officer, employee or agent personally liable to any action claim or demand whatsoever.\n(2) The provisions of subsection (1) shall not relieve the Board of liability to pay compensation for damage to any person for any personal or proprietary interest sustained by the person as a result of the exercise of any power conferred by this Act or by the failure, whether wholly or partially, of any works.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No matter or thing done by a member of the Board, or any officer, employee or agent of the Board shall, if the matter or thing is done in good faith for executing the functions, powers or duties of the Board, render the member, officer, employee or agent personally liable to any action claim or demand whatsoever."
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of subsection (1) shall not relieve the Board of liability to pay compensation for damage to any person for any personal or proprietary interest sustained by the person as a result of the exercise of any power conferred by this Act or by the failure, whether wholly or partially, of any works."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Oath or affirmation of office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "GENERAL",
+   "text": "The chairperson, the deputy chairperson, the members and the secretary shall, before assuming office, make and subscribe, before the Chief Justice, the respective oath or affirmation prescribed in the Schedule.",
+   "clauses": []
+  },
+  "31": {
+   "num": "31",
+   "title": "Disclosure of personal interest",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "GENERAL",
+   "text": "(1) A member of the Board who has a direct or indirect personal interest in a matter being considered or to be considered by the Board shall, as soon as reasonably practicable after the relevant facts concerning the matter have come to their knowledge, disclose the nature of the interest to the Board.\n(2) A disclosure of any such interest in a matter shall be recorded in the minutes of the meeting of the Board and the member shall not be present while that matter is being dealt with by the Board and shall not take part in any deliberations or vote relating to the matter.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A member of the Board who has a direct or indirect personal interest in a matter being considered or to be considered by the Board shall, as soon as reasonably practicable after the relevant facts concerning the matter have come to their knowledge, disclose the nature of the interest to the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "A disclosure of any such interest in a matter shall be recorded in the minutes of the meeting of the Board and the member shall not be present while that matter is being dealt with by the Board and shall not take part in any deliberations or vote relating to the matter."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Conflict of interest",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "GENERAL",
+   "text": "A person who serves on the Board as the chairperson, deputy chairperson, member or secretary shall be precluded from being appointed as a judge or judicial officer for a period of five years from the close of the vetting process.",
+   "clauses": []
+  },
+  "33": {
+   "num": "33",
+   "title": "Inherent powers of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "GENERAL",
+   "text": "(1) Subject to the provisions of this Act, the Board may regulate its own procedure and make regulations generally for the better carrying into effect the provisions of this Act.\n(2) Without prejudice to the generality of subsection (1), such regulations may provide for among others—\n  (a) the conduct of the Board’s operations and proceedings;\n  (b) the manner of receiving and processing complaints;\n  (c) any summary procedure the Board may adopt under sections 19 and 23; and\n  (d) the steps that may be taken by the Board before a determination.\n(3) The chairperson may issue directions for the just, efficient and economical determination of proceedings in relation to the procedures provided for by the regulations made under subsection (1).\n(4) Nothing in this Act shall limit or otherwise affect the power of the Board conferred by the Constitution or under this Act, either on its own motion or on the application of a judge or magistrate, to make such orders as may be necessary for the ends of justice or to prevent abuse of the process of the Board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of this Act, the Board may regulate its own procedure and make regulations generally for the better carrying into effect the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), such regulations may provide for among others—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The chairperson may issue directions for the just, efficient and economical determination of proceedings in relation to the procedures provided for by the regulations made under subsection (1)."
+    },
+    {
+     "ref": "(4)",
+     "text": "Nothing in this Act shall limit or otherwise affect the power of the Board conferred by the Constitution or under this Act, either on its own motion or on the application of a judge or magistrate, to make such orders as may be necessary for the ends of justice or to prevent abuse of the process of the Board."
+    }
+   ]
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE",
+   "subtitle": null,
+   "text": "[Section 30]\nOATH/AFFIRMATION OF THE OFFICE OF CHAIRPERSON/DEPUTY CHAIRPERSON/ MEMBER/SECRETARY I …………………………………… having been appointed (the Chairperson/Deputy Chairperson/Member/Secretary) of the Judges and Magistrates Vetting Board under the Vetting of Judges and Magistrates Act, 2011, do solemnly (swear/declare and affirm) that I will at all times obey, respect and uphold the Constitution of Kenya and all other laws of the Republic; that I will faithfully and fully, impartially and to the best of my ability, discharge the trust and perform the functions and exercise the powers devolving upon me by virtue of this appointment without fear, favour, bias, affection, ill-will or prejudice.\n(SO HELP ME GOD).\nSworn/Declared by the said ………………………………….…………… Before me this ………………… Day of ……………………….…………… …………………..……… Chief Justice."
+  }
+ ],
+ "spent": {}
+}

@@ -1,0 +1,829 @@
+{
+ "title": "Export Processing Zones Act",
+ "citation": "Cap. 517",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1990/12/eng@2023-07-01",
+ "version_date": "2023-07-01",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "EXPORT PROCESSING ZONES ACT CAP. 517 Published in Kenya Gazette Vol. XCII—No. 51 on 30 November 1990 Assented to on 21 November 1990 Commenced on 23 November 1990\n[Amended by Statute Law (Repeal and Miscellaneous Amendments) Act, 1991 (Act No. 14 of 1991) on 27 December 1991] [Amended by Export Processing Zones (Amendment) Act, 1993 (Act No. 7 of 1993) on 3 December 1993] [Amended by Statute Law (Miscellaneous Amendments) Act, 1993 (Act No. 11 of 1993) on 31 December 1993] [Amended by Finance Act, 1994 (Act No. 6 of 1994) on 17 June 1994] [Amended by Finance Act, 1997 (Act No. 8 of 1997) on 19 June 1997] [Amended by Finance Act, 1998 (Act No. 5 of 1998) on 11 June 1998] [Amended by Finance Act, 1999 (Act No. 4 of 1999) on 18 November 1999] [Amended by Finance Act, 2000 (Act No. 9 of 2000) on 15 June 2000] [Amended by Finance Act, 2001 (Act No. 6 of 2001) on 14 June 2001] [Amended by Finance Act, 2004 (Act No. 4 of 2004) on 10 June 2004] [Amended by Statute Law (Miscellaneous Amendments) Act, 2007 (Act No. 7 of 2007) on 15 October 2007] [Amended by Statute Law (Miscellaneous Amendments) Act, 2018 (Act No. 18 of 2018) on 18 January 2019] [Amended by National Electronic Single Window System Act (Cap. 485D) on 11 July 2022] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] [Amended by Finance Act, 2023 (Act No. 4 of 2023) on 1 July 2023]\nAn Act of Parliament to provide for the establishment of export processing zones and the Export Processing Zones Authority; to provide for the promotion and facilitation of export oriented investments and the development of enabling environment for such investment and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "THE EXPORT PROCESSING ZONES AUTHORITY",
+   "provisions": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "EXPORT PROCESSING ZONES",
+   "provisions": [
+    "15",
+    "16",
+    "17",
+    "18"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "LICENSING PROVISIONS",
+   "provisions": [
+    "19",
+    "20"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "EXPORT PROCESSING ZONE DEVELOPERS AND OPERATORS",
+   "provisions": [
+    "21",
+    "22"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "EXPORT PROCESSING ZONE ENTERPRISES",
+   "provisions": [
+    "23"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "OPERATIONS WITHIN THE EXPORT PROCESSING ZONES",
+   "provisions": [
+    "24",
+    "25",
+    "26",
+    "27",
+    "28"
+   ]
+  },
+  {
+   "id": "part_VIII",
+   "num": "VIII",
+   "title": "BENEFITS TO EXPORT PROCESSING ZONE ENTERPRISES, ETC.",
+   "provisions": [
+    "29",
+    "30"
+   ]
+  },
+  {
+   "id": "part_IX",
+   "num": "IX",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "31",
+    "32",
+    "33",
+    "34",
+    "35"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Export Processing Zones Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires—\n\"adequate security\" means security which has been accepted as adequate by the Authority for the purposes of section 10;\n\"Authority\" means the Export Processing Zones Authority established by section 3;\n\"commercial activity\" means trading in, breaking bulk, grading, repacking or relabelling of goods and industrial raw materials;\n\"company\" means a company within the meaning of the Companies Act (Cap. 486) or a company incorporated outside Kenya but registered in Kenya under the Companies Act (Cap. 486);\n\"customs control\" means the measures applied to ensure compliance with the laws and regulations which the customs officers are responsible for enforcing;\n\"customs officer\" means any person employed in the service of the customs;\n\"customs territory\" means the territory in which the customs laws of Kenya apply in full, but does not include an export processing zone;\n\"domestic Kenyan business\" means any individual, partnership, corporation or other entity conducting a trade or business within Kenya, which is not an export processing zone enterprise;\n\"duty\" means the fiscal, customs and excise duty for the time being leviable under any written law;\n\"eligible activities\" includes activities to enable agricultural activities preceding processing and value addition directly related to value addition conducted in Kenya within a gazetted export processing zone in aquaculture, horticulture, tea, coffee, floriculture, dairy and ranching, and silviculture;\n\"export\" means to take or cause to be taken out of the customs territory or into an export processing zone;\n\"export processing zone\" means a designated part of Kenya where any goods introduced are generally regarded, in so far as import duties and taxes are concerned, as being outside the customs territory but are duly restricted by controlled access and wherein the benefits provided under this Act apply;\n\"export processing zone developer\" means a corporate body established to develop and administer an export processing zone under this Act;\n\"export processing zone enterprise\" means a corporate body, including a developer or an export processing zone operator which has been granted a licence under this Act;\n\"export processing zone export\" means any product sold by an export processing zone enterprise in an export processing zone for exportation direct or through the customs territory;\n\"export processing zone import\" means any input or service to be supplied to an export processing zone enterprise within an export processing zone, whether from outside or inside the customs territory;\n\"export processing zone operator\" means a corporate body engaged in the management of an export processing zone designated under section 15;\n\"goods\" includes all kinds of articles, wares, merchandise and stock and, where any such goods are sold under any customs law, includes the proceeds of sale;\n\"import\" means to bring or cause to be brought into the customs territory from a foreign country or from an export processing zone;\n\"import duties and taxes\" means customs duties and all other duties, taxes, fees or other charges which are collected on or in connection with the importation and exportation of goods, but does not include fees and charges which are limited in amount to the costs of services rendered under this Act;\n\"industrial raw materials\" means items used as ingredients in the manufacture of goods;\n\"infrastructure\" means a physical structure such as a road, bridge, or storm sewer which facilitates economic or other activity or protects property;\n\"Kenya Revenue Authority\" means the Authority established by section 3 of the Kenya Revenue Authority Act (Cap. 469);\n\"licence\" means a licence issued under this Act;\n\"manufacture\" includes—\n  (a) the conversion of organic or inorganic material by manual, mechanical, chemical or biochemical means into a new product by changing the size, shape, composition, nature or quality of such material; and\n  (b) assembly of parts into a piece of machinery or other products, but excludes—\n  (i) the installation of machinery or equipment for the purpose of construction; or\n  (ii) any process that is composed primarily of agricultural, pastoral, horticultural or sylvicultural activities;\n\"Cabinet Secretary\" means the Cabinet Secretary for the time being responsible for industry; and \"service activity\" means an export-related service provided by an export processing zone enterprise, including consultancy, information, brokerage and repair services, but excluding financial services and commercial activity. [Act No. 7 of 1993, s. 2, Act No. 6 of 1994, s. 76(a), Act No. 9 of 2000, s. 105, Act No. 18 of 2018, Sch.]",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment and membership of the Export Processing Zones Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE EXPORT PROCESSING ZONES AUTHORITY",
+   "text": "(1) There is hereby established an authority to be known as the Export Processing Zones Authority. (2) The Authority shall be a body corporate with perpetual succession and a common seal and shall be capable in its corporate name of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding, charging and disposing of movable and immovable property;\n  (c) having and managing its own general fund including borrowing and lending money;\n  (d) entering into contracts; and (e) doing or performing all such other things or acts necessary for the proper performance of its functions under this Act which may lawfully be done by a corporate body.\n(3) The Authority shall consist of—\n  (a) a Chairperson to be appointed by the President;\n  (b) a representative of the Kenya Association of Manufacturers;\n  (c) a representative of the Kenya National Chamber of Commerce and Industry;\n  (d) four other members appointed by the Cabinet Secretary from the private sector, who in his opinion, have experience and expertise in manufacturing or export trade or commercial and financial matters;\n  (e) the Principal Secretary to the Treasury;\n  (f) the Principal Secretary to the Ministry for the time being responsible for industry;\n  (g) the Governor of the Central Bank of Kenya;\n  (h) the Commissioner of Customs;\n  (i) the Commissioner of Lands;\n  (j) the managing director of the Investment Promotion Centre; and (k) the chief executive of the Authority.\n(4) The Chairperson and every member appointed under paragraphs (b), (c) and (d) of subsection (3) shall hold office for a period of three years and shall be eligible for re-appointment.\n(5) Any member appointed under paragraphs (b), (c) and (d) of subsection (3) shall cease to hold office if—\n  (a) he delivers to the Cabinet Secretary a written resignation of his appointment;\n  (b) on the advice of the Authority, the Cabinet Secretary removes him from office on the grounds that he is incapacitated by mental or physical illness or is otherwise unable or unfit to discharge the functions of a member or is unable to continue as a member;\n  (c) he has been absent from three consecutive meetings of the Authority without leave or good cause;\n  (d) he is adjudged bankrupt or enters into a composition scheme or arrangements with his creditors;\n  (e) he is sentenced by a court to imprisonment for a term of six months or more; or\n  (f) he is convicted of an offence involving dishonesty, fraud or moral turpitude.\n(6) The members of the Authority shall be paid such remuneration and allowance out of the general fund of the Authority as may be determined by the Cabinet Secretary.\n(7) The Authority shall be exempt from payment of any stamp duty chargeable under the Stamp Duty Act (Cap. 480).\n[Act No. 7 of 1993, s. 3.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is hereby established an authority to be known as the Export Processing Zones Authority. (2) The Authority shall be a body corporate with perpetual succession and a common seal and shall be capable in its corporate name of— (a) suing and being sued; (b) taking, purchasing or otherwise acquiring, holding, charging and disposing of movable and immovable property; (c) having and managing its own general fund including borrowing and lending money; (d) entering into contracts; and (e) doing or performing all such other things or acts necessary for the proper performance of its functions under this Act which may lawfully be done by a corporate body."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Authority shall consist of— (a) a Chairperson to be appointed by the President; (b) a representative of the Kenya Association of Manufacturers; (c) a representative of the Kenya National Chamber of Commerce and Industry; (d) four other members appointed by the Cabinet Secretary from the private sector, who in his opinion, have experience and expertise in manufacturing or export trade or commercial and financial matters; (e) the Principal Secretary to the Treasury; (f) the Principal Secretary to the Ministry for the time being responsible for industry; (g) the Governor of the Central Bank of Kenya; (h) the Commissioner of Customs; (i) the Commissioner of Lands; (j) the managing director of the Investment Promotion Centre; and (k) the chief executive of the Authority."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Chairperson and every member appointed under paragraphs (b), (c) and (d) of subsection (3) shall hold office for a period of three years and shall be eligible for re-appointment."
+    },
+    {
+     "ref": "(5)",
+     "text": "Any member appointed under paragraphs (b), (c) and (d) of subsection (3) shall cease to hold office if— (a) he delivers to the Cabinet Secretary a written resignation of his appointment;"
+    },
+    {
+     "ref": "(6)",
+     "text": "The members of the Authority shall be paid such remuneration and allowance out of the general fund of the Authority as may be determined by the Cabinet Secretary."
+    },
+    {
+     "ref": "(7)",
+     "text": "The Authority shall be exempt from payment of any stamp duty chargeable under the Stamp Duty Act (Cap. 480)."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Meetings and procedures of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE EXPORT PROCESSING ZONES AUTHORITY",
+   "text": "(1) The Chairperson of the Authority shall convene meetings at least once each month and whenever he receives a written request signed by at least two members;\nand in the absence of the Chairperson, meetings shall be convened by the chief executive of the Authority and the members present shall elect one of the members to preside as Chairperson.\n(2) The quorum for any meeting of the Authority shall be half of its members and the Authority may, subject to the requirement for the quorum, regulate the procedure in regard to meetings of the Authority and the transaction of business at such meetings.\n(3) If the Chairperson of the Authority, by reason of extended illness or absence is temporarily unable to perform the duties of his office, the President shall appoint another member of the Authority to act in his place during the period of absence.\n(4) The Chairperson may at any time resign by a letter addressed to the President and the resignation shall take effect upon being accepted by the President.\n(5) Any member who has a direct or indirect interest in any decision that is to be taken on any matter by the Authority, shall disclose the nature of such interest at the meeting of the Authority where such decision is being taken and the disclosure shall be recorded in the minutes of the meeting, and if either the member or a majority of the members of the Authority believe that such member’s interest in the matter is such as to influence his judgment, he shall not participate in the deliberation or the decision of the Authority on such matter.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Chairperson of the Authority shall convene meetings at least once each month and whenever he receives a written request signed by at least two members;"
+    },
+    {
+     "ref": "(2)",
+     "text": "The quorum for any meeting of the Authority shall be half of its members and the Authority may, subject to the requirement for the quorum, regulate the procedure in regard to meetings of the Authority and the transaction of business at such meetings."
+    },
+    {
+     "ref": "(3)",
+     "text": "If the Chairperson of the Authority, by reason of extended illness or absence is temporarily unable to perform the duties of his office, the President shall appoint another member of the Authority to act in his place during the period of absence."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Chairperson may at any time resign by a letter addressed to the President and the resignation shall take effect upon being accepted by the President."
+    },
+    {
+     "ref": "(5)",
+     "text": "Any member who has a direct or indirect interest in any decision that is to be taken on any matter by the Authority, shall disclose the nature of such interest at the meeting of the Authority where such decision is being taken and the disclosure shall be recorded in the minutes of the meeting, and if either the member or a majority of the members of the Authority believe that such member’s interest in the matter is such as to influence his judgment, he shall not participate in the deliberation or the decision of the Authority on such matter."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Seal and execution of documents",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE EXPORT PROCESSING ZONES AUTHORITY",
+   "text": "(1) The common seal of the Authority shall be kept in the custody of the Authority and shall not be affixed to any instrument or document except as authorized by the Authority.\n(2) All documents, other than those required by law to be under seal, made by, and all decisions of, the Authority may be signified under the hand of the Chairperson, or, in the case of a decision taken at a meeting at which the Chairperson is not present, under the hand of the person presiding at such meeting.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The common seal of the Authority shall be kept in the custody of the Authority and shall not be affixed to any instrument or document except as authorized by the Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "All documents, other than those required by law to be under seal, made by, and all decisions of, the Authority may be signified under the hand of the Chairperson, or, in the case of a decision taken at a meeting at which the Chairperson is not present, under the hand of the person presiding at such meeting."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Appointment of chief executive of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE EXPORT PROCESSING ZONES AUTHORITY",
+   "text": "(1) The Cabinet Secretary may, on recommendation of the Authority, appoint a chief executive of the Authority whose conditions and terms of employment including remuneration shall be determined by the Cabinet Secretary.\n(2) The chief executive shall, subject to the general direction and control of the Authority, be charged with the direction of the affairs and transactions of the Authority, the exercise, discharge and performance of its objectives, functions and duties, and the administration and control of the servants of the Authority.\n(3) The Cabinet Secretary may, on recommendation of the Authority, remove from office the chief executive appointed under subsection (1).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, on recommendation of the Authority, appoint a chief executive of the Authority whose conditions and terms of employment including remuneration shall be determined by the Cabinet Secretary."
+    },
+    {
+     "ref": "(2)",
+     "text": "The chief executive shall, subject to the general direction and control of the Authority, be charged with the direction of the affairs and transactions of the Authority, the exercise, discharge and performance of its objectives, functions and duties, and the administration and control of the servants of the Authority."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary may, on recommendation of the Authority, remove from office the chief executive appointed under subsection (1)."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Appointment and remuneration of staff",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE EXPORT PROCESSING ZONES AUTHORITY",
+   "text": "(1) The Authority may appoint such other officers and servants as it considers necessary for the efficient discharge of its responsibilities and functions.\n(2) The officers and servants appointed under subsection (1) shall be remunerated in such manner and at such rates, and shall be subject to such conditions of service, as may be determined by the Authority.\n(3) Subject to this Act, every officer or servant appointed under subsection (1) shall exercise such powers and functions and perform the duties assigned to him from time to time by the chief executive.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority may appoint such other officers and servants as it considers necessary for the efficient discharge of its responsibilities and functions."
+    },
+    {
+     "ref": "(2)",
+     "text": "The officers and servants appointed under subsection (1) shall be remunerated in such manner and at such rates, and shall be subject to such conditions of service, as may be determined by the Authority."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to this Act, every officer or servant appointed under subsection (1) shall exercise such powers and functions and perform the duties assigned to him from time to time by the chief executive."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Protection from legal action",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE EXPORT PROCESSING ZONES AUTHORITY",
+   "text": "(1) Neither the Authority, any of its members, officers nor servants shall be personally liable for an act which is done or purported to be done in good faith by such person, on the direction of the Authority or in the performance or intended performance of any duty or in the exercise of any power under this Act or the regulations made thereunder.\n(2) Any expenses incurred by any person referred to in subsection (1) in any suit or prosecution brought against him before any court in respect of any act which is done or purported to be done by him under this Act or on the direction of the Authority shall, if the Court holds that such act was done in good faith, be paid out of the general fund of the Authority, unless such expenses are recovered by him in such suit or prosecution.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Neither the Authority, any of its members, officers nor servants shall be personally liable for an act which is done or purported to be done in good faith by such person, on the direction of the Authority or in the performance or intended performance of any duty or in the exercise of any power under this Act or the regulations made thereunder."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any expenses incurred by any person referred to in subsection (1) in any suit or prosecution brought against him before any court in respect of any act which is done or purported to be done by him under this Act or on the direction of the Authority shall, if the Court holds that such act was done in good faith, be paid out of the general fund of the Authority, unless such expenses are recovered by him in such suit or prosecution."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Objectives of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE EXPORT PROCESSING ZONES AUTHORITY",
+   "text": "(1) The principal objectives of the Authority shall be—\n  (a) the development of all aspects of the export processing zones with particular emphasis on provision of advice on the removal of impediments to, and creation of incentives for, exportoriented production in areas designated as export processing zones; and\n  (b) the regulation and administration of approved activities within the export processing zones, through implementation of an administrative system in which the export processing zone enterprises are self regulatory to the maximum extent; and\n  (c) the protection of Government revenues and foreign currency earnings.\n(2) For the purpose of carrying out the objectives specified in subsection (1), the Authority may exercise, perform and discharge all or any of the following powers, duties and functions—\n  (a) to advise the Cabinet Secretary on all aspects of development of the export processing zones;\n  (b) to implement the policies and programmes of the Government with regard to development of the export processing zones;\n  (c) to identify and map the areas to be designated as export processing zones;\n  (d) to plan the development and maintenance, and to finance the basic infrastructure up to the perimeter of the export processing zones;\n  (e) to examine and process applications for designation of export processing zones and issue relevant approvals;\n  (f) to examine and process applications for licences by the export processing zone developers, export processing zone operators, and export processing zone enterprises and issue the relevant licences;\n  (g) to promote and market export processing zones among investors;\n  (h) to issue certificates of origin to export processing zone enterprises for the purpose of a generalized system of preferences and other trade preferences given under bilateral or multilateral trade agreements;\n  (i) to act as a \"one-stop\" centre through which the export processing zone enterprises can channel all their applications for permits and facilities not handled directly by the Authority;\n  (j) to process building plans and issue relevant approvals in consultation with the Ministry responsible for physical planning and other relevant authorities;\n  (k) to perform all such administrative functions in relation to the designated export processing zones as would normally be performed by local authorities;\n  (l) to maintain current data on the performance of the programme in each individual export processing zone and export processing zone enterprise;\n  (m) to enforce within the export processing zone compliance with customs procedures and other requirements for preventing the unauthorized use of designated export processing zones and export processing enterprises;\n  (n) to enforce compliance with exchange control procedures and other requirements for preventing the unauthorized use of designated export processing zones and export processing zone enterprises;\n  (o) to suspend or cancel the licence of an export processing zone operator or an export processing zone enterprise or an export processing zone developer which is in the violation of the customs law and the Value Added Tax Act (Cap. 476); and\n  (p) to do all such other acts as may be incidental or conducive to the attainment of the objectives of the Authority or the exercise of its powers under this Act.\n[Act No. 14 of 1991, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The principal objectives of the Authority shall be—"
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purpose of carrying out the objectives specified in subsection (1), the Authority may exercise, perform and discharge all or any of the following powers, duties and functions—"
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Power of the Authority to make rules",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE EXPORT PROCESSING ZONES AUTHORITY",
+   "text": "(1) Without prejudice to the generality of the powers conferred under this Act, the Authority shall formulate such rules as may be required for the purpose of ensuring orderly and fair development, and operation of export processing zones and export processing enterprises, and in particular rules to—\n  (a) determine application procedures and criteria for the approval of export processing zones or export processing zone developers or export processing zone operators and export processing zone enterprises;\n  (b) determine procedures for providing the benefits accruing to export processing zone developers, export processing zone operators and export processing zone enterprises;\n  (c) ensure adequate security within the export processing zones;\n  (d) determine the form of the licences to be issued under this Act and the procedures for amendment and revocation of the licences;\n  (e) determine entry of personnel into an export processing zone; and\n  (f) require information from export processing zone developers, operators, and enterprises.\n(2) The Authority shall render its decision on the designation of an export processing zone and all other approvals required under this Act within thirty days from the date on which the completed application form for the relevant approval or the licence has been received by the Authority.\n[Act No. 14 of 1991, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Without prejudice to the generality of the powers conferred under this Act, the Authority shall formulate such rules as may be required for the purpose of ensuring orderly and fair development, and operation of export processing zones and export processing enterprises, and in particular rules to—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority shall render its decision on the designation of an export processing zone and all other approvals required under this Act within thirty days from the date on which the completed application form for the relevant approval or the licence has been received by the Authority."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "General fund and annual budget of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE EXPORT PROCESSING ZONES AUTHORITY",
+   "text": "(1) The Authority shall have its own general fund.\n(2) There shall be paid into the general fund—\n  (a) all such sums of money as may be paid as fees under this Act; and\n  (b) all such sums of money as may be received by the Authority for its operations from any other source.\n(3) There shall be paid out of the Fund all such sums of money required to defray the expenditure incurred by the Authority in the exercise, discharge and performance of its objectives, functions and duties under this Act.\n(4) The annual budget of the Authority shall be subject to approval by the Treasury and any funds generated in the general fund in excess of the amounts deemed appropriate by the Cabinet Secretary shall be paid into the Consolidated Fund.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority shall have its own general fund."
+    },
+    {
+     "ref": "(2)",
+     "text": "There shall be paid into the general fund—"
+    },
+    {
+     "ref": "(3)",
+     "text": "There shall be paid out of the Fund all such sums of money required to defray the expenditure incurred by the Authority in the exercise, discharge and performance of its objectives, functions and duties under this Act."
+    },
+    {
+     "ref": "(4)",
+     "text": "The annual budget of the Authority shall be subject to approval by the Treasury and any funds generated in the general fund in excess of the amounts deemed appropriate by the Cabinet Secretary shall be paid into the Consolidated Fund."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Accounts, etc., of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE EXPORT PROCESSING ZONES AUTHORITY",
+   "text": "(1) The Authority shall cause proper books of accounts to be kept of its income and expenditure, assets and liabilities and all other transactions of the Authority.\n(2) The Authority or any person officially authorized in that behalf by the Authority may, by notice in writing, require any licensee to furnish to the Authority or to an authorized person, within such period as is specified in the notice, not being less than thirty days, all such returns or information as specified in such notice:\nProvided that nothing in this section shall compel a licensee to disclose his patented commercial secrets.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority shall cause proper books of accounts to be kept of its income and expenditure, assets and liabilities and all other transactions of the Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority or any person officially authorized in that behalf by the Authority may, by notice in writing, require any licensee to furnish to the Authority or to an authorized person, within such period as is specified in the notice, not being less than thirty days, all such returns or information as specified in such notice:"
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Disclosure of information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE EXPORT PROCESSING ZONES AUTHORITY",
+   "text": "(1) The Authority or any officer or servant of the Authority shall not disclose to any person or use any return or information acquired under section 12(2) except for the purpose of achieving the objectives of the Authority unless required to do so by a court of law.\n(2) Any officer or servant of the Authority who contravenes this section shall be guilty of an offence and liable to a fine not exceeding two hundred thousand shillings or imprisonment for a term not exceeding three years or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority or any officer or servant of the Authority shall not disclose to any person or use any return or information acquired under section 12(2) except for the purpose of achieving the objectives of the Authority unless required to do so by a court of law."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any officer or servant of the Authority who contravenes this section shall be guilty of an offence and liable to a fine not exceeding two hundred thousand shillings or imprisonment for a term not exceeding three years or to both."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Committees",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE EXPORT PROCESSING ZONES AUTHORITY",
+   "text": "The Authority may appoint committees, whether of its own members or otherwise, to carry out such general or specific functions as may be specified by the Authority, and may delegate to any such committee such of its powers as the Authority may deem appropriate.",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "Declaration of export processing zone",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "EXPORT PROCESSING ZONES",
+   "text": "(1) The Cabinet Secretary may, on the recommendation of the Authority and in consultation with the Cabinet Secretary for the time being responsible for finance, with the object of attracting, promoting or increasing the manufacture of goods, or provision of services, for export, by notice in the Gazette, declare any area, land or building or part thereof in Kenya to be an export processing zone.\n(2) Every declaration of an export processing zone under subsection (1) shall define the limits of the zone and shall remain in force until revoked by the Cabinet Secretary by order in the Gazette.\n[Act No. 7 of 1993, s. 4, Act No. 6 of 1994, s. 76(b), Act No. 7 of 2007, Sch., Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, on the recommendation of the Authority and in consultation with the Cabinet Secretary for the time being responsible for finance, with the object of attracting, promoting or increasing the manufacture of goods, or provision of services, for export, by notice in the Gazette, declare any area, land or building or part thereof in Kenya to be an export processing zone."
+    },
+    {
+     "ref": "(2)",
+     "text": "Every declaration of an export processing zone under subsection (1) shall define the limits of the zone and shall remain in force until revoked by the Cabinet Secretary by order in the Gazette."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Facilities, etc., within an export processing zone",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "EXPORT PROCESSING ZONES",
+   "text": "(1) The Authority may require the export processing zone developer to provide and maintain in an export processing zone such facilities, including adequate enclosure to separate an export processing zone from the customs territory, as it may consider necessary for the proper and efficient functioning of the zone.\n(2) Subject to this Act, no person shall reside within an export processing zone without the prior permission of the Authority.\n(3) The Authority may at its discretion order the exclusion or removal from an export processing zone of any goods or discontinuance of any activity or operations which in its opinion, are dangerous or prejudicial to public interest, health or safety:\nProvided that the Authority shall not issue an order under this section without first giving such a person an opportunity to be heard.\n(4) Any person who contravenes this section shall be guilty of an offence and liable to a fine not exceeding two hundred thousand shillings or to imprisonment for a term not exceeding three years or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority may require the export processing zone developer to provide and maintain in an export processing zone such facilities, including adequate enclosure to separate an export processing zone from the customs territory, as it may consider necessary for the proper and efficient functioning of the zone."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to this Act, no person shall reside within an export processing zone without the prior permission of the Authority."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Authority may at its discretion order the exclusion or removal from an export processing zone of any goods or discontinuance of any activity or operations which in its opinion, are dangerous or prejudicial to public interest, health or safety:"
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person who contravenes this section shall be guilty of an offence and liable to a fine not exceeding two hundred thousand shillings or to imprisonment for a term not exceeding three years or to both."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Activities permitted within an export processing zone",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "EXPORT PROCESSING ZONES",
+   "text": "(1) The activities eligible to be carried out within an export processing zone shall be manufacturing activities, commercial activities or service activities:\nProvided that—\n  (i) where manufacturing and commercial activities involving goods manufactured outside Kenya are carried on by an export processing zone enterprise, the two activities shall be physically separated; and\n  (ii) where commercial activities involve goods manufactured outside Kenya, such goods shall be clearly labelled as products of the country where such goods were manufactured.\n(2) For the purposes of subsection (1), notwithstanding the repeal of the First Schedule the activities specified in that Schedule or additions made thereto by the Minster by notice in the Gazette shall continue to be carried out in the manner specified for each designated export processing zone.\n[Act No. 7 of 1993, s. 5, Act No. 8 of 1997, s. 66.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The activities eligible to be carried out within an export processing zone shall be manufacturing activities, commercial activities or service activities:"
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of subsection (1), notwithstanding the repeal of the First Schedule the activities specified in that Schedule or additions made thereto by the Minster by notice in the Gazette shall continue to be carried out in the manner specified for each designated export processing zone."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Power of Cabinet Secretary to make rules",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "EXPORT PROCESSING ZONES",
+   "text": "The Cabinet Secretary may, in consultation with the Authority, make rules for the proper establishment and administration of the export processing zones.",
+   "clauses": []
+  },
+  "19": {
+   "num": "19",
+   "title": "Licences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LICENSING PROVISIONS",
+   "text": "(1) No person shall carry on business as an export processing zone developer, export processing zone operator or export processing zone enterprise or hold himself out as providing or maintaining activities or facilities within an export processing zone unless he has been licensed as an export processing zone developer or an export processing zone operator or an export processing zone enterprise, as the case may be.\n(2) The Authority may, on receiving application in the prescribed form, issue a licence to any person to carry on business as an export processing zone developer, or an export processing zone operator or an export processing zone enterprise and every licence issued under this subsection shall be in the prescribed form.\n(2A) The Authority shall, before issuing a licence allowing commercial activities, consult with the Commissioner-General of the Kenya Revenue Authority.\n(3) The Authority shall give notice to the Kenya Revenue Authority of every Export Processing Zone enterprise licensed under this section specifying—\n  (a) the activities in respect of which the enterprise is licensed and shall, in relation to commercial activities, indicate whether the enterprise is permitted to deal in goods not directly related to its manufacturing activities; and\n  (b) any conditions attached to the licence.\n[Act No. 14 of 1991, Sch., Act No. 9 of 2000, s. 106, Act No. 4 of 2004, s. 78.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No person shall carry on business as an export processing zone developer, export processing zone operator or export processing zone enterprise or hold himself out as providing or maintaining activities or facilities within an export processing zone unless he has been licensed as an export processing zone developer or an export processing zone operator or an export processing zone enterprise, as the case may be."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority may, on receiving application in the prescribed form, issue a licence to any person to carry on business as an export processing zone developer, or an export processing zone operator or an export processing zone enterprise and every licence issued under this subsection shall be in the prescribed form."
+    },
+    {
+     "ref": "(2A)",
+     "text": "The Authority shall, before issuing a licence allowing commercial activities, consult with the Commissioner-General of the Kenya Revenue Authority."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Authority shall give notice to the Kenya Revenue Authority of every Export Processing Zone enterprise licensed under this section specifying—"
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Register of licences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LICENSING PROVISIONS",
+   "text": "(1) The Authority shall, subject to the requirements of the National Single Window System, keep and maintain an electronic register of licences issued under this Act indicating the particulars prescribed.\n(2) Where—\n  (a) the holder of the licence ceases to carry on the business to which the licence relates; or\n  (b) a change occurs in any particulars which are required to be entered in the register of licence of licence holders with respect to the holder of a licence, the holder of the licence shall within fourteen days of the occurrence of the event concerned give to the Authority particulars of such change in the prescribed form.\n[Act No. 25 of 2022, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority shall, subject to the requirements of the National Single Window System, keep and maintain an electronic register of licences issued under this Act indicating the particulars prescribed."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where—"
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Qualifications of export processing zone developers and operators",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "EXPORT PROCESSING ZONE DEVELOPERS AND OPERATORS",
+   "text": "(1) An export processing zone developer or operator shall—\n  (a) be a company incorporated in Kenya for the sole purpose of developing and operating an export processing zone;\n  (b) have the necessary capital and expertise required for developing the export processing zones; and\n  (c) except for an export processing zone operator appointed under section 22, own or lease land or buildings or part thereof for a minimum period of ten years for land and buildings or part thereof.\n(2) Each export processing zone developer shall receive an export processing zone operator’s licence from the Authority if it qualifies under the criteria prescribed in the regulations.\n[Act No. 14 of 1991, Sch., Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An export processing zone developer or operator shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Each export processing zone developer shall receive an export processing zone operator’s licence from the Authority if it qualifies under the criteria prescribed in the regulations."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Powers of export processing zone developers and operators",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "EXPORT PROCESSING ZONE DEVELOPERS AND OPERATORS",
+   "text": "(1) An export processing zone developer shall have power to—\n  (a) act or appoint an export processing zone operator to undertake management and administration of the export processing zone on its behalf subject to subsection 19(1);\n  (b) lease, sub-lease or sell land or buildings to licensed export processing zone enterprises, and charge rent or fees for other services that may be provided, in convertible foreign currency.\n(2) The export processing zone developer shall—\n  (a) make improvements to the export processing zone site and its facilities according to the plans approved by the Authority;\n  (b) provide or facilitate provision of infrastructure and other services according to the design and engineering studies submitted to the Authority together with the application;\n  (c) provide adequate enclosures to segregate the zone area from the customs territory for the protection of revenue together with suitable provisions for the movement of persons, conveyances, vessels and goods entering or leaving the zone;\n  (d) provide adequate security on the site office accommodation and facilities for customs as determined by the Authority;\n  (e) adopt rules and regulations for businesses within the zone, which shall promote its safe and efficient operations;\n  (f) maintain adequate and proper accounts and other records in relation to its business and report on zone activities, performance and development to the Authority on an annual basis or as required by the Authority, the Commissioner of Customs, the Central Bank, the Central Bureau of Statistics or other relevant authorities; and\n  (g) register any lease agreements and service.\n(3) The accounts and records required under paragraph (f) of subsection (2) shall be maintained in English.\n(4) An export processing zone operator shall have the powers stated in paragraph (b) of subsection (1).\n(5) An export processing zone operator shall comply with all the provisions of this section including paragraphs (d), (e), (f) and (g) of subsection (2).\n(6) Any export processing zone developer or export processing zone operator who fails to maintain adequate and proper accounts and other records as required by this section shall be guilty of an offence and liable to a fine not exceeding three hundred thousand shillings.\n[Act No. 14 of 1991, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An export processing zone developer shall have power to—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The export processing zone developer shall—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The accounts and records required under paragraph (f) of subsection (2) shall be maintained in English."
+    },
+    {
+     "ref": "(4)",
+     "text": "An export processing zone operator shall have the powers stated in paragraph (b) of subsection (1)."
+    },
+    {
+     "ref": "(5)",
+     "text": "An export processing zone operator shall comply with all the provisions of this section including paragraphs (d), (e), (f) and (g) of subsection (2)."
+    },
+    {
+     "ref": "(6)",
+     "text": "Any export processing zone developer or export processing zone operator who fails to maintain adequate and proper accounts and other records as required by this section shall be guilty of an offence and liable to a fine not exceeding three hundred thousand shillings."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Establishment of export processing zone enterprises",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "EXPORT PROCESSING ZONE ENTERPRISES",
+   "text": "(1) No export processing zone enterprise shall be established, and the benefits described in Part VIII shall not accrue to any enterprise, unless the export processing zone enterprise holds a valid licence issued by the Authority.\n(2) The licence shall be granted by the Authority if the application is found to meet the objectives of this Act and if the proposed business enterprise—\n  (a) is incorporated in Kenya, whether or not it being one hundred percent foreign owned, for the sole purpose of producing goods or services for export within an export processing zone;\n  (b) proposes to engage in any activity or activities eligible to be undertaken by an export processing zone enterprise in the export processing zone;\n  (c) shall not have a deleterious impact on the environment, or engage in unlawful activities, impinging on national security or may prove to be a health hazard; and\n  (d) conducts business in accordance with the laws for the time being in force save for any exemptions that may from time to time be granted.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No export processing zone enterprise shall be established, and the benefits described in Part VIII shall not accrue to any enterprise, unless the export processing zone enterprise holds a valid licence issued by the Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "The licence shall be granted by the Authority if the application is found to meet the objectives of this Act and if the proposed business enterprise—"
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Goods deemed to be exported and imported into Kenya",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "OPERATIONS WITHIN THE EXPORT PROCESSING ZONES",
+   "text": "Unless otherwise provided under this Act or under any other written law—\n  (a) goods which are taken out from any part of the customs territory and brought into an export processing zone or services provided from part of the customs territory to an export processing zone shall be deemed to have been exported from Kenya and shall be paid for in convertible currency; and\n  (b) goods which are brought out of an export processing zone and taken into any part of the customs territory for use therein or services provided from an export processing zone to any part of the customs territory shall be deemed to be imported into Kenya.\nProvided that —\n  (i) goods whose content originates from the customs territory shall be exempt from payment of import duties; and\n  (ii) goods whose content partially originates from the customs territory shall pay import duties on the non-originating component subject to customs procedures.\n[Act No. 4 of 2023, s. 102.]",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "Goods within an export processing zone",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "OPERATIONS WITHIN THE EXPORT PROCESSING ZONES",
+   "text": "(1) Subject to section 17, goods within an export processing zone shall not be taken out of the zone except—\n  (a) for export; or\n  (b) for export into the customs territory, with the approval of the Cabinet Secretary and subject to the import and customs procedures and payment of import duties; or\n  (c) for repair and maintenance, or processing or conversion, with prior approval of the Authority under supervision of customs and subject to such conditions as may be imposed.\n(2) Subject to section 17, services provided by an export processing zone shall be provided to—\n  (a) persons outside Kenya; or\n  (b) other export processing zone enterprises in furtherance of the export activities of such enterprises subject to approval of the Authority; or\n  (c) persons in the customs territory subject to approval of the Cabinet Secretary.\n[Act No. 14 of 1991, Sch., Act No. 7 of 1993, s. 6, Act No. 11 of 1993, Sch., Act No. 4 of 2004, s. 79.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to section 17, goods within an export processing zone shall not be taken out of the zone except—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to section 17, services provided by an export processing zone shall be provided to—"
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Prohibited activities within the export processing zone",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "OPERATIONS WITHIN THE EXPORT PROCESSING ZONES",
+   "text": "(1) No retail trade in goods produced in the export processing zone or imported into the export processing zone, shall be conducted within the export processing zone.\n(2) Goods manufactured in an export processing zone shall not be used in the zone for personal consumption.\n(3) Such business services as approved by the Cabinet Secretary, on advice of the Authority, may be rendered within the export processing zone.\n(3A) No person shall, in the export processing zone, carry on business involving the importation or handling of used apparel, including used clothing or footwear.\n(3B) Deleted by Act No. 18 of 2018, Sch.\n(3C) Subject to subsection (3D), no person shall, in the export processing zone, carry on both commercial activities and manufacturing activities.\n(3D) Subsection (3C) does not apply with respect to the carrying out of commercial and manufacturing activities that a person is licensed to carry out under a licence issued before subsection (3C) came into operation.\n(3E) The following shall apply with respect to each building in the export processing zone—\n  (a) no person shall commence, on or after the day this subsection comes into operation, to carry on commercial activities in the building if manufacturing activities are already being carried on in the building, by that person or any other person;\n  (b) no person shall commence, on or after the day this subsection comes into operation, to carry on manufacturing activities in the building if commercial activities are already being carried on in the building, by that person or any other person.\n(4) Any person who contravenes the provisions of this section shall be guilty of an offence and liable to a fine not exceeding two hundred thousand shillings or imprisonment for a term not exceeding three years or to both.\n[Act No. 4 of 2004, s. 80, Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No retail trade in goods produced in the export processing zone or imported into the export processing zone, shall be conducted within the export processing zone."
+    },
+    {
+     "ref": "(2)",
+     "text": "Goods manufactured in an export processing zone shall not be used in the zone for personal consumption."
+    },
+    {
+     "ref": "(3)",
+     "text": "Such business services as approved by the Cabinet Secretary, on advice of the Authority, may be rendered within the export processing zone."
+    },
+    {
+     "ref": "(3A)",
+     "text": "No person shall, in the export processing zone, carry on business involving the importation or handling of used apparel, including used clothing or footwear."
+    },
+    {
+     "ref": "(3B)",
+     "text": "Deleted by Act No. 18 of 2018, Sch."
+    },
+    {
+     "ref": "(3C)",
+     "text": "Subject to subsection (3D), no person shall, in the export processing zone, carry on both commercial activities and manufacturing activities."
+    },
+    {
+     "ref": "(3D)",
+     "text": "Subsection (3C) does not apply with respect to the carrying out of commercial and manufacturing activities that a person is licensed to carry out under a licence issued before subsection (3C) came into operation."
+    },
+    {
+     "ref": "(3E)",
+     "text": "The following shall apply with respect to each building in the export processing zone—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person who contravenes the provisions of this section shall be guilty of an offence and liable to a fine not exceeding two hundred thousand shillings or imprisonment for a term not exceeding three years or to both."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Removal of goods from the export processing zone",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "OPERATIONS WITHIN THE EXPORT PROCESSING ZONES",
+   "text": "(1) Subject to this Act, goods in an export processing zone may—\n  (a) be removed under supervision of a customs officer from such zone for export or sent into another export processing zone or bonded factory either in original package or otherwise;\n  (b) unless otherwise directed by the Authority—\n  (i) be stored, sold, exhibited, broken up, repacked, assembled, distributed, sorted, graded, cleaned, mixed, or otherwise manipulated or be manufactured in accordance with the provisions of this Act; or\n  (ii) be destroyed under the supervision of the Customs.\n(2) Subject to this Act, goods of any description which would be used directly for the manufacture of other goods by a licensed export processing zone enterprise or goods manufactured in any part of the customs territory which are meant for export may be brought into an export processing zone.\n(3) Any person who contravenes the provisions of this section shall be guilty of an offence and liable to a fine not exceeding two hundred thousand shillings or imprisonment for a term not exceeding three years or to both and the goods shall be liable to forfeiture under the customs law.\n[Act No. 14 of 1991, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this Act, goods in an export processing zone may—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to this Act, goods of any description which would be used directly for the manufacture of other goods by a licensed export processing zone enterprise or goods manufactured in any part of the customs territory which are meant for export may be brought into an export processing zone."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person who contravenes the provisions of this section shall be guilty of an offence and liable to a fine not exceeding two hundred thousand shillings or imprisonment for a term not exceeding three years or to both and the goods shall be liable to forfeiture under the customs law."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Exchange controls on receipts and payments by export processing zone enterprises",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "OPERATIONS WITHIN THE EXPORT PROCESSING ZONES",
+   "text": "(1) Unless otherwise provided under this Act or under any other written law—\n  (a) payments of funds by an export processing zone enterprise which may be received by residents or non-residents of the customs territory and debited from the foreign currency account legally maintained and operated by an export processing zone enterprise shall be subject to the provisions of the Exchange Control Act (Cap. 113) applicable to all transactions between such persons and non-residents;\n  (b) receipts of funds by export processing zone enterprises which may be paid by residents or non-residents as defined under the Exchange Control Act (Cap. 113) shall only be credited into foreign currency accounts legally maintained and operated by the export processing zone enterprises provided those payments arise in relation to authorized export processing zone exports or other transactions duly approved under the Exchange Control Act (Cap. 113);\n  (c) all currency transactions between export processing zone enterprises and non-resident persons, resident outside the customs territory, shall be exempt from the Exchange Control Regulations, except for the regulations made under this Act and the Exchange Control Act (Cap. 113) to apply to export processing enterprises.\n(2) Notwithstanding subsection (1), all financial transactions, including payment of salaries and wages, between export processing zone enterprises and persons resident in Kenya shall be carried out through commercial bank accounts.\n[Act No. 7 of 1993, s. 7.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Unless otherwise provided under this Act or under any other written law—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding subsection (1), all financial transactions, including payment of salaries and wages, between export processing zone enterprises and persons resident in Kenya shall be carried out through commercial bank accounts."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Benefits accruing to export processing zone enterprises, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "BENEFITS TO EXPORT PROCESSING ZONE ENTERPRISES, ETC.",
+   "text": "(1) The export processing zone enterprises, the export processing zone developers and the export processing zone operators shall be granted exemption from all existing and future taxes and duties payable under the Excise Duty Act (Cap. 472) and Value Added Tax Act (Cap. 476) on all export processing zone imports for use in the eligible business activities of the export processing zone enterprise including machinery and equipment, spare parts, tools, raw materials, intermediate goods, construction materials and equipment, office equipment and supplies, and transportation equipment subject to the limitations on goods specified in the Second Schedule to this Act and according to the conditions specified in the Excise Duty Act (Cap. 472) and the Value Added Tax Act (Cap. 476).\n(2) Subject to subsection (1) and without prejudice to any other written law, the export processing zone enterprise, export processing zone developers and the export processing zone operators shall be granted the following exemptions—\n  (a) exemption from registration under the Value Added Tax Act (Cap. 476);\n  (b) exemption from the payment of excise duties as specified in the Excise Duty Act (Cap. 472);\n  (c) exemption from the payment of income tax as specified in the Income Tax Act (Cap. 470) for the first ten years from the date of first sale as an export processing zone enterprise, except that income tax rate will be limited to twenty-five percent for the ten years following the expiry of the exemption granted under this paragraph;\n  (d) exemption from the payment of withholding taxes on dividends and other payments made to non-residents during the period that the export processing zone enterprise is exempted from payment of income tax under paragraph (c);\n  (e) exemption from stamp duties on the execution of any instruments relating to the business activities of an export processing zone enterprise;\n  (f) exemption from quotas or other restrictions or prohibitions on import or export trade with the exception of trade in firearms, military equipment or other illegal goods;\n  (g) exemption from exchange controls on payments for—\n  (i) receipts of export processing zone exports;\n  (ii) payments for raw materials, intermediate goods, tools, and spares, supplies, construction equipment and construction materials, capital equipment, office equipment, repatriation of royalties, management fees, technology transfer fees, profits, dividends, advertising expenses, inspection fees for quality control, debt service and any other legitimate business expenses; and\n  (iii) capital transactions, except on capital funds raised from Kenyan persons subject to exchange control in which case remittance of dividends, profits, debt service and any other returns to such capital invested will be subject to the Exchange Control Act (Cap. 113);\n  (h) exemptions from rent or tenancy controls; and\n  (i) any other exemptions as may be granted by the Cabinet Secretary for the time being responsible for finance by notice in the Gazette.\n[Act No. 14 of 1991, Sch., Act No. 6 of 1994, s. 76(c).]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The export processing zone enterprises, the export processing zone developers and the export processing zone operators shall be granted exemption from all existing and future taxes and duties payable under the Excise Duty Act (Cap. 472) and Value Added Tax Act (Cap. 476) on all export processing zone imports for use in the eligible business activities of the export processing zone enterprise including machinery and equipment, spare parts, tools, raw materials, intermediate goods, construction materials and equipment, office equipment and supplies, and transportation equipment subject to the limitations on goods specified in the Second Schedule to this Act and according to the conditions specified in the Excise Duty Act (Cap. 472) and the Value Added Tax Act (Cap. 476)."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to subsection (1) and without prejudice to any other written law, the export processing zone enterprise, export processing zone developers and the export processing zone operators shall be granted the following exemptions—"
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Inspection facilities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "BENEFITS TO EXPORT PROCESSING ZONE ENTERPRISES, ETC.",
+   "text": "The customs officer in each export processing zone shall offer on-site inspection to the export processing zone for imports into, and exports out of, the export processing zone.",
+   "clauses": []
+  },
+  "31": {
+   "num": "31",
+   "title": "Appeal to the Cabinet Secretary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Any person aggrieved by any direction given by the Authority to such person or by a decision of the Authority—\n  (a) refusing to grant a licence;\n  (b) imposing limitations or restrictions on a licence;\n  (c) cancelling or suspending a licence; may appeal to the Cabinet Secretary against such direction, refusal, limitations or restrictions, cancellations, suspension or removal, as the case may be, within thirty days from the date on which the decision was communicated to such person.\n(2) The Cabinet Secretary may, if he considers it in the public interest to do so, set aside the Authority’s decision.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person aggrieved by any direction given by the Authority to such person or by a decision of the Authority— (a) refusing to grant a licence; (b) imposing limitations or restrictions on a licence; (c) cancelling or suspending a licence; may appeal to the Cabinet Secretary against such direction, refusal, limitations or restrictions, cancellations, suspension or removal, as the case may be, within thirty days from the date on which the decision was communicated to such person."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary may, if he considers it in the public interest to do so, set aside the Authority’s decision."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Power of Cabinet Secretary to give directions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary may give to the Authority such directions as he may consider necessary for the proper functioning of an export processing zone or for the purpose of protecting revenue and foreign exchange earnings.\n(2) The Cabinet Secretary may from time to time direct the Authority to furnish in such form as he may require returns, accounts and any other information with respect to the work of the Authority and the Authority shall comply with such direction.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may give to the Authority such directions as he may consider necessary for the proper functioning of an export processing zone or for the purpose of protecting revenue and foreign exchange earnings."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary may from time to time direct the Authority to furnish in such form as he may require returns, accounts and any other information with respect to the work of the Authority and the Authority shall comply with such direction."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Report to the Cabinet Secretary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Authority shall within three months after the close of each financial year, submit to the Cabinet Secretary a report of its operations and activities throughout the year, together with audited accounts in such form and details as the Cabinet Secretary may from time to time determine.",
+   "clauses": []
+  },
+  "34": {
+   "num": "34",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Cabinet Secretary may make regulations in respect of any matter required by the Act to be prescribed or in respect of which regulations are authorized to be made.",
+   "clauses": []
+  },
+  "35": {
+   "num": "35",
+   "title": "General powers of the Cabinet Secretary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary may, for health, environmental or public security reasons and by order published in the Gazette, exclude goods or services from the provisions of this Act.\n(2) The Cabinet Secretary may, for health, environmental or public security reasons and by order published in the Gazette, prohibit any goods from being taken into an export processing zone.\nRepealed by Act No. 7 of 1993, s. 8.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, for health, environmental or public security reasons and by order published in the Gazette, exclude goods or services from the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary may, for health, environmental or public security reasons and by order published in the Gazette, prohibit any goods from being taken into an export processing zone."
+    }
+   ]
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE PERMITTED ACTIVITIES",
+   "subtitle": null,
+   "text": "SECOND SCHEDULE [s. 29(1)]\nLIMITATION ON IMPORTS\n[Act No. 5 of 1998, s. 64, Act No. 4 of 1999, s. 103, Act No. 9 of 2000, s. 107, Act No. 6 of 2001, s. 65.] The following goods may not be imported free of import duty and value added tax by an export processing zone enterprise or export processing zone developer—\n1. Any vehicle not used solely within an export zone and in any case— Passenger cars Mini buses.\n2. Fuel, excluding—\n  (i) fuel oil which is exclusively and physically expended as raw material for the manufacture of bitumen, in such quantities as the Commissioner may, from time to time, approve;\n  (ii) fuel for use in generators and boilers, in such quantities and subject to such conditions as the Commissioner may prescribe.\n3. Spare parts for motor vehicles, including tyres."
+  },
+  {
+   "id": "att_2",
+   "title": "THIRD SCHEDULE [s. 36] AMENDMENTS TO THE CUSTOMS AND EXCISE ACT",
+   "subtitle": null,
+   "text": "Spent"
+  }
+ ],
+ "spent": {}
+}

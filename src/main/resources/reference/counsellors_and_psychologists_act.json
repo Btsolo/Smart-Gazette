@@ -1,0 +1,914 @@
+{
+ "title": "Counsellors and Psychologists Act",
+ "citation": "Cap. 253C",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2014/14/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "COUNSELLORS AND PSYCHOLOGISTS ACT CAP. 253C Published in Kenya Gazette Vol. CXVI—No. 94 on 8 August 2014 Assented to on 30 July 2014 Commenced on 18 August 2014\n[Amended by Health Laws (Amendment) Act, 2019 (Act No. 5 of 2019) on 17 May 2019] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAN ACT of Parliament to provide for the training, registration, licensing, practice and standards of counsellors and psychologists and for connected purposes A-The Counsellors and Psychologists Board",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "provisions": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "REGISTRATION OF COUNSELLORS AND PSYCHOLOGISTS",
+   "provisions": [
+    "23",
+    "24",
+    "25",
+    "26",
+    "27"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "LICENSING OF COUNSELLORS AND PSYCHOLOGISTS",
+   "provisions": [
+    "28",
+    "29",
+    "30",
+    "31"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "ENFORCEMENT",
+   "provisions": [
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "MISCELLANEOUS",
+   "provisions": [
+    "45",
+    "46"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Counsellors and Psychologists Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In this Act, unless the context otherwise requires— \"Board\" means the Counsellors and Psychologists Board established under section 3; \"Cabinet Secretary\" means the Cabinet Secretary for the time being responsible for matters relating to health; \"Council\" means the Council of the Society provided for in section 19; \"practicum\" means an ongoing, supervised and organized practical experience or internship prescribed as part of the qualifications for the award of any degree or diploma and obtained in an integrated training program recognized, by the Board; \"private practice\" means the practice of the profession of counselling or psychology in a person's own behalf, for a fee; \"register\" means the register of counsellors and psychologists maintained under section 25; \"Registrar\" means the Registrar of Counsellors and Psychologists appointed under section 9; and \"Secretary\" means the Secretary of the Council appointed under section 22; \"Society\" means the Counsellors and Psychologists Society of Kenya established try section 15; \"supervisor\" means a more trained, qualified and accredited counsellor or psychologist who is charged with the function of giving professional support to a counsellor or psychologist.\n(2) The expressions \"legally qualified counsellor or psychologist\" and \"duly qualified counsellor or psychologist\" or any words importing a person recognized by law as a counsellor or psychologist or a member of the professions of counselling and psychology, when used in a written law with reference to that person, shall be construed to mean a person registered as a counsellor or psychologist under this Act or, where the context so admits, a person who is registered by the Board under section 24.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, unless the context otherwise requires— \"Board\" means the Counsellors and Psychologists Board established under section 3; \"Cabinet Secretary\" means the Cabinet Secretary for the time being responsible for matters relating to health; \"Council\" means the Council of the Society provided for in section 19; \"practicum\" means an ongoing, supervised and organized practical experience or internship prescribed as part of the qualifications for the award of any degree or diploma and obtained in an integrated training program recognized, by the Board; \"private practice\" means the practice of the profession of counselling or psychology in a person's own behalf, for a fee; \"register\" means the register of counsellors and psychologists maintained under section 25; \"Registrar\" means the Registrar of Counsellors and Psychologists appointed under section 9; and \"Secretary\" means the Secretary of the Council appointed under section 22; \"Society\" means the Counsellors and Psychologists Society of Kenya established try section 15; \"supervisor\" means a more trained, qualified and accredited counsellor or psychologist who is charged with the function of giving professional support to a counsellor or psychologist."
+    },
+    {
+     "ref": "(2)",
+     "text": "The expressions \"legally qualified counsellor or psychologist\" and \"duly qualified counsellor or psychologist\" or any words importing a person recognized by law as a counsellor or psychologist or a member of the professions of counselling and psychology, when used in a written law with reference to that person, shall be construed to mean a person registered as a counsellor or psychologist under this Act or, where the context so admits, a person who is registered by the Board under section 24."
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "(1) There is established a board to be known as the Counsellors and Psychologists Board. (2) The Board is a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of—\n  (a) suing and being sued;\n  (b) acquiring, holding, charging and disposing of movable and immovable property;\n  (c) borrowing and lending money; and (d) doing or performing all such other things or acts as may legally be done or performed by a body corporate for the proper discharge of its functions under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a board to be known as the Counsellors and Psychologists Board. (2) The Board is a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of— (a) suing and being sued; (b) acquiring, holding, charging and disposing of movable and immovable property; (c) borrowing and lending money; and (d) doing or performing all such other things or acts as may legally be done or performed by a body corporate for the proper discharge of its functions under this Act."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Composition of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "(1) The Board shall composed of—\n  (a) a Chairperson appointed by the Cabinet Secretary who shall have—\n  (i) a minimum of a bachelors' degree in a relevant field; and (ii) at least fifteen years' experience in counselling or psychology;\n  (b) the Director General of Health or their designated representative;\n  (c) the Principal Secretary in the ministry for the time being responsible for matters relating to finance;\n  (d) two persons, who shall be counsellors or psychologists, representing training institutions appointed by the Cabinet Secretary, of whom—\n  (i) one shall represent middle level colleges; and (ii) one shall represent institutions of higher learning;\n  (e) two persons, one representing counsellors and the other representing psychologists, nominated by registered counsellors and psychologists;\n  (f) one person from minorities and marginalized groups who shall be a counsellor or a psychologist and shall be nominated by the Cabinet Secretary; and (g) the Registrar, who shall be an ex officio member and the secretary to the Board.\n(2) For the first appointments under subsection (1)(e), upon the coming into force of this Act, the persons shall be elected by the organizations appearing to the Cabinet Secretary to be representative of the professions of counselling and psychology.\n(3) All appointments under this section shall be by notice in the Gazette. (4) A person shall not be appointed a member of the Board under subsection (1)(d), (e), (f) and (g) unless such person—\n  (a) is a citizen of Kenya;\n  (b) is of good character and good standing;\n  (c) meets the requirements of Chapter Six of the Constitution.\n(5) A person shall not be appointed as a Chairperson of the Board under subsection (1)(a) unless such person—\n  (a) has at least fifteen years experience in counselling or psychology;\n  (b) meets the requirements of Chapter Six of the Constitution.\n(6) The Cabinet Secretary shall, in appointing the members of the Board under subsection (1), consider gender and regional balance, and the mix of skills and competencies required for the achievement of the organization's long-term goals.\n(7) Pursuant to nominations in paragraphs (d) and (e) of subsection (1), each organization shall present two nominations one of whom shall be appointed by the Cabinet Secretary.\n(8) The members of the Board appointed under paragraphs (d), (e) and (f) of subsection (1) shall hold office for a term of three years and shall be eligible for re-appointment in accordance with the procedure set out for one further term.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall composed of— (a) a Chairperson appointed by the Cabinet Secretary who shall have— (i) a minimum of a bachelors' degree in a relevant field; and (ii) at least fifteen years' experience in counselling or psychology; (b) the Director General of Health or their designated representative; (c) the Principal Secretary in the ministry for the time being responsible for matters relating to finance; (d) two persons, who shall be counsellors or psychologists, representing training institutions appointed by the Cabinet Secretary, of whom— (i) one shall represent middle level colleges; and (ii) one shall represent institutions of higher learning; (e) two persons, one representing counsellors and the other representing psychologists, nominated by registered counsellors and psychologists; (f) one person from minorities and marginalized groups who shall be a counsellor or a psychologist and shall be nominated by the Cabinet Secretary; and (g) the Registrar, who shall be an ex officio member and the secretary to the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the first appointments under subsection (1)(e), upon the coming into force of this Act, the persons shall be elected by the organizations appearing to the Cabinet Secretary to be representative of the professions of counselling and psychology."
+    },
+    {
+     "ref": "(3)",
+     "text": "All appointments under this section shall be by notice in the Gazette. (4) A person shall not be appointed a member of the Board under subsection (1)(d), (e), (f) and (g) unless such person— (a) is a citizen of Kenya; (b) is of good character and good standing; (c) meets the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(5)",
+     "text": "A person shall not be appointed as a Chairperson of the Board under subsection (1)(a) unless such person—"
+    },
+    {
+     "ref": "(6)",
+     "text": "The Cabinet Secretary shall, in appointing the members of the Board under subsection (1), consider gender and regional balance, and the mix of skills and competencies required for the achievement of the organization's long-term goals."
+    },
+    {
+     "ref": "(7)",
+     "text": "Pursuant to nominations in paragraphs (d) and (e) of subsection (1), each organization shall present two nominations one of whom shall be appointed by the Cabinet Secretary."
+    },
+    {
+     "ref": "(8)",
+     "text": "The members of the Board appointed under paragraphs (d), (e) and (f) of subsection (1) shall hold office for a term of three years and shall be eligible for re-appointment in accordance with the procedure set out for one further term."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Conduct of business and affairs of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "(1) The conduct and regulation of the business and affairs of the Board shall be as provided in the First Schedule.\n(2) Except as provided in the First Schedule, the Board may regulate its own procedure.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The conduct and regulation of the business and affairs of the Board shall be as provided in the First Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "Except as provided in the First Schedule, the Board may regulate its own procedure."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Functions of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "The functions of the Board shall be to—\n  (a) administer such examinations as may be necessary to determine whether persons are qualified for registration under this Act;\n  (b) approve courses for purposes of registration of counsellors and psychologists under this Act;\n  (c) register and licence counsellors and psychologists for the purposes of this Act upon payment of the prescribed fees;\n  (d) plan, arrange, co-ordinate and oversee continuing professional training and development and facilitate internship of trainee counsellors and psychologists.\n  (e) collaborate with training institutions, professional, associations, professional organizations and other relevant bodies in matters relating to training and professional development of counsellors and psychologists;\n  (f) determine the fees to be charged by professional counsellors and psychologists and firms for professional services rendered from time to time;\n  (g) supervise the professional conduct and practice of counsellors and psychologists and to take the necessary disciplinary measures in cases of violations of professional conduct and discipline;\n  (h) establish a system of professional supervision of counsellors and psychologists, and the appointment of supervisors for that purpose;\n  (i) upon request, to act as an arbitrator in any disputes between a licensed counsellor or psychologist and a client;\n  (j) advise the Cabinet Secretary on appropriate policies, programs and standards governing the professions of counselling and psychology in Kenya;\n  (ja) issue guidelines in consultation with the Cabinet Secretary to govern matters related to the practice of counsellors and psychologists;\n  (k) represent, protect and assist members of the professions of counselling and psychology in Kenya in respect of conditions of practice and otherwise. [Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Powers of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "The Board shall have all powers necessary for the proper performance of its functions under this Act and in particular, but without prejudice to the generality of the foregoing, the Board shall have power to—\n  (a) control, supervise and administer the assets of the Board in such manner as best promotes the purpose for which the Board is established;\n  (b) determine the provisions to be made for capital and recurrent expenditure and for the reserves of the Board;\n  (c) receive any grants, gifts, donations or endowments and make legitimate disbursements therefrom;\n  (d) open such banking accounts for its funds may be necessary;\n  (e) invest any funds of the Board not immediately required for its purposes in the manner provided in section 44;\n  (f) undertake any activity necessary for the fulfilment of any of its functions.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Remuneration of Board members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "The Board shall pay its members such remuneration, fees or allowances for expenses as it may determine upon the advice of the Salaries and Remuneration Commission.",
+   "clauses": []
+  },
+  "9": {
+   "num": "9",
+   "title": "Registrar",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "(1) There shall be a Registrar of the Board who shall be appointed by the Board through an open, transparent and competitive recruitment process.\n(2) The Registrar shall—\n  (a) be the chief executive officer of the Board and shall, subject to the direction of the Board, be responsible for the day to day management of the affairs and staff of the Board;\n  (b) be an ex-officio member of the Board but shall have no right to vote at any meetings of the Board;\n  (c) perform such duties as are prescribed by or under this Act.\n(3) The Registrar shall serve—\n  (a) according to terms and conditions determined by the Board; and (b) for a term of four years renewable once subject to satisfactory performance.\n(4) A person shall not be appointed as a Registrar unless such person is registered as a counsellor or psychologist under this Act and—\n  (a) has at least five years proven experience in the fields of counselling or psychology;\n  (b) has knowledge and experience in policy formulation, administration and management;\n  (c) meets the requirements of Chapter Six of the Constitution. [Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Registrar of the Board who shall be appointed by the Board through an open, transparent and competitive recruitment process."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar shall— (a) be the chief executive officer of the Board and shall, subject to the direction of the Board, be responsible for the day to day management of the affairs and staff of the Board; (b) be an ex-officio member of the Board but shall have no right to vote at any meetings of the Board; (c) perform such duties as are prescribed by or under this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall serve— (a) according to terms and conditions determined by the Board; and (b) for a term of four years renewable once subject to satisfactory performance."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person shall not be appointed as a Registrar unless such person is registered as a counsellor or psychologist under this Act and— (a) has at least five years proven experience in the fields of counselling or psychology; (b) has knowledge and experience in policy formulation, administration and management; (c) meets the requirements of Chapter Six of the Constitution. [Act No. 5 of 2019, Sch.]"
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Staff of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "The Board may appoint such officers and other staff as are necessary for the proper discharge of its functions under this Act, upon such terms and conditions of service as the Board may determine upon the advice of the Salaries and Remuneration Commission.",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Delegation by the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "The Board may, by resolution either generally or in any particular case, delegate to any committee or to any member, officer, employee or agent of the Board, the exercise of any of the powers or the performance of any of its functions under this Act or under any other written law.",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Committees of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "(1) The Board may establish such committees as it may deem appropriate to perform such functions and responsibilities as it may determine.\n(2) The Board shall appoint the Chairperson of a committee established under subsection (1) from amongst its members.\n(3) The Board may where it deems appropriate, co-opt any person from outside the Board with knowledge and expertise in specific areas to attend the deliberations of any of its committees.\n(4) All decisions by the committees appointed under subsection (1) shall be ratified by the Board.\n(5) Without prejudice to the foregoing provisions of this section, the Board shall establish the committees set out in the Second Schedule.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may establish such committees as it may deem appropriate to perform such functions and responsibilities as it may determine."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall appoint the Chairperson of a committee established under subsection (1) from amongst its members."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board may where it deems appropriate, co-opt any person from outside the Board with knowledge and expertise in specific areas to attend the deliberations of any of its committees."
+    },
+    {
+     "ref": "(4)",
+     "text": "All decisions by the committees appointed under subsection (1) shall be ratified by the Board."
+    },
+    {
+     "ref": "(5)",
+     "text": "Without prejudice to the foregoing provisions of this section, the Board shall establish the committees set out in the Second Schedule."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Protection from personal liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "(1) No act or omission by any member of the Board or by any officer, employee, agent or servant of the Board shall, if the act or omission was done bona fide for the purposes of executing a function, power or duty under the Act render such member, officer, employee, agent or servant personally liable to any action, claim or demand whatsoever.\n(2) The provisions of subsection (1) shall not relieve the Board of the liability to pay compensation to any person for any injury to him, his property or to any of his interests caused by the exercise of any power conferred by this Act or by failure, whether wholly or partially, of any works.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No act or omission by any member of the Board or by any officer, employee, agent or servant of the Board shall, if the act or omission was done bona fide for the purposes of executing a function, power or duty under the Act render such member, officer, employee, agent or servant personally liable to any action, claim or demand whatsoever."
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of subsection (1) shall not relieve the Board of the liability to pay compensation to any person for any injury to him, his property or to any of his interests caused by the exercise of any power conferred by this Act or by failure, whether wholly or partially, of any works."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Common seal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "(1) The common seal of the Board shall be kept in such custody as the Board may direct and shall not be used except upon the order of the Board.\n(2) The affixing of the common seal of the Board shall be authenticated by the signature of the Chairperson and the Registrar and any document not required by law to be made under seal and all decisions of the Board may be authenticated by the signatures of both the Chairperson and the Registrar.\n(3) Notwithstanding the provisions of subsection (2) the Board shall, in the absence of either the Chairperson or the Registrar in a particular matter, nominate one member to authenticate the seal on behalf of either the Chairperson or the Registrar.\n(4) The common seal of the Board when affixed to a document and duly authenticated shall be judicially and officially noticed and unless and until the contrary is proved, any necessary order or authorization by the Board under this section shall be presumed to have been duly given.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The common seal of the Board shall be kept in such custody as the Board may direct and shall not be used except upon the order of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "The affixing of the common seal of the Board shall be authenticated by the signature of the Chairperson and the Registrar and any document not required by law to be made under seal and all decisions of the Board may be authenticated by the signatures of both the Chairperson and the Registrar."
+    },
+    {
+     "ref": "(3)",
+     "text": "Notwithstanding the provisions of subsection (2) the Board shall, in the absence of either the Chairperson or the Registrar in a particular matter, nominate one member to authenticate the seal on behalf of either the Chairperson or the Registrar."
+    },
+    {
+     "ref": "(4)",
+     "text": "The common seal of the Board when affixed to a document and duly authenticated shall be judicially and officially noticed and unless and until the contrary is proved, any necessary order or authorization by the Board under this section shall be presumed to have been duly given."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "[Deleted by Act No. 5 of 2019, Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "[Deleted by Act No. 5 of 2019, Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "[Deleted by Act No. 5 of 2019, Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "[Deleted by Act No. 5 of 2019, Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "",
+   "clauses": []
+  },
+  "19": {
+   "num": "19",
+   "title": "[Deleted by Act No. 5 of 2019, Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "",
+   "clauses": []
+  },
+  "20": {
+   "num": "20",
+   "title": "[Deleted by Act No. 5 of 2019, Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "[Deleted by Act No. 5 of 2019, Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "",
+   "clauses": []
+  },
+  "22": {
+   "num": "22",
+   "title": "[Deleted by Act No. 5 of 2019, Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF VARIOUS BODIES",
+   "text": "",
+   "clauses": []
+  },
+  "23": {
+   "num": "23",
+   "title": "Qualifications for registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF COUNSELLORS AND PSYCHOLOGISTS",
+   "text": "A person shall be eligible for registration under this Act as a counsellor or psychologist if the person—\n  (a) is, in the case of a counsellor, the holder of a diploma degree in counselling from a recognised university;\n  (b) is, in the case of a psychologist, the holder of a diploma degree in psychology from a recognised university;\n  (c) has passed an examination prescribed by the Board; and (d) satisfies the Board that he or she is a person of good moral character and a fit and proper person to be registered under this Act. [Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "24": {
+   "num": "24",
+   "title": "Registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF COUNSELLORS AND PSYCHOLOGISTS",
+   "text": "(1) Every person eligible to be registered as a counsellor or psychologist may apply in the prescribed form to the Registrar for registration in the register, and every such application shall be accompanied by the prescribed fee.\n(2) Where a person has complied with the provisions of subsection (1) and has been accepted by the Board as being eligible for registration and has satisfied the Registrar that he or she has been so accepted, he or she shall be registered.\n(3) The Registrar shall issue to every person registered under this Act, a certificate in the prescribed form.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every person eligible to be registered as a counsellor or psychologist may apply in the prescribed form to the Registrar for registration in the register, and every such application shall be accompanied by the prescribed fee."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a person has complied with the provisions of subsection (1) and has been accepted by the Board as being eligible for registration and has satisfied the Registrar that he or she has been so accepted, he or she shall be registered."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall issue to every person registered under this Act, a certificate in the prescribed form."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Register of counsellors and psychologists",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF COUNSELLORS AND PSYCHOLOGISTS",
+   "text": "The Registrar shall maintain a register of counsellors and psychologists in the prescribed form in which the name of every person, registered under this Act, shall be entered.",
+   "clauses": []
+  },
+  "26": {
+   "num": "26",
+   "title": "Alterations to the register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF COUNSELLORS AND PSYCHOLOGISTS",
+   "text": "(1) The Registrar shall, from time to time, in accordance with the directions of the Board, make any corrections in the register in relation to any entry therein.\n(2) All changes in the entries under subsection (3) shall be made by the Registrar as soon as is practicable after receipt of the notification thereof.\n(3) The Registrar shall remove from the register—\n  (a) the name of every—\n  (i) deceased person;\n  (ii) person convicted of an offence under this Act, and all avenues of appeal have been exhausted;\n  (iii) person whose name the Board has, under section 34, directed that it should be struck off the Register; and (b) any entry which has been incorrectly or fraudulently made in the register.\n(4) The Registrar may, with the written consent of the person, remove from the register the name of a person who has ceased to practice.\n(5) Every person registered under this Act who has obtained a higher qualification than then registered qualification shall, on the payment of the prescribed fee, be entitled to have that additional qualification inserted in the register in addition to the qualification previously registered.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar shall, from time to time, in accordance with the directions of the Board, make any corrections in the register in relation to any entry therein."
+    },
+    {
+     "ref": "(2)",
+     "text": "All changes in the entries under subsection (3) shall be made by the Registrar as soon as is practicable after receipt of the notification thereof."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall remove from the register— (a) the name of every— (i) deceased person; (ii) person convicted of an offence under this Act, and all avenues of appeal have been exhausted; (iii) person whose name the Board has, under section 34, directed that it should be struck off the Register; and (b) any entry which has been incorrectly or fraudulently made in the register."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Registrar may, with the written consent of the person, remove from the register the name of a person who has ceased to practice."
+    },
+    {
+     "ref": "(5)",
+     "text": "Every person registered under this Act who has obtained a higher qualification than then registered qualification shall, on the payment of the prescribed fee, be entitled to have that additional qualification inserted in the register in addition to the qualification previously registered."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Publication of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF COUNSELLORS AND PSYCHOLOGISTS",
+   "text": "(1) The Registrar shall publish in the Gazette as soon as may be practicable after registration the name of every counsellor or psychologist registered under this Act.\n(2) It shall be the duty of every counsellor or psychologist to inform the Registrar immediately of any change in the registered address.\n(3) The publication of the list of registered counsellors and psychologists in the Gazette shall be prima facie evidence that the persons named therein are registered under this Act, and the absence of the name of any person from such list shall be prima facie evidence that the person is not so registered.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar shall publish in the Gazette as soon as may be practicable after registration the name of every counsellor or psychologist registered under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "It shall be the duty of every counsellor or psychologist to inform the Registrar immediately of any change in the registered address."
+    },
+    {
+     "ref": "(3)",
+     "text": "The publication of the list of registered counsellors and psychologists in the Gazette shall be prima facie evidence that the persons named therein are registered under this Act, and the absence of the name of any person from such list shall be prima facie evidence that the person is not so registered."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Licence to practice",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LICENSING OF COUNSELLORS AND PSYCHOLOGISTS",
+   "text": "(1) A person shall not practise as a counsellor or psychologist unless such person has—\n  (a) been registered under this Act;\n  (b) complied with the prescribed requirements for continuing education and supervision; and (c) been issued with a valid practising licence by the Board in accordance with Regulations made under this Act.\n(2) The Board may issue to a counsellor or psychologist who has applied in the prescribed form, a license to practice on their own behalf or to be employed by a counsellor or psychologist. [Act No. 4 of 1994, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not practise as a counsellor or psychologist unless such person has— (a) been registered under this Act; (b) complied with the prescribed requirements for continuing education and supervision; and (c) been issued with a valid practising licence by the Board in accordance with Regulations made under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may issue to a counsellor or psychologist who has applied in the prescribed form, a license to practice on their own behalf or to be employed by a counsellor or psychologist. [Act No. 4 of 1994, Sch.]"
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Period of validity of licences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LICENSING OF COUNSELLORS AND PSYCHOLOGISTS",
+   "text": "(1) A licence granted under this Act shall be valid for one year, for the duration between the 1st January and 31st December in every year, and may, upon expiry, be renewed.\n(2) A person whose licence has not been renewed for one year or more and who wishes to have the licence renewed may apply to the Board upon—\n  (a) swearing an affidavit in the prescribed form explaining the reasons for non-renewal;\n  (b) payment of the licence fee for the current license period;\n  (c) presentation of evidence to the Board of fulfilment of all applicable conditions for renewal of a license; and (d) payment of annual subscription fee for the current licence period.\n(3) The Board may refuse to issue or to renew a licence. (4) A person aggrieved by a decision of the Board under this section may appeal to the High Court, and in any such appeal the High Court may annul or vary the decision as it may determine necessary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A licence granted under this Act shall be valid for one year, for the duration between the 1st January and 31st December in every year, and may, upon expiry, be renewed."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person whose licence has not been renewed for one year or more and who wishes to have the licence renewed may apply to the Board upon— (a) swearing an affidavit in the prescribed form explaining the reasons for non-renewal; (b) payment of the licence fee for the current license period; (c) presentation of evidence to the Board of fulfilment of all applicable conditions for renewal of a license; and (d) payment of annual subscription fee for the current licence period."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board may refuse to issue or to renew a licence. (4) A person aggrieved by a decision of the Board under this section may appeal to the High Court, and in any such appeal the High Court may annul or vary the decision as it may determine necessary."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Publication of licensing",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LICENSING OF COUNSELLORS AND PSYCHOLOGISTS",
+   "text": "(1) The issue and the cancellation, revocation or withdrawal of a licence under this Part shall be published in the Gazette.\n(2) The Registrar shall, once in every year, as soon as convenient after 1st January, but not later than 31st March, publish in the Gazette a list containing the names, qualifications and registered addresses of all licensed counsellors and psychologists.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The issue and the cancellation, revocation or withdrawal of a licence under this Part shall be published in the Gazette."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar shall, once in every year, as soon as convenient after 1st January, but not later than 31st March, publish in the Gazette a list containing the names, qualifications and registered addresses of all licensed counsellors and psychologists."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "No fees for unlicensed persons",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LICENSING OF COUNSELLORS AND PSYCHOLOGISTS",
+   "text": "A person shall not be entitled to recover a fee for counselling or psychology services, unless such person is licensed under this Act.",
+   "clauses": []
+  },
+  "32": {
+   "num": "32",
+   "title": "False registration or licensing",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "ENFORCEMENT",
+   "text": "(1) Any person who wilfully procures or attempts to procure registration or licensing under any of the provisions of this Act, by making or producing or causing to be made or produced any false or fraudulent representation or declaration either orally or in writing, commits an offence and shall be liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding two years, or both.\n(2) lf a person convicted of an offence under this section is registered or licensed under this Act, the Registrar shall upon direction from the Board remove such person's name from the register and cancel the licence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who wilfully procures or attempts to procure registration or licensing under any of the provisions of this Act, by making or producing or causing to be made or produced any false or fraudulent representation or declaration either orally or in writing, commits an offence and shall be liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding two years, or both."
+    },
+    {
+     "ref": "(2)",
+     "text": "lf a person convicted of an offence under this section is registered or licensed under this Act, the Registrar shall upon direction from the Board remove such person's name from the register and cancel the licence."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Professional misconduct",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "ENFORCEMENT",
+   "text": "A person who is licensed as a counsellor or psychologist commits an act of professional misconduct if such person—\n  (a) deliberately fails to follow the laid down standards of conduct and practice of the profession of counselling or psychology as may be laid down by the Board;\n  (b) commits gross negligence in the conduct of his professional duties;\n  (c) allows another person to practise in his or her name, where such person—\n  (i) is not a holder of a practising certificate issued under this Act; and (ii) is not in partnership with him or her;\n  (d) takes advantage of clients by abusing a position of trust, expertise, or authority;\n  (e) is insensitive to clients through a lack of regard or concern for clients' needs, feelings, rights, or welfare of others;\n  (f) shows incompetence or inability to render services, for reasons ranging from inadequate training or inexperience, to personal unfitness, such as a character defect or an emotional disturbance;\n  (g) evidences irresponsibility including lack of reliable or dependable execution of professional duties, attempts to blame others for one mistakes, shoddy or superficial professional work, or excessive delays in delivering necessary feedback, assessments, reports, or services; or\n  (h) is guilty of abandonment through failure to follow through with his duties or responsibilities, thereby causing clients to become vulnerable or feel discarded or rejected.",
+   "clauses": []
+  },
+  "34": {
+   "num": "34",
+   "title": "Disciplinary proceedings by the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "ENFORCEMENT",
+   "text": "(1) Any person may, being dissatisfied with any services offered by a counsellor or psychologist or alleging breach of the standards of conduct as may be specified by the Board from time to time, make a written complaint to the Board in the prescribed manner.\n(2) Where the Board is satisfied in respect of any person registered or licensed under this Act, that such person—\n  (a) has been convicted of an offence under this Act or under any other law punishable by imprisonment, the commission of which in the opinion of the Board has brought the profession to disrepute;\n  (b) has committed an act of negligence or malpractice in respect of his or her profession or\n  (c) has committed an act of impropriety or misconduct in respect of his or her profession, the Board may, subject to subsection (10)—\n  (i) remove such person's name from the register;\n  (ii) suspend such person's licence or registration for a period not exceeding twelve months; or\n  (iii) cancel such person's licence.\n(3) Upon any inquiry held by the Board to determine a complaint made under subsection (1), the person whose conduct is being inquired into shall be afforded an opportunity of being heard, either in person or by an advocate of his own choice.\n(4) For the purpose of proceedings at an inquiry held under this section, the Board may administer oaths and may, subject to the provisions of regulations made under this Act, enforce the attendance of persons as witnesses and the production of books and documents as evidence.\n(5) Any person whose name has been removed from a register or whose license has been cancelled or suspended shall forthwith surrender to the Registrar his or her certificate of registration or license, and any person who fails to do so commits an offence and shall be liable on conviction to a fine not exceeding fifty thousand shillings or imprisonment to term not exceeding two years, or both.\n(6) Subject to the provisions of this section and to rules as to procedure made under this Act, the Board may regulate its own procedure in disciplinary proceedings.\n(7) The power to direct the removal of the name of a person from the register or to cancel the licence of a person shall include a power exercisable in the same manner to direct that during such period as may be specified in the order, the registration of a person's name in the register or the licence granted to him or her shall not have effect.\n(8) The provisions of this section, in so far as they relate to the cancellation or suspension of licenses, shall be in addition to and not in derogation of the provisions of section 26.\n(9) A person who fails, when summoned by the Board, to attend as a witness or to produce any books or documents which he is required to produce commits an offence and shall be liable on conviction to a fine not exceeding fifty thousand shillings or to imprisonment for six months, or both.\n(10) Notwithstanding any other provisions of this Act, the Board shall not remove the name of a person from the register, or cancel any licence granted to a person, unless such a decision is supported by a majority of all the Board members.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person may, being dissatisfied with any services offered by a counsellor or psychologist or alleging breach of the standards of conduct as may be specified by the Board from time to time, make a written complaint to the Board in the prescribed manner."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Board is satisfied in respect of any person registered or licensed under this Act, that such person—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon any inquiry held by the Board to determine a complaint made under subsection (1), the person whose conduct is being inquired into shall be afforded an opportunity of being heard, either in person or by an advocate of his own choice."
+    },
+    {
+     "ref": "(4)",
+     "text": "For the purpose of proceedings at an inquiry held under this section, the Board may administer oaths and may, subject to the provisions of regulations made under this Act, enforce the attendance of persons as witnesses and the production of books and documents as evidence."
+    },
+    {
+     "ref": "(5)",
+     "text": "Any person whose name has been removed from a register or whose license has been cancelled or suspended shall forthwith surrender to the Registrar his or her certificate of registration or license, and any person who fails to do so commits an offence and shall be liable on conviction to a fine not exceeding fifty thousand shillings or imprisonment to term not exceeding two years, or both."
+    },
+    {
+     "ref": "(6)",
+     "text": "Subject to the provisions of this section and to rules as to procedure made under this Act, the Board may regulate its own procedure in disciplinary proceedings."
+    },
+    {
+     "ref": "(7)",
+     "text": "The power to direct the removal of the name of a person from the register or to cancel the licence of a person shall include a power exercisable in the same manner to direct that during such period as may be specified in the order, the registration of a person's name in the register or the licence granted to him or her shall not have effect."
+    },
+    {
+     "ref": "(8)",
+     "text": "The provisions of this section, in so far as they relate to the cancellation or suspension of licenses, shall be in addition to and not in derogation of the provisions of section 26."
+    },
+    {
+     "ref": "(9)",
+     "text": "A person who fails, when summoned by the Board, to attend as a witness or to produce any books or documents which he is required to produce commits an offence and shall be liable on conviction to a fine not exceeding fifty thousand shillings or to imprisonment for six months, or both."
+    },
+    {
+     "ref": "(10)",
+     "text": "Notwithstanding any other provisions of this Act, the Board shall not remove the name of a person from the register, or cancel any licence granted to a person, unless such a decision is supported by a majority of all the Board members."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Effect of removal, suspension or cancellation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "ENFORCEMENT",
+   "text": "(1) Subject to the provisions of this Act, the removal of a person's name from the register shall be notified by the Registrar to that person by registered mail sent to the address appearing in the register against his or her name immediately before such removal.\n(2) Where the name of a person has been removed from the register, the name of that person shall not, subject to the provisions of this Act, be entered again in the register except by order of the Board.\n(3) Where an order has been made for the removal of a person's name from the register, or for suspending a person's registration under this Act, or for cancelling or suspending a licence granted to a person under this Act, the Board may either on its own motion or on the application of the person concerned, and in either case after holding such inquiry as the Board may deem fit, cause the name of that person to be restored to the register or terminate the suspension of the registration, or, as the case may be, grant a new licence or terminate the suspension of the existing licence, in any such case either without fee or on the payment of such fee, not exceeding the appropriate registration or licence fee, as the Board may determine.\n(4) Subsection (1) shall not apply when a person's name has been removed from the register at his or her request or with his or her consent in circumstances under which it could not have been removed without consent.\n(5) Notwithstanding the provisions of subsection (3) above, a person whose name was removed from the register at his or her request, shall upon application and on payment of the prescribed fee, have his or her name restored on the register.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of this Act, the removal of a person's name from the register shall be notified by the Registrar to that person by registered mail sent to the address appearing in the register against his or her name immediately before such removal."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the name of a person has been removed from the register, the name of that person shall not, subject to the provisions of this Act, be entered again in the register except by order of the Board."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where an order has been made for the removal of a person's name from the register, or for suspending a person's registration under this Act, or for cancelling or suspending a licence granted to a person under this Act, the Board may either on its own motion or on the application of the person concerned, and in either case after holding such inquiry as the Board may deem fit, cause the name of that person to be restored to the register or terminate the suspension of the registration, or, as the case may be, grant a new licence or terminate the suspension of the existing licence, in any such case either without fee or on the payment of such fee, not exceeding the appropriate registration or licence fee, as the Board may determine."
+    },
+    {
+     "ref": "(4)",
+     "text": "Subsection (1) shall not apply when a person's name has been removed from the register at his or her request or with his or her consent in circumstances under which it could not have been removed without consent."
+    },
+    {
+     "ref": "(5)",
+     "text": "Notwithstanding the provisions of subsection (3) above, a person whose name was removed from the register at his or her request, shall upon application and on payment of the prescribed fee, have his or her name restored on the register."
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Appeals",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "ENFORCEMENT",
+   "text": "Any person aggrieved by a decision of the Board under this Act may appeal within thirty days to the High Court and in any such appeal the High Court may confirm, annul or vary the decision as it deems fit.",
+   "clauses": []
+  },
+  "37": {
+   "num": "37",
+   "title": "Offences by unregistered or unlicensed persons",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "ENFORCEMENT",
+   "text": "(1) Any person who, not being eligible to be licensed or registered under this Act, wilfully and falsely takes or uses any name, title or addition implying a qualification to practice as a counsellor or psychologist, or who, not being registered or licensed under this Act, practises or professes to practice or publishes his or her name as practising as a professional counsellor or psychologist, commits an offence and shall be liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding two years, or both.\n(2) Any person who, not being eligible to be licensed or registered under this Act, uses any of the titles \"psychologist\" or \"counsellor\" appropriate to a person so registered or licensed, unless such person has acquired a higher academic doctoral qualification which entitles such person to use that title, commits an offence and shall be liable on conviction to a fine not exceeding fifty thousand shillings or imprisonment for a term not exceeding two years, or both.\n(3) This section shall not apply to a duly qualified person employed to work as a psychologist or counsellor by the national or county Government.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who, not being eligible to be licensed or registered under this Act, wilfully and falsely takes or uses any name, title or addition implying a qualification to practice as a counsellor or psychologist, or who, not being registered or licensed under this Act, practises or professes to practice or publishes his or her name as practising as a professional counsellor or psychologist, commits an offence and shall be liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding two years, or both."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who, not being eligible to be licensed or registered under this Act, uses any of the titles \"psychologist\" or \"counsellor\" appropriate to a person so registered or licensed, unless such person has acquired a higher academic doctoral qualification which entitles such person to use that title, commits an offence and shall be liable on conviction to a fine not exceeding fifty thousand shillings or imprisonment for a term not exceeding two years, or both."
+    },
+    {
+     "ref": "(3)",
+     "text": "This section shall not apply to a duly qualified person employed to work as a psychologist or counsellor by the national or county Government."
+    }
+   ]
+  },
+  "38": {
+   "num": "38",
+   "title": "Offences by persons or training institutions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "ENFORCEMENT",
+   "text": "Any person, being in charge of a training institution which is not approved by the Board as an institution for the training of persons seeking registration under this Act, who—\n  (a) admits to the institution under his or her charge any person for the purpose of training in the profession of counselling or psychology;\n  (b) purports to be conducting a course of training or examining persons seeking registration under this Act or regulations made thereunder;\n  (c) issues any document, statement, certificate or seal implying that the holder thereof has undergone a course of instruction or has passed an examination prescribed by the Board; and\n  (d) issues any document, statement, certificate or seal implying that the institution under his or her charge is approved by the Board as an inst-itution for training of persons seeking registration under this Act, commits an offence and is liable on conviction to a fine not exceeding one million shillings or imprisonment for a term not exceeding three years, or both.",
+   "clauses": []
+  },
+  "39": {
+   "num": "39",
+   "title": "Obstruction of officers of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "ENFORCEMENT",
+   "text": "Any person who obstructs or hinders, or knowingly makes a false or misleading statement to any member; officer, servant or agent of the Board who is carrying out duties under this Act, commits an offence and shall be liable on conviction to a fine not exceeding one hundred thousand shillings or imprisonment for a term not exceeding two years, or both.",
+   "clauses": []
+  },
+  "40": {
+   "num": "40",
+   "title": "Funds of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The funds of the Board shall comprise—\n  (a) such fees, monies or assets as may accrue to or vest in the Board in the course of the exercise of its powers or the performance of its functions under this Act or under any written law; and (b) all monies from any other source provided for or donated or lent to the Board.",
+   "clauses": []
+  },
+  "41": {
+   "num": "41",
+   "title": "Financial year",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The financial year of the Board shall be the period of twelve months ending on the thirtieth June in each year.",
+   "clauses": []
+  },
+  "42": {
+   "num": "42",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) At least three months before the commencement of each financial year, the Board shall cause to be prepared estimates of the revenue and expenditure of the Board for that year.\n(2) The annual estimates shall make provision for all estimated expenditure of the Board for the financial year and in particular, the estimates shall provide for—\n  (a) the payment of the allowances and other charges in respect of members of the Board;\n  (b) the payment of salaries, pensions, gratuities and other charges in respect of staff of the Board;\n  (c) the proper maintenance of the buildings and grounds of the Board;\n  (d) the maintenance, repair and replacement of the equipment and other property of the Board; and\n  (e) the creation of such reserve funds to meet future or contingent liabilities in respect of retirement benefits, insurance or replacement of buildings or equipment, or in respect of such other matter as the Board may deem appropriate.\n(3) The annual estimates shall be approved by the Board before the commencement of the financial year to which they relate and shall be submitted to the Cabinet Secretary for approval and after the Cabinet Secretary's approval, the Board shall not increase the annual estimates without the consent of the Cabinet Secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "At least three months before the commencement of each financial year, the Board shall cause to be prepared estimates of the revenue and expenditure of the Board for that year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall make provision for all estimated expenditure of the Board for the financial year and in particular, the estimates shall provide for— (a) the payment of the allowances and other charges in respect of members of the Board; (b) the payment of salaries, pensions, gratuities and other charges in respect of staff of the Board; (c) the proper maintenance of the buildings and grounds of the Board;"
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual estimates shall be approved by the Board before the commencement of the financial year to which they relate and shall be submitted to the Cabinet Secretary for approval and after the Cabinet Secretary's approval, the Board shall not increase the annual estimates without the consent of the Cabinet Secretary."
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Board shall cause to be kept all proper books and records of accounts of the income, expenditure and assets of the Board.\n(2) Within a period of four months from the end of each financial year, the Board shall submit to the Auditor-General the accounts of the Board together with—\n  (a) a statement of the income and expenditure of the Board during that year; and\n  (b) a balance sheet of the Board on the last day of that year.\n(3) The accounts of the Board shall be audited and reported upon in accordance with the Public Audit Act (Cap. 412B).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall cause to be kept all proper books and records of accounts of the income, expenditure and assets of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within a period of four months from the end of each financial year, the Board shall submit to the Auditor-General the accounts of the Board together with—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The accounts of the Board shall be audited and reported upon in accordance with the Public Audit Act (Cap. 412B)."
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Investment of funds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The Board may invest any of its funds in securities, in which for the time being trustees may by law invest trust funds, or in any other securities or banks which the Treasury may, from time to time, approve for that purpose.",
+   "clauses": []
+  },
+  "45": {
+   "num": "45",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) The Cabinet Secretary may, after consultation with the Board, make regulations generally for the better carrying into effect the provisions of this Act.\n(2) Without prejudice to the generality of the foregoing, the regulations under this Act may—\n  (a) prescribe the form and method of keeping tiie registers under this Act;\n  (b) prescribe forms, methods and regulations concerning conditions for the issuance of licenses;\n  (c) prescribe the manner of training, subject matter of training courses, standards of proficiency for the profession of counselling or psychology, including standards for internship and practicum and examinations of persons for whom provision is made under this Act to be regulated;\n  (d) prescribe the standards and conditions of professional practice of persons registered or licensed under this Act;\n  (e) provide for the procedure to be followed by the Board in a disciplinary inquiry;\n  (f) provide for enforcing the attendance of witnesses and the production of books and documents at an inquiry held by the Board;\n  (g) prescribe forms to be used in connection with this Act or fees to be charged under this Act;\n  (h) prescribe the supervision to be undergone by persons registered under this Act;\n  (i) prescribe anything required by this Act to be prescribed.\n(3) For the purposes of Article 94(6) of the Constitution—\n  (a) the purpose and objective of the delegation under this section is to enable the Cabinet Secretary to make regulations to provide for the better carrying into effect of the provisions of this Act and to enable the Board to discharge its functions more effectively;\n  (b) the authority of the Cabinet Secretary to make regulations under this Act will be limited to bringing into effect provisions of this Act and to fulfilment of the objectives specified under this section;\n  (c) the principles and standards applicable to the regulations made under this section are those set out in the Interpretation and General Provisions Act (Cap. 2) and the Statutory lnstruments Act (Cap. 2A).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, after consultation with the Board, make regulations generally for the better carrying into effect the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of the foregoing, the regulations under this Act may—"
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purposes of Article 94(6) of the Constitution—"
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "Transition",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS",
+   "text": "Notwithstanding anything in this Act—\n  (a) a person who immediately before the date of commencement of this Act was engaged in private practice as a counsellor or psychologist shall be entitled to continue in such practice without a licence under this Act—\n  (i) for a period of one year beginning with the date of the commencement of this Act; and\n  (ii) if before the expiration of six months, the person applies for a licence under this Act, until the licence is granted or finally refused or the application is withdrawn;\n  (b) a holder of a diploma in counselling shall continue to practice for one year from the commencement date, but shall do so under the supervision of a registered counsellor;\n  (c) a person who, at the commencement date, is a qualified counsellor or psychologist shall be exempted from the requirements of section 23(1)(c) of this Act.",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [s. 5(1)]",
+   "subtitle": "PROVISIONS AS TO THE CONDUCT OF BUSINESS AND AFFAIRS OF THE BOARD",
+   "text": "[Act No. 5 of 2019, Sch.]\n1. Tenure of office The Chairperson or a member of the Board other than an ex officio member shall, subject to the provisions of this Schedule, hold office for a period of three years, on such terms and conditions as may be specified in the instrument of appointment, but shall be eligible for reappointment for one further term.\n2. Vacation of office A member, other than an ex officio member, may—\n  (a) at any time resign from office by notice in writing to the Cabinet Secretary;\n  (b) be removed from office by the Cabinet Secretary on recommendation of the Board if the member—\n  (i) has been absent from three consecutive meetings of the Board without the Board's permission;\n  (ii) is convicted of a criminal offence that amounts to a felony under the laws of Kenya;\n  (iii) is incapacitated by prolonged physical or mental illness for a period exceeding six months;\n  (iv) ceases to be a registered person under this Act; or\n  (v) is otherwise unable or unfit to discharge his functions.\n3. Meetings\n(1) The Board shall, at its first meeting, elect a vice-Chairperson from amongst its members.\n(2) The Board shall meet not less than four times in every financial year and not more than four months shall elapse between the date of one meeting and the date of the next meeting.\n(3) Notwithstanding subparagraph (2), the Chairperson of the Board may convene a special meeting of the Board at any time for the transaction of the business of the Board, upon requisition in writing by at least five members of the Board.\n(4) Unless three quarters of the total members of the Board otherwise agree, at least fourteen days' written notice of every meeting of the Board shall be given to every member of the Board.\n(5) The quorum for the conduct of the business of the Board shall be five members.\n(6) The Chairperson or in his absence, the vice-Chairperson, shall preside at every meeting of the Board but the members present shall elect one of their number to preside whenever the Chairperson and vice-Chairperson are absent, and the person so elected shall have all the powers of the Chairperson with respect to that meeting and the business transacted thereat.\n(7) Unless a unanimous decision is reached, a decision on any matter before the Board shall be by a majority of the votes of the members present and voting, and in case of an equality of votes, the Chairperson or the person presiding shall have a casting vote.\n(8) Subject to subparagraph (5), no proceedings of the Board shall be invalid by reason only of a vacancy among the members thereof.\n(9) Subject to the provisions of this Schedule, the Board may determine its own procedure and the procedure for any committee of the Board and for the attendance of other persons at its meetings, and may make standing orders in respect thereof.\n4. Disclosure of interest\n(1) A member who has an interest in any contract, or other matter, present at a meeting shall, at the meeting and as soon as reasonably practicable after the commencement, disclose the fact thereof and shall not take part in the consideration or discussion of, or vote on, any questions with respect to the contract or other matter, or be counted in the quorum of the meeting during consideration of the matter.\n(2) A disclosure of interest made under subparagraph (1) shall be recorded in the minutes of the meeting at which it is made.\n(3) A member of the Board who contravenes subparagraph (1) commits an offence and shall be liable on conviction to a fine not exceeding five hundred thousand shillings.\n5. Contracts and instruments Any contract or instrument which, if entered into or executed by a person not being a body corporate, would not require to be under seal, may be entered into or executed on behalf of the Board by any person generally or specially authorized by the Board for that purpose."
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [s. 12(5)]",
+   "subtitle": "COMMITTEES OF THE BOARD",
+   "text": "[Act No. 5 of 2019, Sch.]\n1. The Board shall establish the following committees for the effective discharge of its functions—\n  (a) Examination and Registration Committee;\n  (b) Continuing Education Committee;\n  (c) Disciplinary Committee; and (d) Finance and Administration Committee.\n2. Despite paragraph 1, the Board may establish such other ad hoc committees as may be necessary for the effective carrying out of the functions of the Board.\nDeleted by Act No. 5 of 2019, Sch."
+  },
+  {
+   "id": "att_3",
+   "title": "THIRD SCHEDULE DELETED",
+   "subtitle": null,
+   "text": "Deleted by Act No. 5 of 2019, Sch."
+  },
+  {
+   "id": "att_4",
+   "title": "FOURTH SCHEDULE DELETED",
+   "subtitle": null,
+   "text": ""
+  }
+ ],
+ "spent": {}
+}

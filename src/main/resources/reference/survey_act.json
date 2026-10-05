@@ -1,0 +1,840 @@
+{
+ "title": "Survey Act",
+ "citation": "Cap. 299",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1961/25/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "SURVEY ACT CAP. 299 Published in Kenya Gazette Vol. LXIII—No. 53 on 21 November 1961 Assented to on 14 November 1961 Commenced on 3 January 1961\n[Amended by Kenya (Amendment of Laws) (Written Laws) Order, 1963 (Legal Notice 2 of 1964) on 12 December 1963] [Amended by Kenya (Amendment of Laws) (Miscellaneous Amendments) (No. 5) Order, 1964 (Legal Notice 303 of 1964) on 12 December 1963] [Amended by Statute Law (Miscellaneous Amendments) Act, 1969 (Act No. 10 of 1969) on 27 July 1969] [Amended by Survey (Amendment) Act, 1987 (Act No. 4 of 1987) on 8 May 1987]\n[Amended by Statute Law (Repealed and Miscellaneous Amendments) Act, 1990 (Act No. 7 of 1990) on 22 June 1990] [Amended by Finance Act, 2000 (Act No. 9 of 2000) on 1 January 2001] [Amended by Business Laws (Amendment) Act, 2020 (Act No. 1 of 2020) on 18 March 2020] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to make provision in relation to surveys and geographical names and the licensing of land surveyors, and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ADMINISTRATION",
+   "provisions": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "THE LAND SURVEYORS’ BOARD",
+   "provisions": [
+    "7",
+    "8",
+    "9"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "THE LICENSING OF SURVEYORS AND DISCIPLINARY PROCEEDINGS AGAINST LICENSED SURVEYORS",
+   "provisions": [
+    "10",
+    "10A",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "THE CONDUCT OF SURVEYS",
+   "provisions": [
+    "21",
+    "22",
+    "23"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "THE PRESERVATION OF SURVEY MARKS",
+   "provisions": [
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "SURVEY PLANS AND RECORDS",
+   "provisions": [
+    "30",
+    "31",
+    "32",
+    "33"
+   ]
+  },
+  {
+   "id": "part_VIII",
+   "num": "VIII",
+   "title": "THE STANDING COMMITTEE ON GEOGRAPHICAL NAMES",
+   "provisions": [
+    "34",
+    "35"
+   ]
+  },
+  {
+   "id": "part_IX",
+   "num": "IX",
+   "title": "OFFENCES",
+   "provisions": [
+    "36",
+    "37",
+    "38"
+   ]
+  },
+  {
+   "id": "part_X",
+   "num": "X",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ]
+  },
+  {
+   "id": "part_XI",
+   "num": "XI",
+   "title": "REPEAL AND SAVINGS",
+   "provisions": [
+    "46"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Survey Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— \"advanced electronic signature\" means an electronic signature which is —\n  (a) uniquely linked to the signatory;\n  (b) capable of identifying the signatory;\n  (c) created using means that the signatory may maintain under his or her sole control; and\n  (d) linked to the data to which it relates in such a manner that any subsequent change to the data may be detectable.\n“Board” means the Land Surveyors’ Board established under section 7;\n“Director” means the Director of Surveys appointed under section 3;\n\"electronic signature\" means data in electronic form affixed to or logically associated with other electronic data which may be used to identify the signatory in relation to the data message and indicate the signatory's approval of the information contained in the data message;\n“Government surveyor” means any officer of the Survey Department of the Government who is authorized by the Director to perform any survey duty under this Act;\n“grant” means any conveyance, lease or licence of unalienated Government land for a period exceeding one year made on behalf of the Government under the Government Lands Act (Repealed);\n“grantee” means the recipient of any grant;\n“licensed surveyor” means a surveyor duly licensed as a surveyor under or by virtue of the provisions of this Act but shall not include a Government surveyor;\n“plan” includes a map, diagram or aerial photograph approved by the Director as suitable for survey purposes;\n\"signature\" includes an advanced electronic signature, an electronic signature, a mark or writing ones name or initials, making ones initials on the instrument as an indication that one intends to bind himself or herself to the contents of the instrument;\n“survey mark” means any trigonometrical station, fundamental benchmark, benchmark, boundary beacon, peg, picket, mark or pole, whether above or below the surface of the ground, which is fixed, placed or set up by, or under the direction of a surveyor for the purpose of any survey under this Act;\n“surveyor” means a Government surveyor or a licensed surveyor.\n[L.N. 2/1964, Sch., L.N. 303/1964, Sch., Act No. 10 of 1969, Sch., Act No. 1 of 2020, s. 7.]",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Director of Surveys and other officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) There shall be appointed a Director of Surveys and such other officers as may be deemed to be necessary for the purposes of this Act.\n(2) The Director may delegate in writing all or any of his powers, duties or functions under the provisions of this Act, or of any regulations made thereunder, either generally or specially to any officer appointed under subsection (1) of this section and may at any time revoke or vary any such delegation:\nProvided that no such delegation shall be deemed to divest the Director of all or any of his powers, duties or functions, and he may, if he thinks fit, exercise and perform such powers, duties and functions notwithstanding the fact that he has so delegated them.\n[L.N. 2/1964, Sch, L.N. 303/1964, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be appointed a Director of Surveys and such other officers as may be deemed to be necessary for the purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Director may delegate in writing all or any of his powers, duties or functions under the provisions of this Act, or of any regulations made thereunder, either generally or specially to any officer appointed under subsection (1) of this section and may at any time revoke or vary any such delegation:"
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Survey Office and other offices",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "The principal office of the Director (in this Act referred to as the Survey Office) shall be at Nairobi, but there may be established such other offices at such places as the Director may from time to time determine.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Seal of Survey of Kenya",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "(1) The Director shall have and use a seal of office bearing the impression of the badge of the Survey Department and having inscribed thereon “Survey of Kenya”, and the imprint of such seal shall be valid whether impressed or made in wax, ink or any other substance.\n(2) The seal of the Survey of Kenya shall not be used or affixed except by the Director or by some person authorized by the Director in writing in that behalf.\n(3) A document or plan that has been processed electronically and bears a prescribed security feature shall be deemed to bear the imprint of the seal of the Survey of Kenya.\n[Act No. 1 of 2020, s. 8.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Director shall have and use a seal of office bearing the impression of the badge of the Survey Department and having inscribed thereon “Survey of Kenya”, and the imprint of such seal shall be valid whether impressed or made in wax, ink or any other substance."
+    },
+    {
+     "ref": "(2)",
+     "text": "The seal of the Survey of Kenya shall not be used or affixed except by the Director or by some person authorized by the Director in writing in that behalf."
+    },
+    {
+     "ref": "(3)",
+     "text": "A document or plan that has been processed electronically and bears a prescribed security feature shall be deemed to bear the imprint of the seal of the Survey of Kenya."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Personal liability of Director",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "Neither the Director nor any officer appointed by virtue of subsection (1) of section 3 shall be personally liable to any action or other proceeding for or in respect of any act or matter done or omitted without negligence in good faith in the exercise or performance, or the purported exercise or performance, of any powers, duties or functions conferred by this Act or by any regulations made thereunder.",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Establishment of Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE LAND SURVEYORS’ BOARD",
+   "text": "(1) There shall be a Board, to be known as the Land Surveyors’ Board, which shall consist of—\n  (a) the Director, who shall be Chairperson of the Board;\n  (b) seven surveyors employed in the public service being licensed surveyors or holders of an East African Land Survey Certificate and who are full members of the Institution of Surveyors of Kenya (Chapter of Land Surveyors) appointed from time to time by the Cabinet Secretary as follows—\n  (i) two of them on the advice of the Principal Secretary to the Ministry for the time being responsible for matters relating to land survey;\n  (ii) four of them on the advice of each of the Principal Secretaries of the Ministries for the time being responsible for transport, local government, forestry and housing; and\n  (iii) one of them on the advice of the Vice-Chancellor of the University of Nairobi;\n  (c) four licensed surveyors in private practice elected by licensed members of the Institution of Surveyors of Kenya (Chapter of Land Surveyors) who shall hold office for two years and shall be eligible for re-election:\nProvided that of the four surveyors so elected two shall retire at the end of one year from the date on which they were elected and the order of retirement shall in default of agreement with them, be determined by lot.\n(2) The Board may, from time to time, elect one of its members to be deputy Chairperson, who shall, in the absence or inability to act of the Chairperson, perform the duties of the Chairperson.\n(3) Subject to this Act, and to any special or general directions by the Cabinet Secretary, the Board shall regulate its own procedure.\n[Act No. 10 of 1969, Sch., Act No. 4 of 1987, s. 2.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Board, to be known as the Land Surveyors’ Board, which shall consist of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may, from time to time, elect one of its members to be deputy Chairperson, who shall, in the absence or inability to act of the Chairperson, perform the duties of the Chairperson."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to this Act, and to any special or general directions by the Cabinet Secretary, the Board shall regulate its own procedure."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Appointment of secretary and other officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE LAND SURVEYORS’ BOARD",
+   "text": "The Board may, from time to time, appoint a secretary and such examiners and other officers as may be necessary for carrying out the duties of the Board, and all such persons shall hold office during the pleasure of the Board.",
+   "clauses": []
+  },
+  "9": {
+   "num": "9",
+   "title": "Duties of Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "THE LAND SURVEYORS’ BOARD",
+   "text": "The duties of the Board shall be—\n  (a) to conduct the examination of candidates for admission as licensed surveyors in accordance with the provisions of this Act;\n  (b) to grant licences in accordance with the provisions of this Act;\n  (c) to keep a register of all licensed surveyors;\n  (d) to take disciplinary proceedings against licensed surveyors in accordance with the provisions of this Act;\n  (e) to hear and determine any dispute between any licensed surveyor and his client as to the fees charged by the licensed surveyor;\n  (f) to hear and determine any dispute between the Director and a licensed surveyor as to the application of any regulations in which provision is made for reference to the Board;\n  (g) to advise the Director on all matters relating to cadastral surveys in connexion with the registration of land or of title to land under any written law for the time being in force relating to the registration of land or of title to land.\n[Act No. 10 of 1969, Sch.]",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Persons eligible to be licensed",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE LICENSING OF SURVEYORS AND DISCIPLINARY PROCEEDINGS AGAINST LICENSED SURVEYORS",
+   "text": "No person shall be licensed under this Act unless he is qualified as hereinafter provided; and every person who is so qualified shall be entitled, on payment of the prescribed fee, to be granted a licence by the Board in the prescribed form.",
+   "clauses": []
+  },
+  "10A": {
+   "num": "10A",
+   "title": "[Repealed by Act No. 9 of 2000, s. 82.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE LICENSING OF SURVEYORS AND DISCIPLINARY PROCEEDINGS AGAINST LICENSED SURVEYORS",
+   "text": "",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Persons entitled to be examined",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE LICENSING OF SURVEYORS AND DISCIPLINARY PROCEEDINGS AGAINST LICENSED SURVEYORS",
+   "text": "No person shall be examined for a licence to practise as a surveyor unless—\n  (a) he has previously practised land surveying regularly and faithfully for such period as the Board may require, in the Survey of Kenya or with a licensed surveyor in Kenya or in one of the countries approved for the purposes of paragraph (d) of subsection (1) of section 12 of this Act, and he produces either a statutory declaration from the Director or from such licensed surveyor, as the case may be, in such form as may be prescribed, or such other evidence as may satisfy the Board, that he has so served for the period required by the Board; or\n  (b) he satisfies the Board that he has pursued suitable courses of study in land surveying and mathematics and he has had practical experience in land surveying.",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Exemptions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE LICENSING OF SURVEYORS AND DISCIPLINARY PROCEEDINGS AGAINST LICENSED SURVEYORS",
+   "text": "(1) Any person who—\n  (a) was duly registered as a licensed surveyor in accordance with the provisions of any written law relating to the registration of surveyors in force at any time before the commencement of this Act; or (b) is the holder of an East African Land Survey Certificate; or (c) has taken a degree in land surveying from a university recognized by the Board, passed the Kenya land law examination and has had not less than two years practical experience with the survey of Kenya or with a licensed surveyor to the satisfaction of the Board; or (d) is the holder of a licence to practice as a surveyor in any country which the Cabinet Secretary may, by notice in the Gazette, approve; or (e) is the holder of the qualification of Fellow or Professional Associate of the Royal Institute of Chartered Surveyors in subdivision V (Land Surveying); or (f) has complied with the provisions of paragraph (b) of section 11 of this Act, shall, upon the production of such evidence thereof as may be prescribed including evidence of full membership of the Institution of Surveyors of Kenya (Chapter of Land Surveyors), and subject to subsection (2) be exempted from the whole examination or from examination in any subject, in accordance with the directions of the Board. (2) A person holding any of the qualifications mentioned in paragraph (d) or (e) of this section, shall not be exempted from examination unless—\n  (a) he satisfies the Board that he has had field experience in land surveying: and (b) he carries out to the satisfaction of the Board, a trial survey; and (c) he satisfies the Board that he is capable of conducting land surveys in accordance with the provisions of this Act and of any regulations made thereunder. [L.N. 2/1964, Sch., L.N. 303/1964, Sch., Act No. 10 of 1969, Sch., Act No. 4 of 1987, s. 3.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who— (a) was duly registered as a licensed surveyor in accordance with the provisions of any written law relating to the registration of surveyors in force at any time before the commencement of this Act; or (b) is the holder of an East African Land Survey Certificate; or (c) has taken a degree in land surveying from a university recognized by the Board, passed the Kenya land law examination and has had not less than two years practical experience with the survey of Kenya or with a licensed surveyor to the satisfaction of the Board; or (d) is the holder of a licence to practice as a surveyor in any country which the Cabinet Secretary may, by notice in the Gazette, approve; or (e) is the holder of the qualification of Fellow or Professional Associate of the Royal Institute of Chartered Surveyors in subdivision V (Land Surveying); or (f) has complied with the provisions of paragraph (b) of section 11 of this Act, shall, upon the production of such evidence thereof as may be prescribed including evidence of full membership of the Institution of Surveyors of Kenya (Chapter of Land Surveyors), and subject to subsection (2) be exempted from the whole examination or from examination in any subject, in accordance with the directions of the Board. (2) A person holding any of the qualifications mentioned in paragraph (d) or (e) of this section, shall not be exempted from examination unless—"
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Application for examination",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE LICENSING OF SURVEYORS AND DISCIPLINARY PROCEEDINGS AGAINST LICENSED SURVEYORS",
+   "text": "(1) An application for examination shall be made to the secretary of the Board in writing at least one month prior to the date on which such examination is to take place, and such application shall be in the prescribed form and shall be accompanied by the prescribed fee, which fee shall be refunded if the candidate is not allowed to be examined.\n(2) All fees paid under this section shall be paid into the Consolidated Fund.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An application for examination shall be made to the secretary of the Board in writing at least one month prior to the date on which such examination is to take place, and such application shall be in the prescribed form and shall be accompanied by the prescribed fee, which fee shall be refunded if the candidate is not allowed to be examined."
+    },
+    {
+     "ref": "(2)",
+     "text": "All fees paid under this section shall be paid into the Consolidated Fund."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Examining candidate on oath",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE LICENSING OF SURVEYORS AND DISCIPLINARY PROCEEDINGS AGAINST LICENSED SURVEYORS",
+   "text": "The Board may require the attendance of any person who applies for examination for admission as a licensed surveyor, and may examine or question such person upon oath, affirmation or otherwise as to his actual practice in the field and other matters relevant thereto, and for such purpose any member of the Board may administer an oath or affirmation.",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "Conditions precedent to the issue of a licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE LICENSING OF SURVEYORS AND DISCIPLINARY PROCEEDINGS AGAINST LICENSED SURVEYORS",
+   "text": "Except as otherwise provided in this Act, no person shall receive a licence from the Board authorizing him to practise as a licensed surveyor unless—\n  (a) he has attained the age of twenty-one years; and\n  (b) he has passed the prescribed examination to the satisfaction of the Board or has been exempted therefrom; and\n  (c) he has complied with the provisions of this Act.",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "Register of licensed surveyors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE LICENSING OF SURVEYORS AND DISCIPLINARY PROCEEDINGS AGAINST LICENSED SURVEYORS",
+   "text": "The Board shall cause a register to be kept which shall contain the names, addresses and qualifications of all persons to whom licences have been granted, the date upon which each such licence was granted and any other particulars which may be prescribed.",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "Disciplinary powers of Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE LICENSING OF SURVEYORS AND DISCIPLINARY PROCEEDINGS AGAINST LICENSED SURVEYORS",
+   "text": "(1) Where, after due inquiry by the Board, a licensed surveyor has been found to have been guilty of professional misconduct, or, having been convicted of a criminal offence, is found by the Board to be unfit to practise, the Board may—\n  (a) cancel the licence granted to such licensed surveyor; or\n  (b) suspend the licence for a period not exceeding three years; or\n  (c) impose a fine not exceeding one thousand shillings on such licensed surveyor; or\n  (d) reprimand such licensed surveyor.\n(2) Upon any inquiry held by the Board under subsection (1), the person whose conduct is being inquired into shall be afforded an opportunity of being heard, either in person or by an advocate.\n(3) For the purpose of proceedings at any inquiry held by the Board, the Board may administer oaths and affirmations and may, subject to the provision of any regulations made under this Act, enforce the attendance of persons as witnesses and the production of books and documents.\n(4) Any person who, having been summoned by the Board to attend before it, fails so to attend, or fails to produce any books or documents which he is required to produce, shall be guilty of an offence and liable to a fine not exceeding two hundred shillings.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where, after due inquiry by the Board, a licensed surveyor has been found to have been guilty of professional misconduct, or, having been convicted of a criminal offence, is found by the Board to be unfit to practise, the Board may—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Upon any inquiry held by the Board under subsection (1), the person whose conduct is being inquired into shall be afforded an opportunity of being heard, either in person or by an advocate."
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purpose of proceedings at any inquiry held by the Board, the Board may administer oaths and affirmations and may, subject to the provision of any regulations made under this Act, enforce the attendance of persons as witnesses and the production of books and documents."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person who, having been summoned by the Board to attend before it, fails so to attend, or fails to produce any books or documents which he is required to produce, shall be guilty of an offence and liable to a fine not exceeding two hundred shillings."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Appeal to High Court",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE LICENSING OF SURVEYORS AND DISCIPLINARY PROCEEDINGS AGAINST LICENSED SURVEYORS",
+   "text": "Any person aggrieved by a decision of the Board under section 17, or under subsection (4) of section 31, may, within one month after the date of the decision, appeal to the High Court against the decision, and, on any such appeal, the High Court may give such directions in the matter as it thinks proper, including directions as to the costs of the appeal, and no appeal shall lie from an order of the High Court under this section.",
+   "clauses": []
+  },
+  "19": {
+   "num": "19",
+   "title": "Grant of new licence and termination of suspension",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE LICENSING OF SURVEYORS AND DISCIPLINARY PROCEEDINGS AGAINST LICENSED SURVEYORS",
+   "text": "Where an order has been made for the revocation of the licence granted to any person or for suspending such a licence, the Board may either of its own motion or on the application of the person concerned, and in either case after holding such inquiry as the Board thinks fit, grant a new licence and cause the name of that person to be restored to the register, or, as the case may be, terminate the suspension of the existing licence and registration, either without fee or on payment of such fee, not exceeding the licence fee, as the Board may determine.",
+   "clauses": []
+  },
+  "20": {
+   "num": "20",
+   "title": "Notice of grant, cancellation, etc., of licence to be published in Gazette",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "THE LICENSING OF SURVEYORS AND DISCIPLINARY PROCEEDINGS AGAINST LICENSED SURVEYORS",
+   "text": "Notice of the grant, revocation or suspension of any licence, or of the termination of the suspension thereof, under this Part shall be published in the Gazette.",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Duties of licensed surveyors and non-liability of the Government",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "THE CONDUCT OF SURVEYS",
+   "text": "(1) Every surveyor shall carry out every survey undertaken by him in such manner as will ensure that the survey accords in all respects with the provisions of this Act and any regulations made thereunder, and shall be responsible for the correctness and completeness of every survey carried out by him or under his supervision:\nProvided that the Director may, in his discretion in the case of any particular survey, by notice in writing to the surveyor, direct that the standards of accuracy prescribed by such regulations shall be relaxed in such manner, to such extent and subject to such conditions as he shall specify in the notice.\n(2) Neither the Government nor any public officer shall be liable for any defective survey, or any work appertaining thereto, performed by a licensed surveyor, notwithstanding that any plan relating to such survey or work has been authenticated in accordance with the requirements and provisions of this Act or accepted for registration under any written law for the time being in force relating to the registration of transactions in or of title to land.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every surveyor shall carry out every survey undertaken by him in such manner as will ensure that the survey accords in all respects with the provisions of this Act and any regulations made thereunder, and shall be responsible for the correctness and completeness of every survey carried out by him or under his supervision:"
+    },
+    {
+     "ref": "(2)",
+     "text": "Neither the Government nor any public officer shall be liable for any defective survey, or any work appertaining thereto, performed by a licensed surveyor, notwithstanding that any plan relating to such survey or work has been authenticated in accordance with the requirements and provisions of this Act or accepted for registration under any written law for the time being in force relating to the registration of transactions in or of title to land."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Surveys of land to be conducted under the direction of Director",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "THE CONDUCT OF SURVEYS",
+   "text": "Any survey of land for the purposes of any written law for the time being in force relating to the registration of transactions in or of title to land (other than the first registration of the title to any land made in accordance with the provisions of the Land Consolidation Act (Cap. 283) or the Land Adjudication Act (Cap. 284) shall be carried out under and in accordance with the directions of the Director.\n[L.N. 2/1964, Sch., L.N. 303/1964, Sch., Act No. 10 of 1969), Sch.]",
+   "clauses": []
+  },
+  "23": {
+   "num": "23",
+   "title": "Powers of Director and of surveyors to enter upon land",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "THE CONDUCT OF SURVEYS",
+   "text": "(1) The Director or any surveyor, or any person authorized in writing by the Director in that behalf either generally or specially, may enter upon any land, with such assistants as may be necessary, for the purpose of—\n  (a) making or supervising any survey or resurvey; or\n  (b) affixing or setting up thereon or therein any survey mark; or\n  (c) inspecting any survey mark; or\n  (d) altering, repairing, moving or removing any survey mark; or\n  (e) doing anything necessary for carrying out any of the aforesaid purposes; or\n  (f) examining or inspecting the conduct of any survey.\n(2) Before so entering upon any land, the Director or other surveyor or person duly authorized shall, whenever practicable, give reasonable notice to the owner or occupier of the land of his intention to enter thereon, and shall, on so entering, produce written evidence of his authority to any person reasonably requiring the same.\n(3) Compensation shall be paid to the owner of any trees or crops cut or damaged in the exercise of any of the powers conferred by this section, and such compensation shall be calculated and paid in the prescribed manner.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Director or any surveyor, or any person authorized in writing by the Director in that behalf either generally or specially, may enter upon any land, with such assistants as may be necessary, for the purpose of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Before so entering upon any land, the Director or other surveyor or person duly authorized shall, whenever practicable, give reasonable notice to the owner or occupier of the land of his intention to enter thereon, and shall, on so entering, produce written evidence of his authority to any person reasonably requiring the same."
+    },
+    {
+     "ref": "(3)",
+     "text": "Compensation shall be paid to the owner of any trees or crops cut or damaged in the exercise of any of the powers conferred by this section, and such compensation shall be calculated and paid in the prescribed manner."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Boundary marks to be shown on plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "THE PRESERVATION OF SURVEY MARKS",
+   "text": "Every trigonometrical station, fundamental benchmark and boundary beacon erected or placed for the purpose of defining the boundaries of any holding or land shall be shown on the plan (if any) attached to, or referred to in, any document or instrument purporting to confer, declare, transfer, limit, extinguish or otherwise deal with or affect any right, title or interest, whether vested or contingent to, in or over such holding or land, being a document or instrument which is required to be registered, or is ineffectual until registered, under any written law for the time being in force relating to the registration of transactions in or of title to land.",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "Sites of trigonometrical stations and fundamental benchmarks",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "THE PRESERVATION OF SURVEY MARKS",
+   "text": "Every trigonometrical station or fundamental benchmark shall be deemed, for the purposes of this Act and of any regulations made thereunder, to comprise the land within twenty feet of the centre-mark of such station or within twenty feet of the centre of the pillar or of such fundamental benchmark, as the case may be, together with a right-of-way to and from the same.",
+   "clauses": []
+  },
+  "26": {
+   "num": "26",
+   "title": "Blasting of rock within the site reserved for fundamental benchmark prohibited",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "THE PRESERVATION OF SURVEY MARKS",
+   "text": "(1) No person shall carry out rock-blasting operations within the area of the land reserved for any fundamental benchmark.\n(2) Any person who contravenes the provisions of this section shall be guilty of an offence and liable to a fine not exceeding three thousand shillings or to imprisonment for a term not exceeding six months, or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No person shall carry out rock-blasting operations within the area of the land reserved for any fundamental benchmark."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who contravenes the provisions of this section shall be guilty of an offence and liable to a fine not exceeding three thousand shillings or to imprisonment for a term not exceeding six months, or to both."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Duty of grantee to ascertain that survey marks shown on plan are in place, and procedure if the grantee is unable to find survey marks",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "THE PRESERVATION OF SURVEY MARKS",
+   "text": "(1) It shall be the duty of every grantee to ascertain, within sixty days after he has received his grant, that the survey marks shown on any plan attached to his grant or referred to therein are in place as shown on the plan.\n(2) If a grantee notifies the Director in writing that he is unable to find the survey marks shown on the plan attached thereto and referred to therein, and deposits with the Director a sum which, in the estimation of the Director, is sufficient to cover the cost of the inquiry, the Director shall inquire into the matter.\n(3) If as a result of any such inquiry the Director finds that the survey marks are not in place as shown on the plan, he shall cause survey marks to be erected or placed in accordance with the plan, and, in such case, the sum deposited shall be refunded to the grantee.\n(4) If as a result of such inquiry the Director finds that the survey marks are in place as shown on the plan, the sum deposited, or such portion thereof as shall be sufficient to cover the cost of such inquiry, shall be forfeited and paid into the Consolidated Fund.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "It shall be the duty of every grantee to ascertain, within sixty days after he has received his grant, that the survey marks shown on any plan attached to his grant or referred to therein are in place as shown on the plan."
+    },
+    {
+     "ref": "(2)",
+     "text": "If a grantee notifies the Director in writing that he is unable to find the survey marks shown on the plan attached thereto and referred to therein, and deposits with the Director a sum which, in the estimation of the Director, is sufficient to cover the cost of the inquiry, the Director shall inquire into the matter."
+    },
+    {
+     "ref": "(3)",
+     "text": "If as a result of any such inquiry the Director finds that the survey marks are not in place as shown on the plan, he shall cause survey marks to be erected or placed in accordance with the plan, and, in such case, the sum deposited shall be refunded to the grantee."
+    },
+    {
+     "ref": "(4)",
+     "text": "If as a result of such inquiry the Director finds that the survey marks are in place as shown on the plan, the sum deposited, or such portion thereof as shall be sufficient to cover the cost of such inquiry, shall be forfeited and paid into the Consolidated Fund."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Responsibility for protection of survey marks",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "THE PRESERVATION OF SURVEY MARKS",
+   "text": "(1) Every owner and occupier of land shall take all reasonable measures to protect every survey mark erected or placed on the land owned or occupied by him.\n(2) The owner and occupier of land shall pay to the Director the cost of restoring any survey mark erected or placed on the land owned or occupied by him (including the cost of any survey made for that purpose) which has been removed, destroyed, displaced, defaced, mutilated, obliterated or broken, or the position of which has been altered, unless any other person has been convicted of an offence under section 29 in respect of that survey mark; and such cost shall be a civil debt recoverable summarily.\n(3) Where a survey mark is common to the land of two or more owners and occupiers, the cost of restoring any such survey mark, as provided by subsection (2), shall be divided equally between them.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every owner and occupier of land shall take all reasonable measures to protect every survey mark erected or placed on the land owned or occupied by him."
+    },
+    {
+     "ref": "(2)",
+     "text": "The owner and occupier of land shall pay to the Director the cost of restoring any survey mark erected or placed on the land owned or occupied by him (including the cost of any survey made for that purpose) which has been removed, destroyed, displaced, defaced, mutilated, obliterated or broken, or the position of which has been altered, unless any other person has been convicted of an offence under section 29 in respect of that survey mark; and such cost shall be a civil debt recoverable summarily."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a survey mark is common to the land of two or more owners and occupiers, the cost of restoring any such survey mark, as provided by subsection (2), shall be divided equally between them."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Penalty for tampering with survey marks",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "THE PRESERVATION OF SURVEY MARKS",
+   "text": "Any person, not being duly authorized so to do, who takes away, is found in possession of, removes, destroys or displaces, or alters the position of, any survey mark, or wilfully defaces, mutilates, obliterates or breaks any survey mark, shall be guilty of an offence and liable—\n  (a) if such act was done with intent to defraud, to imprisonment for a term not exceeding three years; or\n  (b) in any other case, to a fine not exceeding three thousand shillings or to imprisonment for a term not exceeding six months or to both, and, in addition to or instead of any such penalty, the court convicting a person of any such offence may order that person to pay to the Director the cost of restoring such survey mark (including the cost of any survey made for that purpose).",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "All survey plans and records to be deposited with Director and to become property of Government",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "SURVEY PLANS AND RECORDS",
+   "text": "(1) Every surveyor who executes any survey in accordance with the provisions of this Act and of any regulations made thereunder shall send to the Director either physically or electronically all plans, field notes and computations relating thereto, and all such plans, field notes and computations shall be deposited in the Survey Office and shall become the property of the Government.\n(2) No plan deposited in the Survey Office in accordance with subsection (1) shall be altered or amended in any way without the permission of the Director.\n[Act No. 1 of 2020, s. 9.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every surveyor who executes any survey in accordance with the provisions of this Act and of any regulations made thereunder shall send to the Director either physically or electronically all plans, field notes and computations relating thereto, and all such plans, field notes and computations shall be deposited in the Survey Office and shall become the property of the Government."
+    },
+    {
+     "ref": "(2)",
+     "text": "No plan deposited in the Survey Office in accordance with subsection (1) shall be altered or amended in any way without the permission of the Director."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Correction of errors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "SURVEY PLANS AND RECORDS",
+   "text": "(1) The Director, or a Government surveyor authorized in writing by the Director in that behalf, may at any time undertake such field and office checks on the survey work of a licensed surveyor as he thinks fit.\n(2) The Director, or a Government surveyor duly authorized to authenticate a plan under section 32 may, by notice in writing, instruct any licensed surveyor to correct at his own expense within a time specified in such notice any error made by him in the survey represented by the plan submitted for authentication:\nProvided that such notice shall not be sent more than twelve months after the date on which the plan was sent to the Director under section 30.\n(3) In the event of such licensed surveyor refusing or neglecting within the time specified to correct such error, it shall be lawful for the Director to undertake such correction and to recover the whole cost of such correction from the licensed surveyor concerned.\n(4) If such licensed surveyor refuses or neglects to pay the cost of the correction referred to in subsection (3) within fourteen days of the same having been demanded of him, the Director may report the facts to the Board for disciplinary action, and after due inquiry the Board may order such licensed surveyor to pay the cost of correction to the Director; and if such licensed surveyor refuses or neglects to comply with such order within one month after the date of the order the Board may, subject to section 18, suspend the licence of the licensed surveyor until the cost of correction has been paid, or for a period not exceeding three years, whichever he thinks fit.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Director, or a Government surveyor authorized in writing by the Director in that behalf, may at any time undertake such field and office checks on the survey work of a licensed surveyor as he thinks fit."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Director, or a Government surveyor duly authorized to authenticate a plan under section 32 may, by notice in writing, instruct any licensed surveyor to correct at his own expense within a time specified in such notice any error made by him in the survey represented by the plan submitted for authentication:"
+    },
+    {
+     "ref": "(3)",
+     "text": "In the event of such licensed surveyor refusing or neglecting within the time specified to correct such error, it shall be lawful for the Director to undertake such correction and to recover the whole cost of such correction from the licensed surveyor concerned."
+    },
+    {
+     "ref": "(4)",
+     "text": "If such licensed surveyor refuses or neglects to pay the cost of the correction referred to in subsection (3) within fourteen days of the same having been demanded of him, the Director may report the facts to the Board for disciplinary action, and after due inquiry the Board may order such licensed surveyor to pay the cost of correction to the Director; and if such licensed surveyor refuses or neglects to comply with such order within one month after the date of the order the Board may, subject to section 18, suspend the licence of the licensed surveyor until the cost of correction has been paid, or for a period not exceeding three years, whichever he thinks fit."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Authentication of plans",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "SURVEY PLANS AND RECORDS",
+   "text": "No land shall be deemed to have been surveyed or resurveyed until the plan thereof has been authenticated by the signature of the Director or of a Government surveyor authorized in writing by the Director in that behalf, or by the affixing of the seal of the Survey of Kenya in accordance with section 5.\n[Act No. 10 of 1969, Sch., Act No. 1 of 2020, s. 10.]",
+   "clauses": []
+  },
+  "33": {
+   "num": "33",
+   "title": "Director may cancel authentication of plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "SURVEY PLANS AND RECORDS",
+   "text": "(1) Where, before a document or instrument to which an authenticated plan is attached, or in which reference to such a plan is made, is registered—\n  (a) the plan is found to be inaccurate by reason of any error or omission in the survey; or (b) the plan does not conform with the terms and conditions subject to which permission to subdivide the land to which the plan relates has been given, the Director may cancel the authentication of such plan and may recall any copies which may have been issued, and in every case the provisions of section 31 shall apply.\n(2) The Director shall forthwith upon the cancellation of the authentication of any plan notify in writing—\n  (a) the registered owner of the land to which such plan relates or, in the case of Government land, the Commissioner of Lands; and (b) the surveyor by whom the survey was executed; and (c) the registrar.\n(3) For the purposes of this section, “the registrar” means—\n  (a) in the case of land registered under the Government Lands Act (Cap. 280), the Principal Registrar of Government Lands;\n  (b) in the case of land registered under the Land Titles Act (Cap. 282), the Principal Registrar;\n  (c) in the case of land registered under the Registration of Titles Act (Cap. 281), the Principal Registrar of Titles;\n  (d) in the case of land registered under the Registered Land Act (Cap. 300), the Chief Land Registrar;\n  (e) deleted by L.N. 303/1964, Sch.; and (f) in the case of any document registered under the Registration of Documents Act, the Principal Registrar of Documents (Cap. 285). [L.N. 2/1964, Sch., L.N. 303/1964, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where, before a document or instrument to which an authenticated plan is attached, or in which reference to such a plan is made, is registered— (a) the plan is found to be inaccurate by reason of any error or omission in the survey; or (b) the plan does not conform with the terms and conditions subject to which permission to subdivide the land to which the plan relates has been given, the Director may cancel the authentication of such plan and may recall any copies which may have been issued, and in every case the provisions of section 31 shall apply."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Director shall forthwith upon the cancellation of the authentication of any plan notify in writing— (a) the registered owner of the land to which such plan relates or, in the case of Government land, the Commissioner of Lands; and (b) the surveyor by whom the survey was executed; and (c) the registrar."
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purposes of this section, “the registrar” means— (a) in the case of land registered under the Government Lands Act (Cap. 280), the Principal Registrar of Government Lands; (b) in the case of land registered under the Land Titles Act (Cap. 282), the Principal Registrar; (c) in the case of land registered under the Registration of Titles Act (Cap. 281), the Principal Registrar of Titles; (d) in the case of land registered under the Registered Land Act (Cap. 300), the Chief Land Registrar; (e) deleted by L.N. 303/1964, Sch.; and (f) in the case of any document registered under the Registration of Documents Act, the Principal Registrar of Documents (Cap. 285). [L.N. 2/1964, Sch., L.N. 303/1964, Sch.]"
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Standing Committee on Geographical Names",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "THE STANDING COMMITTEE ON GEOGRAPHICAL NAMES",
+   "text": "(1) There shall be a Standing Committee on Geographical Names (hereinafter referred to as the “Committee”) which shall consist of—\n  (a) the Director, who shall be Chairperson of the Committee; and\n  (b) ten other members appointed by the Cabinet Secretary for such period as he may direct. (2) The Chairperson shall appoint a public officer to be secretary of the Committee.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Standing Committee on Geographical Names (hereinafter referred to as the “Committee”) which shall consist of— (a) the Director, who shall be Chairperson of the Committee; and"
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Duties of Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "THE STANDING COMMITTEE ON GEOGRAPHICAL NAMES",
+   "text": "(1) It shall be the duty of the Committee to advise the Cabinet Secretary as to the spelling of all names on maps of Kenya, and in so doing the Committee shall have due regard to historical, orthographical and ethnic considerations.\n(2) There shall be published in such manner, and as often as the Cabinet Secretary may direct, lists or maps containing the approved spelling of all such names. [Act No. 10 of 1969, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "It shall be the duty of the Committee to advise the Cabinet Secretary as to the spelling of all names on maps of Kenya, and in so doing the Committee shall have due regard to historical, orthographical and ethnic considerations."
+    },
+    {
+     "ref": "(2)",
+     "text": "There shall be published in such manner, and as often as the Cabinet Secretary may direct, lists or maps containing the approved spelling of all such names. [Act No. 10 of 1969, Sch.]"
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Unqualified persons forbidden to survey",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "OFFENCES",
+   "text": "(1) No person, other than a surveyor, shall—\n  (a) survey any holding or land for the purpose of preparing any plan which is attached to, or is referred to in, any document or instrument purporting to confer, declare, transfer, limit, extinguish or otherwise deal with or affect any right, title or interest, whether vested or contingent to, in or over any holding or land, being a document or instrument which is required to be registered, or is ineffectual until registered, under any written law for the time being in force relating to the registration of transactions in or of title to land; or (b) perform any survey which affects or may affect the delimitation of the boundaries, or the location of survey marks, of any holding or land registered or to be registered under any written law for the time being in force relating to the registration of land or of title to land.\n(2) Any person who contravenes any of the provisions of subsection (1) shall be guilty of an offence and liable to a fine not exceeding three thousand shillings or to imprisonment for a term not exceeding six months or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No person, other than a surveyor, shall— (a) survey any holding or land for the purpose of preparing any plan which is attached to, or is referred to in, any document or instrument purporting to confer, declare, transfer, limit, extinguish or otherwise deal with or affect any right, title or interest, whether vested or contingent to, in or over any holding or land, being a document or instrument which is required to be registered, or is ineffectual until registered, under any written law for the time being in force relating to the registration of transactions in or of title to land; or (b) perform any survey which affects or may affect the delimitation of the boundaries, or the location of survey marks, of any holding or land registered or to be registered under any written law for the time being in force relating to the registration of land or of title to land."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who contravenes any of the provisions of subsection (1) shall be guilty of an offence and liable to a fine not exceeding three thousand shillings or to imprisonment for a term not exceeding six months or to both."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Penalty for fraudulently procuring licence, falsely pretending to be licensed, and allowing unlicensed surveyor to practise",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "OFFENCES",
+   "text": "Any person who—\n  (a) fraudulently procures or attempts to procure himself or any other person to be granted a licence by the Board under this Act; or (b) not being a licensed surveyor, falsely pretends to be such, or falsely takes or uses any title or description implying, whether in itself or in the circumstances in which it is taken or used, that such person is a licensed surveyor or is qualified to practise as such; or (c) being a licensed surveyor, allows an unlicensed person to perform any survey to which section 22 applies, shall be guilty of an offence and liable to a fine not exceeding three thousand shillings or to imprisonment for a term not exceeding six months or to both.\n[Act No. 10 of 1969, Sch.]",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "Penalty for obstructing surveyors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "OFFENCES",
+   "text": "Any person who wilfully obstructs or hinders any surveyor, or any assistant or servant of such surveyor, in the performance of any duty or the exercise of any power under this Act shall be guilty of an offence and liable to a fine not exceeding one thousand shillings or to imprisonment for a term not exceeding two months or to both.",
+   "clauses": []
+  },
+  "39": {
+   "num": "39",
+   "title": "Authenticated plans to be sufficient compliance with law requiring notices of boundaries, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Where the provisions of any written law require that for the purposes of any written law a notice shall be published in the Gazette or otherwise specifying the boundaries of any land or area, or the situation and extent of any land or area, or particulars necessary to identify any land or area, or defining or designating the boundaries or limits of any land or area, it shall be sufficient if such land or area is described by reference in such notice to a plan of such land or area authenticated, identified and deposited in the Survey Office in accordance with the provisions of section 41.",
+   "clauses": []
+  },
+  "40": {
+   "num": "40",
+   "title": "Distribution of photographic or lithographic copies of plan authenticated",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The authority giving a notice which refers to a plan authenticated, identified and deposited in the Survey Office may direct that so many photographically produced (or, if a larger number are required, lithographically produced) copies of such plan as he may require shall be made and distributed to the District Commissioner of the district in which the land or area to which such plan refers is situated, to the Commissioner of Lands and to such other public officer or officers as he shall specify.",
+   "clauses": []
+  },
+  "41": {
+   "num": "41",
+   "title": "Provisions regarding authenticated plans",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A plan shall be deemed to be authenticated and identified for the purposes of sections 39 and 40 if—\n  (a) it is authenticated, by the signature of the Director or of a Government surveyor authorized in writing by the Director in that behalf and by the signature of the authority by whom the notice is given, to be the land or area to which the notice refers; and\n  (b) it is identified by a reference number.\n(2) Every such authenticated and identified plan shall be deposited in the Survey Office.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A plan shall be deemed to be authenticated and identified for the purposes of sections 39 and 40 if—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Every such authenticated and identified plan shall be deposited in the Survey Office."
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "Aerial surveys",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Any person who intends to carry out any aerial photography for use in mapping or similar purpose shall, before carrying out the same, give to the Director in writing not less than one month’s notice of his intention so to do.\n(2) Any person who has carried out any aerial photography for use in mapping or similar purpose shall, if the Director so requires in writing—\n  (a) produce to the Director for his inspection all of the photographs thereby produced or such of them as the Director may specify; and\n  (b) supply to the Director, at the Director’s cost, such copies as the Director may require of such photographs:\nProvided that the supply of photographs to the Director under this section shall not in any way affect the copyright therein of the person supplying them or other than the owner of such copyright.\n(3) Any person who fails to comply with the provisions of subsection (1) or subsection (2) shall be guilty of an offence and liable to a fine not exceeding two thousand shillings.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who intends to carry out any aerial photography for use in mapping or similar purpose shall, before carrying out the same, give to the Director in writing not less than one month’s notice of his intention so to do."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who has carried out any aerial photography for use in mapping or similar purpose shall, if the Director so requires in writing—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person who fails to comply with the provisions of subsection (1) or subsection (2) shall be guilty of an offence and liable to a fine not exceeding two thousand shillings."
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Proof of plans",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) All plans authenticated under this Act, purporting to be signed by the Director, or by a Government surveyor authorized by the Director in that behalf, or to be sealed with the seal of the Survey of Kenya, shall be presumed, until the contrary is proved, to have been signed by the Director, or by a Government surveyor authorised as aforesaid, or to have been sealed with the seal of the Survey of Kenya, as the case may be.\n(2) The provisions of subsection (1) shall extend to plans approved before the commencement of this Act under section 37 of the Survey Act, 1951 (Repealed).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "All plans authenticated under this Act, purporting to be signed by the Director, or by a Government surveyor authorized by the Director in that behalf, or to be sealed with the seal of the Survey of Kenya, shall be presumed, until the contrary is proved, to have been signed by the Director, or by a Government surveyor authorised as aforesaid, or to have been sealed with the seal of the Survey of Kenya, as the case may be."
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of subsection (1) shall extend to plans approved before the commencement of this Act under section 37 of the Survey Act, 1951 (Repealed)."
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Inspection of plans",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Any person may, at such times as may be notified by the Director, inspect any boundary plan, referred to in any notice in the Gazette, which is in the possession of the Survey Department.",
+   "clauses": []
+  },
+  "45": {
+   "num": "45",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Subject to subsection (2) of this section, the Cabinet Secretary may make regulations prescribing—\n  (a) the manner in which surveys shall be carried out and the manner and form in which the records of surveys shall be prepared and furnished to the Director;\n  (b) the standard of accuracy which shall, subject to any direction given under the proviso to subsection (1) of section 21, be achieved, and the limit of error which shall, subject as aforesaid, be allowed, in surveys and resurveys of land;\n  (c) the nature, form and dimensions of survey marks, the manner of marking the same for identification and the manner of their construction, erection, protection, maintenance and repair;\n  (d) the testing of surveying instruments and of measuring tapes to be used in the survey of land;\n  (e) the unit of measurement which shall be used on plans;\n  (f) the charges to be made for the making of any survey by the Survey Department;\n  (g) the charges to be made for the authentication under this Act of plans submitted by a licensed surveyor;\n  (h) the fees or charges to be paid in respect of any plan or document issued, or any act or matter required or permitted to be performed or dealt with, in the Survey Office;\n  (i) the circumstances in which any person may inspect any unpublished plan in the possession of the Survey Department;\n  (j) the manner of keeping the register of licensed surveyors and prescribing the particulars which shall be recorded therein;\n  (k) the evidence which shall be produced and the conditions which shall be fulfilled by any person applying for a licence under this Act;\n  (l) the method of examination of persons desirous of qualifying for a licence, and the syllabus of subjects therefor; the fees payable for examination; and the nature and period of previous service or training required;\n  (m) what certificates of examination, diplomas, degrees, licences or titles, other than those prescribed by this Act, shall be recognized by the Board for the purpose of exempting a person from passing the whole or any part of any examination of the Board;\n  (n) the procedure for granting licences under this Act;\n  (o) the procedure which shall be followed by the Board in hearing and determining any dispute between a licensed surveyor and his client as to the fees charged by the licensed surveyor;\n  (oa) the procedure which shall be followed by the Board in hearing and determining any dispute between the Director and a licensed surveyor as to the application of any regulation in which provision is made for reference to the Board;\n  (p) the procedure which shall be followed by the Board in any inquiry held under section 17 or section 19;\n  (pa) the fees or charges to be paid in respect of the hearing of any dispute by the Board;\n  (q) the manner in which the attendance of witnesses and the production of books and documents at such an inquiry shall be obtained and enforced;\n  (r) matters relating to the direction and guidance of licensed surveyors;\n  (s) a power for the Director, after consultation with the Board, to require calculations to be submitted in such manner as he may direct;\n  (t) the fees to be charged by a licensed surveyor in respect of work done;\n  (u) anything which under this Act may be prescribed, and generally as to any matter appertaining to the surveying of land, and for carrying out the intent and purpose of this Act.\n(2) Regulations prescribing any of the matters specified in paragraphs (j) to (t) (inclusive) of subsection (1) shall be made only after consultation with the Board.\n[Act No. 10 of 1969, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2) of this section, the Cabinet Secretary may make regulations prescribing—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Regulations prescribing any of the matters specified in paragraphs (j) to (t) (inclusive) of subsection (1) shall be made only after consultation with the Board."
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "Saving concerning Act No. 22 of 1951",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XI",
+   "part_title": "REPEAL AND SAVINGS",
+   "text": "All officers, offices, appointments, records, plans, approvals, licences, registers, registrations and generally all acts of authority which originated under the Survey Act, 1951 (Repealed), and were subsisting or in force immediately before the commencement of this Act shall enure for the purposes of this Act according to the tenor thereof as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated; and, for the purposes of any written law, any approval given by the Director in accordance with any provision of the Survey Act, 1951 (Repealed), shall be deemed to be an authentication made in accordance with the provisions of this Act.",
+   "clauses": []
+  }
+ },
+ "schedules": [],
+ "spent": {}
+}

@@ -63,6 +63,19 @@ class ReferenceWatchTest {
     }
 
     @Test
+    void aDismissedFlagStaysQuiet() {
+        // the owner checked: the Universities Act has no section 2A (reference/watch_dismissed.json)
+        assertTrue(watch.flags("failed to comply with section 2A of the Universities Act, 2012").isEmpty());
+    }
+
+    @Test
+    void savedAmendingActsFlagOlderCopies() {
+        // the Finance Act 2026 (raw/law, reference/amendments.json) amends the Banking Act; our copy is older
+        assertTrue(watch.amendmentFlags().stream().anyMatch(f -> f.key().equals("banking_act")
+                && f.detail().equals("Finance Act 2026")), watch.amendmentFlags().toString());
+    }
+
+    @Test
     void oldCopiesAreReminded() {
         List<ReferenceWatch.Flag> f = watch.oldCopies(LocalDate.of(2026, 10, 5));
         assertTrue(f.stream().anyMatch(x -> x.key().equals("disposal_of_uncollected_goods_act")), f.toString());

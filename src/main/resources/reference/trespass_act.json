@@ -1,0 +1,210 @@
+{
+ "title": "Trespass Act",
+ "citation": "Cap. 294",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1962/48/eng@1963-12-12",
+ "version_date": "1963-12-12",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "TRESPASS ACT CAP. 294 Commenced on 4 January 1962\n[Amended by Kenya (Amendment of Laws) (Written Laws) Order, 1963 (Legal Notice 2 of 1964) on 12 December 1963]",
+ "parts": [],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "This Act may be cited as the Trespass Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "In this Act—\n“agricultural produce” includes anything (whether alive or dead) produced in the course of agriculture within the meaning of that term as defined in subsection (1) of section 2 of the Agriculture Act (Cap. 318);\n“cattle” means any bull, cow, steer, heifer, calf or any other animal which the Minister may, by notice in the Gazette, declare to be cattle for the purposes of this Act;\n“cultivated land” includes ploughed or tilled land, land under crops and plantations; “enclosed land” means any land enclosed or surrounded, or substantially enclosed or surrounded, by a fence, or partly so enclosed or surrounded and partly by a river, so that the whole boundaries thereof may be known or recognized;\n“fence” includes any clearly defined ditch, hedge, wall or other erection by which the boundaries of any land may be known or recognized;\n“forest area” means any area declared under section 4 of the Forests Act (Cap. 385) to be a forest area; “occupier” means the owner or the person lawfully in occupation of private land, any manager or agent of such person and, in respect of forest areas and railway land, the Chief Conservator of Forests and the Managing Director of Kenya Railways respectively;\n“private land” means—\n  (a) land which is owned or occupied by any person by virtue of a freehold title, a certificate of ownership or a lease; or\n  (b) land in respect of which a claim to an estate in fee, or to a lease, has been made under the Land Titles Act (Cap. 282) and has not been disallowed or refused; or\n  (c) cultivated land or enclosed land; or\n  (d) any forest area; or\n  (e) railway land;\n“railway land” means land used or reserved for the purpose of, or in connection with, a railway operated or to be operated by East African Railways and Harbours Administration;\n“stock” includes cattle, sheep, goats, pigs, horses and donkeys and such other animals or birds as the Minister may, by notice in the Gazette, declare to be stock for the purposes of this Act;\n“stock enclosure” means any enclosed land in or upon which stock is present or is habitually kept.",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Trespass upon private land",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Any person who without reasonable excuse enters, is or remains upon, or erects any structure on, or cultivates or tills, or grazes stock or permits stock to be on, private land without the consent of the occupier thereof shall be guilty of an offence.\n(2) Where any person is charged with an offence under subsection (1) of this section the burden of proving that he had reasonable excuse or the consent of the occupier shall lie upon him.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who without reasonable excuse enters, is or remains upon, or erects any structure on, or cultivates or tills, or grazes stock or permits stock to be on, private land without the consent of the occupier thereof shall be guilty of an offence."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where any person is charged with an offence under subsection (1) of this section the burden of proving that he had reasonable excuse or the consent of the occupier shall lie upon him."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Passing through or tampering with fences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Any person who, without reasonable excuse, whereof the burden of proof shall lie on him, passes through, over or under, or tampers with, a fence shall be guilty of an offence.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Trespass with intent to commit an offence or to intimidate, insult or annoy",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Any person who—\n  (a) enters into or upon property in the possession or occupation of another with intent to commit an offence or to intimidate, insult or annoy any person lawfully in possession or occupation of such property; or\n  (b) having lawfully entered into or upon such property, unlawfully remains there with intent to commit an offence or to intimidate, insult or annoy any such person, shall be guilty of an offence and liable to imprisonment for a term not exceeding six months or to a fine not exceeding two thousand shillings or to both such imprisonment and fine.\n(2) If the property in respect of or upon which the offence is committed is used as a human dwelling or as a place of worship or as a place for the custody of property, the offender shall be liable to imprisonment for a term not exceeding one year.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who—"
+    },
+    {
+     "ref": "(2)",
+     "text": "If the property in respect of or upon which the offence is committed is used as a human dwelling or as a place of worship or as a place for the custody of property, the offender shall be liable to imprisonment for a term not exceeding one year."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Trespass with intent to steal stock or agricultural produce",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Any person who—\n  (a) unlawfully enters upon private land with intent to steal any stock or agricultural produce in or upon any such land; or\n  (b) having lawfully entered upon private land, unlawfully remains there with intent to steal any stock or agricultural produce in or upon such land, shall be guilty of an offence and liable to imprisonment for a term not exceeding one year or to a fine not exceeding five thousand shillings, or to both such imprisonment and fine.\n(2) Where any person has unlawfully entered, or having lawfully entered has unlawfully remained upon private land, then in any proceedings under subsection (1) of this section the burden of proof that he did not enter or remain as the case may be upon the land with intent to steal stock or agricultural produce shall lie upon him.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where any person has unlawfully entered, or having lawfully entered has unlawfully remained upon private land, then in any proceedings under subsection (1) of this section the burden of proof that he did not enter or remain as the case may be upon the land with intent to steal stock or agricultural produce shall lie upon him."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Being found in proclaimed district on suspicion of stealing stock, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Any person found in a proclaimed district in circumstances which may reasonably lead to the belief that he is there for the purpose of stealing stock or agricultural produce, or of doing or omitting to do any act for the purpose of enabling or aiding another person to steal stock or agricultural produce, shall, unless he shows that he was there for some lawful purpose, be guilty of an offence and liable to imprisonment for a term not exceeding six months or to a fine not exceeding two thousand shillings, or to both such imprisonment and fine.\n(2) For the purposes of this section, “proclaimed district” has the meaning assigned to that expression in the Stock and Produce Theft Act (Cap. 355).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person found in a proclaimed district in circumstances which may reasonably lead to the belief that he is there for the purpose of stealing stock or agricultural produce, or of doing or omitting to do any act for the purpose of enabling or aiding another person to steal stock or agricultural produce, shall, unless he shows that he was there for some lawful purpose, be guilty of an offence and liable to imprisonment for a term not exceeding six months or to a fine not exceeding two thousand shillings, or to both such imprisonment and fine."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of this section, “proclaimed district” has the meaning assigned to that expression in the Stock and Produce Theft Act (Cap. 355)."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Trespass in stock enclosure",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Any person who without reasonable excuse, whereof the burden of proof shall lie upon him, passes through, over or under, or tampers with, any fence enclosing a stock enclosure or enclosure in or upon which agricultural produce is habitually stored or grown shall be guilty of an offence and liable to imprisonment for a term not exceeding six months or to a fine not exceeding two thousand shillings, or to both such imprisonment and fine.",
+   "clauses": []
+  },
+  "9": {
+   "num": "9",
+   "title": "Occupier or police officer may arrest without warrant",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) When any person is seen or found committing, or is reasonably suspected of having committed, an offence under this Act, the occupier of the private land or the owner of the fence, as the case may be, or any police officer, administration police officer or administrative officer, may arrest that person without warrant, if he has reason to believe that, except by arresting him, he may not afterwards be found without undue delay, trouble or expense.\n(2) For the purposes of ascertaining whether an offence under this Act is being committed, it shall be lawful for a police officer, tribal police officer or administrative officer to enter upon any private land without the prior consent of the occupier thereof.\n(3) A person apprehended under this section shall be taken with all practicable speed before a magistrate and shall not be detained without a warrant longer than is necessary for the purpose.\n(4) A person other than a police officer making an arrest under subsection (1) of this section may make over any person so arrested to a police officer, who shall take the person arrested with all practicable speed before a magistrate and shall not detain him without a warrant longer than is necessary for the purpose.\n(5) A person making over a person arrested to a police officer under subsection (4) of this section shall give the police officer a written and signed statement setting out the circumstances in which the arrest was made.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "When any person is seen or found committing, or is reasonably suspected of having committed, an offence under this Act, the occupier of the private land or the owner of the fence, as the case may be, or any police officer, administration police officer or administrative officer, may arrest that person without warrant, if he has reason to believe that, except by arresting him, he may not afterwards be found without undue delay, trouble or expense."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of ascertaining whether an offence under this Act is being committed, it shall be lawful for a police officer, tribal police officer or administrative officer to enter upon any private land without the prior consent of the occupier thereof."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person apprehended under this section shall be taken with all practicable speed before a magistrate and shall not be detained without a warrant longer than is necessary for the purpose."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person other than a police officer making an arrest under subsection (1) of this section may make over any person so arrested to a police officer, who shall take the person arrested with all practicable speed before a magistrate and shall not detain him without a warrant longer than is necessary for the purpose."
+    },
+    {
+     "ref": "(5)",
+     "text": "A person making over a person arrested to a police officer under subsection (4) of this section shall give the police officer a written and signed statement setting out the circumstances in which the arrest was made."
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Occupier or police officer may take proceedings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Proceedings for an offence under this Act may be instituted by the occupier of private land or the owner of a fence, as the case may be, or by a police officer with or without the consent of the occupier or owner.",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "General penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable to a fine not exceeding five hundred shillings or to imprisonment for a term not exceeding two months or to both such fine and imprisonment.",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Court may order removal from land of person, family, stock and property",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) On convicting any person of an offence under section 3 or section 4 of this Act, the court shall order the person convicted to remove himself, his family, stock and other property forthwith or within a period to be specified by the court from the private land or premises in respect of which he was so convicted, and if he fails to obey that order within the time limited by the court for its performance the court shall authorize an administrative officer or a police officer to remove the person convicted, his family, stock and other property from the land or premises.\n(2) In authorising an administrative officer or a police officer to remove any person convicted of an offence under section 3 or section 4, the court may, upon the application of the administrative officer or police officer, order that person to pay towards the costs of the administrative officer or police officer in effecting his removal such sum not exceeding six hundred shillings as to the court seems reasonable, and the sum so ordered may be recovered as if it were a fine.\n(3) Any person who fails to comply with an order of the court made under subsection (1) or subsection (2) shall be guilty of an offence and liable to a fine not exceeding one thousand shillings or to imprisonment for a term not exceeding three months, or to both such fine and imprisonment.\n(4) Where any stock is found grazing on private land in contravention of the provisions of this Act, the court may, in addition to imposing any other penalty, order that the stock be confiscated and sold, and may direct that the proceeds of sale thereof or such part of such proceeds as it may determine shall be paid to any person appearing to be the owner of the stock:\nProvided that where no such direction is given, or where the court directs that only a part of the proceeds be paid to the person appearing to be the owner thereof, the proceeds of sale, or such part thereof as has not been directed by the court to be paid to the person appearing to be the owner thereof, shall be paid into the Consolidated Fund.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "On convicting any person of an offence under section 3 or section 4 of this Act, the court shall order the person convicted to remove himself, his family, stock and other property forthwith or within a period to be specified by the court from the private land or premises in respect of which he was so convicted, and if he fails to obey that order within the time limited by the court for its performance the court shall authorize an administrative officer or a police officer to remove the person convicted, his family, stock and other property from the land or premises."
+    },
+    {
+     "ref": "(2)",
+     "text": "In authorising an administrative officer or a police officer to remove any person convicted of an offence under section 3 or section 4, the court may, upon the application of the administrative officer or police officer, order that person to pay towards the costs of the administrative officer or police officer in effecting his removal such sum not exceeding six hundred shillings as to the court seems reasonable, and the sum so ordered may be recovered as if it were a fine."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person who fails to comply with an order of the court made under subsection (1) or subsection (2) shall be guilty of an offence and liable to a fine not exceeding one thousand shillings or to imprisonment for a term not exceeding three months, or to both such fine and imprisonment."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where any stock is found grazing on private land in contravention of the provisions of this Act, the court may, in addition to imposing any other penalty, order that the stock be confiscated and sold, and may direct that the proceeds of sale thereof or such part of such proceeds as it may determine shall be paid to any person appearing to be the owner of the stock:"
+    }
+   ]
+  }
+ },
+ "schedules": [],
+ "spent": {}
+}

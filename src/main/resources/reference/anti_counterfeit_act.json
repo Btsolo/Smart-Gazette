@@ -1,0 +1,957 @@
+{
+ "title": "Anti-Counterfeit Act",
+ "citation": "Cap. 510",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2008/13/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "ANTI-COUNTERFEIT ACT CAP. 510 Published in Kenya Gazette Vol. CXI—No. 2 on 9 January 2009 Assented to on 24 December 2008 Commenced on 7 July 2009 by Anti-Counterfeit Act Commencement\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2012 (Act No. 12 of 2012) on 12 July 2012] [Amended by Statute Law (Miscellaneous Amendments) Act, 2014 (Act No. 18 of 2014) on 8 December 2014] [Amended by Statute Law (Miscellaneous Amendments) Act, 2015 (Act No. 25 of 2015) on 24 December 2015]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2017 (Act No. 11 of 2017) on 4 May 2017] [Amended by Statute Law (Miscellaneous Amendments) Act, 2018 (Act No. 18 of 2018) on 18 January 2019]\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to prohibit trade in counterfeit goods, to establish the Anti-Counterfeit Authority, and for connected purposes\n[Act No. 18 of 2018, Sch.]\n[Act No. 18 of 2018, Sch.]",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "provisions": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "17",
+    "18",
+    "19",
+    "20",
+    "21"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "INSPECTION",
+   "provisions": [
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "COUNTERFEIT GOODS",
+   "provisions": [
+    "32",
+    "33",
+    "34",
+    "34A",
+    "34B"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "MISCELLANEOUS",
+   "provisions": [
+    "35",
+    "36",
+    "37"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Anti-Counterfeit Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires—\n\"Agency\" deleted by Act No. 18 of 2018, Sch.;\n\"Authority\" means the Anti-Counterfeit Authority established under section 3;\n\"Cabinet Secretary\" means the Cabinet Secretary for the time being responsible for matters relating to industrialization;\n\"Commissioner\" shall have the meaning assigned to it under the Kenya Revenue Authority Act (Cap. 469);\n\"complainant\" means a person, institution, government agency or state corporation entitled to lay a complaint under section 33(1), or who has laid such a complaint;\n\"consumer\" includes any member of the public or person who purchases or likely to purchase goods as an end user other than the owner of intellectual property right; and\n\"counterfeiting\" means taking the following actions without the authority of the owner of intellectual property right subsisting in Kenya or outside Kenya in respect of protected goods—\n  (a) the manufacture, production, packaging, re-packaging, labelling or making, whether in Kenya, of any goods whereby those protected goods are imitated in such manner and to such a degree that those other goods are identical or substantially similar copies of the protected goods;\n  (b) the manufacture, production or making, whether in Kenya, the subject matter of that intellectual property, or a colourable imitation thereof so that the other goods are calculated to be confused with or to be taken as being the protected goods of the said owner or any goods manufactured, produced or made under his licence;\n  (c) the manufacturing, producing or making of copies, in Kenya, in violation of an author’s rights or related rights;\n  (d) in relation to medicine, the deliberate and fraudulent mislabelling of medicine with respect to identity or source, whether or not such products have correct ingredients, wrong ingredients, have sufficient active ingredients or have fake packaging:\nProvided that nothing in this paragraph shall derogate from the existing provisions under the Industrial Property Act (Cap. 509);\n\"counterfeit goods\" means goods that are the result of counterfeiting any item that bears an intellectual property right, and includes any means used for purposes of counterfeiting;\n\"counterfeit goods depot\" means a place designated as such under section 29;\n\"counterfeit mark\" means a spurious mark—\n  (a) that is used in connection with any goods, labels, patches, stickers, wrappers, budges, emblems, medallions, charms, boxes, containers, cans, hand tags, documentation or packaging of any type or nature;\n  (b) that is identical with, or substantially indistinguishable from, a mark registered in the trade mark register and in use, whether or not a person knows such a mark was registered;\n  (c) that is applied to or used in connection with the goods for which the mark is registered, or is applied to or consists of a label, patch, sticker, wrapper, badges, emblems, medallion, charms, boxes, containers, cans, hand tags, documentation or packaging of any type or nature, that is designed, marked or otherwise intended to be used on or in connection with the goods for which the mark is registered; and\n  (d) the use of which is likely to cause confusion, to cause mistake, or to deceive;\n\"document\" includes a tape recording, a photograph and any electronic, magnetic or other medium on, in, or by means or by way of which, images, sound, data or information may be stored;\n\"exporter\" includes any person who, at the relevant time—\n  (a) is the owner or is in control or possession of any goods exported or to be exported from Kenya;\n  (b) carries the risk for any goods so exported or to be so exported;\n  (c) represents that, or acts as if, he is the exporter or owner of any goods so exported or to be so exported;\n  (d) actually takes, or attempts to take, any goods from Kenya;\n  (e) has a beneficial interest, in any manner or of any nature whatsoever, in any goods so exported or to be so exported; or\n  (f) acts on behalf of any person referred to in paragraph (a), (b), (c), (d) or (e), and, in relation to imported goods destined for exportation from Kenya, includes the manufacturer, producer, maker, supplier or shipper of those goods or any person inside or outside Kenya representing or acting on behalf of such a manufacturer, producer, maker, supplier or shipper;\n\"importer\" includes any person who, at the relevant time—\n  (a) is the owner or is in control or in possession of any goods imported or to be imported into Kenya;\n  (b) carries the risk for any goods so imported or to be so imported;\n  (c) represents that, or acts as if, he is the importer or owner of any goods so imported;\n  (d) actually brings, or attempts to bring, any goods into Kenya;\n  (e) has a beneficial interest, in any manner or of any nature whatsoever, in any goods so imported or to be so imported;\n  (f) acts on behalf of any person referred to in paragraph (a), (b), (c), (d) or (e);\n\"inspector\" means a person appointed as such under section 22;\n\"intellectual property right\" includes—\n  (a) any right protected under the Copyright Act (Cap. 130);\n  (b) any plant breeders’ right granted under the Seeds and Plant Varieties Act (Cap. 326);\n  (c) any right protected under the Trade Marks Act (Cap. 506); and\n  (d) any right protected under the Industrial Property Act (Cap. 509);\n\"owner\" in relation to an intellectual property right, includes a person who has the capacity in law to enforce the intellectual property right in his own name;\n\"package\" means any container, wrapping or outer cover and the contents thereof, or any bundle or single piece in the case of unpacked goods;\n\"prescribed\" means prescribed by regulations made under section 37;\n\"protected goods\" means—\n  (a) goods featuring, bearing, embodying or incorporating the subject matter of an intellectual property right with the authority of the owner of that intellectual property right, or goods to which that subject matter has been applied by that owner or with his authority;\n  (b) any particular class or kind of goods which, in law, may feature, bear, embody or incorporate the subject matter of an intellectual property right only with the authority of the owner of that intellectual property right, or to which that subject matter may in law be applied, only by that owner or with his authority, but which has not yet been manufactured, produced or made, or to which that subject matter has not yet been applied, with the authority of or by that owner, whichever is applicable;\n\"tools\" include machinery and equipment;\n\"trade\" includes business and profession; and\n\"vehicle\" includes any motorcar, van, truck, trailer, caravan, cart, barrow, train, aircraft, ship, boat or other vessels, and any other vehicle, craft or means of conveyance of any kind whatsoever, whether selfpropelled or not, as well as any pack animal.\n[Act No. 18 of 2014, Sch., Act No. 18 of 2018, Sch.]",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) There is hereby established an Authority to be known as the Anti-Counterfeit Authority.\n(2) The Authority is a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property;\n  (c) borrowing and lending money;\n  (d) charging fees for services rendered by it;\n  (e) entering into contracts; and (f) doing or performing all such other things or acts necessary for the proper performance of its functions under this Act, which may lawfully be done by a body corporate. [Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is hereby established an Authority to be known as the Anti-Counterfeit Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority is a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of—"
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Headquarters",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "The headquarters of the Authority shall be in Nairobi. [Act No. 18 of 2018, Sch.]",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Functions of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "The functions of the Authority shall be to—\n  (a) enlighten and inform the public on matters relating to counterfeiting;\n  (b) combat counterfeiting, trade and other dealings in counterfeit goods in Kenya in accordance with this Act;\n  (c) devise and promote training programmes on combating counterfeiting;\n  (d) co-ordinate with national, regional or international organizations involved in combating counterfeiting;\n  (da) advise the government through the Cabinet Secretary on policies and measures concerning the necessary support, promotion and protection of intellectual property rights as well as the extent of counterfeiting;\n  (db) to carry out inquiries, studies and research into matters relating to counterfeiting and the protection of intellectual property rights;\n  (e) carry out any other functions prescribed for it under any of the provisions of this Act or under any other written law; and\n  (f) perform any other duty that may directly or indirectly contribute to the attainment of the foregoing. [Act No. 18 of 2018, Sch.]",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Board of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) There shall be a Board of the Authority which shall consist of —\n  (a) a Chairperson appointed by the Cabinet Secretary from amongst the members appointed under paragraph (h);\n  (b) the Principal Secretary in the Ministry for the time being responsible for matters relating to trade or his or her representative;\n  (c) the Principal Secretary in the Ministry for the time being responsible for matters relating to finance or his or her representative;\n  (cc) the Attorney-General or his representative;\n  (d) deleted by Act No. 25 of 2015, Sch.;\n  (e) the Commissioner-General of the Kenya Revenue Authority, who may be represented by the Commissioner of Customs;\n  (f) the Managing Director of the Kenya Bureau of Standards;\n  (g) the Chief Executive of the Kenya Association of Manufacturers or a representative, being a person who meets the qualifications set out in paragraph (h); and\n  (h) two members appointed by the Cabinet Secretary, not being public officers, and who hold a degree from a university recognised in Kenya and have at least ten years' experience in matters relating to—\n  (i) intellectual property rights;\n  (ii) consumer protection, or\n  (iii) trade.\n(2) A person shall not qualify to be appointed as Chairperson under subsection (1)(a) unless such person is a holder of a degree in law or science from a recognised institution, and has at least five years working experience in the field of trade, industry or intellectual property.\n[Act No. 12 of 2012, Sch., Act No. 18 of 2014, Sch., Act No. 25 of 2015, Sch., Act No. 11 of 2017, Sch., Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Board of the Authority which shall consist of — (a) a Chairperson appointed by the Cabinet Secretary from amongst the members appointed under paragraph (h); (b) the Principal Secretary in the Ministry for the time being responsible for matters relating to trade or his or her representative; (c) the Principal Secretary in the Ministry for the time being responsible for matters relating to finance or his or her representative; (cc) the Attorney-General or his representative; (d) deleted by Act No. 25 of 2015, Sch.;"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall not qualify to be appointed as Chairperson under subsection (1)(a) unless such person is a holder of a degree in law or science from a recognised institution, and has at least five years working experience in the field of trade, industry or intellectual property."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Powers of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "The Board shall have all powers necessary for the proper performance of its functions under this Act and in particular, but without prejudice to the generality of the foregoing, the Board shall have power to—\n  (a) formulate, with approval of the Cabinet Secretary, policies pertaining to the organisation, management and implementation of the objects of the Authority;\n  (b) control, supervise and administer the assets of the Authority in such manner as best promotes the purposes for which the Authority is established;\n  (c) determine the provisions to be made for capital and recurrent expenditure and for reserves of the Authority;\n  (d) receive any grants, gifts, donations or endowments on behalf of the Authority and make legitimate disbursements therefrom;\n  (e) enter into association with such other bodies or organizations within or outside Kenya as the Board may consider desirable or appropriate and in furtherance of the purposes for which the Authority is established;\n  (f) open a banking account or banking accounts for the funds of the Authority; and\n  (g) invest any funds of the Authority not immediately required for its purposes in the manner provided for in section 21.\n[Act No. 18 of 2018, Sch.]",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Conduct of business and affairs of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) The conduct and regulation of the business and affairs of the Board shall be as provided for in the Schedule.\n(2) Except as provided for in the Schedule, the Board may regulate its own procedure.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The conduct and regulation of the business and affairs of the Board shall be as provided for in the Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "Except as provided for in the Schedule, the Board may regulate its own procedure."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Remuneration of Board members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "The members of the Board shall be paid such remuneration, fees, allowances and disbursements for expenses as may be approved by the Cabinet Secretary for the time being responsible for finance, on the recommendation of the Board.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Executive Director",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) There shall be an Executive Director of the Authority who shall be appointed by the Board, and whose terms and conditions of service shall be determined by the Board in the instrument of appointment or otherwise in writing from time to time.\n(2) A person shall not be appointed as an Executive Director under this section unless such person—\n  (a) has a degree in law, science, information technology or business administration from a recognized institution and has at least three years working experience in the relevant field; or\n  (b) has at least seven years working experience in matters relating to trade or industry.\n(3) The Executive Director shall —\n  (a) be an ex officio member of the Board but shall have no right to vote at any meeting of the Board;\n  (b) be the secretary to the Board;\n  (c) subject to the directions of the Board, be responsible for the day to day management of the affairs of the Authority;\n  (d) be responsible to the Board generally for supervision of inspectors; and\n  (e) be responsible to the Board generally for the implementation of this Act.\n[Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be an Executive Director of the Authority who shall be appointed by the Board, and whose terms and conditions of service shall be determined by the Board in the instrument of appointment or otherwise in writing from time to time."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall not be appointed as an Executive Director under this section unless such person—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Executive Director shall —"
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Staff of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "The Board may appoint such officers, agents and other staff of the Authority as are necessary for the proper discharge of its functions under this Act or any other written law, upon such terms and conditions of service as the Board may determine.\n[Act No. 18 of 2018, Sch.]",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "The common seal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) The common seal of the Authority shall be kept in the custody of the Executive Director or of such other person as the Board may direct, and shall not be used except upon the order of the Board.\n(2) The common seal of the Authority, when affixed to a document and duly authenticated, shall be judicially and officially noticed, and unless and until the contrary is proved, any necessary order or authorization by the Board under this section shall be presumed to have been duly given.\n(3) The affixing of the common seal of the Authority shall be authenticated by the signature of the Chairperson of the Board and the Executive Director:\nProvided that the Board shall, in the absence of either the Chairperson or the Executive Director, in any particular matter, nominate one member of the Board to authenticate the seal of the Authority on behalf of either the Chairperson or the Executive Director.\n[Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The common seal of the Authority shall be kept in the custody of the Executive Director or of such other person as the Board may direct, and shall not be used except upon the order of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "The common seal of the Authority, when affixed to a document and duly authenticated, shall be judicially and officially noticed, and unless and until the contrary is proved, any necessary order or authorization by the Board under this section shall be presumed to have been duly given."
+    },
+    {
+     "ref": "(3)",
+     "text": "The affixing of the common seal of the Authority shall be authenticated by the signature of the Chairperson of the Board and the Executive Director:"
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Delegation by the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "The Board may, by resolution either generally or in any particular case, delegate to any committee of the Board or to any member, officer, employee or agent of the Board, the exercise of any of the powers or the performance of any of the functions or duties of the Board under this Act or under any other written law.",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "Protection from personal liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) No matter or thing done by a member of the Board or by any officer, member of staff or agent of the Authority shall, if the matter or thing is done bona fide for executing the functions, powers or duties of the Authority, render the member, officer, employee or agent or any person acting on his directions personally liable to any action, claim or demand whatsoever.\n(2) Any expenses incurred by any person in any suit or prosecution brought against him in any court in respect of any act which is done or purported to be done by him under the direction of the Authority, shall, if the court holds that such act was done bona fide, be paid out of the general funds of the Authority, unless such expenses are recovered by him in such suit or prosecution.\n[Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No matter or thing done by a member of the Board or by any officer, member of staff or agent of the Authority shall, if the matter or thing is done bona fide for executing the functions, powers or duties of the Authority, render the member, officer, employee or agent or any person acting on his directions personally liable to any action, claim or demand whatsoever."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any expenses incurred by any person in any suit or prosecution brought against him in any court in respect of any act which is done or purported to be done by him under the direction of the Authority, shall, if the court holds that such act was done bona fide, be paid out of the general funds of the Authority, unless such expenses are recovered by him in such suit or prosecution."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Liability of the Board for damages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "The provisions of section 14 shall not relieve the Authority of the liability to pay compensation or damages to any person for any injury to him, his property or any of his interests caused by the exercise of any power conferred by this Act or by any other written law or by the failure, whether wholly or partially, of any works.\n[Act No. 18 of 2018, Sch.]",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "Liability for damage or loss on application of Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) Any person who suffers damage or loss caused by wrongful seizure, removal or detention of goods alleged to be counterfeit goods pursuant to a complaint laid with the Executive Director in accordance with the provisions of this Act, shall be entitled to claim compensation for the damage or loss suffered by him against the complainant:\nProvided that compensation shall only be paid where the complaint was false, negligent or laid in bad faith.\n(2) The Authority, inspector or person in charge of the relevant counterfeit goods depot shall be liable in respect of a claim mentioned in subsection (1) only if—\n  (a) in the seizure or removal of the alleged counterfeit goods, the inspector, or, in the detention and storage of those goods, the person so in charge, depending on the circumstances, has been grossly negligent; or\n  (b) the inspector or the person so in charge, as the case may be, in the seizure, removal, detention or storage of those goods, acted in bad faith.\n(3) Reference in subsection (2) (a) and (b) to an inspector or to a person in charge of a counterfeit goods depot shall be construed to include any person acting on the instruction or under the supervision of the inspector or the person so in charge, as the case may be.\n(3A) Notwithstanding the provisions of any other written law for the time being in force, no claim under this Act shall be brought against the Authority for any alleged damage to or loss of any goods after the expiry of a period of twelve months from the date of the seizure, removal or detention of the goods, as the case may be.\n(3B) The provisions of Part IV of the Government Proceedings Act shall apply mutatis mutandis to the Agency in relation to any execution of any judgment, decree or order against the Authority issued by any Court or tribunal or any other competent authority.\n(4) There shall be established an Intellectual Property Enforcement and Co-ordination Advisory Committee whose membership shall consist of—\n  (a) the Principal Secretary in the Ministry for the time being responsible for matters relating to trade or a representative who shall be the chairperson; and (b) fourteen other members drawn from various agencies involved in the protection and enforcement of intellectual property rights. [Act No. 18 of 2014, Sch., Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who suffers damage or loss caused by wrongful seizure, removal or detention of goods alleged to be counterfeit goods pursuant to a complaint laid with the Executive Director in accordance with the provisions of this Act, shall be entitled to claim compensation for the damage or loss suffered by him against the complainant:"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority, inspector or person in charge of the relevant counterfeit goods depot shall be liable in respect of a claim mentioned in subsection (1) only if—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Reference in subsection (2) (a) and (b) to an inspector or to a person in charge of a counterfeit goods depot shall be construed to include any person acting on the instruction or under the supervision of the inspector or the person so in charge, as the case may be."
+    },
+    {
+     "ref": "(3A)",
+     "text": "Notwithstanding the provisions of any other written law for the time being in force, no claim under this Act shall be brought against the Authority for any alleged damage to or loss of any goods after the expiry of a period of twelve months from the date of the seizure, removal or detention of the goods, as the case may be."
+    },
+    {
+     "ref": "(3B)",
+     "text": "The provisions of Part IV of the Government Proceedings Act shall apply mutatis mutandis to the Agency in relation to any execution of any judgment, decree or order against the Authority issued by any Court or tribunal or any other competent authority."
+    },
+    {
+     "ref": "(4)",
+     "text": "There shall be established an Intellectual Property Enforcement and Co-ordination Advisory Committee whose membership shall consist of— (a) the Principal Secretary in the Ministry for the time being responsible for matters relating to trade or a representative who shall be the chairperson; and (b) fourteen other members drawn from various agencies involved in the protection and enforcement of intellectual property rights. [Act No. 18 of 2014, Sch., Act No. 18 of 2018, Sch.]"
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Funds of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The funds and assets of the Authority shall comprise of—\n  (a) such moneys as may be appropriated by Parliament for the purposes of the Authority;\n  (b) such moneys or assets as may accrue to or vest in the Authority in the course of the exercise of its powers or the performance of its functions under this Act or under any other written law;\n  (c) such moneys as may be payable to the Authority pursuant to this Act or any other written law;\n  (d) such gifts as may be given to the Authority; and (e) all moneys from any other source provided, donated or lent to the Authority. [Act No. 18 of 2018, Sch.]",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Financial year",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The financial year of the Authority shall be the period of twelve months ending on the thirtieth of June in each year.\n[Act No. 18 of 2018, Sch.]",
+   "clauses": []
+  },
+  "19": {
+   "num": "19",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) At least three months before the commencement of each financial year, the Board shall cause to be prepared estimates of the revenue and expenditure of the Authority for that financial year.\n(2) The annual estimates shall make provision for all estimated expenditure of the Authority for the financial year and in particular, shall provide for—\n  (a) the payment of salaries, allowances and other charges in respect of the officers, agents or members of staff of the Authority;\n  (b) the payment of pensions, gratuities and other charges in respect of retirement benefits payable to the members of staff of the Authority;\n  (c) the maintenance of the buildings and grounds of the Authority;\n  (d) the maintenance, repair and replacement of the equipment and other property of the Authority; and\n  (e) the creation of such reserve funds to meet future or contingent liabilities in respect of retirement benefits, insurance, replacement of buildings or equipment, or in respect of such other matters as the Board may deem appropriate.\n(3) The annual estimates shall be approved by the Board before the commencement of the financial year to which they relate and, once approved, shall be submitted to the Cabinet Secretary for approval and, after the Cabinet Secretary’s approval, the Board shall not increase the annual estimates without the consent of the Cabinet Secretary.\n(4) No expenditure shall be incurred for the purposes of the Authority except in accordance with the annual estimates approved under subsection (3), or in pursuance of an authorisation of the Board given with prior written approval of the Cabinet Secretary, and the Cabinet Secretary for the time being responsible for finance.\n[Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "At least three months before the commencement of each financial year, the Board shall cause to be prepared estimates of the revenue and expenditure of the Authority for that financial year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall make provision for all estimated expenditure of the Authority for the financial year and in particular, shall provide for— (a) the payment of salaries, allowances and other charges in respect of the officers, agents or members of staff of the Authority; (b) the payment of pensions, gratuities and other charges in respect of retirement benefits payable to the members of staff of the Authority; (c) the maintenance of the buildings and grounds of the Authority; (d) the maintenance, repair and replacement of the equipment and other property of the Authority; and"
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual estimates shall be approved by the Board before the commencement of the financial year to which they relate and, once approved, shall be submitted to the Cabinet Secretary for approval and, after the Cabinet Secretary’s approval, the Board shall not increase the annual estimates without the consent of the Cabinet Secretary."
+    },
+    {
+     "ref": "(4)",
+     "text": "No expenditure shall be incurred for the purposes of the Authority except in accordance with the annual estimates approved under subsection (3), or in pursuance of an authorisation of the Board given with prior written approval of the Cabinet Secretary, and the Cabinet Secretary for the time being responsible for finance."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Board shall cause to be kept proper books and records of accounts of the income, expenditure, assets and liabilities of the Authority.\n(2) Within a period of three months after the end of each financial year, the Board shall submit to the Auditor-General the accounts of the Authority in respect of that year together with—\n  (a) a statement of the income and expenditure of the Authority during that financial year; and\n  (b) a statement of the assets and liabilities of the Authority on the last day of that financial year.\n(3) The accounts of the Authority shall be audited and reported upon by the Auditor-General in accordance with the provisions of the Public Audit Act (Cap. 412B).\n[Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall cause to be kept proper books and records of accounts of the income, expenditure, assets and liabilities of the Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within a period of three months after the end of each financial year, the Board shall submit to the Auditor-General the accounts of the Authority in respect of that year together with—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The accounts of the Authority shall be audited and reported upon by the Auditor-General in accordance with the provisions of the Public Audit Act (Cap. 412B)."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Investment of funds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Board may invest any of the funds of the Authority in securities in which the Board may by law invest trust funds, or in any other securities which the Cabinet Secretary for the time being responsible for finance may, from time to time, approve.\n(2) The Board may, subject to the approval of the Cabinet Secretary for the time being responsible for finance, place on deposit with such bank or banks as it may determine, any moneys not immediately required for the purposes of the Authority.\n[Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may invest any of the funds of the Authority in securities in which the Board may by law invest trust funds, or in any other securities which the Cabinet Secretary for the time being responsible for finance may, from time to time, approve."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may, subject to the approval of the Cabinet Secretary for the time being responsible for finance, place on deposit with such bank or banks as it may determine, any moneys not immediately required for the purposes of the Authority."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Appointment of inspectors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INSPECTION",
+   "text": "(1) The Board shall, for purposes of enforcing the provisions of this Act, appoint such number of inspectors as the Board may consider appropriate and shall issue to them, in writing or in such form as may be prescribed, certificates of authority to act as inspectors.\n(2) A person appointed as an inspector under subsection (1) shall—\n  (a) hold office subject to such terms and conditions as the Board may determine;\n  (b) have full police powers in the exercise of their duties under this Act.\n(3) In addition to inspectors appointed under subsection (1), any member of the Board, police officer, authorised customs officer, trade development officer, industrial development officer, trade mark and patent examiner, seed and plant inspector, public health inspector, and inspectors appointed under the Standards Act (Cap. 496), the Weights and Measures Act (Cap. 513), the Copyright Act (Cap. 130), the Food, Drugs and Chemical Substances Act (Cap. 254), the Pharmacy and Poisons Act (Cap. 244) and the Pest Control Products Act (Cap. 346) are hereby designated as inspectors for purposes of this Act.\n(4) The Board may designate other public officers to be inspectors for purposes of this Act.\n(5) The Board may amend or withdraw appointment of inspectors or designated inspectors under this section.\n(6) Appointment of inspectors under this section shall be by notice in the Gazette.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall, for purposes of enforcing the provisions of this Act, appoint such number of inspectors as the Board may consider appropriate and shall issue to them, in writing or in such form as may be prescribed, certificates of authority to act as inspectors."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person appointed as an inspector under subsection (1) shall—"
+    },
+    {
+     "ref": "(3)",
+     "text": "In addition to inspectors appointed under subsection (1), any member of the Board, police officer, authorised customs officer, trade development officer, industrial development officer, trade mark and patent examiner, seed and plant inspector, public health inspector, and inspectors appointed under the Standards Act (Cap. 496), the Weights and Measures Act (Cap. 513), the Copyright Act (Cap. 130), the Food, Drugs and Chemical Substances Act (Cap. 254), the Pharmacy and Poisons Act (Cap. 244) and the Pest Control Products Act (Cap. 346) are hereby designated as inspectors for purposes of this Act."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Board may designate other public officers to be inspectors for purposes of this Act."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Board may amend or withdraw appointment of inspectors or designated inspectors under this section."
+    },
+    {
+     "ref": "(6)",
+     "text": "Appointment of inspectors under this section shall be by notice in the Gazette."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Powers of inspectors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INSPECTION",
+   "text": "(1) An inspector may at any reasonable time—\n  (a) enter upon and inspect any place, premises or vehicle at, on or in which goods that are reasonably suspected of being counterfeit goods are to be found, or on reasonable grounds are suspected to be manufactured, produced or made, and search such place, premises or vehicle and any person found in such place, premises or vehicle, for such goods and for any other evidence of the alleged or suspected act of dealing in counterfeit goods, and for purposes of entering, inspecting and searching such a vehicle, an inspector may stop the vehicle, wherever found, including on any public road or at any other public place;\n  (b) take the steps that may be reasonably necessary to terminate the manufacturing, production or making of counterfeit goods, or any other act of dealing in counterfeit goods being performed, at, on or in such place, premises or vehicle, and to prevent the recurrence of any such act in future:\nProvided that those steps shall not include the destruction or alienation of the relevant goods unless authorized by an order issued by a court of competent jurisdiction;\n  (c) seize detain, and, where applicable, remove for detention, all the goods in question found at, on or in such place, premises or vehicle;\n  (d) seize detain, and, where applicable, remove for detention, any tools which may be used in the manufacturing, production, making or packaging of those goods or applying a trade mark or that exclusive mark on such goods;\n  (e) if he reasonably suspects that a person at, on or in such place, premises or vehicle may furnish any information with reference to any act of dealing in counterfeit goods—\n  (i) question that person and take down a statement from him;\n  (ii) demand and procure from that person any book, document, article, item or object which in any way may be relevant to nature, quantity, location, source or destination of the goods in question, or the identity and address of anyone involved or appears to be involved as a supplier, manufacturer, producer, maker, distributor, wholesaler, retailer, importer, exporter or clearing and forwarding agent of, or other dealer in, the goods in question; and\n  (f) seal or seal off any place, premises or vehicle at, on or in which—\n  (i) the goods in question are found, or are manufactured, produced or made, either wholly or in part;\n  (ii) any trade mark, any exclusive mark or any work which is the subject matter of copyright, is applied to those goods;\n  (iii) the packaging for those goods is prepared; or\n  (iv) the packaging of those goods is undertaken.\n(2) Nothing in this section shall be construed as requiring a person to answer any question or give any information if to do so might incriminate him.\n(3) An inspector may arrest, without a warrant, any person whom he suspects upon reasonable grounds of having committed any offence under this Act and may search and detain such a person:\nProvided that no person shall be arrested under this section unless he obstructs or hinders the inspector or refuses to give his name and address to the inspector or to produce to him satisfactory evidence of his identity, or gives a name and address which the inspector has reason to believe to be false or it appears to the inspector that such a person may not be found or made answerable to justice without unreasonable delay, trouble or expense.\n(4) An inspector shall have the power to investigate any offence related or connected to counterfeiting notwithstanding that such an offence is not expressed as such under the provisions of this Act.\n(5) An inspector shall have the same powers as are exercised by a customs officer with regard to importation of counterfeit goods under the East African Community Customs Management Act, 2004.\n(6) If a magistrate, on sworn information in writing—\n  (a) is satisfied that there is reasonable ground to believe either—\n  (i) that any goods, books or documents which an inspector has power under this section to inspect are on any premises and that their inspection is likely to disclose evidence of commission of an offence under this Act; or\n  (ii) that any offence under this Act has been, is being, or is about to be committed on any premises; and\n  (b) is also satisfied either—\n  (i) that admission to the premises has been or is likely to be refused and that notice of intention to apply for a warrant under this section has been given to the occupier; or\n  (ii) that an application for admission, or the giving of such a notice, would defeat the object of the entry, or that the premises are unoccupied, or that the occupier is temporarily absent and it might defeat the object of the entry to await his return, the magistrate may by warrant under his hand, which shall continue in force for a period of one month, authorize an inspector to enter the premises, if need be by force.\n(7) An inspector entering any premises by virtue of this section may take with him such other persons and such equipment as may appear to him to be necessary; and on leaving any premises which he has so entered by virtue of a warrant he shall, if the premises are unoccupied or the occupier is temporarily absent, leave them as effectively secured against trespassers as he found them.\n[Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An inspector may at any reasonable time—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Nothing in this section shall be construed as requiring a person to answer any question or give any information if to do so might incriminate him."
+    },
+    {
+     "ref": "(3)",
+     "text": "An inspector may arrest, without a warrant, any person whom he suspects upon reasonable grounds of having committed any offence under this Act and may search and detain such a person:"
+    },
+    {
+     "ref": "(4)",
+     "text": "An inspector shall have the power to investigate any offence related or connected to counterfeiting notwithstanding that such an offence is not expressed as such under the provisions of this Act."
+    },
+    {
+     "ref": "(5)",
+     "text": "An inspector shall have the same powers as are exercised by a customs officer with regard to importation of counterfeit goods under the East African Community Customs Management Act, 2004."
+    },
+    {
+     "ref": "(6)",
+     "text": "If a magistrate, on sworn information in writing—"
+    },
+    {
+     "ref": "(7)",
+     "text": "An inspector entering any premises by virtue of this section may take with him such other persons and such equipment as may appear to him to be necessary; and on leaving any premises which he has so entered by virtue of a warrant he shall, if the premises are unoccupied or the occupier is temporarily absent, leave them as effectively secured against trespassers as he found them."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Obstruction and breaking of seal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INSPECTION",
+   "text": "(1) A person who—\n  (a) wilfully obstructs an inspector in the discharge of his duties;\n  (b) wilfully fails to comply with any requirement properly made to him by an inspector;\n  (c) without reasonable cause, fails to give to an inspector any assistance or information which the inspector may reasonably require of that person for the purpose of the performance of his duties under this Act; or\n  (d) in giving any such information as is mentioned in paragraph (c), makes any statement which he knows to be false or does not believe to be true, commits an offence.\n(2) A person who, without authority—\n  (a) breaks, damages or tampers with a seal applied by an inspector under this Act; or\n  (b) removes any goods, documents, articles, items, objects or things sealed or sealed-off by an inspector or detained or stored at a counterfeit goods depot under this Act, commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who, without authority—"
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Duty of inspector upon seizure of goods",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INSPECTION",
+   "text": "(1) An inspector who has seized any suspected counterfeit goods in accordance with section 23 shall—\n  (a) forthwith seal, clearly identify and categorize the goods and prepare, in quadruplicate, an inventory of such goods in the prescribed form and cause the person from whom the goods are seized to check the inventory for correctness, and, if correct, cause that person to make a certificate under his signature on each copy of the inventory and if the seized goods are removed under paragraph (c), the inspector shall endorse that fact under his signature on every copy of the inventory, in which case the inventory shall also serve as a receipt;\n  (b) furnish one copy of the inventory to the person from whom the goods are seized and another to the complainant, if any, within five working days after the seizure;\n  (c) as soon as possible, remove the goods, if transportable, to a counterfeit goods depot for safe storage, or, if not capable of being removed or transported, declare the goods to have been seized in situ, and seal off or seal and lock up the goods or place them under guard at the place where they were found, and thereupon that place shall be deemed to be a counterfeit goods depot; and\n  (d) by written notice, inform the following persons of the action taken by the inspector under section 23(1) and of the address of the counterfeit goods depot where the seized goods are kept—\n  (i) the person from whom those goods are seized; and\n  (ii) either the complainant, where the inspector exercised his powers pursuant to a complaint laid in accordance with section 33(1); or\n  (iii) the person who, in relation to those goods, qualifies under section 33(1) to be a complainant, but who had not yet so laid a complaint at the time when the inspector exercised those powers on his own initiative in accordance with section 33(4).\n(2) An inspector may require a complainant to disclose any additional information, which may be relevant to the action that has been taken.\n(3) Any person aggrieved by a seizure of goods under section 23 may, at any time, apply to a court of competent jurisdiction for a determination that the seized goods are not counterfeit goods and for an order that they be returned to him.\n(4) The court may grant or refuse the relief applied for under subsection (3) and make such order as it deems fit in the circumstances, including an order as to the payment of damages and costs.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An inspector who has seized any suspected counterfeit goods in accordance with section 23 shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "An inspector may require a complainant to disclose any additional information, which may be relevant to the action that has been taken."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person aggrieved by a seizure of goods under section 23 may, at any time, apply to a court of competent jurisdiction for a determination that the seized goods are not counterfeit goods and for an order that they be returned to him."
+    },
+    {
+     "ref": "(4)",
+     "text": "The court may grant or refuse the relief applied for under subsection (3) and make such order as it deems fit in the circumstances, including an order as to the payment of damages and costs."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Evidence and presumptions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INSPECTION",
+   "text": "(1) Copies of any statement taken down or other documentary evidence procured by an inspector in the course of exercising his powers under this Act, may be made available to a complainant upon an application in the prescribed manner.\n(2) In any civil proceedings concerning an act of dealing in counterfeit goods by any person, it shall be permissible to present evidence about that person’s conviction or convictions on account of an offence or offences founded on acts of dealing in counterfeit goods.\n(3) A statement made by an inspector to the effect that the goods specified in the inventory attached to that statement are goods seized by him from a specified person at a specified place and on a specified date shall be prima facie evidence of the facts stated therein concerning the counterfeit goods or any act of dealing therein.\n(4) Where the subsistence of an intellectual property right in respect of protected goods or any person’s title to or interest in such intellectual property right is in issue in any civil or criminal proceedings concerning counterfeit goods, the substance of, title to or interest in such intellectual property right, where it is alleged to encompass the rights in respect of industrial property as contemplated in the definition of \"intellectual property right\" in this Act, may be proved in accordance with the provisions of the various industrial property legislation.\n(5) Where the subsistence of intellectual property right in respect of suspected counterfeit goods or the title or interest in intellectual property right is in issue, the complainant shall be presumed to be the owner of the copyright or the related right or, as the case maybe, the exclusive licensee of any such right, until the contrary is proved.\n(6) Where a name or mark purporting to be that of the author of a work or the owner of copyright or related rights is either associated with copies of a work or other protected subject matter, or its related packaging, or appears in connection with a work or other protected subject matter, this shall be admissible as evidence of the fact indicated and such evidence shall be presumed to be correct, until the contrary is proved.\n(7) Subsections (4), (5) and (6) shall not be construed so as to detract from the power of a court, in relation to any such matter or any aspect thereof—\n  (a) to require oral evidence to be given;\n  (b) to order that the evidence of a person who resides or is for the time being outside the area of jurisdiction of the court, be taken by means of interrogatories.\n(8) Where any person who trades in protected goods featuring, bearing, incorporating or embodying the subject matter of particular intellectual property right is proved to have been found in possession of suspected counterfeit goods to which the subject matter of the same intellectual property right has been applied, it shall, in any civil or criminal proceedings concerning an act of dealing in counterfeit goods found in his possession, be presumed, until the contrary is proved, that such person was in possession of the goods for the purpose of trade if the quantity of those goods is more than that which, in the circumstances, reasonably may be required for his private and domestic use.\n(9) In any criminal or civil proceedings concerning an act of dealing in counterfeit goods, the evidence of any person in the employment of the intellectual property rights holder or its agent with demonstrable training offered by such intellectual property rights holder or experience in the identification of the intellectual property rights holder's products shall be admissible as expert evidence.\n[Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Copies of any statement taken down or other documentary evidence procured by an inspector in the course of exercising his powers under this Act, may be made available to a complainant upon an application in the prescribed manner."
+    },
+    {
+     "ref": "(2)",
+     "text": "In any civil proceedings concerning an act of dealing in counterfeit goods by any person, it shall be permissible to present evidence about that person’s conviction or convictions on account of an offence or offences founded on acts of dealing in counterfeit goods."
+    },
+    {
+     "ref": "(3)",
+     "text": "A statement made by an inspector to the effect that the goods specified in the inventory attached to that statement are goods seized by him from a specified person at a specified place and on a specified date shall be prima facie evidence of the facts stated therein concerning the counterfeit goods or any act of dealing therein."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where the subsistence of an intellectual property right in respect of protected goods or any person’s title to or interest in such intellectual property right is in issue in any civil or criminal proceedings concerning counterfeit goods, the substance of, title to or interest in such intellectual property right, where it is alleged to encompass the rights in respect of industrial property as contemplated in the definition of \"intellectual property right\" in this Act, may be proved in accordance with the provisions of the various industrial property legislation."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where the subsistence of intellectual property right in respect of suspected counterfeit goods or the title or interest in intellectual property right is in issue, the complainant shall be presumed to be the owner of the copyright or the related right or, as the case maybe, the exclusive licensee of any such right, until the contrary is proved."
+    },
+    {
+     "ref": "(6)",
+     "text": "Where a name or mark purporting to be that of the author of a work or the owner of copyright or related rights is either associated with copies of a work or other protected subject matter, or its related packaging, or appears in connection with a work or other protected subject matter, this shall be admissible as evidence of the fact indicated and such evidence shall be presumed to be correct, until the contrary is proved."
+    },
+    {
+     "ref": "(7)",
+     "text": "Subsections (4), (5) and (6) shall not be construed so as to detract from the power of a court, in relation to any such matter or any aspect thereof—"
+    },
+    {
+     "ref": "(8)",
+     "text": "Where any person who trades in protected goods featuring, bearing, incorporating or embodying the subject matter of particular intellectual property right is proved to have been found in possession of suspected counterfeit goods to which the subject matter of the same intellectual property right has been applied, it shall, in any civil or criminal proceedings concerning an act of dealing in counterfeit goods found in his possession, be presumed, until the contrary is proved, that such person was in possession of the goods for the purpose of trade if the quantity of those goods is more than that which, in the circumstances, reasonably may be required for his private and domestic use."
+    },
+    {
+     "ref": "(9)",
+     "text": "In any criminal or civil proceedings concerning an act of dealing in counterfeit goods, the evidence of any person in the employment of the intellectual property rights holder or its agent with demonstrable training offered by such intellectual property rights holder or experience in the identification of the intellectual property rights holder's products shall be admissible as expert evidence."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Storage and access to seized goods",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INSPECTION",
+   "text": "(1) Goods that have been seized under section 23(1) shall be stored and kept in safe custody at a counterfeit goods depot until the person in charge of the depot—\n  (a) is ordered by a court to return, release, destroy or otherwise dispose of those goods as specified in the order:\nProvided that in the case of counterfeit goods, such goods shall be destroyed at the expense of the local manufacturer or importer, as the case may be, based on the environmental considerations and the capacity of the country to destroy the goods, or shall be reshipped;\n  (b) is directed by an inspector under section 28 to release the goods to the person from whom they were seized.\n(2) Upon an application in the prescribed manner, goods seized under section 23(1) shall, within five working days, be made available for inspection by the complainant or prospective complainant, if any, the suspect or any other interested person, at the counterfeit goods depot at any reasonable time.\n(3) Upon an application in the prescribed manner, the Executive Director may make a sample of the seized goods available within a period of five working days to the applicant for testing or analysis.\n(4) An inspector may take, in the prescribed manner, samples of goods in reasonable quantities for testing or analysis.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Goods that have been seized under section 23(1) shall be stored and kept in safe custody at a counterfeit goods depot until the person in charge of the depot—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Upon an application in the prescribed manner, goods seized under section 23(1) shall, within five working days, be made available for inspection by the complainant or prospective complainant, if any, the suspect or any other interested person, at the counterfeit goods depot at any reasonable time."
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon an application in the prescribed manner, the Executive Director may make a sample of the seized goods available within a period of five working days to the applicant for testing or analysis."
+    },
+    {
+     "ref": "(4)",
+     "text": "An inspector may take, in the prescribed manner, samples of goods in reasonable quantities for testing or analysis."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Release of seized goods",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INSPECTION",
+   "text": "(1) Where any goods are seized and detained under section 23, they shall be returned, less any portion thereof which has been reasonably utilized for the purpose of any test or analysis, to the person from whom they were seized within a period of three months after the date of seizure unless, within such period, some person is charged with an offence under this Act and it is alleged that such offence was committed in relation to or in connection with such goods.\n(2) Where a prosecution for an offence under this Act is commenced within the period mentioned in subsection (1), and any person is convicted of that offence, the court which made the conviction may order that any goods seized and detained in relation to or in connection with which such offence was committed shall be forfeited to the Government for destruction at the expense of the person so convicted.\n(3) The court before which a person is charged with an offence under this Act shall, whether such person is convicted of the offence or not, order that any goods in his possession which appear to the court to be counterfeit goods or to be tools used or intended to be used for making counterfeit goods, be destroyed or otherwise dealt with as the court may deem appropriate.\n(4) Where a person charged with an offence under this Act absconds and does not appear in court or where counterfeit goods are seized but are not claimed, an inspector may apply to have the counterfeit goods forfeited to the State for destruction.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where any goods are seized and detained under section 23, they shall be returned, less any portion thereof which has been reasonably utilized for the purpose of any test or analysis, to the person from whom they were seized within a period of three months after the date of seizure unless, within such period, some person is charged with an offence under this Act and it is alleged that such offence was committed in relation to or in connection with such goods."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a prosecution for an offence under this Act is commenced within the period mentioned in subsection (1), and any person is convicted of that offence, the court which made the conviction may order that any goods seized and detained in relation to or in connection with which such offence was committed shall be forfeited to the Government for destruction at the expense of the person so convicted."
+    },
+    {
+     "ref": "(3)",
+     "text": "The court before which a person is charged with an offence under this Act shall, whether such person is convicted of the offence or not, order that any goods in his possession which appear to the court to be counterfeit goods or to be tools used or intended to be used for making counterfeit goods, be destroyed or otherwise dealt with as the court may deem appropriate."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where a person charged with an offence under this Act absconds and does not appear in court or where counterfeit goods are seized but are not claimed, an inspector may apply to have the counterfeit goods forfeited to the State for destruction."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Counterfeit goods depot",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INSPECTION",
+   "text": "(1) The Board may, by notice in the Gazette, designate any place to be a counterfeit goods depot for the purposes of this Act.\n(2) The Board shall appoint a fit and proper person to be in charge of a counterfeit goods depot.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may, by notice in the Gazette, designate any place to be a counterfeit goods depot for the purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall appoint a fit and proper person to be in charge of a counterfeit goods depot."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Conduct of prosecutions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INSPECTION",
+   "text": "(1) The Director of Public Prosecutions may, pursuant to the provisions of the Criminal Procedure Code (Cap. 75), appoint public prosecutors for purposes of cases arising under this Act.\n(2) The Board shall, for purposes of section 171(4) of the Criminal Procedure Code (Cap. 75), be deemed to be a public authority.\n[Act No. 12 of 2012, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Director of Public Prosecutions may, pursuant to the provisions of the Criminal Procedure Code (Cap. 75), appoint public prosecutors for purposes of cases arising under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall, for purposes of section 171(4) of the Criminal Procedure Code (Cap. 75), be deemed to be a public authority."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Disclosure of information and impersonation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "INSPECTION",
+   "text": "(1) If any person discloses to any other person—\n  (a) any information with respect to any manufacturing process or trade secret obtained by him in premises which he has entered by virtue of powers of entry conferred on him under this Act; or (b) any information obtained by him in the performance of functions under this Act, such person commits an offence unless the disclosure was made in, or for the purpose of, the performance by him or any other person of the functions under this Act. (2) If any person who is not an inspector purports to act as such, such person commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If any person discloses to any other person— (a) any information with respect to any manufacturing process or trade secret obtained by him in premises which he has entered by virtue of powers of entry conferred on him under this Act; or (b) any information obtained by him in the performance of functions under this Act, such person commits an offence unless the disclosure was made in, or for the purpose of, the performance by him or any other person of the functions under this Act. (2) If any person who is not an inspector purports to act as such, such person commits an offence."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Offences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COUNTERFEIT GOODS",
+   "text": "It shall be an offence for any person to—\n  (a) have in his possession or control in the course of trade, any counterfeit goods;\n  (b) manufacture, produce or make in the course of trade, any counterfeit goods;\n  (c) sell, hire out, barter or exchange, or offer or expose for sale, hiring out, barter or exchange any counterfeit goods;\n  (d) expose or exhibit for the purposes of trade any counterfeit goods;\n  (e) distribute counterfeit goods for purposes of trade or any other purpose;\n  (f) import into, transit through, transship within or export from Kenya, except for private and domestic use of the importer or exporter as the case may be, any counterfeit goods;\n  (g) in any other manner, dispose of any counterfeit goods in the course of trade;\n  (h) have in his possession or control in the course of trade any labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hand tags, documentations, or packaging of any type or nature, with a counterfeit mark applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive;\n  (i) aids or abets or conspires in the commission of any offence under this Act;\n  (j) import into Kenya, any goods or items bearing a trade mark, trade name or copyright that has not been recorded with the Agency;\n  (k) import into Kenya, in the course of trade, any goods or items except raw materials that is unbranded;\n  (l) fail to declare the quantity or the intellectual property right subsisting in any goods being imported into the Kenya;\n  (m) falsely declare the quantity or the intellectual property rights subsisting in any goods being imported into Kenya; or (n) import into or transit through Kenya any labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hand tags, documentations, or packaging of any type or nature, with a counterfeit mark applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive. [Act No. 18 of 2018, Sch.]",
+   "clauses": []
+  },
+  "33": {
+   "num": "33",
+   "title": "Laying a complaint",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COUNTERFEIT GOODS",
+   "text": "(1) Any holder of an intellectual property right, his successor in title, licensee or agent may, in respect of any protected goods, where he has reasonable cause to suspect that an offence under section 32 has been or is being committed, or is likely to be committed, by any person, lay a complaint with the Executive Director.\n(2) The complainant shall furnish, to the satisfaction of the Executive Director, such information and particulars, as may be prescribed, to the effect that the goods with reference to which that offence has allegedly been, or is being, or is likely to be, committed, prima facie are counterfeit goods.\n(3) Where the Executive Director is reasonably satisfied—\n  (a) that the complainant is a person entitled to lay a complaint under subsection (1); and\n  (b) that—\n  (i) the goods claimed to be protected goods, prima facie are protected goods; and\n  (ii) the intellectual property right, the subject matter of which is alleged to have been applied to the offending goods, prima facie subsists; and\n  (c) that the suspicion on which the complaint is based appears to be reasonable in the circumstances, the Executive Director shall cause appropriate steps to be taken in accordance with section 23(1).\n(4) The preceding provisions of this section shall not preclude an inspector from taking any appropriate steps on his own initiative including receiving and acting on consumer complaints in relation to any act or conduct believed or suspected to be an act of dealing in counterfeit goods, provided the provisions of this Act are complied with.\n(5) Nothing in this section shall preclude the Executive Director from causing appropriate steps to be taken in accordance with section 23(1) in the event of an infringement of an intellectual property right for which no complaint has been lodged by the holder thereof in accordance with subsection (1) of this section.\n(6) Notwithstanding the provision of subsections (1) and (2) of this section, a consumer or purchaser of goods may, where he has reasonable cause to suspect that an offence under this Act has been committed, is being committed or is likely to be committed by any person, lay a complaint with the Executive Director who shall cause appropriate steps to be taken in accordance with the provisions of this Act.\n[Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any holder of an intellectual property right, his successor in title, licensee or agent may, in respect of any protected goods, where he has reasonable cause to suspect that an offence under section 32 has been or is being committed, or is likely to be committed, by any person, lay a complaint with the Executive Director."
+    },
+    {
+     "ref": "(2)",
+     "text": "The complainant shall furnish, to the satisfaction of the Executive Director, such information and particulars, as may be prescribed, to the effect that the goods with reference to which that offence has allegedly been, or is being, or is likely to be, committed, prima facie are counterfeit goods."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the Executive Director is reasonably satisfied—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The preceding provisions of this section shall not preclude an inspector from taking any appropriate steps on his own initiative including receiving and acting on consumer complaints in relation to any act or conduct believed or suspected to be an act of dealing in counterfeit goods, provided the provisions of this Act are complied with."
+    },
+    {
+     "ref": "(5)",
+     "text": "Nothing in this section shall preclude the Executive Director from causing appropriate steps to be taken in accordance with section 23(1) in the event of an infringement of an intellectual property right for which no complaint has been lodged by the holder thereof in accordance with subsection (1) of this section."
+    },
+    {
+     "ref": "(6)",
+     "text": "Notwithstanding the provision of subsections (1) and (2) of this section, a consumer or purchaser of goods may, where he has reasonable cause to suspect that an offence under this Act has been committed, is being committed or is likely to be committed by any person, lay a complaint with the Executive Director who shall cause appropriate steps to be taken in accordance with the provisions of this Act."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Powers of the Commissioner or Executive Director",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COUNTERFEIT GOODS",
+   "text": "(1) The owner of an intellectual property right, who has valid grounds for suspecting that the importation of counterfeit goods may take place, may apply to the Commissioner or Executive Director in the prescribed manner to seize and detain all suspected counterfeit goods which are—\n  (a) goods featuring, bearing, embodying or incorporating the subject matter of that intellectual property right or to which the subject matter of that right has been applied; and\n  (b) imported into or enter Kenya during the period specified in the application:\nProvided that the period may not extend beyond the last day of the period for which that intellectual property right subsists.\n(2) For purposes of subsection (1), the applicant may furnish to the Commissioner or Executive Director—\n  (a) a specimen of the goods to which the subject matter of his relevant intellectual property right relates;\n  (b) sufficient information and particulars as to—\n  (i) the subsistence and extent of that intellectual property right; and\n  (ii) his title to that right.\n(3) The Commissioner or Executive Director shall consider and deal with an application under subsection (1) within three working days and may grant the application if satisfied on reasonable grounds that—\n  (a) the goods claimed to be protected are prima facie protected goods;\n  (b) the intellectual property right, the subject matter of which relates to the protected goods, prima facie subsists; and\n  (c) the applicant prima facie is the owner of that intellectual property right.\n(4) When an application made under subsection (1) has been granted and notice thereof given under subsection (5), the counterfeit goods of the type with reference to which that application was made (hereafter called the stipulated goods), or suspected on reasonable grounds to be stipulated goods, and imported into or entering Kenya from time to time during the period determined by the Commissioner or Executive Director, which may be shorter than the period applied for, may be seized and detained by the customs authorities in accordance with the East African Community Customs Management Act, 2004 subject to subsections (6) and (7).\n(5) The Commissioner or Executive Director shall, by notice in writing, inform the applicant whether the application has been granted or not, and—\n  (a) if granted, state the period during which any stipulated goods being imported into or entering Kenya will be made subject to seizure and become subject to detention under subsection (4);\n  (b) if not granted, state the reasons for refusal to be granted.\n(6) For purposes of acting under subsection (4) in relation to goods that are stipulated goods or suspected on reasonable grounds to be stipulated goods—\n  (a) an authorized customs officer or Inspector shall seize the counterfeit goods or alleged or suspected counterfeit goods, in accordance with subsection (1) or (4);\n  (b) the following provisions will apply mutatis mutandis in relation to an authorized customs officer or Inspector—\n  (i) the provisions in accordance with or subject to which the powers contemplated in section 33(4) may be exercised by an inspector so acting on his own initiative;\n  (ii) the provisions by which any other power or any right, function, duty, obligation, exemption, indemnity or liability is conferred or imposed on an inspector so acting:\nProvided that the Cabinet Secretary, at the request of the Cabinet Secretary for the time being responsible for finance acting on the recommendation of the Commissioner or Executive Director, may, by notice in the Gazette, exempt an authorized customs officer from any of the provisions made applicable by this paragraph if satisfied that there are suitable and appropriate alternative arrangements made by or under the Customs Management Act, 2005 that cover the purpose of the provision from which exemption is sought.\n(7) Any person who suffers damage or loss caused by wrongful seizure, removal or detention of goods alleged to be counterfeit goods pursuant to an application made to the Commissioner or Executive Director shall be entitled to claim compensation for the damage or loss suffered by him against the applicant:\nProvided that compensation shall only be paid where the application for seizure and detention was false or negligent or made in bad faith.\n(8) The provisions of this Act or the Authority shall not be construed so as to render the customs authority or any of its staff or agents liable for—\n  (a) any failure to detect or seize stipulated goods;\n  (b) the inadvertent release of any such goods; or\n  (c) any action taken in good faith in respect of such goods.\n(9) For purposes of this section, \"customs authority\" means the Kenya Revenue Authority established under the Kenya Revenue Authority Act (Cap. 469) or the Authority.\n[Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The owner of an intellectual property right, who has valid grounds for suspecting that the importation of counterfeit goods may take place, may apply to the Commissioner or Executive Director in the prescribed manner to seize and detain all suspected counterfeit goods which are—"
+    },
+    {
+     "ref": "(2)",
+     "text": "For purposes of subsection (1), the applicant may furnish to the Commissioner or Executive Director—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Commissioner or Executive Director shall consider and deal with an application under subsection (1) within three working days and may grant the application if satisfied on reasonable grounds that—"
+    },
+    {
+     "ref": "(4)",
+     "text": "When an application made under subsection (1) has been granted and notice thereof given under subsection (5), the counterfeit goods of the type with reference to which that application was made (hereafter called the stipulated goods), or suspected on reasonable grounds to be stipulated goods, and imported into or entering Kenya from time to time during the period determined by the Commissioner or Executive Director, which may be shorter than the period applied for, may be seized and detained by the customs authorities in accordance with the East African Community Customs Management Act, 2004 subject to subsections (6) and (7)."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Commissioner or Executive Director shall, by notice in writing, inform the applicant whether the application has been granted or not, and—"
+    },
+    {
+     "ref": "(6)",
+     "text": "For purposes of acting under subsection (4) in relation to goods that are stipulated goods or suspected on reasonable grounds to be stipulated goods—"
+    },
+    {
+     "ref": "(7)",
+     "text": "Any person who suffers damage or loss caused by wrongful seizure, removal or detention of goods alleged to be counterfeit goods pursuant to an application made to the Commissioner or Executive Director shall be entitled to claim compensation for the damage or loss suffered by him against the applicant:"
+    },
+    {
+     "ref": "(8)",
+     "text": "The provisions of this Act or the Authority shall not be construed so as to render the customs authority or any of its staff or agents liable for—"
+    },
+    {
+     "ref": "(9)",
+     "text": "For purposes of this section, \"customs authority\" means the Kenya Revenue Authority established under the Kenya Revenue Authority Act (Cap. 469) or the Authority."
+    }
+   ]
+  },
+  "34A": {
+   "num": "34A",
+   "title": "Compounding of offences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COUNTERFEIT GOODS",
+   "text": "(1) Subject to subsection (2), the Executive Director may, where satisfied that any person has committed an offence under this Act in respect of which a fine is provided for or in respect of which anything is liable to forfeiture, order such person to pay a sum of money, not exceeding the amount of the fine to which the person would have been liable if he or she had been prosecuted and convicted for the offence, as he may deem fit, and the Executive Director may order anything liable to forfeiture in connection with the offence to be forfeited.\n(2) The Executive Director shall not exercise the powers conferred under subsection (1) unless the person admits in the prescribed form that he or she has committed the offence and requests the Executive Director to deal with such offence under this section.\n(3) Where the Executive Director makes any order under this section—\n  (a) the order shall be in writing and shall have attached to it the request of the person to the Executive Director to deal with the matter;\n  (b) the order shall specify the offence which the person committed and the penalty imposed by the Executive Director;\n  (c) a copy of the order shall be given to the person if the person so requests;\n  (d) the person against whom an order is issued under this section shall not be liable to any further prosecution in respect of the offence, and where any prosecution is subsequently brought in respect thereof, it shall be a defence for the person to prove that the offence which he or she is charged with has been compounded under this section; and\n  (e) the order shall be final, and may be enforced in the same manner as a decree or order of the High Court.\n[Act No. 18 of 2014, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2), the Executive Director may, where satisfied that any person has committed an offence under this Act in respect of which a fine is provided for or in respect of which anything is liable to forfeiture, order such person to pay a sum of money, not exceeding the amount of the fine to which the person would have been liable if he or she had been prosecuted and convicted for the offence, as he may deem fit, and the Executive Director may order anything liable to forfeiture in connection with the offence to be forfeited."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Executive Director shall not exercise the powers conferred under subsection (1) unless the person admits in the prescribed form that he or she has committed the offence and requests the Executive Director to deal with such offence under this section."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the Executive Director makes any order under this section—"
+    }
+   ]
+  },
+  "34B": {
+   "num": "34B",
+   "title": "Trademark",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COUNTERFEIT GOODS",
+   "text": "(1) Trademarks relating to goods to be imported into Kenya, irrespective of the place of registration, shall be recorded with the Agency, in the prescribed manner if the registration is current.\n(2) Applicants for recordation of trademarks shall be notified of the approval or denial of an application filed under this section in a prescribed manner by notice in the Anti-Counterfeit newsletter published by the Agency.\n(3) An application to record one or more trademarks shall be in writing in the prescribed manner and addressed to the Agency and shall include the following information—\n  (a) the name, complete business address, and citizenship of the trademark owner or owners (if a partnership, the citizenship of each partner; if an association or corporation the State, country, or other political jurisdiction within which it was organized, incorporated, or created);\n  (b) the places of manufacture of goods bearing the recorded trademark;\n  (c) sample of the trademarked goods or a sufficient digital photographic representation of the trademarked goods with appropriate details for identification and differentiation from any counterfeits;\n  (d) the name and principal business address of each foreign person or business entity authorized or licensed to use the trademark and a statement as to the use authorized; and\n  (e) the identity of any parent or subsidiary company or other foreign company under common ownership or control which uses the trademark abroad.\n(4) The application shall be accompanied by—\n  (a) a status copy of the certificate of registration certified by the registering authority showing title to be presently in the name of the Applicant;\n  (b) the application shall be accompanied by a fee set out in the Second Schedule to the Act:\nProvided that if the trademark is registered for more than one class of goods, the fee for recordation shall be for each class.\n(5) The recordation of the trademark and protection thereunder shall be effective on the date an application for recordation is approved.\n(6) The recordation of a trademark shall remain in force for a period of one year from the date of approval of the application for recordation or the current registration period of the trademark, whichever is shorter.\n(7) Recordation of a trademark shall be cancelled if the trademark registration is finally cancelled or revoked.\n(8) If there is change in ownership of a recorded trademark and the new owner wishes to continue the recordation with the Agency, the new owner shall apply immediately by—\n  (a) complying with subsection (4) hereinabove;\n  (b) describing any time limit on the rights of ownership transferred;\n  (c) submitting a status copy of the certificate of registration certified by the registering authority showing title to be presently in the name of the new owner; and\n  (d) paying a fee as prescribed in the Second Schedule to the Act.\n(9) If there is a change in the name of the owner of a recorded trademark, but no change in ownership, written notice thereof shall be given to the Agency accompanied by—\n  (a) a status copy of the certificate of registration certified by the registering authority showing title to be presently in the name as changed; and\n  (b) a fee as prescribed in the Second Schedule to the Act.\n(10) The owner of a recorded trademark shall submit a written application in the prescribed manner to the Agency not later than 30 days to the expiration of the current recordation.\n(11) An application for renewal of recordation shall be accompanied by—\n  (a) a status copy of the certificate of registration certified by the registering authority showing the title to be in the name of the applicant; and\n  (b) a statement describing any change of ownership or in the name of the owner and any change of addresses of the owners and places of manufacture;\n  (c) a fee as prescribed in the second schedule to the Act.\n(12) The provisions of this Section shall apply to the recordation of copyrights, trade names or any other form of intellectual property rights mutatis mutandis.\n(13) The Agency shall after satisfying itself that imported goods have complied with the provisions of this section issue to the importer of goods a certification mark in the form of an anti-counterfeit security device at a fee to be set out in the Second Schedule to the Act.\n(14) The Agency shall have the power to seize and destroy any goods originally imported into Kenya but found within Kenya that do not bear the anti-counterfeit security device.\n[Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Trademarks relating to goods to be imported into Kenya, irrespective of the place of registration, shall be recorded with the Agency, in the prescribed manner if the registration is current."
+    },
+    {
+     "ref": "(2)",
+     "text": "Applicants for recordation of trademarks shall be notified of the approval or denial of an application filed under this section in a prescribed manner by notice in the Anti-Counterfeit newsletter published by the Agency."
+    },
+    {
+     "ref": "(3)",
+     "text": "An application to record one or more trademarks shall be in writing in the prescribed manner and addressed to the Agency and shall include the following information—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The application shall be accompanied by—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The recordation of the trademark and protection thereunder shall be effective on the date an application for recordation is approved."
+    },
+    {
+     "ref": "(6)",
+     "text": "The recordation of a trademark shall remain in force for a period of one year from the date of approval of the application for recordation or the current registration period of the trademark, whichever is shorter."
+    },
+    {
+     "ref": "(7)",
+     "text": "Recordation of a trademark shall be cancelled if the trademark registration is finally cancelled or revoked."
+    },
+    {
+     "ref": "(8)",
+     "text": "If there is change in ownership of a recorded trademark and the new owner wishes to continue the recordation with the Agency, the new owner shall apply immediately by—"
+    },
+    {
+     "ref": "(9)",
+     "text": "If there is a change in the name of the owner of a recorded trademark, but no change in ownership, written notice thereof shall be given to the Agency accompanied by—"
+    },
+    {
+     "ref": "(10)",
+     "text": "The owner of a recorded trademark shall submit a written application in the prescribed manner to the Agency not later than 30 days to the expiration of the current recordation."
+    },
+    {
+     "ref": "(11)",
+     "text": "An application for renewal of recordation shall be accompanied by—"
+    },
+    {
+     "ref": "(12)",
+     "text": "The provisions of this Section shall apply to the recordation of copyrights, trade names or any other form of intellectual property rights mutatis mutandis."
+    },
+    {
+     "ref": "(13)",
+     "text": "The Agency shall after satisfying itself that imported goods have complied with the provisions of this section issue to the importer of goods a certification mark in the form of an anti-counterfeit security device at a fee to be set out in the Second Schedule to the Act."
+    },
+    {
+     "ref": "(14)",
+     "text": "The Agency shall have the power to seize and destroy any goods originally imported into Kenya but found within Kenya that do not bear the anti-counterfeit security device."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Penalties",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) A person convicted of an offence under section 32, shall be liable—\n  (a) in the case of a first conviction, to imprisonment for a term not exceeding five years, or to a fine, in respect of each article or item involved in the particular act of dealing in counterfeit goods to which the offence relates, not less than three times the value of the prevailing retail price of the goods, or both;\n  (b) in the case of a second or any subsequent conviction, to imprisonment for a term not exceeding fifteen years, or to a fine, not less than five times the value of the prevailing retail price of the goods, or both.\n(2) A person convicted of an offence under section 24 or 31, shall be liable to imprisonment for a term not exceeding three years, or a fine not exceeding two million shillings, or both.\n(3) A court that has convicted a person of an offence under section 32—\n  (a) shall, when considering which penalty to impose, take into account, inter alia, any risk to human or animal life, health or safety or danger to property, whether movable or immovable, that may arise from the presence or use of the counterfeit goods in question;\n  (b) may take into account, in mitigation of sentence, any evidence to the effect that such person had fully, truthfully and to the best of his ability disclosed to an inspector who investigated that offence, all information and particulars available to that person in relation to any or all of the following—\n  (i) the source from which the counterfeit goods involved in the commission of the offence, were obtained;\n  (ii) the identity of the persons involved in the importation, exportation, manufacture, production or making of those counterfeit goods;\n  (iii) the identity and, if reasonably demanded, the addresses or whereabouts of the persons involved in the distribution of those goods;\n  (iv) the channels for the distribution of those goods.\n(4) Where an offence under this Act which has been committed by a body corporate is proved to have been committed with the consent and connivance of, or to be attributable to, any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate commits an offence.\n(5) Where a Court has concluded the hearing of a matter in any criminal proceedings whether the suspect is convicted or acquitted and the goods in the opinion of Court are counterfeit and it appears that the suspect has benefited or obtained some monetary advantage from dealing in counterfeit goods the subject matter of the criminal proceedings, the Court shall on application of the prosecutor order the suspect to forfeit that benefit or monetary advantage to the Agency within a period of three months and in default the Agency may trace and recover that benefit or advantage from the suspect.\n[Act No. 18 of 2018, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person convicted of an offence under section 32, shall be liable—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person convicted of an offence under section 24 or 31, shall be liable to imprisonment for a term not exceeding three years, or a fine not exceeding two million shillings, or both."
+    },
+    {
+     "ref": "(3)",
+     "text": "A court that has convicted a person of an offence under section 32—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Where an offence under this Act which has been committed by a body corporate is proved to have been committed with the consent and connivance of, or to be attributable to, any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate commits an offence."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where a Court has concluded the hearing of a matter in any criminal proceedings whether the suspect is convicted or acquitted and the goods in the opinion of Court are counterfeit and it appears that the suspect has benefited or obtained some monetary advantage from dealing in counterfeit goods the subject matter of the criminal proceedings, the Court shall on application of the prosecutor order the suspect to forfeit that benefit or monetary advantage to the Agency within a period of three months and in default the Agency may trace and recover that benefit or advantage from the suspect."
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Exemption from stamp duty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "No duty shall be chargeable under the Stamp Duty Act (Cap. 480) in respect of any instrument executed by, or on behalf of, or in favour of the Authority, which, but for this section, the Authority shall would be liable to pay.\n[Act No. 18 of 2018, Sch.]",
+   "clauses": []
+  },
+  "37": {
+   "num": "37",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) The Cabinet Secretary may make regulations generally for the better carrying into effect the provisions of this Act.\n(2) Without prejudice to the generality of the foregoing, the Cabinet Secretary may in such regulations prescribe—\n  (a) anything required by this Act to be prescribed;\n  (b) any inventory to be prepared or made under this Act;\n  (c) any matter necessary or expedient for the proper and effective control, management and administration of a counterfeit goods depot and the proper care of the goods detained therein;\n  (d) the manner and procedures for proper disposal of counterfeit goods;\n  (e) any other matter that may be necessary or expedient for the proper and effective administration of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may make regulations generally for the better carrying into effect the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of the foregoing, the Cabinet Secretary may in such regulations prescribe—"
+    }
+   ]
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 8]",
+   "subtitle": "PROVISIONS AS TO THE CONDUCT OF BUSINESS AND AFFAIRS OF THE BOARD",
+   "text": "1. Tenure of office Any member of the Board, other than an ex officio member shall, subject to the provisions of this Schedule, hold office for a period of three years, on such terms and conditions as may be specified in the instrument of appointment, but shall be eligible for re-appointment, subject to a maximum of three terms of office.\n2. Vacation of office A member of the Board, other than an ex officio member, may—\n  (a) at any time resign from office by notice in writing to the Cabinet Secretary;\n  (b) be removed from office by the Cabinet Secretary if the member—\n  (i) has been absent from three consecutive meetings of the Board without the permission of the Chairperson;\n  (ii) is convicted of a criminal offence and sentenced to imprisonment for a term exceeding six months or to a fine exceeding ten thousand shillings;\n  (iii) is convicted of an offence involving dishonesty or fraud;\n  (iv) is adjudged bankrupt or enters into a composition scheme or arrangement with his creditors;\n  (v) is incapacitated by prolonged physical or mental illness or is deemed otherwise unfit to discharge his duties as a member of the Board; or\n  (vi) fails to comply with the provisions of this Act relating to disclosure.\n3. Meetings\n(1) The Board shall meet not less than four times in every financial year and not more than four months shall elapse between the date of one meeting and the date of the next meeting.\n(2) Notwithstanding the provisions of subparagraph (1), the Chairperson may, and upon requisition in writing by at least five members shall, convene a special meeting of the Board at any time for the transaction of the business of the Board.\n(3) Unless three quarters of the total members of the Board otherwise agree, at least fourteen days’ written notice of every meeting of the Board shall be given to every member of the Board.\n(4) The quorum for the conduct of the business of the Board shall be seven members including the Chairperson or the person presiding.\n(5) The Chairperson shall preside at every meeting of the Board at which he is present but, in his absence, the members present shall elect one of their numbers to preside, who shall, with respect to that meeting and the business transacted thereat, have all the powers of the Chairperson.\n(6) Unless a unanimous decision is reached, a decision on any matter before the Board shall be by a majority of votes of the members present and voting and, in the case of an equality of votes, the Chairperson or the person presiding shall have a casting vote.\n(7) Subject to subparagraph (4), no proceedings of the Board shall be invalid by reason only of a vacancy among the members thereof.\n4. Disclosure of interest by Board members\n(1) If a member is directly or indirectly interested in any contract, proposed contract or other matter before the Board and is present at a meeting of the Board at which the contract, proposed contract or other matter is the subject of consideration, that member shall, at the meeting and as soon as practicable after the commencement thereof, disclose the fact and shall not take part in the consideration or discussion of, or vote on, any questions with respect to the contract or other matter, or be counted in the quorum of the meeting during consideration of the matter:\nProvided that, if the majority of the members present are of the opinion that the experience or expertise of such member is vital to the deliberations of the meeting, the Board may permit the member to participate in the deliberations subject to such restrictions as it may impose but such member shall not have the right to vote on the matter in question.\n(2) A disclosure of interest made under this paragraph shall be recorded in the minutes of the meeting at which it is made.\n(3) A member of the Board who contravenes subparagraph (1) commits an offence and is liable to imprisonment for a term not exceeding six months, or to a fine not exceeding one hundred thousand shillings, or both.\n5. Execution of instruments Any contract or instrument which, if entered into or executed by a person not being a body corporate, would not require to be under seal, may be entered into or executed on behalf of the Board by any person generally or specially authorized by the Board for that purpose.\n6. Minutes The Board shall cause minutes of all resolutions and proceedings of meetings of the Board to be entered in books kept for that purpose."
+  }
+ ],
+ "spent": {}
+}

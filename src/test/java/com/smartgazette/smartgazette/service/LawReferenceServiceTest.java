@@ -91,6 +91,24 @@ class LawReferenceServiceTest {
     }
 
     @Test
+    void aSpentSectionIsExplainedNotQuoted() {
+        // Water Act Part IX (ss. 148-159) is spent in the revision as at 2026-07-10
+        LawReferenceService.LawRef r = SVC.refs("Sections 147 and 158 of the Water Act 2016").get(1);
+        assertEquals("spent", r.kind());
+        assertTrue(r.found());
+        assertTrue(r.text().startsWith("Spent: section 158 is in Part IX"), r.text());
+        assertTrue(!LawReferenceService.lawSentence(List.of(r)).contains("158"));
+    }
+
+    @Test
+    void aBareSubsectionBelongsToTheSectionBefore() {
+        // the Gazette printed "39 (1), 1A and (1B)" for 39(1A)
+        List<LawReferenceService.LawRef> r = SVC.refs("sections 39 (1), 1A and (1B) of the Elections Act, 2011");
+        assertEquals(1, r.size(), r.toString());
+        assertEquals("section 39(1)", r.get(0).label());
+    }
+
+    @Test
     void aSectionWeDoNotHoldIsNotGuessed() {
         LawReferenceService.LawRef r = SVC.refs("section 999 of the Water Act, 2016").get(0);
         assertEquals("water_act", r.law());

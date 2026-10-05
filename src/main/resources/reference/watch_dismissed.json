@@ -1,0 +1,19 @@
+{
+ "note": "Flags the owner has looked at and decided need no change (docs/specs/reference-watch.md). The reference watch (tools/reference_watch.py = Java ReferenceWatch) skips them. Add an entry with the reason; remove it to see the flag again.",
+ "dismissed": [
+  {
+   "key": "universities_act",
+   "watcher": "law.missing_section",
+   "detail": "s.2A",
+   "reason": "No section 2A exists in the Universities Act (Kenya Law, as at 2024-04-26; checked by the owner 5 Oct 2026). The notice (2025 No 173) cites a section that does not exist - probably s.3(2A) or Second Schedule para. 2A.",
+   "date": "2026-10-05"
+  },
+  {
+   "key": "constitution",
+   "watcher": "law.old_copy",
+   "detail": "2010-09-03",
+   "reason": "The Constitution of Kenya has not been amended since 2010; our copy is current.",
+   "date": "2026-10-05"
+  }
+ ]
+}

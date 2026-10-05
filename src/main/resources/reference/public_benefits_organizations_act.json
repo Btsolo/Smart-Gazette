@@ -1,0 +1,1651 @@
+{
+ "title": "Public Benefits Organizations Act",
+ "citation": "Act No. 18 of 2013",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2013/18/eng@2025-06-20",
+ "version_date": "2025-06-20",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "PUBLIC BENEFITS ORGANIZATIONS ACT NO. 18 OF 2013 Published in Kenya Gazette Vol. CXV—No. 28 on 22 February 2013 Assented to on 14 January 2013 Commenced on 14 May 2024 by The Public Benefits Organization Act Commencement\n[Amended by Security Laws (Amendment) Act, 2014 (Act No. 19 of 2014) on 22 December 2014] [Amended by Anti-Money Laundering and Combating of Terrorism Financing Laws (Amendment) Act (Act No. 6 of 2025) on 20 June 2025]\nAn Act of Parliament to provide for the establishment and operation of public benefit organisations; to provide for their registration; to establish an administrative and regulatory framework within which public benefit organisations can conduct their affairs and for connected purposes PREAMBLE Recognizing the important role that public benefit organizations play in serving the public good, supporting development, social cohesion and tolerance within society; promoting democracy, respect for the rule of law, and providing accountability mechanisms that can contribute to improved governance; Conscious that government, business or public benefit organisations on their own, do not have the capability to meet all the challenges that society faces; Cognizant that the public benefit organizations are increasingly involved in complementing the county and national government in all spheres of public service delivery and of the primary role of Government of Kenya as the duty bearer; Perceptive that the realization of Kenya's development goals depend on the contribution of not only the public and private sectors, but public benefit organizations as well; Recognizing that public benefit organizations, comprises a major economic sector that employs almost half as many people as the public sector; Mindful that effective and efficient self-regulation is the basic foundation for an effective working civil society sector and keen to ensure that public benefit organizations maintain high standards of governance, transparency and accountability; Observant that the efforts to establish an enabling environment for public benefit organizations have been ongoing and the current legislative framework is in need of revision as it does not provide an adequate regulatory and institutional framework for public benefit organizations; Cognizant that laws permitting public benefit organizations to exist and operate freely are indispensable to the full and meaningful implementation of the freedoms of association, expression, and peaceful assembly in the Constitution, as well as increased development effectiveness through better service delivery, and empowerment of Kenyans;",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "REGISTRATION OF PUBLIC BENEFIT ORGANIZATIONS",
+   "provisions": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "SELF-REGULATION, ADMINISTRATIVE AND REPORTING OBLIGATIONS",
+   "provisions": [
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "provisions": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "43A",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "THE PUBLIC BENEFIT ORGANIZATIONS DISPUTES TRIBUNAL",
+   "provisions": [
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "56",
+    "57",
+    "58",
+    "59",
+    "60"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Public Benefits Organizations Act, 2013.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires—\n\"Authority\" means the Public Benefit Organizations Regulatory Authority established under section 34;\n\"authorized agent\" means a legal representative, who is a Kenyan citizen, authorized to receive official summonses, notices and inquiries on behalf of an international non-governmental organization;\n\"Board\" means the Board of the Authority established under section 35;\n\"Cabinet Secretary\" means the Cabinet Secretary for the time being responsible for matters relating to planning and national development;\n\"Federation\" means the National Federation of Public Benefit Organizations established under section 21;\n\"international non-governmental organization\" means a non-governmental organization with its original registration being in a country other than Kenya and operating in Kenya under a certificate of registration issued under section 10 of this Act;\n\"public benefit activity\" means an activity that supports or promotes public benefit by enhancing or promoting the economic, environmental, social or cultural development or protecting the environment or lobbying or advocating on issues of general public interest or the interest or well-being of the general public or a category of individuals or organizations;\n\"register\" means the register kept by the Authority pursuant to section 15;\n“terrorism financing” has the meaning assigned to under the Prevention of Terrorism Act (Cap. 59B); and\n\"Tribunal\" means the Public Benefit Organizations Disputes Tribunal established under section 50.\n[Act No. 6 of 2025, Sch.]",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Objects and purposes of the Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The objects and purposes of this Act are to—\n  (a) encourage and support public benefit organisations in their contribution to meeting the diverse needs of the people of Kenya by—\n  (i) creating a conducive environment for the growth of the public benefit organizations sector and for the operations of the registered public benefit organizations;\n  (ii) establishing an administrative and regulatory framework within which public benefit organisations can conduct their affairs;\n  (iii) encouraging public benefit organisations to maintain high standards of governance, transparency and accountability and to improve those standards;\n  (iv) creating an environment within which the public may have access to information concerning registered public benefit organisations; and\n  (v) promoting a spirit of co-operation and shared responsibility within government and among donors and other interested persons in their dealings with public benefit organisations;\n  (b) give meaningful protection to the internationally recognized freedoms of expression, association, and peaceful assembly;\n  (c) promote the development of self-regulation among public benefit organizations;\n  (d) promote compliance by public benefit organisations with their legal obligations to exercise effective control and management over the administration of their activities and funding;\n  (e) facilitate a constructive and principled collaboration between public benefit organisations, the Government, business, donors and other actors in order to advance public interest;\n  (f) provide registration procedures, which are transparent, and which will facilitate establishment of public benefit organizations while safeguarding freedom of association;\n  (g) facilitate mechanisms for government collaboration with public benefit organizations, including funding of public benefit organizations activities and involvement of public benefit organizations in the implementation of government projects;\n  (h) facilitate the establishment and growth of public benefit organizations in order to generally strengthen civil society, promote social welfare and improve the conditions and quality of life for the people of Kenya.\n  (i) provide mechanisms that safeguard public benefits organizations from the risk of money laundering, terrorism financing or proliferation financing.\n[Act No. 6 of 2025, Sch.]",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Government's responsibility to public benefit organizations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) Consistent with its obligation to respect the freedoms of association and assembly, it is the duty of the Government to provide an enabling environment for public benefit organizations to be established and to operate.\n(2) Every State organ shall determine and co-ordinate the implementation of its policies and measures in a manner designed to promote, support and provide an enabling environment for public benefit organizations to perform their functions.\n(3) The Government and all public benefit organizations shall comply with the principles for effective collaboration set out in the First Schedule.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Consistent with its obligation to respect the freedoms of association and assembly, it is the duty of the Government to provide an enabling environment for public benefit organizations to be established and to operate."
+    },
+    {
+     "ref": "(2)",
+     "text": "Every State organ shall determine and co-ordinate the implementation of its policies and measures in a manner designed to promote, support and provide an enabling environment for public benefit organizations to perform their functions."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Government and all public benefit organizations shall comply with the principles for effective collaboration set out in the First Schedule."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Meaning of public benefit organization",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In this Act, \"public benefit organization\" means a voluntary membership or non-membership grouping of individuals or organizations, which is autonomous, non-partisan, non-profit making and which is—\n  (a) organized and operated locally, nationally or internationally;\n  (b) engages in public benefit activities in any of the areas set out in the Sixth Schedule; and\n  (c) is registered as such by the Authority.\n(2) For greater certainty, a public benefit organization does not include—\n  (a) a trade union within the meaning of the Labour Relations Act (Cap. 233);\n  (b) a public body established by or under any written law;\n  (c) a political party within the meaning of the Political Parties Act (Cap. 7D);\n  (d) a religious organization which is primarily devoted to religious teaching or worship;\n  (e) a society within the meaning of the Societies Act (Cap. 108);\n  (f) a co-operative society within the meaning of the Co-operative Societies Act (Cap. 469);\n  (g) a Sacco society within the meaning of the Sacco Societies Act (Cap. 490B);\n  (h) a micro-finance institution within the meaning of the Micro-Finance Institutions Act (Cap. 493C);\n  (i) a community based organization whose objective include the direct benefit of its members.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, \"public benefit organization\" means a voluntary membership or non-membership grouping of individuals or organizations, which is autonomous, non-partisan, non-profit making and which is—"
+    },
+    {
+     "ref": "(2)",
+     "text": "For greater certainty, a public benefit organization does not include—"
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "REGISTRATION OF PUBLIC BENEFIT ORGANIZATIONS",
+   "text": "(1) A public benefit organization shall be registered under this Act for it to enjoy the benefits that accrue under this Act.\n(2) No organization that is registered under any other law in Kenya shall be registered under this Act while its registration under that other law subsists.\n(3) Without prejudice to subsection (1), registration of an organization under this Act supersedes any prior registration of that organization under any other law in Kenya.\n(4) Where an organization is registered under this Act and under any other law, that organization shall be deemed registered under this Act and that other registration shall be deemed invalid.\n(4A) A public benefit organization registered under subsection (1) shall be classified by the Authority in the prescribed manner.\n(4B) The Authority upon consultation with the Cabinet Secretary, may from time to time review the classification of public benefit organizations.\n(4C) The Cabinet Secretary shall, upon consultation with the Authority, make regulations to provide for the manner, conduct and criteria for classification of public benefit organizations.\n(5) Organizations shall be deemed to be similar under this section if the name, objects and the officials, taken together, are similar whether wholly or partially. [Act No. 19 of 2014, s. 96.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public benefit organization shall be registered under this Act for it to enjoy the benefits that accrue under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "No organization that is registered under any other law in Kenya shall be registered under this Act while its registration under that other law subsists."
+    },
+    {
+     "ref": "(3)",
+     "text": "Without prejudice to subsection (1), registration of an organization under this Act supersedes any prior registration of that organization under any other law in Kenya."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where an organization is registered under this Act and under any other law, that organization shall be deemed registered under this Act and that other registration shall be deemed invalid."
+    },
+    {
+     "ref": "(4A)",
+     "text": "A public benefit organization registered under subsection (1) shall be classified by the Authority in the prescribed manner."
+    },
+    {
+     "ref": "(4B)",
+     "text": "The Authority upon consultation with the Cabinet Secretary, may from time to time review the classification of public benefit organizations."
+    },
+    {
+     "ref": "(4C)",
+     "text": "The Cabinet Secretary shall, upon consultation with the Authority, make regulations to provide for the manner, conduct and criteria for classification of public benefit organizations."
+    },
+    {
+     "ref": "(5)",
+     "text": "Organizations shall be deemed to be similar under this section if the name, objects and the officials, taken together, are similar whether wholly or partially. [Act No. 19 of 2014, s. 96.]"
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Bestowing of public benefit organization status",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "REGISTRATION OF PUBLIC BENEFIT ORGANIZATIONS",
+   "text": "No organization shall purport to be a public benefit organization unless that organization is—\n  (a) registered under this Act;\n  (b) where registered under any other written law in Kenya or not registered under any other written law in Kenya, the Authority has bestowed on that organization the status of a public benefit organization.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Requirements for registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "REGISTRATION OF PUBLIC BENEFIT ORGANIZATIONS",
+   "text": "(1) An application for registration under this Act shall be made to the Authority. (2) An application for registration shall be accompanied by—\n  (a) a copy of the constitution or other constitutive document of the public benefit organization;\n  (b) names and addresses of the founders of the public benefit organization;\n  (c) the public benefit purposes for which the public benefit organization is organized and operated and all of the principal activities that the public benefit organization shall engage in;\n  (d) the postal and physical address of the principal place of doing business of the public benefit organization;\n  (e) the prescribed fee; and (f) such other particulars or information as may be required by the Authority in order to assist the Authority to determine whether or not the organization meets the requirements for registration under this Act.\n(3) An international non-governmental organization may register as a public benefit organization by filing the following documentation—\n  (a) an application form;\n  (b) proof that it is a legal entity in another country;\n  (c) the organization's address in Kenya; and\n  (d) a written statement from a representative of the organization's headquarters with authority to provide such statement stating—\n  (i) the purposes of the international non-governmental organization;\n  (ii) a general description of the activities that the international non-governmental organization is planning to carry out in Kenya; and\n  (iii) the name, address and other contact information of the authorized agent.\n(4) The constitution of a public benefit organization that intends to register shall—\n  (a) state—\n  (i) the organization's name;\n  (ii) the objectives of the organization;\n  (iii) that participation in and membership of the public benefit organization shall be voluntary;\n  (iv) that the organization's income and property are not distributable to any person, except as reimbursement of reasonable expenses or payment of reasonable compensation for services rendered;\n  (b) make provision for the organization to be a body corporate and have an identity and existence distinct from its members or governing body;\n  (c) ensure that the members or governing body have no rights in the property or other assets of the organization solely by virtue of their being members or the governing body;\n  (d) specify the organizational structures and mechanisms for its governance;\n  (e) provide for a governing body consisting of not less than five persons, three of whom shall not be related to each other;\n  (f) in the case of international non-governmental organizations, specify the authorized agent, being a Kenyan citizen, retained by the organization, upon whom official notices, summonses and other process may be served;\n  (g) set out the rules for convening and conducting meetings, including quorums required for and the minutes to be kept of those meetings;\n  (h) determine the manner in which decisions are to be made;\n  (i) provide that the organization's financial transactions shall be conducted by means of a banking account;\n  (j) determine the financial year of the organization;\n  (k) set out a procedure for changing the constitution;\n  (l) set out a procedure by which the organization may be wound up or dissolved; and\n  (m) provide that, when the organization is being wound up or dissolved, any asset remaining after all its liabilities have been met, shall be transferred to another public benefit organization having similar objectives, which shall be identified through a resolution of the governing body of the organization being wound up or dissolved otherwise, the Authority shall make this decision.\n(5) The constitution of a membership organization that intends to register as a public benefit organization may make provision for matters relevant to conducting its affairs, including the following—\n  (a) qualifications for and admission to membership of the organization;\n  (b) circumstances in which a member shall no longer be entitled to the benefits of membership;\n  (c) termination of membership;\n  (d) appeals against loss of the benefits of membership or against termination of membership and specify the procedure for those appeals and determine the body to which those appeals may be made;\n  (e) membership fees and other payments by members;\n  (f) provision that except for proven gross negligence or criminal malfeasance, members or the governing body do not become liable for any of the obligations and liabilities of the organization solely by virtue of their status as members or the governing body of the organisation;\n  (g) appointment of the governing body and their respective functions;\n  (h) procedure for nominating, electing or appointing the governing body and their powers and functions;\n  (i) circumstances and manner in which members of the governing body may be removed from office and provide for appeals against such removal and specify procedures for those appeals and determine a body to which those appeals can be made;\n  (j) provision that members of its governing body are not personally liable for any loss suffered by any person as a result of an act or omission which occurs in good faith while the officebearer is performing functions for or on behalf of the organization;\n  (k) making of investments;\n  (l) provisions for avoiding conflict of interest and dealing with it where it arises;\n  (m) the purposes for which the funds of the organization may be used; and\n  (n) acquiring and controlling of assets.\n(6) Subject to subsections (4) and (5), the governing body of a public benefit organization shall adopt such by-laws or rules as may be necessary to enable it to perform its functions and exercise its powers.\n(7) The governing body of a public benefit organization shall not delegate—\n  (a) its duties to review and approve the assets, liabilities, income, expenditures, and programs of the public benefit organization for the past year and the anticipated assets, liabilities, income, expenditures and programs for the upcoming year;\n  (b) the selection of its members;\n  (c) the process by which 1ts constitution or other founding instrument can be amended; or\n  (d) decisions to deregister, dissolve, or wind-up the public benefit organization.\n(8) A public benefit organization shall notify the Authority of any change in the particulars submitted under subsection (2) or (3) within sixty days of occurrence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An application for registration under this Act shall be made to the Authority. (2) An application for registration shall be accompanied by—"
+    },
+    {
+     "ref": "(3)",
+     "text": "An international non-governmental organization may register as a public benefit organization by filing the following documentation—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The constitution of a public benefit organization that intends to register shall—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The constitution of a membership organization that intends to register as a public benefit organization may make provision for matters relevant to conducting its affairs, including the following—"
+    },
+    {
+     "ref": "(6)",
+     "text": "Subject to subsections (4) and (5), the governing body of a public benefit organization shall adopt such by-laws or rules as may be necessary to enable it to perform its functions and exercise its powers."
+    },
+    {
+     "ref": "(7)",
+     "text": "The governing body of a public benefit organization shall not delegate—"
+    },
+    {
+     "ref": "(8)",
+     "text": "A public benefit organization shall notify the Authority of any change in the particulars submitted under subsection (2) or (3) within sixty days of occurrence."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Consideration of application",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "REGISTRATION OF PUBLIC BENEFIT ORGANIZATIONS",
+   "text": "(1) The Authority shall, within sixty days after Consideration receiving an application under this Act of application.\n  (a) consider the application and any further information provided by the applicant; and\n  (b) if satisfied that the application meets the requirements of this Act, register the organization as a public benefit organization.\n(2) If, after considering an application, the Authority is not satisfied that the application complies with the requirements for registration, the Authority shall forthwith, in writing, notify the applicant accordingly, giving reasons for the decision and informing the applicant of the duration, which shall be a period not exceeding thirty days from the date of the notice, during which to comply with those requirements.\n(3) The period within which compliance shall be effected under subsection (2) may be extended by the Authority upon good cause being shown by the applicant, but such extension shall only be granted once and shall be for a maximum period of twenty-one days.\n(4) If an applicant who has received a notice in terms of subsection (2) complies with the requirements for registration within the prescribed period, the Authority shall, within fourteen days of receipt of the requested requirements, register the public benefit organization concerned accordingly.\n(5) If an applicant who has received a notice in terms of subsection (2) fails to comply with the requirements set out in that notice, the Authority shall—\n  (a) refuse to register the public benefit organization concerned; and\n  (b) notify the applicant in writing of the refusal and the reasons for the refusal within the number of days remaining in the original sixty day period for making a decision.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority shall, within sixty days after Consideration receiving an application under this Act of application."
+    },
+    {
+     "ref": "(2)",
+     "text": "If, after considering an application, the Authority is not satisfied that the application complies with the requirements for registration, the Authority shall forthwith, in writing, notify the applicant accordingly, giving reasons for the decision and informing the applicant of the duration, which shall be a period not exceeding thirty days from the date of the notice, during which to comply with those requirements."
+    },
+    {
+     "ref": "(3)",
+     "text": "The period within which compliance shall be effected under subsection (2) may be extended by the Authority upon good cause being shown by the applicant, but such extension shall only be granted once and shall be for a maximum period of twenty-one days."
+    },
+    {
+     "ref": "(4)",
+     "text": "If an applicant who has received a notice in terms of subsection (2) complies with the requirements for registration within the prescribed period, the Authority shall, within fourteen days of receipt of the requested requirements, register the public benefit organization concerned accordingly."
+    },
+    {
+     "ref": "(5)",
+     "text": "If an applicant who has received a notice in terms of subsection (2) fails to comply with the requirements set out in that notice, the Authority shall—"
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Certificate of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "REGISTRATION OF PUBLIC BENEFIT ORGANIZATIONS",
+   "text": "(1) Upon registering a public benefit organization, the Authority shall issue a certificate of registration in the prescribed form.\n(2) A certificate of registration shall be a conclusive evidence of the authority to operate throughout Kenya as specified in the constitution of the public benefit organization or in the certificate of registration.\n(3) A registered public benefit organization shall by virtue of such registration be a body corporate with perpetual succession capable, in its name, of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property;\n  (c) entering into contracts; and\n  (d) doing or performing all such other things or acts necessary for proper performance of its functions under this Act, which may lawfully be done or performed by a body corporate.\n(4) A public benefit organization which has been registered retains its registration until—\n  (a) its registration is cancelled under this Act;\n  (b) the organization is voluntarily deregistered; or\n  (c) the organization is wound-up or dissolved.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Upon registering a public benefit organization, the Authority shall issue a certificate of registration in the prescribed form."
+    },
+    {
+     "ref": "(2)",
+     "text": "A certificate of registration shall be a conclusive evidence of the authority to operate throughout Kenya as specified in the constitution of the public benefit organization or in the certificate of registration."
+    },
+    {
+     "ref": "(3)",
+     "text": "A registered public benefit organization shall by virtue of such registration be a body corporate with perpetual succession capable, in its name, of—"
+    },
+    {
+     "ref": "(4)",
+     "text": "A public benefit organization which has been registered retains its registration until—"
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "International organizations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "REGISTRATION OF PUBLIC BENEFIT ORGANIZATIONS",
+   "text": "(1) An organization which is registered outside Kenya and which intends to operate in Kenya shall apply to the Authority for a certificate to operate in Kenya.\n(2) The Authority shall take any of the following actions on an application made under subsection (1) —\n  (a) exempt the organization from registration, and instead grant that organization a permit to operate in Kenya, if that organization does not intend to directly implement any activities or programmes in Kenya or operate from Kenya to implement any activities or programmes in another country;\n  (b) require the organization to apply for registration as an international organization, if that organization intends to directly implement any activities or programmes in Kenya or operate from Kenya to implement any activities or programmes in another country.\n(3) The Authority shall not exempt an organization from registration under subsection (2)(a) if that organization intends to—\n  (a) engage in direct implementation of any activity or program in Kenya or operate from Kenya to implement any activities or programs in another country;\n  (b) raise any subscriptions or engage in any other form of raising of funds in Kenya.\n(4) The Authority shall require an organization that applies for registration pursuant to subsection (2) (b) to undergo the same registration procedures, and satisfy such application requirements, as may be provided for in the regulations.\n(5) An organization registered pursuant to an application made under subsection (2)(b) shall be required by the Authority to —\n  (a) have at least one third of its directors who are Kenyan citizens and who are resident in Kenya; and\n  (b) maintain an office in Kenya.\n(6) Regulations shall provide for the regulation of organizations issued with a permit to operate in Kenya under subsection (2)(a).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An organization which is registered outside Kenya and which intends to operate in Kenya shall apply to the Authority for a certificate to operate in Kenya."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority shall take any of the following actions on an application made under subsection (1) —"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Authority shall not exempt an organization from registration under subsection (2)(a) if that organization intends to—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The Authority shall require an organization that applies for registration pursuant to subsection (2) (b) to undergo the same registration procedures, and satisfy such application requirements, as may be provided for in the regulations."
+    },
+    {
+     "ref": "(5)",
+     "text": "An organization registered pursuant to an application made under subsection (2)(b) shall be required by the Authority to —"
+    },
+    {
+     "ref": "(6)",
+     "text": "Regulations shall provide for the regulation of organizations issued with a permit to operate in Kenya under subsection (2)(a)."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Presumption of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "REGISTRATION OF PUBLIC BENEFIT ORGANIZATIONS",
+   "text": "If, upon the expiry of sixty days from the date a registration. public benefit organization made an application for registration under section 9(1), no decision has been made by the Authority, the public benefit organization may apply to the Tribunal for an order requiring the Authority to issue to it a certificate of registration or communicate to the organization that the registration has been refused, together with the reasons therefor.",
+   "clauses": []
+  },
+  "13": {
+   "num": "13",
+   "title": "Effect of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "REGISTRATION OF PUBLIC BENEFIT ORGANIZATIONS",
+   "text": "The certificate of registration issued by the Authority shall be conclusive evidence that the organization—\n  (a) has met all the requirements for registration;\n  (b) has been duly registered in accordance with this Act unless it is proved that the registration thereof has been cancelled;\n  (c) is a body corporate.",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "Service of official notices, letters, summons or legal process",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "REGISTRATION OF PUBLIC BENEFIT ORGANIZATIONS",
+   "text": "Any official notices, letters, summons, or other legal process shall be considered validly served on a registered public benefit organization if it is delivered in person or by mail to the authorized agent or to the address specified pursuant to section 8 (2) (d) and (3) (d) of this Act.",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "Register of public benefit organisations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "REGISTRATION OF PUBLIC BENEFIT ORGANIZATIONS",
+   "text": "(1) The Authority shall maintain a register of all registered public benefit organizations and such register shall include the following information—\n  (a) the area of the activities of the organization;\n  (b) the registered officials for the time being in charge of the organization;\n  (c) any information presented to the Authority by the organization pursuant to this Act or regulations;\n  (d) a detailed inventory of the assets of the organization;\n  (e) any other information that the Authority may deem necessary to include or as may be provided in the regulations.\n(2) The register kept under this section shall—\n  (a) be open to public inspection during ordinary business hours; and—\n  (i) any person may request, in person or by mail, a copy of any entry in the register; and\n  (ii) no more than a reasonable charge may be made for a copy of an entry in the register;\n  (b) be made available through the internet.\n(3) Any person may, upon payment of the prescribed fee—\n  (a) inspect the register or any documents filed with the Authority;\n  (b) require to be supplied with a certificate, duly certified by the Authority, showing the subsisting entries in the register relating to any organization registered under this Act; or\n  (c) require to be supplied with a copy of, or an extract from, any document filed with the Authority duly certified by the Authority to be a true copy or extract, as the case may be.\n(4) Despite subsection (2), the Authority may refuse to issue a copy of a certificate of registration to an applicant unless that applicant satisfies such conditions as the Authority may determine, including satisfying the Authority as to the intention of the use of the copy.\n(5) A copy of an entry requested under subsection (2) (a) (i), or a written decision explaining the reasons for the denial of the request, shall be furnished to the person making the request within thirty days of request.\n(6) Within fourteen days after the end of each quarter of the financial year, the Authority shall publish in the Gazette and on a website which it shall maintain for the purpose of publication of information relating to its operations, names of—\n  (a) all public benefit organizations that are registered;\n  (b) all public benefit organizations whose registration were cancelled during the preceding quarter of the financial year; and\n  (c) all public benefit organizations which deregistered voluntarily, were wound up or dissolved during the previous quarter of the financial year.\n(7) A public benefit organization that has been deregistered shall be removed from the register, but its entry in the register, including the decision on deregistration and the reasons thereof, shall be retained and made available to the public upon request.\n(8) The register shall be received in proceedings before any court or tribunal as evidence of the matters recorded therein which are required by or under this Act to be so recorded.\n(9) A document purporting to be certified by the Director to be a true copy of an entry in the register stating that a public benefit organization is not, or was not registered on a date specified in the document, shall be received in proceedings before a court or tribunal as prima facie evidence of any such matters contained in the entry or of that fact, as the case may be.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority shall maintain a register of all registered public benefit organizations and such register shall include the following information—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The register kept under this section shall—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person may, upon payment of the prescribed fee—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Despite subsection (2), the Authority may refuse to issue a copy of a certificate of registration to an applicant unless that applicant satisfies such conditions as the Authority may determine, including satisfying the Authority as to the intention of the use of the copy."
+    },
+    {
+     "ref": "(5)",
+     "text": "A copy of an entry requested under subsection (2) (a) (i), or a written decision explaining the reasons for the denial of the request, shall be furnished to the person making the request within thirty days of request."
+    },
+    {
+     "ref": "(6)",
+     "text": "Within fourteen days after the end of each quarter of the financial year, the Authority shall publish in the Gazette and on a website which it shall maintain for the purpose of publication of information relating to its operations, names of—"
+    },
+    {
+     "ref": "(7)",
+     "text": "A public benefit organization that has been deregistered shall be removed from the register, but its entry in the register, including the decision on deregistration and the reasons thereof, shall be retained and made available to the public upon request."
+    },
+    {
+     "ref": "(8)",
+     "text": "The register shall be received in proceedings before any court or tribunal as evidence of the matters recorded therein which are required by or under this Act to be so recorded."
+    },
+    {
+     "ref": "(9)",
+     "text": "A document purporting to be certified by the Director to be a true copy of an entry in the register stating that a public benefit organization is not, or was not registered on a date specified in the document, shall be received in proceedings before a court or tribunal as prima facie evidence of any such matters contained in the entry or of that fact, as the case may be."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Refusal of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "REGISTRATION OF PUBLIC BENEFIT ORGANIZATIONS",
+   "text": "(1) The Authority may refuse to register any organization as a public benefit organization where, in its opinion—\n  (a) the application for registration does not comply with the requirements of this Act;\n  (b) the objectives of the proposed public benefit organization contravenes any written law;\n  (c) the applicant organization has committed a serious violation or repeated violation of this Act, other laws or regulations;\n  (d) the applicant has given false or misleading information in any material particular;\n  (e) the name of the proposed public benefit organization is similar to the name of another institution, other organization or entity as to be likely to mislead the public as to its true identity.\n(2) Where the Authority has refused registration of a proposed public benefit organization, it shall, within fourteen days of the decision, notify the applicant of the reasons for the refusal.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority may refuse to register any organization as a public benefit organization where, in its opinion—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Authority has refused registration of a proposed public benefit organization, it shall, within fourteen days of the decision, notify the applicant of the reasons for the refusal."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Review by the Authority or appeal to the Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "REGISTRATION OF PUBLIC BENEFIT ORGANIZATIONS",
+   "text": "(1) An applicant who is aggrieved by a decision of the Authority for review of its decision within thirty days of receiving a written notice of appeal to the the decision.\n(2) An applicant who is aggrieved by a decision of the Authority following review may appeal to the Tribunal against the decision.\n(3) Without prejudice to subsection (1), an applicant who is aggrieved by a decision of the Authority may, within thirty days of receiving a written notice of the decision, appeal to the Tribunal against the decision of the Authority.\n(4) Upon receipt of an appeal, the Tribunal shall, within sixty days from the date of receiving the appeal, consider and determine the appeal.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An applicant who is aggrieved by a decision of the Authority for review of its decision within thirty days of receiving a written notice of appeal to the the decision."
+    },
+    {
+     "ref": "(2)",
+     "text": "An applicant who is aggrieved by a decision of the Authority following review may appeal to the Tribunal against the decision."
+    },
+    {
+     "ref": "(3)",
+     "text": "Without prejudice to subsection (1), an applicant who is aggrieved by a decision of the Authority may, within thirty days of receiving a written notice of the decision, appeal to the Tribunal against the decision of the Authority."
+    },
+    {
+     "ref": "(4)",
+     "text": "Upon receipt of an appeal, the Tribunal shall, within sixty days from the date of receiving the appeal, consider and determine the appeal."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Procedure for suspension or cancellation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "REGISTRATION OF PUBLIC BENEFIT ORGANIZATIONS",
+   "text": "(1) Where a public benefit organization registered under this Act is in violation of the provisions of this Act, the Authority may serve on the organization a default notice in writing specifying the nature of the default.\n(2) Upon receipt of the default notice, the public benefit organization may make representations in writing to the Authority regarding remedy or rectification of the default or violation of the Act.\n(3) Where the public benefit organization has failed to remedy or rectify the default or ensure compliance with the provisions of this Act within the time specified in the default notice or has not made representations satisfactory to the Authority, the Authority shall fine, suspend or cancel the certificate of registration of the organization but in no event shall the time limit for compliance be less than fifteen days after receipt of the default notice.\n(4) A public benefit organization that has been fined or whose certificate has been suspended or cancelled may, within sixty days of receiving notice of the decision, apply to the Authority for review of the decision to fine it, suspend or cancel the certificate if it is dissatisfied by the reasons for such fine, suspension or cancellation.\n(5) Notwithstanding subsection (4), a public benefit organization which is dissatisfied by the decision of the Authority to fine it, suspend or cancel a certificate may appeal to the Tribunal.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a public benefit organization registered under this Act is in violation of the provisions of this Act, the Authority may serve on the organization a default notice in writing specifying the nature of the default."
+    },
+    {
+     "ref": "(2)",
+     "text": "Upon receipt of the default notice, the public benefit organization may make representations in writing to the Authority regarding remedy or rectification of the default or violation of the Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the public benefit organization has failed to remedy or rectify the default or ensure compliance with the provisions of this Act within the time specified in the default notice or has not made representations satisfactory to the Authority, the Authority shall fine, suspend or cancel the certificate of registration of the organization but in no event shall the time limit for compliance be less than fifteen days after receipt of the default notice."
+    },
+    {
+     "ref": "(4)",
+     "text": "A public benefit organization that has been fined or whose certificate has been suspended or cancelled may, within sixty days of receiving notice of the decision, apply to the Authority for review of the decision to fine it, suspend or cancel the certificate if it is dissatisfied by the reasons for such fine, suspension or cancellation."
+    },
+    {
+     "ref": "(5)",
+     "text": "Notwithstanding subsection (4), a public benefit organization which is dissatisfied by the decision of the Authority to fine it, suspend or cancel a certificate may appeal to the Tribunal."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Suspension or cancellation of certificate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "REGISTRATION OF PUBLIC BENEFIT ORGANIZATIONS",
+   "text": "(1) Subject to section 17, the Authority may cancel a certificate of registration issued under this Act, if —\n  (a) the public benefit organization has committed violations of this Act; ·\n  (b) the public benefit organization is carrying out its activities in a manner which is contrary to its constitution.\n(2) The Authority may, subject to section 17, suspend or cancel a certificate of registration issued under this Act if there is substantial and credible evidence that the public benefit organization has ceased to exist.\n(3) Where the certificate of registration has been suspended or cancelled the Authority shall—\n  (a) in writing, notify the relevant public benefit organization within twenty-one days from the date of suspension or cancellation;\n  (b) order such public benefit organization to stop its operations; or\n  (c) remove the name of such public benefit organization from the register.\n(4) Cancellation of the certificate of registration terminates all the public benefit organization benefits but does not terminate any obligations, including those with respect to monies or assets obtained while the organization was a registered public benefit organization, nor does it terminate reporting requirements covering any such monies or assets or any period of time during which it was a registered public benefit organization.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to section 17, the Authority may cancel a certificate of registration issued under this Act, if —"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority may, subject to section 17, suspend or cancel a certificate of registration issued under this Act if there is substantial and credible evidence that the public benefit organization has ceased to exist."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the certificate of registration has been suspended or cancelled the Authority shall—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Cancellation of the certificate of registration terminates all the public benefit organization benefits but does not terminate any obligations, including those with respect to monies or assets obtained while the organization was a registered public benefit organization, nor does it terminate reporting requirements covering any such monies or assets or any period of time during which it was a registered public benefit organization."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Freedom of association",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "SELF-REGULATION, ADMINISTRATIVE AND REPORTING OBLIGATIONS",
+   "text": "(1) Every organization has the freedom to—\n  (a) join in association with other organization or organizations as it may desire and to participate in forming a forum of public benefit organizations under this Act;\n  (b) join a forum of public benefit organizations;\n  (c) exit a forum of public benefit organizations.\n(2) Every organization which is a member of a forum of public benefit organizations has the right, subject to the constitution of that forum, to —\n  (a) participate in its lawful activities;\n  (b) participate in the election of its officials and representatives.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every organization has the freedom to—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Every organization which is a member of a forum of public benefit organizations has the right, subject to the constitution of that forum, to —"
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Establishment of the Federation, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "SELF-REGULATION, ADMINISTRATIVE AND REPORTING OBLIGATIONS",
+   "text": "(1) There is established a federation of registered public benefit organizations to be known as the National Federation of Public Benefits Organizations, which shall be an umbrella organization of all public benefit organizations registered under this Act and the self-regulation forums of public benefit organizations recognised by the Authority.\n(2) Every registered organization shall be eligible for membership of the Federation.\n(3) The Federation shall be a body corporate with perpetual succession capable in its name of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property;\n  (c) entering into contracts; and\n  (d) doing or performing all such other things or acts necessary for proper performance of its functions under this Act, which may lawfully be done or performed by a body corporate.\n(4) The Federation shall —\n  (a) be managed by a governing board consisting of not more than nine members;\n  (b) have a secretariat under the supervision of the chief executive officer of the Federation who shall also be the secretary to the governing board of the Federation;\n  (c) subject to paragraphs (a) and (b), adopt its own structure, rules and procedures for the efficient administration of its activities.\n(5) The elections to an office in the governing board of the Federation shall be supervised by the Independent Electoral and Boundaries Commission.\n(6) The rules on the conduct of the elections to an office in the governing board of the Federation shall ensure that every member organization is able to vote in the election and shall include the quorum required for the purposes of the election.\n(7) The Cabinet Secretary shall have powers to ensure the compliance with the rules and procedures of the Federation at all times including during its elections.\n(8) Notwithstanding anything contained in the rules of the Federation, a member of the governing board of the Federation shall hold office for five years but shall be eligible for election for one more term.\n(9) The objectives and functions of the Federation shall be to —\n  (a) provide leadership on matters of interest to the sector and for the promotion of the sector generally;\n  (b) promote self-regulation by the forums for self-regulation of public benefit organizations;\n  (c) co-ordinate the self-regulation forums registered under this Part;\n  (d) monitor the performance of the self-regulation forums and advise the Authority in the monitoring and enforcement of compliance by these forums and their respective public benefit organizations members with the provisions of this Act, the regulations and the general code of conduct and the codes of conduct adopted by the self-regulation forums;\n  (e) advise the Authority generally on the development of the public benefit organizations sector;\n  (f) facilitate the building of the capacity of non-governmental organizations for the enhancement of the effectiveness of these organizations;\n  (g) render such advice to donors and the Authority on any issue relating to the sector. (10) The Cabinet Secretary, the Authority and the Federation shall have regular consultations for the purpose of harmonising their policies and for the co-ordination of the sector. (11) The Tribunal shall have jurisdiction in respect of disputes mentioned in subsection (12). (12) The disputes referred to in subsection to in subsection (11) shall be disputes—\n  (a) between any member of the Federation and the Federation;\n  (b) between the members ofthe Federation;\n  (c) between the Federation and the Authority. (13) The Tribunal shall also determine any appeals from—\n  (a) a decision of the Cabinet Secretary or the Authority concerning the Federation;\n  (b) a decision of the Federation.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a federation of registered public benefit organizations to be known as the National Federation of Public Benefits Organizations, which shall be an umbrella organization of all public benefit organizations registered under this Act and the self-regulation forums of public benefit organizations recognised by the Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "Every registered organization shall be eligible for membership of the Federation."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Federation shall be a body corporate with perpetual succession capable in its name of—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The Federation shall —"
+    },
+    {
+     "ref": "(5)",
+     "text": "The elections to an office in the governing board of the Federation shall be supervised by the Independent Electoral and Boundaries Commission."
+    },
+    {
+     "ref": "(6)",
+     "text": "The rules on the conduct of the elections to an office in the governing board of the Federation shall ensure that every member organization is able to vote in the election and shall include the quorum required for the purposes of the election."
+    },
+    {
+     "ref": "(7)",
+     "text": "The Cabinet Secretary shall have powers to ensure the compliance with the rules and procedures of the Federation at all times including during its elections."
+    },
+    {
+     "ref": "(8)",
+     "text": "Notwithstanding anything contained in the rules of the Federation, a member of the governing board of the Federation shall hold office for five years but shall be eligible for election for one more term."
+    },
+    {
+     "ref": "(9)",
+     "text": "The objectives and functions of the Federation shall be to —"
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Appointment to statutory bodies, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "SELF-REGULATION, ADMINISTRATIVE AND REPORTING OBLIGATIONS",
+   "text": "Where, under any written law, the Federation is required to nominate or appoint a person to membership in any public body, such nomination or appointment shall be made by the governing body of the Federation and the Federation shall observe the following in the nomination or appointment—\n  (a) the provisions of the Constitution and any other written law on leadership and integrity;\n  (b) the principles of equality, equity and non-discrimination;\n  (c) consultations and public participation;\n  (d) subject to section 35(l)(h) and (i), not to nominate or appoint members of the Federation's governing body; and (e) the need to ensure appropriate expertise in the respective appointments or nominations and fair representation of the various thematic areas of public benefit activities.",
+   "clauses": []
+  },
+  "23": {
+   "num": "23",
+   "title": "Organizations may join self-regulation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "SELF-REGULATION, ADMINISTRATIVE AND REPORTING OBLIGATIONS",
+   "text": "(1) Each organization registered under this Act may voluntarily join and maintain membership in a self-regulation forum of registered public benefit organizations.\n(2) Each forum shall enter into a recognition agreement with the Authority upon proof to the satisfaction of the Authority that the forum represents a significant number of organizations registered by the Authority as prescribed by the Cabinet Secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Each organization registered under this Act may voluntarily join and maintain membership in a self-regulation forum of registered public benefit organizations."
+    },
+    {
+     "ref": "(2)",
+     "text": "Each forum shall enter into a recognition agreement with the Authority upon proof to the satisfaction of the Authority that the forum represents a significant number of organizations registered by the Authority as prescribed by the Cabinet Secretary."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Self-regulation forums to develop and maintain codes of conduct",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "SELF-REGULATION, ADMINISTRATIVE AND REPORTING OBLIGATIONS",
+   "text": "(1) Each forum of public benefit organizations shall establish and maintain a code and standards by which its members shall be bound.\n(2) The forums of public benefit organizations may, for purposes of enhancing self-regulation, organise themselves in such federation of forums as may be expedient for that purpose.\n(3) The forums shall ensure that each code of conduct adopted by them is consistent with the national and foreign policies and the laws of Kenya, and that such code of conduct contain, as a minimum, the provisions of the general conduct of conduct.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Each forum of public benefit organizations shall establish and maintain a code and standards by which its members shall be bound."
+    },
+    {
+     "ref": "(2)",
+     "text": "The forums of public benefit organizations may, for purposes of enhancing self-regulation, organise themselves in such federation of forums as may be expedient for that purpose."
+    },
+    {
+     "ref": "(3)",
+     "text": "The forums shall ensure that each code of conduct adopted by them is consistent with the national and foreign policies and the laws of Kenya, and that such code of conduct contain, as a minimum, the provisions of the general conduct of conduct."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Organizational integrity and internal self-regulation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "SELF-REGULATION, ADMINISTRATIVE AND REPORTING OBLIGATIONS",
+   "text": "(1) The governing body of a public benefit organization shall be distinct and separate from the administrative and day-to-day management body of the organization.\n(2) The principles of transparency and accountability shall be applied to all the affairs and activities of a public benefit organization, whether with the Government, the target population or beneficiaries, donors, other public benefit organizations or other stakeholders.\n(3) The governing body of a public benefit organization shall establish clear and unambiguous guidelines relating to conduct and operations of the organization, including guidelines to ensure that the personal interests of its members, the staff and volunteers do not conflict with those of the organization or influence, or affect the performance of their duties.\n(4) A public benefit organization shall not discriminate against any person but in no event shall a public benefit organization created to assist targeted populations, where the target is determined in line with social justice values, be required to assist people of other populations.\n(5) The activities of a public benefit organization shall, upon request, be open and accessible to scrutiny by its respective stakeholders, except for personal matters, legal matters and proprietary information, as may be provided for by or under any law.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The governing body of a public benefit organization shall be distinct and separate from the administrative and day-to-day management body of the organization."
+    },
+    {
+     "ref": "(2)",
+     "text": "The principles of transparency and accountability shall be applied to all the affairs and activities of a public benefit organization, whether with the Government, the target population or beneficiaries, donors, other public benefit organizations or other stakeholders."
+    },
+    {
+     "ref": "(3)",
+     "text": "The governing body of a public benefit organization shall establish clear and unambiguous guidelines relating to conduct and operations of the organization, including guidelines to ensure that the personal interests of its members, the staff and volunteers do not conflict with those of the organization or influence, or affect the performance of their duties."
+    },
+    {
+     "ref": "(4)",
+     "text": "A public benefit organization shall not discriminate against any person but in no event shall a public benefit organization created to assist targeted populations, where the target is determined in line with social justice values, be required to assist people of other populations."
+    },
+    {
+     "ref": "(5)",
+     "text": "The activities of a public benefit organization shall, upon request, be open and accessible to scrutiny by its respective stakeholders, except for personal matters, legal matters and proprietary information, as may be provided for by or under any law."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Voluntary service on governing body",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "SELF-REGULATION, ADMINISTRATIVE AND REPORTING OBLIGATIONS",
+   "text": "Every person who serves on the governing body of a public benefit organization shall serve on a voluntary basis and shall only be eligible for the reimbursement of costs and expenses incurred in the service of the organization.",
+   "clauses": []
+  },
+  "27": {
+   "num": "27",
+   "title": "Ethical principles and aspirations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "SELF-REGULATION, ADMINISTRATIVE AND REPORTING OBLIGATIONS",
+   "text": "In the pursuit of its aims, objectives and activities, every public benefit organization shall be guided by the following principles and aspirations—\n  (a) commitment to the sanctity of human life and to a peaceful and non-violent orientation in all its activities;\n  (b) promotion of democracy, human rights, the rule of law, good governance as well as justice for all the people of Kenya;\n  (c) respect for the equality, rights and dignity of all people;\n  (d) promotion of social justice to ensure balanced economic development;\n  (e) rejection of partisan political, ethnic, cultural, racial or religious intolerance and all other forms of discrimination;\n  (f) commitment to the promotion of gender equality and social inclusion at all levels;\n  (g) maintenance of a culture of transparency and accountability particularly in the receipt and management of funds and avoiding corrupt and unethical practices;\n  (h) maintenance of high standards of governance and management of the public benefit organization by prescribing and implementing policies, norms of conduct and operationai requirements that apply to its staff, management and governing body;\n  (i) promotion of a culture of dialogue and sharing of resources, information, expertise and experiences;\n  (j) maintenance of a high standard of professionalism in service and interactions and dealing with people through honesty, fairness, integrity, respect for confidentiality, objectivity, care, diligence, prudence, timeliness and straightforwardness;\n  (k) rejection of research efforts, programmes projects and other activities which are directly or indirectly aimed at developing methods of torture, or other forms of techniques that violate and subvert people's human rights;\n  (l) observance of clear guidelines on conflict ofinterest;\n  (m) fostering and maintaining mutual trust, partnership and respect between public benefit organizations, the private sector, donors and the Government;\n  (n) identifying and reporting any breach or violation of the provisions of this Act to the Authority;\n  (o) respect for the autonomy, independence and diversity of public benefit organizations.",
+   "clauses": []
+  },
+  "28": {
+   "num": "28",
+   "title": "Promotion of self-regulation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "SELF-REGULATION, ADMINISTRATIVE AND REPORTING OBLIGATIONS",
+   "text": "(1) The Authority shall encourage umbrella associations for public benefit organizations to develop and publish codes of conduct applicable to members, governing body officials, staff and volunteers of the public benefit organizations.\n(2) The Authority shall facilitate training on self-regulation of public benefit organization to deepen the knowledge and strengthen the capacity of public benefit organizations for self-regulation.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority shall encourage umbrella associations for public benefit organizations to develop and publish codes of conduct applicable to members, governing body officials, staff and volunteers of the public benefit organizations."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority shall facilitate training on self-regulation of public benefit organization to deepen the knowledge and strengthen the capacity of public benefit organizations for self-regulation."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Fiscal transparency",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "SELF-REGULATION, ADMINISTRATIVE AND REPORTING OBLIGATIONS",
+   "text": "Every public benefit organization registered under this Act shall —\n  (a) implement internal accounting and administrative procedures necessary to ensure the transparent and proper use of its financial and other resources;\n  (b) utilise its financial and other resources for the attainment of its aims, objects and purposes.",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "Accounts and reports",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "SELF-REGULATION, ADMINISTRATIVE AND REPORTING OBLIGATIONS",
+   "text": "(1) Every public benefit organization registered under this Act shall keep proper books of accounts and other records in relation to its operations and activities and shall, subject to subsection (2), prepare annually a statement of accounts in a form which conforms to the standards of the generally accepted accounting practice applicable to non-profit organizations.\n(2) The financial statements prepared and submitted by a public benefit organization, shall include an opinion signed by an independent auditor as to whether the financial statements present fairly, in all material respects, the organization's financial position for the reporting period.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every public benefit organization registered under this Act shall keep proper books of accounts and other records in relation to its operations and activities and shall, subject to subsection (2), prepare annually a statement of accounts in a form which conforms to the standards of the generally accepted accounting practice applicable to non-profit organizations."
+    },
+    {
+     "ref": "(2)",
+     "text": "The financial statements prepared and submitted by a public benefit organization, shall include an opinion signed by an independent auditor as to whether the financial statements present fairly, in all material respects, the organization's financial position for the reporting period."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Annual report",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "SELF-REGULATION, ADMINISTRATIVE AND REPORTING OBLIGATIONS",
+   "text": "Within six months after the end of each financial year, every public benefit organisation registered under this Act shall cause to be made and submitted to the Authority—\n  (a) a statement of its accounts audited in accordance with section 30 (2) above;\n  (b) a certified copy of its financial statements;\n  (c) a report dealing generally with the programme of activities of the public benefit organization during that financial year.",
+   "clauses": []
+  },
+  "32": {
+   "num": "32",
+   "title": "Duty to provide information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "SELF-REGULATION, ADMINISTRATIVE AND REPORTING OBLIGATIONS",
+   "text": "Every registered public benefit organization shall provide to the Authority, in writing, the names and physical, business and residential addresses of members of its governing body within one month after any appointment or election of the governing body.",
+   "clauses": []
+  },
+  "33": {
+   "num": "33",
+   "title": "Protection from personal liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "SELF-REGULATION, ADMINISTRATIVE AND REPORTING OBLIGATIONS",
+   "text": "No member of any governing body of a public benefit organization shall be held personally liable for any act done in good faith on behalf of the organization, or by virtue of the office held in the governing body.",
+   "clauses": []
+  },
+  "34": {
+   "num": "34",
+   "title": "Establishment of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) There is established an Authority to be known as the Public Benefit Organizations Regulatory Authority.\n(2) The Authority is a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property;\n  (c) borrowing money or making investments;\n  (d) entering into contracts; and (e) doing or performing all other acts or things for the proper performance of its functions under this Act which may lawfully be done or performed by a body corporate.\n(3) The Authority shall establish mechanisms to ensure that its services are available in all parts of the Republic.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established an Authority to be known as the Public Benefit Organizations Regulatory Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority is a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of— (a) suing and being sued; (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property; (c) borrowing money or making investments; (d) entering into contracts; and (e) doing or performing all other acts or things for the proper performance of its functions under this Act which may lawfully be done or performed by a body corporate."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Authority shall establish mechanisms to ensure that its services are available in all parts of the Republic."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Composition of Board of the Authority, etc",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) There shall be a Board of the Authority which shall consist of—\n  (a) the chairperson appointed by the Cabinet Secretary;\n  (b) three members, at least one of whom shall be of different gender from the other two, who have rendered distinguished service in the civil society, appointed by the Cabinet Secretary;\n  (c) the Principal Secretary in the ministry responsible for matters relating to public benefit organizations;\n  (d) the Principal Secretary in the ministry responsible for matters relating to finance;\n  (e) the Principal Secretary in the ministry responsible for matters relating to foreign affairs;\n  (f) the Attorney-General;\n  (g) one public officer representing the Principal Secretary responsible for such departments as the Authority shall determine;\n  (h) the chairperson of the governing board of the Federation;\n  (i) two members of the governing board of the federation, being one woman and one man, nominated by the members of the governing board of the Federation and appointeµ by the Cabinet Secretary; and (j) the Director.\n(2) No person may be appointed as chairperson of the Board unless that person possesses at least ten years' experience, in matters relating to civil society.\n(3) No person shall be eligible for appointment under subsection (1)(b) or nomination under subsection (1) (g) unless such person has at least ten years' experience in the public benefit organizations' sector.\n(4) A person appointed as chairperson or member of the Board shall before taking office relinquish any directorship or employment in a public benefit organization that that person may have held before the appointment.\n(5) A member of the Board, other than an ex officio member, may resign from office by a letter addressed to the Cabinet Secretary.\n(6) The Board may co-opt such number of persons not exceeding three to bring such expertise to the Board as the Board may require for the better discharge of its functions.\n(7) Persons co-opted under subsection (6) shall have no right to vote on any matter at a meeting of the Board.\n(8) The Cabinet Secretary shall prescribe rules for the nomination of the members contemplated under subsection (1)(g).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Board of the Authority which shall consist of— (a) the chairperson appointed by the Cabinet Secretary; (b) three members, at least one of whom shall be of different gender from the other two, who have rendered distinguished service in the civil society, appointed by the Cabinet Secretary; (c) the Principal Secretary in the ministry responsible for matters relating to public benefit organizations; (d) the Principal Secretary in the ministry responsible for matters relating to finance; (e) the Principal Secretary in the ministry responsible for matters relating to foreign affairs; (f) the Attorney-General; (g) one public officer representing the Principal Secretary responsible for such departments as the Authority shall determine; (h) the chairperson of the governing board of the Federation; (i) two members of the governing board of the federation, being one woman and one man, nominated by the members of the governing board of the Federation and appointeµ by the Cabinet Secretary; and (j) the Director."
+    },
+    {
+     "ref": "(2)",
+     "text": "No person may be appointed as chairperson of the Board unless that person possesses at least ten years' experience, in matters relating to civil society."
+    },
+    {
+     "ref": "(3)",
+     "text": "No person shall be eligible for appointment under subsection (1)(b) or nomination under subsection (1) (g) unless such person has at least ten years' experience in the public benefit organizations' sector."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person appointed as chairperson or member of the Board shall before taking office relinquish any directorship or employment in a public benefit organization that that person may have held before the appointment."
+    },
+    {
+     "ref": "(5)",
+     "text": "A member of the Board, other than an ex officio member, may resign from office by a letter addressed to the Cabinet Secretary."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Board may co-opt such number of persons not exceeding three to bring such expertise to the Board as the Board may require for the better discharge of its functions."
+    },
+    {
+     "ref": "(7)",
+     "text": "Persons co-opted under subsection (6) shall have no right to vote on any matter at a meeting of the Board."
+    },
+    {
+     "ref": "(8)",
+     "text": "The Cabinet Secretary shall prescribe rules for the nomination of the members contemplated under subsection (1)(g)."
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Qualifications of members of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) A person shall be qualified for appointment as of a member of the Board if such person—\n  (a) is a citizen of Kenya;\n  (b) is a person of high moral character and proven integrity;\n  (c) is a holder of at least an undergraduate degree from a university recognized in Kenya;\n  (d) has knowledge and at least five years' experience in matters relating to public benefit organizations, finance or management; and (e) has no subsisting office or membership in a public benefit organization.\n(2) No person shall be qualified for appointment as a member of the Board of the Authority if such person—\n  (a) is a member of the National Assembly;\n  (b) is a member of a local authority;\n  (c) is a member of the executive body of, or is actively involved in the affairs of, a political party.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall be qualified for appointment as of a member of the Board if such person— (a) is a citizen of Kenya; (b) is a person of high moral character and proven integrity; (c) is a holder of at least an undergraduate degree from a university recognized in Kenya; (d) has knowledge and at least five years' experience in matters relating to public benefit organizations, finance or management; and (e) has no subsisting office or membership in a public benefit organization."
+    },
+    {
+     "ref": "(2)",
+     "text": "No person shall be qualified for appointment as a member of the Board of the Authority if such person— (a) is a member of the National Assembly; (b) is a member of a local authority; (c) is a member of the executive body of, or is actively involved in the affairs of, a political party."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Term of office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "The chairperson and the members of the Board of the Authority shall hold office for a term of three years and may be re-appointed for a further and final term of three years.",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "Oath of office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "The chairperson, the members of the Board of the Authority and the Director shall each make and subscribe to a prescribed oath or affirmation of office before the Chief Justice.",
+   "clauses": []
+  },
+  "39": {
+   "num": "39",
+   "title": "Vacancy",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) The office of the chairperson or a member of the Board of the Authority shall become vacant if the holder —\n  (a) dies;\n  (b) resigns from office by writing under his hand addressed to the Cabinet Secretary;\n  (c) is removed from office in accordance with the provisions of section 40;\n  (d) is convicted of an offence and sentenced to imprisonment for a term of three months or more without the option of a fine;\n  (e) is unable to discharge the functions of his office by reason of physical or mental infirmity;\n  (f) is absent from three consecutive meetings of the Board without good cause; or (g) is declared bankrupt. (2) The Cabinet Secretary shall notify every vacancy in the Gazette within seven days of the occurrence of the vacancy.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The office of the chairperson or a member of the Board of the Authority shall become vacant if the holder — (a) dies; (b) resigns from office by writing under his hand addressed to the Cabinet Secretary;"
+    }
+   ]
+  },
+  "40": {
+   "num": "40",
+   "title": "Removal from office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) A member of the Board may be removed from Removal from office by the Cabinet Secretary —\n  (a) for gross misconduct or misbehaviour; or (b) if convicted of an offence involving moral turpitude, but shall not be so removed except on a resolution of the Board supported by at least two-thirds of the members of the Board.\n(2) For the purposes of subsection (1), \"misbehaviour\" includes, but is not limited to criminal conduct and breach of the standards of professionalism referred to in section 27 (1)(j).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A member of the Board may be removed from Removal from office by the Cabinet Secretary — (a) for gross misconduct or misbehaviour; or (b) if convicted of an offence involving moral turpitude, but shall not be so removed except on a resolution of the Board supported by at least two-thirds of the members of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of subsection (1), \"misbehaviour\" includes, but is not limited to criminal conduct and breach of the standards of professionalism referred to in section 27 (1)(j)."
+    }
+   ]
+  },
+  "41": {
+   "num": "41",
+   "title": "Filling of a vacancy",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) Where a vacancy occurs in the Board as a result of death, disability, resignation or removal of a member of the Board, the Cabinet Secretary shall appoint a replacement from among the short listed persons considered by the National Assembly in accordance with the Third Schedule.\n(2) A person who is appointed in place of a member of the Board whose office has become vacant under this section shall hold office for the remainder of the term of office of that member of the Board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a vacancy occurs in the Board as a result of death, disability, resignation or removal of a member of the Board, the Cabinet Secretary shall appoint a replacement from among the short listed persons considered by the National Assembly in accordance with the Third Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who is appointed in place of a member of the Board whose office has become vacant under this section shall hold office for the remainder of the term of office of that member of the Board."
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "Functions of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) The functions of the Authority shall be to—\n  (a) register and de-register public benefit organizations in accordance with this Act;\n  (b) maintain a register of public benefit organizations registered under this Act with the precise sectors, affiliations and locations of their activities;\n  (c) interpret the national policy on public benefit organizations so as to assist in its smooth implementation and observance by Government ministries, departments and agencies at various levels;\n  (d) receive and review annual reports of public benefit organizations;\n  (e) advise the Government on the activities of public benefit organizations and their role in development within Kenya;\n  (f) issue forms, instructions, and model documents;\n  (g) facilitate information sharing and networking between public benefit organizations and the Government;\n  (h) institute inquiries to determine if the activities of public benefit organizations do not comply with this Act or any other law;\n  (i) provide advice and training to public benefit organizations; and (j) do anything incidental or conducive to the performance of any of the preceding functions.\n(2) In the performance of its functions in terms of subsection (1), the Authority shall be independent and shall be not act under the direction or control of any person or authority.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The functions of the Authority shall be to— (a) register and de-register public benefit organizations in accordance with this Act; (b) maintain a register of public benefit organizations registered under this Act with the precise sectors, affiliations and locations of their activities; (c) interpret the national policy on public benefit organizations so as to assist in its smooth implementation and observance by Government ministries, departments and agencies at various levels; (d) receive and review annual reports of public benefit organizations; (e) advise the Government on the activities of public benefit organizations and their role in development within Kenya; (f) issue forms, instructions, and model documents; (g) facilitate information sharing and networking between public benefit organizations and the Government; (h) institute inquiries to determine if the activities of public benefit organizations do not comply with this Act or any other law; (i) provide advice and training to public benefit organizations; and (j) do anything incidental or conducive to the performance of any of the preceding functions."
+    },
+    {
+     "ref": "(2)",
+     "text": "In the performance of its functions in terms of subsection (1), the Authority shall be independent and shall be not act under the direction or control of any person or authority."
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Power of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "The Board shall have all powers necessary for the proper performance of the functions of the Authority under this Act and in particular, but without prejudice to the generality of the foregoing, the Board shall have power to—\n  (a) control, supervise and administer the assets of the Authority in such manner as best promotes the purpose for which the Authority is established;\n  (b) determine the provisions to be made for capital and recurrent expenditure and for the reserves of the Authority;\n  (c) receive any grants, gifts, donations or endowments and make legitimate disbursements therefrom;\n  (d) open such banking accounts for its funds as may be necessary;\n  (e) invest any funds of the Authority not immediately required for its purposes in the manner provided in section 60;\n  (f) undertake any activity necessary for the fulfilment of any of its functions.",
+   "clauses": []
+  },
+  "43A": {
+   "num": "43A",
+   "title": "Power of the Authority to public benefit organizations at risk of terrorism financing",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) The Authority shall have powers to oversight and monitor public benefit organizations that are at risk of terrorism financing and in particular shall—\n  (a) periodically identify organizations that are likely to be at risk of terrorist financing abuse;\n  (b) periodically conduct an assessment of the terrorism financing risks posed to such public benefit organizations;\n  (c) develop focused, proportionate and risk-based actions to address terrorism financing risks identified in paragraph (b);\n  (d) ensure that the measures developed in paragraph (c) do not undermine the legitimate operations of public benefit organizations.\n(2) The Authority shall ensure effective co-operation, coordination and information sharing on public benefit organizations at risk of terrorism financing with the Financial Reporting Centre and relevant law enforcement authorities.\n(3) The Authority shall have the power to issue regulations, guidelines, directions, rules or instructions for the public benefit organisation that have been identified to be at risk\n(4) The Authority may impose monetary, civil or administrative sanctions for violations under the Act. (5) The Authority may impose monetary, civil or administrative sanctions for violations under the Act.\n[Act No. 6 of 2025, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority shall have powers to oversight and monitor public benefit organizations that are at risk of terrorism financing and in particular shall— (a) periodically identify organizations that are likely to be at risk of terrorist financing abuse; (b) periodically conduct an assessment of the terrorism financing risks posed to such public benefit organizations; (c) develop focused, proportionate and risk-based actions to address terrorism financing risks identified in paragraph (b); (d) ensure that the measures developed in paragraph (c) do not undermine the legitimate operations of public benefit organizations."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority shall ensure effective co-operation, coordination and information sharing on public benefit organizations at risk of terrorism financing with the Financial Reporting Centre and relevant law enforcement authorities."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Authority shall have the power to issue regulations, guidelines, directions, rules or instructions for the public benefit organisation that have been identified to be at risk"
+    },
+    {
+     "ref": "(4)",
+     "text": "The Authority may impose monetary, civil or administrative sanctions for violations under the Act. (5) The Authority may impose monetary, civil or administrative sanctions for violations under the Act."
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Conduct of business and affairs of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) The conduct and regulation of the business and affairs of the Board shall be as provided in the Fourth Schedule.\n(2) Except as provided in the Fourth Schedule, the Board may regulate its own procedure.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The conduct and regulation of the business and affairs of the Board shall be as provided in the Fourth Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "Except as provided in the Fourth Schedule, the Board may regulate its own procedure."
+    }
+   ]
+  },
+  "45": {
+   "num": "45",
+   "title": "Director",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) There shall be a Director of the Authority who shall be appointed by the Authority.\n(2) The Director shall hold office for a period of five years, on such terms and conditions of employment as the Authority may determine and shall be eligible for re-appointment for a further and final term of five years.\n(3) A person is not eligible for appointment as the Director unless he or she is a person of integrity and has knowledge or at least ten years' demonstrable experience in matters relating to strategic and program planning, operations or management, including staff management or supervision, or any equivalent combination of education and experience from which comparable knowledge, skills and abilities have been achieved.\n(4) The Director shall—\n  (a) be the chief executive officer and the secretary to the Board; and\n  (b) subject to the directions of the Board, be responsible for the day to day management of the affairs and staff of the Authority.\n(5) The Director shall, unless in any particular case the Board otherwise directs in writing, attend all meetings of the Board but shall have no vote on any matter falling to be decided by the Board at any such meeting.\n(6) The Director may be removed from office by the Board before expiry of the term set out in the instrument of appointment only for inability to exercise the functions of the office, whether arising from infirmity of body or mind or any other cause, or for misbehaviour.\n(7) For the purposes of subsection (6), \"misbehaviour\" includes, but is not limited to criminal conduct and breach of the standards of professionalism referred to in section 27(l)(j).\n(8) The Director shall be removed from office by the Board if the question of the Director's removal has been referred to a special committee of the Board appointed for the purpose of considering the matter and—\n  (a) the committee has so recommended; and\n  (b) the Board has approved the committee's recommendation by the votes of not less than twothirds of all its members.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Director of the Authority who shall be appointed by the Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Director shall hold office for a period of five years, on such terms and conditions of employment as the Authority may determine and shall be eligible for re-appointment for a further and final term of five years."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person is not eligible for appointment as the Director unless he or she is a person of integrity and has knowledge or at least ten years' demonstrable experience in matters relating to strategic and program planning, operations or management, including staff management or supervision, or any equivalent combination of education and experience from which comparable knowledge, skills and abilities have been achieved."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Director shall—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The Director shall, unless in any particular case the Board otherwise directs in writing, attend all meetings of the Board but shall have no vote on any matter falling to be decided by the Board at any such meeting."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Director may be removed from office by the Board before expiry of the term set out in the instrument of appointment only for inability to exercise the functions of the office, whether arising from infirmity of body or mind or any other cause, or for misbehaviour."
+    },
+    {
+     "ref": "(7)",
+     "text": "For the purposes of subsection (6), \"misbehaviour\" includes, but is not limited to criminal conduct and breach of the standards of professionalism referred to in section 27(l)(j)."
+    },
+    {
+     "ref": "(8)",
+     "text": "The Director shall be removed from office by the Board if the question of the Director's removal has been referred to a special committee of the Board appointed for the purpose of considering the matter and—"
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "Staff of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) The Board shall appoint a Deputy Director and such officers and other staff as are necessary for the proper discharge of the functions of the Authority under this Act, upon such terms and conditions of service as it may determine.\n(2) In appointing officers and staff under subsection (1), the Board shall have regard to gender equity and regional balance.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall appoint a Deputy Director and such officers and other staff as are necessary for the proper discharge of the functions of the Authority under this Act, upon such terms and conditions of service as it may determine."
+    },
+    {
+     "ref": "(2)",
+     "text": "In appointing officers and staff under subsection (1), the Board shall have regard to gender equity and regional balance."
+    }
+   ]
+  },
+  "47": {
+   "num": "47",
+   "title": "Delegation by the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "The Board may, by resolution either generally or in any particular case, delegate to any committee or to any member, officer, employee or agent of the Board, the exercise of any of the powers or the performance of any of the functions or duties of the Authority under this Act or under any other written law.",
+   "clauses": []
+  },
+  "48": {
+   "num": "48",
+   "title": "Protection from personal liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) No act or omission by any member of the Board or by any officer, employee, agent or servant of the Board shall, if the act or omission was done in good faith for the purposes of executing a function, power or duty under the Act render such member, officer, employee, agent or servant personally liable to any, action, claim or demand whatsoever.\n(2) The provisions of subsection (1) shall not relieve the Authority of the liability to pay compensation to any person for any injury to the person, the person's property or to any of the person's interests caused by the exercise of any power conferred by this Act or by failure, whether wholly or partially, of any works.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No act or omission by any member of the Board or by any officer, employee, agent or servant of the Board shall, if the act or omission was done in good faith for the purposes of executing a function, power or duty under the Act render such member, officer, employee, agent or servant personally liable to any, action, claim or demand whatsoever."
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of subsection (1) shall not relieve the Authority of the liability to pay compensation to any person for any injury to the person, the person's property or to any of the person's interests caused by the exercise of any power conferred by this Act or by failure, whether wholly or partially, of any works."
+    }
+   ]
+  },
+  "49": {
+   "num": "49",
+   "title": "Common seal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) The common seal of the Authority shall be kept in such custody as the Board may direct and shall not be used except on the order of the Board.\n(2) The affixing of the common seal of the Authority shall be authenticated by the signature of the chairperson and the Director and any document not required by law to be made under seal and all decisions of the Board may be authenticated by the signatures of both the chairperson and the Director.\n(3) Notwithstanding the provisions of subsection (2) the Board shall, in the absence of either the chairperson or the Director in a particular matter, nominate one member to authenticate the seal on behalf of either the chairperson or the Director.\n(4) The common seal of the Authority when affixed to a document and duly authenticated shall be judicially and officially noticed and unless and until the contrary is proved, any necessary order or authorization by the Board under this section shall be presumed to have been duly given.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The common seal of the Authority shall be kept in such custody as the Board may direct and shall not be used except on the order of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "The affixing of the common seal of the Authority shall be authenticated by the signature of the chairperson and the Director and any document not required by law to be made under seal and all decisions of the Board may be authenticated by the signatures of both the chairperson and the Director."
+    },
+    {
+     "ref": "(3)",
+     "text": "Notwithstanding the provisions of subsection (2) the Board shall, in the absence of either the chairperson or the Director in a particular matter, nominate one member to authenticate the seal on behalf of either the chairperson or the Director."
+    },
+    {
+     "ref": "(4)",
+     "text": "The common seal of the Authority when affixed to a document and duly authenticated shall be judicially and officially noticed and unless and until the contrary is proved, any necessary order or authorization by the Board under this section shall be presumed to have been duly given."
+    }
+   ]
+  },
+  "50": {
+   "num": "50",
+   "title": "Establishment of the Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "THE PUBLIC BENEFIT ORGANIZATIONS DISPUTES TRIBUNAL",
+   "text": "(1) There is hereby established a tribunal to be known as the Public Benefit Organizations Disputes Tribunal which shall consist of members appointed by the Chief Justice and approved by the National Assembly, as follows—\n  (a) a chairperson who shall be an advocate of the High Court of not less than seven years standing;\n  (b) two advocates of the High Court of not less than five years standing;\n  (c) two persons having such specialized skill or knowledge necessary for the discharge of the functions of the Tribunal.\n(2) Not more than two-thirds of the persons appointed under subsection (1) shall be from one gender.\n(3) A member or staff of the Authority shall not serve as a member of the Tribunal.\n(4) The quorum for a meeting of the Tribunal shall be the chairperson and two other members.\n(5) There shall be paid to the members of the Tribunal such remuneration and allowances as the Authority may, in consultation with the Salaries and Remuneration Commission, determine.\n(6) The office of a member of the Tribunal shall become vacant—\n  (a) at the expiration of three years from the date of his appointment;\n  (b) if the member ceases by any reason to be an advocate as referred to in subsection (I);\n  (c) if the member is removed from membership of the Tribunal by the Chief Justice for failure to discharge the functions of office (whether arising from infirmity of body or mind or from any other cause) or for misbehaviour; or\n  (d) if the member resigns.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is hereby established a tribunal to be known as the Public Benefit Organizations Disputes Tribunal which shall consist of members appointed by the Chief Justice and approved by the National Assembly, as follows—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Not more than two-thirds of the persons appointed under subsection (1) shall be from one gender."
+    },
+    {
+     "ref": "(3)",
+     "text": "A member or staff of the Authority shall not serve as a member of the Tribunal."
+    },
+    {
+     "ref": "(4)",
+     "text": "The quorum for a meeting of the Tribunal shall be the chairperson and two other members."
+    },
+    {
+     "ref": "(5)",
+     "text": "There shall be paid to the members of the Tribunal such remuneration and allowances as the Authority may, in consultation with the Salaries and Remuneration Commission, determine."
+    },
+    {
+     "ref": "(6)",
+     "text": "The office of a member of the Tribunal shall become vacant—"
+    }
+   ]
+  },
+  "51": {
+   "num": "51",
+   "title": "Jurisdiction of the Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "THE PUBLIC BENEFIT ORGANIZATIONS DISPUTES TRIBUNAL",
+   "text": "(1) The Tribunal shall have jurisdiction to—\n  (a) hear and determine complaints arising out of any breach of the provisions of this Act;\n  (b) hear and determine any matter or appeal made to it pursuant to the provisions of this Act; and\n  (c) perform such other functions as may be conferred upon it by this Act or by any other written law being in force.\n(2) The jurisdiction conferred upon the Tribunal under subsection (1) excludes criminal jurisdiction except as provided under section 53.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Tribunal shall have jurisdiction to—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The jurisdiction conferred upon the Tribunal under subsection (1) excludes criminal jurisdiction except as provided under section 53."
+    }
+   ]
+  },
+  "52": {
+   "num": "52",
+   "title": "Powers of the Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "THE PUBLIC BENEFIT ORGANIZATIONS DISPUTES TRIBUNAL",
+   "text": "(1) On the hearing of a complaint or an appeal, the Tribunal shall have all the powers of a subordinate court of the first class to summon witnesses, to take evidence upon oath or affirmation and to call for the production of books and other documents.\n(2) Where the Tribunal considers it desirable for the purpose of minimizing expense or avoiding delay or for any other special reason, it may receive evidence by affidavit and administer interrogatories and require the person to whom the interrogatories are administered to make a full and true reply to the interrogatories within the time specified by the Tribunal.\n(3) In its determination of any matter, the Tribunal may take into consideration any evidence which it considers relevant to the subject of the matter before it, notwithstanding that the evidence would not otherwise be admissible under the Evidence Act (Cap. 80).\n(4) The Tribunal shall have power to summon expert evidence as may be necessary for the discharge of its functions under this Act.\n(5) The Tribunal shall have power to award the costs of any proceedings before it and to direct that costs shall be taxed in accordance with any scale prescribed for suits in the High Court or to award a specific sum as costs.\n(6) All summonses, notices or other documents issued under the hand of the chairperson of the Tribunal shall be deemed to be issued by the Tribunal.\n(7) Upon any complaint or appeal being made to the Tribunal under this Act, the Tribunal may—\n  (a) confirm, set aside, vary or quash the order or decision in question;\n  (b) require the Authority to revise or review its decision;\n  (c) require the Authority to inquire into specific details from the appellant and make further consideration of the application; or\n  (d) make such other order as may be appropriate in the circumstances.\n(8) Without prejudice to the generality of subsection (7)(b), the Tribunal may make an order for the maintenance of the status quo of any matter or activity which is the subject of the complaint or appeal until the complaint or appeal is determined.\n(9) Any interested party may be represented before the Tribunal by an advocate or by any other person whom the Tribunal may, in its discretion, admit to be heard on behalf of the party.\n(10) A decision made by the Tribunal shall be final and binding on the parties unless judicial review thereof commences within fourteen days from the date of the Tribunal's decision.\n(11) Any party to the review aggrieved by the decision of the Tribunal may appeal to the High Court and the decision of the High Court shall be final.\n(12) A party to the review which disobeys the decision of the Tribunal or the High Court shall be in breach of this Act and any action by such party contrary to the decision of the Tribunal or the High Court shall be null and void.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "On the hearing of a complaint or an appeal, the Tribunal shall have all the powers of a subordinate court of the first class to summon witnesses, to take evidence upon oath or affirmation and to call for the production of books and other documents."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Tribunal considers it desirable for the purpose of minimizing expense or avoiding delay or for any other special reason, it may receive evidence by affidavit and administer interrogatories and require the person to whom the interrogatories are administered to make a full and true reply to the interrogatories within the time specified by the Tribunal."
+    },
+    {
+     "ref": "(3)",
+     "text": "In its determination of any matter, the Tribunal may take into consideration any evidence which it considers relevant to the subject of the matter before it, notwithstanding that the evidence would not otherwise be admissible under the Evidence Act (Cap. 80)."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Tribunal shall have power to summon expert evidence as may be necessary for the discharge of its functions under this Act."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Tribunal shall have power to award the costs of any proceedings before it and to direct that costs shall be taxed in accordance with any scale prescribed for suits in the High Court or to award a specific sum as costs."
+    },
+    {
+     "ref": "(6)",
+     "text": "All summonses, notices or other documents issued under the hand of the chairperson of the Tribunal shall be deemed to be issued by the Tribunal."
+    },
+    {
+     "ref": "(7)",
+     "text": "Upon any complaint or appeal being made to the Tribunal under this Act, the Tribunal may—"
+    },
+    {
+     "ref": "(8)",
+     "text": "Without prejudice to the generality of subsection (7)(b), the Tribunal may make an order for the maintenance of the status quo of any matter or activity which is the subject of the complaint or appeal until the complaint or appeal is determined."
+    },
+    {
+     "ref": "(9)",
+     "text": "Any interested party may be represented before the Tribunal by an advocate or by any other person whom the Tribunal may, in its discretion, admit to be heard on behalf of the party."
+    },
+    {
+     "ref": "(10)",
+     "text": "A decision made by the Tribunal shall be final and binding on the parties unless judicial review thereof commences within fourteen days from the date of the Tribunal's decision."
+    },
+    {
+     "ref": "(11)",
+     "text": "Any party to the review aggrieved by the decision of the Tribunal may appeal to the High Court and the decision of the High Court shall be final."
+    },
+    {
+     "ref": "(12)",
+     "text": "A party to the review which disobeys the decision of the Tribunal or the High Court shall be in breach of this Act and any action by such party contrary to the decision of the Tribunal or the High Court shall be null and void."
+    }
+   ]
+  },
+  "53": {
+   "num": "53",
+   "title": "Disobedience of summons to give evidence, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "THE PUBLIC BENEFIT ORGANIZATIONS DISPUTES TRIBUNAL",
+   "text": "Any person summoned by the Tribunal to attend and give evidence or to produce any records, books of give evidence, account, statements, or other documents or required to answer interrogatories and who, without sufficient cause—\n  (a) refuses or fails to attend at the time and place mentioned in the summons served on him;\n  (b) refuses or fails to answer, or to answer fully and satisfactorily, to the best of his knowledge and belief all questions lawfully put to him by or with the concurrence of the Tribunal; or (c) refuses or fails to produce any records, books of account, statements or other documents which are in his possession or under his control mentioned or referred to in any summons served on him, commits an offence and is liable upon conviction to a fine not exceeding fifty thousand shillings or to imprisonment for a term not exceeding two years, or to both.",
+   "clauses": []
+  },
+  "54": {
+   "num": "54",
+   "title": "Enforcement of orders for damages and costs",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "THE PUBLIC BENEFIT ORGANIZATIONS DISPUTES TRIBUNAL",
+   "text": "(1) Where the Tribunal awards damages or costs in orders for any matter before it, it shall, on application by the person in whose favour the damages or costs are awarded, issue to costs. him a certificate stating the amount of the damages or costs.\n(2) Every certificate issued under subsection (1) may be filed in the High Court by the person in whose favour the damages or costs have been awarded and, upon being so filed, shall be deemed to be a decree of the High Court and may be executed as such.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the Tribunal awards damages or costs in orders for any matter before it, it shall, on application by the person in whose favour the damages or costs are awarded, issue to costs. him a certificate stating the amount of the damages or costs."
+    },
+    {
+     "ref": "(2)",
+     "text": "Every certificate issued under subsection (1) may be filed in the High Court by the person in whose favour the damages or costs have been awarded and, upon being so filed, shall be deemed to be a decree of the High Court and may be executed as such."
+    }
+   ]
+  },
+  "55": {
+   "num": "55",
+   "title": "Rules of the Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "THE PUBLIC BENEFIT ORGANIZATIONS DISPUTES TRIBUNAL",
+   "text": "Except as otherwise provided in this Act, the Chief Justice may, in consultation with the chairperson of the Tribunal, and by notice in the Gazette, make rules governing the practice and procedure of the Tribunal having regard to the objects if this Act.",
+   "clauses": []
+  },
+  "56": {
+   "num": "56",
+   "title": "Funds of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The funds of the Authority shall comprise of—\n  (a) such fees, monies or assets as may accrue to or vest in the Authority in the course of the exercise of its powers or the performance of its functions under this Act or under any written law; and (b) all monies from any other source provided for or donated or lent to the Authority.",
+   "clauses": []
+  },
+  "57": {
+   "num": "57",
+   "title": "Financial year",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The financial year of the Authority shall be the period of twelve months ending on the thirtieth June in each year.",
+   "clauses": []
+  },
+  "58": {
+   "num": "58",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) At least three months before the commencement of each financial year, the Board shall cause to be prepared estimates of the revenue and expenditure of the Authority for that year.\n(2) The annual estimates shall make provision for all estimated expenditure of the Authority for the financial year and in particular, the estimates shall provide for—\n  (a) the payment of the salaries, allowances and other charges in respect of members of the Board and staff of the Authority;\n  (b) the payment of pensions, gratuities and other charges in respect of the staff of the Authority;\n  (c) the proper maintenance of the buildings and grounds of the Authority;\n  (d) the maintenance, repair and replacement of the equipment and other property of the Authority; and\n  (e) the creation of such reserve funds to meet future or contingent liabilities in respect of retirement benefits, insurance or replacement of buildings or equipment, or in respect of such other matter as the Board may deem appropriate.\n(3) The annual estimates shall be approved by the Board before the commencement of the financial year to which they relate and shall be submitted to the Cabinet Secretary for approval and after the Cabinet Secretary's approval, the Board shall not increase the annual estimates of the Authority without the consent of the Cabinet Secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "At least three months before the commencement of each financial year, the Board shall cause to be prepared estimates of the revenue and expenditure of the Authority for that year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall make provision for all estimated expenditure of the Authority for the financial year and in particular, the estimates shall provide for—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual estimates shall be approved by the Board before the commencement of the financial year to which they relate and shall be submitted to the Cabinet Secretary for approval and after the Cabinet Secretary's approval, the Board shall not increase the annual estimates of the Authority without the consent of the Cabinet Secretary."
+    }
+   ]
+  },
+  "59": {
+   "num": "59",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Board shall cause to be kept all proper books and records of accounts of the income, expenditure and assets of the Authority.\n(2) Within a period of three months after the end of each financial year, the Board shall submit to the Auditor-General the accounts of the Authority together with—\n  (a) a statement of the income and expenditure of the Authority during that year; and\n  (b) a balance sheet of the Authority on the last day of that year.\n(3) The accounts of the Authority shall be audited and reported upon in accordance with the Public Audit Act (Cap. 412B).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall cause to be kept all proper books and records of accounts of the income, expenditure and assets of the Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within a period of three months after the end of each financial year, the Board shall submit to the Auditor-General the accounts of the Authority together with—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The accounts of the Authority shall be audited and reported upon in accordance with the Public Audit Act (Cap. 412B)."
+    }
+   ]
+  },
+  "60": {
+   "num": "60",
+   "title": "Investment of funds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The Board may invest any of the funds of the Authority in securities, in which for the time being trustees may by law invest trust funds, or in any other securities or banks which the Treasury may, from time to time, approve for that purpose.",
+   "clauses": []
+  },
+  "61": {
+   "num": "61",
+   "title": "Voluntary deregistration, dissolution or winding-up",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A registered public benefit organization may deregister, wind itself up or dissolve voluntarily by sending to the Authority—\n  (a) in the case of a membership organization, a resolution by a vote of at least two-thirds of the members of the organization, signed by the chairperson of the governing body of the organization, or in the case of a non-membership organization, a voluntary decision made by its governing body in accordance with the public benefit organization's constitution—\n  (i) stating its intention to deregister, wind up or dissolve voluntarily and the reasons therefor; and\n  (ii) specifying a date, not exceeding two months from the date of the resolution, on which the deregistration is to take effect; and\n  (b) a copy of the reports referred to in section 30 for the period from its previous financial year up to the date of the resolution contemplated in this subsection.\n(2) If a registered public benefit organization is being wound up or dissolved in terms of any other law, the organization shall, within one month after completion of the winding-up or dissolution process or the relevant order of court, send to the Authority—\n  (a) a written notice—\n  (i) stating this fact;\n  (ii) containing certified copies of all relevant documents confirming the winding up or dissolution; and\n  (b) a copy of the reports referred to in section 30 for the period from its previous financial year up to the date of the written notice contemplated in this subsection.\n(3) Upon receiving a resolution or notice of voluntary deregistration or winding-up or dissolution from a registered public benefit organization, the Authority shall on the date specified in the resolution or notice—\n  (a) cancei the organization's certificate of registration, and deregister it by amending the register; and\n  (b) notify the organization in writing of the deregistration and confirm the date on which the amendment was made to the register.\n(4) When an organization is deregistered, wound up or dissolved, any asset remaining after all its liabilities have been met, shall be transferred to another public benefit organization having similar objectives, which shall be identified through a resolution of the governing body of the organization being deregistered, wound up or dissolved; otherwise, the Authority shall make this decision.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A registered public benefit organization may deregister, wind itself up or dissolve voluntarily by sending to the Authority—"
+    },
+    {
+     "ref": "(2)",
+     "text": "If a registered public benefit organization is being wound up or dissolved in terms of any other law, the organization shall, within one month after completion of the winding-up or dissolution process or the relevant order of court, send to the Authority—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon receiving a resolution or notice of voluntary deregistration or winding-up or dissolution from a registered public benefit organization, the Authority shall on the date specified in the resolution or notice—"
+    },
+    {
+     "ref": "(4)",
+     "text": "When an organization is deregistered, wound up or dissolved, any asset remaining after all its liabilities have been met, shall be transferred to another public benefit organization having similar objectives, which shall be identified through a resolution of the governing body of the organization being deregistered, wound up or dissolved; otherwise, the Authority shall make this decision."
+    }
+   ]
+  },
+  "62": {
+   "num": "62",
+   "title": "Safety of assets on deregistration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Where the Authority has cancelled a certificate of registration of an organization under this Act, the Authority may require any officials or members of the organization, who can by reasonable effort be found in Kenya, to provide the Authority with an inventory, and the whereabouts, of the assets of the organization.\n(2) The Cabinet Secretary may by regulations prescribe the procedure for the tracing and safeguarding of assets under this section.\n(3) A person who fails to provide an inventory under subsection (1), when required to do so by the Authority commits an offence.\n(4) It shall be the responsibility of the Authority to prove that the inventory could by reasonable means be provided by a person accused by this section.\n(5) An organization that desires to dissolve voluntarily shall have the right to determine the organizations registered under this Act to which it shall distribute its assets provided that such organizations are certified by the Authority to be in good standing.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the Authority has cancelled a certificate of registration of an organization under this Act, the Authority may require any officials or members of the organization, who can by reasonable effort be found in Kenya, to provide the Authority with an inventory, and the whereabouts, of the assets of the organization."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary may by regulations prescribe the procedure for the tracing and safeguarding of assets under this section."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who fails to provide an inventory under subsection (1), when required to do so by the Authority commits an offence."
+    },
+    {
+     "ref": "(4)",
+     "text": "It shall be the responsibility of the Authority to prove that the inventory could by reasonable means be provided by a person accused by this section."
+    },
+    {
+     "ref": "(5)",
+     "text": "An organization that desires to dissolve voluntarily shall have the right to determine the organizations registered under this Act to which it shall distribute its assets provided that such organizations are certified by the Authority to be in good standing."
+    }
+   ]
+  },
+  "63": {
+   "num": "63",
+   "title": "General power to institute inquiries",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Authority may, where it deems necessary, to institute an inquiry with regard to a public benefit organization in accordance with section 42 (1)(h).\n(2) The Authority may—\n  (a) conduct an inquiry under subsection (1) on its own; or\n  (b) appoint a person to conduct the inquiry, and make a report to the Authority.\n(3) For the purposes of an inquiry under subsection (1), the Authority, or a person appointed by the Authority to conduct the inquiry, may direct any person—\n  (a) if a matter in question at the inquiry is one on which the person has or can reasonably obtain information, to —\n  (i) provide accounts and statements in writing with respect to the matter, or to provide answers in writing to any question or inquiry addressed to the person on the matter; and\n  (ii) verify any such accounts, statements or answers by statutory declaration;\n  (b) to provide copies of documents which are in the custody or under the control of the person, and which relate to any matter at the inquiry, and to verify any such copies by statutory declaration;\n  (c) to attend at a specified time and place and give evidence or produce such documents as the Authority or person conducting the inquiry may require.\n(4) The Authority may reimburse to any person attending to give evidence or produce documents for the purpose of an inquiry, the reasonable expenses of doing so.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority may, where it deems necessary, to institute an inquiry with regard to a public benefit organization in accordance with section 42 (1)(h)."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority may—"
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purposes of an inquiry under subsection (1), the Authority, or a person appointed by the Authority to conduct the inquiry, may direct any person—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The Authority may reimburse to any person attending to give evidence or produce documents for the purpose of an inquiry, the reasonable expenses of doing so."
+    }
+   ]
+  },
+  "64": {
+   "num": "64",
+   "title": "Offences and penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Any person who—\n  (a) forges or utters any document for the purposes of procuring registration;\n  (b) makes a false statement in respect of an application for registration;\n  (c) makes any material false statement in any document submitted to the Authority;\n  (d) fraudulently holds out any organization as being registered under this Act;\n  (e) fraudulently makes use of a registration number, registration certificate or any information contained in a registration certificate, commits an offence and is liable, on conviction, to a fine not exceeding three hundred thousand shillings, or imprisonment for a term not exceeding two years, or both.",
+   "clauses": []
+  },
+  "65": {
+   "num": "65",
+   "title": "Income and economic activity",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A public benefit organization may engage in lawful economic activities as long as the income is used solely to support the public benefit purposes for which the organization was established.\n(2) The income of a public benefit organization may include—\n  (a) donations of cash, securities, and in-kind contributions;\n  (b) bequests;\n  (c) membership fees;\n  (d) gifts;\n  (e) grants;\n  (f) real or personal property; and\n  (g) income generated from any lawful activities undertaken by the public benefit organization with its property and resources.\n(3) A public benefit organization may own and manage property and assets for the accomplishment of its not-for-profit purposes.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public benefit organization may engage in lawful economic activities as long as the income is used solely to support the public benefit purposes for which the organization was established."
+    },
+    {
+     "ref": "(2)",
+     "text": "The income of a public benefit organization may include—"
+    },
+    {
+     "ref": "(3)",
+     "text": "A public benefit organization may own and manage property and assets for the accomplishment of its not-for-profit purposes."
+    }
+   ]
+  },
+  "66": {
+   "num": "66",
+   "title": "Public policy and political activities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A public benefit organization may engage freely in research, education, publication and advocacy with respect to any issue affecting the public interest, including criticism of the policies or activities of the state or any officer or organ thereof.\n(2) A public benefit organization may also express its views on any issue or policy that is or may be debated or discussed in the course of a political campaign or election.\n(3) A public benefit organization may not engage in fundraising or campaigning to support or oppose any political party or candidate for appointive or elective public office, nor may it propose or register candidates for elective public office.\n(4) The government shall engage with public benefit organizations on all matters of development and shall invite them to participate in policy making.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A public benefit organization may engage freely in research, education, publication and advocacy with respect to any issue affecting the public interest, including criticism of the policies or activities of the state or any officer or organ thereof."
+    },
+    {
+     "ref": "(2)",
+     "text": "A public benefit organization may also express its views on any issue or policy that is or may be debated or discussed in the course of a political campaign or election."
+    },
+    {
+     "ref": "(3)",
+     "text": "A public benefit organization may not engage in fundraising or campaigning to support or oppose any political party or candidate for appointive or elective public office, nor may it propose or register candidates for elective public office."
+    },
+    {
+     "ref": "(4)",
+     "text": "The government shall engage with public benefit organizations on all matters of development and shall invite them to participate in policy making."
+    }
+   ]
+  },
+  "67": {
+   "num": "67",
+   "title": "Involvement by Government",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Government shall involve public benefit organizations in policy decision making on issues affecting them, particularly at the local levels, and every ministry shall designate officers who shall deal with matters relating to public benefit organizations, and work closely with each other and with the Authority.",
+   "clauses": []
+  },
+  "68": {
+   "num": "68",
+   "title": "Entry permits",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Any registered public benefit organization wishing to obtain entry permits in respect of prospective employees shall, where—\n  (a) the services of such employees are necessary for the proper function of the organization;\n  (b) no persons with comparable skills are available locally; or\n  (c) such employees shall contribute towards the training of Kenyans to obtain scientific, technical and managerial skills, apply in writing to the Principal Immigration Officer for the issuance of the required permits in accordance with the provisions of the Immigration Act (Cap. 173).",
+   "clauses": []
+  },
+  "69": {
+   "num": "69",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary may, on the recommendations of the Authority, make regulations generally for the better carrying into effect of the provisions of this Act.\n(2) Any condition, restriction or prohibition contained in Regulations made under subsection (1) shall be proportionate to the objects of those Regulations and shall limit the rights of persons and bodies as little as is reasonably possible.\n(3) If a failure to comply with a condition, restriction or prohibition contained in Regulations under this Act is an offence, the Regulations shall provide that, to the extent practicable, before being subjected to criminal liability, the affected person shall be given notice of the offence and a reasonable opportunity to comply with the Regulations.\n(4) Before making Regulations under this section, the Cabinet Secretary shall, unless public interest requires that the Regulations be made without delay, comply with the following—\n  (a) the intention to make Regulations shall be announced by notice in the Gazette and in at least two daily newspapers of national circulation specifying—\n  (i) that draft Regulations have been developed for comments;\n  (ii) the place where a copy of the draft Regulations may be obtained;\n  (b) a period of at least one month from the date of the notice shall be allowed for interested parties to comment on the draft Regulations;\n  (c) comments received on the draft Regulations shall be considered before making the Regulations.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, on the recommendations of the Authority, make regulations generally for the better carrying into effect of the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any condition, restriction or prohibition contained in Regulations made under subsection (1) shall be proportionate to the objects of those Regulations and shall limit the rights of persons and bodies as little as is reasonably possible."
+    },
+    {
+     "ref": "(3)",
+     "text": "If a failure to comply with a condition, restriction or prohibition contained in Regulations under this Act is an offence, the Regulations shall provide that, to the extent practicable, before being subjected to criminal liability, the affected person shall be given notice of the offence and a reasonable opportunity to comply with the Regulations."
+    },
+    {
+     "ref": "(4)",
+     "text": "Before making Regulations under this section, the Cabinet Secretary shall, unless public interest requires that the Regulations be made without delay, comply with the following—"
+    }
+   ]
+  },
+  "70": {
+   "num": "70",
+   "title": "Repeal of No. 19. of 1990",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Non-Governmental Organisations Co-ordination Act, 1990, is repealed.",
+   "clauses": []
+  },
+  "71": {
+   "num": "71",
+   "title": "Transition",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The transitional provisions set out in the Fifth Schedule shall apply upon commencement of this Act.",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE (s. 4(3))",
+   "subtitle": "PRINCIPLES FOR EFFECTIVE COLLABORATION BETWEEN THE GOVERNMENT AND PUBLIC BENEFIT ORGANIZATIONS",
+   "text": "PREAMBLE The Representatives of the Government and Public Benefit Organizations: Desirous to further develop and strengthen the working relations between the two sectors; Recognizing the importance of mutual co-existence and the need to work together for the posterity of the nation and people of Kenya; Aware of the necessity of complementary efforts of the Government and public benefits organizations for social, economic and cultural development; Determined to strengthen collaboration, dialogue and relations between the Government and public benefit organizations; Conscious that these principles only serve as a guide for engagement between the Government and public benefit organizations who choose to work together; Committed to principled collaboration; Hereby agree to the following principles for collaboration to guide our collaborative work.\nPart I – OBJECTIVES 1.Objectives of the principles The objectives of these principles for effective collaboration are to—\n  (a) strengthen collaboration between the Government and civil society organizations;\n  (b) reinforce complementary efforts of the Government and civil society organizations and their contribution in enhancing the country's development;\n  (c) enhance the enabling environment for the achievement of joint development programming of both sectors;\n  (d) offer guidance to the Government and civil society organizations in their relations and interactions with each other;\n  (e) serve as a basis for resolving conflicts that affect Government and civil society organization collaboration;\n  (f) promote effective coordination and dissemination of information on Government and civil society organization collaboration; and\n  (g) provide the basis for a legal or policy framework aimed at guiding Government and civil society organization collaboration.\nPart II – GUIDING PRINCIPLES 1. Guiding principles for collaboration Dialogue and Communication Government and public benefit organization sectors shall ensure that dialogue is open, respectful, informed, sustained and welcomes diverse viewpoints; and that they provide forums where they can meet each other periodically for focused discussions, consultation and consensus building. 2. Communication The sectors shall aim to ensure—\n  (a) free flow of information between and to all actors involved in any collaboration initiative to promote similar comprehension with regard to it and to facilitate efficiency;\n  (b) engagement in regular, open and inclusive communication and problem solving; and (c) establishment of clear and open communication processes iri which information and ideas are shared openly and regularly. 3. Managing Diverse Expectations The sectors shall individually, and where appropriate, collectively, inform their respective stakeholders and the public as well, of their roles and contributions to society and the successes achieved through their collaboration. 4. Conflict Management The sectors shall—\n  (a) make provisions to set up agreeable modalities or processes to manage conflicts inherent in the work they jointly do;\n  (b) identify and address all disagreements and conflicts immediately and devote substantial time, resources and personal effort to the management of all conflicts, on behalf of any collaborative initiative's continuation;\n  (c) address challenges to any collaboration with open dialogue and negotiation or acknowledge the need for re-negotiation; and\n  (d) verify any risks to any collaboration at the beginning and define ways of mitigating such risks. 5. Learning and Sharing To enhance the knowledge and practice of collaboration, the sectors shall ensure that they—\n  (a) convey a readiness to accept constructive criticism;\n  (b) accommodate new ideas from each other;\n  (c) pursue a harmonized approach where this is deemed necessary for the promotion of the collaborative initiative and in the public interest;\n  (d) work jointly to identify an agreed, common vision and align collaboration activities and programs with it;\n  (e) demonstrate a willingness to make changes in themselves as part of the process of working with others, that is, show flexibility; and (f) share ideas, perspectives, information, experiences and knowledge consistently in order to contribute to a better understanding of the different work styles, cultures and time frames and to promote best practice in collaboration. 6. Sustainability and capacity development across the board The sectors shall aim to ensure sustainability of the collaborative initiative and its benefits through developing their capacities and those of their beneficiaries in the context of their collaborative efforts.\nThe sectors will work jointly to identify capacity gaps and develop a plan to build their capacities for successful implementation of collaborative programs.\n7. Joint initiatives To ensure clarity of roles, synergy and sustainability of collaborative initiatives, the sectors shall jointly—\n  (a) embark on harmonized planning of activities at the beginning of the initiative to identify needs, define objectives and agree on each party's roles and responsibilities with regard to the collaboration;\n  (b) develop modalities or structures that are agreeable to each of them, for the implementation of the collaboration;\n  (c) provide their implementing agencies or officials with the necessary incentives, resources, and opportunities to participate in the collaborative effort;\n  (d) involve each other in the collaborative initiative's decision making.\n8. Institutionalization The sectors shall aim to secure institutional memory and ensure continuity in their collaborative initiatives through—\n  (a) designating focal points at all relevant levels, for all activities and issues concerning their collaboration;\n  (b) integrating the collaboration process into ongoing programs;\n  (c) embarking on succession planning at the beginning of the collaboration; and\n  (d) ensuring effective representation throughout the collaboration.\n9. Resources In line with their competencies (technical, financial or other), the sectors shall provide appropriate and sufficient resources to any collaborative effort, in order to maximize its chances of success, growth, maturation and continuation.\n10. Good Governance\n  (a) Good Stewardship of Resources The sectors shall ensure proper care, use and allocation of resources during their collaborative initiatives.\n  (b) Transparency and Accountability The sectors shall aim to convey openness and responsibility for the activities and use of resources during their collaboration. The sectors shall also consider themselves fully accountable for the success or failure of their collaborative endeavours.\n  (c) Integrity Enhancement The sectors shall work jointly to promote and ensure—\n  (a) a culture of ethical conduct and best practices is upheld m their collaborative initiatives;\n  (b) identification of, and adherence to or application of quality standards of sound management and institutional excellence, in the implementation of collaborative initiatives; and\n  (c) the identification of agreeable modalities to detect and address conflicts of interest.\n11. Equity and Equality in Partnerships Within the context of their collaboration, the sectors shall reinforce—\n  (a) mutual respect for each sectors' rights;\n  (b) identification and participation of partners in the collaborative initiative on the basis of competence; and (c) building of synergies based on their comparative strengths. 12. Promotion of Trust 12.1 Enabling Environment The sectors shall work together to provide an enabling environment for collaboration through—\n  (a) promoting mutual respect, understanding, appreciation and acceptance of each other and of the diversity or workings of the other partner(s) and constraints they work within;\n  (b) acknowledging and valuing each other's core competencies; and (c) setting up measures for frequent communication, constructive discussions and the dissemination of information to relevant stakeholders. 12.2 Shared Credit The sectors shall ensure that their public relations activities—\n  (a) accurately reflect their collaborative efforts;\n  (b) take into consideration each organization's policies, procedures and communication needs; and (c) promote the spirit of collaboration. 13. Monitoring, Evaluation and Reporting The sectors shall work together to ensure that—\n  (a) all of their collaborative efforts are aimed at meeting identified needs of their beneficiaries through adopting results-based management;\n  (b) they report publicly on their collaborative efforts using clear, consistent and transparent reporting policies;\n  (c) they develop and use procedures and tools agreeable to each of them to monitor and evaluate the development impact of their efforts; and (d) they evaluate, on an annual basis, any progress observed in the number of collaborative initiatives entered, as well as the manner in which the initiatives are taking place and the successes achieved through them. 14. Predictability The sectors shall work together to ensure that their collaborative initiatives are predictable in practice through—\n  (a) definition, in advance, of all processes required;\n  (b) recognition, in advance of their relationships with third parties, which may influence their collaboration; and (c) identification, in advance, of risks, needs and support required for effective implementation.\nPart III – COMMITMENTS 1. The Government commits itself to—\n  (a) establish, respect, and promote an enabling environment for public benefit organization work; and (b) promote the use of these guiding principles in all Government-public benefit organization collaborative initiatives.\n2. Public benefit organisations commit themselves to—\n  (a) explore opportunities for principled and structured collaboration with the Government in their activities; and\n  (b) promote the use of these guiding principles in all Government-public benefit organization collaborative initiatives.\n3. The sectors jointly commit themselves to—\n  (a) collaborate in a manner consistent with these guiding principles;\n  (b) champion the repeated use of these principles by their sectors, over the long-term.\n4. The sectors agree to establish a joint committee of not more than fifteen members, with shared representation from both sectors in pursuance of the provisions of these principles. The joint committee shall annually monitor and assess progress made by the sectors in terms of application of these principles and report this to interested parties and stakeholders.\n5. The joint committee shall—\n  (a) base its report on information collected from evaluation processes conducted by individual Government and public benefit organization actors and also on emerging issues with regard to collaboration;\n  (b) champion the dissemination of the principles amongst the sectors, their respective stakeholders and the public as well;\n  (c) clarify any questions touching on the construction, meaning or effect of these principles or their contents.\n6. The joint committee shall review these principles on an annual basis and will receive proposals for review of the principles from either the Government or public benefit organization actors, and any reviews will be agreed upon by means of exchange of letters."
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE (s. 6)",
+   "subtitle": "BENEFITS OF REGISTRATION",
+   "text": "1. Indirect government support in the form of—\n  (a) exemptions from—\n  (i) income tax on income received from membership subscriptions and any donations or grants;\n  (ii) income tax on income acquired from the active conduct of income producing activities if the income is wholly used to support the public benefit purposes for which the organization was established;\n  (iii) tax on interest and dividends on investments and gains earned on assets or the sale of assets;\n  (iv) stamp duty; and\n  (v) court fees.\n  (b) preferential treatment under value added tax (VAT), and customs duties in relation to imported goods or services that are used to further their public benefit purposes;\n  (c) incentives for donations by legal and natural persons;\n  (d) employment tax preferences and;\n  (e) special tax incentives for donations to form endowments, prudent investment policies, etc.\n2. Provision of direct government financing for public benefit organizations that partner with the government, via budget subsidies, grants for specific purposes, and contracts to perform certain work.\n3. Preferential treatment in public procurement procedures and bidding for contracts.\n4. Provision of information to enable public benefit organizations to contribute effectively to the policy processes.\n5. Access to training courses that are relevant to public benefit organizations and offered by government institutions."
+  },
+  {
+   "id": "att_3",
+   "title": "THIRD SCHEDULE (s. 41)",
+   "subtitle": "PROCEDURE FOR NOMINATING MEMBERS OF THE BOARD OF THE AUTHORITY",
+   "text": "1. The Cabinet Secretary shall, within fourteen days of the commencement of this Act, by advertisement in the Gazette and· in at least three daily newspapers of national circulation, declare vacancies and invite applications from persons qualified under this Act for nomination as members of the Board.\n2. An application under paragraph 1 shall be forwarded to the Permanent Secretary of the Ministry for the time being responsible for planning and national development within fourteen days of the advertisement and may be made by—\n  (a) any qualified person; or\n  (b) any person, org~nization or group of persons proposing the nomination of any qualified person.\n3. The names of all applicants under paragraph 1 shall be published in the Gazette.\n4. The Cabinet Secretary shall, within seven days of the expiry of the period prescribed under paragraph 1, convene a committee comprising of representatives of a broad spectrum of public benefit organizations for the purposes of considering the applications, interviewing and short listing twelve persons qualified for appointment as members of the Board.\n5. The committee shall rank and provide comments regarding each of the finalists to the Cabinet Secretary.\n6. Meetings The Cabinet Secretary shall, within seven days of the expiry of the period provided for in paragraph 4, forward the shortlisted names to the National Assembly.\n7. The National Assembly shall, within fourteen days of the receipt of names under paragraph 6, through an open and consultative vetting process, consider all nominations and approve the names of six nominees for appointment as members of the Board.\n8. Upon consideration and approval by the National Assembly, the Clerk of the National Assembly shall within seven days forward the names of the approved persons to the Cabinet Secretary for appointment.\n9. Where the National Assembly fails to approve the minimum number of nominees required, the Clerk of the National Assembly shall within three days of the decision communicate the names of the approved nominees and those of the rejected nominees to the Cabinet Secretary for the submission by the Cabinet Secretary, within seven days, of fresh nominations in respect of the rejected candidates.\n10. Upon submission of fresh nominations by the Cabinet Secretary procedure under paragraphs 7 and 8 shall apply.\n11. Upon receipt of the names of the nominees, the Cabinet Secretary shall, by notice in the Gazette, appoint the approved persons as members of the Board.\n10. In nominating or appointing persons as members of the Board, the National Assembly and the Cabinet Secretary shall have regard to gender equity and regional balance."
+  },
+  {
+   "id": "att_4",
+   "title": "FOURTH SCHEDULE (s.44)",
+   "subtitle": "PROVISIONS AS TO THE CONDUCT OF BUSINESS AND AFFAIRS OF THE BOARD OF THE AUTHORITY",
+   "text": "1. Meeting\n(1) The Board shall meet not less than four times in every financial year and not more than four months shall elapse between the date of one meeting and the date of the next meeting.\n(2) Notwithstanding subparagraph (1), the Chairperson may, and upon requisition in writing by at least five members shall, convene a special meeting of the Board any time for the transaction of the business of the Board.\n(3) Unless three quarters of the total members of the Board otherwise agree, at least fourteen days' written notice of every meeting of the Board shall be given to every member of the Board.\n(4) The quorum for the conduct of the business of the Board shall be half of the total members including the chairperson or the person presiding.\n(5) The chairperson, or in his absence the vice-Chairperson, shall preside at every meeting of the Board but the members present shall elect one of their number to preside whenever the chairperson and viceChairperson are absent, and the person so elected shall have all the powers of the Chairperson with respect to that meeting and the business transacted thereat\n(6) Unless a unanimous decision is reached, a decision on any matter before the Board shall be by a majority of the votes of the members present and voting, and in case of an equality of votes, the Chairperson or the person presiding shall have a casting vote.\n(7) Subject to subparagraph (5), no proceedings of the Board shall be invalid by reason only of a vacancy among the members thereof.\n(8) Subject to the provisions of this Schedule, the Board may determine its own procedure and the procedure for any committee of the Board and for the attendance of other persons at its meetings and may make standing orders in respect thereof.\n2. Committees of the Board\n(1) The Board may establish such committees as it may deem appropriate to perform such functions and responsibilities as it may determine.\n(2) The Board shall appoint the chairperson of a committee established under subparagraph (1) from amongst its members.\n(3) All decisions by the committees appointed under paragraph (1) shall be ratified by the Board.\n3. Disclosure of Interest\n(1) A member who has an interest in any contract, or other matter present at a meeting shall at the meeting and as soon as reasonably practicable after the commencement, disclose the fact thereof and shall not take part in the consideration or discussion of, or vote on, any questions with respect to the contract or other matter, or be counted in the quorum of the meeting during consideration of the matter.\n(2) A disclosure of interest made under subparagraph (1) shall be recorded in the minutes of the meeting at which it is made.\n(3) A member of the Board who contravenes subparagraph (1) commits an offence and is liable on conviction to a fine not exceeding two hundred thousand shillings.\n4. Contract and instruments Any contract or instrument which, if entered into instruments. or executed by a person not being a body corporate, would not require to be under seal may be entered into or executed on behalf of the Authority by any person generally or specially authorized by the Board for that purpose."
+  },
+  {
+   "id": "att_5",
+   "title": "FIFTH SCHEDULE [(s. 71)]",
+   "subtitle": "TRANSITIONAL PROVISIONS",
+   "text": "1. Interpretation In this Schedule—\n\"appointed day\" means the day on which this Act shall come into operation;\n\"former Board\" means the Board known as the Non-Governmental Organization Co-ordination Board existing immediately before the commencement of this Act.\n2. Assets and liabilities\n(1) All the funds, assets and other property, both liabilities. movable and immovable, which immediately before the appointed day were vested in the former Board shall by virtue of this paragraph and without further assurance, vest in the Authority.\n(2) All rights, powers, liabilities and duties, whether arising under any written law or otherwise, which immediately before the appointed day were vested in, imposed on or enforceable by or against the former Board shall by virtue of this paragraph, be transferred to, vested in, imposed on, or be enforceable by or against the Authority.\n(3) On and after the appointed day, all actions, suits or legal proceedings by or against the former Board may be continued or prosecuted by or against the Commission and no such suit, action or legal proceedings shall abate or be affected by the coming into operation of this Act.\n(4) Any reference in any written law or in any document or instrument to the former Board shall, on and after the appointed day, be construed to be a reference to the Authority.\n3. Annual estimates The annual estimates of the former Board, for the financial year in which the appointed day occurs, shall be deemed to be the annual estimates of the Authority for the remainder of that financial year:\nProvided that such estimates may be varied by the Authority in such manner as the Cabinet Secretary may approve.\n4. Administrative decisions The administrative decisions made by the former Board or by the Cabinet Secretary which are in force immediately before the appointed day shall, on or after such day, have force as if they were directions made by the Authority or the Cabinet Secretary under this Act.\n5. Non-governmental Organizations organisations registered by the former Board\n(1) Every non-governmental organization which on the appointed day is registered under the NonGovernmental Organizations Act (now repealed) shall, be deemed to be registered as a public benefit organization under this Act and registered by shall have up to one year from the appointed day to seek the former registration as a public benefit organization under this Act.\n(2) A non-governmental organization referred to in paragraph (1) that fails to seek registration under this Act, after specific notice to it and a reasonable opportunity to do so, shall cease to have public benefit organization or any similar or equivalent status thirty days after the expiration of the specific notice period, unless it has by then, filed its application to be registered as a public benefit organization.\n6. Members of the Board of the Authority\n(1) A person, other than a public officer, who was a member of the former Board immediately before the the Board of commencement of this Act shall be deemed to be a member of the Board of the Authority and shall continue in office as if appointed under this Act for the remainder of the three year term as provided for under this Act and shall be eligible for re-appointment once.\n(2) Until such time as the terms of all persons serving the remainder of their term under subparagraph (1) have lapsed, the Board shall be deemed to be properly constituted notwithstanding that it has more members than has been provided for in section 35 of this Act.\n(3) The Executive Director appointed under the former Act and in office immediately before the commencement of this Act shall continue as the Director under this Act for his or her unexpired term and shall continue in office as if appointed under this Act for the remainder of a five-year term as provided for under this Act: Provided that that person shall be eligible for re-appointment as Director.\n7. (1) A non-governmental organization registered under the repealed Act shall be deemed registered under this Act and any obligations including duty to submit reports or returns pending or in the process shall be deemed as obligations under this Act in so far as such are consistent with this Act.\n(2) A non-governmental organization that was exempted from registration under the provisions of the former Act shall within three months of the commencement of this Act, apply for registration.\n8. The staff or agents of the former board shall be deemed to be members of staff or agents of the Authority. 9. Members of the governing board of the Non-Governmental Organizations Council in office immediately before the commencement of this Act shall continue in office as members of the governing board of the Federation under this Act as if elected to office under this Act, but only for the remainder of their term but shall be eligible for election to the governing board of the federation under this Act: Provided that cessation of membership in the governing board of the council under this paragraph shall not affect the membership of a member of the Board of the Authority, who shall, despite that cessation, continue in office as provided for in paragraph 1."
+  },
+  {
+   "id": "att_6",
+   "title": "SIXTH SCHEDULE [(s. 5(1))]",
+   "subtitle": "DESCRIPTION OF AREAS FOR WHICH AN ORGANIZATION MAY BE REGISTERED",
+   "text": "An organization that has as its objective the promotion of public benefit in any of, but not limited to the areas set out below may be registered by the Authority—\n  (a) legal aid;\n  (b) agriculture;\n  (c) children;\n  (d) culture;\n  (e) disability;\n  (f) energy;\n  (g) education;\n  (h) environment and conservation generally;\n  (i) gender;\n  (j) governance;\n  (k) poverty eradication;\n  (l) health;\n  (m) housing and settlement;\n  (n) human rights;\n  (o) HIV/AIDS;\n  (p) information;\n  (q) informal sector;\n  (r) old age;\n  (s) peace building;\n  (t) population and reproductive health;\n  (u) refugees;\n  (v) disaster prevention, preparedness and mitigation;\n  (w) relief;\n  (x) pastoralism and the marginalized communities;\n  (y) sports;\n  (z) water and sanitation;\n  (aa) animal welfare; and (bb) youth."
+  }
+ ],
+ "spent": {}
+}

@@ -1,0 +1,1372 @@
+{
+ "title": "Value Added Tax Act",
+ "citation": "Cap. 476",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2013/35/eng@2026-07-01",
+ "version_date": "2026-07-01",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "VALUE ADDED TAX ACT CAP. 476 Published in Kenya Gazette Vol. CXV—No. 121 on 23 August 2013 Assented to on 14 August 2013 Commenced on 2 September 2013 by Value Added Tax Comencement\n[Amended by Value Added Tax (Amendment) Act, 2014 (Act No. 7 of 2014) on 29 May 2014] [Amended by Finance Act, 2014 (Act No. 16 of 2014) on 19 September 2014] [Amended by Finance Act, 2015 (Act No. 14 of 2015) on 12 June 2015] [Amended by Tax Procedures Act (Cap. 469B) on 19 January 2016] [Amended by Finance Act, 2016 (Act No. 38 of 2016) on 9 June 2016] [Amended by Finance Act, 2016 (Act No. 38 of 2016) on 1 July 2016]\n[Amended by Value Added Tax (Amendment) Act, 2016 (Act No. 24 of 2016) on 24 August 2016] [Amended by Finance Act, 2016 (Act No. 38 of 2016) on 1 January 2017] [Amended by Finance Act, 2017 (Act No. 15 of 2017) on 3 April 2017]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2017 (Act No. 11 of 2017) on 4 May 2017] [Amended by Tax Laws (Amendment) Act, 2018 (Act No. 9 of 2018) on 1 July 2018] [Amended by Finance Act, 2018 (Act No. 10 of 2018) on 1 July 2018]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2019 (Act No. 12 of 2019) on 23 July 2019] [Amended by Finance Act, 2019 (Act No. 23 of 2019) on 15 November 2019] [Amended by Value Added Tax (Amendment of the Rate of Tax) Order, 2020 (Legal Notice 35 of 2020) on 1 April 2020]\n[Amended by Tax Laws (Amendment) Act, 2020 (Act No. 2 of 2020) on 25 April 2020] [Amended by Tax Laws (Amendment) Act, 2020 (Act No. 2 of 2020) on 15 May 2020]\n[Amended by Finance Act, 2020 (Act No. 8 of 2020) on 30 June 2020] [Amended by Value Added Tax (Amendment of The Rate of Tax) Order, 2020 (Legal Notice 206 of 2020) on 2 December 2020]\n[Amended by Tax Laws (Amendment)(No. 2) Act, 2020 (Act No. 22 of 2020) on 1 January 2021] [Amended by Finance Act, 2020 (Act No. 8 of 2020) on 1 July 2021] [Amended by Finance Act, 2021 (Act No. 8 of 2021) on 1 July 2021] [Amended by Finance Act, 2022 (Act No. 22 of 2022) on 1 July 2022]\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] [Amended by Finance Act, 2023 (Act No. 4 of 2023) on 1 July 2023]\n[Amended by The Statute Law (Miscellaneous Amendments) Act, 2024 (Act No. 3 of 2024) on 26 April 2024] [Amended by Tax Laws (Amendment) Act, 2024 (Act No. 12 of 2024) on 27 December 2024] [Amended by Finance Act, 2025 (Act No. 9 of 2025) on 1 July 2025] [Amended by The Value Added Tax (Amendment of Rate of Tax) Order, 2026 (Legal Notice 141 of 2026) on 7 August 2025] [Amended by Value Added Tax (Amendment of Rate of Tax) Order, 2026 (Legal Notice 69 of 2026) on 14 April 2026]\n[Amended by Value Added Tax (Amendment) Act, 2026 (Act No. 10 of 2026) on 15 April 2026] [Amended by Special Economic Zones (Amendment) Act, 2026 (Act No. 12 of 2026) on 15 May 2026]\n[Amended by Finance Act, 2026 (Act No. 19 of 2026) on 1 July 2026]\nAn Act of Parliament to review and update the law relating to value added tax; to provide for the imposition of value added tax on supplies made in, or imported into Kenya, and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ADMINISTRATION",
+   "provisions": [
+    "3",
+    "4"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "CHARGE TO TAX",
+   "provisions": [
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "PLACE AND TIME OF SUPPLY",
+   "provisions": [
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "TAXABLE VALUE",
+   "provisions": [
+    "13",
+    "14",
+    "15",
+    "16"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "DEDUCTION OF INPUT TAX",
+   "provisions": [
+    "17",
+    "17A",
+    "18"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "COLLECTION AND RECOVERY OF TAX",
+   "provisions": [
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "25A",
+    "26",
+    "27",
+    "28",
+    "29"
+   ]
+  },
+  {
+   "id": "part_VIII",
+   "num": "VIII",
+   "title": "REFUND OF TAX",
+   "provisions": [
+    "30",
+    "31",
+    "32",
+    "33"
+   ]
+  },
+  {
+   "id": "part_IX",
+   "num": "IX",
+   "title": "REGISTRATION AND DEREGISTRATION",
+   "provisions": [
+    "34",
+    "35",
+    "36",
+    "37"
+   ]
+  },
+  {
+   "id": "part_X",
+   "num": "X",
+   "title": "APPLICATION OF INFORMATION TECHNOLOGY",
+   "provisions": [
+    "38",
+    "39",
+    "40",
+    "41"
+   ]
+  },
+  {
+   "id": "part_XI",
+   "num": "XI",
+   "title": "INVOICES, RECORDS, RETURNS AND ASSESSMENTS",
+   "provisions": [
+    "42",
+    "43",
+    "44",
+    "45"
+   ]
+  },
+  {
+   "id": "part_XII",
+   "num": "XII",
+   "title": "ENFORCEMENT 47. [Deleted by Act No. 29 of 2015, 2nd Sch.] 48. [Deleted by Act No. 29 of 2015, 2nd Sch.] 49. [Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "provisions": []
+  },
+  {
+   "id": "part_XIII",
+   "num": "XIII",
+   "title": "OBJECTIONS 50. [Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "provisions": []
+  },
+  {
+   "id": "part_XIV",
+   "num": "XIV",
+   "title": "FORFEITURE AND SEIZURE 51. [Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "provisions": []
+  },
+  {
+   "id": "part_XV",
+   "num": "XV",
+   "title": "SETTLEMENT OF CASES AND RULINGS BY THE COMMISSIONER 52. [Deleted by Act No. 29 of 2015, 2nd Sch.] 53. [Deleted by Act No. 29 of 2015, 2nd Sch.] 54. [Deleted by Act No. 29 of 2015, 2nd Sch.] 55. [Deleted by Act No. 29 of 2015, 2nd Sch.] 56. [Deleted by Act No. 29 of 2015, 2nd Sch.] 57. [Deleted by Act No. 29 of 2015, 2nd Sch.] 58. [Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "provisions": [
+    "59"
+   ]
+  },
+  {
+   "id": "part_XVI",
+   "num": "XVI",
+   "title": "OFFENCES AND PENALTIES",
+   "provisions": [
+    "60",
+    "61",
+    "62",
+    "63"
+   ]
+  },
+  {
+   "id": "part_XVII",
+   "num": "XVII",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "64",
+    "65",
+    "66",
+    "66A",
+    "67",
+    "68"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Value Added Tax Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In this Act, unless the context otherwise requires—\n\"aircraft\" includes every description of conveyance for the transport by air of human beings or goods;\n\"assessment\" deleted by Act. No. 19 of 2026, s.25;\n\"Authority\" means the Kenya Revenue Authority established by the Kenya Revenue Authority Act (Cap. 469);\n\"authorised officer\", in relation to any provision of this Act, means any officer appointed under section 3 who has been authorised by the Commissioner to perform any functions under or in respect of that provision;\n\"business\" means—\n  (a) trade, commerce or manufacture, profession, vocation or occupation;\n  (b) any other activity in the nature of trade, commerce or manufacture, profession, vocation or occupation;\n  (c) any activity carried on by a person continuously or regularly, whether or not for gain or profit and which involves, in part or in whole, the supply of goods or services for consideration; or\n  (d) a supply of property by way of lease, licence, or similar arrangement, but does not include—\n  (i) employment;\n  (ii) a hobby or leisure activity of an individual; or\n  (iii) an activity of a person, other than an individual, that if carried on by an individual would come within subparagraph (ii);\n\"Cabinet Secretary\" means the Cabinet Secretary responsible for matters relating to finance;\n\"Commissioner\" means the Commissioner-General appointed under the Kenya Revenue Authority Act (Cap. 469), or, with respect to powers or functions that have been delegated under that Act to another Commissioner, that other Commissioner;\n\"company\" means a company as defined in the Companies Act (Cap. 486) or a corporate body formed under any other written law, including a foreign law, and includes any association, whether incorporated or not, formed outside Kenya which the Cabinet Secretary may, by order, declare to be a company for the purposes of this Act;\n\"concessional loan\" means a loan with at least twenty-five percent grant element;\n\"duty-free shop\" means a bonded warehouse licensed by the Commissioner of Customs for the deposit of dutiable goods on which duty has not been paid and which have been entered for sale to passengers departing to places outside Kenya;\n\"duty of customs\" means import duty, excise duty, export duty, countervailing duty, levy, cess, tax or surtax charged under any law for the time being in force relating to customs or excise;\n\"electronic notice system\" deleted by Act No. 10 of 2018, s. 12;\n\"exempt supplies\" means supplies specified in the First Schedule which are not subject to tax;\n\"export\" means to take or cause to be taken from Kenya to a foreign country, a special economic zone enterprise or to an export processing zone;\n\"export processing zone\" means an export processing zone designated under the Export Processing Zones Act (Cap. 517);\n\"goods\" means tangible movable and immovable property and includes electrical or thermal energy, gas and water, but does not include money;\n\"hotel\" includes premises commonly referred to as \"service flats\", \"service apartments\", \"beach cottages\", \"holiday cottages\", \"game lodges\", \"safari camps\", \"bandas\" or \"holiday villas\" and other premises or establishments used for similar purposes, but does not include—\n  (i) premises on which the only supply is under a lease or licence of not less than one month, unless the agreement relating thereto provides that by prior arrangement the occupier may, without penalty, terminate the lease or licence on less than one month's notice; or\n  (ii) premises operated by an educational or training institution approved by the Cabinet Secretary for the time being responsible for education for the use of the staff and students of that institution; or\n  (iii) premises operated by a medical institution approved by the Cabinet Secretary for the time being responsible for health, for the use of the staff and students of that institution;\n\"information technology\" deleted by Act. No. 19 of 2026, s.25;\n\"importation\" means to bring or cause to be brought into Kenya from a foreign country, a special economic zone enterprise or from an export processing zone;\n\"importer\", in relation to goods, means the person who owns the goods, or any other person who is, for the time being, in possession of or beneficially interested in the goods at the time of importation;\n\"input tax\" means—\n  (a) tax paid or payable on the supply to a registered person of any goods or services to be used by him for the purpose of his business; and\n  (b) tax paid by a registered person on the importation of goods or services to be used by him for the purposes of his business;\n\"Islamic finance arrangement\" has the meaning assigned to it in section 2 of the Income Tax Act (Cap. 470);\n\"Islamic finance return\" has the meaning assigned to it in section 2 of the Income Tax Act (Cap. 470);\n\"money\" means—\n  (a) any coin or paper currency that is legal tender in Kenya;\n  (b) a bill of exchange, promissory note, bank draft, or postal or money order;\n  (c) any amount provided by way of payment using a debit or credit card or electronic payment system;\n\"non-resident person\" deleted by Act No. 38 of 2016, s. 26(c);\n\"official aid funded project\" means a project funded by means of a grant or concessional loan in accordance with an agreement between the Government and any foreign government, agency, institution, foundation, organization or any other aid agency;\n\"output tax\" means tax which is due on taxable supplies;\n\"person\" means an individual, company, partnership, association of persons, trust, estate, the Government, a foreign government, or a political subdivision of the Government or foreign government;\n\"registered person\" means any person registered under section 34, but does not include an export processing zone enterprise or a special economic zone;\n\"regulations\" means any subsidiary legislation made under this Act; \"services\" means anything that is not goods or money; \"service exported out of Kenya\" means a service provided for use or consumption outside Kenya; \"ship stores\" means goods for use in aircraft or vessels engaged in international transport for consumption by passengers and crew and includes goods for sale on board such aircraft or vessels; \"special economic zones\" shall have the meaning assigned to it under the Special Economic Zones Act (Cap. 517A); \"Sukuk\" has the meaning assigned to it in section 2 of the Public Finance Management Act (Cap. 412A); \"supply\" means a supply of goods or services; \"supply of goods\" means—\n  (a) a sale, exchange, or other transfer of the right to dispose of the goods as owner; or (b) the provision of electrical or thermal energy, gas or water; \"supply of services\" means anything done that is not a supply of goods or money, including—\n  (a) the performance of services for another person;\n  (b) the grant, assignment, or surrender of any right;\n  (c) the making available of any facility or advantage; or (d) the toleration of any situation or the refraining from the doing of any act; \"supply of imported services\" means a supply of services that satisfies the following conditions—\n  (a) the supply is made by any person;\n  (b) the supply would have been a taxable supply if it had been made in Kenya; and (c) in the case of a registered person, the person would not have been entitled to a full amount of input tax payable if the services had been acquired by that person in a taxable supply; \"tax\" means the value added tax chargeable under this Act; \"tax computerized system\" deleted by Act. No. 19 of 2026, s.25; “tax invoice” includes an electronic tax invoice issued in accordance with section 23A of the Tax Procedures Act (Cap. 469B); \"tax period\" means one calendar month or such other period as may be prescribed in the regulations; \"tax registration certificate\" means a tax registration certificate issued by the Commissioner under section 34; \"tax representative\" deleted by Act No. 38 of 2016, s. 26(e); \"taxable supply\" means a supply, other than an exempt supply, made in Kenya by a person in the course or furtherance of a business carried on by the person, including a supply made in connection with the commencement or termination of a business; \"taxable value\" means the value determined in accordance with section 13 and 14; \"vehicle\" includes every description of conveyance for the transport by land of human beings or goods; \"zero-rated supply\" means a supply listed in the Second Schedule.\n(2) For the purposes of this Act, goods shall be classified by reference to the tariff numbers set out in Annex 1 to the Protocol on the Establishment of the East African Community Customs Union and in interpreting that Annex, the general rules of interpretation set out therein shall, with the necessary modifications, apply.\n(3) For the purposes of this Act—\n  (a) Islamic finance return is treated as interest, whether received or paid on a financial arrangement; and (b) reference to \"interest\" includes a reference to Islamic finance return.\n(Act No. 14 of 2015, s. 2, Act No. 38 of 2016, s. 26, Act No. 15 of 2017, s. 7, Act No. 10 of 2018, s. 12, Act No. 23 of 2019, s. 17, Act No. 8 of 2021, s. 22, Act No. 9 of 2025, s. 32, Act No. 19 of 2026, s. 25)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, unless the context otherwise requires—"
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of this Act, goods shall be classified by reference to the tariff numbers set out in Annex 1 to the Protocol on the Establishment of the East African Community Customs Union and in interpreting that Annex, the general rules of interpretation set out therein shall, with the necessary modifications, apply."
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purposes of this Act— (a) Islamic finance return is treated as interest, whether received or paid on a financial arrangement; and (b) reference to \"interest\" includes a reference to Islamic finance return."
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ADMINISTRATION",
+   "text": "",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Charge to tax",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CHARGE TO TAX",
+   "text": "(1) A tax, to be known as value added tax, shall be charged in accordance with the provisions of this Act on—\n  (a) a taxable supply made by a registered person in Kenya;\n  (b) the importation of taxable goods; and (c) a supply of imported taxable services.\n(2) The rate of tax shall be—\n  (a) in the case of a zero-rated supply, zero per cent; or\n  (aa) deleted by Act No. 4 of 2023, s. 30(a);\n  (ab) deleted by Act No. 4 of 2023, s. 30(b);\n  (b) in any other case, sixteen per cent of the taxable value of the taxable supply, the value of imported taxable goods or the value of a supply of imported taxable services.*Refer to L.N.69/2026.\n(2A) Notwithstanding the provisions of subsection (2), the rate of tax for the following items shall be eight percent of the taxable value—\n  (a) Motor Spirit (gasoline) premium of tariff number 2710.12.20;\n  (b) Illuminating Kerosene of tariff number 2710.19.22; and (c) Gas Oil (automotive, light, amber for high-speed engines) of tariff number 2710.19.31.\n(2B) The provisions of subsection (2A) shall be in effect for a period of ninety (90) days from the date of coming into effect of this Act: Provided that the Cabinet Secretary may by notice in the Gazette, extend the period under this subsection for a further ninety (90) days.\n(3) Tax on a taxable supply shall be a liability of the registered person making the supply and, subject to the provisions of this Act relating to accounting and payment, shall become due at the time of the supply.\n(4) The amount of tax payable on a taxable supply, if any, shall be recoverable by the registered person from the receiver of the supply, in addition to the consideration.\n(5) Tax on the importation of taxable goods shall be charged as if it were duty of customs and shall become due and payable by the importer at the time of importation.\n(6) Tax on the supply of imported taxable services shall be a liability of any person receiving the supply and, subject to the provisions of this Act relating to accounting and payment, shall become due at the time of the supply.\n(7) The provisions of subsection (1) shall be applicable to supplies made over the internet or an electronic network or through a digital marketplace.\n(8) The Cabinet Secretary shall make regulations to provide the mechanisms for implementing the provisions of subsection (7).\n(9) For the purposes of this section, \"digital marketplace\" means an online platform which enables users to sell goods or provide services to other users.\n(Act No. 10 of 2018, s. 13, Act No. 23 of 2019, s. 18, L.N. 35/2020, r. 2, Act No. 2 of 2020, Sch., L.N. 206/2020, r. 2, Act No. 8 of 2021, s. 23, Act No. 22 of 2022, s. 24, Act No. 4 of 2023, s. 30, L.N. 69/2026, Act No. 10 of 2026, s. 2)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A tax, to be known as value added tax, shall be charged in accordance with the provisions of this Act on— (a) a taxable supply made by a registered person in Kenya; (b) the importation of taxable goods; and (c) a supply of imported taxable services."
+    },
+    {
+     "ref": "(2)",
+     "text": "The rate of tax shall be— (a) in the case of a zero-rated supply, zero per cent; or"
+    },
+    {
+     "ref": "(2A)",
+     "text": "Notwithstanding the provisions of subsection (2), the rate of tax for the following items shall be eight percent of the taxable value— (a) Motor Spirit (gasoline) premium of tariff number 2710.12.20; (b) Illuminating Kerosene of tariff number 2710.19.22; and (c) Gas Oil (automotive, light, amber for high-speed engines) of tariff number 2710.19.31."
+    },
+    {
+     "ref": "(2B)",
+     "text": "The provisions of subsection (2A) shall be in effect for a period of ninety (90) days from the date of coming into effect of this Act: Provided that the Cabinet Secretary may by notice in the Gazette, extend the period under this subsection for a further ninety (90) days."
+    },
+    {
+     "ref": "(3)",
+     "text": "Tax on a taxable supply shall be a liability of the registered person making the supply and, subject to the provisions of this Act relating to accounting and payment, shall become due at the time of the supply."
+    },
+    {
+     "ref": "(4)",
+     "text": "The amount of tax payable on a taxable supply, if any, shall be recoverable by the registered person from the receiver of the supply, in addition to the consideration."
+    },
+    {
+     "ref": "(5)",
+     "text": "Tax on the importation of taxable goods shall be charged as if it were duty of customs and shall become due and payable by the importer at the time of importation."
+    },
+    {
+     "ref": "(6)",
+     "text": "Tax on the supply of imported taxable services shall be a liability of any person receiving the supply and, subject to the provisions of this Act relating to accounting and payment, shall become due at the time of the supply."
+    },
+    {
+     "ref": "(7)",
+     "text": "The provisions of subsection (1) shall be applicable to supplies made over the internet or an electronic network or through a digital marketplace."
+    },
+    {
+     "ref": "(8)",
+     "text": "The Cabinet Secretary shall make regulations to provide the mechanisms for implementing the provisions of subsection (7)."
+    },
+    {
+     "ref": "(9)",
+     "text": "For the purposes of this section, \"digital marketplace\" means an online platform which enables users to sell goods or provide services to other users."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Cabinet Secretary may amend the rate of tax",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CHARGE TO TAX",
+   "text": "(1) The Cabinet Secretary may, by order published in the Gazette, amend the rate of tax by increasing or decreasing any of the rates of tax by an amount not exceeding twenty-five per cent of the rate specified in section 5(2)(b).\n(2) Every order made under subsection (1) shall be laid before the National Assembly without unreasonable delay, and shall cease to have effect if a resolution of the National Assembly disapproving the order is passed within twenty days of the day on which the National Assembly next sits after the order is laid, but without prejudice to anything previously done thereunder.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, by order published in the Gazette, amend the rate of tax by increasing or decreasing any of the rates of tax by an amount not exceeding twenty-five per cent of the rate specified in section 5(2)(b)."
+    },
+    {
+     "ref": "(2)",
+     "text": "Every order made under subsection (1) shall be laid before the National Assembly without unreasonable delay, and shall cease to have effect if a resolution of the National Assembly disapproving the order is passed within twenty days of the day on which the National Assembly next sits after the order is laid, but without prejudice to anything previously done thereunder."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Zero rating",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CHARGE TO TAX",
+   "text": "(1) Where a registered person supplies goods or services and the supply is zero rated, no tax shall be charged on the supply, but it shall, in all other respects, be treated as a taxable supply.\n(2) A supply or importation of goods or services shall be zero-rated under this section if the goods or services are of the description for the time being specified in the Second Schedule.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a registered person supplies goods or services and the supply is zero rated, no tax shall be charged on the supply, but it shall, in all other respects, be treated as a taxable supply."
+    },
+    {
+     "ref": "(2)",
+     "text": "A supply or importation of goods or services shall be zero-rated under this section if the goods or services are of the description for the time being specified in the Second Schedule."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Place of supply of services",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PLACE AND TIME OF SUPPLY",
+   "text": "(1) A supply of services is made in Kenya if the place of business of the supplier from which the services are supplied is in Kenya.\n(2) If the place of business of the supplier is not in Kenya, the supply of services shall be deemed to be made in Kenya if the recipient of the supply is a registered or unregistered person and—\n  (a) the services are physically performed in Kenya by a person who is in Kenya at the time of supply;\n  (b) the services are directly related to immovable property in Kenya;\n  (c) deleted by Act No. 9 of 2025, s. 33(a)(ii);\n  (d) the services are electronic services delivered to a person in Kenya at the time of supply; or (e) the supply is a transfer or assignment of, or grant of a right to use, a copyright, patent, trademark, or similar right in Kenya. (3) In this section—\n\"electronic services\" means any of the following services, when provided or delivered on or through a telecommunications network—\n  (a) websites, web-hosting, or remote maintenance of programs and equipment;\n  (b) software and the updating of software;\n  (c) images, text, and information;\n  (d) access to databases;\n  (e) self-education packages;\n  (f) music, films, and games, including games of chance; or (g) political, cultural, artistic, sporting, scientific and other broadcasts and events including internet, radio or television broadcasting services. (Act No. 4 of 2023, s. 31, Act No. 9 of 2025, s. 33)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A supply of services is made in Kenya if the place of business of the supplier from which the services are supplied is in Kenya."
+    },
+    {
+     "ref": "(2)",
+     "text": "If the place of business of the supplier is not in Kenya, the supply of services shall be deemed to be made in Kenya if the recipient of the supply is a registered or unregistered person and—"
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PLACE AND TIME OF SUPPLY",
+   "text": "",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Treatment of imported services",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PLACE AND TIME OF SUPPLY",
+   "text": "(1) If a supply of imported taxable services is made to any person, the person shall be deemed to have made a taxable supply to himself.\n(1A) The provisions of subsection (1) shall not apply to taxable supplies made under section 5(7). (2) If the person referred to in subsection (1) is a registered person and is entitled to—\n  (a) a credit for part of the amount of input tax payable, the value of the taxable supply under subsection (1) shall be reduced by an amount equal to the supply that is entitled for the input tax credit; or (b) a full input tax credit payable on the imported taxable services under subsection (1), the value of the taxable services shall be reduced to zero. (3) The output tax in respect of a deemed taxable supply under subsection (1) shall be payable at the time of the supply. (4) For the purposes of this section, if a registered person carries on a business, both in and outside Kenya, the part of the business carried on outside Kenya shall be treated as if it were carried out by a person separate from the registered person. (Act No. 23 of 2019, s. 19, Act No. 8 of 2021, s. 24, Act No. 22 of 2022, s. 25)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If a supply of imported taxable services is made to any person, the person shall be deemed to have made a taxable supply to himself."
+    },
+    {
+     "ref": "(1A)",
+     "text": "The provisions of subsection (1) shall not apply to taxable supplies made under section 5(7). (2) If the person referred to in subsection (1) is a registered person and is entitled to— (a) a credit for part of the amount of input tax payable, the value of the taxable supply under subsection (1) shall be reduced by an amount equal to the supply that is entitled for the input tax credit; or (b) a full input tax credit payable on the imported taxable services under subsection (1), the value of the taxable services shall be reduced to zero. (3) The output tax in respect of a deemed taxable supply under subsection (1) shall be payable at the time of the supply. (4) For the purposes of this section, if a registered person carries on a business, both in and outside Kenya, the part of the business carried on outside Kenya shall be treated as if it were carried out by a person separate from the registered person. (Act No. 23 of 2019, s. 19, Act No. 8 of 2021, s. 24, Act No. 22 of 2022, s. 25)"
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Place of supply of goods",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PLACE AND TIME OF SUPPLY",
+   "text": "A supply of goods occurs in Kenya if—\n  (a) the goods are delivered or made available in Kenya by the supplier;\n  (b) the supply of the goods involves their installation or assembly at a place in Kenya; or\n  (c) where the goods are delivered outside Kenya, the goods were in Kenya when their transportation commenced.\n(Act No. 15 of 2017, s. 8)",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Time of supply of goods and services",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "PLACE AND TIME OF SUPPLY",
+   "text": "(1) Subject to subsection (3), the time of supply, including a supply of imported services, shall be the earlier of—\n  (a) the date on which the goods are delivered or services performed;\n  (b) the date a certificate is issued by an architect, surveyor or any other person acting as a consultant in a supervisory capacity;\n  (c) the date on which the invoice for the supply is issued; or\n  (d) the date on which payment for the supply is received, in whole or in part.\n(1A) Subject to subsection (1), in the case of the national carrier, the time of supply shall be the date on which the goods are delivered or services performed.\n(2) The time of supply of goods by means of a vending machine, meter, or other device operated by use of a coin, note, or token shall be on the date the coin, note, or token is taken from the machine, meter, or other device by or on behalf of the supplier.\n(3) If—\n  (a) goods are supplied under a rental agreement; or\n  (b) goods or services are made by metered supplies, or under an agreement or law that provides for periodic payments, the goods or services shall be treated as successively supplied for successive parts of the period of the lease or agreement, or as determined by law, and the time of each successive supply shall be the earlier of the date on which payment for the successive supply is due or received.\n(4) The time of supply of imported goods shall be—\n  (a) in the case of goods cleared for home use directly at the port of importation, or goods entered for removal to an inland station and there cleared for home use, at the time of customs clearance;\n  (b) in the case of goods removed to a licensed warehouse subsequent to importation, at the time of final clearance from the warehouse for home use;\n  (c) in the case of goods removed from an export processing zone or a special economic zone, at the time of removal for home use;\n  (d) in any other case, at the time the goods are brought into Kenya.\n(5) The time supply for exported goods shall be the time when the certificate of export or such other equivalent export document has been issued by Customs.\n(Act No. 23 of 2019, s. 20, Act No. 4 of 2023, s. 32, Act No. 12 of 2024, s. 18)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (3), the time of supply, including a supply of imported services, shall be the earlier of—"
+    },
+    {
+     "ref": "(1A)",
+     "text": "Subject to subsection (1), in the case of the national carrier, the time of supply shall be the date on which the goods are delivered or services performed."
+    },
+    {
+     "ref": "(2)",
+     "text": "The time of supply of goods by means of a vending machine, meter, or other device operated by use of a coin, note, or token shall be on the date the coin, note, or token is taken from the machine, meter, or other device by or on behalf of the supplier."
+    },
+    {
+     "ref": "(3)",
+     "text": "If—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The time of supply of imported goods shall be—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The time supply for exported goods shall be the time when the certificate of export or such other equivalent export document has been issued by Customs."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Taxable value of supply",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "TAXABLE VALUE",
+   "text": "(1) Subject to this Act, the taxable value of a supply, including a supply of imported services, shall be—\n  (a) the consideration for the supply; or\n  (b) if the supplier and recipient are related, the open market value of the supply.\n(2) Deleted by Act No. 10 of 2018, s. 14.\n(3) Subject to subsections (4) to (6), the consideration for a supply, including a supply of imported services, shall be the total of—\n  (a) the amount in money paid or payable, directly or indirectly, by any person, for the supply; or\n  (b) the open market value at the time of the supply of an amount in kind paid or payable, directly or indirectly, by any person, for the supply; and\n  (c) any taxes, duties, levies, fees, and charges (other than value added tax) paid or payable on, or by reason of the supply, reduced by any discounts or rebates allowed and accounted for at the time of the supply.\n(4) The consideration for a supply shall include the amount charged for—\n  (a) any wrapper, package, box, bottle, or other container in which goods are supplied;\n  (b) any other goods contained in or attached to the wrapper, package, box, bottle or other container referred to in paragraph (a); or\n  (c) any liability that the purchaser has to pay to the vendor by reason of or in respect of the supply in addition to the amount charged as price.\n(5) In calculating the value of any services for the purposes of subsection (1), there shall be included any incidental costs incurred by the supplier of the services in the course of making the supply to the client:\nProvided that, if the Commissioner is satisfied that the supplier has merely made a disbursement to a third party as an agent of his client, then such disbursement shall be excluded from the taxable value.\n(5A) Subject to subsection 5, where a supplier provides labour, outsourcing or employee placement services and incurs employee-related costs, such costs shall be deemed to be disbursements made by the supplier on behalf of the client.\n(5B) For the purpose of subsection (5A), \"employee related costs\" includes salaries, wages, statutory deductions and such other related costs.\n(6) The consideration for a supply shall not include—\n  (a) in the case of a supply of goods from a person licenced to carry on hire purchase business under a hire purchase agreement registered in accordance with the Hire Purchase Act (Cap. 507), any financial charge payable in relation to the supply of credit under the agreement; or\n  (b) any interest incurred for the late payment of the consideration for the supply.\n(7) The consideration for a supply of accommodation or restaurant services shall not include the Tourism Levy imposed on the supply under the Tourism Act (Cap. 381), any service charge paid in lieu of tips:\nProvided that this subsection shall only apply in respect of service charge where—\n  (a) the service charge is distributed directly to the employees of the hotel or restaurant in accordance with a written agreement between the employer and the employee; and\n  (b) the service charge does not exceed ten per cent of the price of the service, excluding such service charge.\n(8) For the purposes of this Act, a person is related to another person if—\n  (a) either person participates, directly or indirectly, in the management, control or the capital of the business of the other;\n  (b) a third person participates, directly or indirectly, in the management, control or capital of the business of both; or\n  (c) an individual who participates in the management, control or capital of the business of one, is associated by marriage, consanguinity or affinity to an individual who participates in the management, control or capital of the business of the other.\n(Act No. 38 of 2016, s. 27, Act No. 10 of 2018, s. 14, Act No. 19 of 2026, s. 26.)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this Act, the taxable value of a supply, including a supply of imported services, shall be—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Deleted by Act No. 10 of 2018, s. 14."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to subsections (4) to (6), the consideration for a supply, including a supply of imported services, shall be the total of—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The consideration for a supply shall include the amount charged for—"
+    },
+    {
+     "ref": "(5)",
+     "text": "In calculating the value of any services for the purposes of subsection (1), there shall be included any incidental costs incurred by the supplier of the services in the course of making the supply to the client:"
+    },
+    {
+     "ref": "(5A)",
+     "text": "Subject to subsection 5, where a supplier provides labour, outsourcing or employee placement services and incurs employee-related costs, such costs shall be deemed to be disbursements made by the supplier on behalf of the client."
+    },
+    {
+     "ref": "(5B)",
+     "text": "For the purpose of subsection (5A), \"employee related costs\" includes salaries, wages, statutory deductions and such other related costs."
+    },
+    {
+     "ref": "(6)",
+     "text": "The consideration for a supply shall not include—"
+    },
+    {
+     "ref": "(7)",
+     "text": "The consideration for a supply of accommodation or restaurant services shall not include the Tourism Levy imposed on the supply under the Tourism Act (Cap. 381), any service charge paid in lieu of tips:"
+    },
+    {
+     "ref": "(8)",
+     "text": "For the purposes of this Act, a person is related to another person if—"
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Taxable value of imported goods",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "TAXABLE VALUE",
+   "text": "(1) The taxable value of imported goods shall be the sum of—\n  (a) the value of the goods ascertained for the purpose of customs duty, in accordance with the East African Community Custom Management Act, 2004 (No. 1 of 2005), whether or not any duty of customs is payable on the goods;\n  (b) to the extent not included under paragraph (a)—\n  (i) the cost of insurance and freight incurred in bringing the goods to Kenya; and\n  (ii) the cost of services treated as part of the imported goods under this section; and\n  (c) the amount of duty of customs, if any, paid on those goods.\n(2) Unless the context otherwise requires, a supply of services that is ancillary or incidental to the importation of goods shall be treated as part of the importation.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The taxable value of imported goods shall be the sum of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Unless the context otherwise requires, a supply of services that is ancillary or incidental to the importation of goods shall be treated as part of the importation."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Deemed taxable supply",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "TAXABLE VALUE",
+   "text": "(1) An application of taxable supplies by a registered person for use outside his business shall be a taxable supply made by the person.\n(2) A taxable supply under subsection (1) shall be deemed to have been made by the person on the date the supply is first used outside the business.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An application of taxable supplies by a registered person for use outside his business shall be a taxable supply made by the person."
+    },
+    {
+     "ref": "(2)",
+     "text": "A taxable supply under subsection (1) shall be deemed to have been made by the person on the date the supply is first used outside the business."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Debit and credit note",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "TAXABLE VALUE",
+   "text": "(1) Where goods are returned to the registered person or, for good and valid reason the registered person decides for business reasons, to reduce the value of a supply after the issue of a tax invoice, a credit note shall be issued for the amount of the reduction:\nProvided that a credit note may be issued—\n  (a) only within six months after the issue of the relevant tax invoice; or\n  (b) where there is a commercial dispute in court with regard to the price payable, within thirty days after the determination of the matter.\n(2) A registered person who issues a credit note under this section shall reduce the amount of his output tax in the tax period in which the credit note was issued by an amount that bears the same proportion to the tax originally charged as the amount credited bears to the total amount originally charged and the amount of tax so credited shall be specified on the credit note.\n(3) A registered person who receives a credit note for the supply in respect of which he has claimed deductible input tax, shall reduce the amount of deductible input tax in the month in which the credit note is received, by the amount of tax credited.\n(4) Where a registered person has issued a tax invoice in respect of a taxable supply and subsequently makes a further charge in respect of that supply, or any transaction associated with that supply, the person shall, in respect of the further charge being made, issue a debit note, and shall show on it the details of the tax invoice issued at the time of the original supply.\n(5) A registered person who receives a debit note issued in compliance with subsection (4) may, if the supply is eligible therefor and in so far as it has not previously been claimed, claim as deductible input tax such further amount of tax that is being charged, in the month in which the further charge was made, or in the next subsequent month.\n(6) A credit or debit note issued under this section shall be in the prescribed form.\n(Act No. 10 of 2018, s. 15, Act No. 2 of 2020, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where goods are returned to the registered person or, for good and valid reason the registered person decides for business reasons, to reduce the value of a supply after the issue of a tax invoice, a credit note shall be issued for the amount of the reduction:"
+    },
+    {
+     "ref": "(2)",
+     "text": "A registered person who issues a credit note under this section shall reduce the amount of his output tax in the tax period in which the credit note was issued by an amount that bears the same proportion to the tax originally charged as the amount credited bears to the total amount originally charged and the amount of tax so credited shall be specified on the credit note."
+    },
+    {
+     "ref": "(3)",
+     "text": "A registered person who receives a credit note for the supply in respect of which he has claimed deductible input tax, shall reduce the amount of deductible input tax in the month in which the credit note is received, by the amount of tax credited."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where a registered person has issued a tax invoice in respect of a taxable supply and subsequently makes a further charge in respect of that supply, or any transaction associated with that supply, the person shall, in respect of the further charge being made, issue a debit note, and shall show on it the details of the tax invoice issued at the time of the original supply."
+    },
+    {
+     "ref": "(5)",
+     "text": "A registered person who receives a debit note issued in compliance with subsection (4) may, if the supply is eligible therefor and in so far as it has not previously been claimed, claim as deductible input tax such further amount of tax that is being charged, in the month in which the further charge was made, or in the next subsequent month."
+    },
+    {
+     "ref": "(6)",
+     "text": "A credit or debit note issued under this section shall be in the prescribed form."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Credit for input tax against output tax",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "DEDUCTION OF INPUT TAX",
+   "text": "(1) Subject to the provisions of this Act and the regulations, input tax on a taxable supply to, or importation made by, a registered person may, at the end of the tax period in which the supply or importation occurred, be deducted by the registered person in a return for the period, subject to the exceptions provided under this section, from the tax payable by the person on supplies by him in that tax period, but only to the extent that the supply or importation was acquired to make taxable supplies.\n(2) If, at the time when a deduction for input tax would otherwise be allowable under subsection (1)—\n  (a) the person does not hold the documentation referred to in subsection (3), and\n  (b) the registered supplier has not declared the sales invoice in a return, the deduction for input tax shall not be allowed until the first tax period in which the person holds such documentation:\nProvided that the input tax shall be allowable for a deduction within six months after the end of the tax period in which the supply or importation occurred.\n(3) The documentation for the purposes of subsection (2) shall be—\n  (a) an original tax invoice issued for the supply or a certified copy;\n  (b) a customs entry duly certified by the proper officer and a receipt for the payment of tax;\n  (c) a customs receipt and a certificate signed by the proper officer stating the amount of tax paid, in the case of goods purchased from a customs auction;\n  (d) a credit note in the case of input tax deducted under section 16(2);\n  (e) a debit note in the case of input tax deducted under section 16(5); or\n  (f) in the case of a participant in the Open Tender System for the importation of petroleum products that have been cleared through a non-bonded facility, the custom entry showing the name and PIN of the winner of the tender and the name of the other oil marketing company participating in the tender:\nProvided that the input tax that may have been incurred by an oil marketing company participating in the Open Tender System before the coming into force of this provision shall be claimed within twelve months after this provision comes into force.\n(4) A registered person shall not deduct input tax under this Act if the tax relates to the acquisition, leasing or hiring of—\n  (a) passenger cars or mini buses, and the repair and maintenance thereof including spare parts, unless the passenger cars or mini buses are acquired by the registered person exclusively for the purpose of making a taxable supply of that automobile in the ordinary course of a continuous and regular business of selling or dealing in or hiring of passenger cars or mini buses; or\n  (b) entertainment, restaurant and accommodation services unless—\n  (i) the services are provided in the ordinary course of the business carried on by the person to provide the services and the services are not supplied to an associate or employee; or\n  (ii) the services are provided while the recipient is away from home for the purposes of the business of the recipient or the recipient’s employer:\nProvided that no tax shall be charged on the supply where no input tax deduction was allowed on that supply under this subsection.\n(5) Where the amount of input tax that may be deducted by a registered person under subsection (1) in respect of a tax period exceeds the amount of output tax due for the period, the amount of the excess shall be carried forward as input tax deductible in the next tax period:\nProvided that any such excess shall be paid to the registered person by the Commissioner where—\n  (a) such excess arises from making zero rated supplies; or\n  (b) such excess arises from tax withheld by appointed tax withholding agents; and\n  (c) such excess arising out of tax withheld by appointed tax withholding agents may be applied against any tax payable under this Act or any other written law, or is due for refund pursuant to section 47(4) of the Tax Procedures Act (Cap. 469B);\n  (d) the registered person lodges the claim for refund of the excess tax within twelve months from the date the tax becomes due and payable;\nProvided further that, notwithstanding section 17(5)(d), a registered person who, within a period of thirty-six months prior to the commencement of section 17(5)(b) and (c), has a credit arising from withholding tax, may make an application for a refund of the excess tax within twelve months from the commencement date;\n  (e) input tax is attributable to supplies made to the Kenya Defence Forces, the Defence Forces Welfare Services, the National Intelligence Service and the National Police Service, where such supplies are specified as exempt under paragraphs 57 and 101 of the First Schedule; and\n  (ea) such excess credit in respect of a taxable supply that became zero rated on 1st July, 2023:\nProvided that a registered person who incurred excess credit shall apply to the Commissioner for a refund within six months from the date of commencement of this provision.\n(6) Subject to this Act, if a taxable supply to, or a taxable import by, a registered person during a tax period relates partly to making taxable supplies and partly for another use, the input tax deductible by the person for acquisitions made during the tax period shall be determined as follows—\n  (a) full deduction of all the input tax attributable to taxable supplies;\n  (b) no deduction of any input tax which is directly attributable to other use; and\n  (c) deduction of input tax attributable to both taxable supplies and other uses calculated according to the following formula:\nAxB C where— A is the total amount of input tax payable by the person during the tax period on acquisitions that relate partly to making taxable supplies and partly for another use; B is the value of all taxable supplies made by the registered person during the period; and C is the value of all supplies made by the registered person during the period in Kenya. (7) Notwithstanding subsection (6), a registered person shall be entitled to deduct input tax incurred in respect of supplies made to the Kenya Defence Forces, Defence Forces Welfare Services, the National Intelligence Service and the National Police Service: Provided that—\n  (a) the supplies are supported by such documentation as the Commissioner may prescribe; and (b) the deductions are limited to input tax directly attributable to those supplies. (8) For the avoidance of doubt, input tax deducted under subsection (7) shall not be subject to apportionment under subsection (5) where it is wholly attributable to the supplies specified therein. (9) Where a bona fide owner of taxable supplies, who has deducted input tax under subsection (1), is compensated for the loss of the taxable supplies, the compensation shall be treated as a taxable supply and—\n  (a) if the compensation includes value added tax, the compensation shall be declared and the value added tax thereon remitted to the Commissioner; or (b) if the compensation does not include value added tax, the compensation shall be declared and subjected to value added tax and the tax remitted to the Commissioner. (Act No. 14 of 2015, s. 3, Act No. 12 of 2019, Sch., Act No. 8 of 2020, s. 11, Act No. 22 of 2020, Sch., Act No. 8 of 2021, s. 25, Act No. 22 of 2022, s. 26, Act No. 4 of 2023, s. 33, Act No. 12 of 2024, s. 19, Act No. 9 of 2025, s. 34, Act No. 19 of 2026, s. 27.)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of this Act and the regulations, input tax on a taxable supply to, or importation made by, a registered person may, at the end of the tax period in which the supply or importation occurred, be deducted by the registered person in a return for the period, subject to the exceptions provided under this section, from the tax payable by the person on supplies by him in that tax period, but only to the extent that the supply or importation was acquired to make taxable supplies."
+    },
+    {
+     "ref": "(2)",
+     "text": "If, at the time when a deduction for input tax would otherwise be allowable under subsection (1)—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The documentation for the purposes of subsection (2) shall be—"
+    },
+    {
+     "ref": "(4)",
+     "text": "A registered person shall not deduct input tax under this Act if the tax relates to the acquisition, leasing or hiring of—"
+    },
+    {
+     "ref": "(5)",
+     "text": "Where the amount of input tax that may be deducted by a registered person under subsection (1) in respect of a tax period exceeds the amount of output tax due for the period, the amount of the excess shall be carried forward as input tax deductible in the next tax period:"
+    },
+    {
+     "ref": "(6)",
+     "text": "Subject to this Act, if a taxable supply to, or a taxable import by, a registered person during a tax period relates partly to making taxable supplies and partly for another use, the input tax deductible by the person for acquisitions made during the tax period shall be determined as follows—"
+    }
+   ]
+  },
+  "17A": {
+   "num": "17A",
+   "title": "Adjustment of input tax after supplies become exempt",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "DEDUCTION OF INPUT TAX",
+   "text": "(1) Where, on the date taxable supplies by a registered person become exempt and the person has deducted input tax on such supplies but the supplies remain unsold, the person shall account for an amount equal to the input tax relating to the supplies which remain unsold in the tax return of the period when the taxable supply became exempt.\n(2) When accounting for input tax under subsection (1), the person shall use the method used when input tax was deducted in respect of the supplies before the date the supplies became exempt.\n(3) Where the adjustment results in excess input tax, the person shall be liable to pay the resulting tax to the Commissioner. (Act No. 19 of 2026, s. 28.)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where, on the date taxable supplies by a registered person become exempt and the person has deducted input tax on such supplies but the supplies remain unsold, the person shall account for an amount equal to the input tax relating to the supplies which remain unsold in the tax return of the period when the taxable supply became exempt."
+    },
+    {
+     "ref": "(2)",
+     "text": "When accounting for input tax under subsection (1), the person shall use the method used when input tax was deducted in respect of the supplies before the date the supplies became exempt."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the adjustment results in excess input tax, the person shall be liable to pay the resulting tax to the Commissioner. (Act No. 19 of 2026, s. 28.)"
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Tax paid prior to registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "DEDUCTION OF INPUT TAX",
+   "text": "(1) Where—\n  (a) on the date exempt supplies made by a registered person become taxable, and the person had incurred input tax on such supplies; or\n  (b) on the date he is registered, a person has incurred tax on taxable supplies which are intended for use in making taxable supplies, the person may, within three months from that date, claim relief from any tax shown to have been incurred on such supplies:\nProvided that this subsection shall apply where such supplies are purchased, within the period of twenty-four months immediately preceding registration or the exempt supplies becoming taxable.\n(2) Where the Commissioner is satisfied that the claim for relief is justified, he shall authorise the registered person to make an appropriate deduction of the relief claimed under subsection (1) from the tax payable on his next return.\n(3) The claim for relief from tax under subsection (1) shall be made in the prescribed form.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where— (a) on the date exempt supplies made by a registered person become taxable, and the person had incurred input tax on such supplies; or"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Commissioner is satisfied that the claim for relief is justified, he shall authorise the registered person to make an appropriate deduction of the relief claimed under subsection (1) from the tax payable on his next return."
+    },
+    {
+     "ref": "(3)",
+     "text": "The claim for relief from tax under subsection (1) shall be made in the prescribed form."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "When tax is due",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTION AND RECOVERY OF TAX",
+   "text": "(1) Tax shall be due and payable at the time of supply.\n(2) Notwithstanding the provision of subsection (1), a person may defer payment of tax due to a date not later than the twentieth day of the month succeeding that in which the tax became due.\n(Act No. 8 of 2021, s. 26)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Tax shall be due and payable at the time of supply."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding the provision of subsection (1), a person may defer payment of tax due to a date not later than the twentieth day of the month succeeding that in which the tax became due."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTION AND RECOVERY OF TAX",
+   "text": "",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTION AND RECOVERY OF TAX",
+   "text": "",
+   "clauses": []
+  },
+  "22": {
+   "num": "22",
+   "title": "Imported goods subject to customs control",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTION AND RECOVERY OF TAX",
+   "text": "(1) A person shall not be entitled to obtain delivery of imported taxable goods from the control of the customs unless the person has paid, in full, the correct amount of tax due.\n(2) Notwithstanding the provisions of any other written law, any taxable goods which are imported by air, land or water shall be produced by the importer to a proper officer of customs at the customs station at or nearest to the place of entry, and any importer who fails to produce any such goods commits an offence and the goods in respect of which the offence was committed shall be liable to forfeiture.\n(3) The Commissioner of Customs—\n  (a) shall collect tax payable under this Act on imported goods at the time of importation and shall, at that time, obtain such information as may be prescribed in respect of the importation; and\n  (b) may make arrangements for such functions to be performed on his behalf in respect of imported goods through the postal service.\n(4) For the purposes of this section, the Commissioner of Customs may exercise any power conferred upon him by the East African Community Customs Management Act, 2004 (No. 8 of 2004) as if the reference to import duty in that Act includes a reference to tax payable on imported goods under this Act:\nProvided that —\n  (a) the Tax Procedures Act (Cap. 469B) shall apply with regard to imposition of interest and penalties; and\n  (b) in cases where interest becomes payable it shall not, in aggregate, exceed the principal tax. (Act No. 22 of 2022, s. 27)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not be entitled to obtain delivery of imported taxable goods from the control of the customs unless the person has paid, in full, the correct amount of tax due."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding the provisions of any other written law, any taxable goods which are imported by air, land or water shall be produced by the importer to a proper officer of customs at the customs station at or nearest to the place of entry, and any importer who fails to produce any such goods commits an offence and the goods in respect of which the offence was committed shall be liable to forfeiture."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Commissioner of Customs—"
+    },
+    {
+     "ref": "(4)",
+     "text": "For the purposes of this section, the Commissioner of Customs may exercise any power conferred upon him by the East African Community Customs Management Act, 2004 (No. 8 of 2004) as if the reference to import duty in that Act includes a reference to tax payable on imported goods under this Act:"
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTION AND RECOVERY OF TAX",
+   "text": "",
+   "clauses": []
+  },
+  "24": {
+   "num": "24",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTION AND RECOVERY OF TAX",
+   "text": "",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTION AND RECOVERY OF TAX",
+   "text": "",
+   "clauses": []
+  },
+  "25A": {
+   "num": "25A",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTION AND RECOVERY OF TAX",
+   "text": "",
+   "clauses": []
+  },
+  "26": {
+   "num": "26",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTION AND RECOVERY OF TAX",
+   "text": "",
+   "clauses": []
+  },
+  "27": {
+   "num": "27",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTION AND RECOVERY OF TAX",
+   "text": "",
+   "clauses": []
+  },
+  "28": {
+   "num": "28",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTION AND RECOVERY OF TAX",
+   "text": "",
+   "clauses": []
+  },
+  "29": {
+   "num": "29",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "COLLECTION AND RECOVERY OF TAX",
+   "text": "",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "[Repealed by Act No. 22 of 2022, s. 28]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "REFUND OF TAX",
+   "text": "",
+   "clauses": []
+  },
+  "31": {
+   "num": "31",
+   "title": "Refund of tax on bad debts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "REFUND OF TAX",
+   "text": "(1) Where a registered person has made a supply and has accounted for and paid tax on that supply but has not received any payment from the person liable to pay the tax on that supply and that person− (a) has not received any payment from the person liable to pay the tax, he may, after a period of three years from the date of the supply; or (b) the person to whom the supply was made has been placed under statutory management through the appointment of an administrator, receiver, or liquidator, he may apply to the Commissioner for refund of the tax involved: Provided that− (a) no application for a refund shall be made under this section after the expiry of ten years from the date of supply;\n  (b) the refund shall be made in compliance with section 47(5) of the Tax Procedures Act;\n  (c) the amounts may be credited to the taxpayer’s record for use against future value added tax liabilities;\n  (ca) the amount may be used to offset any other value added tax liability, upon approval by the Commissioner. (d) deleted by Act No. 9 of 2025, s. 35(b)(ii);\n  (e) deleted by Act No. 9 of 2025, s. 35(b)(iii).\n(2) Where the tax refunded under subsection (1) is subsequently recovered from the recipient of the supply, the registered person shall refund the tax to the Commissioner within thirty days of the date of the recovery.\n(3) If payment is not made within the time specified under subsection (2), an interest of two per cent per month or part thereof of the tax refunded shall forthwith be due and payable: Provided that the interest payable shall not exceed one hundred percent of the refunded amount.\n(Act No. 2 of 2020, Sch., Act No. 4 of 2023, s. 34, Act No. 9 of 2025, s. 35, Act No. 19 of 2026, s. 29)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a registered person has made a supply and has accounted for and paid tax on that supply but has not received any payment from the person liable to pay the tax on that supply and that person− (a) has not received any payment from the person liable to pay the tax, he may, after a period of three years from the date of the supply; or (b) the person to whom the supply was made has been placed under statutory management through the appointment of an administrator, receiver, or liquidator, he may apply to the Commissioner for refund of the tax involved: Provided that− (a) no application for a refund shall be made under this section after the expiry of ten years from the date of supply; (b) the refund shall be made in compliance with section 47(5) of the Tax Procedures Act; (c) the amounts may be credited to the taxpayer’s record for use against future value added tax liabilities; (ca) the amount may be used to offset any other value added tax liability, upon approval by the Commissioner. (d) deleted by Act No. 9 of 2025, s. 35(b)(ii); (e) deleted by Act No. 9 of 2025, s. 35(b)(iii)."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the tax refunded under subsection (1) is subsequently recovered from the recipient of the supply, the registered person shall refund the tax to the Commissioner within thirty days of the date of the recovery."
+    },
+    {
+     "ref": "(3)",
+     "text": "If payment is not made within the time specified under subsection (2), an interest of two per cent per month or part thereof of the tax refunded shall forthwith be due and payable: Provided that the interest payable shall not exceed one hundred percent of the refunded amount."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "REFUND OF TAX",
+   "text": "",
+   "clauses": []
+  },
+  "33": {
+   "num": "33",
+   "title": "[Repealed by Act No. 38 of 2016, s. 28]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "REFUND OF TAX",
+   "text": "",
+   "clauses": []
+  },
+  "34": {
+   "num": "34",
+   "title": "Application for registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "REGISTRATION AND DEREGISTRATION",
+   "text": "(1) A person who in the course of a business—\n  (a) has made taxable supplies or expects to make taxable supplies, the value of which is five million shillings or more in any period of twelve months; or (b) is about to commence making taxable supplies the value of which is reasonably expected to exceed five million shillings in any period of twelve months, shall be liable for registration under this Act and shall, within thirty days of becoming so liable, apply to the Commissioner for registration in the prescribed form: Provided that a person supplying imported digital services over the internet, an electronic network or through a digital marketplace shall register whether or not the taxable supplies meet the turnover threshold of five million shillings. (2) In determining whether a person exceeds the registration threshold for a period, the value of the following taxable supplies shall be excluded—\n  (a) a taxable supply of a capital asset of the person; and (b) a taxable supply made solely as a consequence of the person selling the whole or a part of the person’s business or permanently ceasing to carry on the person’s business. (3) Notwithstanding subsection (1), a person who makes or intends to make taxable supplies may apply, in the prescribed form, to the Commissioner for voluntary registration. (4) The Commissioner shall register a person who has applied for voluntary registration under subsection (3) if satisfied that—\n  (a) the person is making, or shall make taxable supplies;\n  (b) the person has a fixed place from which the person’s business is conducted;\n  (c) if the person has commenced carrying on a business, the person—\n  (i) has kept proper records of its business; and (ii) has complied with its obligations under other revenue laws; and (d) there are reasonable grounds to believe that the person shall keep proper records and file regular and reliable tax returns.\n(5) The Commissioner shall issue a registered person with a tax registration certificate in the prescribed form.\n(6) If the Commissioner is satisfied that a person eligible to apply for registration has not done so within the time limit specified in subsection (1), the Commissioner shall register the person.\n(7) The registration of a person under subsection (1) or (6) shall take effect from the beginning of the first tax period after the person is required to apply for registration, or such later period as may be specified in the person’s tax registration certificate.\n(8) The registration of a person under subsection (4) shall take effect from the date specified in the person’s tax registration certificate.\n(9) The Cabinet Secretary may, in regulations, provide for the registration of a group of companies as one registered person for the purposes of the Act.\n(Act No. 22 of 2022, s. 29, Act No. 4 of 2023, s. 35)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who in the course of a business— (a) has made taxable supplies or expects to make taxable supplies, the value of which is five million shillings or more in any period of twelve months; or (b) is about to commence making taxable supplies the value of which is reasonably expected to exceed five million shillings in any period of twelve months, shall be liable for registration under this Act and shall, within thirty days of becoming so liable, apply to the Commissioner for registration in the prescribed form: Provided that a person supplying imported digital services over the internet, an electronic network or through a digital marketplace shall register whether or not the taxable supplies meet the turnover threshold of five million shillings. (2) In determining whether a person exceeds the registration threshold for a period, the value of the following taxable supplies shall be excluded—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The Commissioner shall issue a registered person with a tax registration certificate in the prescribed form."
+    },
+    {
+     "ref": "(6)",
+     "text": "If the Commissioner is satisfied that a person eligible to apply for registration has not done so within the time limit specified in subsection (1), the Commissioner shall register the person."
+    },
+    {
+     "ref": "(7)",
+     "text": "The registration of a person under subsection (1) or (6) shall take effect from the beginning of the first tax period after the person is required to apply for registration, or such later period as may be specified in the person’s tax registration certificate."
+    },
+    {
+     "ref": "(8)",
+     "text": "The registration of a person under subsection (4) shall take effect from the date specified in the person’s tax registration certificate."
+    },
+    {
+     "ref": "(9)",
+     "text": "The Cabinet Secretary may, in regulations, provide for the registration of a group of companies as one registered person for the purposes of the Act."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Registered person to display certificate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "REGISTRATION AND DEREGISTRATION",
+   "text": "(1) A registered person shall display in a conspicuous place—\n  (a) the tax registration certificate at the principal place at which the person carries on business; and\n  (b) a copy of the certificate at every other place at which the person carries on business.\n(2) A registered person shall notify the Commissioner, in writing, of any change in the name (including the business name), address, place of business, or nature of the business of the person within twenty-one days of the change.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A registered person shall display in a conspicuous place—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A registered person shall notify the Commissioner, in writing, of any change in the name (including the business name), address, place of business, or nature of the business of the person within twenty-one days of the change."
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Cancellation of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "REGISTRATION AND DEREGISTRATION",
+   "text": "(1) A registered person who ceases to make taxable supplies shall apply in writing to the Commissioner, for the cancellation of the person’s registration, within thirty days of the date on which the person ceases to make taxable supplies.\n(2) A registered person who continues to make taxable supplies whose annual value does not exceed the registration threshold may apply in writing to the Commissioner, for cancellation of the person’s registration.\n(3) The Commissioner shall, by notice in writing, cancel the registration of a person if—\n  (a) the person has applied for cancellation under subsection (1) and the Commissioner is satisfied that the person has ceased to make taxable supplies; or\n  (b) the person has not applied for cancellation but the Commissioner is satisfied that the person has ceased to make taxable supplies and is not otherwise required to be registered.\n(4) Where a person applies for cancellation of registration under subsection (2) and the Commissioner is satisfied that the person is not required to be registered—\n  (a) the Commissioner shall, if the person has been registered for a period of more than twelve months, by notice in writing, cancel the registration; or\n  (b) the Commissioner may, if the person has been registered for a period of twelve months or less, by notice in writing, cancel the registration.\n(5) The Commissioner may, by notice in writing, cancel the registration of a person who is no longer required to be registered, if the Commissioner is satisfied that the person has not—\n  (a) kept proper tax records;\n  (b) furnished regular and reliable returns; or\n  (c) complied with obligations under other revenue laws, and there are reasonable grounds to believe that the person will not keep proper records or furnish regular and reliable returns.\n(6) The cancellation of a person’s registration shall take effect from the date specified in the notice of cancellation.\n(7) Where a person’s registration is cancelled under this section, the person shall—\n  (a) immediately cease to hold out that the person is a registered person, including on any documentation used by the person;\n  (b) submit a final return and pay all tax due, including the tax due under subsection (9), within fifteen days after the date of cancellation of the person’s registration.\n(8) Notwithstanding the cancellation of registration of a person under this section, the person shall be liable for any act done or omitted to be done while registered.\n(9) A person whose registration is cancelled shall be deemed to have made a taxable supply of any trading stock on hand at the time the registration is cancelled if the person was allowed an input tax credit for the acquisition or import of the stock, or in respect of the acquisition or import of goods that have been subsumed into that stock.\n(10) The taxable supply under subsection (9) shall be deemed to have been made by the person immediately before the person’s registration is cancelled and the person shall be liable for an amount of output tax in respect of the supply equal to the amount of the input tax credit allowed to the person on acquisition or import of the stock. (Act No. 38 of 2016, s. 29)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A registered person who ceases to make taxable supplies shall apply in writing to the Commissioner, for the cancellation of the person’s registration, within thirty days of the date on which the person ceases to make taxable supplies."
+    },
+    {
+     "ref": "(2)",
+     "text": "A registered person who continues to make taxable supplies whose annual value does not exceed the registration threshold may apply in writing to the Commissioner, for cancellation of the person’s registration."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Commissioner shall, by notice in writing, cancel the registration of a person if—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Where a person applies for cancellation of registration under subsection (2) and the Commissioner is satisfied that the person is not required to be registered—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The Commissioner may, by notice in writing, cancel the registration of a person who is no longer required to be registered, if the Commissioner is satisfied that the person has not—"
+    },
+    {
+     "ref": "(6)",
+     "text": "The cancellation of a person’s registration shall take effect from the date specified in the notice of cancellation."
+    },
+    {
+     "ref": "(7)",
+     "text": "Where a person’s registration is cancelled under this section, the person shall— (a) immediately cease to hold out that the person is a registered person, including on any documentation used by the person; (b) submit a final return and pay all tax due, including the tax due under subsection (9), within fifteen days after the date of cancellation of the person’s registration."
+    },
+    {
+     "ref": "(8)",
+     "text": "Notwithstanding the cancellation of registration of a person under this section, the person shall be liable for any act done or omitted to be done while registered."
+    },
+    {
+     "ref": "(9)",
+     "text": "A person whose registration is cancelled shall be deemed to have made a taxable supply of any trading stock on hand at the time the registration is cancelled if the person was allowed an input tax credit for the acquisition or import of the stock, or in respect of the acquisition or import of goods that have been subsumed into that stock."
+    },
+    {
+     "ref": "(10)",
+     "text": "The taxable supply under subsection (9) shall be deemed to have been made by the person immediately before the person’s registration is cancelled and the person shall be liable for an amount of output tax in respect of the supply equal to the amount of the input tax credit allowed to the person on acquisition or import of the stock. (Act No. 38 of 2016, s. 29)"
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Offences relating to registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "REGISTRATION AND DEREGISTRATION",
+   "text": "A person who—\n  (a) fails to apply for registration as required under this Act;\n  (b) applies for cancellation of registration when still required to be registered;\n  (c) fails to apply for cancellation of registration as required under this Act; or (d) fails to comply with section 35 or 36(7)(a), commits an offence and shall be liable on conviction to a fine not exceeding two hundred thousand shillings or to imprisonment for a term not exceeding two years, or to both.",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "APPLICATION OF INFORMATION TECHNOLOGY",
+   "text": "",
+   "clauses": []
+  },
+  "39": {
+   "num": "39",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "APPLICATION OF INFORMATION TECHNOLOGY",
+   "text": "",
+   "clauses": []
+  },
+  "40": {
+   "num": "40",
+   "title": "[Repealed by Act No. 10 of 2018, s. 16]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "APPLICATION OF INFORMATION TECHNOLOGY",
+   "text": "",
+   "clauses": []
+  },
+  "41": {
+   "num": "41",
+   "title": "[Repealed by Act No. 10 of 2018, s. 17]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "APPLICATION OF INFORMATION TECHNOLOGY",
+   "text": "",
+   "clauses": []
+  },
+  "42": {
+   "num": "42",
+   "title": "Tax invoice",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XI",
+   "part_title": "INVOICES, RECORDS, RETURNS AND ASSESSMENTS",
+   "text": "(1) Subject to subsection (2), a registered person who makes a supply shall, at the time of the supply furnish the purchaser with the tax invoice containing the prescribed details for the supply.\n(2) An invoice showing an amount that purports to be tax shall only be issued in respect of a taxable supply.\n(3) Any person who issues an invoice in contravention of this subsection commits an offence and any tax shown thereon shall become due and payable to the Commissioner within seven days of the date of the invoice.\n(4) A registered person shall issue only one original tax invoice for a taxable supply, or one original credit note or debit note, but a copy clearly marked as such may be provided to a registered person who claims to have lost the original.\n(Act No. 9 of 2025, s. 36, Act No. 19 of 2026, s. 30.)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2), a registered person who makes a supply shall, at the time of the supply furnish the purchaser with the tax invoice containing the prescribed details for the supply."
+    },
+    {
+     "ref": "(2)",
+     "text": "An invoice showing an amount that purports to be tax shall only be issued in respect of a taxable supply."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person who issues an invoice in contravention of this subsection commits an offence and any tax shown thereon shall become due and payable to the Commissioner within seven days of the date of the invoice."
+    },
+    {
+     "ref": "(4)",
+     "text": "A registered person shall issue only one original tax invoice for a taxable supply, or one original credit note or debit note, but a copy clearly marked as such may be provided to a registered person who claims to have lost the original."
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Keeping of records",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XI",
+   "part_title": "INVOICES, RECORDS, RETURNS AND ASSESSMENTS",
+   "text": "(1) A person shall, for the purposes of this Act, keep in the course of his business, a full and true written record, whether in electronic form or otherwise, in English or Kiswahili of every transaction he makes and the record shall be kept for a period of five years from the date of the last entry made therein.\n(2) The records to be kept under subsection (1) shall include—\n  (a) copies of all tax invoices and simplified tax invoices issued in serial number order;\n  (b) copies of all credit and debit notes issued, in chronological order;\n  (c) purchase invoices, copies of customs entries, receipts for the payment of customs duty or tax, and credit and debit notes received, to be filed chronologically either by date of receipt or under each supplier’s name;\n  (d) details of the amounts of tax charged on each supply made or received and in relation to all services to which section 10 applies, sufficient written evidence to identify the supplier and the recipient, and to show the nature and quantity of services supplied, the time of supply, the place of supply, the consideration for the supply, and the extent to which the supply has been used by the recipient for a particular purpose;\n  (e) tax account showing the totals of the output tax and the input tax in each period and a net total of the tax payable or the excess tax carried forward, as the case may be, at the end of each period;\n  (f) copies of stock records kept periodically as the Commissioner may determine;\n  (g) details of each supply of goods and services from the business premises, unless such details are available at the time of supply on invoices issued at, or before, that time; and\n  (h) such other accounts or records as may be specified, in writing, by the Commissioner.\n(3) Every person required under subsection (1) to keep records shall, at all reasonable times, avail the records to an authorised officer for inspection and shall give the officer every facility necessary to inspect the records.\n(4) For the purposes of this section, the Commissioner may, in accordance with the regulations, require any person to use an electronic tax register, of such type and description as may be prescribed, for the purpose of accessing information regarding any matter or transaction which may affect the tax liability of the person.\n(5) A person who contravenes any of the provisions of this section commits an offence.\n(Act No. 2 of 2020, Sch., Act No. 4 of 2023, s. 36)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall, for the purposes of this Act, keep in the course of his business, a full and true written record, whether in electronic form or otherwise, in English or Kiswahili of every transaction he makes and the record shall be kept for a period of five years from the date of the last entry made therein."
+    },
+    {
+     "ref": "(2)",
+     "text": "The records to be kept under subsection (1) shall include—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Every person required under subsection (1) to keep records shall, at all reasonable times, avail the records to an authorised officer for inspection and shall give the officer every facility necessary to inspect the records."
+    },
+    {
+     "ref": "(4)",
+     "text": "For the purposes of this section, the Commissioner may, in accordance with the regulations, require any person to use an electronic tax register, of such type and description as may be prescribed, for the purpose of accessing information regarding any matter or transaction which may affect the tax liability of the person."
+    },
+    {
+     "ref": "(5)",
+     "text": "A person who contravenes any of the provisions of this section commits an offence."
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Submission of returns",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XI",
+   "part_title": "INVOICES, RECORDS, RETURNS AND ASSESSMENTS",
+   "text": "(1) Every registered person shall submit a return, in the prescribed form and manner, in respect of each tax period not later than the twentieth day after the end of that period.\n(2) Deleted by Act No. 10 of 2018, s. 18. (3) Deleted by Act No. 10 of 2018, s. 18. (4) Deleted by Act No. 10 of 2018, s. 18. (5) Deleted by Act No. 10 of 2018, s. 18.\n(Act No. 10 of 2018, s. 18)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every registered person shall submit a return, in the prescribed form and manner, in respect of each tax period not later than the twentieth day after the end of that period."
+    },
+    {
+     "ref": "(2)",
+     "text": "Deleted by Act No. 10 of 2018, s. 18. (3) Deleted by Act No. 10 of 2018, s. 18. (4) Deleted by Act No. 10 of 2018, s. 18. (5) Deleted by Act No. 10 of 2018, s. 18."
+    }
+   ]
+  },
+  "45": {
+   "num": "45",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XI",
+   "part_title": "INVOICES, RECORDS, RETURNS AND ASSESSMENTS",
+   "text": "46. [Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "clauses": []
+  },
+  "59": {
+   "num": "59",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XV",
+   "part_title": "SETTLEMENT OF CASES AND RULINGS BY THE COMMISSIONER 52. [Deleted by Act No. 29 of 2015, 2nd Sch.] 53. [Deleted by Act No. 29 of 2015, 2nd Sch.] 54. [Deleted by Act No. 29 of 2015, 2nd Sch.] 55. [Deleted by Act No. 29 of 2015, 2nd Sch.] 56. [Deleted by Act No. 29 of 2015, 2nd Sch.] 57. [Deleted by Act No. 29 of 2015, 2nd Sch.] 58. [Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "text": "",
+   "clauses": []
+  },
+  "60": {
+   "num": "60",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XVI",
+   "part_title": "OFFENCES AND PENALTIES",
+   "text": "",
+   "clauses": []
+  },
+  "61": {
+   "num": "61",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XVI",
+   "part_title": "OFFENCES AND PENALTIES",
+   "text": "",
+   "clauses": []
+  },
+  "62": {
+   "num": "62",
+   "title": "Burden of proof",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XVI",
+   "part_title": "OFFENCES AND PENALTIES",
+   "text": "In any civil proceedings under this Act, the burden of proving that any tax has been paid or that any goods or services are exempt from payment of tax shall lie on the person liable to pay the tax or claiming that the tax has been paid or that the goods or services are exempt from payment of tax.",
+   "clauses": []
+  },
+  "63": {
+   "num": "63",
+   "title": "General penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XVI",
+   "part_title": "OFFENCES AND PENALTIES",
+   "text": "A person convicted of an offence under this Act for which no other penalty is provided shall be liable to a fine not exceeding one million shillings, or to imprisonment for a term not exceeding three years, or to both.",
+   "clauses": []
+  },
+  "64": {
+   "num": "64",
+   "title": "Effect on imposition or variation of tax",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XVII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) If, after any agreement has been entered into for the supply of any taxable supply at a price that is expressly or implicitly inclusive of taxes or duties, and any alteration takes place in the amount of tax payable in respect of that supply before the tax becomes due, then, in the absence of express written provisions to the contrary between the parties to the agreement, and notwithstanding the provisions of any other written law, the agreement shall have effect as follows—\n  (a) in the case of the alteration being a new or increased tax, the registered person may, after payment of the tax, whether directly or indirectly, add the difference caused by the alteration to the agreed price;\n  (b) in the case of the alteration being the abolition or reduction of tax, the purchaser may, if the registered person has not, directly or indirectly, paid the tax or has paid the tax at a lower rate, deduct the difference caused by the alteration from the agreed price;\n  (c) any refund or payment of increased tax resulting from the alteration not being finally adopted shall be adjusted between the parties to the agreement as the case may require.\n(2) If, under any law relating to the control of prices or charges, a price is fixed, or any variation in price is prohibited or regulated, in relation to any taxable supply then, notwithstanding any provision of that law, where tax in relation to that supply is imposed or altered the price may be varied strictly in accordance with that imposition or variation when the registered person has, directly or indirectly, been affected by that imposition or alteration.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If, after any agreement has been entered into for the supply of any taxable supply at a price that is expressly or implicitly inclusive of taxes or duties, and any alteration takes place in the amount of tax payable in respect of that supply before the tax becomes due, then, in the absence of express written provisions to the contrary between the parties to the agreement, and notwithstanding the provisions of any other written law, the agreement shall have effect as follows— (a) in the case of the alteration being a new or increased tax, the registered person may, after payment of the tax, whether directly or indirectly, add the difference caused by the alteration to the agreed price; (b) in the case of the alteration being the abolition or reduction of tax, the purchaser may, if the registered person has not, directly or indirectly, paid the tax or has paid the tax at a lower rate, deduct the difference caused by the alteration from the agreed price; (c) any refund or payment of increased tax resulting from the alteration not being finally adopted shall be adjusted between the parties to the agreement as the case may require."
+    },
+    {
+     "ref": "(2)",
+     "text": "If, under any law relating to the control of prices or charges, a price is fixed, or any variation in price is prohibited or regulated, in relation to any taxable supply then, notwithstanding any provision of that law, where tax in relation to that supply is imposed or altered the price may be varied strictly in accordance with that imposition or variation when the registered person has, directly or indirectly, been affected by that imposition or alteration."
+    }
+   ]
+  },
+  "65": {
+   "num": "65",
+   "title": "Application of East African Community Customs Management Act (No. 1 of 2005)",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XVII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Subject to this Act, the East African Community Customs Management Act, 2004 (No. 1 of 2005) and any rules made thereunder relating to customs generally, whether made before or after the commencement of this Act, shall have effect, with such exceptions and adaptations as may be prescribed, in relation to imported taxable goods and exported goods, whether liable to any duty of customs or not, as if all such goods were liable to duties of customs and as if those duties included tax.\n(Act No. 12 of 2024, s. 20)",
+   "clauses": []
+  },
+  "66": {
+   "num": "66",
+   "title": "[Repealed by Act No. 19 of 2026, s. 31.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XVII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "",
+   "clauses": []
+  },
+  "66A": {
+   "num": "66A",
+   "title": "Liability to pay tax for exempt and zero-rated supplies",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XVII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Where a person imports or purchases goods or services which are exempt or zero-rated and the person subsequently disposes of, or uses, the goods or services supplied in a manner inconsistent with the purpose for which the goods or services were exempted or zero rated, the person shall be liable to pay tax on the goods or services at the applicable rate at the time of disposal or inconsistent use.\n(Act No. 9 of 2025, s. 37)",
+   "clauses": []
+  },
+  "67": {
+   "num": "67",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XVII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary may make regulations for the better carrying of the provisions of this Act, and without prejudice to the generality of the foregoing, the regulations may—\n  (a) prescribe conditions and procedures for the registration of registered persons;\n  (b) provide for the submission of returns and the place at which returns are to be submitted and tax is to be paid;\n  (c) prescribe the form of notices, returns or other forms required for the purposes of this Act;\n  (d) prescribe offence and penalties thereto;\n  (e) prescribe rules for particular types of supplies and in relation to input tax credits; or\n  (f) prescribe any other thing required to be prescribed for the purposes of any provision of this Act.\n(2) Regulations made under this section shall be tabled before the National Assembly for approval before they take effect.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may make regulations for the better carrying of the provisions of this Act, and without prejudice to the generality of the foregoing, the regulations may—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Regulations made under this section shall be tabled before the National Assembly for approval before they take effect."
+    }
+   ]
+  },
+  "68": {
+   "num": "68",
+   "title": "Repeal of Cap. 476, transitional and savings provisions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XVII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Value Added Tax Act, 1989 is repealed.\n(2) Notwithstanding the repeal of the Value Added Tax Act, the provisions of that Act shall remain in full force and effect for the purposes of the assessment and collection of any tax and the recovery of any penalty, payable under the Act and outstanding at the date upon which such repeal becomes effective.\n(2A) Notwithstanding the repeal of paragraph 102 of the First Schedule, the exemption of goods imported or purchased locally for direct and exclusive use in the implementation of projects under a special operating framework arrangement with the Government, shall continue for existing projects for the remaining period of the agreement.\n(3) Any subsidiary legislation made under the repealed Act in force at the commencement of this Act shall remain in force, so far as it is not inconsistent with this Act, until subsidiary legislation with respect to the same matter is made under this Act.\n(4) Where a remission of tax was granted under the repealed Act on any taxable goods or services, such remission shall continue to remain in force for a period of five years from the date of commencement of this Act.\n(4A) For the avoidance of doubt and despite any other provision of this Act or other written law for the time being in force, the expression \"remission of tax\" in subsection (4) shall, in the case of an official aid-funded project, be deemed to include express provision in the agreement in respect of that project for the remission of tax on any taxable goods or services supplied for the implementation of the project, where the agreement was concluded before the commencement of this Act: Provided that a remission to which this subsection applies shall remain in force for a period of five years with effect from the commencement of this subsection. (5) Where a tax was due to be paid or refunded under the repealed Act but was not so paid or refunded, it shall be paid or refunded as though it were a sum due under this Act. (6) Unless a contrary intention appears, the commencement of this Act shall not—\n  (a) revive anything not in force or existing at the time at which the commencement take effect;\n  (b) affect a penalty, forfeiture or punishment incurred in respect of an offence committed against the repealed Act in force at the commencement of this Act;\n  (c) affect an investigation, legal proceedings or remedy in respect of a right, privilege, obligations, liability, penalty, forfeiture or punishment, and any such investigation, legal proceedings or remedy may be instituted, continued or enforced and such penalty forfeiture or punishment may be imposed as if this Act has not been passed; or (d) affect the employment or appointment of any person to the services of the Authority subsisting at the commencement of this Act.\n[Act No. 16 of 2014, s. 27, Act No. 8 of 2020, s. 12)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Value Added Tax Act, 1989 is repealed."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding the repeal of the Value Added Tax Act, the provisions of that Act shall remain in full force and effect for the purposes of the assessment and collection of any tax and the recovery of any penalty, payable under the Act and outstanding at the date upon which such repeal becomes effective."
+    },
+    {
+     "ref": "(2A)",
+     "text": "Notwithstanding the repeal of paragraph 102 of the First Schedule, the exemption of goods imported or purchased locally for direct and exclusive use in the implementation of projects under a special operating framework arrangement with the Government, shall continue for existing projects for the remaining period of the agreement."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any subsidiary legislation made under the repealed Act in force at the commencement of this Act shall remain in force, so far as it is not inconsistent with this Act, until subsidiary legislation with respect to the same matter is made under this Act."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where a remission of tax was granted under the repealed Act on any taxable goods or services, such remission shall continue to remain in force for a period of five years from the date of commencement of this Act."
+    },
+    {
+     "ref": "(4A)",
+     "text": "For the avoidance of doubt and despite any other provision of this Act or other written law for the time being in force, the expression \"remission of tax\" in subsection (4) shall, in the case of an official aid-funded project, be deemed to include express provision in the agreement in respect of that project for the remission of tax on any taxable goods or services supplied for the implementation of the project, where the agreement was concluded before the commencement of this Act: Provided that a remission to which this subsection applies shall remain in force for a period of five years with effect from the commencement of this subsection. (5) Where a tax was due to be paid or refunded under the repealed Act but was not so paid or refunded, it shall be paid or refunded as though it were a sum due under this Act. (6) Unless a contrary intention appears, the commencement of this Act shall not—"
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "clauses": []
+  },
+  "47": {
+   "num": "47",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "clauses": []
+  },
+  "48": {
+   "num": "48",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "clauses": []
+  },
+  "49": {
+   "num": "49",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "clauses": []
+  },
+  "50": {
+   "num": "50",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "clauses": []
+  },
+  "51": {
+   "num": "51",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "clauses": []
+  },
+  "52": {
+   "num": "52",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "clauses": []
+  },
+  "53": {
+   "num": "53",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "clauses": []
+  },
+  "54": {
+   "num": "54",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "clauses": []
+  },
+  "55": {
+   "num": "55",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "clauses": []
+  },
+  "56": {
+   "num": "56",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "clauses": []
+  },
+  "57": {
+   "num": "57",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "clauses": []
+  },
+  "58": {
+   "num": "58",
+   "title": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "[Deleted by Act No. 29 of 2015, 2nd Sch.]",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [s. 2(1)]",
+   "subtitle": "EXEMPT SUPPLIES",
+   "text": "(Act No. 7 of 2014, s. 2, Act No. 16 of 2014, s. 28, Act No. 14 of 2015, s. 5, Act No. 24. of 2016, s. 2, Act No. 38 of 2016, s. 30, Act No. 11 of 2017, Act No. 15 of 2017, s. 9, Act No. 9. of 2018, Sch., Act No. 10 of 2018, s. 19, Act No. 23 of 2019, s. 21, Act No. 2 of 2020, Sch., Act No. 8 of 2020, s. 13, Act No. 8 of 2021, s. 27, Act No. 22 of 2022, s. 30, Act No. 4 of 2023, s. 37, Act No. 3 of 2024, Sch., Act No. 12 of 2024, s. 21, Act No. 9 of 2025, s. 38, Act No. 19 of 2026, s. 32) Part I – GOODS SECTION A The supply or importation of the following goods shall be exempt supplies 1. Bovine semen of tariff No. 0511.10.00. 2. Fish eggs and roes of tariff No. 0511.91.10. 3. Animal semen other than bovine of tariff No. 0511.99.10. 4. Soya beans, whether or not broken of tariff Nos. 1201.10.00 and 1201.90.00 5. Groundnuts, not roasted or otherwise cooked, in shell of tariff No. 1202.41.00. 6. Groundnuts, not roasted or otherwise cooked, shelled, whether or not broken of tariff No. 1202.42.00. 7. Copra of tariff No. 1203.00.00. 8. Linseed, whether or not broken of tariff No. 1204.00.00 9. Low erucic acid rape or colza seeds of tariff No. 1205.10.00. 10. Other rape or colza seeds of tariff No. 1205.90.00.\n11. Sunflower seeds, whether or not broken of tariff No. 1206.00.00. 12. Cotton seeds, whether or not broken of tariff Nos. 1207.21.00 and 1207.29.00. 13. Sesamum seeds, whether or not broken of tariff No. 1207.40.00. 14. Mustard seeds, whether or not broken of tariff No. 1207.50.00. 15. Safflower seeds, whether or not broken of tariff No. 1207.60.00. 16. Other oil seeds and oleaginous fruits, whether or not broken of tariff No. 1207.99.00. 17. Pyrethrum flower of tariff No. 1211.90.20. 17A. Sugarcane of tariff No. 1212.93.00.\n(Act No. 7 of 2014, s. 2(a)(ii)) 17B. Unprocessed produce of plant species camellia sinensis.\n(Act No. 7 of 2014, s. 2(a)(ii)) 18. Live Animals of Chapter 1. 19. Meat and edible meat offals of chapter 2 excluding those of tariff heading 0209. and 0210. 20. Fish and crustaceans, molluscs and other aquatic invertebrates of Chapter 3 excluding those of tariff headings 0305, 0306 and 0307; (Act No. 4 of 2023, s. 37(i)) 21. Unprocessed milk. 22. Fresh birds eggs in shell. 23. Edible Vegetables and certain roots and tubers of Chapter 7, excluding those of tariff heading 0711. 24. Edible fruits and nuts, peal of citrus fruits or melon of Chapter 8 excluding, those of tariff heading 0811, 0812, 0813 and 0814. 25. Cereals of Chapter 10, excluding seeds of tariff heading 1002.\n(Act No. 10 of 2018, s. 19(a)(i)) 26. Deleted by Act No. 22 of 2022, s. 30(a)(i). 27. Deleted by Act No. 2 of 2020, Sch. 28. Deleted by Act No. 10 of 2018, s. 19(a)(iii). 29. Deleted by Act No. 2 of 2020, Sch. 30. Deleted by Act No. 2 of 2020, Sch. 30A. Deleted by Act No. 2 of 2020, Sch. 31. Deleted by Act No. 15 of 2017, s. 9(a)(i). 32. Syringes, with or without needles of tariff no. 9018.31.00. 33. Deleted by Act No. 8 of 2021, s. 27(a)(i). 34. Deleted by Act No. 8 of 2021, s. 27(a)(ii). 35. Tubular metal needles and needles for sutures of tariff No. 9018.32.00. 36. Catheters, cannulae and the like of tariff No. 9018.39.00. 37. Blood bags.\n38. Blood and fluid infusion sets. 39. (1) Subject to paragraphs (2) and (3), materials, articles and equipment, including motor vehicles, which—\n  (a) are specially designed for the sole use by disabled and physically handicapped persons;\n  (b) are intended for the educational, scientific or cultural advancement of the disabled for the use of an organisation approved by the national Government for purposes of exemption.\n(2) The exemption under paragraph (1) shall only apply—\n  (a) once in every four years in respect of motor vehicles; and (b) to a person who has not enjoyed another exemption under the provisions of this Act.\n(3) Paragraph (1)(b) does not apply to motor vehicles.\nTariff Number 2106.10.00 2106.90.10 2106.90.20 2106.90.99 2106.90.91 2936.27.00 2941.20.00 2941.30.00 2941.40.00 2941.50.00 2941.90.00 3001.20.00 3001.90.00 Description Protein concentrates and textured protein substances Food preparations specially prepared for infants Deleted by Act No. 7 of 2014, s. 2(a)(i) Other - Food preparations not elsewhere specified or included Food supplements Vitamin C and its derivatives Streptomycins and their derivatives; salts thereof. Tetracyclines and their derivatives; salts thereof. Chloramphenicol and its derivatives; salts thereof. Erythromycin and its derivatives; salts thereof. Other antibiotics. Extracts of glands or other organs or of their secretions. Other - Heparin and its salts Tariff Number 3001.90.00 3001.90.10 3001.90.90 3002.10.00 3002.11.00 3002.12.00 3002.13.00 3002.14.00 3002.15.00 3002.41.00 3002.42.00 3003.10.00 3003.20.00 3003.31.00 3003.39.00 Description Other - Other human or animal substances prepared for therapeutic or prophylactic uses, not elsewhere specified or included Deleted by Act No. 8 of 2021, s. 27(a)(iii) Deleted by Act No. 8 of 2021, s. 27(a)(iii) Deleted by Act No. 8 of 2021, s. 27(a)(iii) Deleted by Act No. 4 of 2023, s. 37(a)(iv) Antisera and other blood fractions Immunological products unmixed, not put up in measured doses or in forms or packings for retail sale Immunological products, mixed, not put up in measured doses or in forms or packings for retail sale Immunological products put up in measured doses or in forms or packings for retail sale Vaccines for human medicine.\nVaccines for veterinary medicine.\nMedicaments containing penicillin or derivatives thereof, with penicillanic acid structure, or streptomycin or their derivatives.\nMedicaments containing other antibiotics not put up in measured doses or in forms or packings for retail sale.\nInsulin Other medicaments, containing hormones or other products of heading no. 29.37, not put up in measured doses or in forms or packings for retail sale.\nTariff Number Description 3003.40.00 Medicaments containing alkaloids or derivatives thereof but not containing hormones or other products of heading No. 29.37 or antibiotics, not put up in measured doses or in forms or packings for retail sale.\n3003.41.00, 3003.42.00, 3003.43.00 and 3003.49.00 Other medicaments, containing alkaloids or derivatives thereof, put up in measured doses or in forms or packings for retail sale 3003.90.00 Other.\n3003.90.00 Infusion solutions for ingestion other than by mouth not put up in measured doses or in forms or packings for retail sale and other medicaments consisting of two or more constituents which have been mixed together for therapeutic or prophylactic uses, not put up in measured doses or in forms or packings for retail sale 3003.90.90 Other medicaments (excluding goods of heading No. 30.02, 30.05 or 30.06) consisting of two or more constituents which have been mixed together for therapeutic or prophylactic uses, not put up in measured doses or in forms or packings for retail sale.\n3004.10.00 Medicaments containing penicillin or derivatives thereof, with a penicillanic acid structure, or streptomycin or their derivatives, put up in measured doses or in forms or packings for retail sale.\n3004.20.00 Other medicaments containing antibiotics, put up in measured doses or in forms or packings for retail sale.\n3004.31.00 Medicaments containing insulin put up in measured doses or in forms or packings for retail sale.\n3004.32.00 Other, medicaments containing hormones or other products of heading 29.37 containing corticosteroid hormones, their derivatives or structural analogue of tariff Tariff Number 3004.39.00 3004.41.00 3004.42.00 3004.43.00 3004.49.00 3004.50.00 3004.60.00 3004.90.00 3004.90.90 3005.10.00 3005.90.11, 3005.90.12, 3005.90.19 3005.90.90 Description Other medicaments containing hormones or other products of heading No. 29.37 but not containing antibiotics, put up in measured doses or in forms or packings for retail sale.\nContaining ephedrine or its salts.\nContaining pseudoephedrine (INN) or its salts.\nOther medicaments, containing alkaloids or derivatives containing norephedrine or its salts Other.\nOther medicaments containing vitamins or other products of heading No. 29.36 put up in measured doses or in forms or packings for retail sale.\nOther, containing antimalarial active principles described in Subheading Note 2 to this Chapter Other medicaments (excluding goods of heading No. 30.02, 30.05 or 30.06) consisting of mixed or unmixed products, for therapeutic or prophylactic uses, put up in measured doses or in forms or packings for retail sale.\nDeleted by Act No. 4 of 2023, s. 37(a)(xiii).\nAdhesive dressings and other articles having an adhesive layer impregnated or coated with pharmaceutical substances or put up in forms or packings for retail sale for medical, surgical, dental or veterinary purposes.\nWhite absorbent cotton wadding, impregnated or coated with pharmaceutical substances, or put up in forms or packings for retail sale for medical, surgical, dental or veterinary purposes Other wadding, gauze, bandages and similar articles (for example, dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or put up in forms or packings for retail sale for medical, surgical, dental or veterinary purposes.\nTariff Number 3006.10.00 3006.30.00 3006.40.00 3006.50.00 3006.60.00 3006.70.00 3006.91.00 3006.92.00 3006.93.00 3822.11.00 3822.13.00 8309.90.90 8407.10.00 8409.10.00 8802.11.00 Description Sterile surgical catgut, similar sterile suture materials and sterile tissue adhesives for surgical wound closure, sterile laminaria and sterile laminariatents; sterile absorbable surgical or dental haemostatics.\nOpacifying preparations for X-ray examinations; diagnostic reagents designed to be administered to the patient.\nDental cements and other dental fillings; bone reconstruction cements.\nFirst-aid boxes and kits.\nChemical contraceptive preparations based on hormones or on other products of heading 29.37 or spermicides Gel preparations designed to be used in human or veterinary medicine as a lubricant for parts of the body for surgical operations or physical examinations or as a coupling agent between the body and medical instruments.\nAppliances identifiable for ostomy use.\nWaste pharmaceuticals.\nPlacebos and blinded (or double-blinded) clinical trial kits for a recognised clinical trial, put up in measured doses Malaria diagnostic test kits Blood-grouping reagents.\nDeleted by Act No. 8 of 2020, s. 13(a)(ii)\n[Act No. 14 of 2015, s. 5(a)(ii).]\n[Act No. 14 of 2015, s. 5(a)(ii).]\nDeleted by Act No. 8 of 2020, s. 13(a)(ii) Tariff Number 8802.12.00 8802.20.00 8802.30.00 8802.40.00 8802.60.00 8803.30.00 8805.10.00 8805.21.00 8805.29.00 9018.90.00 9619.00.10 9019.20.00 9021.10.00 9021.50.00 9025.19.00 1006.30.00 Description Deleted by Act No. 8 of 2020, s. 13(a)(ii) Deleted by Act No. 8 of 2020, s. 13(a)(ii) Aeroplanes and other Aircrafts on unladen weight exceeding 2,000 kgs but not exceeding 15,000 kg. Aeroplanes and other Aircraft of unladen weight exceeding 15,000 kgs. Spacecraft (including satellites) and suborbital and spacecraft launch vehicles. Deleted by Act No. 8 of 2020, s. 13(a)(ii) Deleted by Act No. 8 of 2020, s. 13(a)(ii) Deleted by Act No. 8 of 2020, s. 13(a)(ii) Deleted by Act No. 8 of 2020, s. 13(a)(ii) Blood giving set and infusion sets Sanitary towels (pads) and tampons. Airway Guedel and Ambu bags Orthopaedic or fracture appliances Pacemakers for stimulating heart muscles, excluding parts and accessories Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments, thermometers and pyrometers, not combined with other instruments: Other Semi-milled or wholly milled rice, whether or not polished or glazed.\nTariff Number Description 1101.00.00 Deleted by Act No. 15 of 2017, s. 9(a)(iv) 1102.20.00 Deleted by Act No. 15 of 2017, s. 9(a)(iv) 0402.21.00 Milk in powder, granules or other solid forms, of a fat content, by weight, exceeding 1.5%, not containing added sugar or other sweetening matter.\n0402.21.10 Deleted by Act No. 8 of 2021, s. 27(a)(iii) 0402.29.00 Other milk in powder granules or other solid forms, of a fat content, by weight, exceeding 1.5% 0402.91.00 Other not containing added sugar or other sweetening matter.\n0402.91.10 Deleted by Act No. 8 of 2021, s. 27(a)(iii) 0402.99.00 Other milk 0402.99.10 Deleted by Act No. 8 of 2021, s. 27(a)(iii) Gluten bread. Unleavened bread.\n(Act No. 16 of 2014, s.28(a)(i), Act No. 2 of 2020, Sch., Act No. 8 of 2020, s. 13(a) (i) & (ii), Act No. 8 of 2021, s. 27(a)(iii), (iv)& (iv) & (v), Act No. 4 of 2023, s.37(a)(xii)) 40. Made-up fishing nets of man-made textile material of tariff No. 5608.11.00.\n(Act No. 7 of 2014, s. 2(a)(v)) 41. Mosquito nets of tariff No. 6304.91.10.\n(Act No. 7 of 2014, s. 2(a)(v)) 42. Deleted by Act No. 15 of 2017, s. 9(a)(iii). 43. Materials, waste, residues and by-products, whether or not in the form of pellets, and preparations of a kind used in animal feeding of tariff numbers 1213.00.00, 1214.10.00, 2308.00.00, 2309.10.00, 2309.90.10, 2309.90.90, 2302.10.00, 2302.30.00, 2303.20.00, 2303.30.00, 2304.00.00, 2306.10.00, 2306.20.00, 2306.30.00, 2306.41.00, 2306.49.00, 2306.50.00, 2306.60.00, 2306.90.00, 2835.25.00 and 2835.26.00.\n(Act No. 7 of 2014, s. 2(a)(v), Act No. 38 of 2016, s. 30 (a)(i), Act No. 10 of 2018, s. 19(a)(iv)) 44. Unprocessed green tea.\n(Act No. 7 of 2014, s. 2(a)(v)) 45. Deleted by Act No. 8 of 2020, s. 13(a)(iii).\n46. Deleted by Act No. 14 of 2015, s. 5(a)(i).\n47. Deleted by Act No. 8 of 2020, s. 13(a)(iv).\n48. Inputs or raw materials supplied to solar equipment manufacturers for manufacture of solar equipment or deep cycle-sealed batteries which exclusively use or store solar power as approved from time to time by the Cabinet Secretary for the National Treasury, upon recommendation by the Cabinet Secretary responsible for energy and petroleum.\n(Act No. 16 of 2014, s. 28(a)(ii)) 49. Deleted by Act No. 19 of 2026, s. 32(a).\n(Act No. 14 of 2015, s. 5(b), Act No. 4 of 2023, s. 37(a)(xiv), Act No. 19 of 2026, s. 32(a).) 50. Deleted by Act No. 8 of 2020, s. 13(a)(v).\n51. Taxable goods, imported or purchased for direct and exclusive use in the implementation of official aid funded projects excluding fuels, lubricants, spare parts and tyres for vehicles upon approval by the Cabinet Secretary responsible for the National Treasury.\nProvided that any exemption granted for spare parts before the 30th June, 2026, shall apply until the conclusion of the project.\n(Act No. 14 of 2015, s. 5(b), Act No. 38 of 2016, s. 30(a) (ii), Act No. 9 of 2025, s. 38(a)(ii), Act No. 19 fo 2026, s. 32(a)).\n52. Deleted by Act No. 2 of 2020, Sch.\n52A. Deleted by Act No. 2 of 2020, Sch.\n52B. Deleted by Act No. 2 of 2020, Sch.\n53. Deleted by Act No. 2 of 2020, Sch.\n54. Goods imported or purchased locally for use by the local film producers and local filming agents, upon recommendation by the Kenya Film Commission, subject to approval by the Cabinet Secretary to the National Treasury.\n(Act No. 14 of 2015, s. 5(b), Act No. 38 of 2016, s. 30(a)(iii)) 55. Deleted by Act No. 2 of 2020, Sch.\n56. Inputs or raw materials locally purchased or imported by manufacturers of agricultural machinery and implements upon approval by the Cabinet Secretary responsible for industrialization.\n(Act No. 14 of 2015, s. 5(b)) 57. All goods including material supplies, equipment, machinery and motor vehicles for official use by the Kenya Defence Forces, the Defence Forces Welfare Services, the National Intelligence Service and the National Police Service.\n(Act No. 14 of 2015, s. 5(b), Act No. 38 of 2016, s. 30(a)(v), Act No. 12 of 2024, s. 21(a)(vi)) 58. Deleted by Act No. 19 of 2026, s. 32(a).\n(Act No. 38 of 2016, s. 30(a)(vi), Act No. 19 of 2026, s. 32(a).) 59. Wheat seeds of tariff number 1001.11.00 and 1001.91.00.\n(Act No. 38 of 2016, s. 30(a)(vi)) 60. Deleted by Act No. 2 of 2020, Sch.\n61. Deleted by Act No. 2 of 2020, Sch.\n62. Deleted by Act No. 19 of 2026, s. 32(a). (Act No. 38 of 2016, s. 30(a)(vi), Act No. 19 of 2026, s. 32(a).) 63. Taxable goods for the direct and exclusive use in the construction and equipping of specialized hospitals with a minimum bed capacity of fifty, approved by the Cabinet Secretary upon recommendation by the Cabinet Secretary responsible for health who may issue guidelines for determining eligibility for the exemption. Provided that notwithstanding this subparagraph, any approval granted by the Cabinet Secretary before the commencement thereof in respect of the supply of taxable goods and which is in force at such commencement shall continue to apply until the supply of the exempted taxable goods is made in full. (Act No. 38 of 2016, s. 30(a)(vi), Act No. 15 of 2017, s. 9(v), Act No. 10 of 2018, s. 19(a)(vii), Act No. 22 of 2022, s. 30(a)(ii), Act No. 4 of 2023, s. 37(a)(xv)) 64. Deleted by Act No. 10 of 2018, s. 19(a)(viii). 65. Deleted by Act No. 8 of 2020, s. 13(a)(vi). 66. Inputs or raw materials locally purchased or imported by manufacturers of clean cook stoves approved by the Cabinet Secretary upon recommendation by the Cabinet Secretary for the time being responsible for energy. \"Clean cook stoves\" includes clean and energy saving cook stoves with tariff number 7321, as well as their parts and raw materials that are either imported or sourced locally, provided that the stoves meet ISO/IWA 11:2012 standards of tier 2-4 for fuel efficiency, as determined by the Kenya Bureau of Standards.\n(Act No. 38 of 2016, s. 30(a)(vi), Act No. 15 of 2017, s. 9(a)(vi)) 66A. Deleted by Act No. 4 of 2023 s. 37(a)(xvi).\n(Act No. 22 of 2022, s. 30(a)(iii), Act No. 4 of 2023 s. 37(a)(xvi)) 67. Deleted by Act No. 8 of 2020, s. 13(a)(vii). 68. Super absorbent polymer (SAP) of tariff number 3906.90.00 (Act No. 38 of 2016, s. 30(a)(vi), Act No. 8 of 2021, s. 27(a)(vi)) 69. Goods of tariff number 4703.21.00 for use in the manufacture of baby diapers, adult diapers, sanitary towels (pads) and tampons. (Act No. 38 of 2016, s. 30(a)(vi), Act No. 12 of 2024, s. 21(a)(i)) 70. Deleted by Act No. 12 of 2024, s. 21(a)(ii). (Act No. 38 of 2016, s. 30(a)(vi), Act No. 8 of 2021, s. 27(a)(vii), Act No. 12 of 2024, s. 21(a)(ii)) 71. Printed and unprinted Perforated PE film of other plastics 15-22 gsm of tariff numbers 3921.90.10, and 3921.90.90. (Act No. 38 of 2016, s. 30(a)(vi), Act No. 8 of 2021, s. 27(a)(viii), Act No. 4 of 2023 s. 37(a)(xvii)) 72. Spun bound non-woven 15-25 gsm of tariff number 5603.11.00 (Act No. 38 of 2016, s. 30(a)(vi), Act No. 8 of 2021, s. 27(a)(ix)) 73. Airlid paper with super absorbent polymer 180gsm/67 of tariff number 4803.00.00 (Act No. 38 of 2016, s. 30 (a)(vi), Act No. 8 of 2021, s. 27(a)(x)) 74. Airlid paper with super absorbent polymer 80gsm/67 of tariff number 4803.00.00 (Act No. 38 of 2016, s. 30(a)(vi), Act No. 8 of 2021, s. 27(a)(xi)) 75. Deleted by Act No. 8 of 2021, s. 27(a)(xii) 76. Deleted by Act No. 8 of 2021, s. 27(a)(xiii) 77. Pressure sensitive adhesive of tariff number 3506.91.00. (Act No. 38 of 2016, s. 30(a)(vi), Act No. 8 of 2021, s. 27(a)(xiv)) 78. Plain polythene film/LPDE of tariff number 3921.19.10. (Act No. 38 of 2016, s. 30(a)(vi), Act No. 8 of 2021, s. 27(a)(xv)) 79. Plain polythene film/PE of tariff number 3921.19.10 (Act No. 38 of 2016, s. 30(a)(vi), Act No. 8 of 2021, s. 27(a)(xvi)) 80. PE white 25-40gsm/release paper of tariff number 4811.49.00. (Act No. 38 of 2016, s. 30(a)(vi), Act No. 8 of 2021, s. 27(a)(xvii)) 81. ADL 25-40gsm of tariff number 5603.11.00 (Act No. 38 of 2016, s. 30(a)(vi), Act No. 8 of 2021, s. 27(a)(xviii)) 82. Elasticized side tape of tariff number 5402.44.00 (Act No. 38 of 2016, s. 30 (a)(vi), Act No. 8 of 2021, s. 27(a)(xix)) 83. 12-16 gsm spun bound piyropo nonwoven cover stock/12 gsm spun bound PP non-woven SMS hydrophobic leg cuffs of tariff number 5603.11.00 (Act No. 38 of 2016, s. 30(a)(vi), Act No. 8 of 2021, s. 27(a)(xx)) 84. Polymetric elastic 2/3 strands of tariff number 3919.90.10. (Act No. 38 of 2016, s. 30(a)(vi), Act No. 8 of 2021, s. 27(a)(xxi)) 85. Deleted by Act No. 8 of 2021, s. 27(a)(xxii) 86. Deleted by Act No. 8 of 2021, s. 27(a)(xxiii) 87. Deleted by Act No. 8 of 2021, s. 27(a)(xxiv) 88. Deleted by Act No. 2 of 2020, Sch. 89. Parts imported by aircraft operators or persons engaged in the business of aircraft maintenance upon recommendation by the competent authority responsible for civil aviation. (Act No. 15 of 2017, s. 9(a)(vii), Act No. 19 of 2026, s. 32(a).) 90. Inputs for the manufacture of pesticides upon recommendation by the Cabinet Secretary for the time being responsible for matters relating to agriculture. (Act No. 15 of 2017, s. 9(a)(vii)) 91. Specially designed locally assembled motor vehicles for transportation of tourists, purchased before clearance through Customs by tour operators upon recommendation by the competent authority responsible for tourism promotion, provided the vehicles meet the following conditions—\n  (i) the vehicles shall at all times be registered and operated by a company that is licenced under the Tourism Vehicle Regime;\n  (ii) the vehicles shall be used exclusively for the transportation of tourists;\n  (iii) the vehicles shall have provisions for camping, rescue and first aid equipment, luggage compartments and communication fittings; and (iv) any other condition the Commissioner may impose: Provided that tax shall become payable upon change of use or disposal of the vehicle for other use. (Act No. 15 of 2017, s. 9(a)(vii)) 92. Deleted by Act No. 10 of 2018, s. 19(a)(ix).\n93. Deleted by Act No. 2 of 2020, Sch.\n94. Deleted by Act No. 2 of 2020, Sch.\n95. The supply of natural water, excluding bottled water, by a National Government, County Government, any political sub-division thereof or a person approved by the Cabinet Secretary for the time being responsible for water development, for domestic or for industrial use.\n(Act No. 9 of 2018, Sch.) 96. Articles of apparel, clothing accessories and equipment specially designed for safety or protective purposes for use in registered hospitals and clinics or by county government or local authorities in firefighting.\n(Act No. 9 of 2018, Sch.) 96A. Personal protective equipment, including facemasks, for use by medical personnel in registered hospitals and clinics, or by members of the public in the case of a pandemic or a notifiable infectious disease.\n(Act No. 2 of 2020, Sch.) 97. Deleted by Act No. 2 of 2020, Sch.\n98. Deleted by Act No. 10 of 2018, s. 19(a)(xi).\n99. Goods imported by passengers arriving from places outside Kenya, subject to the limitations and conditions specified as follows—\n  (a) the goods shall be—\n  (i) the property of and accompanying the passenger;\n  (ii) for the personal or household use of the passenger in Kenya; and\n  (iii) of such kinds and in such quantities as the proper officer may allow;\n  (b) notwithstanding subparagraph (c), the following goods shall not be exempt under this item—\n  (i) alcoholic beverages of all kinds, perfumed spirits and tobacco and manufactures thereof, except as provided in subparagraphs (f) and (g);\n  (ii) fabrics in the piece;\n  (iii) motor vehicles except, as provided in subparagraphs (c) and (d); and\n  (iv) any trade goods, or goods for supply or disposal to other persons;\n  (c) subject to subparagraphs (a) and (b), the following goods may be exempted under this item when imported as baggage by a person on first arrival or by a returning resident of Kenya whom the proper officer is satisfied is bona fide changing residence from a place outside Kenya to a place within Kenya—\n  (i) wearing apparel;\n  (ii) personal and household effects of any kind which were in his personal or household use in his former place of residence; and\n  (iii) one motor vehicle, (excluding buses and minibuses of a seating capacity of more than 13 passengers and load-carrying vehicles of a load carrying capacity exceeding two tones) which the passenger has personally owned and used outside Kenya for at least twelve months (excluding the period of the voyage in the case of shipment):\nProvided—\n  (i) the person has attained the age of eighteen years; and\n  (ii) where the person has previously been granted exemption under this paragraph, any subsequent exemption shall not apply unless such person has used the motor vehicle so imported into Kenya for a period of not less than four years, and tax has been paid for the motor vehicle upon which exemption had previously been granted;\n  (iii) where the returning resident has owned and used a left-hand drive vehicle for at least twelve months the person may sell the vehicle and import a right hand drive vehicle of whose current retail selling price does not exceed that of the previously owned lefthand-drive vehicle, subject to the following conditions—\n(A) the person shall provide proof of ownership and use of the previously owned left-hand-drive vehicle in the country of former residence for a period of at least one year prior to the return;\n(B) the person shall provide proof of disposal of the previously owned left-handdrive vehicle before changing residence; and\n  (iv) subparagraph (iii) shall only apply to residents returning from countries that operate Left Hand Drive motor vehicles;\n  (d) subject to subparagraphs (a) and (b) the following goods may be exempted under this item when imported as baggage by a person whom the proper office is satisfied is making a temporary visit not exceeding three months to Kenya—\n  (i) non-consumable goods imported for his personal use during his visit which he intends to take out with him when he leaves at the end of his visit;\n  (ii) consumable provisions and non-alcoholic beverages, in such quantities and of such kinds as are, in the opinion of the proper officer, consistent with his visit; and\n  (iii) goods imported by a returning resident, being an employee of an international organization the headquarters of which are in Kenya, and who has been recalled for consultations at the organization's headquarters;\n  (e) subject to subparagraphs (a) and (b), the following goods may be exempted under this item imported as baggage by a person who the proper officer is satisfied is a resident of Kenya returning from a visit outside Kenya and who is not changing residence in accordance with subparagraphs (c) and (d)—\n  (i) wearing apparel;\n  (ii) personal and household effects which have been in his personal or household use.\n  (f) subject to subparagraph (a) and (b), tax shall not be levied on the following goods imported by, and in the possession of a passenger—\n  (i) spirits (including liquors) or wine, not exceeding one litre or wine not exceeding two litres;\n  (ii) perfume and toilet water not exceeding in all one half litre, of which not more than a quarter may be perfume; and\n  (iii) cigarettes, cigars, cheroots, cigarillos, tobacco and snuff not exceeding in all 250 grams in weight:\nProvided that the tax free allowance under this subparagraph shall be granted only to passengers who have attained the age of eighteen years;\n  (g) subject to subparagraphs (a) and (b)—\n  (i) the exemption granted in accordance with subparagraphs (c), (d) and (e) may be allowed in respect of baggage imported within ninety days of the date, of arrival of the passenger or such further period, not exceeding three hundred and sixty days from such arrival, as the Commissioner may allow; and\n  (ii) the tax free allowances granted in accordance with subparagraph (f) shall not be allowed in respect of goods specified in the paragraph imported in unaccompanied baggage;\n  (h) where any person who has been granted exemption under subparagraphs (c) or (d) changes his residence to a place outside Kenya within ninety days from the date of his arrival, he shall export his personal or household effects within thirty days, or such further period, not exceeding sixty days from the date he changes such residence to a place outside Kenya, as the Commissioner may allow, otherwise tax shall become due and payable from the date of importation; and\n  (i) subject to paragraphs (1) and (2), goods up to the value of two thousand United States Dollars for each traveller in respect of goods, other than goods referred to in paragraph (9), shall be exempted when imported by the traveller in his or her accompanied baggage, or upon his or her person and declared by him or her to an officer, provided that the person has been outside Kenya for a period in excess of twenty-four hours.\n(Act No. 9 of 2018, Sch., Act No. 19 of 2026, s. 32(a).) 100. Taxable goods for emergency relief purposes for use in specific areas and within a specified period, supplied to or imported by the Government or its approved agent, a non-governmental organization or a relief agency authorized by the Cabinet Secretary responsible for disaster management, where—\n  (a) the goods are for use in areas where a natural disaster or calamity has occurred in Kenya; or\n  (b) the goods are intended for use in officially recognized refugee camps in Kenya;\n  (c) the goods are household utensils, food stuffs, materials for provision of shelter or equipment and materials for health, sanitary or educational purposes; and\n  (d) the case of a natural disaster or calamity, the importation or purchase locally is made within six months or such further period, not exceeding twelve months, as the Commissioner may permit in each case.\n(Act No. 9 of 2018, Sch.) 101. All goods imported or purchased locally by the Defence Forces Welfare Services.\n(Act No. 10 of 2018, s. 19(a)(xii), Act No. 12 of 2024, s. 21(a)(vii), Act No. 9 of 2025, s. 38(a)(iii)) 102. Deleted by Act No. 2 of 2020, Sch.\n103. Hearing aids, excluding parts and accessories, of tariff No. 9021.40.00.\n(Act No. 10 of 2018, s. 19(a)(xii)) 104. Deleted by Act No. 8 of 2020, s. 13(a)(viii).\n105. Locally manufactured motherboards.\n(Act No. 23 of 2019, s. 21(a)(iii)).\n106. Inputs for the manufacture of motherboards approved by the Cabinet Secretary responsible for information communication technology.\n(Act No. 23 of 2019, s. 21(a)(iii)).\n107. Plant, machinery and equipment used in the construction of a plastics recycling plant.\n(Act No. 23 of 2019, s. 21(a)(iii)).\n108. Deleted by Act No. 4 of 2023 s. 37(a)(xviii).\n(Act No. 23 of 2019, s. 21, Act No. 8 of 2020, s. 13(a)(ix), Act No. 4 of 2023 s. 37(a)(xviii)) 109. Deleted by Act No. 19 of 2026, s. 32(a).\n(Act No. 23 of 2019, s. 21, Act No. 19 of 2026, s. 32(a).) 110. Musical instruments and other musical equipment, imported or purchased locally, for exclusive use by educational institutions, upon recommendation by the Cabinet Secretary responsible for Education.\n(Act No. 23 of 2019, s. 21) 111. Maize (corn) seeds of tariff no. 1005.10.00.\n(Act No. 8 of 2020, s. 13(b)) 112. Deleted by Act No. 9 of 2025, s. 38(a)(iv).\nProvided that an exemption that had been approved pursuant to paragraph 112 before the deletion of paragraph 112 came into effect shall continue to apply until the 30th June, 2026;\n(Act No. 8 of 2021, s. 27(a)(xxv), Act No. 9 of 2025, s. 38(a)(iv)) 113. Specialized equipment for the development and generation of solar and wind energy, including photovoltaic modules, direct current charge controllers, direct current inverters and deep cycle batteries that use or store solar power, upon recommendation to the Commissioner by the Cabinet Secretary responsible for matters relating to energy.\n(Act No. 8 of 2021, s. 27(a)(xxv)) 114. Deleted by Act No. 12 of 2024, s. 21(a)(iii).\n115. Medical ventilators and the inputs for the manufacture of medical ventilators upon recommendation by the Cabinet Secretary responsible for matters relating to health.\n(Act No. 8 of 2021, s. 27(a)(xxv)) 116. Physiotherapy accessories, treadmills for cardiology therapy and treatment of tariff number 9506.91.00 for use by licensed hospitals upon approval by the Cabinet Secretary responsible for matters relating to health.\n(Act No. 8 of 2021, s. 27(a)(xxv)) 117. Dexpanthenol of tariff number 3304.99.00 used for medical nappy rash treatment by licensed hospitals upon approval by the Cabinet Secretary responsible for matters relating to health.\n(Act No. 8 of 2021, s. 27(a)(xxv)) 118. Medicaments of tariff numbers 3003.41.00, 3003.42.00, 3003.43.00, 3003.49.00, 3003.60.00 (excluding goods of heading 30.02, 30.05 or 30.06) consisting of two or more constituents which have been mixed together for therapeutic or prophylactic uses.\n(Act No. 8 of 2021, s. 27(a)(xxv)) 119. Diagnostic kits or laboratory reagents and their certified reference materials of heading 38.22 upon approval by the Cabinet Secretary responsible for matters relating to health;\n(Act No. 8 of 2021, s. 27(a)(xxv), Act No. 4 of 2023, s. 37(a)(xix)) 120. Electro-diagnostic apparatus, of tariff numbers 9018.11.00, 9018.12.00, 9018.13.00, 9018.14.00, 9018.19.00, and other apparatus, Instruments and appliances of tariff numbers 9018.20.00, 9018.90.00 upon approval by the Cabinet Secretary responsible for matters relating to health.\n(Act No. 8 of 2021, s. 27(a)(xxv), Act No. 4 of 2023, s. 37(a)(xx)) 121. Other instruments and appliances, of tariff number 9018.41.00, used in dental sciences, dental drill engines, whether or not combined on a single base with other dental equipment, upon approval by the Cabinet Secretary responsible for matters relating to health.\n(Act No. 8 of 2021, s. 27(a)(xxv)) 122. Other instruments and appliances, used in dental sciences of tariff 9018.49.00, Other ophthalmic instruments and appliances of tariff 9018.50.00 and other instruments and appliances of tariff number 9018.90.00 upon approval by the Cabinet Secretary responsible for matters relating to health.\n(Act No. 8 of 2021, s. 27(a)(xxv), Act No. 4 of 2023, s. 37(a)(xxi)) 123. Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus upon approval by the Cabinet Secretary responsible for matters relating to health.\n(Act No. 8 of 2021, s. 27(a)(xxv)) 124. Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters upon approval by the Cabinet Secretary responsible for matters relating to health.\n(Act No. 8 of 2021, s. 27(a)(xxv)) 125. Artificial teeth of tariff number 9021.21.00, other dental fittings of tariff number 9021.29.00 and other artificial parts of the body of tariff numbers 9021.31.00 and 9021.39.00 and other appliances of tariff number 9021.90.00 upon approval by the Cabinet Secretary responsible for matters relating to health.\n(Act No. 8 of 2021, s. 27(a)(xxv), Act No. 4 of 2023, s. 37(a)(xxii)) 126. Apparatus based on the use of x-rays, whether or not for medical, surgical or dental of tariff numbers 9022.12.00, 9022.13.00, 9022.14.00 and 9022.19.00 upon approval by the Cabinet Secretary responsible for matters relating to health.\n(Act No. 8 of 2021, s. 27(a)(xxv)) 127. Apparatus based on the use of alpha, beta or gamma radiations, whether or not for medical, surgical or dental of tariff numbers 9022.21.00, 9022.29.00, 9022.30.00 and 9022.90.00, upon approval by the Cabinet Secretary responsible for matters relating to health.\n(Act No. 8 of 2021, s. 27(a)(xxv)) 128. Deleted by Act No. 9 of 2025, s. 38(a)(v).\nProvided that an exemption that had been approved pursuant to paragraph 128 before the deletion of paragraph 128 came into effect shall continue to apply until the 30th June, 2026;\n(Act No. 8 of 2021, s. 27(a)(xxv), Act No. 4 of 2023, s. 37(a)(xxiii), Act No. 9 of 2025, s. 38(a)(v)) 129. Weighing machinery (excluding balances of a sensitivity of 5 cg or better), of tariff number 8423.10.00 purchased or imported by registered hospitals upon approval by the Cabinet Secretary responsible for matters relating to health.\n(Act No. 8 of 2021, s. 27(a)(xxv), Act No. 4 of 2023, s. 37(a)(xxiv)) 130. Deleted by Act No. 4 of 2023 s. 37(a)(xxv).\n131. Sterilizer Dry Heat (Wgd-001-Grx-05A) Pc, autoclave steam table tops of tariff number 8419.20.00 upon approval by the Cabinet Secretary responsible for matters relating to health.\n(Act No. 8 of 2021, s. 27(a)(xxv)) 132. Needle holders and urine bags, of tariff heading 3926.\n(Act No. 8 of 2021, s. 27(a)(xxv)) 133. Tourniquets of tariff number 3926.90.99 for use by licensed hospitals upon approval by the Cabinet Secretary responsible for matters relating to health. (Act No. 8 of 2021, s. 27(a)(xxv)) 134. Taxable supplies including fish feeding and handling, water operations, cold storage, fish cages, pond construction and maintenance, and fish processing and handling, imported or purchased for direct and exclusive use on the recommendation of the relevant state department; (Act No. 8 of 2021, s. 27(a)(xxv)) 135. Pre-fabricated biogas digesters. (Act No. 8 of 2021, s. 27(a)(xxv)) 136. Biogas. (Act No. 8 of 2021, s. 27(a)(xxv)) 137. Sustainable fuel briquettes and pellets for household and commercial use. (Act No. 8 of 2021, s. 27(a)(xxv), Act No. 22 of 2022, s. 30(a)(iv)) 138. Deleted by Act No. 3 of 2024, Sch. (Act No. 8 of 2021, s. 27(a)(xxv), Act No. 3 of 2024, Sch.) 139. Tractors other than road tractors for semitrailers. (Act No. 8 of 2021, s. 27(a)(xxv)) 140. Plant and machinery of chapter 84 and 85 imported or locally purchased by manufacturers of pharmaceutical products or investors in the manufacture of pharmaceutical products upon the recommendation of the Cabinet Secretary responsible for matters relating health. (Act No. 22 of 2022, s. 30(a)(v), Act No. 4 of 2023, s. 37(a)(xxvi)) 141. Medical oxygen supplied to registered hospitals. (Act No. 22 of 2022, s. 30(a)(V)) 142. Urine bags, adult diapers, artificial breasts, colostomy or ileostomy bags for medical use. (Act No. 22 of 2022, s. 30(a)(V)) 143. Inputs and raw materials used in the manufacture of passenger motor vehicles. (Act No. 22 of 2022, s. 30(a)(V)) 144. Locally Manufactured passenger motor vehicles: Provided that in this paragraph— “locally manufactured passenger motor vehicle” means a motor vehicle for the transportation of passengers which is manufactured in Kenya and whose ex-factory value comprises at least thirty percent of local content; and “local content” means parts designed and manufactured in Kenya by an original equipment manufacturer operating in Kenya. (Act No. 22 of 2022, s. 30(a)(V)) 145. Taxable goods, inputs and raw materials imported or locally purchased by a company which is—\n  (a) engaged in business under a special operating framework arrangement with the Government; and\n  (b) incorporated for purposes of undertaking the manufacture of human vaccines or other manufacturing activities including refining; and whose capital investment is at least ten billion shillings, subject to approval of the Cabinet Secretary for the National Treasury, on recommendation of the Cabinet Secretary for health.\n(Act No. 22 of 2022, s. 30(a)(v), Act No. 4 of 2023, s. 37(a)(xxvii)) 146. Such capital goods the exemption of which the Cabinet Secretary may determine to promote investment in the manufacturing sector: Provided that the value of such investment is not less than two billion shillings.\n(Act No. 22 of 2022, s. 30(a)(V), Act No. 12 of 2024, s. 21(a) (iv), Act No. 9 of 2025, s. 38(a)(vi), Act No. 19 of 2026, s. 32(a).) 147. Taxable supplies made to or by a school feeding programme recognized by the Cabinet Secretary responsible for matters relating to education. 148. The supply of gas meters of tariff number 9028 10 00.\n(Act No. 3 of 2024, Sch.) (Act No. 4 of 2023, s. 37(a)(xxviii)) 149. All imported inputs and raw materials supplied to manufacturers of agricultural pest control products upon recommendation by the Cabinet Secretary for the time being responsible for agriculture.\n(Act No. 12 of 2024, s. 21(a)(v)) 150. Agricultural pest control products.\n(Act No. 12 of 2024, s. 21(a)(v)) 151. Fertilizers of Chapter 31;\n(Act No. 12 of 2024, s. 21(a)(v)) 152. Inputs or raw materials locally purchased or imported by manufacturers of fertilizer as approved from time to time by the Cabinet Secretary responsible for Agriculture. (Act No. 12 of 2024, s. 21(a)(v)) 153. The supply of denatured ethanol of tariff number 2207.20.00. (Act No. 12 of 2024, s. 21(a)(v)) 154. Deleted by Act No. 9 of 2025, s. 38(a)(vii). (Act No. 12 of 2024, s. 21(a)(v), Act No. 9 of 2025, s. 38(a)(vii)) 155. Mosquito repellent. (Act No. 9 of 2025, s. 38(a)(viii)) 156. Inputs, machinery and raw materials used in the manufacture of mosquito repellent on recommendation by the Cabinet Secretary responsible for matters relating to health. (Act No. 9 of 2025, s. 38(a)(viii)) 157. The supply of locally consumed teas. (Act No. 9 of 2025, s. 38(a)(viii)) 158. Dialyzers of tariff number 8421.29.00.\n(Act No. 19 of 2026, s. 32(a)) 159. Scrap metal.\n(Act No. 19 of 2026, s. 32(a)) 160. Inputs or raw materials locally purchased or imported for the manufacture of pharmaceutical products upon recommendation by the Cabinet Secretary for the time being responsible for matters relating to health.\n(Act No. 19 of 2026, s. 32(a)) 161. Bioethanol vapour (BEV) Stoves classified under HS Code 7321.12.00 ( cooking appliances and plate warmers for liquid fuel).\n(Act No. 19 of 2026, s. 32(a)) 162. The supply of goods for the direct and exclusive use in the implementation of infrastructure projects undertaken under a public private partnership framework, upon approval by the Cabinet Secretary on the recommendation of the Cabinet Secretary for the Ministry responsible for the implementation of the project.\n(Act No. 19 of 2026, s. 32(a)) 163. The supply of goods for direct and exclusive use in the implementation of infrastructure projects undertaken and funded by the National Infrastructure Fund as approved by the Cabinet Secretary responsible for the National Treasury.\n(Act No. 19 of 2026, s. 32(a)) 164. Plant, machinery, equipment and spare parts imported or purchased locally for use in a project whose total investment value is not less than three billion shillings as approved by the Cabinet Secretary responsible for the National Treasury upon recommendation by the Cabinet Secretary responsible for Trade and Investment Promotion.\n(Act No. 19 of 2026, s. 32(a)) 165. Taxable goods used in the construction of liquefied petroleum gas storage tanks and related infrastructure:\nProvided that the investment in the construction of liquefied petroleum gas storage tanks and related infrastructure in Kenya amounts to at least five billion shillings and upon recommendation of the Cabinet Secretary responsible for matters relating to energy.\n(Act No. 19 of 2026, s. 32(a)) 166. The making of any advances or the granting of credit, including the sale, disposal or realization of collateral, repossessed assets or secured property arising from the enforcement of security for loans, credit or other exempt financial services.\n(Act No. 19 of 2026, s. 32(a)) SECTION B - EXEMPT GOODS ON TRANSITION\n(1) The following goods shall be exempt supplies for a period of three years from the commencement of this Act unless the exempt status of the supplies is earlier revoked—\n2709.00.00 Petroleum oils and oils obtained from bituminous minerals, crude.\n2710.12.10 2710.12.20 2710.12.30 2710.12.40 2710.12.50 2710.12.90 2710.19.10 2710.19.21 2710.19.22 2710.19.29 2710.19.31 2710.19.39 2711.21.00 2711.29. 00 Motor spirit (gasoline) regular Motor spirit (gasoline), premium. Aviation spirit Spirit type jet fuel. Special boiling point spirit and white spirit. Other light oils and preparations. Partly refined (including topped crudes). Kerosene type jet fuel. Illuminating kerosene (IK) Other medium petroleum oils and preparations. Gas oil (automotive, light, amber, for high speed engines). Other gas oils. Natural gas in gaseous state Other natural gas in gaseous state.\n(2) Notwithstanding paragraph (1), the exemption shall be extended by a further two years from 1st September, 2016. (Act No. 38 of 2016, s. 30(c)(ii)) Part II – SERVICES The supply of the following services shall be exempt supplies— 1. The following financial services—\n  (a) the operation of current, deposit or savings accounts, including the provision of account statements;\n  (b) the issue, transfer, receipt and other dealing with money, including money transfer services, and accepting over the counter payments of household bills, but does not include—\n  (i) the services of carriage of cash restocking of cash machines, sorting or counting money; and\n  (ii) payment processing, settlement, merchant acquiring, gateway, aggregation services supplied over a software or platform for a fee or commission by a payment service provider:\nFor the purpose of this paragraph— \"payment service provider\" means—\n  (a) a person, company or organization which owns, possess, operates, manages or controls a public switched network for the provision of payment services; or\n  (b) any other person, company or organization that processes or stores data on behalf of such payment service provider or users of such payment services. (Act No. 19 of 2026, s. 32(b)(i))\n  (c) issuing of credit and debit cards;\n  (d) automated teller machine transactions, excluding the supply of automated teller machines and the software to run it;\n  (e) telegraphic money transfer services;\n  (f) foreign exchange transactions, including the supply of foreign drafts and international money orders;\n  (g) cheque handling, processing, clearing and settlement, including special clearance or cancellation of cheques;\n  (h) the making of any advances or the granting of any credit;\n  (i) issuance of securities for money, including bills of exchange, promissory notes, money and postal orders;\n  (j) the provision of guarantees, letters of credit and acceptance and other forms of documentary credit;\n  (k) the issue, transfer, receipt or any other dealing with bonds, Sukuk, debentures, treasury bills, shares and stocks and other forms of security or secondary security; (Act No. 15 of 2017, s. 9(b)(i))\n  (l) the assignment of a debt for consideration;\n  (m) The provision of the above financial services on behalf of another on a commission basis;\n  (n) deleted by Act No. 10 of 2018, s. 19(b)(i);\n  (o) any services set out in items (a) to (n) that are structured in conformity with Islamic finance.\n(Act No. 15 of 2017, s. 9(b)(ii)) 2. Insurance and reinsurance services excluding the following—\n  (a) management and related insurance consultancy services. (b) actuarial services; and (c) services of insurance assessors and loss adjusters. 3. The supply of education services For the purposes of this paragraph, education services means education provided by—\n  (a) a pre-primary, primary, or secondary school;\n  (b) a technical college or university;\n  (c) an institution established for the promotion of adult education, vocational training or, technical education but shall not apply in respect of business or user training and other consultancy services designed to improve work practices and efficiency of an organization.\n4. Medical, veterinary, dental, ambulance and nursing services.\n(Act No. 8 of 2020, s. 13(c)) 5. Agricultural, animal husbandry and horticultural services.\n6. Burial and cremation services.\n7. Transportation of passengers by any means of conveyance excluding international air transport or where the means of conveyance is hired or chartered.\n8. Supply by way of sale, renting, leasing, hiring, letting of land or residential premises;\n\"residential premises\" means land or a building occupied or capable of being occupied as a residence, but not including hotel or holiday accommodation;\nProvided that this paragraph shall not apply where such services are supplied in respect of—\n  (a) car park services; or\n  (b) conference or exhibition services, except where such services are provided for educational institutions as part of learning.\n9. Community, social and welfare services provided by National Government, County Government or any political sub-division thereof.\n10. Tea and coffee brokerage services.\n(Act No. 2 of 2020, Sch.) 11. The supply of—\n  (a) services rendered by educational, political, religious, welfare and other philanthropic associations to their members, or\n  (b) social welfare services provided by charitable organizations registered as such, or which are exempted from registration, by the Registrar of Societies under section 10 of the Societies Act (Cap. 108), or by the Non-Governmental Organizations Co-ordination Board under section 10 of the NonGovernmental Organization Co-ordination Act (Cap. 134) and whose income is exempt from tax under paragraph 10 of the First Schedule to the Income Tax Act (Cap. 470), and approved by the Commissioner of Social Services:\nProvided that this paragraph shall not apply where any such services are rendered by way of business.\n12. The following entertainment services—\n  (a) stage plays and performances which are conducted by educational institutions, approved by the Cabinet Secretary for the time being responsible for education as part of learning;\n  (b) sports, games or cultural performances conducted under the auspices of the Ministry for the time being responsible for culture and social services.\n13. Accommodation and restaurant services provided within the following premises by the proprietors thereof —\n  (a) establishments operated by an educational training institutions approved by the Cabinet Secretary for the time being responsible for education for the use of the staff and students by that institution; or\n  (b) establishments operated by a medical institution approved by the Cabinet Secretary for the time being responsible for health for the use by the staff and patients of such institutions; or\n  (c) canteens and cafeterias operated by an employer for the benefit of his employees.\n14. Conference services conducted for educational institutions as part of learning where such institutions are approved by the Ministry for the time being responsible for Education.\n15. Car park services provided by National Government, County Government, any political subdivision therefore by an employer to his employees on the premises of the employer.\n16. The supply of airtime by any person other than by a provider of cellular mobile telephone services or wireless telephone services.\n17. Betting, gaming and lotteries services.\n18. Hiring, leasing and chartering of aircrafts, excluding helicopters of tariff numbers 8802.11.00 and 8802.12.00.\n(Act No. 8 of 2020, s. 13(d)) 18A. Deleted by Act No. 8 of 2021, s. 27(c).\n19. Air ticketing services supplied by travel agents.\n(Act No. 7 of 2014 s. 2(b)) 20. Taxable services for direct and exclusive use in the implementation of official aid funded projects upon approval by the Cabinet Secretary to the National Treasury.\n(Act No. 14 of 2015, s. 5(c)(ii)) 21. Services imported or procured locally for use by the local film producers or local film agents upon recommendation by the Kenya Film Commission, subject to approval by the Cabinet Secretary for the National Treasury.\n(Act No. 14 of 2015, s. 5(c)(ii), Act No. 38 of 2016, s. 30 (b)(i)) 22. Deleted by Act No. 2 of 2020, Sch.\n23. Supply of sewerage' services by the national government, a county government, any political subdivision thereof or a person approved by the Cabinet Secretary for the time being responsible for water development.\n(Act No. 14 of 2015, s. 5(c)(ii)) 24. Entry fees into the national parks and national reserves.\n(Act No. 14 of 2015, s. 5(c), Act No. 38 of 2016, s. 30(b)(iii)) 25. The services of tour operators, excluding in-house supplies.\nFor the purposes of this paragraph—\n\"tour operator\" means a tour or safari operator licensed as such by the competent authority responsible for regulating and overseeing the tourism sector; and\n\"in-house supplies\" means supplies made from a tour operator's own resources; or bought from third parties but materially altered so that the supply made is substantially different to that purchased.\n(Act No. 38 of 2016, s. 30(b)(iv), Act No. 19 of 2026, s. 32(b)(ii)) 26. Deleted by Act No. 19 of 2026, s. 32(b)(iii).\n(Act No. 38 of 2016, s. 30(b)(iv), Act No. 19 of 2026, s. 32(b)(iii)) 27. Taxable services for direct and exclusive use for the construction of specialized hospitals with accommodation facilities upon recommendation by the Cabinet Secretary responsible for health, who shall issue guidelines for the criteria to determine the eligibility for the exemption.\n(Act No. 38 of 2016, s. 30(b)(iv)) 28. Deleted by Act No. 2 of 2020, Sch.\n29. Postal services provided through the supply of postage stamps, including rental of post boxes or mail bags and any subsidiary services thereto.\n(Act No. 10 of 2018, s. 19(b)(ii)) 30. Deleted by Act No. 2 of 2020, Sch.\n31. Deleted by Act No. 2 of 2020, Sch.\n32. Deleted by Act No. 22 of 2022, s. 30(b).\n(Act No. 8 of 2021, s. 27(b)) 33. The transfer of assets and other transactions related to the transfer of assets into real estate investment trusts and assetbacked securities.\n(Act No. 8 of 2021, s. 27(b)) 34. Taxable services imported or locally purchased by a company which—\n  (a) is engaged in business under a special operating framework arrangement with the Government; and\n  (b) is incorporated for purposes of undertaking the manufacture of human vaccines or other manufacturing activities including refining; and whose capital investment is at least ten billion shillings, subject to approval of the Cabinet Secretary for the National Treasury, on recommendation of the Cabinet Secretary for health.\n(Act No. 22 of 2022, s. 30(c), Act No. 4 of 2023, s. 37(b)(a)) 35. Transfer of a business as a going concern.\n(Act No. 12 of 2024, s. 21(b)) 36. Taxable services supplied to manufacturers of mosquito repellents upon recommendation by the Cabinet Secretary responsible for matters relating to health.\n(Act No. 9 of 2025, s. 38(b)) 37. Accommodation, restaurant, beauty salon and laundry services provided by the Defence Forces Welfare Services.\n(Act No. 9 of 2025, s. 38(b)) 38. Taxable services for direct and exclusive use of the Defence Forces Welfare Services.\n(Act No. 9 of 2025, s. 38(b)) 39. The supply of services for the direct and exclusive use in the implementation of infrastructure projects undertaken under a public private partnership framework, upon approval by the Cabinet Secretary on the recommendation of the Cabinet Secretary for the Ministry responsible for the implementation of the project.\n(Act No. 19 of 2026, s.32(b)(iv)) 40. Taxable services used in the construction of liquefied petroleum gas storage tanks and related infrastructure:\nProvided that the investment in the construction of liquefied petroleum gas storage tanks and related infrastructure in Kenya amounts to at least five billion shillings and has been recommended by the Cabinet Secretary responsible for matters relating to energy.\n(Act No. 19 of 2026, s.32(b)(iv))"
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [s. 7(2)]",
+   "subtitle": "ZERO-RATING",
+   "text": "(Act No. 14 of 2015, s. 6, Act No. 38 of 2016, s. 31, Act No. 15 of 2017, s. 10, Act No. 9 of 2018, Sch., Act No. 10 of 2018, s. 20, Act No. 23 of 2019, s. 22, Act No. 2 of 2020, Sch., Act No. 8 of 2020, s. 14, Act No. 8 of 2021, s. 28, Act No. 22 of 2022, s. 31, Act No. 12 of 2024, s. 22, Act No. 9 of 2025, s. 39, Act No. 12 of 2026, Sch., Act No. 19 of 2026, s. 33.) Part A – ZERO RATED SUPPLIES Where the following supplies, excluding hotel accommodation, restaurant or entertainment services where applicable, take place in the course of a registered person’s business, they shall be zero rated in accordance with the provisions of section 7—\n1. The exportation of goods. 2. The supply of goods or taxable services to an export processing zone business as specified in the Export Processing Zones Act (Cap. 517), as being eligible for duty and tax free importation. 3. Shipstores supplied to international sea or air carriers on international voyage or flight. 4. The supply of coffee and tea for export to coffee or tea auction centers. 5. Transportation of passengers by air carriers on international flight. 6. The supply of taxable services to international sea or air carriers on international voyage or flight. 7. Deleted by Act No. 9 of 2018, Sch. 8. Deleted by Act No. 9 of 2018, Sch. 9. Goods purchased from duty free shops by passengers departing to places outside Kenya.\n(Act No. 14 of 2015, s. 6(a)) 10. Supply of taxable services in respect of goods in transit.\n(Act No. 14 of 2015, s. 6(a)) 11. Deleted by Act No. 19 of 2026, s. 33(a).\n(Act No. 14 of 2015, s. 6(a), Act No. 19 of 2026, s. 33(a).) 12. The supply of goods or taxable services to a special economic zone developer, operator or enterprise.\n(Act No. 38 of 2016, s. 31(a), Act No. 12 of 2026, Sch.) 13. Deleted by Act No. 8 of 2020, s. 14(a). 13A. The supply of ordinary bread.\n(Act No. 15 of 2017, s. 10, Act No. 9 of 2018, Sch.) 13B. Deleted by Act No. 23 of 2019, s. 22.\n14. Deleted by Act No. 9 of 2018, Sch.\n15. Milk and cream, not concentrated nor containing added sugar or other sweetening matter, of tariff numbers—\n0401.10.00 — of a fat content, by weight, not exceeding 1%;\n0401.20.00 — of a fat content, by weight, exceeding 1% but not exceeding 6%;\n0401.40.00 — of a fat content, by weight, exceeding 6% but not exceeding 10%;\n0401.50.00 — of a fat content, by weight, exceeding 10%.\n(Act No. 15 of 2017, s. 10) 16. Deleted by Act No. 12 of 2024, s. 22(a). 17. Deleted by Act No. 9 of 2018, Sch. 18. Deleted by Act No. 8 of 2020, s. 14(b). 19. Deleted by Act No. 12 of 2024, s. 22(b). 20. The transportation of goods originating from Kenya to a place outside Kenya.\n(Act No. 8 of 2021, s. 28(b)) 21. Transportation of sugarcane from farms to milling factories.\n(Act No. 8 of 2021, s. 28(b)) 22. Deleted by Act No. 4 of 2023 s. 38(a)(i).\n(Act No. 8 of 2020, s. 14(c), Act No. 4 of 2023, s. 38(a)(i)) 23. The exportation of taxable services.\n(Act No. 22 of 2022, s. 31(a), Act No. 4 of 2023, s. 38(a)(ii)) 24. Deleted by Act No. 12 of 2024, s. 22(c).\n(Act No. 22 of 2022, s. 31(a)) 25. Deleted by Act No. 12 of 2024, s. 22(d).\n(Act No. 22 of 2022, s. 31(a)) 26. Inbound international sea freight offered by a registered person.\n(Act No. 4 of 2023, s. 38(a)(iii)) 27. Liquefied Petroleum Gas.\n(Act No. 4 of 2023, s. 38(a)(iii)) 28. All tea and coffee locally purchased for the purpose of value addition before exportation subject to approval by the Commissioner-General. (Act No. 4 of 2023, s. 38(a)(iii)) 29. The supply of locally assembled and manufactured mobile phones.\n(Act No. 4 of 2023, s. 38(a)(iii)) 30. The supply of motorcycles of tariff heading 8711.60.00.\n(Act No. 4 of 2023, s. 38(a)(iii)) 31. The supply of electric bicycles of tariff heading 8712.00.00.\n(Act No. 4 of 2023, s. 38(a)(iii), Act No. 19 of 2026, s. 33(b).) 32. The supply of solar and lithium ion batteries of tariff heading 8507.60.00.\n(Act No. 4 of 2023, s. 38(a)(iii), Act No. 19 of 2026, s. 33(c).) 33. The supply of electric buses of tariff heading 87.02.\n(Act No. 4 of 2023, s. 38(a)(iii)) 34. Inputs or raw materials locally purchased or imported for the manufacture of animal feeds.\n(Act No. 4 of 2023, s. 38(a)(iii)) 35. Deleted by Act No. 19 of 2026, s. 33(d).\n(Act No. 4 of 2023, s. 38(a)(iii), Act No. 19 of 2026, s. 33(d).) 36. Packaging materials for tea and coffee upon recommendation by the Cabinet Secretary for matters relating to agriculture.\n(Act No. 9 of 2025, s. 39) Part B – ZERO RATED SUPPLIES TO PUBLIC BODIES, PRIVILEGED PERSONS AND INSTITUTIONS The following taxable supplies shall be zero-rated when supplied by a registered person before the imposition of tax or imported before clearance through the customs by or on behalf of the following persons subject to the limitations specified in this Schedule—\n1. Supply to Commonwealth and other Governments\n  (a) Goods consigned to officers or men on board a naval vessel belonging to another Commonwealth Government for their personal use or for consumption on board such vessel.\n  (b) Goods for the use of any of the Armed Forces of any allied power.\n2. Supply to Diplomat or First Arrivals Persons\n(1) Household and personal effects of any kind imported by entitled personnel or their dependants including one motor vehicle imported or supplied to them prior to clearance through customs within ninety days of their first arrival in Kenya or such longer period not exceeding three hundred and sixty days from the date of his arrival, as may be approved by the Commissioner of Customs in specific cases where the entitled personnel have not been granted zero rating status in any other section of this Schedule.\nProvided that the zero rating shall apply to entitled personnel who may have arrived for a new contract not withstanding their previous residential status in Kenya while in execution of another assignment, provided further that each contract is for a term not less than two years.\n(2) One motor vehicle which the ministry responsible for foreign affairs is satisfied as having been supplied or imported as a replacement for a motor vehicle originally imported or supplied under paragraph (1) which has been written off due to accident, fire or theft:\nProvided that tax shall be payable at the appropriate rate if the written off motor vehicle is disposed of locally.\n(3) Taxable supplies for the official use of the United Nations or its specialized agencies or any Commonwealth High Commission, or of any foreign embassy, consulate or diplomatic mission in Kenya.\n(4) Taxable supplies for the use of a high official of the United Nations or its specialized agencies, or a member of the diplomatic staff of any Commonwealth or foreign country, where specific provision for such zero rating status is made by the Cabinet Secretary responsible for foreign affairs.\n(5) Taxable supplies Goods for the United Nations or any of its specialized agencies for the support of a project in Kenya.\n(6) On first arrival in Kenya or within three months of that date, the household and personal effects, including one motor vehicle, of an employee of the United Nations, or of its specialized agencies, of any Commonwealth High Commission, or of any foreign embassy, consulate or diplomatic mission, where the employee—\n  (a) is not engaged in any other business or profession in Kenya; and\n  (b) has not been granted any other zero rating status under this schedule.\n(7) Any motor vehicle acquired under zero rating status pursuant to the provisions of this paragraph shall on re-sale or upon other disposition, whether or not for any material consideration, be liable to tax.\n3. Supply to donor agencies with bilateral or multilateral agreements\n(1) Household and personal effects of any kind, including one motor vehicle imported by or supplied prior to clearance through Customs to the entitled personnel or their dependants, within ninety days of their first arrival in Kenya or such longer period not exceeding three hundred and sixty days from the date of his arrival, as may be approved by the relevant authority in specific cases where the entitled personnel have not been granted any zero rated status under this schedule.\nProvided that the zero rated status under this paragraph shall apply—\n  (i) to entitled personnel who may have arrived for a new contract for a term of not less than two years, not withstanding their previous residential status in Kenya while in execution of another assignment;\n  (ii) only once every four years where there is an on going project; and\n  (iii) to an additional motor vehicle where there is a bilateral agreement between the Government and aid agency.\n(2) One motor vehicle, which the Commissioner is satisfied, is supplied or is imported as a replacement of another motor vehicle originally supplied or imported under paragraph (1) and which has been written off due to accident, fire or theft:\nProvided that any motor vehicle acquired free of tax pursuant to the provisions of this item shall on resale or upon other disposition whether or not for any material consideration be liable for tax.\n4. Supply to international and regional organizations Goods, services and equipment imported by or supplied to donor agencies, international and regional organisations with Diplomatic accreditation or bilateral or multilateral agreements with Kenya for their official use.\n(Act No. 15 of 2017, s. 10(b)(iii)) 5. Supply to the War Graves Commission Taxable supplies including official vehicles, for the establishment and maintenance of war cemeteries by the Commonwealth War Graves Commission, but excluding office supplies and equipment and the property of the Commission’s staff.\n6. Deleted by Act No. 9 of 2018, Sch. 7. Deleted by Act No. 9 of 2018, Sch. 8. Supply to National Red Cross Society and St. John Ambulance Taxable goods and services supplied or imported for official use in the provision of relief service. (Act No. 15 of 2017, s. 10) 9. Deleted by Act No. 22 of 2022, s. 31(b).\nPart C Repealed by Act No. 2 of 2020, Sch."
+  }
+ ],
+ "spent": {}
+}

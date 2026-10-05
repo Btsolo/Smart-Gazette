@@ -1,0 +1,2062 @@
+{
+ "title": "Coffee Act",
+ "citation": "Act No. 8 of 2026",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2026/8/eng@2026-03-27",
+ "version_date": "2026-03-27",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "COFFEE ACT NO. 8 OF 2026 Assented to on 13 March 2026 Commenced on 27 March 2026 AN ACT of Parliament to provide for the establishment of the Coffee Board of Kenya and the Coffee Research and Training Institute; the roles of the National and the county governments; the regulation, development and promotion of the coffee industry; and for connected purposes Part 1 – PRELIMINARY",
+ "parts": [
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "THE COFFEE BOARD OF KENYA",
+   "provisions": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "ROLE OF COUNTY GOVERNMENTS",
+   "provisions": [
+    "23",
+    "24",
+    "25"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "REGULATORY PROVISIONS",
+   "provisions": [
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "provisions": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "FINANCIAL PROVISIONS OF THE INSTITUTE",
+   "provisions": [
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "PRODUCTION AND PROCESSING",
+   "provisions": [
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71"
+   ]
+  },
+  {
+   "id": "part_VIII",
+   "num": "VIII",
+   "title": "COFFEE TRADING AND MARKETING",
+   "provisions": [
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82"
+   ]
+  },
+  {
+   "id": "part_IX",
+   "num": "IX",
+   "title": "QUALITY ASSURANCE",
+   "provisions": [
+    "83",
+    "84",
+    "85"
+   ]
+  },
+  {
+   "id": "part_X",
+   "num": "X",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91"
+   ]
+  },
+  {
+   "id": "part_XI",
+   "num": "XI",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99"
+   ]
+  },
+  {
+   "id": "part_XII",
+   "num": "XII",
+   "title": "TRANSITIONAL PROVISIONS",
+   "provisions": [
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short tittle",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "This Act may be cited as the Coffee Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "In this Act— “agent” means a person registered by the Board who may be appointed by a grower for purposes of facilitation of overseas direct sales with regard to logistics; “association” means a registered group comprised of smallholder growers, co-operative societies, societies, estates, unions, millers, buyers, roasters or brokers, licensed by a relevant licensing authority; “auction” means the auction system under which clean coffee is offered for sale at a coffee exchange and includes the place at which, or a facility by means of which, whether electronic or otherwise, offers or invitations to sell, buy or exchange coffee contracts are regularly made on a centralized basis, but does not include—\n  (a) the office or facilities of a coffee buyer or service provider; or (b) the office or facilities of a clearing house; “Authority” means Capital Markets Authority established under the Capital Markets Act (Cap. 485A); “Board” means the Coffee Board of Kenya established under section 4; “broker” means a person cleared by the exchange and licensed by the Capital Markets Authority, appointed by a grower or an association of growers in accordance with the Capital Markets Act (Cap. 485A), to offer their coffee on their behalf through the Exchange; \"buni\" means coffee dried in the fruit or cherry but does not include hulled buni, also referred to as clean coffee, heavy buni or light buni; “buyer” means a person or entity licensed by the Board to buy clean coffee at an exchange from a cooperative society, registered grower, coffee union, grower-miller or coffee estate for export, local sale, value addition or import clean coffee for secondary processing in Kenya; “Cabinet Secretary” means the Cabinet Secretary for the time being responsible for matters relating to agriculture; “clean coffee” means coffee bean or dried seed of the coffee plant separated from non-food tissues of the coffee fruit where the silver skin is reduced to the maximum possible extent; “clearing house” means an entity approved by the Authority, and recognized as a clearing institution on behalf of a coffee exchange, providing the services of clearing and settlement of transactions and guaranteeing settlement on behalf of an exchange;\n\"coffee” means the plant botanically known as coffea species (L.) and includes the fruit, whether on the plant or detached therefrom, the seed in form of either buni, parchment coffee, clean coffee, roasted beans or ground coffee;\n“coffee dealer” means a person registered by the Board, a county government or the Authority to deal in coffee as provided under this Act;\n“coffee grower” means a person who cultivates coffee in Kenya, and may for purposes of licensing, include a co-operative society, coffee union, association and estate;\n“coffee milling” means mechanical hulling or de-husking of coffee and includes grading of clean coffee;\n“coffee product” means any product, extract or substance obtained or derived from coffee by any treatment or process;\n“coffee sales proceeds” means monetary consideration received at the direct settlement system in exchange for clean coffee sold at an exchange or, where applicable, through direct sales;\n“coffee standards” means the Kenya Coffee Standards issued by the Kenya Bureau of Standards;\n“coffee warrant” means an instrument prepared by the warehouseman of which the person named therein, or the last endorsee thereof, shall for all purposes be deemed to be the owner of the coffee to which it relates;\n\"co-operative society\" means a co-operative society registered under the Co-operative Societies Act,;\n“Council” means the Council of the Institute as provided for under section 42;\n“direct sale” means a contractual arrangement between a registered grower, coffee co-operative society, society, coffee union, grower-miller or coffee estate and an overseas buyer for the sale of own clean coffee based on mutually accepted terms and conditions enforceable in law and includes settlement of coffee sales proceeds through the Central settlement system on boarded by a coffee exchange;\n“Central settlement system” means a banking facility provided by commercial banks regulated by the Central Bank of Kenya for clearing and settlement of coffee sales proceeds;\n“estate” means an area of land or group of parcels of land under coffee not being less than five acres in size in aggregate or land under coffee which has been issued with a pulping station licence;\n“exchange” means a company incorporated under the Companies Act (Cap. 486) and licensed by the Capital Markets Authority as an exchange for trading in clean coffee;\n“Institute” means the Coffee Research and Training Institute established under section 39;\n“licensing authority” means the Board, the county government or the Capital Markets Authority as the case may be;\n“liquoring” means analysis of clean coffee to determine the attributes and quality of coffee for purposes of trade;\n“miller” means a person who is involved in the process of de-husking and possible grading of coffee and includes grading of clean coffee”;\n“out-turn number” means an identifying number issued by a miller in respect of coffee delivered to a mill for purposes of traceability;\n“primary processing” means the process of removal of coffee pulp from cherry, fermentation, washing and drying to the coffee standard moisture content to obtain parchment;\n“prompt date” means a date specified in the sales catalogue, not being more than five working days from the date of the sale, for the payment of coffee sales proceeds by a buyer or a roaster;\n“pulping station” means a specified place where primary coffee processing is undertaken;\n“roaster” means a person who is in the business or process of turning green coffee into usable coffee products; “sales catalogue” means a standard document prepared by a grower or a broker appointed by a grower, in consultation with an exchange, for sale of clean coffee at an exchange; “secondary processing” means parchment and buni de-husking, polishing, grading and may include grinding, and packaging of clean coffee beans; “small holder” means a grower cultivating coffee in a small parcel of land or in small parcels of land who does own pulping station; “sweepings” means the balance of coffee samples in an exchange sample room and spillages collected from millers’ milling activities for sale at an exchange, the proceeds of which are paid to the respective growers on pro-rata basis; “warehouse” means a facility registered by the Board and licensed by a county government for the storage of coffee, and which is specifically designed to guarantee the quality and safety of the coffee; “warehouse operator” means any person registered and licensed by the Board who owns, leases or is in charge of a warehouse where coffee is handled and stored for reward or profit.",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Objects",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The objects of this Act are to—\n  (a) promote a globally competitive coffee industry;\n  (b) regulate the coffee sector;\n  (c) provide a framework for the registration and licensing of various players within the coffee sector;\n  (d) delineate the roles of the National and County Governments in the regulation, development and promotion of the coffee sector;\n  (e) promote the vertical integration of the value chain actors for purposes of achieving economies of scale;\n  (f) promote evidence based coffee research and training for the development of the coffee sector;\n  (g) provide for the establishment and management of coffee development levy; and (h) provide a mechanism for dispute resolution within the coffee sector.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Establishment of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "(1) There is established the Coffee Board of Kenya. (2) The Board shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of—\n  (a) suing and being sued;\n  (b) purchasing or otherwise acquiring, holding, charging and disposing of movable and immovable property;\n  (c) borrowing and lending money; and (d) doing or performing all other things or acts necessary for the proper performance of its functions under this Act which may lawfully be done or performed by a body corporate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established the Coffee Board of Kenya. (2) The Board shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of— (a) suing and being sued; (b) purchasing or otherwise acquiring, holding, charging and disposing of movable and immovable property; (c) borrowing and lending money; and (d) doing or performing all other things or acts necessary for the proper performance of its functions under this Act which may lawfully be done or performed by a body corporate."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Headquarters",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "(1) The headquarters of the Board shall be in Nairobi City County.\n(2) The Board may establish such branches in Kenya as it may consider necessary for the efficient performance of its functions.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The headquarters of the Board shall be in Nairobi City County."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may establish such branches in Kenya as it may consider necessary for the efficient performance of its functions."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Powers of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "(1) The Board shall have all the powers necessary for the proper performance of its functions under this Act and in particular, but without prejudice to the generality of the foregoing, the Board shall have power to—\n  (a) enter into contracts;\n  (b) manage, control and administer the assets of the Board;\n  (c) receive gifts, grants, donations or endowments made to the Board and make disbursement therefrom in accordance with the provisions of this Act;\n  (d) subject to the approval of the Cabinet Secretary for the time being responsible for matters relating to finance, invest any of the Board’s funds not immediately required for the purposes of this Act, as it may determine; and\n  (e) operate a bank account or bank accounts into which all monies received by the Board shall be paid in the first instance and out of which all payments made by the Board shall be made.\n(2) The Board may, if it considers necessary, enter into association with such bodies or organisations whose objects and purpose support the promotion of the coffee industry.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall have all the powers necessary for the proper performance of its functions under this Act and in particular, but without prejudice to the generality of the foregoing, the Board shall have power to—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may, if it considers necessary, enter into association with such bodies or organisations whose objects and purpose support the promotion of the coffee industry."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Board of directors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "(1) The management of the Board shall vest in a Board of Directors consisting of—\n  (a) a Chairperson appointed by the President by notice in the Gazette;\n  (b) the Principal Secretary responsible for agriculture or a designated representative;\n  (c) the Principal Secretary for the time being responsible for trade or a designated representative;\n  (d) the Principal Secretary for the time being responsible for cooperatives or a designated representative;\n  (e) two persons of the opposite gender, representing smallholder coffee growers nominated by the umbrella body for coffee cooperative societies’;\n  (f) one person nominated by the largest association of estate growers;\n  (g) two persons of the opposite gender with knowledge of the coffee industry nominated by the Council of County Governors; and\n  (h) a chief executive officer appointed under section 15 who shall be an ex-officio member of the Board.\n(2) The Cabinet Secretary shall appoint the members under subsection (1)(e), (f) and (g) by notice in the Gazette.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The management of the Board shall vest in a Board of Directors consisting of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary shall appoint the members under subsection (1)(e), (f) and (g) by notice in the Gazette."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Qualification for appointment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "(1) A person is qualified for appointment as a member of the Board under section 7(1) (a), (e), (f) and (g) if that person—\n  (a) is a citizen of Kenya;\n  (b) holds, in the case of a person appointed under– (i) section 7 (1) (a) and (g) a degree from a university recognized in Kenya; and (ii) section 7(1) (e) and (f) a certificate in secondary school education.;\n  (c) has at least three years’ experience preferably in management in the coffee sector; and (d) meets the requirements of leadership and integrity set out in Chapter Six of the Constitution.\n(2) For purposes of this section “coffee management” means having served in a role involving decision making responsibility over core operation relating to large scale production, processing or marketing of coffee.\n(3) A person is not qualified for appointment as a member of the Board of Directors if that person—\n  (a) is convicted of a criminal offence and sentenced to a term of imprisonment of at least six months;\n  (b) is a member of Parliament or county assembly; or (c) is adjudged bankrupt.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person is qualified for appointment as a member of the Board under section 7(1) (a), (e), (f) and (g) if that person— (a) is a citizen of Kenya; (b) holds, in the case of a person appointed under– (i) section 7 (1) (a) and (g) a degree from a university recognized in Kenya; and (ii) section 7(1) (e) and (f) a certificate in secondary school education.; (c) has at least three years’ experience preferably in management in the coffee sector; and (d) meets the requirements of leadership and integrity set out in Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(2)",
+     "text": "For purposes of this section “coffee management” means having served in a role involving decision making responsibility over core operation relating to large scale production, processing or marketing of coffee."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person is not qualified for appointment as a member of the Board of Directors if that person— (a) is convicted of a criminal offence and sentenced to a term of imprisonment of at least six months; (b) is a member of Parliament or county assembly; or (c) is adjudged bankrupt."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Term of appointment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "The persons appointed under section 7(1) (a), (e), (f) and (g) shall serve for a term of three years renewable for one further term.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Vacation of office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "A person ceases to be a member of the Board of Directors if that person—\n  (a) is absent from three consecutive meetings of the Board of Directors without the permission of the chairperson;\n  (b) becomes an officer, agent or member of staff of the Board of Directors;\n  (c) resigns in writing addressed, in the case of the chairperson, to the President, and in the case of any other member, to the Cabinet Secretary;\n  (d) is convicted of a criminal offence and sentenced to a term of imprisonment of at least six months;\n  (e) is declared bankrupt;\n  (f) is unable to perform the functions of office by reason of mental or physical infirmity; or (g) dies.",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Functions of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "(1) The Board shall—\n  (a) regulate and promote the development of the coffee industry;\n  (b) consider applications for the issuance of permits and licences under the second schedule to this Act;\n  (c) register coffee dealers as set out in the second schedule;\n  (d) make recommendations to the Cabinet Secretary for, and oversee the implementation of strategies, funding models, plans and policy for the coffee sector;\n  (e) collect, collate and maintain a data base and ensure ease of access to information on the coffee industry;\n  (f) conduct national and international coffee market intelligence and surveys to facilitate market access and inform promotional and branding strategies including the application of the Kenya Coffee Mark of Origin;\n  (g) establish linkages with various government agencies, the Institute and other research institutions for the development of the coffee industry;\n  (h) develop and implement a framework for the capacity building of players in the coffee industry;\n  (i) promote the development of regional appellations for Kenyan coffee;\n  (j) develop and enforce the coffee industry standards and industry code of practice in collaboration with the Kenya Bureau of Standards;\n  (k) maintain and cause to be published an up-to-date register of coffee dealers;\n  (l) undertake technology transfer and provide technical assistance to county governments on matters relating to coffee;\n  (m) conduct surveillance and enforce compliance with relevant policies, standards and legislation on the coffee sector;\n  (n) co-ordinate inter-agency representation in international coffee fora to promote increased market share of Kenyan coffee;\n  (o) regulate the marketing and trading of coffee;\n  (p) source for and market Kenyan coffee internationally;\n  (q) adopt marketing strategies that leverage digital platforms to reach broader audience and boost coffee sales; and\n  (r) carry out such other functions as may be assigned by the Cabinet Secretary or conferred under any other law.\n(2) The Board shall, in the performance of its functions under this Act, consult and collaborate with the licencing authorities and relevant industry players.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall— (a) regulate and promote the development of the coffee industry; (b) consider applications for the issuance of permits and licences under the second schedule to this Act;"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall, in the performance of its functions under this Act, consult and collaborate with the licencing authorities and relevant industry players."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Committees of the board of directors Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "(1) The Board of Directors may establish such committees as it may consider necessary for the efficient performance of its functions and the exercise of its powers under this Act.\n(2) The Board of directors may co-opt persons whose knowledge and skills are necessary for resolution of any pertinent matter under consideration by the committee or the Board for performance of its function and exercise of its powers under this Act.\n(3) Notwithstanding subsection (2), the Board shall not co-opt more than five (5) persons at any particular time.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board of Directors may establish such committees as it may consider necessary for the efficient performance of its functions and the exercise of its powers under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board of directors may co-opt persons whose knowledge and skills are necessary for resolution of any pertinent matter under consideration by the committee or the Board for performance of its function and exercise of its powers under this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "Notwithstanding subsection (2), the Board shall not co-opt more than five (5) persons at any particular time."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Delegation by the board of directors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "The Board of Directors may, by resolution, delegate to any committee of the Board or to any member, officer, employee or agent of the Board, the exercise of any of the powers or the performance of any of the functions of the Board under this Act or under any other written law.",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "Remuneration of members of the board of directors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "The members of the Board of Directors shall be paid such remuneration as the Salaries and Remuneration Commission shall determine.",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "Chief executive officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "(1) There shall be a Chief Executive Officer of the Board who shall be competitively recruited and appointed by the board of directors on such terms and conditions as the board of directors shall determine.\n(2) A person is qualified for appointment under subsection (1) if the person—\n  (a) holds a post graduate degree in agriculture, business, law, administration or other relevant degree from a university recognized in Kenya;\n  (b) has at least five years’ experience in a position of management; and (c) meets the requirements of Chapter Six of the Constitution.\n(3) The Chief Executive Officer shall serve for a term of three years and shall be eligible for appointment for one further term of three years.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Chief Executive Officer of the Board who shall be competitively recruited and appointed by the board of directors on such terms and conditions as the board of directors shall determine."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person is qualified for appointment under subsection (1) if the person— (a) holds a post graduate degree in agriculture, business, law, administration or other relevant degree from a university recognized in Kenya; (b) has at least five years’ experience in a position of management; and (c) meets the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Chief Executive Officer shall serve for a term of three years and shall be eligible for appointment for one further term of three years."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Functions of the chief executive officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "The Chief Executive Officer shall be the secretary to the Board and shall, subject to the direction of the Board of Directors—\n  (a) be responsible for the day to day management of the affairs of the Board;\n  (b) manage the funds, property and affairs of the Board;\n  (c) be responsible for the management of the staff of the Board;\n  (d) oversee and coordinate the implementation of the policies, programmes and objectives of the Board;\n  (e) cause to be prepared for the approval of the board of directors—\n  (i) the strategic plan and annual plan of the Board; and (ii) the annual budget and audited accounts of the Board; and (f) perform such other duties as may be assigned by the board of directors.",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "Removal of chief executive officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "The Chief Executive Officer shall cease to hold office if the person—\n  (a) resigns in writing, addressed to the board of directors;\n  (b) is convicted of a criminal offence and sentenced to a term of imprisonment of not less than six months;\n  (c) is found liable for gross misconduct or abuse of office in contravention of the Conflict of Interest Act, 2025 (No. 11 of 2025) or any other relevant law;\n  (d) is declared bankrupt;\n  (e) is unable to perform the functions of office by reason of mental or physical infirmity; or (f) dies.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Staff of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "The Board may employ such officers, agents and staff as are necessary for the proper and efficient discharge of the functions of the Board under this Act and upon such terms and conditions of service as the Board may determine.",
+   "clauses": []
+  },
+  "19": {
+   "num": "19",
+   "title": "Protection of members and staff from liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "Liability shall not attach to members of the Board of Directors, officers, agents or staff for loss or damage incurred by a person as a result of an act or omission done or made in good faith and without negligence in the performance or exercise or the intended performance or exercise of any duty or power imposed by or conferred under this Act.",
+   "clauses": []
+  },
+  "20": {
+   "num": "20",
+   "title": "Common seal of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "The affixing of the common seal of the Board shall be authenticated by the signature of the chairperson and the Chief Executive Officer or a person designated by the Board of Directors.",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Signing Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "All letters and instruments written or made by or on behalf of the Board of Directors, other than those required by law to be under seal, and all decisions of the Board of Directors, shall be signed under the hand of the Chief Executive Officer or in the absence of the chief executive officer, a person authorized by the Board.",
+   "clauses": []
+  },
+  "22": {
+   "num": "22",
+   "title": "Conduct of business of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE COFFEE BOARD OF KENYA",
+   "text": "The business and affairs of the Board of Directors shall be conducted in accordance with the First Schedule.",
+   "clauses": []
+  },
+  "23": {
+   "num": "23",
+   "title": "Role of county governments",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ROLE OF COUNTY GOVERNMENTS",
+   "text": "(1) A county government shall—\n  (a) implement the National Government policy relating to coffee;\n  (b) maintain an up to date register of coffee growers, nursery operators, coffee cooperative societies, coffee associations, and coffee estates in that county;\n  (c) consider applications for the certificates, permits and licenses enumerated under the Second Schedule to this Act;\n  (d) enforce national and county legislation on coffee industry code of practice, policies and guidelines on corporate governance in coffee growers' institutions;\n  (e) offer and co-ordinate the delivery of extension services on sustainable production, primary processing of coffee and climate smart agriculture;\n  (f) inspect nurseries, pulping stations, warehouses, millers and roasters located within their respective counties;\n  (g) regulate the movement of coffee through the issuance of movement permits for buni, parchment and clean coffee within the county and from the county to warehouses situated outside the county;\n  (h) in collaboration with law enforcement agencies, enhance security in coffee growing areas; and\n  (i) monitor and report incidences of pests and disease outbreaks to the Board and take action in collaboration with the Board and other relevant government agencies.\n(2) A county government may impose such levies and fees as may be necessary for the registration and issuance of licences in accordance with the respective county legislation and such standards as may be prescribed by the Cabinet Secretary.\n(3) The Cabinet Secretary shall, in consultation with the Board and the county governments may prescribe standards and guidelines for the setting of levies and fees by county government under subsection (2).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A county government shall— (a) implement the National Government policy relating to coffee; (b) maintain an up to date register of coffee growers, nursery operators, coffee cooperative societies, coffee associations, and coffee estates in that county; (c) consider applications for the certificates, permits and licenses enumerated under the Second Schedule to this Act; (d) enforce national and county legislation on coffee industry code of practice, policies and guidelines on corporate governance in coffee growers' institutions; (e) offer and co-ordinate the delivery of extension services on sustainable production, primary processing of coffee and climate smart agriculture; (f) inspect nurseries, pulping stations, warehouses, millers and roasters located within their respective counties;"
+    },
+    {
+     "ref": "(2)",
+     "text": "A county government may impose such levies and fees as may be necessary for the registration and issuance of licences in accordance with the respective county legislation and such standards as may be prescribed by the Cabinet Secretary."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary shall, in consultation with the Board and the county governments may prescribe standards and guidelines for the setting of levies and fees by county government under subsection (2)."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Enactment of county specific legislation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ROLE OF COUNTY GOVERNMENTS",
+   "text": "Each county government may enact county specific legislation setting out the– (a) criteria for registration under section 27;\n  (b) criteria for the issuance of permits and licences by an applicant within the respective county;\n  (c) information required to be submitted by an applicant for a permit or licence;\n  (d) process of determination of an application for a permit or licence;\n  (e) conditions for the issuance or renewal of a licence under this Act;\n  (f) grounds for the rejection of an application or cancellation of a licence issued under this Act;\n  (g) process of issuance of a licence to an applicant for a permit or licence; and (h) process of application for the renewal of permits or licences and revocation of a licence issued to an applicant under this Act.",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "Licensing of coffee operations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ROLE OF COUNTY GOVERNMENTS",
+   "text": "(1) A person shall not operate a– (a) pulping station or carry out hulling activities;\n  (b) coffee growers’ mill;\n  (c) coffee roaster (d) warehouse; or (e) commercial coffee miller, unless that person has applied for, and obtained a licence from the respective county government in which the operation is to be undertaken.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not operate a– (a) pulping station or carry out hulling activities; (b) coffee growers’ mill; (c) coffee roaster (d) warehouse; or (e) commercial coffee miller, unless that person has applied for, and obtained a licence from the respective county government in which the operation is to be undertaken."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Regulation of production and processing of coffee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATORY PROVISIONS",
+   "text": "(1) The Board and county governments shall regulate the production and processing of coffee with a view of—\n  (a) promoting production and productivity;\n  (b) promoting access to markets;\n  (c) facilitating provision of infrastructure including farm inputs;\n  (d) providing post-harvest services;\n  (e) providing extension services;\n  (f) providing incentives to farmers; and\n  (g) providing credit facilities.\n(2) The Board and county governments shall maintain the necessary statistical information with respect to the coffee sector for proper planning.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board and county governments shall regulate the production and processing of coffee with a view of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board and county governments shall maintain the necessary statistical information with respect to the coffee sector for proper planning."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATORY PROVISIONS",
+   "text": "(1) A coffee grower, nursery operator, grower miller, commercial miller, coffee roaster, cooperative society, coffee association or coffee estate shall register with the respective county government where they are based.\n(2) Despite subsection (1), a grower who is a registered member of a coffee cooperative society or association which is registered by a county government, shall be exempted from registration by that county government.\n(3) Subsection (2) shall apply to a grower on condition that the cooperative society or association is registered in the same county as that which the grower is carrying out business.\n(4) A registered cooperative society or association shall—\n  (a) submit a register of its members to the respective county government at the beginning of each calendar year; and\n  (b) furnish the county government with information on any change of membership within thirty days of a change of membership.\n(5) A county government shall not charge any fees for the registration of an applicant under subsection (1).\n(6) Each county government shall keep and maintain the register under subsection (1) for statistical purposes.\n(7) A register under subsection (6), shall include—\n  (a) the name of the coffee grower, nursery operator, miller, coffee roaster, cooperative society, coffee association or coffee estate;\n  (b) the location, size and parcel number of the land on which the business is located; and\n  (c) such other information as the Board may prescribe.\n(8) Each county government shall submit to the Board a copy of the register under subsection (6) annually.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A coffee grower, nursery operator, grower miller, commercial miller, coffee roaster, cooperative society, coffee association or coffee estate shall register with the respective county government where they are based."
+    },
+    {
+     "ref": "(2)",
+     "text": "Despite subsection (1), a grower who is a registered member of a coffee cooperative society or association which is registered by a county government, shall be exempted from registration by that county government."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subsection (2) shall apply to a grower on condition that the cooperative society or association is registered in the same county as that which the grower is carrying out business."
+    },
+    {
+     "ref": "(4)",
+     "text": "A registered cooperative society or association shall—"
+    },
+    {
+     "ref": "(5)",
+     "text": "A county government shall not charge any fees for the registration of an applicant under subsection (1)."
+    },
+    {
+     "ref": "(6)",
+     "text": "Each county government shall keep and maintain the register under subsection (1) for statistical purposes."
+    },
+    {
+     "ref": "(7)",
+     "text": "A register under subsection (6), shall include—"
+    },
+    {
+     "ref": "(8)",
+     "text": "Each county government shall submit to the Board a copy of the register under subsection (6) annually."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Licensing",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATORY PROVISIONS",
+   "text": "(1) A person who intends to perform any function under this Act for which a license or a permit is required shall submit to the relevant licensing authority specified in the Second Schedule—\n  (a) an application for a licence or permit, in the prescribed form;\n  (b) such information as may be prescribed; and\n  (c) the prescribed fees.\n(2) A licencing authority shall consider an application within such period, not exceeding fourteen days, as may be prescribed in the respective legislation, and may—\n  (a) grant the application subject to conditions specified in the respective licensing legislation; or\n  (b) refuse to grant the application.\n(3) Where a licensing authority refuses to grant an application, the licensing authority shall, in its notification under subsection 2(b), specify the reasons for the refusal.\n(4) A licence issued under this Act shall not be transferable.\n(5) The holder of a coffee buyer’s licence or an entity associated with a holder of the licence shall not carry on the business of a commercial miller, broker, roaster, agent or warehouse operator\n(6) A buyer’s licence shall not be construed as authorizing a person to engage in direct sale of coffee or coffee products.\n(7) A holder of a commercial miller’s licence or any other entity associated with such holder shall not carry on the business of a buyer, broker, roaster, or agent;\n(8) A licensing authority shall not issue a license to a person whose effect would result in in the contravention of subsection (6) or (7).\n(9) A person who contravenes the provisions of subsection (1) commits an offence and is liable, on conviction, to a fine not exceeding one million shillings or twice the value of the coffee or coffee product, whichever is greater, or to imprisonment for a term not exceeding two years or both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who intends to perform any function under this Act for which a license or a permit is required shall submit to the relevant licensing authority specified in the Second Schedule—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A licencing authority shall consider an application within such period, not exceeding fourteen days, as may be prescribed in the respective legislation, and may—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a licensing authority refuses to grant an application, the licensing authority shall, in its notification under subsection 2(b), specify the reasons for the refusal."
+    },
+    {
+     "ref": "(4)",
+     "text": "A licence issued under this Act shall not be transferable."
+    },
+    {
+     "ref": "(5)",
+     "text": "The holder of a coffee buyer’s licence or an entity associated with a holder of the licence shall not carry on the business of a commercial miller, broker, roaster, agent or warehouse operator"
+    },
+    {
+     "ref": "(6)",
+     "text": "A buyer’s licence shall not be construed as authorizing a person to engage in direct sale of coffee or coffee products."
+    },
+    {
+     "ref": "(7)",
+     "text": "A holder of a commercial miller’s licence or any other entity associated with such holder shall not carry on the business of a buyer, broker, roaster, or agent;"
+    },
+    {
+     "ref": "(8)",
+     "text": "A licensing authority shall not issue a license to a person whose effect would result in in the contravention of subsection (6) or (7)."
+    },
+    {
+     "ref": "(9)",
+     "text": "A person who contravenes the provisions of subsection (1) commits an offence and is liable, on conviction, to a fine not exceeding one million shillings or twice the value of the coffee or coffee product, whichever is greater, or to imprisonment for a term not exceeding two years or both."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Licenses issued by the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATORY PROVISIONS",
+   "text": "The following licences shall be issued by the Authority under the Capital Markets Act (Cap. 485A)—\n  (a) coffee exchange licence authorising a person to conduct the business of a coffee exchange; and\n  (b) a broker’s licence authorising a person to offer clean coffee for sale at an exchange on behalf of the grower.",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "Requirements for certificates, licenses and permits",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATORY PROVISIONS",
+   "text": "(1) A person shall not operate as a cupping laboratory, liquorer, coffee buyer, coffee importer, agent or warehouse operator unless the person is licensed or issued a registration certificate or a permit by the Board upon satisfaction of the prescribed conditions.\n(2) A person shall not conduct the business of a coffee exchange or offer brokerage services at an exchange unless that person is licensed by the Authority in accordance with the provisions of the Capital Markets Act (Cap. 485A).\n(3) A person who contravenes the provision of this section commits an offence and is liable, on conviction, to a fine not exceeding five million shillings or to imprisonment for a term not exceeding three years or both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not operate as a cupping laboratory, liquorer, coffee buyer, coffee importer, agent or warehouse operator unless the person is licensed or issued a registration certificate or a permit by the Board upon satisfaction of the prescribed conditions."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall not conduct the business of a coffee exchange or offer brokerage services at an exchange unless that person is licensed by the Authority in accordance with the provisions of the Capital Markets Act (Cap. 485A)."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who contravenes the provision of this section commits an offence and is liable, on conviction, to a fine not exceeding five million shillings or to imprisonment for a term not exceeding three years or both."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Obligations of license holders",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATORY PROVISIONS",
+   "text": "A license holder shall act in the best interest of coffee growers and adhere to prescribed conditions for the issuance of a license and contractual obligations.",
+   "clauses": []
+  },
+  "32": {
+   "num": "32",
+   "title": "Returns",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATORY PROVISIONS",
+   "text": "A license holder shall submit quarterly returns to the relevant licensing authority in the prescribed form.",
+   "clauses": []
+  },
+  "33": {
+   "num": "33",
+   "title": "Movement permits",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATORY PROVISIONS",
+   "text": "(1) A person shall not transport clean coffee unless such person—\n  (a) holds a licence issued pursuant to section 28 of this Act; and (b) has applied for, and obtained a movement permit issued, in the case of—\n  (i) buni and parchment, by the respective county of origin;\n  (ii) movement of clean coffee from the coffee mills to the warehouses, by the respective county government; and (iii) movement of clean coffee by buyers upon purchase, movement of purchased clean coffee to warehouses by millers, or movement of clean coffee for export or import, by the Board.\n(2) Subsection (1) (b) (i) shall not apply to a smallholder moving cherry coffee produced by the smallholder between the farm and the pulping station where they are registered.\n(3) A person transporting coffee under subsection (1) shall—\n  (a) have, in his or her possession at the time of transporting the coffee, the original movement permit issued by the respective licensing authority; and (b) ensure that the vessel used to transport the coffee conforms to the prescribed coffee standards.\n(4) The respective county government shall monitor the movement of cherry and parchment coffee between farms and stores and the movement of clean coffee and hulled buni to the market and shall, for this purpose—\n  (a) prescribe, in county legislation, guidelines for the safe movement of cherry and parchment coffee; and (b) put in place measures to curb illegal dealings in coffee or coffee products.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not transport clean coffee unless such person— (a) holds a licence issued pursuant to section 28 of this Act; and (b) has applied for, and obtained a movement permit issued, in the case of— (i) buni and parchment, by the respective county of origin; (ii) movement of clean coffee from the coffee mills to the warehouses, by the respective county government; and (iii) movement of clean coffee by buyers upon purchase, movement of purchased clean coffee to warehouses by millers, or movement of clean coffee for export or import, by the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subsection (1) (b) (i) shall not apply to a smallholder moving cherry coffee produced by the smallholder between the farm and the pulping station where they are registered."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person transporting coffee under subsection (1) shall— (a) have, in his or her possession at the time of transporting the coffee, the original movement permit issued by the respective licensing authority; and (b) ensure that the vessel used to transport the coffee conforms to the prescribed coffee standards."
+    },
+    {
+     "ref": "(4)",
+     "text": "The respective county government shall monitor the movement of cherry and parchment coffee between farms and stores and the movement of clean coffee and hulled buni to the market and shall, for this purpose— (a) prescribe, in county legislation, guidelines for the safe movement of cherry and parchment coffee; and (b) put in place measures to curb illegal dealings in coffee or coffee products."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Form of licence, certificate or permit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATORY PROVISIONS",
+   "text": "A licence or permit issued under this Act shall be in the prescribed form.",
+   "clauses": []
+  },
+  "35": {
+   "num": "35",
+   "title": "Duration of licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATORY PROVISIONS",
+   "text": "(1) A licence, certificate or permit issued by the licensing authority shall expire on 30th June of every year and a license holder wishing to renew the licence may apply by 1st June preceding the expiry of the licence.\n(2) Notwithstanding the provisions of subsection (1), a late application may be made upon payment of a late application fee as may be prescribed.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A licence, certificate or permit issued by the licensing authority shall expire on 30th June of every year and a license holder wishing to renew the licence may apply by 1st June preceding the expiry of the licence."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding the provisions of subsection (1), a late application may be made upon payment of a late application fee as may be prescribed."
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Cancellation of licence or permit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATORY PROVISIONS",
+   "text": "A licensing authority may cancel a licence or permit if the licensee—\n  (a) fails to meet any condition imposed by the licencing authority;\n  (b) fails to comply with the provisions of the licencing legislation; or (c) surrenders the licence or permit to the relevant licensing authority together with a notice setting out a request that the licence be cancelled.",
+   "clauses": []
+  },
+  "37": {
+   "num": "37",
+   "title": "Submission of reports",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATORY PROVISIONS",
+   "text": "(1) Each county government shall submit to the Board, at the end of each month or within such timelines as may be agreed upon with the Board, a report on the registered and licensed coffee growers and dealers within the respective county.\n(2) The Board shall submit to the respective county government a report on the registered and licensed dealers and other service providers within the respective county at the end of each month or within such timelines as may be agreed upon with the respective county government.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Each county government shall submit to the Board, at the end of each month or within such timelines as may be agreed upon with the Board, a report on the registered and licensed coffee growers and dealers within the respective county."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall submit to the respective county government a report on the registered and licensed dealers and other service providers within the respective county at the end of each month or within such timelines as may be agreed upon with the respective county government."
+    }
+   ]
+  },
+  "38": {
+   "num": "38",
+   "title": "Appeals",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATORY PROVISIONS",
+   "text": "Where an applicant is dissatisfied with the decision of a licencing authority not to issue, to revoke or cancel a licence under this Act, the applicant may make an application to the Dispute Resolution Committee established under section 92.",
+   "clauses": []
+  },
+  "39": {
+   "num": "39",
+   "title": "Establishment of the Institute",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "text": "(1) There is established an institute to be known as the Coffee Research and Training Institute. (2) The Institute shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of—\n  (a) suing and being sued;\n  (b) purchasing or otherwise acquiring, holding, charging and disposing of movable and immovable property;\n  (c) borrowing and lending money; and (d) doing or performing all other things or acts necessary for the proper performance of its functions under this Act which may lawfully be done or performed by a body corporate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established an institute to be known as the Coffee Research and Training Institute. (2) The Institute shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of— (a) suing and being sued; (b) purchasing or otherwise acquiring, holding, charging and disposing of movable and immovable property; (c) borrowing and lending money; and (d) doing or performing all other things or acts necessary for the proper performance of its functions under this Act which may lawfully be done or performed by a body corporate."
+    }
+   ]
+  },
+  "40": {
+   "num": "40",
+   "title": "Headquarters",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "text": "(1) The headquarters of the Institute shall be in Kiambu County. (2) The Institute may establish such branches in Kenya as it may consider necessary for the efficient performance of its functions.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The headquarters of the Institute shall be in Kiambu County. (2) The Institute may establish such branches in Kenya as it may consider necessary for the efficient performance of its functions."
+    }
+   ]
+  },
+  "41": {
+   "num": "41",
+   "title": "Powers of the Institute",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "text": "(1) The Institute shall have all the powers necessary for the proper performance of its functions under this Act and in particular, but without prejudice to the generality of the foregoing, the Institute shall have power to—\n  (a) enter into contracts;\n  (b) manage, control and administer the assets of the Institute;\n  (c) receive gifts, grants, donations or endowments made to the Institute and make disbursement therefrom in accordance with the provisions of this Act;\n  (d) subject to the approval of the Cabinet Secretary for the time being responsible for matters relating to finance, invest any of the Institute’s funds not immediately required for the purposes of this Act, as it may determine; and (e) operate a bank accounts into which all monies received by the Institute shall be paid in the first instance and out of which all payments made by the Institute shall be made.\n(2) The Institute may, if it considers necessary, create or take part in the creation of, become a member of, or associate with a body or corporation designed to assist or promote the coffee industry.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Institute shall have all the powers necessary for the proper performance of its functions under this Act and in particular, but without prejudice to the generality of the foregoing, the Institute shall have power to— (a) enter into contracts; (b) manage, control and administer the assets of the Institute; (c) receive gifts, grants, donations or endowments made to the Institute and make disbursement therefrom in accordance with the provisions of this Act; (d) subject to the approval of the Cabinet Secretary for the time being responsible for matters relating to finance, invest any of the Institute’s funds not immediately required for the purposes of this Act, as it may determine; and (e) operate a bank accounts into which all monies received by the Institute shall be paid in the first instance and out of which all payments made by the Institute shall be made."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Institute may, if it considers necessary, create or take part in the creation of, become a member of, or associate with a body or corporation designed to assist or promote the coffee industry."
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "Membership of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "text": "(1) The management of the Institute shall vest in a Council consisting of—\n  (a) a Chairperson of the Council appointed by the Cabinet Secretary by notice in the Gazette;\n  (b) the Principal Secretary responsible for matters relating to agriculture or a representative designated in writing;\n  (c) the Principal Secretary for matters relating to finance or a representative designated in writing;\n  (d) the Director General of Kenya Agricultural and Livestock Research Organisation;\n  (e) one person representing estate coffee growers nominated by the largest association of estate growers;\n  (f) one person representing small scale coffee growers nominated by the umbrella body of cooperative societies’;\n  (g) a representative representing of the Universities nominated by Commission of University Education;\n  (h) one person appointed by the Council of County governments; and (i) the Chief Executive Officer appointed in accordance with section 49 who shall be an ex-officio member of the board.\n(2) The Cabinet Secretary shall appoint the members under subsection (1)(a), (e), (f), (g) and (h) by notice in the Gazette.\n(3) A person is qualified for appointment as a chairperson of the Council of the Institute if that person holds a post graduate degree in crop research or a related field from a university recognized in Kenya and has three years’ experience in the coffee sector.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The management of the Institute shall vest in a Council consisting of— (a) a Chairperson of the Council appointed by the Cabinet Secretary by notice in the Gazette; (b) the Principal Secretary responsible for matters relating to agriculture or a representative designated in writing; (c) the Principal Secretary for matters relating to finance or a representative designated in writing; (d) the Director General of Kenya Agricultural and Livestock Research Organisation; (e) one person representing estate coffee growers nominated by the largest association of estate growers; (f) one person representing small scale coffee growers nominated by the umbrella body of cooperative societies’; (g) a representative representing of the Universities nominated by Commission of University Education; (h) one person appointed by the Council of County governments; and (i) the Chief Executive Officer appointed in accordance with section 49 who shall be an ex-officio member of the board."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary shall appoint the members under subsection (1)(a), (e), (f), (g) and (h) by notice in the Gazette."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person is qualified for appointment as a chairperson of the Council of the Institute if that person holds a post graduate degree in crop research or a related field from a university recognized in Kenya and has three years’ experience in the coffee sector."
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Term of appointment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "text": "The persons appointed under section 42(1)(a), (e), (f), (g) and (h) shall serve for a term of three years renewable for one further term.",
+   "clauses": []
+  },
+  "44": {
+   "num": "44",
+   "title": "Vacation of office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "text": "A person shall cease to be a member of the Council if that person—\n  (a) is absent from three consecutive meetings of the Council without the permission of the chairperson;\n  (b) becomes an officer, agent or member of staff of the Institute;\n  (c) resigns in writing addressed to the Cabinet Secretary;\n  (d) is convicted of a criminal offence and sentenced to a term of imprisonment of not less than six months;\n  (e) is declared bankrupt;\n  (f) is unable to perform the functions of the office by reason of mental or physical infirmity; or\n  (g) dies.",
+   "clauses": []
+  },
+  "45": {
+   "num": "45",
+   "title": "Functions of the Institute",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "text": "(1) The Institute shall—\n  (a) develop appropriate systems to promote balanced, diversified and sustainable coffee development and to optimise coffee production through adaptive and investigative research;\n  (b) prioritise areas for and co-ordinate coffee research including research in coffee diseases and new coffee varieties;\n  (c) facilitate the use of improved production technology and establish adequate feedback systems from agricultural producers in order to achieve and maintain national selfsufficiency and export capacities in agricultural products;\n  (d) advise the National and county governments on the resource requirements for coffee research;\n  (e) develop curriculum and offer training on research, innovations and technology; and\n  (f) disseminate, in collaboration with the Board, the Kenya Agricultural and Livestock Research Organisation established under the Kenya Agricultural and Livestock Research Organisation Act (Cap. 319) and other organizations, knowledge, information and application of research findings in relation to coffee.\n(2) For the purpose of carrying out its functions under subsection (1), the Institute shall—\n  (a) make policy recommendations to the Cabinet Secretary on coffee research;\n  (b) identify and disseminate, in collaboration with other relevant agencies, appropriate systems of mechanisation and technology options to improve coffee production and provide answers to foreseeable problems facing coffee;\n  (c) collaborate with the extension and education services and other organisations, agencies and institutions including schools, technical institutions and universities, public or private, to disseminate research results and technologies;\n  (d) undertake the propagation of quality coffee planting materials and supervision of registered nursery operators;\n  (e) provide competitive grants to research institutes and persons desirous of carrying our research and training programs which address value chain priorities and are consistent with the national research priorities and plans of the institute;\n  (f) organize, design and carry out on-station and on-farm research for coffee;\n  (g) support and promote the training and capacity building in relation to agricultural research;\n  (h) establish and maintain regular contact with regional and international agricultural research centres to ensure the rapid introduction, evaluation and use of coffee improved technology;\n  (i) establish platforms for the purposes of sharing research information, advancing research and transfer of technology and dissemination of information relating to advancements made in coffee research;\n  (j) conduct annual reviews of research results and ensure performance improvement in the field of agricultural research;\n  (k) make available to the National Commission for Science, Technology and Innovation annual reports on research and development activities carried out by or under the auspices of the Institute;\n  (l) be the lead scientific agency in coffee breeding for the development of a climate resilient coffee crop and coffee that is resistant to diseases and pests;\n  (m) be the custodian of the Kenyan Coffee Genome and the primary instrument for making modern genomics resources available to researchers working across the coffee production chain;\n  (n) provide and facilitate access to timely scientific information in a useable format and advisory services to actors in the coffee production chain;\n  (o) conduct market research and analysis and disseminate information on its findings to relevant stakeholders; and (p) perform such other functions as the Council shall determine.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Institute shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purpose of carrying out its functions under subsection (1), the Institute shall—"
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "Power to coopt",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "text": "The Council may co-opt persons with knowledge and skill that are necessary for resolution of any pertinent matter.",
+   "clauses": []
+  },
+  "47": {
+   "num": "47",
+   "title": "Conduct of Business of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "text": "The provisions of the First Schedule on the conduct of business and affairs of the Board of Directors shall apply to the Council with necessary modifications.",
+   "clauses": []
+  },
+  "48": {
+   "num": "48",
+   "title": "Remuneration of members of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "text": "The members of the Council shall be paid such remuneration as the Salaries and Remuneration Commission determine.",
+   "clauses": []
+  },
+  "49": {
+   "num": "49",
+   "title": "Chief Executive Officer of the Institute",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "text": "(1) There shall be a Chief Executive Officer of the Institute who shall be competitively recruited and appointed by the Council on such terms and conditions as the Council shall determine.\n(2) The Chief Executive Officer shall be responsible for the day-to-day management of the affairs of the Institute.\n(3) A person is qualified for appointment under subsection (1) if the person—\n  (a) is a citizen of Kenya;\n  (b) is a holder of a Doctor of Philosophy or its equivalent in a relevant field from a university recognised in Kenya and such shall be considered an added advantage;\n  (c) has at least ten years’ experience and knowledge in management;\n  (d) has at least five years’ experience in a position of senior management; and (e) meets the requirements of Chapter Six of the Constitution.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Chief Executive Officer of the Institute who shall be competitively recruited and appointed by the Council on such terms and conditions as the Council shall determine."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Chief Executive Officer shall be responsible for the day-to-day management of the affairs of the Institute."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person is qualified for appointment under subsection (1) if the person— (a) is a citizen of Kenya; (b) is a holder of a Doctor of Philosophy or its equivalent in a relevant field from a university recognised in Kenya and such shall be considered an added advantage; (c) has at least ten years’ experience and knowledge in management;"
+    }
+   ]
+  },
+  "50": {
+   "num": "50",
+   "title": "Removal of Chief Executive Officer of the Institute",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "text": "The Council may remove the Chief Executive Officer in accordance with the terms and conditions of service for—\n  (a) inability to perform the functions of the office arising out of physical or mental incapacity;\n  (b) gross misconduct or misbehaviour;\n  (c) incompetence or neglect of duty; or (d) any other ground that would justify removal from office under the terms and conditions of service.",
+   "clauses": []
+  },
+  "51": {
+   "num": "51",
+   "title": "Staff of the Institute",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "text": "The Institute may employ such officers, agents and staff as are necessary for the proper and efficient discharge of the functions of the Institute under this Act and upon such terms and conditions of service as the Institute may determine.",
+   "clauses": []
+  },
+  "52": {
+   "num": "52",
+   "title": "Protection of members and staff from liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "text": "Liability shall not attach to the members of the Council, officers, agents or staff for loss or damage incurred by a person as a result of an act or omission done or made in good faith and without negligence in the performance or exercise or the intended performance or exercise of any duty or power imposed by or conferred under this Act.",
+   "clauses": []
+  },
+  "53": {
+   "num": "53",
+   "title": "Common seal of the Institute",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "text": "The affixing of the common seal of the Institute shall be authenticated by the signature of the Chairperson and the Chief Executive Officer or a person designated by the Council.",
+   "clauses": []
+  },
+  "54": {
+   "num": "54",
+   "title": "Signing Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "COFFEE RESEARCH AND TRAINING INSTITUTE OF KENYA",
+   "text": "All letters and instruments written or made by or on behalf of the Council, other than those required by law to be under seal, and all decisions of the Council, shall be signed under the hand of the Chief Executive Officer or in the absence of the Chief Executive Officer, a person authorized by the Council.",
+   "clauses": []
+  },
+  "55": {
+   "num": "55",
+   "title": "Funds and assets of the Institute",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS OF THE INSTITUTE",
+   "text": "The funds and assets of the Institute shall comprise of—\n  (a) such monies as may be appropriated by the National Assembly for the purposes of the Institute;\n  (b) such monies or assets as may accrue to or vest in the Institute in the course of the exercise of its powers or the performance of it functions under this Act including proceeds from patents;\n  (c) monies collected from the coffee levy;\n  (d) such monies as may be payable to the Institute pursuant to this Act or any other written law;\n  (e) such gifts as may be donated to the Institute; and (f) monies from any other source granted, donated or lent to the Institute.",
+   "clauses": []
+  },
+  "56": {
+   "num": "56",
+   "title": "Power to borrow money",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS OF THE INSTITUTE",
+   "text": "The Council may, upon consultation with the Cabinet Secretary and from time to time, raise or borrow, either by way of mortgage, charge or overdraft from a bank or in such other ways as may be appropriate, such sums of money as it may consider necessary for or in connection with the exercise of its powers or performance of its functions and duties under this Act.",
+   "clauses": []
+  },
+  "57": {
+   "num": "57",
+   "title": "Power to invest",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS OF THE INSTITUTE",
+   "text": "The Council may, from time to time and, subject to the provisions of this Act, invest any sums standing to the credit of the Institute in securities or property as may be approved for the purpose by the Cabinet Secretary for the time being responsible for finance.",
+   "clauses": []
+  },
+  "58": {
+   "num": "58",
+   "title": "Annual Estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS OF THE INSTITUTE",
+   "text": "(1) At least three months before the commencement of each financial year, the Institute shall cause to be prepared estimates of the revenue and expenditure of the Institute for that year.\n(2) The annual estimates shall make provision for all estimated expenditure of the Institute for the financial year concerned.\n(3) The annual estimates prepared by the Institute under subsection (2) shall be submitted to the Cabinet Secretary for tabling in Parliament.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "At least three months before the commencement of each financial year, the Institute shall cause to be prepared estimates of the revenue and expenditure of the Institute for that year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall make provision for all estimated expenditure of the Institute for the financial year concerned."
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual estimates prepared by the Institute under subsection (2) shall be submitted to the Cabinet Secretary for tabling in Parliament."
+    }
+   ]
+  },
+  "59": {
+   "num": "59",
+   "title": "Accounts and Audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS OF THE INSTITUTE",
+   "text": "(1) The Institute shall cause to be kept such books of accounts and other books in relation thereto of all its undertakings, funds, activities and property as the Cabinet Secretary may from time to time approve and shall, within a period of three months after the end of the financial year, cause to be prepared, signed and forwarded to the Auditor-General—\n  (a) a balance sheet showing in detail the assets and liabilities of the Institute; and\n  (b) such other statements of accounts as the Cabinet Secretary may approve.\n(2) The accounts of the Institute shall be examined, audited and reported upon annually by the Auditor-General in accordance with the Public Audit Act ( Cap. 412B).\n(3) The Institute shall submit to the Auditor-General all books and accounts of the Institute, together with all vouchers in support thereof, and all books, papers and writings in its possession or control relating thereto, and the Auditor-General shall be entitled to require from any member, officer, employee or agent of the Institute such information and explanation as he may consider necessary for the performance of his duties.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Institute shall cause to be kept such books of accounts and other books in relation thereto of all its undertakings, funds, activities and property as the Cabinet Secretary may from time to time approve and shall, within a period of three months after the end of the financial year, cause to be prepared, signed and forwarded to the Auditor-General—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The accounts of the Institute shall be examined, audited and reported upon annually by the Auditor-General in accordance with the Public Audit Act ( Cap. 412B)."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Institute shall submit to the Auditor-General all books and accounts of the Institute, together with all vouchers in support thereof, and all books, papers and writings in its possession or control relating thereto, and the Auditor-General shall be entitled to require from any member, officer, employee or agent of the Institute such information and explanation as he may consider necessary for the performance of his duties."
+    }
+   ]
+  },
+  "60": {
+   "num": "60",
+   "title": "Annual report and publication",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS OF THE INSTITUTE",
+   "text": "(1) The Institute shall, within a period of three months after the end of each financial year or within such longer period as the Cabinet Secretary may approve, submit to the Cabinet Secretary a report of the operations of the Institute during such year, and the yearly balance sheet and such other statements of account as the Cabinet Secretary shall require, together with the Auditor-General’s report.\n(2) The Institute shall, if the Cabinet Secretary so requires, publish the report, balance sheet and statements submitted to him under subsection (1) in such manner as the Cabinet Secretary may specify.\n(3) The Cabinet Secretary shall submit to Parliament the reports, balance sheet and statements submitted under subsection (1), within a period of fourteen days of the receipt of the reports and statements or, if Parliament is not sitting, within fourteen days of the commencement of its next sitting.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Institute shall, within a period of three months after the end of each financial year or within such longer period as the Cabinet Secretary may approve, submit to the Cabinet Secretary a report of the operations of the Institute during such year, and the yearly balance sheet and such other statements of account as the Cabinet Secretary shall require, together with the Auditor-General’s report."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Institute shall, if the Cabinet Secretary so requires, publish the report, balance sheet and statements submitted to him under subsection (1) in such manner as the Cabinet Secretary may specify."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary shall submit to Parliament the reports, balance sheet and statements submitted under subsection (1), within a period of fourteen days of the receipt of the reports and statements or, if Parliament is not sitting, within fourteen days of the commencement of its next sitting."
+    }
+   ]
+  },
+  "61": {
+   "num": "61",
+   "title": "Financial year of the Institute",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "FINANCIAL PROVISIONS OF THE INSTITUTE",
+   "text": "The financial year of the Institute shall be the period of twelve months ending on the thirtieth of June in each financial year.",
+   "clauses": []
+  },
+  "62": {
+   "num": "62",
+   "title": "Soil mapping and analysis",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "PRODUCTION AND PROCESSING",
+   "text": "The county governments shall undertake soil mapping and analysis to determine nutritional requirements for coffee production.",
+   "clauses": []
+  },
+  "63": {
+   "num": "63",
+   "title": "Importation of coffee planting materials",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "PRODUCTION AND PROCESSING",
+   "text": "The Board may, upon application and in collaboration with the Kenya Plant Health Inspectorate Service and any other relevant agency, register a person to import coffee planting material for nursery establishment subject to the prescribed conditions.",
+   "clauses": []
+  },
+  "64": {
+   "num": "64",
+   "title": "Farm inputs",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "PRODUCTION AND PROCESSING",
+   "text": "(1) The Institute shall, in collaboration with the respective county government, undertake analysis of the farm inputs to ascertain compliance with the prescribed standards.\n(2) The relevant county government shall establish such farm inputs schemes as may be necessary to enhance coffee production.\n(3) The National Government, in collaboration council of county governors, may put in place the infrastructure necessary for the production and availability of quality farm inputs for coffee production;\n(4) The county government shall monitor and oversee the implementation and compliance with standards by farm input stockists.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Institute shall, in collaboration with the respective county government, undertake analysis of the farm inputs to ascertain compliance with the prescribed standards."
+    },
+    {
+     "ref": "(2)",
+     "text": "The relevant county government shall establish such farm inputs schemes as may be necessary to enhance coffee production."
+    },
+    {
+     "ref": "(3)",
+     "text": "The National Government, in collaboration council of county governors, may put in place the infrastructure necessary for the production and availability of quality farm inputs for coffee production;"
+    },
+    {
+     "ref": "(4)",
+     "text": "The county government shall monitor and oversee the implementation and compliance with standards by farm input stockists."
+    }
+   ]
+  },
+  "65": {
+   "num": "65",
+   "title": "Notification after planting, uprooting coffee or change of details of farm or estate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "PRODUCTION AND PROCESSING",
+   "text": "(1) A co-operative society comprising coffee growers shall keep and maintain a register of coffee growers and the number of coffee trees planted or uprooted by each of its members in the prescribed form.\n(2) A co-operative society shall submit to the respective county government, annually, a record of the information maintained by the society under subsection (1).\n(3) Each county government shall keep and maintain a record, in the prescribed form, of the area under coffee cultivation and information regarding uprooted coffee in the county.\n(4) Each county government shall submit to the Board, annually, the record kept under subsection (3).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A co-operative society comprising coffee growers shall keep and maintain a register of coffee growers and the number of coffee trees planted or uprooted by each of its members in the prescribed form."
+    },
+    {
+     "ref": "(2)",
+     "text": "A co-operative society shall submit to the respective county government, annually, a record of the information maintained by the society under subsection (1)."
+    },
+    {
+     "ref": "(3)",
+     "text": "Each county government shall keep and maintain a record, in the prescribed form, of the area under coffee cultivation and information regarding uprooted coffee in the county."
+    },
+    {
+     "ref": "(4)",
+     "text": "Each county government shall submit to the Board, annually, the record kept under subsection (3)."
+    }
+   ]
+  },
+  "66": {
+   "num": "66",
+   "title": "Certification of Kenyan Coffee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "PRODUCTION AND PROCESSING",
+   "text": "(1) The Board shall register certification schemes to monitor compliance with the coffee standards. (2) A coffee grower, miller or any other player in the coffee value chain may seek certification by the respective licencing authority to ensure the quality of coffee, the quality of service and secure market confidence. (3) The Board shall keep and maintain a register of certification scheme operators in each county.\n(4) The Board shall, for the purpose of subsection (2)—\n  (a) keep and maintain a register of certified scheme operators; and\n  (b) submit, a copy of the register to the relevant county government.\n(5) Each county government shall monitor the operations of certification schemes and periodically advise the coffee growers within the respective county and the Board on best practice and performance of a scheme.\n(6) A certification scheme under subsection (1) shall provide the particulars of certification services, competencies of their scheme operators and the benefits of the certification schemes to coffee growers.\n(7) Certified coffee shall be identified and labelled according to the respective certification scheme for traceability and marketing.\n(8) A miller shall, in the case of certified coffee, specify information relating to the certified coffee in the sales catalogue maintained by the miller.\n(9) A coffee miller shall, before offering the coffee for sale in an exchange, provide proof of certification",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall register certification schemes to monitor compliance with the coffee standards. (2) A coffee grower, miller or any other player in the coffee value chain may seek certification by the respective licencing authority to ensure the quality of coffee, the quality of service and secure market confidence. (3) The Board shall keep and maintain a register of certification scheme operators in each county."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Board shall, for the purpose of subsection (2)—"
+    },
+    {
+     "ref": "(5)",
+     "text": "Each county government shall monitor the operations of certification schemes and periodically advise the coffee growers within the respective county and the Board on best practice and performance of a scheme."
+    },
+    {
+     "ref": "(6)",
+     "text": "A certification scheme under subsection (1) shall provide the particulars of certification services, competencies of their scheme operators and the benefits of the certification schemes to coffee growers."
+    },
+    {
+     "ref": "(7)",
+     "text": "Certified coffee shall be identified and labelled according to the respective certification scheme for traceability and marketing."
+    },
+    {
+     "ref": "(8)",
+     "text": "A miller shall, in the case of certified coffee, specify information relating to the certified coffee in the sales catalogue maintained by the miller."
+    },
+    {
+     "ref": "(9)",
+     "text": "A coffee miller shall, before offering the coffee for sale in an exchange, provide proof of certification"
+    }
+   ]
+  },
+  "67": {
+   "num": "67",
+   "title": "Requirements relating to coffee processing",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "PRODUCTION AND PROCESSING",
+   "text": "The processing of coffee shall be carried out at designated, standard approved facilities and in accordance with the established and approved Coffee Standards and Industry Code of Practice.",
+   "clauses": []
+  },
+  "68": {
+   "num": "68",
+   "title": "Requirements relating to coffee traceability and disclosures",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "PRODUCTION AND PROCESSING",
+   "text": "(1) The Board shall establish a coffee traceability system in the prescribed form.\n(2) A person who operates a pulping station or coffee mill shall comply with the prescribed traceability system established by the Board under subsection (1).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall establish a coffee traceability system in the prescribed form."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who operates a pulping station or coffee mill shall comply with the prescribed traceability system established by the Board under subsection (1)."
+    }
+   ]
+  },
+  "69": {
+   "num": "69",
+   "title": "Bulking of coffee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "PRODUCTION AND PROCESSING",
+   "text": "(1) A coffee miller may bulk parchment or buni or coffee of the same quality and characteristics in order to attain millable quantities.\n(2) A coffee miller who bulks coffee shall avail information, in the prescribed form, to an exchange and the direct settlement system provider on the proportions of the bulked coffees for purposes of processing payments.\n(3) The Board and the respective county government shall, separately or jointly undertake regular inspections to ensure compliance with this Act by the coffee millers.\n(4) A coffee grower may deliver coffee samples not exceeding five hundred grams of parchment or buni for independent quality analysis by a laboratory before delivery to a commercial coffee miller.\n(5) A laboratory to which a sample is submitted under subsection (4) shall issue to the coffee grower a report on quality compliance in the prescribed form.\n(6) A coffee miller shall remit two hundred and fifty grams samples for each grade of an out-turn to the Board for quality analysis and assessment of conformity with coffee standards.\n(7) A co-operative society or association comprising smallholder growers that intends to obtain milling services shall competitively procure the services of a miller or other service providers to whom the coffee is intended to be delivered for milling.\n(8) Any charges imposed for the delivery of services to a coffee grower shall be communicated in the prescribed form to the direct settlement system provider before the sale of coffee for the purpose of settlement after the sale has been conducted.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A coffee miller may bulk parchment or buni or coffee of the same quality and characteristics in order to attain millable quantities."
+    },
+    {
+     "ref": "(2)",
+     "text": "A coffee miller who bulks coffee shall avail information, in the prescribed form, to an exchange and the direct settlement system provider on the proportions of the bulked coffees for purposes of processing payments."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board and the respective county government shall, separately or jointly undertake regular inspections to ensure compliance with this Act by the coffee millers."
+    },
+    {
+     "ref": "(4)",
+     "text": "A coffee grower may deliver coffee samples not exceeding five hundred grams of parchment or buni for independent quality analysis by a laboratory before delivery to a commercial coffee miller."
+    },
+    {
+     "ref": "(5)",
+     "text": "A laboratory to which a sample is submitted under subsection (4) shall issue to the coffee grower a report on quality compliance in the prescribed form."
+    },
+    {
+     "ref": "(6)",
+     "text": "A coffee miller shall remit two hundred and fifty grams samples for each grade of an out-turn to the Board for quality analysis and assessment of conformity with coffee standards."
+    },
+    {
+     "ref": "(7)",
+     "text": "A co-operative society or association comprising smallholder growers that intends to obtain milling services shall competitively procure the services of a miller or other service providers to whom the coffee is intended to be delivered for milling."
+    },
+    {
+     "ref": "(8)",
+     "text": "Any charges imposed for the delivery of services to a coffee grower shall be communicated in the prescribed form to the direct settlement system provider before the sale of coffee for the purpose of settlement after the sale has been conducted."
+    }
+   ]
+  },
+  "70": {
+   "num": "70",
+   "title": "Resolution by a cooperative society or a coffee union",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "PRODUCTION AND PROCESSING",
+   "text": "(1) A cooperative society or a coffee union– (a) shall in charging a fee to its growers, adhere to the society’s budget and not exceed ten percent of the gross earnings from the coffee sales;\n  (b) despite having a registered brokerage firm, may engage the services of a private brokerage firm; and (c) may pass a resolution to borrow money.\n(2) A resolution under subsection (1)(b) and (c) shall be made at a general or special meeting convened by the commissioner for cooperative development and be supported by at least three quarters of its members.\n(3) The commissioner for cooperative development shall take and keep a record of the proceeding of the meeting, which record shall include a list of the members present and the resolutions made.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A cooperative society or a coffee union– (a) shall in charging a fee to its growers, adhere to the society’s budget and not exceed ten percent of the gross earnings from the coffee sales; (b) despite having a registered brokerage firm, may engage the services of a private brokerage firm; and (c) may pass a resolution to borrow money."
+    },
+    {
+     "ref": "(2)",
+     "text": "A resolution under subsection (1)(b) and (c) shall be made at a general or special meeting convened by the commissioner for cooperative development and be supported by at least three quarters of its members."
+    },
+    {
+     "ref": "(3)",
+     "text": "The commissioner for cooperative development shall take and keep a record of the proceeding of the meeting, which record shall include a list of the members present and the resolutions made."
+    }
+   ]
+  },
+  "71": {
+   "num": "71",
+   "title": "Milling services",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "PRODUCTION AND PROCESSING",
+   "text": "(1) Every contract for milling of coffee shall be in writing and shall contain such information as may be prescribed.\n(2) A commercial miller shall – (a) ensure that the grower or grower’s representative is given reasonable notice to be present during the milling process;\n  (b) take out comprehensive insurance cover against fire, theft, and other risks for all coffee in its possession and custody;\n  (c) account for mill spillage or sweepings and all other coffee by-products to the growers and the Board;\n  (d) digitize its operations to ensure weight precision, timely dissemination of information and protection of growers’ data;\n  (e) submit returns on coffee received and milled to the Board and the respective county government; and (f) comply with the prescribed standard coffee grades.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every contract for milling of coffee shall be in writing and shall contain such information as may be prescribed."
+    },
+    {
+     "ref": "(2)",
+     "text": "A commercial miller shall – (a) ensure that the grower or grower’s representative is given reasonable notice to be present during the milling process; (b) take out comprehensive insurance cover against fire, theft, and other risks for all coffee in its possession and custody; (c) account for mill spillage or sweepings and all other coffee by-products to the growers and the Board; (d) digitize its operations to ensure weight precision, timely dissemination of information and protection of growers’ data; (e) submit returns on coffee received and milled to the Board and the respective county government; and (f) comply with the prescribed standard coffee grades."
+    }
+   ]
+  },
+  "72": {
+   "num": "72",
+   "title": "Coffee trading",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "COFFEE TRADING AND MARKETING",
+   "text": "Kenya Coffee may be offered for sale through—\n  (a) auction in an Exchange;\n  (b) direct sales;\n  (c) international exchange; or (d) such other method as the Cabinet Secretary in consultation with the licencing authorities may prescribe.",
+   "clauses": []
+  },
+  "73": {
+   "num": "73",
+   "title": "International and local direct coffee sales",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "COFFEE TRADING AND MARKETING",
+   "text": "(1) A buyer, a roaster, or a grower miller licensed by the relevant licensing authority, or a broker appointed by the grower, may trade at an exchange in accordance with this Act and any other law governing trade in an exchange.\n(2) Before a contract for direct sale is completed, a sample of not more than two hundred and fifty grams of the coffee intended for sale, shall be submitted to an exchange for quality analysis and price discovery.\n(3) An exchange in which the sample is delivered under subsection (1) shall within fourteen days, issue to the coffee grower with a report on the quality and the price discovery in the prescribed form.\n(4) Despite the provisions of subsection (2) and (3), a contract for future sales shall not be subjected to price and grade discovery at an exchange.\n(5) The price at which a licensed coffee grower offers coffee for sale under subsection (1) shall bear a favorable comparison to the price at an exchange.\n(6) A licensed coffee grower shall submit annually returns to the Board, in the prescribed form, on sales undertaken under subsection (1) including—\n  (a) a copy of the contract;\n  (b) the coffee grade;\n  (c) the coffee quantity;\n  (d) the coffee price;\n  (e) details of a certification scheme, where applicable;\n  (f) quality report;\n  (g) mode of payment; and\n  (h) a dispute resolution clause",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A buyer, a roaster, or a grower miller licensed by the relevant licensing authority, or a broker appointed by the grower, may trade at an exchange in accordance with this Act and any other law governing trade in an exchange."
+    },
+    {
+     "ref": "(2)",
+     "text": "Before a contract for direct sale is completed, a sample of not more than two hundred and fifty grams of the coffee intended for sale, shall be submitted to an exchange for quality analysis and price discovery."
+    },
+    {
+     "ref": "(3)",
+     "text": "An exchange in which the sample is delivered under subsection (1) shall within fourteen days, issue to the coffee grower with a report on the quality and the price discovery in the prescribed form."
+    },
+    {
+     "ref": "(4)",
+     "text": "Despite the provisions of subsection (2) and (3), a contract for future sales shall not be subjected to price and grade discovery at an exchange."
+    },
+    {
+     "ref": "(5)",
+     "text": "The price at which a licensed coffee grower offers coffee for sale under subsection (1) shall bear a favorable comparison to the price at an exchange."
+    },
+    {
+     "ref": "(6)",
+     "text": "A licensed coffee grower shall submit annually returns to the Board, in the prescribed form, on sales undertaken under subsection (1) including—"
+    }
+   ]
+  },
+  "74": {
+   "num": "74",
+   "title": "Licencing and functions of an Exchange",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "COFFEE TRADING AND MARKETING",
+   "text": "(1) The Capital Market Authority shall licence an exchange for the purposes of trading coffee.\n(2) An exchange shall—\n  (a) manage its auction floor, the central sample room, the information registry and the direct settlement system;\n  (b) maintain records relating to coffee sales, coffee samples and sweepings;\n  (c) vail sales catalogues to interested parties in accordance with the Capital Markets Act (Cap. 485A);\n  (d) disseminate market information for every auction and an analysis of performance on, weekly and monthly basis; and\n  (e) carry out such other function as the Cabinet Secretary for trade may prescribe.\n(3) The proceeds of the sale of coffee at an exchange shall be deposited in a central settlement system established in accordance with this Act and paid to a grower’s account within 14 days.\n(4) For the purposes of subsection (3) a grower means a cooperative society or an estate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Capital Market Authority shall licence an exchange for the purposes of trading coffee."
+    },
+    {
+     "ref": "(2)",
+     "text": "An exchange shall—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The proceeds of the sale of coffee at an exchange shall be deposited in a central settlement system established in accordance with this Act and paid to a grower’s account within 14 days."
+    },
+    {
+     "ref": "(4)",
+     "text": "For the purposes of subsection (3) a grower means a cooperative society or an estate."
+    }
+   ]
+  },
+  "75": {
+   "num": "75",
+   "title": "Management of an exchange and settlement of coffee sales proceeds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "COFFEE TRADING AND MARKETING",
+   "text": "(1) A broker or agent appointed by growers and other service providers shall not receive coffee sale proceeds on behalf of the growers.\n(2) A coffee warrant or a warehouse receipt issued by a warehouse operator to a depositor of coffee shall be transferable to a new holder who has purchased the coffee and is entitled to take its delivery upon presentation of the coffee warrant or the warehouse receipt endorsed by an exchange to the warehouse operator.\n(3) A person who contravenes the provisions of this section commits an offence and is liable, on conviction, to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding six months, or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A broker or agent appointed by growers and other service providers shall not receive coffee sale proceeds on behalf of the growers."
+    },
+    {
+     "ref": "(2)",
+     "text": "A coffee warrant or a warehouse receipt issued by a warehouse operator to a depositor of coffee shall be transferable to a new holder who has purchased the coffee and is entitled to take its delivery upon presentation of the coffee warrant or the warehouse receipt endorsed by an exchange to the warehouse operator."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who contravenes the provisions of this section commits an offence and is liable, on conviction, to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding six months, or to both."
+    }
+   ]
+  },
+  "76": {
+   "num": "76",
+   "title": "Sales catalogue",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "COFFEE TRADING AND MARKETING",
+   "text": "(1) A grower or a broker appointed by a grower shall in consultation with an exchange, prepare a sales catalogue for all the coffee in a licenced warehouse in accordance with the Act.\n(2) A sales catalogue shall contain information on the prompt date and such other particulars as may be prescribed under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A grower or a broker appointed by a grower shall in consultation with an exchange, prepare a sales catalogue for all the coffee in a licenced warehouse in accordance with the Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "A sales catalogue shall contain information on the prompt date and such other particulars as may be prescribed under this Act."
+    }
+   ]
+  },
+  "77": {
+   "num": "77",
+   "title": "Coffee warehousing in designated warehouses",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "COFFEE TRADING AND MARKETING",
+   "text": "(1) All coffee shall be stored in warehouses licensed by the respective county governments. (2) A county government shall not designate premises as a coffee warehouse unless the premises have been inspected, approved and licensed in accordance with this Act and other relevant legislations. (3) A licensed warehouse shall conform to the standards prescribed by the Kenya Bureau of Standards. (4) The Board and county governments shall inspect warehouses and monitor warehousing activities on a regular basis. (5) A warehouse operator shall—\n  (a) insure all coffee in the warehouse or under his or her custody against fire, theft and other insurable risks;\n  (b) not remove or cause to be removed from a warehouse, coffee unless the operator has applied for, and obtained an endorsed coffee warrant or warehouse receipt as the case may be; and\n  (c) account for any weight or quality loss to the respective grower, agent, buyer or roaster. (6) A person who operates a warehouse contrary to this Act commits an offence and is liable, on conviction, to a fine not exceeding three hundred thousand shillings, or to imprisonment for a term not exceeding six months, or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "All coffee shall be stored in warehouses licensed by the respective county governments. (2) A county government shall not designate premises as a coffee warehouse unless the premises have been inspected, approved and licensed in accordance with this Act and other relevant legislations. (3) A licensed warehouse shall conform to the standards prescribed by the Kenya Bureau of Standards. (4) The Board and county governments shall inspect warehouses and monitor warehousing activities on a regular basis. (5) A warehouse operator shall—"
+    }
+   ]
+  },
+  "78": {
+   "num": "78",
+   "title": "Sale of coffee in an international exchange",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "COFFEE TRADING AND MARKETING",
+   "text": "(1) A grower or an agent representing the grower may offer coffee for sale, in the prescribed manner, in an international exchange and may for this purpose enter in to a written contract for future sale.\n(2) A contract under subsection (1) shall include the following information—\n  (a) the name of the exchange;\n  (b) the quality of coffee;\n  (c) the quantity of coffee;\n  (d) the mode of payment;\n  (e) the mode and place of storage;\n  (f) the details of insurance cover; and (g) a dispute resolution clause. (3) The contract under subsection (1) shall be submitted to the Board within fourteen days of the signing of the contract. (4) The Cabinet Secretary shall prescribe regulations on sale of coffee at an international exchange.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A grower or an agent representing the grower may offer coffee for sale, in the prescribed manner, in an international exchange and may for this purpose enter in to a written contract for future sale."
+    },
+    {
+     "ref": "(2)",
+     "text": "A contract under subsection (1) shall include the following information— (a) the name of the exchange; (b) the quality of coffee; (c) the quantity of coffee; (d) the mode of payment;"
+    }
+   ]
+  },
+  "79": {
+   "num": "79",
+   "title": "Coffee trading licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "COFFEE TRADING AND MARKETING",
+   "text": "The Board may, for the purpose of trading in the international coffee market and auction—\n  (a) issue a coffee trading licence to a grower or a buyer; and (b) in collaboration with the Cabinet Secretary for trade, issue trade insurance to a cooperative society to indemnify it from any risk on any coffee exported in an international market or auction.",
+   "clauses": []
+  },
+  "80": {
+   "num": "80",
+   "title": "Export and import of Coffee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "COFFEE TRADING AND MARKETING",
+   "text": "(1) A person shall not export coffee or cause any coffee to be exported unless such person has—\n  (a) applied for, and obtained, a phytosanitary certificate from the Kenya Plant Health Inspectorate Service; and (b) notification and registration of direct sales contract, certificate of origin, certificate of quality and any other relevant approvals issued by the Board.\n(2) The Board shall authorize the importation of coffee through the issuance of import permits or a buyer’s licence.\n(3) Clean coffee imports shall—\n  (a) be accompanied by the certificate of origin and phytosanitary certificate quality analysis issued by the country of origin and adhere to Kenyan coffee standards; and (b) be inspected and issued with Phytosanitary Certificate of quality analysis by the Kenya Plant Health Inspectorate Service.\n(4) Clean coffee which consists only of a sample or a parcel not exceeding twenty kilograms in weight and which meets the relevant licensing and certification requirements shall not require a buyer’s license from the Board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not export coffee or cause any coffee to be exported unless such person has— (a) applied for, and obtained, a phytosanitary certificate from the Kenya Plant Health Inspectorate Service; and (b) notification and registration of direct sales contract, certificate of origin, certificate of quality and any other relevant approvals issued by the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall authorize the importation of coffee through the issuance of import permits or a buyer’s licence."
+    },
+    {
+     "ref": "(3)",
+     "text": "Clean coffee imports shall— (a) be accompanied by the certificate of origin and phytosanitary certificate quality analysis issued by the country of origin and adhere to Kenyan coffee standards; and (b) be inspected and issued with Phytosanitary Certificate of quality analysis by the Kenya Plant Health Inspectorate Service."
+    },
+    {
+     "ref": "(4)",
+     "text": "Clean coffee which consists only of a sample or a parcel not exceeding twenty kilograms in weight and which meets the relevant licensing and certification requirements shall not require a buyer’s license from the Board."
+    }
+   ]
+  },
+  "81": {
+   "num": "81",
+   "title": "Prohibition against blending",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "COFFEE TRADING AND MARKETING",
+   "text": "(1) A person who blends any or various grades of coffee produced in Kenya with any other coffees produced outside Kenya shall declare the percentage of Kenyan coffee in the blend.\n(2) A person who contravenes subsection (1) commits an offence and is liable, on conviction, to a fine not exceeding twice the value of the blended coffee, or to imprisonment for a term not exceeding one year, or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who blends any or various grades of coffee produced in Kenya with any other coffees produced outside Kenya shall declare the percentage of Kenyan coffee in the blend."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who contravenes subsection (1) commits an offence and is liable, on conviction, to a fine not exceeding twice the value of the blended coffee, or to imprisonment for a term not exceeding one year, or to both."
+    }
+   ]
+  },
+  "82": {
+   "num": "82",
+   "title": "Anti-competitive practices",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "COFFEE TRADING AND MARKETING",
+   "text": "The trading activities at an exchange shall be compliant with relevant laws that deter unfair trading and anti-competitive practices.",
+   "clauses": []
+  },
+  "83": {
+   "num": "83",
+   "title": "Quality assurance for coffee industry",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "QUALITY ASSURANCE",
+   "text": "(1) The Board and the respective county licensing authority shall collaborate in the enforcement of coffee industry standards along the value chain for purposes of quality assurance.\n(2) The Board, in consultation with the Kenya Institute of Curriculum Development established under the Kenya Institute of Curriculum Development Act (Cap. 211A) and accredited universities may develop a training curriculum, conduct examinations and jointly issue certificates for coffee liquorers.\n(3) The Board may enter into a memorandum of understanding with an accredited university for the training and administration of liquorers’ examinations.\n(4) A person shall not offer liquoring services unless such person is certified as a liquorer has applied for, and obtained a practicing licence from the Board.\n(5) The Board shall, in collaboration with the respective county executive committee members establish cupping centers in the counties for the purpose of conducting coffee quality analysis and capacity building.\n(6) The Board shall carry out assessments on coffee quality maintenance at any premises in which the processing of coffee is carried out along the value chain.\n(7) The Board may sample coffee at any stage of the value chain to ascertain permissible maximum pesticides residue levels for compliance with set national and international standards.\n(8) The Board, in collaboration with the respective county government shall—\n  (a) monitor maintenance of pesticide spraying records by coffee growers to enforce compliance with the permissible pesticides residue levels in coffee beans; and\n  (b) inspect coffee storage bags to check against potential contamination and monitor wholesalers, suppliers, manufacturers and importers to ensure compliance with safety standards.\n(9) The Institute shall in collaboration with the licencing authorities and other relevant bodies conduct periodic surveillance on the application of pesticides to ensure compliance with set standards and best practices.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board and the respective county licensing authority shall collaborate in the enforcement of coffee industry standards along the value chain for purposes of quality assurance."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board, in consultation with the Kenya Institute of Curriculum Development established under the Kenya Institute of Curriculum Development Act (Cap. 211A) and accredited universities may develop a training curriculum, conduct examinations and jointly issue certificates for coffee liquorers."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Board may enter into a memorandum of understanding with an accredited university for the training and administration of liquorers’ examinations."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person shall not offer liquoring services unless such person is certified as a liquorer has applied for, and obtained a practicing licence from the Board."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Board shall, in collaboration with the respective county executive committee members establish cupping centers in the counties for the purpose of conducting coffee quality analysis and capacity building."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Board shall carry out assessments on coffee quality maintenance at any premises in which the processing of coffee is carried out along the value chain."
+    },
+    {
+     "ref": "(7)",
+     "text": "The Board may sample coffee at any stage of the value chain to ascertain permissible maximum pesticides residue levels for compliance with set national and international standards."
+    },
+    {
+     "ref": "(8)",
+     "text": "The Board, in collaboration with the respective county government shall—"
+    },
+    {
+     "ref": "(9)",
+     "text": "The Institute shall in collaboration with the licencing authorities and other relevant bodies conduct periodic surveillance on the application of pesticides to ensure compliance with set standards and best practices."
+    }
+   ]
+  },
+  "84": {
+   "num": "84",
+   "title": "Inspections",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "QUALITY ASSURANCE",
+   "text": "(1) The Board and the respective county governments shall, by notice in the Gazette, appoint inspectors for the enforcement of the provisions of this Act.\n(2) The Board and the respective licencing authority may, separately or jointly, conduct inspection of coffee farms, coffee nurseries, pulping stations, coffee mills, warehouses, cupping laboratories, roasters or coffee buyers’ vessels transporting coffee to monitor compliance with the requirements of this Act.\n(3) A smallholder, a grower, a pulping station operator, a transporter, a miller, a warehouse operator or a buyer shall accord an inspector access and necessary assistance for effective inspection.\n(4) A person who fails to accord an inspector access to premises and information commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board and the respective county governments shall, by notice in the Gazette, appoint inspectors for the enforcement of the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board and the respective licencing authority may, separately or jointly, conduct inspection of coffee farms, coffee nurseries, pulping stations, coffee mills, warehouses, cupping laboratories, roasters or coffee buyers’ vessels transporting coffee to monitor compliance with the requirements of this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "A smallholder, a grower, a pulping station operator, a transporter, a miller, a warehouse operator or a buyer shall accord an inspector access and necessary assistance for effective inspection."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person who fails to accord an inspector access to premises and information commits an offence."
+    }
+   ]
+  },
+  "85": {
+   "num": "85",
+   "title": "Coffee imports to conform to standards",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "QUALITY ASSURANCE",
+   "text": "(1) A person importing coffee into the country shall—\n  (a) ensure that the coffee complies with the coffee standards and such other quality standards as may be prescribed under this Act or any other law; and (b) adhere to the safety and health standards prescribed under this Act or any other law.\n(2) The Board shall destroy coffee which does not conform to the coffee standards. (3) The Board shall not destroy coffee under subsection (2) unless—\n  (a) it has issued to the importer of the coffee, notice, in the prescribed form, of intention to destroy the coffee;\n  (b) given the importer an opportunity to be heard; and (c) obtained an order of a Court of competent jurisdiction for the destruction of that coffee. (4) The Board may, in addition to the action taken under subsection (3), suspend or cancel any licence issued to the importer under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person importing coffee into the country shall— (a) ensure that the coffee complies with the coffee standards and such other quality standards as may be prescribed under this Act or any other law; and (b) adhere to the safety and health standards prescribed under this Act or any other law."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall destroy coffee which does not conform to the coffee standards. (3) The Board shall not destroy coffee under subsection (2) unless—"
+    }
+   ]
+  },
+  "86": {
+   "num": "86",
+   "title": "Funds of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The funds and assets of the Board shall comprise of—\n  (a) such monies as may be appropriated by the National Assembly for the purposes of the Board;\n  (b) such monies or assets as may accrue to or vest in the Board in the course of the exercise of its powers or the performance of it functions under this Act;\n  (c) monies received from the levy imposed on coffee sale of coffee;\n  (d) such monies as may be payable to the Board pursuant to this Act or any other written law;\n  (e) such gifts as may be donated to the Board; and (f) monies from any other source granted, donated or lent to the Board",
+   "clauses": []
+  },
+  "87": {
+   "num": "87",
+   "title": "Coffee development and marketing Levy",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Cabinet Secretary shall, in consultation with the Board and county governments and by notice in the Gazette, impose a levy of two point five per centum on the export import value remitted by coffee buyers to the Board through the direct settlement system for the development of the coffee industry.\n(2) The levy imposed under subsection (1) shall be apportioned as follows—\n  (a) thirty per centum to the Institute;\n  (b) fifteen per centum to the Board for regulatory purposes;\n  (c) twenty per centum for price stabilization which shall be managed by Board;\n  (d) ten per centum to the Board for marketing purposes; and (e) twenty-five per centum to the county growing areas on pro-rata basis as a conditional grant for coffee development.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary shall, in consultation with the Board and county governments and by notice in the Gazette, impose a levy of two point five per centum on the export import value remitted by coffee buyers to the Board through the direct settlement system for the development of the coffee industry."
+    },
+    {
+     "ref": "(2)",
+     "text": "The levy imposed under subsection (1) shall be apportioned as follows— (a) thirty per centum to the Institute; (b) fifteen per centum to the Board for regulatory purposes; (c) twenty per centum for price stabilization which shall be managed by Board; (d) ten per centum to the Board for marketing purposes; and (e) twenty-five per centum to the county growing areas on pro-rata basis as a conditional grant for coffee development."
+    }
+   ]
+  },
+  "88": {
+   "num": "88",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) At least three months before the commencement of each financial year, the Board shall cause to be prepared estimates of the revenue and expenditure of the Board for that year.\n(2) The annual estimates shall make provision for all estimated expenditure of the Board for the financial year concerned.\n(3) The annual estimates prepared by the Board under subsection (2) shall be submitted to the Cabinet Secretary for tabling in the National Assembly.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "At least three months before the commencement of each financial year, the Board shall cause to be prepared estimates of the revenue and expenditure of the Board for that year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall make provision for all estimated expenditure of the Board for the financial year concerned."
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual estimates prepared by the Board under subsection (2) shall be submitted to the Cabinet Secretary for tabling in the National Assembly."
+    }
+   ]
+  },
+  "89": {
+   "num": "89",
+   "title": "Accounts and Audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Board shall cause to be kept such books of accounts and other books in relation thereto of all its undertakings, funds, activities and property as the Cabinet Secretary may from time to time approve and shall, within a period of three months after the end of the financial year, cause to be prepared, signed and forwarded to the Auditor-General—\n  (a) a balance sheet showing in detail the assets and liabilities of the Board;\n  (b) monies received from the levy imposed on coffee sales; and\n  (c) such other statements of accounts as the Cabinet Secretary may approve.\n(4) The accounts of the Board shall be examined, audited and reported upon annually by the AuditorGeneral in accordance with the Public Audit Act.\n(5) The Board shall submit to the Auditor-General all books and accounts of the Board, together with all vouchers in support thereof, and all books, papers and writings in its possession or control relating thereto, and the Auditor-General shall be entitled to require from any member, officer, employee or agent of the Board such information and explanation as he may consider necessary for the performance of his duties.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall cause to be kept such books of accounts and other books in relation thereto of all its undertakings, funds, activities and property as the Cabinet Secretary may from time to time approve and shall, within a period of three months after the end of the financial year, cause to be prepared, signed and forwarded to the Auditor-General—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The accounts of the Board shall be examined, audited and reported upon annually by the AuditorGeneral in accordance with the Public Audit Act."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Board shall submit to the Auditor-General all books and accounts of the Board, together with all vouchers in support thereof, and all books, papers and writings in its possession or control relating thereto, and the Auditor-General shall be entitled to require from any member, officer, employee or agent of the Board such information and explanation as he may consider necessary for the performance of his duties."
+    }
+   ]
+  },
+  "90": {
+   "num": "90",
+   "title": "Annual report and publication",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Board shall, within a period of three months after the end of each financial year or within such longer period as the Cabinet Secretary may approve, submit to the Cabinet Secretary a report of the operations of the Board during such year, and the yearly balance sheet and such other statements of account as the Cabinet Secretary shall require, together with the Auditor-General’s report.\n(2) The Board shall, if the Cabinet Secretary so requires, publish the report, balance sheet and statements submitted to him under subsection (1) in such manner as the Cabinet Secretary may specify.\n(3) The Cabinet Secretary shall submit to the Parliament the reports, balance sheet and statements under subsection (1), within a period of fourteen days of the receipt of the reports and statements or, if a House of Parliament is not sitting, within fourteen days of the commencement of its next sitting.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall, within a period of three months after the end of each financial year or within such longer period as the Cabinet Secretary may approve, submit to the Cabinet Secretary a report of the operations of the Board during such year, and the yearly balance sheet and such other statements of account as the Cabinet Secretary shall require, together with the Auditor-General’s report."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board shall, if the Cabinet Secretary so requires, publish the report, balance sheet and statements submitted to him under subsection (1) in such manner as the Cabinet Secretary may specify."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary shall submit to the Parliament the reports, balance sheet and statements under subsection (1), within a period of fourteen days of the receipt of the reports and statements or, if a House of Parliament is not sitting, within fourteen days of the commencement of its next sitting."
+    }
+   ]
+  },
+  "91": {
+   "num": "91",
+   "title": "The financial Year of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The financial year of the Board shall be the period of twelve months ending on the thirtieth of June.",
+   "clauses": []
+  },
+  "92": {
+   "num": "92",
+   "title": "Disputes Resolution Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Disputes related to issuance of permits, licensing, nomination of Board members or Council members and other matters that may arise in the coffee sector shall be resolved, in the first instance, by a Dispute Resolution Committee.\n(2) Each licensing authority shall have an ad hoc Dispute Resolution Committee that consists of a chair and two other members appointed by notice in the Gazette, in the case of—\n  (a) the Board, the Cabinet Secretary; and (b) the county governments, the respective governor; by notice in the Gazette.\n(3) A member of the committee shall not be members of a licencing authority. (4) A dispute resolution committee may regulate its own procedure. (5) A licencing authority shall provide secretarial services to a dispute resolution committee. (6) The Cabinet Secretary shall make rules on the procedure for nominating members to a Dispute Resolution Committee. (7) Decisions regarding any dispute contemplated under this section shall be made by the relevant Dispute Resolution Committee within thirty days of the hearing of the dispute in question. (8) A person who is dissatisfied with the decision of a Dispute Resolution Committee may appeal to the High Court.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Disputes related to issuance of permits, licensing, nomination of Board members or Council members and other matters that may arise in the coffee sector shall be resolved, in the first instance, by a Dispute Resolution Committee."
+    },
+    {
+     "ref": "(2)",
+     "text": "Each licensing authority shall have an ad hoc Dispute Resolution Committee that consists of a chair and two other members appointed by notice in the Gazette, in the case of— (a) the Board, the Cabinet Secretary; and (b) the county governments, the respective governor; by notice in the Gazette."
+    },
+    {
+     "ref": "(3)",
+     "text": "A member of the committee shall not be members of a licencing authority. (4) A dispute resolution committee may regulate its own procedure. (5) A licencing authority shall provide secretarial services to a dispute resolution committee. (6) The Cabinet Secretary shall make rules on the procedure for nominating members to a Dispute Resolution Committee. (7) Decisions regarding any dispute contemplated under this section shall be made by the relevant Dispute Resolution Committee within thirty days of the hearing of the dispute in question. (8) A person who is dissatisfied with the decision of a Dispute Resolution Committee may appeal to the High Court."
+    }
+   ]
+  },
+  "93": {
+   "num": "93",
+   "title": "Digitization",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Board, a licenced exchange and each county government shall automate their operations for the efficient delivery of services and dissemination of information within the coffee sector.\n(2) In automating its processes, the Board and the county government shall ensure that—\n  (a) multiple parties can access a common system;\n  (b) flow of data takes place seamlessly across the value-chain without interruption;\n  (c) the system is safe and secured and protected against unauthorized access;\n  (d) there is in place, a mechanism that ensures access to the system is properly regulated and monitored with adequate mechanisms for continued integrity; and (e) the records are not lost, destroyed or tampered with, and in the event of any loss or destruction, sufficient back-up is available in a secure place.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board, a licenced exchange and each county government shall automate their operations for the efficient delivery of services and dissemination of information within the coffee sector."
+    },
+    {
+     "ref": "(2)",
+     "text": "In automating its processes, the Board and the county government shall ensure that— (a) multiple parties can access a common system; (b) flow of data takes place seamlessly across the value-chain without interruption; (c) the system is safe and secured and protected against unauthorized access; (d) there is in place, a mechanism that ensures access to the system is properly regulated and monitored with adequate mechanisms for continued integrity; and (e) the records are not lost, destroyed or tampered with, and in the event of any loss or destruction, sufficient back-up is available in a secure place."
+    }
+   ]
+  },
+  "94": {
+   "num": "94",
+   "title": "Request for information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Chief Executive Officer of the Institute may, in writing, request any person to furnish the Institute with such information or to produce such documents or records as the Chief Executive Officer deems necessary and relevant for the performance of the functions of the Organization.\n(2) A person who—\n  (a) refuses or fails, without reasonable cause, to comply with a request under subsection (1) to furnish any information or to produce any documents or records; or\n  (b) in furnishing such information, makes a statement which they know to be false, commits an offence and shall be liable, on conviction to a fine not exceeding fifty thousand shillings or to imprisonment not exceeding three months, or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Chief Executive Officer of the Institute may, in writing, request any person to furnish the Institute with such information or to produce such documents or records as the Chief Executive Officer deems necessary and relevant for the performance of the functions of the Organization."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who— (a) refuses or fails, without reasonable cause, to comply with a request under subsection (1) to furnish any information or to produce any documents or records; or"
+    }
+   ]
+  },
+  "95": {
+   "num": "95",
+   "title": "Limitation of the right to access information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Pursuant to Article 24 of the Constitution, the right of access to information under Article 35 of the Constitution shall be limited with respect to information whose disclosure is, in the opinion of the Council likely to prejudice the integrity of research or any intellectual property rights held by the Institute.\n(2) An officer, member of staff, or agent of the Institute shall not disclose information acquired under this Act except with the written consent of the Council.\n(3) A person who receives information in contravention of subsection (2) shall not disclose or publish the information.\n(4) A person who contravenes subsection (2) or (3) commits an offence and shall be liable, on conviction, to a fine not exceeding fifty thousand shillings or to imprisonment for a term not exceeding 6 months or to both such fine and imprisonment.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Pursuant to Article 24 of the Constitution, the right of access to information under Article 35 of the Constitution shall be limited with respect to information whose disclosure is, in the opinion of the Council likely to prejudice the integrity of research or any intellectual property rights held by the Institute."
+    },
+    {
+     "ref": "(2)",
+     "text": "An officer, member of staff, or agent of the Institute shall not disclose information acquired under this Act except with the written consent of the Council."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who receives information in contravention of subsection (2) shall not disclose or publish the information."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person who contravenes subsection (2) or (3) commits an offence and shall be liable, on conviction, to a fine not exceeding fifty thousand shillings or to imprisonment for a term not exceeding 6 months or to both such fine and imprisonment."
+    }
+   ]
+  },
+  "96": {
+   "num": "96",
+   "title": "Dissemination of market information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Board shall carry out market research and analysis and disseminate information on its findings to all stakeholders.",
+   "clauses": []
+  },
+  "97": {
+   "num": "97",
+   "title": "Penalties",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A person who commits an offence under this Act for which no penalty is provided is liable, on conviction, to a fine of not more than two million shillings or a fine not exceeding twice the value of the coffee or coffee products whichever is higher or, to imprisonment for a term not exceeding five years, or to both.\n(2) Where an offence under this Act is committed by a partnership, company, association or cooperative society, every person who at the time when the offence was committed—\n  (a) was director, partner or officer;\n  (b) had knowledge or should have had knowledge of the commission of the offence; and\n  (c) did not exercise due diligence to ensure compliance with this Act, commits an offence and is liable for the offence as if they had committed the offence, unless they prove that the act or omission constituting the offence took place without their knowledge, consent or connivance and that they exercised diligence to prevent the commission of the offence as they ought to have exercised having regard to the nature of their functions as director, partner or officer concerned as aforesaid and to all the circumstances.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who commits an offence under this Act for which no penalty is provided is liable, on conviction, to a fine of not more than two million shillings or a fine not exceeding twice the value of the coffee or coffee products whichever is higher or, to imprisonment for a term not exceeding five years, or to both."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where an offence under this Act is committed by a partnership, company, association or cooperative society, every person who at the time when the offence was committed—"
+    }
+   ]
+  },
+  "98": {
+   "num": "98",
+   "title": "Exemptions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Subject to other applicable laws, the Institute shall be exempted from such taxes, duties, fees, levy, cess or other charges as the Cabinet Secretary for the time being responsible for finance may by, notice in the Gazette, specify.",
+   "clauses": []
+  },
+  "99": {
+   "num": "99",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary may, in consultation with licencing authorities, make Regulations, for the better carrying out of the provisions of this Act.\n(2) Without prejudice to the generality of subsection (1), the Cabinet Secretary may make Regulations to provide for—\n  (a) the regulation of the processing, importation and exportation of coffee and coffee products;\n  (b) the forms to be used—\n  (i) in the application for registration, licensing, permits, contracts, bulking of coffee, coffee traceability, and related activities;\n  (ii) to give notice to an importer on the intention to destroy coffee;\n  (iii) in submission of monthly returns to the Board by growers and roasters; and (iv) by a laboratory to report on quality compliance. (c) the process of application for registration, licensing and related activities;\n  (d) any fee or levy which may be charged for anything done under this Act;\n  (e) the regulation and enforcement of contracts between growers, processors and other players in the coffee industry. (f) the process of nomination of members to the Board;\n  (g) the conditions for the issuance of certificates, licenses and permits under this Act;\n  (h) the trade, storage, bulking, packing and roasting of coffee;\n  (i) the regulation of nursery operations, pulping, milling, warehousing and transportation of coffee;\n  (j) the grading and classification of coffee;\n  (k) the imposition of costs charged by service providers along the value chain and payment of coffee sales proceeds to growers and their service providers;\n  (l) operationalization of the Central Settlement System;\n  (m) qualification for appointment and powers of inspectors; and (n) co-option of export members to the Board",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, in consultation with licencing authorities, make Regulations, for the better carrying out of the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), the Cabinet Secretary may make Regulations to provide for— (a) the regulation of the processing, importation and exportation of coffee and coffee products; (b) the forms to be used— (i) in the application for registration, licensing, permits, contracts, bulking of coffee, coffee traceability, and related activities; (ii) to give notice to an importer on the intention to destroy coffee; (iii) in submission of monthly returns to the Board by growers and roasters; and (iv) by a laboratory to report on quality compliance. (c) the process of application for registration, licensing and related activities; (d) any fee or levy which may be charged for anything done under this Act; (e) the regulation and enforcement of contracts between growers, processors and other players in the coffee industry. (f) the process of nomination of members to the Board; (g) the conditions for the issuance of certificates, licenses and permits under this Act; (h) the trade, storage, bulking, packing and roasting of coffee; (i) the regulation of nursery operations, pulping, milling, warehousing and transportation of coffee; (j) the grading and classification of coffee; (k) the imposition of costs charged by service providers along the value chain and payment of coffee sales proceeds to growers and their service providers; (l) operationalization of the Central Settlement System; (m) qualification for appointment and powers of inspectors; and (n) co-option of export members to the Board"
+    }
+   ]
+  },
+  "100": {
+   "num": "100",
+   "title": "Rights and obligations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "TRANSITIONAL PROVISIONS",
+   "text": "(1) All rights, obligations and contracts which, immediately before the coming into operation of this Act, were vested in or imposed on the Agriculture and Food Authority with respect to the coffee sector shall by virtue of this section, be deemed to be the rights, obligations and contracts of the Board as the case may be.\n(2) All rights, obligations and contracts which, immediately before the coming into operation of this Act, were vested in or imposed on the Kenya Agricultural and Livestock Research Organisation with respect to the Coffee Research Institute shall by virtue of this section, be deemed to be the rights, obligations and contracts of the Institute as the case may be.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "All rights, obligations and contracts which, immediately before the coming into operation of this Act, were vested in or imposed on the Agriculture and Food Authority with respect to the coffee sector shall by virtue of this section, be deemed to be the rights, obligations and contracts of the Board as the case may be."
+    },
+    {
+     "ref": "(2)",
+     "text": "All rights, obligations and contracts which, immediately before the coming into operation of this Act, were vested in or imposed on the Kenya Agricultural and Livestock Research Organisation with respect to the Coffee Research Institute shall by virtue of this section, be deemed to be the rights, obligations and contracts of the Institute as the case may be."
+    }
+   ]
+  },
+  "101": {
+   "num": "101",
+   "title": "Assets and liabilities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "TRANSITIONAL PROVISIONS",
+   "text": "(1) All funds, assets, and other property, moveable and immovable and all liabilities which were immediately before the appointed day vested in Agriculture and Food Authority for carrying out of functions relating to coffee, shall at the commencement date vest in the Board.\n(2) All funds, assets, and other property, moveable and immovable and all liabilities which were immediately before the appointed day vested in Kenya Agricultural and Livestock Research Organisation for the carrying out of functions relating to coffee, shall at the commencement date vest in the institute",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "All funds, assets, and other property, moveable and immovable and all liabilities which were immediately before the appointed day vested in Agriculture and Food Authority for carrying out of functions relating to coffee, shall at the commencement date vest in the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "All funds, assets, and other property, moveable and immovable and all liabilities which were immediately before the appointed day vested in Kenya Agricultural and Livestock Research Organisation for the carrying out of functions relating to coffee, shall at the commencement date vest in the institute"
+    }
+   ]
+  },
+  "102": {
+   "num": "102",
+   "title": "Legal proceedings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "TRANSITIONAL PROVISIONS",
+   "text": "(1) On or after the appointed day, all actions, suits or legal proceedings pending by or against the Agriculture and Food Authority in relation to the coffee sector shall be carried on or prosecuted by or against the Board, and no action, suit or legal proceedings shall in any manner abate or be prejudicially affected by the enactment of this Act.\n(2) On or after the appointed day, all actions, suits or legal proceedings pending by or against the Kenya Agricultural and Livestock Research Organisation in relation to the coffee research institute shall be carried on or prosecuted by or against the Institute, and no action, suit or legal proceedings shall in any manner abate or be prejudicially affected by the enactment of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "On or after the appointed day, all actions, suits or legal proceedings pending by or against the Agriculture and Food Authority in relation to the coffee sector shall be carried on or prosecuted by or against the Board, and no action, suit or legal proceedings shall in any manner abate or be prejudicially affected by the enactment of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "On or after the appointed day, all actions, suits or legal proceedings pending by or against the Kenya Agricultural and Livestock Research Organisation in relation to the coffee research institute shall be carried on or prosecuted by or against the Institute, and no action, suit or legal proceedings shall in any manner abate or be prejudicially affected by the enactment of this Act."
+    }
+   ]
+  },
+  "103": {
+   "num": "103",
+   "title": "Reference to written laws",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "TRANSITIONAL PROVISIONS",
+   "text": "(1) Any reference to the Agriculture and Food Authority in any written law or in any contract, document or instrument of whatever nature, in relation to coffee, shall, on the appointed day, be read and construed as a reference to the Board.\n(2) Any reference to the Kenya Agricultural and Livestock Research Organisation in any written law or in any contract, document or instrument of whatever nature, in relation to coffee, shall, on the appointed day Act, be read and construed as a reference to the Institute.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any reference to the Agriculture and Food Authority in any written law or in any contract, document or instrument of whatever nature, in relation to coffee, shall, on the appointed day, be read and construed as a reference to the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any reference to the Kenya Agricultural and Livestock Research Organisation in any written law or in any contract, document or instrument of whatever nature, in relation to coffee, shall, on the appointed day Act, be read and construed as a reference to the Institute."
+    }
+   ]
+  },
+  "104": {
+   "num": "104",
+   "title": "Previous authorizations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "TRANSITIONAL PROVISIONS",
+   "text": "(1) All directions, orders and authorizations given, or licenses or permits issued, or registrations made by the Agriculture and Food Authority in relation to coffee, and subsisting or valid immediately before the appointed day, shall be deemed to have been given, issued or made by the Authority as the case may be, under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "All directions, orders and authorizations given, or licenses or permits issued, or registrations made by the Agriculture and Food Authority in relation to coffee, and subsisting or valid immediately before the appointed day, shall be deemed to have been given, issued or made by the Authority as the case may be, under this Act."
+    }
+   ]
+  },
+  "105": {
+   "num": "105",
+   "title": "Staff",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "TRANSITIONAL PROVISIONS",
+   "text": "(1) Any person who, at the commencement of this Act, is a member of staff of the Agriculture and Food Authority dealing with the coffee sector shall, on the appointed day, become a member of staff of the Board on the same or improved terms and conditions of service as may be specified by the Cabinet Secretary.\n(2) Any person who, at the commencement of this Act, is a member of staff of the Kenya Agricultural and Livestock Research Organisation working with the coffee research institute shall, on the appointed day, become a member of staff of the Institute on the same or improved terms and conditions of service as may be specified by the Cabinet Secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who, at the commencement of this Act, is a member of staff of the Agriculture and Food Authority dealing with the coffee sector shall, on the appointed day, become a member of staff of the Board on the same or improved terms and conditions of service as may be specified by the Cabinet Secretary."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who, at the commencement of this Act, is a member of staff of the Kenya Agricultural and Livestock Research Organisation working with the coffee research institute shall, on the appointed day, become a member of staff of the Institute on the same or improved terms and conditions of service as may be specified by the Cabinet Secretary."
+    }
+   ]
+  },
+  "106": {
+   "num": "106",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "TRANSITIONAL PROVISIONS",
+   "text": "(1) In this Part “appointed day” means the day this Act comes into force.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Part “appointed day” means the day this Act comes into force."
+    }
+   ]
+  },
+  "107": {
+   "num": "107",
+   "title": "Consequential amendments",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "TRANSITIONAL PROVISIONS",
+   "text": "The Crops Act is amended—\n  (a) in section 14 (1) by deleting paragraph (a); and\n  (b) in the First Schedule by deleting the term “coffee” appearing in Part 1.",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [s. 22 and s. 47]",
+   "subtitle": "CONDUCT OF BUSINESS AND AFFAIRS OF THE BOARD OF DIRECTORS",
+   "text": "1. Meetings of the Board\n(1) The Board of Directors shall meet at least once in every three months to conduct the business of the respective Board.\n(2) The Chairperson shall convene the ordinary meetings of the board of directors at the premises of the respective Board of Directors.\n(3) Despite the provisions of subparagraph (1), the Chairperson shall, upon a written request by at least five members of the Board of Directors, convene a special meeting at any time where he considers it expedient for the transaction of the business of the Board of Directors.\n(4) Unless three quarters of the total number of the members of the Board of Directors otherwise agree, at least fourteen days written notice of every meeting of the board of directors shall be given to every member of the respective board by the Secretary.\n(5) The quorum for the conduct of the business of the Board of Directors shall be five members.\n(6) The Chairperson shall preside at every meeting of the Board of Directors at which the Chairperson is present and in the absence of the Chairperson, the members of the Board of Directors present shall elect one person from their number to preside over the meeting of the Board of Directors and that person shall have all the powers of the Chairperson.\n(7) Unless a unanimous decision is reached, a decision on any matter before the Board of Directors shall be by a majority of the votes of the members present and voting and in the case of an equality of votes, the Chairperson or person presiding over the meeting shall have a casting vote.\n(8) The proceedings of the Board of Directors shall not be invalidated by reason of a vacancy within its membership.\n(9) Subject to provisions of this Schedule, the Board of Directors may determine its own procedure and the procedure for any committee of the Board of Directors and for the attendance of other persons at its meetings.\n2. Disclosure of interest\n(1) If a member of the Board of Directors is directly or indirectly interested in any matter before the Board of Directors and is present at a meeting of the Board of Directors at which the matter is the subject of consideration, the member shall, at the meeting and as soon as is reasonably practicable after the commencement of the meeting, disclose the interest of the member in the matter and shall not take part in the deliberations or vote on, the matter.\n(2) A disclosure of interest made under this paragraph shall be recorded in the minutes of the meeting at which it is made.\n(3) Any contract or instrument which if entered into or executed by a person not being a body corporate, would not be required to be under seal may be entered into or executed on behalf of the board of directors by any person generally or specially authorized by the Board of Directors for that purpose."
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [ss. 11, 23 and s. 28] LICENCE, PERMIT OR CERTIFICATE",
+   "subtitle": null,
+   "text": "No.\nType of Licence/ Permit or Certificate 1. Coffee buyer’s licence 2. Independent cupping laboratory licence 3. Warehouse operator’s licence 4. Coffee liqueur’s licence;\n5. Processed coffee import permit 6. Clean coffee movement permit for exports 7. Coffee trading licence 8. Commercial coffee miller’s licence 9. Warehouse licence 10. Coffee nursery certificates 11. Pulping station licence 12. Grower’s milling licence 13. Coffee roaster’s licence 14. Parchment permit from the county of origin 15. Clean coffee movement permit from the county of origin 16. Coffee exchange licence Issuing Authority Board Board Board Board Board Board Board Board County government The Institute County government in consultation with the Board County government County government in consultation with the Board County government County government Capital Markets Authority No.\nType of Licence/ Permit or Certificate 17. Brokers licence Issuing Authority Capital Markets Authority"
+  }
+ ],
+ "spent": {}
+}

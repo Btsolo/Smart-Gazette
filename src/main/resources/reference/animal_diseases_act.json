@@ -1,0 +1,405 @@
+{
+ "title": "Animal Diseases Act",
+ "citation": "Cap. 364",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1965/4/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "ANIMAL DISEASES ACT CAP. 364 Assented to on 30 March 1965 Commenced on 13 April 1965\n[Amended by Constitution (Amendment of Laws) (Animal Diseases) Order, 1965 (Legal Notice 106 of 1965) on 13 April 1965] [Amended by Licensing Laws (Repeal and Amendment) Act, 2007 (Act No. 5 of 2007) on 15 November 2007] [Amended by Statute Law (Miscellaneous Amendments) Act, 2012 (Act No. 12 of 2012) on 12 July 2012] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to provide for matters relating to the diseases of animals",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "Preliminary",
+   "provisions": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "This Act may be cited as the Animal Diseases Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "In this Act, except where the context otherwise requires— \"administrative officer\" includes a veterinary officer; \"animal disease\" means any disease of an animal and includes a notifiable disease; \"animals\" means mammals, birds, reptiles, bees and life stages of fish, molluscs, crustaceans and amphibians whether originating from aquaculture establishments or removed from the wild and released to the environment, for human consumption or for ornamental purposes.; \"birds\" deleted by Act No. 12 of 2012, Sch.; \"cattle\" deleted by Act No. 12 of 2012, Sch.; \"Director\" means the Director of Veterinary Services; \"notifable disease\" includes cattle plague (rinderpest), anthrax, contagious bovine pleuro-pneumonia, tuberculosis, East Coast fever, epizootic or ulcerative lymphangitis, rabies, foot-and-mouth disease, sheep-pox, scab, swine-fever, swine erysipelas, glanders, farcy, surra, trypanosomiasis, heartwater, mange (scabies) in horses and mUles, bacillary white diarrhoea and pullorum disease, fowl pest, lumpy skin disease, paratuberculosis (Johnes disease), atrophic rhinitis aod sera pie and any other contagious or infectious disease of animals that the Cabinet Secretary may, by notice, declare to be a notiflable disease for the purposes of this Act; Provided that the Cabinet Secretary may, by notice, remove from this definition the name of any notifiable disease included therein; \"infected area\" means any area declared by the Director to be an area infected by a notifiable disease; \"inspector\" means any livestock officer, senior assistant veterinary officer or assistant veterinary officer on or acting on the establishment of the Government or of a Region or any other person appointed to be an inspector under Section 3 of this Act: \"stock\" includes camels, cattle, sheep, goats, horses, mules, donkeys, swine, birds and bees; \"this Act\" includes any subsidiary legislation made thereunder;\n\"veterinary officer\" means a veterinary officer of the Veterinary Department on or acting on the establishment of the Government or of a Region and shall include the Director;\n\"veterinary surgeon\" shall have the same meaning as that assigned to that expression in the Veterinary Surgeons and Veterinary Para-professionals Act (Cap. 366).\n[Act No. 12 of 2012, Sch.]",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Appointment of inspectors.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "The Director may appoint such fit persons, or such fit category of persons to be inspectors as may be necessary for the purposes of this Act.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Animals affected with notifiable disease.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "(1) Every person having in his possession or charge an animal infected with a notifiable disease or suspected of being infected with a notifiable disease shall—\n  (a) keep such animal tied up or enclosed in a boma or other enclosed place and kept separate from other animals not so infected or suspected of being infected; and\n  (b) forthwith give notice of that fact to the nearest administrative officer or inspector;\nand for the purposes of this subsection any animal lawfully on a farm with the agreement of the owner or occupier shall be deemed to be in the possession or charge of the owner or occupier of such farm.\n(2) Any veterinary surgeon who has reason to believe or suspect that any notifiable disease exists on any farm or in any area shall notwithstanding the provisions of subsection (1) of this section forthwith give notice of that fact to the nearest administrative officer or inspector.\n(3) Any administrative officer or inspector to whom notice is given under subsection (1) or subsection (2) of this section may require the person having the animal or animals in question in his possession or charge to submit to him within a period of not more than twenty-four hours such specimens from such animal, or animals or, if such animal dies, from its carcass, as may be reasonably required for the purpose of ascertaining the existence and nature of the notifiable disease.\n(4) An administrative officer or inspector shall, on being satisfied of the existence or suspected existence of a notifiable disease within his district forthwith cause all owners or occupiers of farms and owners of stock in the neighbourhood to be notified of the outbreak, and shall further inform the most senior veterinary officer in the adjoining district, whether or not such district is in the same or another Region.\n(5) Any person who contravenes any of the provisions of subsection (1) or subsection (2) of this section shall be guilty of an offence.\n(6) Any person who fails to comply with a requirement made under subsection (3) of this section shall be guilty of an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every person having in his possession or charge an animal infected with a notifiable disease or suspected of being infected with a notifiable disease shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any veterinary surgeon who has reason to believe or suspect that any notifiable disease exists on any farm or in any area shall notwithstanding the provisions of subsection (1) of this section forthwith give notice of that fact to the nearest administrative officer or inspector."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any administrative officer or inspector to whom notice is given under subsection (1) or subsection (2) of this section may require the person having the animal or animals in question in his possession or charge to submit to him within a period of not more than twenty-four hours such specimens from such animal, or animals or, if such animal dies, from its carcass, as may be reasonably required for the purpose of ascertaining the existence and nature of the notifiable disease."
+    },
+    {
+     "ref": "(4)",
+     "text": "An administrative officer or inspector shall, on being satisfied of the existence or suspected existence of a notifiable disease within his district forthwith cause all owners or occupiers of farms and owners of stock in the neighbourhood to be notified of the outbreak, and shall further inform the most senior veterinary officer in the adjoining district, whether or not such district is in the same or another Region."
+    },
+    {
+     "ref": "(5)",
+     "text": "Any person who contravenes any of the provisions of subsection (1) or subsection (2) of this section shall be guilty of an offence."
+    },
+    {
+     "ref": "(6)",
+     "text": "Any person who fails to comply with a requirement made under subsection (3) of this section shall be guilty of an offence."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Power to declare areas infected.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "The Director may by notice in the Kenya Gazette—\n  (a) declare any area to be an area infected by notifiable disease;\n  (b) extend, diminish or otherwise alter the limit of an area declared to be an infected area;\n  (c) declare any such infected area to be free from notifiable disease; and\n  (d) for the purpose of preventing notifiable disease prohibit the movement of animals from one Region, district, place or area to any other Region, district, place or area.",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Power to issue instructions.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "The Director may issue instruction to a veterinary officer on, or acting on the establishment of a Region, through the Civil Secretary of such Region, on all or any of the following matters, namely—\n  (a) requiring the veterinary officer to furnish such information as the director may think fit concerning any animal disease existing, or suspected to exist in the Region and specifying the manner in which such information shall be given; and\n  (b) ensuring effective compliance with any measures which the Director thinks necessary for the prevention and control of notifiable disease.",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Provisions affecting infected areas.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "(1) The following provisions shall, in the absence of other provisions made by rules under this Act apply to all infected areas—\n  (a) no stock shall be moved from or into any infected area or from place to place within such area without the written permission of the Director, or of any person authorized in writing by the Director to give such permission;\n  (b) no animal shall be moved from any such area unless previously disinfected and treated in the manner directed by the Director or by any person so authorized in writing by him;\n  (c) all stock in any such area shall be herded as far as possible from any public road, and shall not graze on any road reserve;\n  (d) the Director or any person so authorized in writing by him may require the owner or person in charge of any animal or animals within any such area to isolate such animal or animals from other animals within the infected area or to remove such animal or animals from such area;\n  (e) no person shall leave any such area without having complied with such reasonable precautions for preventing the spread of notifiable disease as may be required by the veterinary officer or inspector in charge of the area; and\n  (f) the carcasses of all animals infected with notifiable disease shall be disposed of in accordance with any general or specific instructions issued by a veterinary officer or an inspector.\n(2) Any person who contravenes any of the provisions of subsection (1) of this section shall be guilty of an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The following provisions shall, in the absence of other provisions made by rules under this Act apply to all infected areas—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who contravenes any of the provisions of subsection (1) of this section shall be guilty of an offence."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Power to prohibit importation of any specified kind of animal.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "(1) The Director may, by notice in the Kenya Gazette, prohibit for such time as he thinks necessary, or regulate the importation or the exportation of all animals or any specified kinds of animals, or of carcasses, meat, hides, skins, hair, wool, litter, dung, live viruses capable of setting up infections in animals, sera, vaccines and other biological or chemical products intended to be used for the control of animal disease, or fodder, from any specified country, port or territory.\n(2) Any person who contravenes the provision of any notice issued under subsection (1) of this section shall be guilty of an offence.\n[Act No. 5 of 2007, s. 21]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Director may, by notice in the Kenya Gazette, prohibit for such time as he thinks necessary, or regulate the importation or the exportation of all animals or any specified kinds of animals, or of carcasses, meat, hides, skins, hair, wool, litter, dung, live viruses capable of setting up infections in animals, sera, vaccines and other biological or chemical products intended to be used for the control of animal disease, or fodder, from any specified country, port or territory."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who contravenes the provision of any notice issued under subsection (1) of this section shall be guilty of an offence."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Rules",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "The Cabinet Secretary may make rules for the better carrying out of this Act, and in particular, but without prejudice to the generality of the foregoing power such rules may provide for—\n  (a) the prevention of the introduction of and the prevention and control of, notifiable disease, including the licensing of animal producers;\n  (b) the isolation, inoculation, removal and slaughter of animals infected by or suspected to be infected by any notifiable disease, or exposed to or likely to be exposed to any such disease;\n  (c) the burial or destruction of carcasses;\n  (d) prescribing ports and places for the importation or exportation of animals;\n  (e) prohibiting or regulating the movement of animals along a national stock route, or through a national port or a national airport;\n  (f) prescribing quarantine for imported animals or animals infected by notifiable disease or animals suspected of being infected by, or having been in contact with any animals infected by notifiable disease;\n  (g) prescribing conditions under which animals may be imported or exported;\n  (h) prescribing—\n  (i) the disinfection of buildings and places wherein animals infected by any notifiable disease have been stalled or kept;\n  (ii) the cleansing and disinfection of public markets, private auction or sale yards, railway premises, lairages, railway vans, trucks carriages, motor vehicles, aircraft, boats or lighters wherein any stock have been placed, kept or carried;\n  (iii) the disinfection of animals which have been in contact with animals infected by notifiable disease or which have been in an infected area;\n  (iv) the disinfection of persons and their clothing coming into contact with or employed about animals infected by notifiable disease or suspected of being so infected or being in an infected place; and\n  (v) prescribing standards for locally manufactured biological and chemical products used for the control of animal disease and prohibiting the manufacture of any such product.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Slaughter of infected animals.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "The Director or any person so authorized by him in writing may cause to be slaughtered any animal infected or suspected of being infected with any notifiable disease or any animal which has been in contact with an animal infected by notifiable disease or has been otherwise exposed to the infection or contagion of notifable disease.",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Disposal of carcass of slaughted animal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "Where an animal has been slaughtered under this Act, its carcass shall belong to the Government of Kenya in the case of the Nairobi Area, or the Region in the case of a Region and shall be buried or sold or otherwise disposed of under such conditions as a veterinary officer thinks fit, and any proceeds of sale shall be paid into the Consolidated Fund or Regional Fund as the case may be.",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Indemnity and payment of compensation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "(1) No action shall lie against the Government, a Regional Assembly, the Organization or any public officer, or any officer of the Organization or any local authority or any officer of such local authority for any act done in good faith under this Act or for any act done in good faith in connexion with the diagnosis, control, prevention or treatment of notifiable diseases of animals (including the preparation of biological products) and no compensation shall be payable to any person for any act done under this Act unless the Cabinet Secretary otherwise directs:\nProvided that subject to section 13, compensation for animals slaughtered under this Act shall be paid to the owner as follows #\n  (a) where the animal was infected by a notifiable disease, the value before it became so infected; and\n  (b) where the animal was not so infected but was suspected of being so infected, the value of the animal immediately before it was slaughtered.\n(2) For the purposes of subsection (1) of this section, the value of any animal shall be determined in accordance with the Schedule to this Act, and the costs and expenses of any such valuation shall be determined, borne and payable as therein provided.\n[Act No. 12 of 2012, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No action shall lie against the Government, a Regional Assembly, the Organization or any public officer, or any officer of the Organization or any local authority or any officer of such local authority for any act done in good faith under this Act or for any act done in good faith in connexion with the diagnosis, control, prevention or treatment of notifiable diseases of animals (including the preparation of biological products) and no compensation shall be payable to any person for any act done under this Act unless the Cabinet Secretary otherwise directs:"
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of subsection (1) of this section, the value of any animal shall be determined in accordance with the Schedule to this Act, and the costs and expenses of any such valuation shall be determined, borne and payable as therein provided."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Compesation may be withheld.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "Compensation in respect of any animal slaughtered under this Act may be wholly or partially withheld where the owner or person in charge of the animal has been guilty of any breach of the provisions of this Act, and no compensation shall be paid in respect of any animal slaughtered if such animal was infected with disease when imported or became infected before it was passed by the inspecting officer at the place of entry, or if such animal has been imported in breach of the provisions of this Act.",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "Power to search for infected animals, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "(1) The Director or any administrative officer or inspector may enter any land, building, shed, place, carriage, van, truck, motor vehicle, aircraft, boat, or lighter containing or carrying or having been used for the purpose of containing, or carrying—\n  (i) animals, and may examine the same and any animals found therein for the purpose of ascertaining whether any such animal is infected by a notifiable disease or for the purpose of ascertaining whether the provisions of this Act in respect of the cleansing and disinfection of such building, shed, place, carriage, van, truck, motor vehicle, aircraft, boat or lighter have been properly carried out; and\n  (ii) meat, carcasses, hides or any article manufactured from the product of any animal and may examine the same for evidence of notifiable disease or for the purpose of ascertaining whether the provisions of this Act in respect of the cleansing and disinfection of such building, shed, place, carriage, van, truck, motor vehicle, aircraft, boat or lighter have been properly carried out.\n(2) Whenever such an inspection is carried out under this section the owner or occupier of the aforesaid land, building, shed, place, carriage, van, truck, motor vehicle, aircraft, boat or lighter shall render such reasonable assistance as may be required of him by the officer carrying out the inspection. Any owner or occupier who refuses or fails to render such reasonable assistance as may be so required of him shall be guilty of an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Director or any administrative officer or inspector may enter any land, building, shed, place, carriage, van, truck, motor vehicle, aircraft, boat, or lighter containing or carrying or having been used for the purpose of containing, or carrying—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Whenever such an inspection is carried out under this section the owner or occupier of the aforesaid land, building, shed, place, carriage, van, truck, motor vehicle, aircraft, boat or lighter shall render such reasonable assistance as may be required of him by the officer carrying out the inspection. Any owner or occupier who refuses or fails to render such reasonable assistance as may be so required of him shall be guilty of an offence."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Power to prescribe fees, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "(1) The Director may prescribe—\n  (a) the fees and payments for drugs and vaccines supplied by the Director;\n  (b) fees for the examination of animals carried out under this Act;\n  (c) fees and payments for feeding and stalling of animals detained in quarantine;\n  (d) fees and payments in connexion with any services rendered under this Act; and\n  (e) fees and payments in connexion with any matter under this Act.\n(2) Any fees or payments due or payable under this section shall be a civil debt due to the Government and may be sued for and recovered with costs by and in the name of the Director.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Director may prescribe—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any fees or payments due or payable under this section shall be a civil debt due to the Government and may be sued for and recovered with costs by and in the name of the Director."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Power to prohibit use of veccine or drug.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "(1) The Director may prohibit the use of any vaccine or drug for the treatment of animal disease in Kenya.\n(2) Any person who knowingly supplies, sells, purchases, obtains or uses any vaccine or drug for the treatment of animal diseases, the use of which has been prohibited by the Director shall be guilty of an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Director may prohibit the use of any vaccine or drug for the treatment of animal disease in Kenya."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who knowingly supplies, sells, purchases, obtains or uses any vaccine or drug for the treatment of animal diseases, the use of which has been prohibited by the Director shall be guilty of an offence."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Power to search and detain suspects.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "The Director or a person authorized by him in writing, an administrative officer, an inspector appointed under this Act or a police officer may, without warrant, stop, detain and search any person whom he believes with reasonable cause to be guilty of an offence under this Act, and if the name and address of such person is not known to the officer stopping and detaining him, and if he fails to give his name and address to the satisfaction of such officer, such officer may without warrant arrest him.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Obstruction of persons excersing their duties.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "Any person who obstructs, impedes, or assists in obstructing or impeding the Director or a person authorized by him in writing, an administrative officer, an inspector appointed under this Act, or a police officer, in the execution of his duty under this Act shall be guilty of an offence, and may be arrested without warrant by such officer.",
+   "clauses": []
+  },
+  "19": {
+   "num": "19",
+   "title": "Arrested persons to be taken before a magistrate without delay.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "Any person arrested under this Act shall be taken without any unnecessary delay before a magistrate, and shall not be detained without a warrant longer than is necessary for this purpose.",
+   "clauses": []
+  },
+  "20": {
+   "num": "20",
+   "title": "Penalties",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "Any person guilty of an offence under this Act shall be liable to imprisonment not exceeding twelve months or to a fine not exceeding thirty thousand shillings or to both such imprisonment and such fine.\n[Act No. 12 of 2012, Sch.]",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Animals in respect of which offence committed may be seized.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "(1) An administrative officer, an inspector appointed under this Act or a police officer may seize any animal in respect of which he has reason to suspect that an offence under this Act is being committed or has been committed, and may remove such animal to any pound, enclosure or other place selected by a veterinary officer or inspector and there detain such animal subject to the orders of a magistrate.\n(2) Whenever any animal has been seized and detained under subsection (1) of this section, the officer making such seizure shall without unnecessary delay report the same to a magistrate having jurisdiction within the district in which such animal has been seized.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An administrative officer, an inspector appointed under this Act or a police officer may seize any animal in respect of which he has reason to suspect that an offence under this Act is being committed or has been committed, and may remove such animal to any pound, enclosure or other place selected by a veterinary officer or inspector and there detain such animal subject to the orders of a magistrate."
+    },
+    {
+     "ref": "(2)",
+     "text": "Whenever any animal has been seized and detained under subsection (1) of this section, the officer making such seizure shall without unnecessary delay report the same to a magistrate having jurisdiction within the district in which such animal has been seized."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Animals may be forfeited",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "(1) Whenever any person has been convicted of an offence under this Act, the court convicting such person may in addition to or in lieu of imposing any other punishment authorized by law order that any animal, or all or any of the animals, in respect of which such offence has been committed shall be forfeited.\n(2) Whenever it is reported to a magistrate that any animal has been seized and detained under this section but that the person who is alleged to have committed an offence or breach in respect of such animal is unknown or cannot be found, the magistrate may, if satisfied by evidence on oath that there is reason to believe that an offence under this Act has been committed in respect of such animal and that the owner is unknown or cannot be found, order that such animal be forfeited.\n(3) A magistrate, whenever be is satisfied that there is reason to believe that an offence has been committed in respect of an animal seized and detained under section 2l of this Act, may order that the owner of such animal shall pay to the Government or to the Regional Assembly. as the case may be, such sum as he considers reasonable to cover the expenses connected with the removal of such animal to the place of detention and the keep of such animal during such detention, and that unless such sum is paid within a reasonable time to be specified in such order the animal shall be forfeited.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Whenever any person has been convicted of an offence under this Act, the court convicting such person may in addition to or in lieu of imposing any other punishment authorized by law order that any animal, or all or any of the animals, in respect of which such offence has been committed shall be forfeited."
+    },
+    {
+     "ref": "(2)",
+     "text": "Whenever it is reported to a magistrate that any animal has been seized and detained under this section but that the person who is alleged to have committed an offence or breach in respect of such animal is unknown or cannot be found, the magistrate may, if satisfied by evidence on oath that there is reason to believe that an offence under this Act has been committed in respect of such animal and that the owner is unknown or cannot be found, order that such animal be forfeited."
+    },
+    {
+     "ref": "(3)",
+     "text": "A magistrate, whenever be is satisfied that there is reason to believe that an offence has been committed in respect of an animal seized and detained under section 2l of this Act, may order that the owner of such animal shall pay to the Government or to the Regional Assembly. as the case may be, such sum as he considers reasonable to cover the expenses connected with the removal of such animal to the place of detention and the keep of such animal during such detention, and that unless such sum is paid within a reasonable time to be specified in such order the animal shall be forfeited."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Disposal of forfeited animal.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "(1) Where any animal is forfeited under section 22 of this Act, it shall be slaughtered, sold or otherwise dealt with as the court directs.\n(2) Where any forfeited animal or the carcass thereof is ordered to be sold, the court may direct that the proceeds of sale or any portion thereof shall be paid to any person appearing to be the owner of such animal; and where no such direction is given the proceeds of sale shall be paid into the Consolidated Fund or the Regional Fund as the case may be.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where any animal is forfeited under section 22 of this Act, it shall be slaughtered, sold or otherwise dealt with as the court directs."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where any forfeited animal or the carcass thereof is ordered to be sold, the court may direct that the proceeds of sale or any portion thereof shall be paid to any person appearing to be the owner of such animal; and where no such direction is given the proceeds of sale shall be paid into the Consolidated Fund or the Regional Fund as the case may be."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "Preliminary",
+   "text": "",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 12]",
+   "subtitle": "METHOD OF VALUATION AND APPOINTMENT OF VALUER",
+   "text": "Where under this Act it is necessary that the value of an animal should be ascertained for the purpose of compensation payable by the Government, the value shall be ascertained as follows—\n  (a) a veterinary officer may give notice in writing of his valution of the animal to the owner thereof, and, if within seven days after the receipt of such notice the owner of the animal, or his agent does not give counter-notice in writing to, the veterinary officer stating in effect that he disputes the valuation, the compensation shall be paid on that valuation;\n  (b) if the owner or his agent gives such a counter-notice, the question of the value of the animal shall be determined by a valuer, who shall be appointed by an agreement in writing signed by a veterinary officer and by the owner of the animal or his agent;\n  (c) if no such agreement is entered into within fourteen days after the service of the counter-notice by the owner or his agent, either party may, having given notice to the other party, of the place and time of his intended application, apply to a Resident Magistrate to appoint a valuer, and the Resident Magistrate may accordingly appoint a valuer for the purpose of determining the value of the animal;\n  (d) the valuer shall make his valuation in writing ready for delivery within thirty days after the date of his appointment, and his valuation shall be final and binding on the Government and the owner of the animal;\n  (e) if a higher valuation is determined by the valuer than the valuation specified in the notice given by the veterinary officer, the Government shall pay the costs and expenses of the valuation and all costs reasonably incurred by the owner of the animal with respect to the valuation, but otherwise the costs and expenses of the valuation and all costs reasonably incurred by or on behalf of the Government in relation thereto may be deducted from the sum payable to the owner as compensation in accordance with the valuation of the valuer, who may tax or settle the amount of costs to be paid or deducted under this Schedule."
+  }
+ ],
+ "spent": {}
+}

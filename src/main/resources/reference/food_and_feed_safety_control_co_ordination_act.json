@@ -1,0 +1,633 @@
+{
+ "title": "Food and Feed Safety Control Co-ordination Act",
+ "citation": "Act No. 21 of 2026",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2026/21/eng@2026-06-26",
+ "version_date": "2026-06-26",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "FOOD AND FEED SAFETY CONTROL CO-ORDINATION ACT NO. 21 OF 2026 Published in Kenya Gazette on 26 June 2026 Assented to on 23 June 2026 Commenced on 10 July 2026 AN ACT of Parliament to provide for the co-ordination of the public institutions in the control of food and feed safety; to establish the Office of the Food Safety Controller; to provide for the role of County Governments in food and feed safety; and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "OFFICE OF THE FOOD AND FEED SAFETY CONTROLLER",
+   "provisions": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "FOOD SAFETY AND FEED SAFETY BY COUNTY GOVERNMENTS",
+   "provisions": [
+    "16"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "FOOD SAFETY AND FEED SAFETY CONTROL AND CO-ORDINATION",
+   "provisions": [
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "28",
+    "29",
+    "30",
+    "31"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "32",
+    "33",
+    "34"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Food and Feed Safety Control Co-ordination Act, 2026.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— \"Cabinet Secretary\" means the Cabinet Secretary responsible for food safety; \"competent authority\" means the public institutions responsible for official control set out in the First Schedule, or such other public entity as the Cabinet Secretary may, by Order in the Gazette, determine; \"compliance officer\" means a person appointed as such under section 26; \"consumer\" means—\n  (a) a person to whom particular goods or services are marketed in the ordinary course of the supplier's business;\n  (b) a person who has entered into a transaction with a supplier in the ordinary course of the supplier's business, unless the transaction is exempt from the application of this Act;\n  (c) a user of a particular good or a recipient or beneficiary of particular services, irrespective of whether that user, recipient or beneficiary was a party to a transaction concerning the supply of those particular goods and services; and\n  (d) a franchise in terms of a franchise agreement, to the extent applicable in terms of this Act. \"Controller\" means a Food and Feed Safety Controller appointed under section 7; \"feed\" means processed, semi-processed or raw material which is to be consumed directly by an animal which is consumed as food or an animal whose produce is capable of being consumed as food; \"feed business\" means the production, manufacture, storage or distribution of feed, feed ingredient, feed additive or feed supplement; \"feed ingredient\" means a component or any combination of components used in the production of feed and includes a feed additive; \"feed safety\" means all measures that ensure that feed will not cause harm to an animal which is consumed as food or to an animal whose produce is capable of being consumed as food, when the feed is consumed in accordance to the recommended use of the manufacturer of the feed;\n\"food\" means a processed, semi-processed or raw substance which is consumed by a human being and includes drinking water and a substance which has been used in the production, manufacture, preparation or treatment of food but does not include a cosmetic, tobacco or a substance used as drugs;\n\"food business\" means the production, processing, storage or distribution of food but does not include the domestic preparation, handling or storage of food for consumption within a residence;\n\"food safety\" means measures taken to ensure that food shall not cause harm to a consumer when consumed according to its intended use;\n\"hazard\" means any biological, chemical or physical agent or condition of food or feed which is capable of causing an adverse health effect;\n\"multi annual control plan\" means a plan which—\n  (a) specifies information on the structure, roles and responsibilities of the Competent Authorities; and\n  (b) provides an overview of how the competent authorities safeguard the health of the members of the public, animal and plant health and protects consumers;\n\"official control\" means a regulatory activity by a Competent Authority that—\n  (a) provides protection to a consumer during the production, handling, storage, processing and distribution of food or feed; and\n  (b) ensures food or feed is safe, wholesome and fit for human consumption, and conforms to the quality and safety requirements for the conduct of food business or feed business;\n\"Office of the Controller\" means the Office of the Food and Feed Safety Controller established under section 6;\n\"risk analysis\" means a process which consists of risk assessment, risk management and risk communication;\n\"risk assessment\" means a scientifically based process which consists of the—\n  (a) identification of a hazard;\n  (b) characterisation of a hazard;\n  (c) assessment of the exposure to the hazard; and\n  (d) characterisation of the risk;\n\"risk communication\" means the interactive exchange of information and opinions throughout a risk analysis on the risk-related factors, risk perceptions of risk assessors, risk managers, consumers, industry, the academic community and other interested parties, and the explanation of risk assessment findings as the basis of risk management; and\n\"risk management\" means the process of evaluating policy alternatives, in consultation with interested parties considering risk assessment and other factors relevant for the protection of health of consumers and for the promotion of fair-trade practices, and, if needed, selecting appropriate prevention and control options.",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Object of this Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The object of this Act is to—\n  (a) effectively co-ordinate the performance of the functions of competent authorities; and\n  (b) enhance accountability in the implementation of official control.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Application of this Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act shall apply to every competent authority.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Guiding principles",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The guiding principles for the implementation of this Act shall be—\n  (a) the protection of human health;\n  (b) the protection of consumer interests in the conduct of food business and feed business;\n  (c) the promotion of the use of scientific based risk analysis;\n  (d) the promotion of food safety and feed safety;\n  (e) the promotion of fair-trade practices in the conduct of food business and feed business;\n  (f) efficiency in the performance of official control;\n  (g) the promotion of sustainable production, processing and handling food and feed; and (h) the protection of animal health.",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Establishment of the Office of the Food Safety Controller",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "OFFICE OF THE FOOD AND FEED SAFETY CONTROLLER",
+   "text": "(1) There is established the office of the Food and Feed Safety Controller which shall be a body corporate with perpetual succession and a common seal, and in its corporate name shall be capable of—\n  (a) suing and being sued;\n  (b) acquiring or disposing of movable and immovable property; and (c) performing such acts as may be performed by a body corporate.\n(2) The Office of the Controller shall be designated as a State Office in accordance with paragraph (q) in the definition of State Office under Article 260 of the Constitution.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established the office of the Food and Feed Safety Controller which shall be a body corporate with perpetual succession and a common seal, and in its corporate name shall be capable of— (a) suing and being sued; (b) acquiring or disposing of movable and immovable property; and (c) performing such acts as may be performed by a body corporate."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Office of the Controller shall be designated as a State Office in accordance with paragraph (q) in the definition of State Office under Article 260 of the Constitution."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Appointment of the Controller",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "OFFICE OF THE FOOD AND FEED SAFETY CONTROLLER",
+   "text": "(1) There shall be a Food and Feed Safety Controller who shall be appointed by the President, with the approval of Parliament.\n(2) Whenever a vacancy arises in the office of the Controller, the Public Service Commission shall initiate the recruitment process.\n(3) Within seven days of the vacancy referred to in subsection (2) occurring, the Public Service Commission shall invite applications from persons who qualify for nomination and appointment for the position of the Controller.\n(4) The Public Service Commission shall within twenty-one days of receipt of applications under subsection (3)—\n  (a) consider the applications received to determine their compliance with this Act;\n  (b) shortlist qualified applicants;\n  (c) publish and publicise the names of the applicants and the shortlisted applicants;\n  (d) conduct interviews of the shortlisted persons through an open and transparent process;\n  (e) nominate three qualified applicants in the order of merit for the position of Controller; and (f) submit the names of the persons nominated under paragraph (e) to the President.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Food and Feed Safety Controller who shall be appointed by the President, with the approval of Parliament."
+    },
+    {
+     "ref": "(2)",
+     "text": "Whenever a vacancy arises in the office of the Controller, the Public Service Commission shall initiate the recruitment process."
+    },
+    {
+     "ref": "(3)",
+     "text": "Within seven days of the vacancy referred to in subsection (2) occurring, the Public Service Commission shall invite applications from persons who qualify for nomination and appointment for the position of the Controller."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Public Service Commission shall within twenty-one days of receipt of applications under subsection (3)— (a) consider the applications received to determine their compliance with this Act; (b) shortlist qualified applicants; (c) publish and publicise the names of the applicants and the shortlisted applicants;"
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Qualifications of the Controller",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "OFFICE OF THE FOOD AND FEED SAFETY CONTROLLER",
+   "text": "(1) A person shall qualify to be appointed as the Controller if that person—\n  (a) holds a Masters degree in a discipline related to food safety or feed safety;\n  (b) has at least fifteen years' experience working in a field related to food safety or feed safety;\n  (c) has at least five years' experience working in a senior management position; and (d) meets the requirements of Chapter Six of the Constitution.\n(2) The Controller may be appointed for a term of three years and shall be eligible for reappointment for a final term of three years.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall qualify to be appointed as the Controller if that person— (a) holds a Masters degree in a discipline related to food safety or feed safety; (b) has at least fifteen years' experience working in a field related to food safety or feed safety; (c) has at least five years' experience working in a senior management position; and (d) meets the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Controller may be appointed for a term of three years and shall be eligible for reappointment for a final term of three years."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Functions of the Controller",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "OFFICE OF THE FOOD AND FEED SAFETY CONTROLLER",
+   "text": "The functions of the Controller shall be to—\n  (a) co-ordinate the competent authorities through the implementation of the multi-annual control plan;\n  (b) co-ordinate the development and review of a multi-annual national control plan;\n  (c) monitor and evaluate the implementation of a multi-annual control plan at the national level;\n  (d) liaise with competent authorities to identify and advise on policy gaps and inadequate regulation in food safety and feed safety official control;\n  (e) assess the adequacy of food safety and feed safety preparedness and make recommendations to the relevant competent authority;\n  (f) establish an information management system for food safety and feed safety in the country;\n  (g) verify that competent authorities have put in place systems for effective official control;\n  (h) prepare an annual report on the state of food safety in Kenya; and (i) perform such other duties as may be necessary to ensure co-ordination of official control of food safety and feed safety.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Vacancy in the Office of the Controller",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "OFFICE OF THE FOOD AND FEED SAFETY CONTROLLER",
+   "text": "The Office of the Controller shall become vacant, if the Controller—\n  (a) dies;\n  (b) resigns from office by notice in writing addressed to the President; or (c) is removed from office in accordance with section 11.",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Removal from Office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "OFFICE OF THE FOOD AND FEED SAFETY CONTROLLER",
+   "text": "(1) The Controller may be removed from office on the following grounds—\n  (a) violation of Chapter Six of the Constitution;\n  (b) gross misconduct in the performance of the functions of the Controller;\n  (c) incapacity to perform the functions of the Controller due to physical or mental illness;\n  (d) being adjudged bankrupt; or\n  (e) being convicted of an offence and sentenced to a term of imprisonment exceeding six months.\n(2) A person who desires the removal of the Controller on any ground specified under subsection (1) shall present a complaint to the Public Service Commission setting out the alleged facts constituting that ground.\n(3) Subject to Article 47 of the Constitution, the Public Service Commission shall consider the complaint and, if satisfied that the complaint discloses a ground under subsection (1), the Public Service Commission shall—\n  (a) investigate the matter expeditiously;\n  (b) report on the facts; and\n  (c) make a recommendation to the President.\n(4) Prior to any action under subsection (3), the Public Service Commission shall—\n  (a) inform the Controller, in writing, of the reasons for the intended removal; and\n  (b) offer the Controller an opportunity to put in a defence against the alleged grounds.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Controller may be removed from office on the following grounds— (a) violation of Chapter Six of the Constitution; (b) gross misconduct in the performance of the functions of the Controller;"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who desires the removal of the Controller on any ground specified under subsection (1) shall present a complaint to the Public Service Commission setting out the alleged facts constituting that ground."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to Article 47 of the Constitution, the Public Service Commission shall consider the complaint and, if satisfied that the complaint discloses a ground under subsection (1), the Public Service Commission shall—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Prior to any action under subsection (3), the Public Service Commission shall—"
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Staff of the Office of the Controller",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "OFFICE OF THE FOOD AND FEED SAFETY CONTROLLER",
+   "text": "The Controller, in consultation with the Public Service Commission, shall employ such members of staff as are necessary for the discharge of the functions of the Controller on such terms of service as the Controller in consultation with the Salaries and Remuneration Commission may determine.",
+   "clauses": []
+  },
+  "13": {
+   "num": "13",
+   "title": "Remuneration of the Controller",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "OFFICE OF THE FOOD AND FEED SAFETY CONTROLLER",
+   "text": "The Controller shall be paid such remuneration or allowances as the Salaries and Remuneration Commission may determine.",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "Delegation by the Controller",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "OFFICE OF THE FOOD AND FEED SAFETY CONTROLLER",
+   "text": "The Controller may delegate the performance of any of the functions of the Controller to any member of staff of the Office of the Controller as the Controller deems necessary.",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "Protection from personal liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "OFFICE OF THE FOOD AND FEED SAFETY CONTROLLER",
+   "text": "(1) The Controller or a member of staff of the Office of the Controller, or a person acting on the directions of the Controller, shall not be personally liable for any action, claim or demand whatsoever or any matter or thing done in the performance of the functions of the Office of the Controller in good faith.\n(2) Subsection (1) shall not relieve the Office of the Controller of the liability to pay compensation or damages, for loss or injury to a person or property, in the performance of the functions on the Office of the Controller.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Controller or a member of staff of the Office of the Controller, or a person acting on the directions of the Controller, shall not be personally liable for any action, claim or demand whatsoever or any matter or thing done in the performance of the functions of the Office of the Controller in good faith."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subsection (1) shall not relieve the Office of the Controller of the liability to pay compensation or damages, for loss or injury to a person or property, in the performance of the functions on the Office of the Controller."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Functions of a County Government",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "FOOD SAFETY AND FEED SAFETY BY COUNTY GOVERNMENTS",
+   "text": "(1) The functions of a County Government in relation to food safety and feed safety in the respective County shall be to—\n  (a) implement and enforce food safety and feed safety measures;\n  (b) license and exercise official control of persons who conduct food business and feed business;\n  (c) conduct capacity building on food safety and feed safety;\n  (d) conduct public awareness on matters food safety and feed safety;\n  (e) prepare county food safety and feed safety reports;\n  (f) provide a platform for the consultation and co-operation of the County Governments and stakeholders in the implementation of a multi-annual control plan;\n  (g) conduct audits to ascertain compliance and enforcement of food safety and feed safety measures;\n  (h) co-ordinate food safety and feed safety activities;\n  (i) regulate and enforce official control; and (j) monitor and evaluate implementation of the multi-annual control plan.\n(2) Each County Government shall at least thirty days before the end of a financial year, prepare an annual report on the state of food safety and feed safety in the respective County and submit the report to the Controller.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The functions of a County Government in relation to food safety and feed safety in the respective County shall be to— (a) implement and enforce food safety and feed safety measures; (b) license and exercise official control of persons who conduct food business and feed business; (c) conduct capacity building on food safety and feed safety; (d) conduct public awareness on matters food safety and feed safety; (e) prepare county food safety and feed safety reports; (f) provide a platform for the consultation and co-operation of the County Governments and stakeholders in the implementation of a multi-annual control plan; (g) conduct audits to ascertain compliance and enforcement of food safety and feed safety measures; (h) co-ordinate food safety and feed safety activities; (i) regulate and enforce official control; and (j) monitor and evaluate implementation of the multi-annual control plan."
+    },
+    {
+     "ref": "(2)",
+     "text": "Each County Government shall at least thirty days before the end of a financial year, prepare an annual report on the state of food safety and feed safety in the respective County and submit the report to the Controller."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Multi-annual control plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FOOD SAFETY AND FEED SAFETY CONTROL AND CO-ORDINATION",
+   "text": "The Office of the Controller, in consultation with the competent authorities and county governments shall develop and review a multi-annual control plan as a basis and mechanism for official control.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Verification of mechanisms to enforce food and feed safety requirements",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FOOD SAFETY AND FEED SAFETY CONTROL AND CO-ORDINATION",
+   "text": "(1) The Controller shall verify that a competent authority has mechanisms to enforce the requirements of food safety or feed safety in accordance with international standards of food and feed safety.\n(2) The scope of verification conducted by the Controller shall include—\n  (a) conduct of inspections;\n  (b) taking of samples and conducting analyses;\n  (c) staff health and hygiene;\n  (d) examination of the records; and (e) issuance of certificates, permits and licenses.\n(3) Upon conducting a verification under sub-section (1), the Controller shall prepare a report and submit the report to the Cabinet Secretary responsible for the competent authority.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Controller shall verify that a competent authority has mechanisms to enforce the requirements of food safety or feed safety in accordance with international standards of food and feed safety."
+    },
+    {
+     "ref": "(2)",
+     "text": "The scope of verification conducted by the Controller shall include— (a) conduct of inspections; (b) taking of samples and conducting analyses; (c) staff health and hygiene; (d) examination of the records; and (e) issuance of certificates, permits and licenses."
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon conducting a verification under sub-section (1), the Controller shall prepare a report and submit the report to the Cabinet Secretary responsible for the competent authority."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Overlap in functions of competent authorities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FOOD SAFETY AND FEED SAFETY CONTROL AND CO-ORDINATION",
+   "text": "The Controller in consultation with the competent authorities shall advise where an overlap occurs in the performance of their functions under their respective legislation.",
+   "clauses": []
+  },
+  "20": {
+   "num": "20",
+   "title": "Audit of food safety or feed safety mechanisms",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FOOD SAFETY AND FEED SAFETY CONTROL AND CO-ORDINATION",
+   "text": "(1) The Controller shall conduct an audit of the food safety or feed safety mechanisms of a competent authority to ascertain compliance and enforcement.\n(2) The Controller in liaison with the competent authorities, shall develop the criteria for conducting the audit under subsection (1).\n(3) Upon conducting an audit under subsection (1), the Controller shall prepare an audit report and submit the report to the Cabinet Secretary responsible for the competent authority and each County Government.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Controller shall conduct an audit of the food safety or feed safety mechanisms of a competent authority to ascertain compliance and enforcement."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Controller in liaison with the competent authorities, shall develop the criteria for conducting the audit under subsection (1)."
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon conducting an audit under subsection (1), the Controller shall prepare an audit report and submit the report to the Cabinet Secretary responsible for the competent authority and each County Government."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Verification audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FOOD SAFETY AND FEED SAFETY CONTROL AND CO-ORDINATION",
+   "text": "(1) The Controller shall conduct a verification audit to ascertain whether the systems established by a competent authority provide accurate certification, inspection and validation of—\n  (a) the effective monitoring of compliance with set standards;\n  (b) the implementation of corrective measures including penalties, suspension and withdrawal of licences;\n  (c) the sustainability of the system;\n  (d) the investigative powers of the competent authority;\n  (e) the registration conducted by the competent authority, where applicable;\n  (f) the confidentiality of the information held by the competent authority;\n  (g) the self-assessment of persons conducting food business, where applicable;\n  (h) the self-assessment of persons conducting feed business, where applicable;\n  (i) the effectiveness of the early warning system for food safety risks, where applicable;\n  (j) the effectiveness of the early warning system for feed safety risks;\n  (k) the effectiveness of the handling and resolution of complaints;\n  (l) the compensation mechanism; and (m) such other matter as the Controller considers necessary.\n(2) On conducting a verification audit, if it is determined that the competent authority is in contravention of subsection (1), the Controller shall recommend corrective measures which are to be undertaken within the specified timelines.\n(3) Where a competent authority does not implement the corrective measures recommended under subsection (2), the Controller shall notify the Cabinet Secretary responsible for the competent authority of the contravention.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Controller shall conduct a verification audit to ascertain whether the systems established by a competent authority provide accurate certification, inspection and validation of— (a) the effective monitoring of compliance with set standards; (b) the implementation of corrective measures including penalties, suspension and withdrawal of licences; (c) the sustainability of the system; (d) the investigative powers of the competent authority; (e) the registration conducted by the competent authority, where applicable; (f) the confidentiality of the information held by the competent authority; (g) the self-assessment of persons conducting food business, where applicable; (h) the self-assessment of persons conducting feed business, where applicable; (i) the effectiveness of the early warning system for food safety risks, where applicable; (j) the effectiveness of the early warning system for feed safety risks; (k) the effectiveness of the handling and resolution of complaints; (l) the compensation mechanism; and (m) such other matter as the Controller considers necessary."
+    },
+    {
+     "ref": "(2)",
+     "text": "On conducting a verification audit, if it is determined that the competent authority is in contravention of subsection (1), the Controller shall recommend corrective measures which are to be undertaken within the specified timelines."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a competent authority does not implement the corrective measures recommended under subsection (2), the Controller shall notify the Cabinet Secretary responsible for the competent authority of the contravention."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Risk analysis",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FOOD SAFETY AND FEED SAFETY CONTROL AND CO-ORDINATION",
+   "text": "(1) The Controller may advise on the appropriate risk management measures in relation to food hazards and feed hazards.\n(2) Where an overlap of functions is discovered upon conducting a risk assessment under subsection (1), the Controller may conduct risk management on an identified hazard.\n(3) Upon conducting risk management under subsection (2), the Controller, shall communicate the risk of the hazard to the relevant competent authority.\n(4) The Controller, in consultation with competent authorities shall develop and maintain food safety and feed safety risk profiles for every region of the country.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Controller may advise on the appropriate risk management measures in relation to food hazards and feed hazards."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where an overlap of functions is discovered upon conducting a risk assessment under subsection (1), the Controller may conduct risk management on an identified hazard."
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon conducting risk management under subsection (2), the Controller, shall communicate the risk of the hazard to the relevant competent authority."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Controller, in consultation with competent authorities shall develop and maintain food safety and feed safety risk profiles for every region of the country."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Traceability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FOOD SAFETY AND FEED SAFETY CONTROL AND CO-ORDINATION",
+   "text": "The Controller shall verify that a competent authority has an effective mechanism to enforce traceability requirements by persons conducting food business or feed business.",
+   "clauses": []
+  },
+  "24": {
+   "num": "24",
+   "title": "Reference laboratory",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FOOD SAFETY AND FEED SAFETY CONTROL AND CO-ORDINATION",
+   "text": "(1) The Controller in consultation with the relevant competent authorities shall designate a laboratory as a reference laboratory for confirmatory testing.\n(2) Upon receipt of an adverse report, the results of an audit conducted under this Act or a complaint by a consumer, the Controller shall conduct confirmatory testing at a designated laboratory for food and feed safety control.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Controller in consultation with the relevant competent authorities shall designate a laboratory as a reference laboratory for confirmatory testing."
+    },
+    {
+     "ref": "(2)",
+     "text": "Upon receipt of an adverse report, the results of an audit conducted under this Act or a complaint by a consumer, the Controller shall conduct confirmatory testing at a designated laboratory for food and feed safety control."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Report on food safety and feed safety",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FOOD SAFETY AND FEED SAFETY CONTROL AND CO-ORDINATION",
+   "text": "(1) Every Competent Authority shall, at least thirty days before the end of a financial year, prepare and submit a report on the measures taken to ensure food safety or feed safety to—\n  (a) the relevant competent authorities; and (b) the Office of the Controller.\n(2) On receipt of the reports under subsection (1), the Controller shall—\n  (a) analyse the reports and provide feedback to the competent authorities; and (b) within three months after the end of a financial year, prepare an annual report on the state of food safety and feed safety in the Country.\n(3) The Controller shall submit the report prepared under subsection (2)(b) to—\n  (a) the Cabinet Secretary;\n  (b) all the County Governors; and (c) the competent authorities.\n(4) On receipt of the report under subsection (3)(a), the Cabinet Secretary shall submit the reports to Parliament.\n(5) On receipt of the report under subsection (3)(b), the Governor shall submit the report to the respective county assembly.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every Competent Authority shall, at least thirty days before the end of a financial year, prepare and submit a report on the measures taken to ensure food safety or feed safety to— (a) the relevant competent authorities; and (b) the Office of the Controller."
+    },
+    {
+     "ref": "(2)",
+     "text": "On receipt of the reports under subsection (1), the Controller shall— (a) analyse the reports and provide feedback to the competent authorities; and (b) within three months after the end of a financial year, prepare an annual report on the state of food safety and feed safety in the Country."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Controller shall submit the report prepared under subsection (2)(b) to— (a) the Cabinet Secretary; (b) all the County Governors; and (c) the competent authorities."
+    },
+    {
+     "ref": "(4)",
+     "text": "On receipt of the report under subsection (3)(a), the Cabinet Secretary shall submit the reports to Parliament."
+    },
+    {
+     "ref": "(5)",
+     "text": "On receipt of the report under subsection (3)(b), the Governor shall submit the report to the respective county assembly."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Appointment of compliance officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FOOD SAFETY AND FEED SAFETY CONTROL AND CO-ORDINATION",
+   "text": "The Controller shall appoint such compliance officers as are necessary for the proper discharge of the functions of the Controller from amongst the technical members of staff of the Office of the Controller.",
+   "clauses": []
+  },
+  "27": {
+   "num": "27",
+   "title": "Powers of compliance officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "FOOD SAFETY AND FEED SAFETY CONTROL AND CO-ORDINATION",
+   "text": "(1) A compliance officer may at all reasonable times—\n  (a) access and inspect land, premises, vessels or vehicles and make such enquiries as are necessary;\n  (b) inspect, examine and make copies of licences, registers, records and other documents relating to food safety; and (c) take samples for analysis.\n(2) A compliance officer shall identify himself or herself when exercising the powers under subsection (1).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A compliance officer may at all reasonable times— (a) access and inspect land, premises, vessels or vehicles and make such enquiries as are necessary; (b) inspect, examine and make copies of licences, registers, records and other documents relating to food safety; and (c) take samples for analysis."
+    },
+    {
+     "ref": "(2)",
+     "text": "A compliance officer shall identify himself or herself when exercising the powers under subsection (1)."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Funds of the Office of the Controller",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The Funds of the Office of the Controller shall consist of—\n  (a) moneys appropriated by Parliament;\n  (b) any grants, gifts, donations or other endowments given to the Office of the Controller; and (c) such funds as may vest in or accrue to the Office of the Controller in the performance of its functions under this Act or any other written law.",
+   "clauses": []
+  },
+  "29": {
+   "num": "29",
+   "title": "Investment of funds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The Controller may invest the funds of the Office of the Controller—\n  (a) in trust funds or in any other securities; or (b) by depositing moneys not immediately required for the performance of the functions of the Controller, with the approval of the National Treasury.",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) At least three months before the commencement of each financial year, the Controller shall prepare the estimates of the revenue and expenditure of the Office of the Controller for that financial year.\n(2) The annual estimates shall provide for all estimated expenditure of the Office of the Controller for the financial year concerned, and in particular shall provide for—\n  (a) the payment of the salaries, allowances, pensions, gratuities, retirement benefits and other expenses of the members of staff or agents of the Office of the Controller;\n  (b) the payment of allowances and other expenses to the members of the staff of the Office of the Controller;\n  (c) the acquisition, maintenance and repair of the property of the Office of the Controller; and (d) the creation of reserve funds for future or contingent liabilities for retirement benefits, insurance, maintenance or replacement of property, or such other matters as the Controller deems necessary.\n(3) The annual estimates shall be submitted to the Cabinet Secretary for tabling in Parliament for approval.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "At least three months before the commencement of each financial year, the Controller shall prepare the estimates of the revenue and expenditure of the Office of the Controller for that financial year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall provide for all estimated expenditure of the Office of the Controller for the financial year concerned, and in particular shall provide for— (a) the payment of the salaries, allowances, pensions, gratuities, retirement benefits and other expenses of the members of staff or agents of the Office of the Controller; (b) the payment of allowances and other expenses to the members of the staff of the Office of the Controller; (c) the acquisition, maintenance and repair of the property of the Office of the Controller; and (d) the creation of reserve funds for future or contingent liabilities for retirement benefits, insurance, maintenance or replacement of property, or such other matters as the Controller deems necessary."
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual estimates shall be submitted to the Cabinet Secretary for tabling in Parliament for approval."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The annual accounts of the Office of the Controller shall be prepared, audited and reported in accordance with the provisions of Article 226 of the Constitution, the Public Finance Management Act (Cap. 412A) and the Public Audit Act (Cap. 412B).",
+   "clauses": []
+  },
+  "32": {
+   "num": "32",
+   "title": "Act to supersede other Acts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Where there is conflict between the provisions of this Act and the provisions of any written law with regard to the powers or functions of the Controller under this Act, the provisions of this Act shall prevail.",
+   "clauses": []
+  },
+  "33": {
+   "num": "33",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary in consultation with the Controller, may make regulations for the better carrying into effect of this Act.\n(2) Without prejudice to subsection (1), the regulations made under this section may provide for—\n  (a) the conduct of risk analysis;\n  (b) the traceability of food and feed;\n  (c) third party authorization;\n  (d) the designation of laboratories for official control; and (e) any other matter necessary for better realisation of the object of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary in consultation with the Controller, may make regulations for the better carrying into effect of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to subsection (1), the regulations made under this section may provide for— (a) the conduct of risk analysis; (b) the traceability of food and feed; (c) third party authorization; (d) the designation of laboratories for official control; and (e) any other matter necessary for better realisation of the object of this Act."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Consequential amendments",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The written law specified in the Second Schedule are amended in the manner specified in the Schedule.",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE (s. 2) COMPETENT AUTHORITIES",
+   "subtitle": null,
+   "text": "1.\nThe Ministry responsible for matters relating to public health and medical services.\n2.\nThe Ministry responsible for matters relating to veterinary services, crop development and livestock development.\n3.\nThe Ministry responsible for matters relating to fisheries.\n4.\nThe Agriculture and Food Authority.\n5.\nThe Kenya Dairy Board.\n6.\nThe Kenya Plant Health Inspectorate Service.\n7.\nThe Pest Control Products Board.\n8.\nThe Fertilizer and Animal Foodstuff Board.\n9.\nThe National Biosafety Authority.\n10.\nThe Kenya Bureau of Standards.\n11.\nVeterinary Medicines Directorate."
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE s. 34 CONSEQUENTIAL AMENDMENTS",
+   "subtitle": null,
+   "text": "Written law Public Health Act (Cap. 242) Provision s. 2 s. 2 Amendment Delete the definition of the term \"food\".\ninserting the following new definitions in proper alphabetical sequence—\n\"Controller\" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act;\n\"food\" means a processed, semi-processed or raw substance which is consumed by a human being and includes drinking water and a substance which has been used in the production, manufacture, preparation or treatment of food but does not include a cosmetic, tobacco or a substance used as drugs; and\n\"multi-annual control plan\" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act.\ns. 10 New The Food, Drugs and s.2 Chemical Substances Act (Cap. 254) Insert the following new subsection immediately after subsection (2)—\n(2A) The function of the Medical Department shall include the—\n  (a) conduct of audits on the traceability mechanisms established by persons who sell food or expose food for sale; and\n  (b) implementation of the multi-annual control plan in the performance of its functions.\nInsert the following new section immediately after section 10—\n10A. Role of the Controller.\n(1) Where the Director-General for Health determines that there is an overlap between his or her functions and the function of any other public institution in relation to food safety, the DirectorGeneral for Health may request the Controller to advise.\n(2) Where a conflict arises between the Director-General for Health and any other public institution in the execution of his or her functions in relation to food safety, the Director-General for Health may request the Controller to advise.\n(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Director-General for Health to verify that the Director-General for Health has established a system for the effective official control for food safety.\nDelete the definition of the term \"food\".\nInsert the following new definitions in proper alphabetical sequence—\" Controller\" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act;\nNew The Dairy Industry Act s. 3 (Cap. 336)\n\"food\" means a processed, semi-processed or raw substance which is consumed by a human being and includes drinking water and a substance which has been used in the production, manufacture, preparation or treatment of food but does not include a cosmetic, tobacco or a substance used as drugs; and\n\"multi-annual control plan\" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act.\nInsert the following new sections immediately after section 27—\n27A. Functions of the Board.\nThe functions of the Board shall be to—\n  (a) conduct audits of the traceability mechanisms established by a person who labels, packages, sells or advertises any food; and\n  (b) implement the multi-annual control plan in the performance of its functions.\n27B. Role of the Controller.\n(1) Where the Board determines that there is an overlap in its functions and the function of any other public institution in relation to food safety, the Board may request the Controller to advise.\n(2) Where a conflict arises between the Board and any other public institution in the execution of its functions in relation to food safety, the Board may request the Controller to advise.\n(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Board to verify that the Board has established a system for the effective official control for food safety.\nInsert the following new definitions in proper alphabetical sequence—\n\"Controller\" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and s.17 New The Fertilizers and s. 2 Animal Foodstuffs Act (Cap. 345)\n\"multi-annual control plan\" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act.\nInsert the following new paragraphs immediately after paragraph (e)—\n  (ea) to conduct audits of the traceability mechanisms established by a person who engages in the production, marketing, distribution and supply of dairy produce;\n  (eb) to implement the multi-annual control plan in the performance of its functions.\nInsert the following new section immediately after section 17—\n17A. Role of the Controller.\n(1) Where the Board determines that there is an overlap in its functions and the functions of any other public institution in relation to food safety, the Board may request the Controller to advise.\n(2) Where a conflict arises between the Board and any other public institution in the execution of its functions in relation to food safety, the Board may request the Controller to advise.\n(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Board to verify that the Board has established a system for the effective official control for food safety.\nInsert the following new definitions in proper alphabetical sequence—\n\"Controller\" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and\n\"multi-annual control plan\" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act.\ns. 2B New The Pest Control s.2 Products Act (Cap.\n346) s.6 Insert the following new paragraphs immediately after paragraph (f )—\n  (fa) conduct audits of the traceability mechanisms established by a person who engages in the production, manufacture, packaging, importation and marketing of animal foodstuffs;\n  (fb) implement the multi-annual control plan in the performance of its functions.\nInsert the following new section immediately after section 2B—\n2BA. Role of the Controller.\n(1) Where the Board determines that there is an overlap in its functions and the functions of any other public institution in relation to food safety or feed safety, the Board may request the Controller to advise.\n(2) Where a conflict arises between the Board and any other public institution in the execution of its functions in relation to food safety or feed safety, the Board may request the Controller to advise.\n(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Board to verify that the Board has established a system for the effective official control for food safety or feed safety.\nInsert the following new definitions in proper alphabetical sequence\n\"Controller\" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and\n\"multi-annual control plan\" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act.\nInsert the following new paragraphs immediately after paragraph (b)—\nNew The Meat Control s. 2 Act(Cap. 356) s. 3(1)\n  (ba) to conduct audits of the traceability mechanisms established by a person who deals in pest control products;\n  (bb) to implement the multi-annual control plan in the performance of its functions.\nInsert the following new section immediately after section 6—\n6A. Role of the Controller.\n(1) Where the Board determines that there is an overlap in its functions and the functions of any public institution in relation to food safety or feed safety, the Board may request the Controller to advise.\n(2) Where a conflict arises between the Board and any other public institution in the execution of its functions in relation to food safety or feed safety, the Board may request the Controller to advise.\n(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Board to verify that the Board has established a system for the effective official control for food safety or feed safety.\nInsert the following new definitions in proper alphabetical sequence—\n\"Controller\" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act;\n\"multi-annual control plan\" has the meaning assigned to it in section 2 of the Food and Feed Safety Control Co-ordination Act.\nInsert the following new paragraphs immediately after paragraph (h)—\n  (ha) conduct of audits of the traceability mechanisms established by a person who operates a slaughterhouses or who engages in the production, manufacture, packaging, importation, exportation or marketing of meat products; and The Standards Act s. 2 (Cap. 496) s. 4(1) New\n  (hb) implementation of the multi-annual control plan in the performance of its functions.\nInsert the following new definitions in proper alphabetical sequence—\n\"Controller\" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and\n\"multi-annual control plan\" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act.\nInsert the following new paragraphs immediately after paragraph (d)—\n  (da) conduct audits of the traceability mechanisms established by persons who use of standardization marks and distinctive marks for foods or feeds; and\n  (db) implement the multi-annual control plan in the performance of its functions.\nInsert the following new section immediately after section 4—\n4A. Role of the Controller.\n(1) Where the Bureau determines that there is an overlap in its functions and the functions of any other public institution in relation to food safety or feed safety, the Bureau may request the Controller to advise.\n(2) Where a conflict arises between the Bureau and any public institution in the execution of its functions in relation to food safety or feed safety, the Bureau may request the Controller to advise.\n(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Bureau to verify that the Bureau has established a system for the effective official control for food safety or feed safety.\nThe Biosafety Act, s. 2 2009 (Cap. 320) s. 7(2) New The Kenya Plant s. 2 Health Inspectorate Service Act, 2012 (Cap.\n349) Insert the following new definitions in proper alphabetical sequence—\n\"Controller\" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and\n\"multi-annual control plan\" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act.\nInsert the following new paragraphs immediately after paragraph (b)—\n  (ba) conduct audits of the traceability mechanisms established by a person who engages in the transfer, handling and use of genetically modified organisms;\n  (bb) implement the multi-annual control plan in the performance of its functions.\nInsert the following new section immediately after section 7—\n7A. Role of the Controller.\n(1) Where the Authority determines that there is an overlap in its functions and the function of any other institution in relation to food safety or feed safety, the Authority may request the Controller to advise.\n(2) Where a conflict arises between the Authority and any other public institution in the execution of its functions in relation to food safety or feed safety, the Authority may request the Controller to advise.\n(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Authority to verify that the Authority has established a system for the effective official control for food safety or feed safety.\nInsert the following new definitions in proper alphabetical sequence—\ns.5 New.\nThe Agriculture and s. 2 Food Authority Act (Cap. 317).\n\"Controller\" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and\n\"multi-annual control plan\" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act.\nInsert the following new paragraphs immediately after paragraph (m)—\n  (ma) conduct audits of the traceability mechanisms established by seed merchants, seed growers, agents and any other person who may be required to be registered under the provisions of this Act or any of the laws specified in the First Schedule;\n  (mb) implement the multi-annual control plan in the performance of its functions.\nInsert the following new section immediately after section 5—\n5A. Role of the Controller.\n(1) Where the Service determines that there is an overlap in its functions and the function of any other public institution in relation to food safety, the Service may request the Controller to advise.\n(2) Where a conflict arises between the Service and any other public institution in the execution of its functions in relation to food safety or feed safety, the Service may request the Controller to advise.\n(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Service to verify that the Service has established a system for the effective official control for food safety or feed safety.\nInsert the following new definitions in proper alphabetical sequence—\n\"Controller\" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and s.4 New.\nThe Fisheries s. 2 Management and Development Act (Cap.\n378)\n\"multi-annual control plan\" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act.\nInsert the following new paragraphs immediately after paragraph (e)—\n  (ea) conduct audits of the traceability mechanisms established by persons who engage in the production, processing, marketing, grading, storage, collection, transportation or warehousing of agricultural products excluding livestock products as may be provided for under the Crops Act; and\n  (eb) implement the multi-annual control plan in the performance of its functions.\nInsert the following new section immediately after section 4—\n4A. Role of the Controller.\n(1) Where the Authority determines that there is an overlap in its functions and the function of any other institution in relation to food safety, the Authority may request the Controller to advise.\n(2) Where a conflict arises between the Authority and any other institution in the execution of its functions in relation to food safety, the Authority may request the Controller to advise.\n(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Authority to verify that the Authority has established a system for the effective official control for food safety.\nInsert the following new definitions in proper alphabetical sequence-\n\"Controller\" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and\n\"multi-annual control plan\" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act.\ns.58 New.\nThe Water Act (Cap.\ns. 2 372) s.12 Insert the following new paragraphs immediately after paragraph (h)—\n  (ha) conduct audits of the traceability mechanisms established by a person who engages in the handling, landing, transportation, processing or marketing of fish or fish products;\n  (hb) implement the multi-annual control plan in the performance of its functions.\nInsert the following new section immediately after section 58—\n58A. Role of the Controller.\n(1) Where the Committee established under section 58 determines that there is an overlap in its functions and the function of any other public institution in relation to food safety, the Committee may request the Controller to advise.\n(2) Where a conflict arises between the Committee established under section 58 and any other public institution in the execution of functions of the Committee in relation to food safety, it may request the Controller to advise.\n(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Committee established under section 58 to verify that the Committee has established a system for the effective official control for food safety.\nInsert the following new definitions in proper alphabetical sequence—\n\"Controller\" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and\n\"multi-annual control plan\" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act.\nInsert the following new paragraphs immediately after paragraph (f )—\nNew The Health Act (Cap. s. 2 241) s.17\n  (fa) conduct audits of the traceability mechanisms established by water services providers;\n  (fb) implement the multi-annual control plan in the performance of its functions.\nInsert the following new section immediately after section 72—\n72A. Role of the Controller.\n(1) Where the Regulatory Board determines that there is an overlap in its functions and the function of any other public institution in relation food safety, the Regulatory Board may request the Controller to advise.\n(2) Where a conflict arises between the Regulatory Board and any other public institution in the execution of the functions of the Regulatory Board in relation to food safety, it may request the Controller to advise.\n(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Regulatory Board to verify that the Regulatory Board has established a system for the effective official control for food safety.\nInsert the following new definitions in proper alphabetical sequence—\n\"Controller\" means the Food Safety Controller appointed under the Food and Feed Safety Control Co-ordination Act; and\n\"multi-annual control plan\" has the meaning assigned to it under section 2 of the Food and Feed Safety Control Co-ordination Act.\nInsert the following new paragraphs immediately after paragraph (k)—\n  (ka) conduct audits of the traceability mechanisms established in exercising stewardship in setting policy guidelines and standards for human food consumption, dietetic services and healthy lifestyle;\n  (kb) implement the multi-annual control plan in the performance of his or her functions.\nNew Insert the following new section immediately after section 17—\n17A. Role of the Controller.\n(1) Where the Director-General determines that there is an overlap in his or her functions and the function of any other public institution in relation to food safety, the Director-General may request the Controller to advise.\n(2) Where a conflict arises between the Director-General and any other public institution in the execution of his or her functions in relation to food safety, he or she may request the Controller to advise.\n(3) The Controller shall conduct an audit on the mechanisms for food safety established by the Director-General to verify that the Director-General has established a system for the effective official control for food safety."
+  }
+ ],
+ "spent": {}
+}

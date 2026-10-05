@@ -1,0 +1,1094 @@
+{
+ "title": "National Gender and Equality Commission Act",
+ "citation": "Cap. 7K",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2011/15/eng@2023-12-11",
+ "version_date": "2023-12-11",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "NATIONAL GENDER AND EQUALITY COMMISSION ACT CAP. 7K Published in Kenya Gazette Vol. CXIII—No. 90 on 9 September 2011 Assented to on 27 August 2011 Commenced on 30 August 2011\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2012 (Act No. 12 of 2012) on 12 July 2012] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\n[Amended by Statute Law (Miscellaneous Amendment) Act, 2023 (Act No. 19 of 2023) on 11 December 2023]\nAn Act of Parliament to establish the National Gender and Equality Commission as a successor to the Kenya National Human Rights and Equality Commission pursuant to Article 59(4) of the Constitution; to provide for the membership, powers and functions of the Commission, and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "provisions": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "INVESTIGATIONS BY THE COMMISSION",
+   "provisions": [
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "REPORT AND RECOMMENDATIONS",
+   "provisions": [
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "SAVINGS AND TRANSITIONAL PROVISIONS",
+   "provisions": [
+    "56",
+    "57",
+    "58",
+    "59"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the National Gender and Equality Commission Act, 2011.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In this Act, unless the context otherwise requires—\n“Cabinet Secretary” means the Cabinet Secretary for the time being responsible for matters relating to gender;\n“chairperson” means the chairperson of the Commission appointed under section 11;\n“Commission” means the National Gender and Equality Commission established under section 3;\n“former National Commission on Gender and Development” means the Commission established under the National Commission on Gender and Development Act, 2003 (No. 13 of 2003);\n“gender\" means the social definition of women and men among different communities and cultures, classes, ages and during different periods in history;\n“gender mainstreaming” means ensuring that the concerns of women and men form an integral dimension of the design of all policies, laws and administrative procedures including budgeting and budget implementation, and the monitoring and evaluation of programmes implementing such policies, laws and administrative procedures in all political, economic and societal spheres, so as to ensure that women and men benefit equally, and that inequality is not perpetuated;\n“marginalised group” means a group of people who, because of laws or practices before, on or after the effective date, were or are disadvantaged by discrimination on one or more of the grounds in Article 27(4) of the Constitution;\n“person with disability” means any person with any physical, sensory, mental, psychological or other impairment, condition or illness that has, or is perceived by significant sectors of the community to have a substantial or long term effect on an individual’s ability to carry out ordinary day to day activities;\n“public officer” has the meaning assigned to it under Article 260 of the Constitution;\n\"secretary\" means the secretary to the Commission appointed by the Commission under Article 250 (12) of the Constitution in accordance with the procedure set out in section 21; (2) Despite subsection (1), until after the first elections under the Constitution, references in this Act to the expression \"Cabinet Secretary\" shall be construed to mean \"Minister\".\n[Act No. 12 of 2012, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, unless the context otherwise requires—"
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "(1) There is established a Commission to be known as the National Gender and Equality Commission. (2) The Commission shall be a successor in title to the Kenya National Human Rights and Equality Commission established by Article 59 of the Constitution, pursuant to clauses (4) and (5) of that Article.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a Commission to be known as the National Gender and Equality Commission. (2) The Commission shall be a successor in title to the Kenya National Human Rights and Equality Commission established by Article 59 of the Constitution, pursuant to clauses (4) and (5) of that Article."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Status of successor Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "For the avoidance of doubt, the Commission as a successor Commission shall, pursuant to Article 59 (5) (c) of the Constitution, be a Commission within the meaning of Chapter Fifteen of the Constitution and shall have the status and powers of a Commission under that Chapter.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Powers of Commission as a body corporate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "In addition to the powers of a successor Commission under Article 253 of the Constitution, the Commission shall have power to—\n  (a) acquire, hold, charge and dispose of movable and immovable property; and (b) do or perform all such other things or acts for the proper discharge of its functions under the Constitution and this Act as may lawfully be done or performed by a body corporate.",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Headquarters",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "The headquarters of the Commission shall be in the capital city but the Commission may establish branches at any place in Kenya.",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Guiding principles of Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "In fulfilling its mandate, the Commission shall act in accordance with the values and principles set out in the Constitution and the laws of Kenya, and shall observe and respect—\n  (a) the diversity of the people of Kenya;\n  (b) impartiality, gender equality and gender equity;\n  (c) inclusiveness, non-discrimination and protection of the marginalised groups;\n  (d) all treaties and conventions which have been ratified in Kenya and in particular the fact that human rights are indivisible, interdependent, interrelated and of equal importance for the dignity of all human beings; and (e) the rules of natural justice.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Functions of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "The functions of the Commission shall be to—\n  (a) promote gender equality and freedom from discrimination in accordance with Article 27 of the Constitution;\n  (b) monitor, facilitate and advise on the integration of the principles of equality and freedom from discrimination in all national and county policies, laws, and administrative regulations in all public and private institutions;\n  (c) act as the principal organ of the State in ensuring compliance with all treaties and conventions ratified by Kenya relating to issues of equality and freedom from discrimination and relating to special interest groups including minorities and marginalised persons, women, persons with disabilities, and children;\n  (d) co-ordinate and facilitate mainstreaming of issues of gender, persons with disability and other marginalised groups in national development and to advise the Government on all aspects thereof;\n  (e) monitor, facilitate and advise on the development of affirmative action implementation policies as contemplated in the Constitution;\n  (f) investigate on its own initiative or on the basis of complaints, any matter in respect of any violations of the principle of equality and freedom from discrimination and make recommendations for the improvement of the functioning of the institutions concerned;\n  (g) work with other relevant institutions in the development of standards for the implementation of policies for the progressive realization of the economic and social rights specified in Article 43 of the Constitution and other written laws;\n  (h) co-ordinate and advise on public education programmes for the creation of a culture of respect for the principles of equality and freedom from discrimination;\n  (i) conduct and co-ordinate research activities on matters relating to equality and freedom from discrimination as contemplated under Article 27 of the Constitution;\n  (j) receive and evaluate annual reports on progress made by public institutions and other sectors on compliance with constitutional and statutory requirements on the implementation of the principles of equality and freedom from discrimination;\n  (k) work with the National Commission on Human Rights, the Commission on Administrative Justice and other related institutions to ensure efficiency, effectiveness and complementarity in their activities and to establish mechanisms for referrals and collaboration in the protection and promotion of rights related to the principle of equality and freedom from discrimination;\n  (l) prepare and submit annual reports to Parliament on the status of implementation of its obligations under this Act;\n  (m) conduct audits on the status of special interest groups including minorities, marginalised groups, persons with disability, women, youth and children;\n  (n) establish, consistent with data protection legislation, databases on issues relating to equality and freedom from discrimination for different affected interest groups and produce periodic reports for national, regional and international reporting on progress in the realization of equality and freedom from discrimination for these interest groups;\n  (o) perform such other functions as the Commission may consider necessary for the promotion of the principle of equality and freedom from discrimination; and\n  (p) perform such other functions as may be prescribed by the Constitution and any other written law.",
+   "clauses": []
+  },
+  "9": {
+   "num": "9",
+   "title": "Membership of Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "The Commission shall consist of a chairperson and four other members appointed in accordance with the Constitution and the provisions of this Act.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Qualifications for appointment of chairperson and members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "(1) A person shall be qualified for appointment as the chairperson of the Commission if the person—\n  (a) has knowledge and at least fifteen years experience in matters relating to human rights and gender;\n  (b) holds a degree from a university recognized in Kenya; and (c) meets the requirements of Chapter Six of the Constitution.\n(2) A person shall be qualified for appointment as a member of the Commission if the person—\n  (a) holds a degree from a university recognized in Kenya;\n  (b) has knowledge and at least ten years’ experience in matters relating to any of the following fields—\n  (i) law;\n  (ii) public administration;\n  (iii) economics;\n  (iv) gender and social development;\n  (v) human rights;\n  (vi) management; or (vii) social sciences;\n  (c) has had a distinguished career in their respective fields; and (d) meets the requirements of Chapter Six of the Constitution.\n(3) A person shall not be qualified for appointment as the chairperson or a member if such person—\n  (a) is a member of Parliament or a County Assembly;\n  (b) is a member of the governing body of a political party;\n  (c) is a member of a local authority;\n  (d) is an undischarged bankrupt; or (e) has been removed from office for contravening the provisions of the Constitution or any other law.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall be qualified for appointment as the chairperson of the Commission if the person— (a) has knowledge and at least fifteen years experience in matters relating to human rights and gender; (b) holds a degree from a university recognized in Kenya; and (c) meets the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall be qualified for appointment as a member of the Commission if the person— (a) holds a degree from a university recognized in Kenya; (b) has knowledge and at least ten years’ experience in matters relating to any of the following fields— (i) law; (ii) public administration; (iii) economics; (iv) gender and social development; (v) human rights; (vi) management; or (vii) social sciences; (c) has had a distinguished career in their respective fields; and (d) meets the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person shall not be qualified for appointment as the chairperson or a member if such person— (a) is a member of Parliament or a County Assembly; (b) is a member of the governing body of a political party; (c) is a member of a local authority; (d) is an undischarged bankrupt; or (e) has been removed from office for contravening the provisions of the Constitution or any other law."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Procedure for appointment of chairperson and members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "(1) Whenever there is a vacancy in the Commission the President shall, within fourteen days of the occurrence of the vacancy, convene a selection panel for the purpose of selecting suitable candidates for appointment as the chairperson or member of the Commission.\n(2) The selection panel convened under subsection (1) shall consist of one person from each of the following bodies representatively—\n  (a) Office of the President;\n  (b) Office of the Prime Minister;\n  (c) Ministry responsible for matters relating to justice;\n  (d) Ministry responsible for matters relating to gender and social development;\n  (e) Public Service Commission;\n  (f) the Association of Professional Societies in East Africa;\n  (g) the Kenya Private Sector Alliance; and\n  (h) the National Council for Persons with Disabilities.\n(3) The selection panel shall, subject to this section, determine its own procedure, and the ministry responsible for public service shall provide it with such facilities and such other support as it may require for the discharge of its functions.\n(4) The selection panel shall, within seven days of its convening, invite applications from qualified persons and publish the names and qualifications of all applicants in the Gazette and two daily newspapers of national circulation.\n(5) The selection panel shall within seven days of receipt of applications under subsection (4) consider the applications, interview and shortlist at least three persons qualified for appointment as chairperson and eight persons qualified for appointment as members of the Commission and shall forward the names of the selected candidates to the President for nomination.\n(6) Until after the first general election after the commencement of this Act, the President in consultation with the Prime Minister shall, within seven days of receipt of the names forwarded under subsection (5), nominate one person for appointment as chairperson and four persons for appointment as members of the Commission, and shall forward the names of the persons nominated to the National Assembly.\n(7) The National Assembly shall, within twenty-one days of the day it next sits after receipt of the names of the nominees under subsection (6), consider all the nominations received and may approve or reject any nomination.\n(8) Where the National Assembly approves the nominees, the Speaker shall, forward the names of the approved persons to the President for appointment.\n(9) The President shall, within seven days of the receipt of the approved nominees from the National Assembly, by notice in the Gazette, appoint the chairperson and members approved by the National Assembly.\n(10) Where the National Assembly rejects any nomination, the Speaker shall, within three days, communicate the decision of the National Assembly to the President to submit fresh nominations.\n(11) Where a nominee is rejected by Parliament under subsection (10), the President in consultation with the Prime Minister shall, within seven days, submit to the National Assembly a fresh nomination from amongst the persons shortlisted and forwarded by the selection panel under subsection (5).\n(12) If Parliament rejects all or any subsequent nominee submitted by the President for approval under subsection (11), the provisions of subsections (5) and (6) shall apply.\n(13) In short listing, nominating or appointing persons as chairperson and members of the Commission, the selection panel, the National Assembly and the President shall ensure that not more than two-thirds of the members are of the same gender, shall observe the principle of regional and ethnic balance and shall have due regard to the principle of fair representation for persons with disabilities.\n(14) After the first elections after the commencement of this Act, the member of the selection panel under subsection (2) (b) shall be replaced by a representative of the Public Service Commission.\n(15) Despite the foregoing provisions of this section, the President, in consultation with the Prime Minister may by notice in the Gazette, extend the period specified in respect of any matter under this section by a period not exceeding twenty-one days.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Whenever there is a vacancy in the Commission the President shall, within fourteen days of the occurrence of the vacancy, convene a selection panel for the purpose of selecting suitable candidates for appointment as the chairperson or member of the Commission."
+    },
+    {
+     "ref": "(2)",
+     "text": "The selection panel convened under subsection (1) shall consist of one person from each of the following bodies representatively— (a) Office of the President;"
+    },
+    {
+     "ref": "(3)",
+     "text": "The selection panel shall, subject to this section, determine its own procedure, and the ministry responsible for public service shall provide it with such facilities and such other support as it may require for the discharge of its functions."
+    },
+    {
+     "ref": "(4)",
+     "text": "The selection panel shall, within seven days of its convening, invite applications from qualified persons and publish the names and qualifications of all applicants in the Gazette and two daily newspapers of national circulation."
+    },
+    {
+     "ref": "(5)",
+     "text": "The selection panel shall within seven days of receipt of applications under subsection (4) consider the applications, interview and shortlist at least three persons qualified for appointment as chairperson and eight persons qualified for appointment as members of the Commission and shall forward the names of the selected candidates to the President for nomination."
+    },
+    {
+     "ref": "(6)",
+     "text": "Until after the first general election after the commencement of this Act, the President in consultation with the Prime Minister shall, within seven days of receipt of the names forwarded under subsection (5), nominate one person for appointment as chairperson and four persons for appointment as members of the Commission, and shall forward the names of the persons nominated to the National Assembly."
+    },
+    {
+     "ref": "(7)",
+     "text": "The National Assembly shall, within twenty-one days of the day it next sits after receipt of the names of the nominees under subsection (6), consider all the nominations received and may approve or reject any nomination."
+    },
+    {
+     "ref": "(8)",
+     "text": "Where the National Assembly approves the nominees, the Speaker shall, forward the names of the approved persons to the President for appointment."
+    },
+    {
+     "ref": "(9)",
+     "text": "The President shall, within seven days of the receipt of the approved nominees from the National Assembly, by notice in the Gazette, appoint the chairperson and members approved by the National Assembly."
+    },
+    {
+     "ref": "(10)",
+     "text": "Where the National Assembly rejects any nomination, the Speaker shall, within three days, communicate the decision of the National Assembly to the President to submit fresh nominations."
+    },
+    {
+     "ref": "(11)",
+     "text": "Where a nominee is rejected by Parliament under subsection (10), the President in consultation with the Prime Minister shall, within seven days, submit to the National Assembly a fresh nomination from amongst the persons shortlisted and forwarded by the selection panel under subsection (5)."
+    },
+    {
+     "ref": "(12)",
+     "text": "If Parliament rejects all or any subsequent nominee submitted by the President for approval under subsection (11), the provisions of subsections (5) and (6) shall apply."
+    },
+    {
+     "ref": "(13)",
+     "text": "In short listing, nominating or appointing persons as chairperson and members of the Commission, the selection panel, the National Assembly and the President shall ensure that not more than two-thirds of the members are of the same gender, shall observe the principle of regional and ethnic balance and shall have due regard to the principle of fair representation for persons with disabilities."
+    },
+    {
+     "ref": "(14)",
+     "text": "After the first elections after the commencement of this Act, the member of the selection panel under subsection (2) (b) shall be replaced by a representative of the Public Service Commission."
+    },
+    {
+     "ref": "(15)",
+     "text": "Despite the foregoing provisions of this section, the President, in consultation with the Prime Minister may by notice in the Gazette, extend the period specified in respect of any matter under this section by a period not exceeding twenty-one days."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Oath of office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "The chairperson, members and the secretary shall each make and subscribe, before the Chief Justice, the oath or affirmation set out in the First Schedule.",
+   "clauses": []
+  },
+  "13": {
+   "num": "13",
+   "title": "Powers of the chairperson",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "(1) The chairperson shall, within seven days of the appointment of the members, convene the first meeting of the Commission at which the members shall elect the vice-chairperson of the Commission from amongst the members.\n(2) The chairperson shall—\n  (a) preside over all meetings of the Commission;\n  (b) be the spokesperson for the Commission; and (c) supervise and direct the work of the Commission.\n(3) If the office of chairperson becomes vacant or if the chairperson is unable to exercise the powers or perform the functions of his office owing to absence, illness or any other cause, the vicechairperson shall exercise those powers or perform those functions.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The chairperson shall, within seven days of the appointment of the members, convene the first meeting of the Commission at which the members shall elect the vice-chairperson of the Commission from amongst the members."
+    },
+    {
+     "ref": "(2)",
+     "text": "The chairperson shall— (a) preside over all meetings of the Commission; (b) be the spokesperson for the Commission; and (c) supervise and direct the work of the Commission."
+    },
+    {
+     "ref": "(3)",
+     "text": "If the office of chairperson becomes vacant or if the chairperson is unable to exercise the powers or perform the functions of his office owing to absence, illness or any other cause, the vicechairperson shall exercise those powers or perform those functions."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Tenure of office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "(1) The chairperson and members of the Commission shall be appointed for a single term of six years and are not eligible for re-appointment.\n(2) The chairperson and members of the Commission shall serve on a full-time basis.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The chairperson and members of the Commission shall be appointed for a single term of six years and are not eligible for re-appointment."
+    },
+    {
+     "ref": "(2)",
+     "text": "The chairperson and members of the Commission shall serve on a full-time basis."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Vacancy of office of chairperson and members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "(1) The office of the chairperson or a member of the Commission shall become vacant if the holder—\n  (a) dies;\n  (b) by notice in writing addressed to the President resigns from office;\n  (c) is removed from office under any of the circumstances specified in Article 251 and Chapter Six of the Constitution.\n(2) The President shall notify every resignation, vacancy or termination in the Gazette within seven days.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The office of the chairperson or a member of the Commission shall become vacant if the holder— (a) dies; (b) by notice in writing addressed to the President resigns from office; (c) is removed from office under any of the circumstances specified in Article 251 and Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(2)",
+     "text": "The President shall notify every resignation, vacancy or termination in the Gazette within seven days."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Removal from office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "The chairperson or member of the Commission may be removed from office in accordance with Article 251 of the Constitution.",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "Filling of vacancy",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "(1) Where a vacancy occurs in the membership of the Commission under section 15 or 16, the appointment procedure provided for under this Act shall apply.\n(2) A member appointed under subsection (1) to fill a vacancy shall serve for a term of six years but shall not be eligible for re-appointment.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a vacancy occurs in the membership of the Commission under section 15 or 16, the appointment procedure provided for under this Act shall apply."
+    },
+    {
+     "ref": "(2)",
+     "text": "A member appointed under subsection (1) to fill a vacancy shall serve for a term of six years but shall not be eligible for re-appointment."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Committees of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "(1) The Commission may, from time to time, establish, committees for the better carrying out of its functions.\n(2) The Commission may—\n  (a) co-opt into the membership of a committee established under subsection (1) other persons whose knowledge and skills are necessary for the functions of the Commission;\n  (b) hire such experts or consultants as are necessary for the functions of the Commission.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission may, from time to time, establish, committees for the better carrying out of its functions."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Commission may— (a) co-opt into the membership of a committee established under subsection (1) other persons whose knowledge and skills are necessary for the functions of the Commission; (b) hire such experts or consultants as are necessary for the functions of the Commission."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Procedures of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "(1) The business and affairs of the Commission shall be conducted in accordance with the Second Schedule.\n(2) Except as provided in the Second Schedule, the Commission may regulate its own procedure.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The business and affairs of the Commission shall be conducted in accordance with the Second Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "Except as provided in the Second Schedule, the Commission may regulate its own procedure."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Terms and conditions of service",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "The salaries and allowances payable to, and other terms and conditions of service of the chairperson and members of the Commission shall be determined by the Salaries and Remuneration Commission.",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Appointment of secretary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "(1) The appointment of the secretary to the Commission under Article 250 (12) of the Constitution shall be through a competitive recruitment process.\n(2) A person shall be qualified for appointment as a secretary to the Commission if the person—\n  (a) is a citizen of Kenya;\n  (b) holds a degree from a university recognized in Kenya;\n  (c) has had at least ten years proven experience at management level;\n  (d) has extensive experience in public administration; and (e) meets the requirements of Chapter Six of the Constitution.\n(3) The secretary shall be the chief executive officer of the Commission and head of the secretariat and shall be responsible to the Commission.\n(4) The secretary shall hold office for a term of five years and shall be eligible for re-appointment for a further term of five years.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The appointment of the secretary to the Commission under Article 250 (12) of the Constitution shall be through a competitive recruitment process."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall be qualified for appointment as a secretary to the Commission if the person— (a) is a citizen of Kenya; (b) holds a degree from a university recognized in Kenya; (c) has had at least ten years proven experience at management level; (d) has extensive experience in public administration; and (e) meets the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(3)",
+     "text": "The secretary shall be the chief executive officer of the Commission and head of the secretariat and shall be responsible to the Commission."
+    },
+    {
+     "ref": "(4)",
+     "text": "The secretary shall hold office for a term of five years and shall be eligible for re-appointment for a further term of five years."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Removal of secretary",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "(1) The secretary may be removed from office by the Commission in accordance with the terms and conditions of service for—\n  (a) inability to perform the functions of the office of secretary arising out of physical or mental incapacity;\n  (b) gross misconduct or misbehaviour;\n  (c) incompetence or neglect of duty;\n  (d) violation of the Constitution; or (e) any other ground that would justify removal from office under the terms and conditions of service.\n(2) Before the Secretary is removed under subsection (1), the Secretary shall be given—\n  (a) sufficient notice of the allegations made against him or her; and\n  (b) an opportunity to present his or her defence against the allegations.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The secretary may be removed from office by the Commission in accordance with the terms and conditions of service for— (a) inability to perform the functions of the office of secretary arising out of physical or mental incapacity; (b) gross misconduct or misbehaviour; (c) incompetence or neglect of duty; (d) violation of the Constitution; or (e) any other ground that would justify removal from office under the terms and conditions of service."
+    },
+    {
+     "ref": "(2)",
+     "text": "Before the Secretary is removed under subsection (1), the Secretary shall be given—"
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Appointment of staff",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "(1) The Commission may appoint such staff as may be necessary for the proper discharge of its functions under this Act, and upon such terms and conditions of service as the Commission may determine.\n(2) The staff appointed under subsection (1) shall serve on such terms and conditions as the Commission, in consultation with the Salaries and Remuneration Commission may determine.\n(3) The Government may, upon request by the Commission, second to the Commission such number of public officers as may be necessary for the proper performance of the functions of the Commission.\n(4) A public officer seconded to the Commission shall, during the period of secondment, be deemed to be an officer of the Commission and shall be subject only to the direction and control of the Commission.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission may appoint such staff as may be necessary for the proper discharge of its functions under this Act, and upon such terms and conditions of service as the Commission may determine."
+    },
+    {
+     "ref": "(2)",
+     "text": "The staff appointed under subsection (1) shall serve on such terms and conditions as the Commission, in consultation with the Salaries and Remuneration Commission may determine."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Government may, upon request by the Commission, second to the Commission such number of public officers as may be necessary for the proper performance of the functions of the Commission."
+    },
+    {
+     "ref": "(4)",
+     "text": "A public officer seconded to the Commission shall, during the period of secondment, be deemed to be an officer of the Commission and shall be subject only to the direction and control of the Commission."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "The common seal of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "(1) The common seal of the Commission shall be kept in such custody as the Commission shall direct and shall not be used except on the order of the Commission.\n(2) The common seal of the Commission when affixed to a document and duly authenticated shall be judicially and officially noticed and, unless the contrary is proved, any necessary order or authorization of the Commission under this section shall be presumed to have been duly given.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The common seal of the Commission shall be kept in such custody as the Commission shall direct and shall not be used except on the order of the Commission."
+    },
+    {
+     "ref": "(2)",
+     "text": "The common seal of the Commission when affixed to a document and duly authenticated shall be judicially and officially noticed and, unless the contrary is proved, any necessary order or authorization of the Commission under this section shall be presumed to have been duly given."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Protection from personal liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "No matter or thing done by a member of the Commission or any officer, employee or agent of the Commission shall, if the matter or thing is done in good faith while executing the functions, powers or duties of the Commission, render the member, officer, employee or agent personally liable for any action, claim or demand whatsoever.",
+   "clauses": []
+  },
+  "26": {
+   "num": "26",
+   "title": "General powers of Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "In addition to the powers conferred in Article 252 of the Constitution, the Commission shall have power to —\n  (a) issue summons as it deems necessary for the fulfilment of its mandate;\n  (b) require that statements be given under oath or affirmation and to administer such oath or affirmation;\n  (c) adjudicate on matters relating to equality and freedom from discrimination;\n  (d) obtain, by any lawful means, any information it considers relevant, including requisition of reports, records, documents and any information from any person, including governmental authorities, and to compel the production of such information for the proper discharge of its functions;\n  (e) by order of the court, enter upon any establishment or premises, and to enter upon any land or premises for any purpose material to the fulfillment of the mandate of the Commission and in particular, for the purpose of obtaining information, inspecting any property or taking copies of any documents, and for safeguarding any such property or document;\n  (f) interview any person or group of persons;\n  (g) subject to adequate provision being made to meet his expenses for the purpose, call upon any person to meet with the Commission or its staff, or to attend a session or hearing of the Commission, and to compel the attendance of any person who fails to respond to a request of the Commission to appear and to answer questions relevant to the subject matter of the session or hearing;\n  (h) conduct audits of any public or private institution to establish the level of compliance with the Constitution with regard to integrating the principle of equality and equity in its operations; and\n  (i) require any public or private institution to provide any special report on matters relating to the institution’s implementation of the principle of equality and equity including gender equity.",
+   "clauses": []
+  },
+  "27": {
+   "num": "27",
+   "title": "Powers of a court",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND STATUS OF COMMISSION",
+   "text": "In the performance of its functions under this Act, the Commission shall have the powers of a court to—\n  (a) issue summonses or other orders requiring the attendance of any person before the Commission and the production of any document or record relevant to any investigation by the Commission;\n  (b) question any person in respect of any subject matter under investigation before the Commission; and\n  (c) require any person to disclose any information within such person’s knowledge relevant to any investigation by the Commission.",
+   "clauses": []
+  },
+  "28": {
+   "num": "28",
+   "title": "Powers relating to investigations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "INVESTIGATIONS BY THE COMMISSION",
+   "text": "(1) The Commission may, for the purpose of conducting any investigation pertaining to an inquiry, employ the services of any public officer or investigation agency of the Government at the expense of the Commission.\n(2) For the purpose of investigating any matter pertaining to an inquiry, a public officer or agency whose services are employed under subsection (1) may, subject to the direction and control of the Commission—\n  (a) summon and enforce the attendance of any person for examination;\n  (b) require the discovery and production of any document; and\n  (c) subject to the Constitution and any written law requisition any public record or copy thereof from any public officer.\n(3) The provisions of section 40 shall apply in relation to any statement made by a person before any public officer or agency whose services are employed under subsection (1) as they apply in relation to any statement made by a person in the course of giving evidence before the Commission.\n(4) The public officer or agency whose services are employed under subsection (1) shall investigate any matter pertaining to the inquiry and submit a report thereon to the Commission in that behalf.\n(5) The Commission shall satisfy itself on the correctness of the facts stated and the conclusion, if any, arrived at in the report submitted to it under subsection (4) and for that purpose, the Commission may make such inquiry (including the examination of any person or persons who conducts or assists in the investigation) as it deems fit.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission may, for the purpose of conducting any investigation pertaining to an inquiry, employ the services of any public officer or investigation agency of the Government at the expense of the Commission."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purpose of investigating any matter pertaining to an inquiry, a public officer or agency whose services are employed under subsection (1) may, subject to the direction and control of the Commission—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The provisions of section 40 shall apply in relation to any statement made by a person before any public officer or agency whose services are employed under subsection (1) as they apply in relation to any statement made by a person in the course of giving evidence before the Commission."
+    },
+    {
+     "ref": "(4)",
+     "text": "The public officer or agency whose services are employed under subsection (1) shall investigate any matter pertaining to the inquiry and submit a report thereon to the Commission in that behalf."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Commission shall satisfy itself on the correctness of the facts stated and the conclusion, if any, arrived at in the report submitted to it under subsection (4) and for that purpose, the Commission may make such inquiry (including the examination of any person or persons who conducts or assists in the investigation) as it deems fit."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Jurisdiction in investigations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "INVESTIGATIONS BY THE COMMISSION",
+   "text": "(1) The Commission shall investigate any complaint, or on its own initiative, investigate any matter relating to equality and freedom from discrimination in—\n  (a) relation to any person, (b) a public office or a private institution; or (c) any other body or agency of the State.\n(2) The Commission shall endeavor to resolve any matter brought before it by conciliation, mediation or negotiation.\n(3) If the matter referred to under subsection (2) cannot be resolved by conciliation, mediation or negotiation and the Commission determines that there is discrimination carried out unjustly or unreasonably, the Commission shall make such recommendations as it deems fit.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission shall investigate any complaint, or on its own initiative, investigate any matter relating to equality and freedom from discrimination in— (a) relation to any person, (b) a public office or a private institution; or (c) any other body or agency of the State."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Commission shall endeavor to resolve any matter brought before it by conciliation, mediation or negotiation."
+    },
+    {
+     "ref": "(3)",
+     "text": "If the matter referred to under subsection (2) cannot be resolved by conciliation, mediation or negotiation and the Commission determines that there is discrimination carried out unjustly or unreasonably, the Commission shall make such recommendations as it deems fit."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Limitation of jurisdiction",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "INVESTIGATIONS BY THE COMMISSION",
+   "text": "The Commission shall not investigate—\n  (a) a matter pending before any court or judicial tribunal;\n  (b) a criminal offence;\n  (c) a matter relating to relations between the State and any foreign state or international organization recognized as such under any international law;\n  (d) anything in respect of which there is a right of appeal or other legal remedy unless, in the opinion of the Commission, it is not reasonable to expect that right of appeal or other legal remedy to be resorted to; or (e) any matter for the time being under investigation by any other person or Commission established under the Constitution or any other written law.",
+   "clauses": []
+  },
+  "31": {
+   "num": "31",
+   "title": "Power not limited by other provisions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "INVESTIGATIONS BY THE COMMISSION",
+   "text": "The Commission may investigate or carry out an inquiry into any matter despite a provision in any written law to the effect that the action is final or cannot be appealed, challenged, reviewed, questioned or called in question.",
+   "clauses": []
+  },
+  "32": {
+   "num": "32",
+   "title": "Complaints",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "INVESTIGATIONS BY THE COMMISSION",
+   "text": "(1) A complaint to the Commission may only be made by the person aggrieved by the matter complained of or on his behalf as specified under subsection (2).\n(2) A complaint may be made on behalf of an aggrieved person—\n  (a) if the aggrieved person is dead or otherwise not able to act for himself or herself, by a member of his or her family or other person suitable to represent the aggrieved person; or (b) by a member of the National Assembly with the consent of the aggrieved person or other person who, under paragraph (a), is entitled to make the complaint on behalf of the aggrieved person.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A complaint to the Commission may only be made by the person aggrieved by the matter complained of or on his behalf as specified under subsection (2)."
+    },
+    {
+     "ref": "(2)",
+     "text": "A complaint may be made on behalf of an aggrieved person— (a) if the aggrieved person is dead or otherwise not able to act for himself or herself, by a member of his or her family or other person suitable to represent the aggrieved person; or (b) by a member of the National Assembly with the consent of the aggrieved person or other person who, under paragraph (a), is entitled to make the complaint on behalf of the aggrieved person."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Form of complaint",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "INVESTIGATIONS BY THE COMMISSION",
+   "text": "(1) A person wishing to lodge a complaint alleging discrimination may do so orally or in writing addressed to the secretary or such other person as may be duly authorised by the Commission for that purpose.\n(2) Where a complaint under subsection (1) is made orally, the Commission shall cause the complaint to be recorded in writing.\n(3) A complaint under subsection (1) shall be in such form and contain such particulars as the Commission may prescribe.\n(4) Upon receipt of a complaint under subsection (1), the Commission may—\n  (a) call for information or a report regarding such complaint from any person within such reasonable time as may be specified by the Commission; and (b) without prejudice to paragraph (a), initiate such inquiry as it considers necessary, having regard to the nature of the complaint.\n(5) If the information or report called for under subsection (4)(a) is not received within the time stipulated by the Commission, the Commission may proceed to inquire into the complaint without such information or report.\n(6) If on receipt of the information or report the Commission is satisfied either that no further action is required or that the required action has been initiated by a State organ or other body responsible for the matters complained of, the Commission shall, in writing, inform the complainant accordingly and take no further action.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person wishing to lodge a complaint alleging discrimination may do so orally or in writing addressed to the secretary or such other person as may be duly authorised by the Commission for that purpose."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a complaint under subsection (1) is made orally, the Commission shall cause the complaint to be recorded in writing."
+    },
+    {
+     "ref": "(3)",
+     "text": "A complaint under subsection (1) shall be in such form and contain such particulars as the Commission may prescribe."
+    },
+    {
+     "ref": "(4)",
+     "text": "Upon receipt of a complaint under subsection (1), the Commission may— (a) call for information or a report regarding such complaint from any person within such reasonable time as may be specified by the Commission; and (b) without prejudice to paragraph (a), initiate such inquiry as it considers necessary, having regard to the nature of the complaint."
+    },
+    {
+     "ref": "(5)",
+     "text": "If the information or report called for under subsection (4)(a) is not received within the time stipulated by the Commission, the Commission may proceed to inquire into the complaint without such information or report."
+    },
+    {
+     "ref": "(6)",
+     "text": "If on receipt of the information or report the Commission is satisfied either that no further action is required or that the required action has been initiated by a State organ or other body responsible for the matters complained of, the Commission shall, in writing, inform the complainant accordingly and take no further action."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Discretion not to investigate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "INVESTIGATIONS BY THE COMMISSION",
+   "text": "The Commission may decline to investigate a complaint if the Commission considers that—\n  (a) there are in existence adequate remedies under any written law or administrative practice; or (b) the complaint is trivial, frivolous, vexatious or is not made in good faith.",
+   "clauses": []
+  },
+  "35": {
+   "num": "35",
+   "title": "Notice if complaint not investigated",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "INVESTIGATIONS BY THE COMMISSION",
+   "text": "If the Commission decides not to investigate a complaint or to discontinue the investigation of a complaint, the Commission shall inform the complainant in writing of that decision and the reasons for the decision as soon as reasonably practicable.",
+   "clauses": []
+  },
+  "36": {
+   "num": "36",
+   "title": "Representations if adverse findings, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "INVESTIGATIONS BY THE COMMISSION",
+   "text": "The Commission shall give any person, State organ, public office or organization against whom an adverse finding or recommendation is made, an opportunity to make representations concerning the finding or recommendation before the Commission includes the finding in its report.",
+   "clauses": []
+  },
+  "37": {
+   "num": "37",
+   "title": "Notice of investigation to organization",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "INVESTIGATIONS BY THE COMMISSION",
+   "text": "Before commencing an investigation under this Act, the Commission shall give notice of the intended investigation to the administrative head of the State organ, public office or organization to which the investigation relates.",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "Hearings of Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "INVESTIGATIONS BY THE COMMISSION",
+   "text": "The hearings of the Commission during an inquiry may be open to the public.",
+   "clauses": []
+  },
+  "39": {
+   "num": "39",
+   "title": "Persons likely to be prejudiced or affected to be heard",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "INVESTIGATIONS BY THE COMMISSION",
+   "text": "(1) Subject to subsection (2), if at any stage of an inquiry the Commission—\n  (a) considers it necessary to inquire into the conduct of any person; or\n  (b) is of the opinion that the reputation of any person is likely to be prejudiced by the inquiry, it shall give that person an opportunity to appear before the Commission by himself or by an advocate to give evidence in his own defence.\n(2) This section shall not apply where the credibility of a witness is being impeached.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2), if at any stage of an inquiry the Commission— (a) considers it necessary to inquire into the conduct of any person; or"
+    },
+    {
+     "ref": "(2)",
+     "text": "This section shall not apply where the credibility of a witness is being impeached."
+    }
+   ]
+  },
+  "40": {
+   "num": "40",
+   "title": "Statements made by persons to the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "INVESTIGATIONS BY THE COMMISSION",
+   "text": "No statement made by a person in the course of giving evidence before the Commission shall subject such person to any civil or criminal proceedings except for giving false evidence by such statement.",
+   "clauses": []
+  },
+  "41": {
+   "num": "41",
+   "title": "Action after inquiry",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "INVESTIGATIONS BY THE COMMISSION",
+   "text": "The Commission may, upon inquiry into a complaint under this Act, take any of the following steps—\n  (a) where the inquiry into a complaint of discrimination discloses a criminal offence, refer the matter to the Director of Public Prosecutions or any other relevant authority or undertake such other action as the Commission may deem fit against the concerned person or persons;\n  (b) recommend to the complainant a course of other judicial redress which does not warrant an application under Article 22 of the Constitution;\n  (c) recommend to the complainant and to the relevant governmental agency or other body concerned in the alleged discrimination, other appropriate methods of settling the complaint or to obtain relief;\n  (d) provide a copy of the inquiry report to all interested parties; and (e) submit summonses as it deems necessary in fulfillment of its mandate.",
+   "clauses": []
+  },
+  "42": {
+   "num": "42",
+   "title": "Report to organization",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REPORT AND RECOMMENDATIONS",
+   "text": "(1) After concluding an investigation or an inquiry under this Act, the Commission shall make a report to the State organ, public office or organization to which the investigation relates.\n(2) The report shall include—\n  (a) the findings of the investigation and any recommendations made by the Commission;\n  (b) the action the Commission considers should be taken and the reasons for the action; and (c) any recommendation the Commission considers appropriate.\n(3) The Commission may require the State organ, public office or organization that was the subject of the investigation to submit a report to the Commission within a specified period on the steps, if any, taken to implement the recommendations of the Commission.\n(4) If the recommendations of the Commission are not implemented within the specified time, the Commission may submit the report to Parliament as the Commission thinks fit.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "After concluding an investigation or an inquiry under this Act, the Commission shall make a report to the State organ, public office or organization to which the investigation relates."
+    },
+    {
+     "ref": "(2)",
+     "text": "The report shall include— (a) the findings of the investigation and any recommendations made by the Commission; (b) the action the Commission considers should be taken and the reasons for the action; and (c) any recommendation the Commission considers appropriate."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Commission may require the State organ, public office or organization that was the subject of the investigation to submit a report to the Commission within a specified period on the steps, if any, taken to implement the recommendations of the Commission."
+    },
+    {
+     "ref": "(4)",
+     "text": "If the recommendations of the Commission are not implemented within the specified time, the Commission may submit the report to Parliament as the Commission thinks fit."
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Report to the complainant",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REPORT AND RECOMMENDATIONS",
+   "text": "The Commission shall inform the complainant on the results of the investigation in writing.",
+   "clauses": []
+  },
+  "44": {
+   "num": "44",
+   "title": "Report of misconduct to appropriate authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REPORT AND RECOMMENDATIONS",
+   "text": "If, after an investigation, the Commission is of the opinion that there is evidence that a person, an officer or employee of the State organ, public office or organization which was investigated under this Act is guilty of misconduct, the Commission shall report the matter to the appropriate authority.",
+   "clauses": []
+  },
+  "45": {
+   "num": "45",
+   "title": "Funds of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The funds of the Commission shall consist of—\n  (a) monies allocated by Parliament for the purposes of the Commission;\n  (b) such monies or assets as may accrue to the Commission in the course of the exercise of its powers or in the performance of its functions under this Act; and (c) all monies from any other source provided, donated or lent to the Commission.",
+   "clauses": []
+  },
+  "46": {
+   "num": "46",
+   "title": "Financial year",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The financial year of the Commission shall be the period of twelve months ending on the thirtieth of June in each year.",
+   "clauses": []
+  },
+  "47": {
+   "num": "47",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) Before the commencement of each financial year, the Commission shall cause to be prepared estimates of the revenue and expenditure of the Commission for that year.\n(2) The annual estimates shall make provision for all the estimated expenditure of the Commission for the financial year concerned and, in particular, shall provide for the—\n  (a) payment of the salaries, allowances and other charges in respect of the staff of the Commission;\n  (b) payment of pensions, gratuities and other charges and in respect of benefits which are payable out of the funds of the Commission;\n  (c) maintenance of the buildings and grounds of the Commission;\n  (d) funding of training, research and development of activities of the Commission;\n  (e) creation of such funds to meet future or contingent liabilities in respect of benefits, insurance or replacement of buildings or installations, equipment and in respect of such other matters as the Commission may think fit.\n(3) The annual estimates shall be approved by the Commission before the commencement of the financial year to which they relate and shall be submitted to the Cabinet Secretary for tabling in National Assembly.\n(4) No expenditure shall be incurred for the purposes of the Commission except in accordance with the annual estimates approved under subsection (3).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Before the commencement of each financial year, the Commission shall cause to be prepared estimates of the revenue and expenditure of the Commission for that year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall make provision for all the estimated expenditure of the Commission for the financial year concerned and, in particular, shall provide for the— (a) payment of the salaries, allowances and other charges in respect of the staff of the Commission; (b) payment of pensions, gratuities and other charges and in respect of benefits which are payable out of the funds of the Commission; (c) maintenance of the buildings and grounds of the Commission; (d) funding of training, research and development of activities of the Commission; (e) creation of such funds to meet future or contingent liabilities in respect of benefits, insurance or replacement of buildings or installations, equipment and in respect of such other matters as the Commission may think fit."
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual estimates shall be approved by the Commission before the commencement of the financial year to which they relate and shall be submitted to the Cabinet Secretary for tabling in National Assembly."
+    },
+    {
+     "ref": "(4)",
+     "text": "No expenditure shall be incurred for the purposes of the Commission except in accordance with the annual estimates approved under subsection (3)."
+    }
+   ]
+  },
+  "48": {
+   "num": "48",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Commission shall cause to be kept all proper books and records of account of the income, expenditure, assets and liabilities of the Commission.\n(2) Within a period of three months after the end of each financial year, the Commission shall submit to the Auditor-General the accounts of the Commission in respect of that year together with a—\n  (a) statement of the income and expenditure of the Commission during that year; and\n  (b) statement of the assets and liabilities of the Commission on the last day of that financial year.\n(3) The annual accounts of the Commission shall be prepared, audited and reported upon in accordance with the provisions of Articles 226 and 229 of the Constitution and the Public Audit Act, 2003 (No. 12 of 2003).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission shall cause to be kept all proper books and records of account of the income, expenditure, assets and liabilities of the Commission."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within a period of three months after the end of each financial year, the Commission shall submit to the Auditor-General the accounts of the Commission in respect of that year together with a—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual accounts of the Commission shall be prepared, audited and reported upon in accordance with the provisions of Articles 226 and 229 of the Constitution and the Public Audit Act, 2003 (No. 12 of 2003)."
+    }
+   ]
+  },
+  "49": {
+   "num": "49",
+   "title": "Bank accounts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The Commission shall open and maintain such bank accounts as shall be necessary for the performance of its functions.",
+   "clauses": []
+  },
+  "50": {
+   "num": "50",
+   "title": "Management of information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Commission and the staff of the Commission shall maintain confidence in respect of all matters that come to their knowledge in the exercise of their duties.\n(2) Subject to the provisions of Article 35 of the Constitution, the Commission and the staff of the Commission shall not be called to give evidence in respect of any matter that comes to their knowledge in the exercise of their duties.\n(3) Notwithstanding subsection (1), the Commission may disclose in any report made by the Commission under this Act, any matter that in the opinion of the Commission may be disclosed in order to establish grounds for the Commission’s findings and recommendations of the Commission.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commission and the staff of the Commission shall maintain confidence in respect of all matters that come to their knowledge in the exercise of their duties."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to the provisions of Article 35 of the Constitution, the Commission and the staff of the Commission shall not be called to give evidence in respect of any matter that comes to their knowledge in the exercise of their duties."
+    },
+    {
+     "ref": "(3)",
+     "text": "Notwithstanding subsection (1), the Commission may disclose in any report made by the Commission under this Act, any matter that in the opinion of the Commission may be disclosed in order to establish grounds for the Commission’s findings and recommendations of the Commission."
+    }
+   ]
+  },
+  "51": {
+   "num": "51",
+   "title": "Correspondence from persons in custody, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Every person in charge of a prison, remand or mental institution where a person is held in custody, or of any institution where a person is a patient or inmate shall ensure, notwithstanding the provisions of any other written law, that any correspondence from such person to the Commission is transmitted in confidence and any written communication in that regard shall remain sealed.",
+   "clauses": []
+  },
+  "52": {
+   "num": "52",
+   "title": "Offences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "A person who—\n  (a) without justification or lawful excuse, obstructs hinders, threatens the Commission or a member of staff acting under this Act;\n  (b) submits false or misleading information;\n  (c) fails to honour summons; or\n  (d) misrepresents to or knowingly misleads the Commission or a member of staff of the Commission acting under this Act, commits an offence and is liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding two years or to both.",
+   "clauses": []
+  },
+  "53": {
+   "num": "53",
+   "title": "Report of the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The report of the Commission under Article 254 of the Constitution shall, in respect of the financial year to which it relates, contain—\n  (a) the financial statements of the Commission;\n  (b) a description of the activities of the Commission;\n  (c) recommendations on specific actions to be taken in furtherance of the findings of the Commission;\n  (d) recommendations on legal and administrative measures to address specific concerns identified by the Commission; and (e) any other information relating to its functions that the Commission considers relevant.\n(1A) The Commission shall submit the annual report in subsection (1) to the President and Parliament within six months after the end of the year to which it relates.\n(2) The Commission shall publish the report in the Gazette and in at least one newspaper with national circulation.\n(3) The President, the National Assembly or the Senate may at any time require the Commission to submit a report on a particular issue. [Act No. 19 of 2023, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The report of the Commission under Article 254 of the Constitution shall, in respect of the financial year to which it relates, contain— (a) the financial statements of the Commission; (b) a description of the activities of the Commission; (c) recommendations on specific actions to be taken in furtherance of the findings of the Commission; (d) recommendations on legal and administrative measures to address specific concerns identified by the Commission; and (e) any other information relating to its functions that the Commission considers relevant."
+    },
+    {
+     "ref": "(1A)",
+     "text": "The Commission shall submit the annual report in subsection (1) to the President and Parliament within six months after the end of the year to which it relates."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Commission shall publish the report in the Gazette and in at least one newspaper with national circulation."
+    },
+    {
+     "ref": "(3)",
+     "text": "The President, the National Assembly or the Senate may at any time require the Commission to submit a report on a particular issue. [Act No. 19 of 2023, Sch.]"
+    }
+   ]
+  },
+  "54": {
+   "num": "54",
+   "title": "Report to Parliament on the implementation of report",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary shall, prepare an annual report on the implementation of human rights and shall submit the report to Parliament in accordance with Article 153 (4) (b) of the Constitution.\n(2) Where any of the recommendations contained in a report submitted under subsection (1) have not been implemented, the Cabinet Secretary shall report to the National Assembly the reasons therefor.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary shall, prepare an annual report on the implementation of human rights and shall submit the report to Parliament in accordance with Article 153 (4) (b) of the Constitution."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where any of the recommendations contained in a report submitted under subsection (1) have not been implemented, the Cabinet Secretary shall report to the National Assembly the reasons therefor."
+    }
+   ]
+  },
+  "55": {
+   "num": "55",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Commission may make regulations for the better carrying into effect of the provisions of this Act.",
+   "clauses": []
+  },
+  "56": {
+   "num": "56",
+   "title": "Transfer of complaints to the Commission",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "SAVINGS AND TRANSITIONAL PROVISIONS",
+   "text": "All complaints, which immediately before the commencement of this Act were made to the Kenya National Human Rights and Equality Commission and the former National Commission on Gender and Development shall at the commencement of this Act, be deemed to have been made to the Commission.",
+   "clauses": []
+  },
+  "57": {
+   "num": "57",
+   "title": "Contracts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "SAVINGS AND TRANSITIONAL PROVISIONS",
+   "text": "The Commission shall be bound in all contracts, including contracts of service, if any, subsisting at the commencement of this Act and to which the Kenya National Human Rights and Equality Commission was party.",
+   "clauses": []
+  },
+  "58": {
+   "num": "58",
+   "title": "Savings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "SAVINGS AND TRANSITIONAL PROVISIONS",
+   "text": "(1) Notwithstanding section 60—\n  (a) any order or notice made or issued by the Kenya National Human Rights and Equality Commission and the former Kenya National Commission on Human Rights shall be deemed to have been made or issued under this Act;\n  (b) any function carried out by the Kenya National Human Rights and Equality Commission and the former Kenya National Commission on Human Rights during the transition period shall be deemed to have been carried out under this Act;\n  (c) all assets and liabilities which immediately before the commencement of this Act were vested in the Kenya National Human Rights and Equality Commission shall vest in the Commission;\n  (d) all rights, powers and duties, whether arising under any written law or otherwise which immediately before the coming into operation of this Act were vested in the Kenya National Human Rights and Equality Commission shall be transferred to, vested, imposed on, or be enforceable by or against the Commission;\n  (e) all actions, suits or legal proceedings by or against the Kenya National Human Rights and Equality Commission shall be carried out on, prosecuted by or against the Commission and no such suit, action or legal proceedings shall abate or be affected by the coming into operation of this Act.\n(2) Notwithstanding section 9, the persons who were members of the former National Commission on Gender and Development who became members of the Kenya National Human Rights and Equality Commission pursuant to section 26 of the Sixth Schedule to the Constitution shall become members of the Commission upon the commencement of this Act for their unexpired term.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Notwithstanding section 60—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding section 9, the persons who were members of the former National Commission on Gender and Development who became members of the Kenya National Human Rights and Equality Commission pursuant to section 26 of the Sixth Schedule to the Constitution shall become members of the Commission upon the commencement of this Act for their unexpired term."
+    }
+   ]
+  },
+  "59": {
+   "num": "59",
+   "title": "Repeal of Act No. 13 of 2003",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "SAVINGS AND TRANSITIONAL PROVISIONS",
+   "text": "The National Commission on Gender and Development Act, 2003 (No. 13 of 2003), is repealed.",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE",
+   "subtitle": "OATH/AFFIRMATION OF THE OFFICE OF CHAIRPERSON/A MEMBER/SECRETARY",
+   "text": "[section 12]\nI ........................................................ having been appointed (the chairperson/member of/Secretary to) the National Gender and Equality Commission, do solemnly (swear/ declare and affirm) that I will at all times obey, respect and uphold the Constitution of Kenya and all other laws of the Republic; that I will faithfully and fully, impartially and to the best of my ability, discharge the trust and perform the functions and exercise the powers devolving upon me by virtue of this appointment without fear, favour, bias, affection, ill-will or prejudice. (SO HELP ME GOD).\nSworn/Declared by the said ...................................................\nBefore me this ................ Day .................. of ......................\n..............................................\nChief Justice"
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE",
+   "subtitle": "MEETINGS AND PROCEDURE OF THE COMMISSION",
+   "text": "[section 20]\n1. Meetings\n(1) The Commission shall decide when and where it meets and the meetings shall be convened by the chairperson.\n(2) The Commission shall have at least four meetings in every financial year and not more than four months shall elapse between one meeting and the next meeting.\n(3) Unless three quarters of the members otherwise agree, at least seven days’ notice in writing of a meeting shall be given to every member.\n(4) A meeting shall be presided over by the chairperson or in his or her absence, by the vicechairperson.\n(5) The members of the Commission shall elect a vice-chairperson from among themselves—\n  (a) at the first sitting of the Commission; and\n  (b) whenever it is necessary to fill the vacancy in the office of the vice-chairperson.\n(6) The chairperson and vice-chairperson shall not be of the same gender.\n(7) The Commission may invite any person to attend any of its meetings and to participate in its deliberations, but such person shall not have a vote in any decision of the Commission.\n2. Conflict of interest\n(1) If any person has a personal or fiduciary interest in any matter before the Commission, and is present at a meeting of the Commission or any committee at which any matter is the subject of consideration, that person shall as soon as is practicable after the commencement of the meeting, declare such interest and shall not take part in any consideration or discussion of, or vote on any question touching such matter.\n(2) A disclosure of interest made under subparagraph (1) shall be recorded in the minutes of the meeting at which it is made.\n(3) A person who contravenes subparagraph (1) commits an offence and is liable, upon conviction, to a fine not exceeding three million shillings, or to imprisonment for a term not exceeding seven years, or to both such fine and imprisonment.\n(4) No member or staff of the Commission shall transact any business or trade with the Commission.\n3. Quorum\n(1) Subject to subparagraph (2), the quorum of the meeting shall not be less than half of the appointed members.\n(2) Where there is a vacancy in the Commission, the quorum of the meeting shall not be less than three appointed members.\n4. Voting A question before the Commission shall be decided with a supporting vote of at least two-thirds of the members present.\n5. Rules of procedure and minutes The Commission shall—\n  (a) determine rules of procedure for the conduct of its business; and (b) keep minutes of its proceedings and decisions."
+  }
+ ],
+ "spent": {}
+}

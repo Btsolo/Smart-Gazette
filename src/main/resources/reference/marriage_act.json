@@ -1,0 +1,1833 @@
+{
+ "title": "Marriage Act",
+ "citation": "Cap. 150",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2014/4/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "MARRIAGE ACT CAP. 150 Published in Kenya Gazette Vol. CXVI—No. 59 on 9 May 2014 Assented to on 29 April 2014 Commenced on 20 May 2014\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to amend and consolidate the various laws relating to marriage and divorce and for connected purposes Dissolution of a Christian marriage",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "GENERAL PROVISIONS",
+   "provisions": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "CHRISTIAN MARRIAGES",
+   "provisions": [
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "CIVIL MARRIAGE",
+   "provisions": [
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "MARRIAGE UNDER CUSTOMARY LAW",
+   "provisions": [
+    "43",
+    "44",
+    "45"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "HINDU MARRIAGE",
+   "provisions": [
+    "46",
+    "47"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "MARRIAGE UNDER ISLAMIC LAW",
+   "provisions": [
+    "48",
+    "49"
+   ]
+  },
+  {
+   "id": "part_VIII",
+   "num": "VIII",
+   "title": "APPOINTMENT OF REGISTRAR OF MARRIAGES AND MARRIAGE OFFICERS",
+   "provisions": [
+    "50",
+    "51",
+    "52"
+   ]
+  },
+  {
+   "id": "part_IX",
+   "num": "IX",
+   "title": "REGISTRATION OF MARRIAGES",
+   "provisions": [
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63"
+   ]
+  },
+  {
+   "id": "part_X",
+   "num": "X",
+   "title": "MATRIMONIAL DISPUTES AND MATRIMONIAL PROCEEDINGS",
+   "provisions": [
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75"
+   ]
+  },
+  {
+   "id": "part_XI",
+   "num": "XI",
+   "title": "OTHER RIGHTS OF ACTION",
+   "provisions": [
+    "76"
+   ]
+  },
+  {
+   "id": "part_XII",
+   "num": "XII",
+   "title": "MAINTENANCE OF SPOUSE AND OTHER RELIEFS",
+   "provisions": [
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85"
+   ]
+  },
+  {
+   "id": "part_XIII",
+   "num": "XIII",
+   "title": "OFFENCES AND PENALTIES",
+   "provisions": [
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92"
+   ]
+  },
+  {
+   "id": "part_XIV",
+   "num": "XIV",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Marriage Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— \"child\" means an individual who has not attained the age of eighteen years; \"cohabit\" means to live in an arrangement in which an unmarried couple lives together in a long-term relationship that resembles a marriage; \"conciliatory body\" means—\n  (a) a body established under this Act for the purpose of reconciling parties to a marriage;\n  (b) a mechanism of conciliation recognised under customary or Islamic law;\n  (c) any other body designated as such by the Cabinet Secretary by notice in the Gazette; or (d) any other body established by any written law; \"court\" means a resident magistrate’s court established under section 3 of the Magistrates’ Courts Act (Cap. 10); \"dowry\" means any token of stock, goods, moneys or other property given or promised in consideration of an intended marriage; \"faith\" means an association of a religious nature and, in the case of any system of religious beliefs which is divided into denominations, sects or schools, any such denomination, sect or school; \"Hindu\" means a person who is—\n  (a) a Hindu by religion in any form (including a Virashaiva, a Lingayat and a follower of the Brahmo, Prarthana or Arya Samaj);\n  (b) a Buddhist of Indian origin; or\n  (c) a Jain or a Sikh by religion; \"matrimonial proceedings\" means proceedings instituted under Part IX and include proceedings for the payment of maintenance or for custody of children instituted independently of a petition for a declaratory decree or for annulment, separation or divorce; \"monogamous marriage\" means a marriage whose character has been converted to a monogamous marriage by a declaration made under section 8, including an originally polygamous or potentially polygamous marriage; \"party\", in relation to a marriage, an intended marriage or a purported marriage, means a spouse in a marriage, or the intended spouse to a marriage or purported spouse in a marriage; \"polygamy\" means the state or practice of a man having more than one wife simultaneously; \"prohibited marriage relationship\" has the meaning assigned to it in section 10; \"Registrar\" means a person appointed under section 50 of this Act; \"spouse\" means a husband or a wife; and \"witness\" means to be present at, to observe, and to attest to the celebration of a marriage by signing ones name to or putting ones mark on a marriage certificate.",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Meaning of marriage",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) Marriage is the voluntary union of a man and a woman whether in a monogamous or polygamous union and registered in accordance with this Act.\n(2) Parties to a marriage have equal rights and obligations at the time of the marriage, during the marriage and at the dissolution of the marriage.\n(3) All marriages registered under this Act have the same legal status. (4) Subject to subsection (2), the parties to an Islamic marriage shall only have the rights granted under Islamic law.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Marriage is the voluntary union of a man and a woman whether in a monogamous or polygamous union and registered in accordance with this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Parties to a marriage have equal rights and obligations at the time of the marriage, during the marriage and at the dissolution of the marriage."
+    },
+    {
+     "ref": "(3)",
+     "text": "All marriages registered under this Act have the same legal status. (4) Subject to subsection (2), the parties to an Islamic marriage shall only have the rights granted under Islamic law."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Minimum age",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "A person shall not marry unless that person has attained the age of eighteen years.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Witnesses to a marriage",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) A marriage conducted under this Act shall be witnessed by two competent witnesses. (2) A person is not competent to act as a witness if that person is—\n  (a) below the age of eighteen years;\n  (b) otherwise not competent to enter into a contract because of—\n  (i) mental disability rendering that person incapable of understanding what the parties are doing; or\n  (ii) intoxication;\n  (c) unable to understand, whether through an interpreter or otherwise, the language in which the ceremony is held.\n(3) The person who celebrates a marriage shall not be a witness to the marriage for the purposes of this section.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A marriage conducted under this Act shall be witnessed by two competent witnesses. (2) A person is not competent to act as a witness if that person is—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The person who celebrates a marriage shall not be a witness to the marriage for the purposes of this section."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Kinds of marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) A marriage may be registered under this Act if it is celebrated—\n  (a) in accordance with the rites of a Christian denomination;\n  (b) as a civil marriage;\n  (c) in accordance with the customary rites relating to any of the communities in Kenya;\n  (d) in accordance with the Hindu rites and ceremonies; and (e) in accordance with Islamic law.\n(2) A Christian, Hindu or civil marriage is monogamous. (3) A marriage celebrated under customary law or Islamic law is presumed to be polygamous or potentially polygamous.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A marriage may be registered under this Act if it is celebrated— (a) in accordance with the rites of a Christian denomination; (b) as a civil marriage; (c) in accordance with the customary rites relating to any of the communities in Kenya; (d) in accordance with the Hindu rites and ceremonies; and (e) in accordance with Islamic law."
+    },
+    {
+     "ref": "(2)",
+     "text": "A Christian, Hindu or civil marriage is monogamous. (3) A marriage celebrated under customary law or Islamic law is presumed to be polygamous or potentially polygamous."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Declaration of marriage registration areas",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "The Cabinet Secretary may, by notice in the Gazette, declare any area of Kenya to be a registration area for the purposes of this Act.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Conversion of marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) A marriage may be converted from being a potentially polygamous marriage to a monogamous marriage if each spouse voluntarily declares the intent to make such a conversion.\n(2) A polygamous marriage may not be converted to a monogamous marriage unless at the time of the conversion the husband has only one wife.\n(3) A declaration under subsection (1) shall be made in the presence of a marriage officer and shall be recorded in writing and signed by each spouse.\n(4) A marriage officer before whom a declaration is made under subsection (3) shall forthwith transmit a copy thereof to the Registrar.\n(5) Where a declaration is made under subsection (1), the Registrar shall take possession of the certificate registering the marriage as potentially polygamous and shall issue a certificate registering the marriage as monogamous.\n(6) The Registrar shall enter the details of converted marriages in the prescribed manner into a register maintained for that purpose.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A marriage may be converted from being a potentially polygamous marriage to a monogamous marriage if each spouse voluntarily declares the intent to make such a conversion."
+    },
+    {
+     "ref": "(2)",
+     "text": "A polygamous marriage may not be converted to a monogamous marriage unless at the time of the conversion the husband has only one wife."
+    },
+    {
+     "ref": "(3)",
+     "text": "A declaration under subsection (1) shall be made in the presence of a marriage officer and shall be recorded in writing and signed by each spouse."
+    },
+    {
+     "ref": "(4)",
+     "text": "A marriage officer before whom a declaration is made under subsection (3) shall forthwith transmit a copy thereof to the Registrar."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where a declaration is made under subsection (1), the Registrar shall take possession of the certificate registering the marriage as potentially polygamous and shall issue a certificate registering the marriage as monogamous."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Registrar shall enter the details of converted marriages in the prescribed manner into a register maintained for that purpose."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Subsisting marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "Subject to section 8, a married person shall not, while—\n  (a) in a monogamous marriage, contract another marriage; or (b) in a polygamous or potentially polygamous marriage, contract another marriage in any monogamous form.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Prohibited marriage relationship",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) A person shall not marry—\n  (a) that person’s grandparent, parent, child, grandchild, sister, brother, cousin, great aunt, great uncle, aunt, uncle, niece, nephew, great niece or great nephew;\n  (b) the grandparent, parent, child or grandchild of that person’s spouse or former spouse;\n  (c) the grandparent, parent, child or grandchild of that person’s former spouse;\n  (d) a person whom that person has adopted or by whom that person has been adopted; or (e) any other person where such marriages is prohibited under customary law.\n(2) For the purposes of this section, a relationship of the half-blood is a bar to marriage. (3) A person who, by this section, is forbidden to marry shall be said to be within a prohibited marriage relationship. (4) The marriage of a person with that person’s cousin does not apply to persons who profess the Islamic faith.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not marry— (a) that person’s grandparent, parent, child, grandchild, sister, brother, cousin, great aunt, great uncle, aunt, uncle, niece, nephew, great niece or great nephew; (b) the grandparent, parent, child or grandchild of that person’s spouse or former spouse; (c) the grandparent, parent, child or grandchild of that person’s former spouse; (d) a person whom that person has adopted or by whom that person has been adopted; or (e) any other person where such marriages is prohibited under customary law."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of this section, a relationship of the half-blood is a bar to marriage. (3) A person who, by this section, is forbidden to marry shall be said to be within a prohibited marriage relationship. (4) The marriage of a person with that person’s cousin does not apply to persons who profess the Islamic faith."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Void marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) A union is not a marriage if at the time of the making of the union—\n  (a) either party is below the minimum age for marriage;\n  (b) the parties are within the prohibited marriage relationship;\n  (c) either party is incompetent to marry by reason of a subsisting marriage;\n  (d) by order made under section 25, the court has directed that the intended marriage is not to be contracted;\n  (e) the consent of either party has not been freely given;\n  (f) either party is absent from the ceremony;\n  (g) both parties knowingly and willfully permit a person who is not authorised to do so to celebrate the union;\n  (h) either party is mistaken about the identity of the other party; or (i) either party knowingly or willfully enters into the marriage for fraudulent purposes.\n(2) Consent is not freely given where the party who purports to give it—\n  (a) is influenced by coercion of fraud;\n  (b) is mistaken as to the nature or purport of the ceremony; or (c) is suffering from any mental condition whether permanent or temporary, or is intoxicated, or is under the influence of drugs, so as not to appreciate the nature or purport of the ceremony.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A union is not a marriage if at the time of the making of the union— (a) either party is below the minimum age for marriage; (b) the parties are within the prohibited marriage relationship; (c) either party is incompetent to marry by reason of a subsisting marriage; (d) by order made under section 25, the court has directed that the intended marriage is not to be contracted; (e) the consent of either party has not been freely given; (f) either party is absent from the ceremony; (g) both parties knowingly and willfully permit a person who is not authorised to do so to celebrate the union; (h) either party is mistaken about the identity of the other party; or (i) either party knowingly or willfully enters into the marriage for fraudulent purposes."
+    },
+    {
+     "ref": "(2)",
+     "text": "Consent is not freely given where the party who purports to give it— (a) is influenced by coercion of fraud; (b) is mistaken as to the nature or purport of the ceremony; or (c) is suffering from any mental condition whether permanent or temporary, or is intoxicated, or is under the influence of drugs, so as not to appreciate the nature or purport of the ceremony."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Voidable marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "Subject to section 11, a marriage is voidable if—\n  (a) at the date of the marriage—\n  (i) either party was and has ever since remained incapable of consummating it;\n  (ii) either party was and has ever since remained subject to recurrent attacks of insanity;\n  (b) there was a failure to give notice of intention to marry under section 25;\n  (c) notice of objection to the intended marriage having been given was not withdrawn or dismissed;\n  (d) the fact that a person officiating the marriage was not lawfully entitled to officiate;\n  (e) there was a failure to register the marriage.",
+   "clauses": []
+  },
+  "13": {
+   "num": "13",
+   "title": "Spouses and the law of tort",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "Despite the provisions of any other written law—\n  (a) a spouse shall not be liable for the torts of the other spouse by reason of being a spouse;\n  (b) spouses have the same liability in tort towards each other as if they were not married; and (c) a spouse shall be entitled to claim, in any action resulting from a negligent act, omission or breach of duty, which causes loss of the companionship of the other, or damages in respect of that loss.",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "Arrangement to live apart",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) The parties to a civil marriage may agree to live apart for one year and any such agreement shall be valid and enforceable, and shall be filed with the court.\n(2) Despite subsection (1), the court may vary or set aside the agreement or any of its provisions if the court is satisfied that since the agreement was made there has been a material change of circumstances.\n(3) A party to a civil marriage may apply to the court to determine their status after the expiry of the one year period from the date of agreement.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The parties to a civil marriage may agree to live apart for one year and any such agreement shall be valid and enforceable, and shall be filed with the court."
+    },
+    {
+     "ref": "(2)",
+     "text": "Despite subsection (1), the court may vary or set aside the agreement or any of its provisions if the court is satisfied that since the agreement was made there has been a material change of circumstances."
+    },
+    {
+     "ref": "(3)",
+     "text": "A party to a civil marriage may apply to the court to determine their status after the expiry of the one year period from the date of agreement."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Rights of widow and widowers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "(1) A widow or widower may re-marry. (2) A widow or a widower may elect not to re-marry.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A widow or widower may re-marry. (2) A widow or a widower may elect not to re-marry."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Duration of marriage",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "A marriage registered under this Act subsists until it is determined by—\n  (a) the death of a spouse;\n  (b) a decree declaring the presumption of the death of a spouse;\n  (c) a decree of annulment;\n  (d) a decree of divorce; or (e) a decree of divorce or annulment obtained in a foreign country and recognized in Kenya under this Act.",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "Christian marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CHRISTIAN MARRIAGES",
+   "text": "This Part applies to a marriage where a party to the marriage professes the Christian religion.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Interpretation of Part",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CHRISTIAN MARRIAGES",
+   "text": "In this Part \"marriage officer\" means a licensed church minister appointed by the registrar under section 50.",
+   "clauses": []
+  },
+  "19": {
+   "num": "19",
+   "title": "Objection to give a notice of intention to marry",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CHRISTIAN MARRIAGES",
+   "text": "(1) A person who knows of an impediment to an intended marriage may give a written notice of objection to the person in charge of a public place of worship where notice of intended marriage has been posted in accordance with section 26.\n(2) A notice of objection shall include the name of the person giving the notice of objection and the person’s relationship with either of the intended parties and shall state the reason for the objection to the intended marriage.\n(3) A person who has given notice of objection may, at any time, withdraw the objection in writing.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who knows of an impediment to an intended marriage may give a written notice of objection to the person in charge of a public place of worship where notice of intended marriage has been posted in accordance with section 26."
+    },
+    {
+     "ref": "(2)",
+     "text": "A notice of objection shall include the name of the person giving the notice of objection and the person’s relationship with either of the intended parties and shall state the reason for the objection to the intended marriage."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who has given notice of objection may, at any time, withdraw the objection in writing."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Obligations of the church minister in relation to objection",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CHRISTIAN MARRIAGES",
+   "text": "(1) Upon receiving a notice of objection, the person in charge of a public place of worship shall hear the objection forthwith and if the person in charge of a public place of worship considers that the objection requires a further hearing, he or she shall postpone the marriage ceremony until such time as the objections will be determined in accordance with the church regulations.\n(2) The person in charge of a public place of worship shall determine an objection within a reasonable period which shall not be more than seven days after hearing the objection.\n(3) Upon determination of an objection, the person in charge of public place of worship shall prepare and submit a report of the process of determination of the objection in the prescribed form to the parties and the Registrar within seven days of determination.\n(4) Any party who is dissatisfied with the decision of the person in charge of a public place of worship may appeal to the court within fourteen days of the decision.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Upon receiving a notice of objection, the person in charge of a public place of worship shall hear the objection forthwith and if the person in charge of a public place of worship considers that the objection requires a further hearing, he or she shall postpone the marriage ceremony until such time as the objections will be determined in accordance with the church regulations."
+    },
+    {
+     "ref": "(2)",
+     "text": "The person in charge of a public place of worship shall determine an objection within a reasonable period which shall not be more than seven days after hearing the objection."
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon determination of an objection, the person in charge of public place of worship shall prepare and submit a report of the process of determination of the objection in the prescribed form to the parties and the Registrar within seven days of determination."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any party who is dissatisfied with the decision of the person in charge of a public place of worship may appeal to the court within fourteen days of the decision."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Signing of the marriage certificate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CHRISTIAN MARRIAGES",
+   "text": "(1) When a marriage has been celebrated in accordance with the provisions of this Part, the person officiating at the marriage ceremony shall—\n  (a) complete and sign a marriage certificate in the prescribed form; and (b) cause it to be signed by the parties and by the witnesses to the marriage.\n(2) The person officiating at the marriage ceremony shall issue—\n  (a) one copy of the marriage certificate to the parties;\n  (b) retain one copy of the marriage certificate; and (c) deliver one copy of the marriage certificate to the Registrar.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "When a marriage has been celebrated in accordance with the provisions of this Part, the person officiating at the marriage ceremony shall— (a) complete and sign a marriage certificate in the prescribed form; and (b) cause it to be signed by the parties and by the witnesses to the marriage."
+    },
+    {
+     "ref": "(2)",
+     "text": "The person officiating at the marriage ceremony shall issue— (a) one copy of the marriage certificate to the parties; (b) retain one copy of the marriage certificate; and (c) deliver one copy of the marriage certificate to the Registrar."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Recognition of foreign marriages as Christian marriages in Kenya",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CHRISTIAN MARRIAGES",
+   "text": "A marriage celebrated outside Kenya otherwise than in accordance with this Part, shall be recognized as a marriage under this Part if—\n  (a) it is contracted in accordance with the law of the country where it is celebrated and is consistent with the requirements of this Part;\n  (b) at the time of the celebration of the marriage, the parties to the marriage had the capacity to marry under the law of the country where the marriage is celebrated; or\n  (c) at the time of the marriage any party to the marriage is domiciled in Kenya, both parties had the capacity to marry under this Act.",
+   "clauses": []
+  },
+  "23": {
+   "num": "23",
+   "title": "Christian marriages at the embassy, high commission or consulate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "CHRISTIAN MARRIAGES",
+   "text": "A marriage celebrated in the embassy, high commission or consulate of a foreign country in Kenya is a Christian marriage under this Part if—\n  (a) it is contracted in accordance with the law relating to Christian marriages of that foreign country;\n  (b) at the time of the marriage, the parties had capacity to marry under the law of that foreign country and under this Act; or (c) either of the parties is at the time of the marriage domiciled in Kenya and both parties had capacity to marry under this Act.",
+   "clauses": []
+  },
+  "24": {
+   "num": "24",
+   "title": "Celebration of civil marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "A marriage under this Part shall be celebrated by the Registrar in the place determined by the Registrar.",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "Notice of intention to marry",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "(1) Where a man and a woman intend to marry under this Part, they shall give to the Registrar and the person in charge of the place where they intend to celebrate the marriage a written notice of not less than twenty-one days and not more than three months of their intention to marry.\n(2) A notice given under this section shall include—\n  (a) the names and ages of the parties to the intended marriage and the places where they ordinarily reside;\n  (b) the names of the parents of the parties, if known and alive, and the places where they ordinarily reside;\n  (c) a declaration that the parties are not within a prohibited relationship;\n  (d) the marital status of each party and, where a party is—\n  (i) divorced, a copy of the relevant decree; or (ii) widowed widow or a widower, a copy of the death certificate; and (e) the date and venue of the marriage ceremony.\n(3) The notice under subsection (1) shall be signed by both parties.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a man and a woman intend to marry under this Part, they shall give to the Registrar and the person in charge of the place where they intend to celebrate the marriage a written notice of not less than twenty-one days and not more than three months of their intention to marry."
+    },
+    {
+     "ref": "(2)",
+     "text": "A notice given under this section shall include— (a) the names and ages of the parties to the intended marriage and the places where they ordinarily reside; (b) the names of the parents of the parties, if known and alive, and the places where they ordinarily reside; (c) a declaration that the parties are not within a prohibited relationship; (d) the marital status of each party and, where a party is— (i) divorced, a copy of the relevant decree; or (ii) widowed widow or a widower, a copy of the death certificate; and (e) the date and venue of the marriage ceremony."
+    },
+    {
+     "ref": "(3)",
+     "text": "The notice under subsection (1) shall be signed by both parties."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Publication of notice of intention to marry",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "After receiving a notice under section 25, the Registrar shall publish such notice in the prescribed manner in the place where the marriage is to be celebrated.",
+   "clauses": []
+  },
+  "27": {
+   "num": "27",
+   "title": "Objection to a notice of intention to marry",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "(1) A person who knows of an impediment to an intended marriage may give a written notice of objection to the Registrar or the person in charge of the place where a notice of intended marriage has been posted in accordance with section 26.\n(2) A notice of objection shall include the name of the person giving the notice of objection and the person’s relationship with either of the intended parties to the marriage and shall state the reasons for the objection to the intended marriage.\n(3) A person who has given a notice of objection may at any time withdraw the objection in writing.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who knows of an impediment to an intended marriage may give a written notice of objection to the Registrar or the person in charge of the place where a notice of intended marriage has been posted in accordance with section 26."
+    },
+    {
+     "ref": "(2)",
+     "text": "A notice of objection shall include the name of the person giving the notice of objection and the person’s relationship with either of the intended parties to the marriage and shall state the reasons for the objection to the intended marriage."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who has given a notice of objection may at any time withdraw the objection in writing."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Obligation of the person in charge of a place where a marriage is to be celebrated in relation to objections",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "(1) Upon receiving a notice of objection, the person in charge of a place where the marriage is to be celebrated shall hear the objection forthwith and if the person in charge of the place where the marriage is to be celebrated considers that the objection requires further hearing, he or she shall postpone the marriage ceremony until such time as the objection shall be determine in accordance with the Regulations.\n(2) The person in charge of a place where the marriage is to be celebrated shall determine an objection within a reasonable period which shall not be more than seven days after the hearing of the objection.\n(3) Upon determination of an objection, the person in charge of a place where the marriage is to be celebrated shall prepare and submit a report of the process of determination of the objection in the prescribed form to the parties and the Registrar within seven days of the determination.\n(4) Any person who is dissatisfied with the decision of the person in charge of a place where the marriage is to be celebrated may appeal to the Court within fourteen days of the decision.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Upon receiving a notice of objection, the person in charge of a place where the marriage is to be celebrated shall hear the objection forthwith and if the person in charge of the place where the marriage is to be celebrated considers that the objection requires further hearing, he or she shall postpone the marriage ceremony until such time as the objection shall be determine in accordance with the Regulations."
+    },
+    {
+     "ref": "(2)",
+     "text": "The person in charge of a place where the marriage is to be celebrated shall determine an objection within a reasonable period which shall not be more than seven days after the hearing of the objection."
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon determination of an objection, the person in charge of a place where the marriage is to be celebrated shall prepare and submit a report of the process of determination of the objection in the prescribed form to the parties and the Registrar within seven days of the determination."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person who is dissatisfied with the decision of the person in charge of a place where the marriage is to be celebrated may appeal to the Court within fourteen days of the decision."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Determination of objection",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "(1) The Registrar shall hear an objection under section 28 within seven days of the Registrar receiving the notice of objection.\n(2) The Registrar shall determine an objection under section 28 within a reasonable period but in any case not more than seven days after the hearing under subsection (1).\n(3) Any party dissatisfied with the decision of the Registrar may appeal to the court within seven days of the decision by the Registrar.\n(4) A person who makes a frivolous, malicious or fraudulent objection commits an offence and upon conviction is liable to imprisonment for a term not exceeding five years or a fine not exceeding one million shillings or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar shall hear an objection under section 28 within seven days of the Registrar receiving the notice of objection."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar shall determine an objection under section 28 within a reasonable period but in any case not more than seven days after the hearing under subsection (1)."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any party dissatisfied with the decision of the Registrar may appeal to the court within seven days of the decision by the Registrar."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person who makes a frivolous, malicious or fraudulent objection commits an offence and upon conviction is liable to imprisonment for a term not exceeding five years or a fine not exceeding one million shillings or to both."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Effect of an appeal to an objection",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "A marriage ceremony may not be performed until any appeal that has been made against a decision of the Registrar to permit the marriage ceremony to be performed is heard and determined.",
+   "clauses": []
+  },
+  "31": {
+   "num": "31",
+   "title": "Appeal proceedings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "(1) The court shall hear and determine any appeal expeditiously.\n(2) The court may hear and determine an appeal despite the failure of any party or other person to appear before it.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The court shall hear and determine any appeal expeditiously."
+    },
+    {
+     "ref": "(2)",
+     "text": "The court may hear and determine an appeal despite the failure of any party or other person to appear before it."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Certificate of no impediment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "(1) Where a person does not object to the celebration of a marriage, the Registrar shall issue the persons intending to marry with a certificate of no impediment.\n(2) Where a Kenyan wishes to celebrate a marriage outside Kenya and where that Kenyan is required to obtain a certificate of no impediment from the Registrar, such Kenyan shall apply for such a certificate and the Registrar shall issue the certificate if no person objects to the intended marriage.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a person does not object to the celebration of a marriage, the Registrar shall issue the persons intending to marry with a certificate of no impediment."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a Kenyan wishes to celebrate a marriage outside Kenya and where that Kenyan is required to obtain a certificate of no impediment from the Registrar, such Kenyan shall apply for such a certificate and the Registrar shall issue the certificate if no person objects to the intended marriage."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Power of Registrar to dispense with notice",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "(1) Subject to section 25, the Registrar may, by licence in the prescribed form, dispense with the notice required by section 27 where there is sufficient reason to do so.\n(2) Before dispensing with the notice, the Registrar shall confirm that—\n  (a) neither party is within a prohibited relationship;\n  (b) either party is below the minimum age for marriage;\n  (c) neither party is married to another person.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to section 25, the Registrar may, by licence in the prescribed form, dispense with the notice required by section 27 where there is sufficient reason to do so."
+    },
+    {
+     "ref": "(2)",
+     "text": "Before dispensing with the notice, the Registrar shall confirm that— (a) neither party is within a prohibited relationship; (b) either party is below the minimum age for marriage; (c) neither party is married to another person."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Effect of appeal on the findings of an objection",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "(1) The provisions of section 30 apply with the necessary modifications. (2) Unless a notice of objection has been withdrawn the Registrar shall not exercise the power conferred by section 33 to dispense with a notice.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The provisions of section 30 apply with the necessary modifications. (2) Unless a notice of objection has been withdrawn the Registrar shall not exercise the power conferred by section 33 to dispense with a notice."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Contracting a civil marriage",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "When a marriage has been celebrated in the presence of a Registrar, the Registrar shall—\n  (a) complete and sign a marriage certificate in the prescribed form; and (b) cause the marriage certificate to be signed by the parties and by the witnesses to the marriage and give two copies of the marriage certificate to the parties and retain one copy.",
+   "clauses": []
+  },
+  "36": {
+   "num": "36",
+   "title": "Certificate of no impediment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "(1) If the Registrar is satisfied that no impediment to the intended marriage exists, the Registrar shall celebrate the marriage.\n(2) If a Kenyan wishes to celebrate a civil marriage in a foreign country in accordance with the law of that country and the law of that country requires a certificate of no impediment, the Registrar may issue a certificate of no impediment.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If the Registrar is satisfied that no impediment to the intended marriage exists, the Registrar shall celebrate the marriage."
+    },
+    {
+     "ref": "(2)",
+     "text": "If a Kenyan wishes to celebrate a civil marriage in a foreign country in accordance with the law of that country and the law of that country requires a certificate of no impediment, the Registrar may issue a certificate of no impediment."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Civil marriages at the Kenyan embassy, high commission or consulate for non-Kenyan citizens",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "A person who is not a Kenyan may celebrate a marriage under this Part in a foreign country if the marriage is celebrated in the presence of the Registrar or a person authorised by the Registrar for that purpose in any Kenyan embassy, high commission or consulate.",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "Civil marriages in foreign countries",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "A marriage celebrated in a foreign country otherwise than in accordance with section 37 is valid if—\n  (a) it was contracted in accordance with the law of that country and is consistent with the laws of Kenya;\n  (b) at the time of the marriage the parties had the capacity to marry under the law of that country and is consistent with the laws of Kenya;\n  (c) either of the parties is at the time of the marriage domiciled in Kenya, both parties had capacity to marry under this Act; and\n  (d) if the Registrar is satisfied that the parties have obtained a certificate of no impediment if the law of that country requires the parties to an intended marriage to obtain such a certificate.",
+   "clauses": []
+  },
+  "39": {
+   "num": "39",
+   "title": "Civil marriages at the Kenyan embassy, high commission or Consulate for Kenyan citizens",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "(1) A Kenyan may celebrate a civil marriage in a Kenyan embassy, high commission or consulate in a foreign country if—\n  (a) it is celebrated in accordance with the law of that foreign country; or (b) both parties have the capacity to marry under the law of that foreign country.\n(2) Despite subsection (1), a civil marriage celebrated in a Kenyan embassy, high commission or consulate in a foreign country is valid in Kenya if the parties were capable of celebrating the marriage in Kenya.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A Kenyan may celebrate a civil marriage in a Kenyan embassy, high commission or consulate in a foreign country if— (a) it is celebrated in accordance with the law of that foreign country; or (b) both parties have the capacity to marry under the law of that foreign country."
+    },
+    {
+     "ref": "(2)",
+     "text": "Despite subsection (1), a civil marriage celebrated in a Kenyan embassy, high commission or consulate in a foreign country is valid in Kenya if the parties were capable of celebrating the marriage in Kenya."
+    }
+   ]
+  },
+  "40": {
+   "num": "40",
+   "title": "Recognition of foreign marriages as civil marriages in Kenya",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "A civil marriage contracted in a foreign country shall be recognized as a valid marriage if—\n  (a) it is contracted in accordance with the law of that country;\n  (b) it is consistent with the provisions of this Part; and (c) the parties have the capacity to marry under this Act.",
+   "clauses": []
+  },
+  "41": {
+   "num": "41",
+   "title": "Appointment of diplomatic staff as celebrants of marriage",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "(1) The Cabinet Secretary may appoint by notice in the Gazette a member of the diplomatic staff of Kenya in a foreign country to which this Part applies to celebrate marriages under this Act in respect of that country.\n(2) The Registrar shall maintain a register of all marriages conducted in foreign countries.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may appoint by notice in the Gazette a member of the diplomatic staff of Kenya in a foreign country to which this Part applies to celebrate marriages under this Act in respect of that country."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar shall maintain a register of all marriages conducted in foreign countries."
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "Duty to register marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CIVIL MARRIAGE",
+   "text": "(1) A person who celebrates or officiates at a marriage shall deliver a copy of the marriage certificate to the Registrar and the Registrar shall enter the details of such a certificate in a register of marriages maintained for that purpose by the Registrar.\n(2) Where the Registrar officiates at a marriage, the Registrar shall enter the details of the marriage in the register of marriages maintained under subsection (1).\n(3) A person who fails to register a marriage commits an offence and shall upon conviction be liable to a fine not exceeding five thousand shillings or to a community service order or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who celebrates or officiates at a marriage shall deliver a copy of the marriage certificate to the Registrar and the Registrar shall enter the details of such a certificate in a register of marriages maintained for that purpose by the Registrar."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Registrar officiates at a marriage, the Registrar shall enter the details of the marriage in the register of marriages maintained under subsection (1)."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who fails to register a marriage commits an offence and shall upon conviction be liable to a fine not exceeding five thousand shillings or to a community service order or to both."
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Governing law for Customary marriage",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MARRIAGE UNDER CUSTOMARY LAW",
+   "text": "(1) A marriage under this Part shall be celebrated in accordance with the customs of the communities of one or both of the parties to the intended marriage.\n(2) Where the payment of dowry is required to prove a marriage under customary law, the payment of a token amount of dowry shall be sufficient to prove a customary marriage.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A marriage under this Part shall be celebrated in accordance with the customs of the communities of one or both of the parties to the intended marriage."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the payment of dowry is required to prove a marriage under customary law, the payment of a token amount of dowry shall be sufficient to prove a customary marriage."
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Notification of Customary marriage",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MARRIAGE UNDER CUSTOMARY LAW",
+   "text": "The parties to a customary marriage shall notify the Registrar of such marriage within three months of completion of the relevant ceremonies or steps required to confer the status of marriage to the parties in the community concerned.",
+   "clauses": []
+  },
+  "45": {
+   "num": "45",
+   "title": "Contents of notification of Customary marriage",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "MARRIAGE UNDER CUSTOMARY LAW",
+   "text": "(1) The notification under section 25 shall—\n  (a) specify the customary law applied in the marriage of such parties; and (b) contain a written declaration by the parties, that the necessary customary requirements to prove the marriage have been undertaken.\n(2) A declaration under subsection (1) shall contain the signatures or personal marks of two adult witnesses and each witness shall have played a key cultural role in the celebrating the marriage.\n(3) The notification under subsection (1) shall confirm—\n  (a) that the parties to the marriage were eighteen years of age at the time of the marriage;\n  (b) that the marriage is between persons who are not within a prohibited marriage relationship; and (c) that the parties freely consent to the marriage.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The notification under section 25 shall— (a) specify the customary law applied in the marriage of such parties; and (b) contain a written declaration by the parties, that the necessary customary requirements to prove the marriage have been undertaken."
+    },
+    {
+     "ref": "(2)",
+     "text": "A declaration under subsection (1) shall contain the signatures or personal marks of two adult witnesses and each witness shall have played a key cultural role in the celebrating the marriage."
+    },
+    {
+     "ref": "(3)",
+     "text": "The notification under subsection (1) shall confirm— (a) that the parties to the marriage were eighteen years of age at the time of the marriage; (b) that the marriage is between persons who are not within a prohibited marriage relationship; and (c) that the parties freely consent to the marriage."
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "Application of this Part",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "HINDU MARRIAGE",
+   "text": "This Part shall apply only to persons who profess the Hindu faith.",
+   "clauses": []
+  },
+  "47": {
+   "num": "47",
+   "title": "Persons authorised by Registrar to solemnize Hindu marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "HINDU MARRIAGE",
+   "text": "(1) A marriage under this Part is may be officiated by a person authorised by the Registrar and in accordance with the Hindu religious rituals of a party to the marriage.\n(2) A person authorised to officiate at a marriage under this Part shall record the details of a marriage under this part in the prescribed form and shall deliver the record to the Registrar for the registration of such a marriage.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A marriage under this Part is may be officiated by a person authorised by the Registrar and in accordance with the Hindu religious rituals of a party to the marriage."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person authorised to officiate at a marriage under this Part shall record the details of a marriage under this part in the prescribed form and shall deliver the record to the Registrar for the registration of such a marriage."
+    }
+   ]
+  },
+  "48": {
+   "num": "48",
+   "title": "Application of Islamic law",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MARRIAGE UNDER ISLAMIC LAW",
+   "text": "This Part shall only apply to persons who profess the Islamic faith.",
+   "clauses": []
+  },
+  "49": {
+   "num": "49",
+   "title": "Officiation of Islamic marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MARRIAGE UNDER ISLAMIC LAW",
+   "text": "(1) A marriage under this Part shall be officiated by a kadhi, sheikh or imam as may be authorised by the Registrar and celebrated in accordance with Islamic law.\n(2) A person authorised to officiate at a marriage under this Part shall record the details of a marriage under this part in the prescribed form and shall deliver the record to the Registrar for the registration of such a marriage.\n(3) Any provision of this Act which is inconsistent with Islamic law and practices shall not apply to persons who profess the Islamic faith.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A marriage under this Part shall be officiated by a kadhi, sheikh or imam as may be authorised by the Registrar and celebrated in accordance with Islamic law."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person authorised to officiate at a marriage under this Part shall record the details of a marriage under this part in the prescribed form and shall deliver the record to the Registrar for the registration of such a marriage."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any provision of this Act which is inconsistent with Islamic law and practices shall not apply to persons who profess the Islamic faith."
+    }
+   ]
+  },
+  "50": {
+   "num": "50",
+   "title": "Appointment of Registrar and Marriage officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "APPOINTMENT OF REGISTRAR OF MARRIAGES AND MARRIAGE OFFICERS",
+   "text": "(1) There shall be a Registrar of Marriages who shall be appointed by the Cabinet Secretary. (2) The Registrar shall—\n  (a) perform civil marriages;\n  (b) register all marriages;\n  (c) issue marriage certificates for all registered marriages;\n  (d) issue certificates of no impediment to persons who intend to marry and who qualify for such a certificate;\n  (e) determine the rules governing customary marriages; and (f) determine objections of notices to marry. (3) The Registrar may appoint such marriage officers at national and county levels, as may be necessary upon such terms and conditions as may be determined by the Public Service Commission for the purposes of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Registrar of Marriages who shall be appointed by the Cabinet Secretary. (2) The Registrar shall—"
+    }
+   ]
+  },
+  "51": {
+   "num": "51",
+   "title": "Appointment of marriage officers in foreign countries",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "APPOINTMENT OF REGISTRAR OF MARRIAGES AND MARRIAGE OFFICERS",
+   "text": "(1) The Registrar may by notice in the Gazette, appoint a member of the diplomatic staff of Kenya in a foreign country to celebrate civil marriages for the purposes of this Act.\n(2) A person appointed under subsection (1) shall keep a record of all marriages celebrated that that person in that country and shall deliver the record to the Registrar for the registration of such marriages.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar may by notice in the Gazette, appoint a member of the diplomatic staff of Kenya in a foreign country to celebrate civil marriages for the purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person appointed under subsection (1) shall keep a record of all marriages celebrated that that person in that country and shall deliver the record to the Registrar for the registration of such marriages."
+    }
+   ]
+  },
+  "52": {
+   "num": "52",
+   "title": "Licensing ministers of faith",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "APPOINTMENT OF REGISTRAR OF MARRIAGES AND MARRIAGE OFFICERS",
+   "text": "(1) A minister of faith may apply to the Registrar to be appointed as a marriage officer for the purposes of this Act.\n(2) The Registrar may appoint a minister of faith who makes an application under subsection (1) as a marriage officer.\n(3) The Registrar shall issue a person appointed as a marriage officer under this section with a license. (4) A person appointed as a marriage officer under this section may only officiate at marriages celebrated according to the traditions of the faith in which the minister of faith serves. (5) The Registrar may cancel a license issued to a person under this section and shall give written reasons for such withdrawal. (6) A licence granted in respect of marriages under any law in operation before the commencement of this Act shall, if the licence has not been cancelled at the commencement of this Act, be deemed to be a licence granted under this section.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A minister of faith may apply to the Registrar to be appointed as a marriage officer for the purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar may appoint a minister of faith who makes an application under subsection (1) as a marriage officer."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall issue a person appointed as a marriage officer under this section with a license. (4) A person appointed as a marriage officer under this section may only officiate at marriages celebrated according to the traditions of the faith in which the minister of faith serves. (5) The Registrar may cancel a license issued to a person under this section and shall give written reasons for such withdrawal. (6) A licence granted in respect of marriages under any law in operation before the commencement of this Act shall, if the licence has not been cancelled at the commencement of this Act, be deemed to be a licence granted under this section."
+    }
+   ]
+  },
+  "53": {
+   "num": "53",
+   "title": "Registration of Christian marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "REGISTRATION OF MARRIAGES",
+   "text": "(1) Where a marriage is celebrated under Part III of this Act, the person officiating at the marriage shall forward a copy of the certificate of marriage to the Registrar within fourteen days of the celebration of the marriage for the registration of that marriage.\n(2) Before the Registrar registers a marriage under subsection (1) the Registrar shall confirm that the marriage complies with the provisions of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a marriage is celebrated under Part III of this Act, the person officiating at the marriage shall forward a copy of the certificate of marriage to the Registrar within fourteen days of the celebration of the marriage for the registration of that marriage."
+    },
+    {
+     "ref": "(2)",
+     "text": "Before the Registrar registers a marriage under subsection (1) the Registrar shall confirm that the marriage complies with the provisions of this Act."
+    }
+   ]
+  },
+  "54": {
+   "num": "54",
+   "title": "Registration of civil marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "REGISTRATION OF MARRIAGES",
+   "text": "(1) Where the Registrar celebrates a marriage under Part IV of this Act, the Registrar shall register the marriage.\n(2) Where a marriage officer celebrates a marriage under Part IV, the marriage officer shall record the details of the marriage in the prescribed form and forward the record to the Registrar and the Registrar shall register the marriage.\n(3) The Registrar shall issue a certificate of marriage to the parties to a marriage celebrated under Part IV of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the Registrar celebrates a marriage under Part IV of this Act, the Registrar shall register the marriage."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a marriage officer celebrates a marriage under Part IV, the marriage officer shall record the details of the marriage in the prescribed form and forward the record to the Registrar and the Registrar shall register the marriage."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall issue a certificate of marriage to the parties to a marriage celebrated under Part IV of this Act."
+    }
+   ]
+  },
+  "55": {
+   "num": "55",
+   "title": "Registration of Customary marriage",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "REGISTRATION OF MARRIAGES",
+   "text": "(1) Where the parties to a marriage under Part V have completed the necessary rituals for their union to be recognised as a marriage under the customary law of any of the parties both shall apply to the Registrar within six months of their marriage for a certificate and both shall appear in person before the Registrar to be issued with the certificate of marriage.\n(2) Where the Registrar is satisfied that the parties to a marriage under Part V have complied with the provisions of this Act, and the parties have appeared before him in person, the Registrar shall register the marriage and issue the parties with a certificate of marriage.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the parties to a marriage under Part V have completed the necessary rituals for their union to be recognised as a marriage under the customary law of any of the parties both shall apply to the Registrar within six months of their marriage for a certificate and both shall appear in person before the Registrar to be issued with the certificate of marriage."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Registrar is satisfied that the parties to a marriage under Part V have complied with the provisions of this Act, and the parties have appeared before him in person, the Registrar shall register the marriage and issue the parties with a certificate of marriage."
+    }
+   ]
+  },
+  "56": {
+   "num": "56",
+   "title": "Registration of Hindu marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "REGISTRATION OF MARRIAGES",
+   "text": "(1) Where a person authorised by the Registrar celebrates a marriage under Part VI, that person shall record the details of the marriage in the prescribed form and deliver the record to the Registrar and the Registrar shall register the marriage.\n(2) Before the Registrar registers a marriage celebrated under Part VI, the Registrar shall confirm that the marriage complies with the provisions of this Act.\n(3) The Cabinet Secretary may make rules regarding the registration of marriages under Part VI of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a person authorised by the Registrar celebrates a marriage under Part VI, that person shall record the details of the marriage in the prescribed form and deliver the record to the Registrar and the Registrar shall register the marriage."
+    },
+    {
+     "ref": "(2)",
+     "text": "Before the Registrar registers a marriage celebrated under Part VI, the Registrar shall confirm that the marriage complies with the provisions of this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary may make rules regarding the registration of marriages under Part VI of this Act."
+    }
+   ]
+  },
+  "57": {
+   "num": "57",
+   "title": "Registration of Islamic marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "REGISTRATION OF MARRIAGES",
+   "text": "(1) Where a Kadhi, sheikh, Mukhi or imam authorised by the Registrar celebrates a marriage under Part VII of this Act, the Kadhi, sheikh, Mukhi or imam shall—\n  (a) record the details of the marriage;\n  (b) issue the parties to the marriage with a certificate of marriage; and\n  (c) deliver the record and certificate to the Registrar.\n(2) Where the Registrar receives a record and certificate of a marriage celebrated under Part VII and the Registrar is satisfied that the provisions of this Act have been complied with, the Registrar shall register the marriage.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a Kadhi, sheikh, Mukhi or imam authorised by the Registrar celebrates a marriage under Part VII of this Act, the Kadhi, sheikh, Mukhi or imam shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Registrar receives a record and certificate of a marriage celebrated under Part VII and the Registrar is satisfied that the provisions of this Act have been complied with, the Registrar shall register the marriage."
+    }
+   ]
+  },
+  "58": {
+   "num": "58",
+   "title": "Registration of marriages contracted abroad",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "REGISTRATION OF MARRIAGES",
+   "text": "(1) A Kenyan who celebrates a marriage outside Kenya may apply to the Registrar to have that marriage registered and the Registrar may register such a marriage only when the Registrar is satisfied that the marriage complies with the provisions of this Act.\n(2) The Registrar may consider a marriage certificate issued in that country or such other proof as the Registrar may consider sufficient before registering a marriage celebrated outside Kenya and where a marriage certificate is not in the official languages it shall be accompanied by a certified translation into the official languages.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A Kenyan who celebrates a marriage outside Kenya may apply to the Registrar to have that marriage registered and the Registrar may register such a marriage only when the Registrar is satisfied that the marriage complies with the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar may consider a marriage certificate issued in that country or such other proof as the Registrar may consider sufficient before registering a marriage celebrated outside Kenya and where a marriage certificate is not in the official languages it shall be accompanied by a certified translation into the official languages."
+    }
+   ]
+  },
+  "59": {
+   "num": "59",
+   "title": "Evidence of marriage",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "REGISTRATION OF MARRIAGES",
+   "text": "(1) A marriage may be proven in Kenya by—\n  (a) a certificate of marriage issued under this Act or any other written law;\n  (b) a certified copy of a certificate of marriage issued under this Act or any other written law;\n  (c) an entry in a register of marriages maintained under this Act or any other written law;\n  (d) a certified copy of an entry in a register of marriages maintained under this Act or any other written law; or\n  (e) an entry in a register of marriages maintained by the proper authority of the Khoja Shia, Ith’nasheri, Shia imam, Ismaili or Bohra communities, or a certified copy of such an entry.\n(2) Despite subsection (1), a marriage may be proven in Kenya if it was celebrated in a public place of worship but its registration was not required, by an entry in any register maintained at that public place of worship or a certified copy of such an entry.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A marriage may be proven in Kenya by—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Despite subsection (1), a marriage may be proven in Kenya if it was celebrated in a public place of worship but its registration was not required, by an entry in any register maintained at that public place of worship or a certified copy of such an entry."
+    }
+   ]
+  },
+  "60": {
+   "num": "60",
+   "title": "Copies of decrees of annulment and divorce to be sent to Registrar",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "REGISTRATION OF MARRIAGES",
+   "text": "Where a court grants a decree of the annulment of a marriage or the dissolution of a marriage, it shall deliver a certified copy of the decree to the Registrar and the Registrar shall register the annulment or dissolution in a register maintained for the purpose.",
+   "clauses": []
+  },
+  "61": {
+   "num": "61",
+   "title": "Registration of foreign annulments and divorces",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "REGISTRATION OF MARRIAGES",
+   "text": "(1) Where a marriage celebrated in Kenya is annulled or dissolved by a decree of a foreign court, any party to the annulled or dissolved marriage may apply to the Registrar to register the decree.\n(2) Where the Registrar is satisfied that a decree under this section should be recognised in Kenya as if the decree was made by a Kenyan court, the Registrar shall register the decree in a register maintained for the purpose.\n(3) An application under this section shall include—\n  (a) a copy of the decree and where the decree is not in an official language, a certified translation of the decree in an official language and in the prescribed form; and\n  (b) a declaration under the law of the country in which the decree was obtained made to a legal practitioner authorised to witness such a declaration that states the decree is effective in that country as if the marriage had been celebrated in that country.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a marriage celebrated in Kenya is annulled or dissolved by a decree of a foreign court, any party to the annulled or dissolved marriage may apply to the Registrar to register the decree."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Registrar is satisfied that a decree under this section should be recognised in Kenya as if the decree was made by a Kenyan court, the Registrar shall register the decree in a register maintained for the purpose."
+    },
+    {
+     "ref": "(3)",
+     "text": "An application under this section shall include—"
+    }
+   ]
+  },
+  "62": {
+   "num": "62",
+   "title": "Endorsement of marriage registers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "REGISTRATION OF MARRIAGES",
+   "text": "(1) The Registrar shall enter the details of the declaration made under section 8 against the relevant entry in the register of marriages.\n(2) The Registrar shall enter the details of the decree registered under section 60 against the relevant entry in the register of marriages and such an entry shall be sufficient proof that the marriage has been determined by a foreign decree of annulment or dissolution of marriage.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar shall enter the details of the declaration made under section 8 against the relevant entry in the register of marriages."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar shall enter the details of the decree registered under section 60 against the relevant entry in the register of marriages and such an entry shall be sufficient proof that the marriage has been determined by a foreign decree of annulment or dissolution of marriage."
+    }
+   ]
+  },
+  "63": {
+   "num": "63",
+   "title": "Correction of errors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "REGISTRATION OF MARRIAGES",
+   "text": "(1) A party to a marriage may apply to the Registrar or to a marriage officer or to a person authorised by the Registrar to correct a clerical error or omission in a register of marriage or a certificate of marriage regarding that person’s marriage.\n(2) Where the Registrar, a marriage officer or a person authorised by the Registrar makes a correction under subsection (1), the Registrar, marriage officer or person authorised by the Registrar shall sign and date the correction and shall enter the details of the correction against the relevant entry in the register of marriage.\n(3) The Registrar shall notify the parties to a marriage of any changes made in the register of marriage or marriage certificate within a reasonable period of the changes being made.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A party to a marriage may apply to the Registrar or to a marriage officer or to a person authorised by the Registrar to correct a clerical error or omission in a register of marriage or a certificate of marriage regarding that person’s marriage."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Registrar, a marriage officer or a person authorised by the Registrar makes a correction under subsection (1), the Registrar, marriage officer or person authorised by the Registrar shall sign and date the correction and shall enter the details of the correction against the relevant entry in the register of marriage."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall notify the parties to a marriage of any changes made in the register of marriage or marriage certificate within a reasonable period of the changes being made."
+    }
+   ]
+  },
+  "64": {
+   "num": "64",
+   "title": "Mediation of disputes in Christian marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MATRIMONIAL DISPUTES AND MATRIMONIAL PROCEEDINGS",
+   "text": "The parties to a marriage celebrated under Part III may seek the services of any reconciliation bodies established for that purpose that may exist in the public place of worship where the marriage was celebrated.",
+   "clauses": []
+  },
+  "65": {
+   "num": "65",
+   "title": "Grounds for dissolution of a Christian marriage",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MATRIMONIAL DISPUTES AND MATRIMONIAL PROCEEDINGS",
+   "text": "A party to a marriage celebrated under Part III may petition the court for a decree for the dissolution of the marriage on the ground of—\n  (a) one or more acts of adultery committed by the other party;\n  (b) cruelty, whether mental or physical, inflicted by the other party on the petitioner or on the children, if any, of the marriage;\n  (c) desertion by either party for at least three years immediately preceding the date of presentation of the petition;\n  (d) exceptional depravity by either party; or (e) the irretrievable breakdown of the marriage.\nDissolution of a civil marriage",
+   "clauses": []
+  },
+  "66": {
+   "num": "66",
+   "title": "Right to petition for separation or divorce",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MATRIMONIAL DISPUTES AND MATRIMONIAL PROCEEDINGS",
+   "text": "(1) A party to a marriage celebrated under Part IV may not petition the court for the separation of the parties or for the dissolution of the marriage unless three years have elapsed since the celebration of the marriage.\n(2) A party to a marriage celebrated under Part IV may only petition the court for the separation of the parties or the dissolution of the marriage on the following grounds—\n  (a) adultery by the other spouse;\n  (b) cruelty by the other spouse;\n  (c) exceptional depravity by the other spouse;\n  (d) desertion by the other spouse for at least three years; or\n  (e) the irretrievable breakdown of the marriage.\n(3) The petitioner may file the petition with the court for the separation of the parties or the dissolution of the marriage despite any effort to reconcile the parties.\n(4) The court may refer a matrimonial dispute that arises in a marriage celebrated under Part IV to a conciliatory process agreed between the parties.\n(5) The proceedings for the dissolution of a marriage celebrated under Part IV may be adjourned for a period not exceeding six months as the court may think fit—\n  (a) for the court to make further enquiries; or\n  (b) for further attempts at reconciliation to be made by the parties to the marriage.\n(6) A marriage has irretrievably broken down if—\n  (a) a spouse commits adultery;\n  (b) a spouse is cruel to the other spouse or to any child of the marriage;\n  (c) a spouse willfully neglects the other spouse for at least two years immediately preceding the date of presentation of the petition;\n  (d) the spouses have been separated for at least two years, whether voluntary or by decree of the court;\n  (e) a spouse has deserted the other spouse or at least three years immediately preceding the date of presentation of the petition;\n  (f) a spouse has been sentenced to a term of imprisonment for life or for a term of seven years or more;\n  (g) a spouse suffers from incurable insanity, where two doctors, at least one of whom is qualified or experienced in psychiatry, have certified that the insanity is incurable or that recovery is improbable during the life time of the respondent in the light of existing medical knowledge; or\n  (h) any other ground as the court may deem appropriate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A party to a marriage celebrated under Part IV may not petition the court for the separation of the parties or for the dissolution of the marriage unless three years have elapsed since the celebration of the marriage."
+    },
+    {
+     "ref": "(2)",
+     "text": "A party to a marriage celebrated under Part IV may only petition the court for the separation of the parties or the dissolution of the marriage on the following grounds—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The petitioner may file the petition with the court for the separation of the parties or the dissolution of the marriage despite any effort to reconcile the parties."
+    },
+    {
+     "ref": "(4)",
+     "text": "The court may refer a matrimonial dispute that arises in a marriage celebrated under Part IV to a conciliatory process agreed between the parties."
+    },
+    {
+     "ref": "(5)",
+     "text": "The proceedings for the dissolution of a marriage celebrated under Part IV may be adjourned for a period not exceeding six months as the court may think fit—"
+    },
+    {
+     "ref": "(6)",
+     "text": "A marriage has irretrievably broken down if—"
+    }
+   ]
+  },
+  "67": {
+   "num": "67",
+   "title": "Recognition of decree by foreign court in matrimonial proceedings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MATRIMONIAL DISPUTES AND MATRIMONIAL PROCEEDINGS",
+   "text": "Where a foreign court has granted a decree in matrimonial proceedings whether arising out of a marriage celebrated in Kenya or elsewhere, that decree shall be recognized in Kenya if—\n  (a) either party is domiciled in the country where that court has jurisdiction or had been ordinarily resident in Kenya for at least two years immediately preceding the date of institution of proceedings; or\n  (b) being a decree of annulment, divorce or separation, it is effective in the country of domicile of the parties or either of them.\nDissolution of a customary marriage",
+   "clauses": []
+  },
+  "68": {
+   "num": "68",
+   "title": "Mediation of disputes in Customary marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MATRIMONIAL DISPUTES AND MATRIMONIAL PROCEEDINGS",
+   "text": "(1) The parties to a marriage celebrated under Part V may undergo a process of conciliation or customary dispute resolution before the court may determine a petition for the dissolution of the marriage.\n(2) The process of mediation or traditional dispute resolution in subsection (1) shall conform to the principles of the Constitution.\n(3) The person who takes the parties to a marriage celebrated under Part V through the process of conciliation or traditional dispute resolution shall prepare a report of the process for the court.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The parties to a marriage celebrated under Part V may undergo a process of conciliation or customary dispute resolution before the court may determine a petition for the dissolution of the marriage."
+    },
+    {
+     "ref": "(2)",
+     "text": "The process of mediation or traditional dispute resolution in subsection (1) shall conform to the principles of the Constitution."
+    },
+    {
+     "ref": "(3)",
+     "text": "The person who takes the parties to a marriage celebrated under Part V through the process of conciliation or traditional dispute resolution shall prepare a report of the process for the court."
+    }
+   ]
+  },
+  "69": {
+   "num": "69",
+   "title": "Grounds for divorce of Customary marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MATRIMONIAL DISPUTES AND MATRIMONIAL PROCEEDINGS",
+   "text": "(1) A Party to a marriage celebrated under Part V may petition the court for the dissolution of the marriage on the ground of—\n  (a) adultery;\n  (b) cruelty;\n  (c) desertion;\n  (d) exceptional depravity;\n  (e) irretrievable breakdown of the marriage; or (f) any valid ground under the customary law of the petitioner.\n(2) The Cabinet Secretary may, in consultation with the communities make regulations for the implementation of this section.\nDissolution of a Hindu Marriage",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A Party to a marriage celebrated under Part V may petition the court for the dissolution of the marriage on the ground of— (a) adultery; (b) cruelty; (c) desertion; (d) exceptional depravity; (e) irretrievable breakdown of the marriage; or (f) any valid ground under the customary law of the petitioner."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary may, in consultation with the communities make regulations for the implementation of this section."
+    }
+   ]
+  },
+  "70": {
+   "num": "70",
+   "title": "Grounds for divorce of Hindu marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MATRIMONIAL DISPUTES AND MATRIMONIAL PROCEEDINGS",
+   "text": "A party to a marriage celebrated under Part VI may petition the court for the dissolution of the marriage on the ground that—\n  (a) the marriage has irretrievably broken down;\n  (b) the other party has deserted the petitioner for at least three years before the making of the petition;\n  (c) the other party has converted to another religion;\n  (d) since the celebration of the marriage, the other party has committed rape, sodomy, bestiality or adultery;\n  (e) the other party has committed cruelty on the other; and (f) the other party has committed exceptional depravity on the other.\nDissolution of an Islamic marriage",
+   "clauses": []
+  },
+  "71": {
+   "num": "71",
+   "title": "Governing law for Islamic divorce matters",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MATRIMONIAL DISPUTES AND MATRIMONIAL PROCEEDINGS",
+   "text": "The dissolution of marriage celebrated under Part VII shall be governed by Islamic law.",
+   "clauses": []
+  },
+  "72": {
+   "num": "72",
+   "title": "Registration of divorce under Islamic law",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MATRIMONIAL DISPUTES AND MATRIMONIAL PROCEEDINGS",
+   "text": "Where a Kadhi, sheikh, imam or person authorised by the Registrar grants a decree for the dissolution of a marriage celebrated under Part VII, the Kadhi, sheikh, imam, Mukhi or authorised person shall deliver a copy of the decree to the Registrar.\nAnnulment of Marriage",
+   "clauses": []
+  },
+  "73": {
+   "num": "73",
+   "title": "Grounds for annulment of marriage",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MATRIMONIAL DISPUTES AND MATRIMONIAL PROCEEDINGS",
+   "text": "(1) A party to a marriage may petition the court to annul the marriage on the ground that—\n  (a) the marriage has not been consummated since its celebration;\n  (b) at the time of the marriage and without the knowledge of either party, the parties were in a prohibited relationship;\n  (c) in the case of a monogamous marriage, at the time of the marriage one of the parties was married to another person;\n  (d) the petitioner’s consent was not freely given;\n  (e) a party to the marriage was absent at the time of the celebration of the marriage;\n  (f) at the time of the marriage and without the knowledge of the husband, the wife is pregnant and that the husband is not responsible for the pregnancy; or (g) at the time of the marriage and without the knowledge of the petitioner, the other party suffers recurrent bouts of insanity.\n(2) The court shall only grant a decree of annulment if—\n  (a) the petition is made within one year of the celebration of the marriage;\n  (b) at the date of the marriage and regarding subsections (1)(b) and (c), the petitioner was ignorant of the facts alleged in the petition; and (c) the marriage has not been consummated since the petition was made to the court.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A party to a marriage may petition the court to annul the marriage on the ground that— (a) the marriage has not been consummated since its celebration; (b) at the time of the marriage and without the knowledge of either party, the parties were in a prohibited relationship; (c) in the case of a monogamous marriage, at the time of the marriage one of the parties was married to another person; (d) the petitioner’s consent was not freely given; (e) a party to the marriage was absent at the time of the celebration of the marriage; (f) at the time of the marriage and without the knowledge of the husband, the wife is pregnant and that the husband is not responsible for the pregnancy; or (g) at the time of the marriage and without the knowledge of the petitioner, the other party suffers recurrent bouts of insanity."
+    },
+    {
+     "ref": "(2)",
+     "text": "The court shall only grant a decree of annulment if— (a) the petition is made within one year of the celebration of the marriage; (b) at the date of the marriage and regarding subsections (1)(b) and (c), the petitioner was ignorant of the facts alleged in the petition; and (c) the marriage has not been consummated since the petition was made to the court."
+    }
+   ]
+  },
+  "74": {
+   "num": "74",
+   "title": "Party to petition for annulment of marriage",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MATRIMONIAL DISPUTES AND MATRIMONIAL PROCEEDINGS",
+   "text": "(1) A petition for annulment may be presented only by one of the parties. (2) Where a petitioner alleges facts of which only one party was ignorant at the date of that marriage, it may be presented only by that party. (3) Where a petitioner alleges the willful refusal of one party to consummate the marriage it may not be presented by the party against whom the allegation is made.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A petition for annulment may be presented only by one of the parties. (2) Where a petitioner alleges facts of which only one party was ignorant at the date of that marriage, it may be presented only by that party. (3) Where a petitioner alleges the willful refusal of one party to consummate the marriage it may not be presented by the party against whom the allegation is made."
+    }
+   ]
+  },
+  "75": {
+   "num": "75",
+   "title": "Effect of a decree of annulment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "MATRIMONIAL DISPUTES AND MATRIMONIAL PROCEEDINGS",
+   "text": "The parties to a marriage which has been annulled by decree absolute of the court shall be deemed never to have been married but a decree of annulment shall not—\n  (a) render lawful anything which was done unlawfully during the marriage or render unlawful anything which was done lawfully during the marriage; or\n  (b) affect the competence of either of the parties as a witness in respect of anything done or omitted to be done, or any privilege in respect of communications between them, during the—\n  (i) marriage; or (ii) relieve either party of any debt properly incurred on behalf of the other during the marriage.",
+   "clauses": []
+  },
+  "76": {
+   "num": "76",
+   "title": "Effect of a promise to marry",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XI",
+   "part_title": "OTHER RIGHTS OF ACTION",
+   "text": "Except as provided in this section a promise by a person to marry another person is not binding.",
+   "clauses": []
+  },
+  "77": {
+   "num": "77",
+   "title": "Grounds for order of maintenance",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "MAINTENANCE OF SPOUSE AND OTHER RELIEFS",
+   "text": "(1) The court may order a person to pay maintenance to a spouse or a former spouse—\n  (a) if the person has refused or neglected to provide for the spouse or former spouse as required by this Act;\n  (b) if the person has deserted the other spouse or former spouse, for as long as the desertion continues;\n  (c) during the course of any matrimonial proceedings;\n  (d) when granting or after granting a decree of separation or divorce; or (e) if, after making a decree of presumption of death, the spouse or former is found to be alive.\n(2) The court may order the payment of maintenance to a spouse or former spouse where a decree of separation, divorce or presumption of death is issued by a foreign court and the court may declare that the decree of separation, divorce or presumption of death is effective for the purposes of this section.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The court may order a person to pay maintenance to a spouse or a former spouse— (a) if the person has refused or neglected to provide for the spouse or former spouse as required by this Act; (b) if the person has deserted the other spouse or former spouse, for as long as the desertion continues; (c) during the course of any matrimonial proceedings; (d) when granting or after granting a decree of separation or divorce; or (e) if, after making a decree of presumption of death, the spouse or former is found to be alive."
+    },
+    {
+     "ref": "(2)",
+     "text": "The court may order the payment of maintenance to a spouse or former spouse where a decree of separation, divorce or presumption of death is issued by a foreign court and the court may declare that the decree of separation, divorce or presumption of death is effective for the purposes of this section."
+    }
+   ]
+  },
+  "78": {
+   "num": "78",
+   "title": "Lapsing of maintenance",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "MAINTENANCE OF SPOUSE AND OTHER RELIEFS",
+   "text": "Except where an order for maintenance of a spouse is expressed to be for any shorter period or where any such order has revoked and subject to section 79, the order shall lapse—\n  (a) if the maintenance was unsecured, on the death of the spouse;\n  (b) if the maintenance was secured, on the death of the spouse in whose favour it was made; or (c) where the person being maintained is subsequently able to support himself or herself.",
+   "clauses": []
+  },
+  "79": {
+   "num": "79",
+   "title": "Termination of an order of maintenance",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "MAINTENANCE OF SPOUSE AND OTHER RELIEFS",
+   "text": "An order of maintenance shall lapse upon the remarriage of the beneficiary of the order.",
+   "clauses": []
+  },
+  "80": {
+   "num": "80",
+   "title": "Revocation and variation of an order for maintenance",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "MAINTENANCE OF SPOUSE AND OTHER RELIEFS",
+   "text": "(1) The court may revoke or vary a subsisting order for maintenance of any kind, whether secured or unsecured, if it is satisfied that the order was based or obtained as the result of any misrepresentation or mistake of fact or that there has been a material change of circumstances since the order was made.\n(2) The court may vary the terms of an agreement as to maintenance between spouses wherever made if satisfied that there has been a material change of circumstances since the agreement was made despite any provision to the contrary contained therein.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The court may revoke or vary a subsisting order for maintenance of any kind, whether secured or unsecured, if it is satisfied that the order was based or obtained as the result of any misrepresentation or mistake of fact or that there has been a material change of circumstances since the order was made."
+    },
+    {
+     "ref": "(2)",
+     "text": "The court may vary the terms of an agreement as to maintenance between spouses wherever made if satisfied that there has been a material change of circumstances since the agreement was made despite any provision to the contrary contained therein."
+    }
+   ]
+  },
+  "81": {
+   "num": "81",
+   "title": "Assessment of maintenance",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "MAINTENANCE OF SPOUSE AND OTHER RELIEFS",
+   "text": "Maintenance payable to a person under an order of the court shall not be assigned or transferred or liable to be attached, sequestrated or levied upon for, or in respect of, any debt or claim.",
+   "clauses": []
+  },
+  "82": {
+   "num": "82",
+   "title": "Recovery of maintenance arrears",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "MAINTENANCE OF SPOUSE AND OTHER RELIEFS",
+   "text": "(1) Despite any other period of limitation prescribed by the Limitation of Actions Act (Cap. 22), no instalment of maintenance shall be recoverable in proceedings instituted after a period of three years from the date upon which the instalment accrued.\n(2) Subject to subsection (1), arrears of unsecured maintenance, whether payable by agreement under an order of the court, shall be a civil debt recoverable summarily or, where they accrued due before the making of a receiving order against the party in default, shall be provable in subsequent bankruptcy proceedings and where they accrued before death, shall be a debt from the estate of the deceased.\n(3) Subject to subsection (1) arrears of unsecured maintenance which accrued before the death of the person entitled shall be a civil debt recoverable summarily by the legal personal representative of that person.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Despite any other period of limitation prescribed by the Limitation of Actions Act (Cap. 22), no instalment of maintenance shall be recoverable in proceedings instituted after a period of three years from the date upon which the instalment accrued."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to subsection (1), arrears of unsecured maintenance, whether payable by agreement under an order of the court, shall be a civil debt recoverable summarily or, where they accrued due before the making of a receiving order against the party in default, shall be provable in subsequent bankruptcy proceedings and where they accrued before death, shall be a debt from the estate of the deceased."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to subsection (1) arrears of unsecured maintenance which accrued before the death of the person entitled shall be a civil debt recoverable summarily by the legal personal representative of that person."
+    }
+   ]
+  },
+  "83": {
+   "num": "83",
+   "title": "Compounding of maintenance",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "MAINTENANCE OF SPOUSE AND OTHER RELIEFS",
+   "text": "(1) The court may, if it is satisfied that a disposition of property has been made by the spouse or former spouse of the person by or on whose behalf the application is made, within the preceding three years, with the object on the part of the person making the disposition of reducing the means to pay maintenance or of depriving a spouse of any rights in relation to that property, or is intended to be made with any such object, on application, set aside the disposition or grant an injunction prohibiting that disposition, as the case may be.\n(2) Where the disposition of property under subsection (1) is by sale to a bona fide purchaser for value, the court may grant orders as though the sale had taken place.\n(3) In this section, \"disposition\" includes a sale, lease, mortgage or other transaction whereby ownership or possession of the property is transferred or encumbered but does not include a disposition made from money or monies worth to or in favour of a person acting in good faith and in ignorance of the object for which the disposition is made.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The court may, if it is satisfied that a disposition of property has been made by the spouse or former spouse of the person by or on whose behalf the application is made, within the preceding three years, with the object on the part of the person making the disposition of reducing the means to pay maintenance or of depriving a spouse of any rights in relation to that property, or is intended to be made with any such object, on application, set aside the disposition or grant an injunction prohibiting that disposition, as the case may be."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the disposition of property under subsection (1) is by sale to a bona fide purchaser for value, the court may grant orders as though the sale had taken place."
+    },
+    {
+     "ref": "(3)",
+     "text": "In this section, \"disposition\" includes a sale, lease, mortgage or other transaction whereby ownership or possession of the property is transferred or encumbered but does not include a disposition made from money or monies worth to or in favour of a person acting in good faith and in ignorance of the object for which the disposition is made."
+    }
+   ]
+  },
+  "84": {
+   "num": "84",
+   "title": "Other relief",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "MAINTENANCE OF SPOUSE AND OTHER RELIEFS",
+   "text": "(1) The court may order a party to refrain from molesting a spouse or former spouse.\n(2) No proceedings may be brought to compel one spouse to cohabit with the other, but a spouse who alleges that he or she has been deserted may refer the matter to a conciliatory body.\n(3) Where either the husband or wife has, without reasonable grounds, withdrawn from the society of the other, the aggrieved party may make an application to the court for restitution of conjugal rights and the court, on being satisfied of the truth of the statements made in such application and there being no legal ground why the application should not be granted, may order restitution of conjugal rights accordingly.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The court may order a party to refrain from molesting a spouse or former spouse."
+    },
+    {
+     "ref": "(2)",
+     "text": "No proceedings may be brought to compel one spouse to cohabit with the other, but a spouse who alleges that he or she has been deserted may refer the matter to a conciliatory body."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where either the husband or wife has, without reasonable grounds, withdrawn from the society of the other, the aggrieved party may make an application to the court for restitution of conjugal rights and the court, on being satisfied of the truth of the statements made in such application and there being no legal ground why the application should not be granted, may order restitution of conjugal rights accordingly."
+    }
+   ]
+  },
+  "85": {
+   "num": "85",
+   "title": "Order concerning children",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XII",
+   "part_title": "MAINTENANCE OF SPOUSE AND OTHER RELIEFS",
+   "text": "Custody and maintenance of children shall be dealt with in accordance with the Children Act (Cap. 141) and any other written law relating to children.",
+   "clauses": []
+  },
+  "86": {
+   "num": "86",
+   "title": "False statement in the notice of intention to marry or notice of objection",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIII",
+   "part_title": "OFFENCES AND PENALTIES",
+   "text": "(1) Any person who, in a notice of intention to marry under section 25 or notice of objection to an intended marriage under section 28, makes a false statement commits an offence and shall on conviction be liable to imprisonment for a term not exceeding two years or fine not exceeding two million shillings or to both.\n(2) A person does not commit an offence under this section if that person had reasonable grounds for believing the statement to be true when that person made the statement.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who, in a notice of intention to marry under section 25 or notice of objection to an intended marriage under section 28, makes a false statement commits an offence and shall on conviction be liable to imprisonment for a term not exceeding two years or fine not exceeding two million shillings or to both."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person does not commit an offence under this section if that person had reasonable grounds for believing the statement to be true when that person made the statement."
+    }
+   ]
+  },
+  "87": {
+   "num": "87",
+   "title": "Marriage to a person under minimum age",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIII",
+   "part_title": "OFFENCES AND PENALTIES",
+   "text": "Any person who marries a person who is below the minimum age commits an offence and shall on conviction be liable to imprisonment for a term not exceeding five years or a fine not exceeding one million shillings or to both.",
+   "clauses": []
+  },
+  "88": {
+   "num": "88",
+   "title": "Marriage of persons within prohibited marriage relationship",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIII",
+   "part_title": "OFFENCES AND PENALTIES",
+   "text": "(1) A party to a purported celebration of a marriage where the parties are within a prohibited marriage relationship commits an offence and shall on conviction be liable to imprisonment for a term not exceeding five years or a fine not exceeding three hundred thousand shillings or to both.\n(2) A person may not be convicted of an offence under this section if that person did not know and could not reasonably have been expected to discover the relationship.\n(3) A person charged under subsection (1) may include a witness to the purported celebration of the marriage.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A party to a purported celebration of a marriage where the parties are within a prohibited marriage relationship commits an offence and shall on conviction be liable to imprisonment for a term not exceeding five years or a fine not exceeding three hundred thousand shillings or to both."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person may not be convicted of an offence under this section if that person did not know and could not reasonably have been expected to discover the relationship."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person charged under subsection (1) may include a witness to the purported celebration of the marriage."
+    }
+   ]
+  },
+  "89": {
+   "num": "89",
+   "title": "Coercion, fraud, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIII",
+   "part_title": "OFFENCES AND PENALTIES",
+   "text": "A party to a ceremony purporting to be a marriage, who at the time, knows or has reason to believe that the consent of the other party was induced by coercion or fraud or by a mistake as to the nature of the ceremony, or that the other party was suffering from any mental disorders or mental disability, whether permanent or temporary, or was intoxicated or under the influence of drugs, so as not fully to appreciate the nature or purport or the ceremony, commits an offence and shall on conviction be liable to imprisonment for a term not exceeding three years or a fine of three hundred thousand shillings or to both.",
+   "clauses": []
+  },
+  "90": {
+   "num": "90",
+   "title": "Ceremony performed by unauthorized person",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIII",
+   "part_title": "OFFENCES AND PENALTIES",
+   "text": "A person who celebrates a union purporting to be a marriage and who at the time of the ceremony is not authorised to do so commits an offence and shall on conviction be liable to imprisonment for a term not exceeding three years or a fine of three hundred thousand shillings or to both.",
+   "clauses": []
+  },
+  "91": {
+   "num": "91",
+   "title": "Absence of witnesses",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIII",
+   "part_title": "OFFENCES AND PENALTIES",
+   "text": "A person who celebrates a union purporting to be a marriage at which the required witnesses are not present commits an offence and shall on conviction be liable to imprisonment for a term not exceeding three months or a fine not exceeding ten thousand shillings or to both.",
+   "clauses": []
+  },
+  "92": {
+   "num": "92",
+   "title": "Offence relating to the celebration or witnessing of a union",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIII",
+   "part_title": "OFFENCES AND PENALTIES",
+   "text": "(1) A person commits an offence if that person celebrates or witnesses a union purporting to be a marriage where that person knows or should know that—\n  (a) at least one party is below the age of eighteen years;\n  (b) a notice of intention to marry where required has not been given; or (c) a notice of objection to the intended marriage has been given and the objection has not been withdrawn, dismissed or determined.\n(2) A person convicted under subsection (1) is liable to imprisonment for a term not exceeding six months or a fine not exceeding fifty thousand shillings or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person commits an offence if that person celebrates or witnesses a union purporting to be a marriage where that person knows or should know that— (a) at least one party is below the age of eighteen years; (b) a notice of intention to marry where required has not been given; or (c) a notice of objection to the intended marriage has been given and the objection has not been withdrawn, dismissed or determined."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person convicted under subsection (1) is liable to imprisonment for a term not exceeding six months or a fine not exceeding fifty thousand shillings or to both."
+    }
+   ]
+  },
+  "93": {
+   "num": "93",
+   "title": "Celebration of other marriages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A marriage recognised under section 6 may be celebrated in accordance to the rules made by the Cabinet Secretary.\n(2) The Cabinet Secretary may make rules for the celebration of any marriage.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A marriage recognised under section 6 may be celebrated in accordance to the rules made by the Cabinet Secretary."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary may make rules for the celebration of any marriage."
+    }
+   ]
+  },
+  "94": {
+   "num": "94",
+   "title": "Provisions on delegated powers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary may make regulations for the better carrying into effect of this Act. (2) Despite subsection (1), regulations may provide for—\n  (a) forms to be used and fees to be paid in respect of any application or licence made or issued;\n  (b) the manner in which notices of intention to marry are to be made known;\n  (c) the form for the giving of any notice required under this Act;\n  (d) the form of explanation to be given by a person authorised by the Registrar to the parties to an intended marriage in civil form or according to rites recognized by customary law as the case may be before asking them whether the marriage is to be monogamous or polygamous or potentially polygamous;\n  (e) the forms of licences and marriage certificate to be issued by the Registrar;\n  (f) the form of statement of particulars relating to marriage to be used by registration officers;\n  (g) the procedure for registration and the form of returns to be made and the register to be kept under this Act;\n  (h) the payment of fees under this Act; and (i) anything required to be prescribed under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may make regulations for the better carrying into effect of this Act. (2) Despite subsection (1), regulations may provide for—"
+    }
+   ]
+  },
+  "95": {
+   "num": "95",
+   "title": "Rules",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Rules Committee established under the provisions of the Civil Procedure Act (Cap. 21) may make rules regulating court practice or procedure under this Act.",
+   "clauses": []
+  },
+  "96": {
+   "num": "96",
+   "title": "Transitional Provisions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A person who, immediately before the date of commencement of this Act, was a Registrar of Marriages under the Marriage Act (Repealed) or the African Christian Marriage and Divorce Act (Repealed), or an assistant Registrar under the Islamic Marriage and Divorce Registration Act (Repealed), shall, as soon as practicable thereafter, send all registers of marriages and divorces to the Registrar.\n(2) Parties to a marriage contracted under customary law, the Hindu Marriage and Divorce Act (Repealed) or the Islamic Marriage and Divorce Registration Act (Repealed) before commencement of this Act, which is not registered shall apply to the Registrar or County Registrar to assistant Registrar for the registration of that marriage under this Act within three years of the coming to force of this Act.\n(3) The parties to a customary marriage shall register such a marriage within three years of the coming to force of this Act.\n(4) The Cabinet Secretary may extend the registration period under this section by notice in the Gazette.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who, immediately before the date of commencement of this Act, was a Registrar of Marriages under the Marriage Act (Repealed) or the African Christian Marriage and Divorce Act (Repealed), or an assistant Registrar under the Islamic Marriage and Divorce Registration Act (Repealed), shall, as soon as practicable thereafter, send all registers of marriages and divorces to the Registrar."
+    },
+    {
+     "ref": "(2)",
+     "text": "Parties to a marriage contracted under customary law, the Hindu Marriage and Divorce Act (Repealed) or the Islamic Marriage and Divorce Registration Act (Repealed) before commencement of this Act, which is not registered shall apply to the Registrar or County Registrar to assistant Registrar for the registration of that marriage under this Act within three years of the coming to force of this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "The parties to a customary marriage shall register such a marriage within three years of the coming to force of this Act."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Cabinet Secretary may extend the registration period under this section by notice in the Gazette."
+    }
+   ]
+  },
+  "97": {
+   "num": "97",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "",
+   "clauses": []
+  },
+  "98": {
+   "num": "98",
+   "title": "Savings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "XIV",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A subsisting marriage which under any written or customary law hitherto in force constituted a valid marriage immediately before the coming to force of this Act is valid for the purposes of this Act.\n(2) Proceedings commenced under any written law shall, so far as practicable, be continued in accordance with the provisions of this Act.\n(3) Despite subsection (2), an order for judicial separation or decree of divorce granted under any written law shall in relation to the powers of the court regarding maintenance be deemed to be a decree of separation or divorce as the case may granted under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A subsisting marriage which under any written or customary law hitherto in force constituted a valid marriage immediately before the coming to force of this Act is valid for the purposes of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Proceedings commenced under any written law shall, so far as practicable, be continued in accordance with the provisions of this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "Despite subsection (2), an order for judicial separation or decree of divorce granted under any written law shall in relation to the powers of the court regarding maintenance be deemed to be a decree of separation or divorce as the case may granted under this Act."
+    }
+   ]
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 97]",
+   "subtitle": "REPEALED ACTS",
+   "text": "[Spent]"
+  }
+ ],
+ "spent": {}
+}

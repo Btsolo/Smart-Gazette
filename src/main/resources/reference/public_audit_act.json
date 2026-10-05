@@ -1,0 +1,1481 @@
+{
+ "title": "Public Audit Act",
+ "citation": "Cap. 412B",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2015/34/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "PUBLIC AUDIT ACT CAP. 412B Published in Kenya Gazette Vol. CXVIII—No. 2 on 8 January 2016 Assented to on 18 December 2015 Commenced on 7 January 2016\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to provide for the functions and powers of the Office of the Auditor-General in accordance with the Constitution, and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "provisions": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "ESTABLISHMENT OF THE AUDIT ADVISORY BOARD",
+   "provisions": [
+    "25",
+    "26",
+    "27",
+    "28"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "AUDIT PROCESS AND TYPES OF AUDIT",
+   "provisions": [
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "ACCOUNTS OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "provisions": [
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "REPORTING BY AUDITOR-GENERAL",
+   "provisions": [
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "THE CODE OF CONDUCT AND ETHICS",
+   "provisions": [
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60"
+   ]
+  },
+  {
+   "id": "part_VIII",
+   "num": "VIII",
+   "title": "OFFENCES AND SANCTIONS",
+   "provisions": [
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67"
+   ]
+  },
+  {
+   "id": "part_IX",
+   "num": "IX",
+   "title": "GENERAL PROVISIONS",
+   "provisions": [
+    "68",
+    "69",
+    "70",
+    "71",
+    "72"
+   ]
+  },
+  {
+   "id": "part_X",
+   "num": "X",
+   "title": "REPEAL, SAVINGS AND TRANSITIONAL PROVISIONS",
+   "provisions": [
+    "73"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Public Audit Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— \"Accounting Officer\" means—\n  (a) an Accounting Officer of the Office of the Auditor-General referred to under section 16(1)(b);\n  (b) an Accounting Officer as defined under section 2 of the Public Finance Management Act (Cap.\n412A); \"Audit Committee\" means an audit committee established under sections 73(5) and 155(5) of the Public Finance Management Act (Cap. 412A); \"Auditor-General\" means the Auditor-General appointed in accordance with Article 229 of the Constitution and section 11 of this Act; \"Appropriation\" has the meaning assigned to it under section 2 of the Public Finance Management Act (Cap. 412A); \"county government entity\" has the meaning assigned to it under section 2 of the Public Finance Management Act (Cap. 412A); \"effectiveness\" means prudent, efficient, economic, transparent and accountable use of public funds to ensure government achieves value for money and that such funds are applied for intended purpose; \"financial year\" has the meaning assigned to it under Article 260 of the Constitution; \"lawful\" includes compliance with a state organ's internal regulations, internal policies, programmes and the prescribed measures for securing efficient and transparent fiscal management; \"office\" means the Office of the Auditor-General established under section 4 of this Act; \"public officer\" has the meaning assigned to it in Article 260 of the Constitution; \"public funds\" means—\n  (a) all money that comes into possession of, or is distributed by, a State organ including the national or county governments and intergovernmental entities and money raised by a private body under statutory authority;\n  (b) money held by State organ or public entities in trust for third parties and any money that can generate liability for the government;\n\"public debt\" has the meaning assigned to it under Article 214 of the Constitution;\n\"public entity\" includes any department or agency of the government and any authority, body or other entity declared to be a government entity under the Public Finance Management Act (Cap. 412A);\n\"Receiver of Revenue\" has the meaning assigned to it under section 2 of the Public Finance Management Act (Cap. 412A);\n\"State organ\" has the meaning assigned to it under Article 260 of the Constitution; and\n\"wasteful expenditure\" has the meaning assigned to it under section 2 of the Public Finance Management Act (Cap. 412A).",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Guiding values and principles",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In discharging its functions under this Act, the Office of the Auditor-General and any person to whom this Act applies, shall be guided by the values, principles and requirements of the Constitution, including—\n  (a) the national values and principles provided for under Article 10 of the Constitution;\n  (b) the equality and freedom from discrimination provided for under Article 27 of the Constitution;\n  (c) the responsibilities of leadership provided for under Article 73 of the Constitution;\n  (d) the principles governing the conduct of State officers provided for under Article 75 of the Constitution;\n  (e) the principles of public finance under Article 201 of the Constitution; and\n  (f) the values and principles of Public Service as provided for under Article 232 of the Constitution.\n(2) In addition to the values and principles in subsection (1), the Auditor-General shall promote efficiency, accountability, effectiveness and transparency on use of public resources.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In discharging its functions under this Act, the Office of the Auditor-General and any person to whom this Act applies, shall be guided by the values, principles and requirements of the Constitution, including—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In addition to the values and principles in subsection (1), the Auditor-General shall promote efficiency, accountability, effectiveness and transparency on use of public resources."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Establishment of the Office of the Auditor-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) There is established an office to be known as the Office of the Auditor-General which shall be a body corporate in accordance with Article 253 of the Constitution and shall be capable of—\n  (a) suing and being sued;\n  (b) acquiring, safeguarding, holding, charging and disposing of moveable and immoveable property; and\n  (c) doing or performing all such other duties or acts for the proper discharge of its functions under this Act, which may be lawfully done by a body corporate.\n(2) The office shall comprise the Auditor-General as its statutory head and all other staff appointed by the Auditor-General as may be delegated in accordance with Article 234 of the Constitution.\n(3) The Office of the Auditor-General shall ensure reasonable access to its services in all parts of the Republic.\n(4) The headquarters of office of the Auditor-General shall be in the capital city but the office may establish branches at any place in Kenya.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established an office to be known as the Office of the Auditor-General which shall be a body corporate in accordance with Article 253 of the Constitution and shall be capable of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The office shall comprise the Auditor-General as its statutory head and all other staff appointed by the Auditor-General as may be delegated in accordance with Article 234 of the Constitution."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Office of the Auditor-General shall ensure reasonable access to its services in all parts of the Republic."
+    },
+    {
+     "ref": "(4)",
+     "text": "The headquarters of office of the Auditor-General shall be in the capital city but the office may establish branches at any place in Kenya."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Qualification for appointment as the Auditor-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "A person shall be qualified for appointment as the Auditor-General if such person—\n  (a) is a citizen of Kenya;\n  (b) holds the respective qualifications for the office specified in Article 229(2) of the Constitution;\n  (c) holds a degree in finance, accounting or economics from a university recognized in Kenya and demonstrates a verifiable and logical progression in the attainment of his or her educational qualifications;\n  (d) meets the requirements of Chapter Six of the Constitution; and\n  (e) is a practicing member of good standing of a professional body of accountants recognised by law.",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Common Seal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) The Common seal of the Office shall be kept in the custody of the Auditor-General or in the custody of such other person as the Auditor-General may direct.\n(2) The Common Seal of the Office when affixed to a document and duly authenticated shall be judicially and officially noticed, and unless and until the contrary is provided any necessary order or authorization by the Office under this section shall be presumed to have been duly given provided that express authority of the Auditor-General is procured.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Common seal of the Office shall be kept in the custody of the Auditor-General or in the custody of such other person as the Auditor-General may direct."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Common Seal of the Office when affixed to a document and duly authenticated shall be judicially and officially noticed, and unless and until the contrary is provided any necessary order or authorization by the Office under this section shall be presumed to have been duly given provided that express authority of the Auditor-General is procured."
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Functions and powers of the Auditor-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) In addition to the functions and responsibilities of the Auditor-General as set out in Article 229 of the Constitution, the Auditor-General shall—\n  (a) give assurance on the effectiveness of internal controls, risk management and overall governance at national and county government;\n  (b) undertake audit activities in state organs and public entities to confirm whether or not public money has been applied lawfully and in an effective way;\n  (c) satisfy himself or herself that all public money has been used and applied to the purposes intended and that the expenditure conforms to the authority for such expenditure;\n  (d) confirm that—\n  (i) all reasonable precautions have been taken to safeguard the collection of revenue and the acquisition, receipt, issuance and proper use of assets and liabilities; and\n  (ii) collection of revenue and acquisition, receipt, issuance and proper use of assets and liabilities conforms to the authority;\n  (e) issue an audit report in accordance with Article 229 of the Constitution;\n  (f) provide any other reports as may be required under Article 254 of the Constitution; and\n  (g) perform any other function as may be prescribed by any other written legislation.\n(2) Without prejudice to the generality of subsection (1), the Auditor-General may undertake any audits required under the Constitution, this Act or any other relevant law.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In addition to the functions and responsibilities of the Auditor-General as set out in Article 229 of the Constitution, the Auditor-General shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), the Auditor-General may undertake any audits required under the Constitution, this Act or any other relevant law."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Administrative powers of the office of the Auditor-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "In addition to the powers and functions conferred under the Constitution, this Act and other relevant laws, and pursuant to Articles 252 (1) (c) and 232 of the Constitution, the Auditor-General shall—\n  (a) develop an organisational structure and staffing establishment for the Office of the Auditor-General subject to Article 234(5) of the Constitution;\n  (b) subject to Article 234(5) of the Constitution, recruit and promote qualified and competent staff to perform the Office's functions;\n  (c) subject to Article 234(5) of the Constitution, exercise disciplinary control over staff;\n  (d) subject to Article 234(5) of the Constitution, develop human resource of the office;\n  (e) subject to Article 230 (4)(b) and 234 of the Constitution, determine the remuneration and benefits of each member of staff;\n  (f) in addition to what is provided for under any other relevant law, develop and maintain a code of conduct and ethics for the office, specific to auditing, guided by the International code of practice, and code of Ethics issued by the International Organization of Supreme Audit Institutions and in consultation with the Public Service Commission and the National Treasury.",
+   "clauses": []
+  },
+  "9": {
+   "num": "9",
+   "title": "General powers of the Auditor-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) Without prejudice to the powers given under the Constitution and this Act and for the purposes of carrying out his or her duties effectively, the Auditor-General, or an officer authorized for the purpose of this Act, shall have powers—\n  (a) to conduct investigations on his or her own initiative, or on the basis of a complaint made by a third party;\n  (b) to obtain professional assistance, consultancy or advice from such persons or organizations whether within or outside public service as he/she considers appropriate;\n  (c) of conciliation, mediation and negotiation;\n  (d) to issue summons to a witness for the purposes of his or her investigation;\n  (e) of unrestricted access to—\n  (i) all books, records, returns, reports, electronic or otherwise and other documents of entities listed under Article 229(4) of the Constitution;\n  (ii) any property or premises used or held by State organs or public entities covered by Article 229(4) of the Constitution and subject to audit under this Act, Provided that such access is reasonably necessary, in the opinion of the Auditor-General, in carrying out his or her functions;\n  (f) to request any public officer that is subject to this Act to provide explanations, information and assistance in person and in writing;\n  (g) to locate any of his or her staff or an agent, for a time period to be determined by the Auditor-General, at the premises of any State organ or public entity that is the subject of an audit or examination or review and that entity shall provide access to staff or agent and adequate office space, furniture and telephone access at the expenses of that State organ or public entity;\n  (h) to identify the origin of a transaction or officer who directed or approved it, where he or she has determined inaction, omissions, misuse or abuse of public resources by a public officer; and\n  (i) to perform any function and exercise any powers prescribed by any other legislation, in addition to the functions and powers conferred by the Constitution.\n(2) In addition to the powers under the Constitution, and subsection (1), the Auditor-General may without payment of a fee—\n  (a) require a search to be made of any records in a public office;\n  (b) require copies to be made of, or extracts to be taken from, any records in a public office;\n  (c) seize or access or obtain official electronic messages to the extent that it is necessary for purposes of undertaking an investigation or forensic audit in entities listed under Article 229(4) of the Constitution; and\n  (d) solicit assistance of other National and County governments agencies in the exercise of his/ her responsibilities under the Constitution, this Act or any other written law.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Without prejudice to the powers given under the Constitution and this Act and for the purposes of carrying out his or her duties effectively, the Auditor-General, or an officer authorized for the purpose of this Act, shall have powers—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In addition to the powers under the Constitution, and subsection (1), the Auditor-General may without payment of a fee—"
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Independence of the Auditor-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) The Auditor-General shall not be subject to direction or control by any person or authority in carrying out his or her functions under the Constitution or under this Act.\n(2) Without prejudice to the generality of subsection (1), the Auditor-General and his or her staff shall perform their functions impartially, without fear, favour or prejudice and shall exercise their powers independently subject to the provisions of the Article 249 (2) of the Constitution, the provision of this Act and any other written law.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Auditor-General shall not be subject to direction or control by any person or authority in carrying out his or her functions under the Constitution or under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), the Auditor-General and his or her staff shall perform their functions impartially, without fear, favour or prejudice and shall exercise their powers independently subject to the provisions of the Article 249 (2) of the Constitution, the provision of this Act and any other written law."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Vacancy in office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) The office of the Auditor-General shall become vacant, if the Auditor-General—\n  (a) dies;\n  (b) by a notice in writing addressed to the President, resigns from office; or\n  (c) is removed from office under any of the circumstances specified in Article 251 or Chapter Six of the Constitution.\n(2) Where a vacancy occurs under subsection (1), the President shall within seven days, by notice in the Gazette, in at least two newspapers of national circulation and in at least two national radio and television stations, declare vacancies in the office of the Auditor-General and invite applications.\n(3) An application under subsection (2) shall be forwarded to the Public Service Commission within fourteen days of the notice and may be made by any:\n  (a) qualified person;\n  (b) person, organisation or group of persons proposing the nomination of any qualified person.\n(4) The names of all applicants under subsection (2) shall be published in the Gazette.\n(5) The President shall, within fourteen days of the expiry of the period prescribed under subsection (3), constitute a selection panel comprising a chairperson and one representative from—\n  (a) the Ministry for the time being responsible for matters relating to finance;\n  (b) the Office of the Attorney-General;\n  (c) the Ministry for the time being responsible for matters relating to the public service;\n  (d) the Institute of Certified Public Accountants of Kenya;\n  (e) the Association of Professional Societies of East Africa; and\n  (f) the Law Society of Kenya, for the purpose of considering the applicants and selecting at least three persons qualified for appointment as Auditor-General:\nProvided that for the purpose of selection and shortlisting of the said three persons, the selection panel shall hold its proceedings in public and submit to Parliament a report of the interview proceedings, which should include inter alia the scores of each candidate interviewed by individual members of the interviewing panel together with the criteria used in selecting the names forwarded.\n(6) The selection panel shall within seven days of the selection of candidates under subsection (5), forward the names of the selected candidates to the President for nomination.\n(7) The President shall, within seven days of the receipt of the names of the selected candidates under subsection (6), nominate one candidate for appointment as the Auditor-General and forward the name to the National Assembly.\n(8) The National Assembly shall consider the nomination and may approve or reject the nomination.\n(9) Where the National Assembly:\n  (a) approves the nominee, the Speaker shall, within three days of the approval, forward the name of the approved nominee to the President for appointment;\n  (b) rejects the nomination, the speaker shall, within three days of the rejection, communicate the decision to the President, who shall submit a fresh nominee from amongst the candidates forwarded by the selection panel under subsection (6).\n(10) If the National Assembly rejects all or any subsequent nominee submitted by the President for approval under subsection (9), the provisions of subsections (1) to (7) shall, with the necessary modifications, apply.\n(11) The President shall, within seven days of the receipt of the approved nominee from the National Assembly, by notice in the Gazette, appoint the Auditor-General approved by the National Assembly.\n(12) For the avoidance of doubt, the Public Service Commission shall only provide secretariat services for the selection panel convened under subsection (5).\n(13) Despite the foregoing provisions of this section, the President may, by notice in the Gazette, extend the period specified in respect of any matter under this section by a period not exceeding twentyone days.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The office of the Auditor-General shall become vacant, if the Auditor-General—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a vacancy occurs under subsection (1), the President shall within seven days, by notice in the Gazette, in at least two newspapers of national circulation and in at least two national radio and television stations, declare vacancies in the office of the Auditor-General and invite applications."
+    },
+    {
+     "ref": "(3)",
+     "text": "An application under subsection (2) shall be forwarded to the Public Service Commission within fourteen days of the notice and may be made by any:"
+    },
+    {
+     "ref": "(4)",
+     "text": "The names of all applicants under subsection (2) shall be published in the Gazette."
+    },
+    {
+     "ref": "(5)",
+     "text": "The President shall, within fourteen days of the expiry of the period prescribed under subsection (3), constitute a selection panel comprising a chairperson and one representative from—"
+    },
+    {
+     "ref": "(6)",
+     "text": "The selection panel shall within seven days of the selection of candidates under subsection (5), forward the names of the selected candidates to the President for nomination."
+    },
+    {
+     "ref": "(7)",
+     "text": "The President shall, within seven days of the receipt of the names of the selected candidates under subsection (6), nominate one candidate for appointment as the Auditor-General and forward the name to the National Assembly."
+    },
+    {
+     "ref": "(8)",
+     "text": "The National Assembly shall consider the nomination and may approve or reject the nomination."
+    },
+    {
+     "ref": "(9)",
+     "text": "Where the National Assembly:"
+    },
+    {
+     "ref": "(10)",
+     "text": "If the National Assembly rejects all or any subsequent nominee submitted by the President for approval under subsection (9), the provisions of subsections (1) to (7) shall, with the necessary modifications, apply."
+    },
+    {
+     "ref": "(11)",
+     "text": "The President shall, within seven days of the receipt of the approved nominee from the National Assembly, by notice in the Gazette, appoint the Auditor-General approved by the National Assembly."
+    },
+    {
+     "ref": "(12)",
+     "text": "For the avoidance of doubt, the Public Service Commission shall only provide secretariat services for the selection panel convened under subsection (5)."
+    },
+    {
+     "ref": "(13)",
+     "text": "Despite the foregoing provisions of this section, the President may, by notice in the Gazette, extend the period specified in respect of any matter under this section by a period not exceeding twentyone days."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Acting Auditor-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) Where—\n  (a) the office of the Auditor-General becomes vacant;\n  (b) the Auditor-General has been suspended in accordance with the Constitution;\n  (c) the appointment of a person as Auditor-General is pending; or\n  (d) the Auditor-General is for any reason unable to perform the function of his or her office, then until a person is appointed to and has assumed the functions of that office in accordance with section 11, or until the Auditor-General has resumed the performance of those functions, the Public Service Commission shall recommend the most senior officer in the office of the Auditor-General to the President to designate such a person as the acting Auditor-General.\n(2) A person designated under subsection (1) shall meet the minimum qualifications for appointment to the office of the Auditor-General and shall serve for a period not exceeding ninety days.\n(3) When acting in terms of subsection (1), the acting Auditor-General shall have all the powers of the Auditor-General.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person designated under subsection (1) shall meet the minimum qualifications for appointment to the office of the Auditor-General and shall serve for a period not exceeding ninety days."
+    },
+    {
+     "ref": "(3)",
+     "text": "When acting in terms of subsection (1), the acting Auditor-General shall have all the powers of the Auditor-General."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Oath of Office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "The Auditor-General shall, before assuming office, make and subscribe to the oath or affirmation set out in the Schedule before the Chief Justice.",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "Development and approval of organisational structure",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "The Office of the Auditor-General shall develop an organizational structure for consideration and approval by the Audit Advisory Board.",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "Recruitment of the Senior Deputy Auditor-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) There shall be a Senior Deputy Auditor-General who shall be competitively recruited by the Advisory Board and appointed by the Auditor-General.\n(2) A person shall be qualified for appointment as the Senior Deputy Auditor-General, if that person meets all the qualifications for appointment as outlined in section 5 of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Senior Deputy Auditor-General who shall be competitively recruited by the Advisory Board and appointed by the Auditor-General."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall be qualified for appointment as the Senior Deputy Auditor-General, if that person meets all the qualifications for appointment as outlined in section 5 of this Act."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Responsibilities of the Senior Deputy Auditor-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) The Senior Deputy Auditor-General shall deputize the Auditor-General and—\n  (a) be the head of administration and management of the office of the Auditor-General;\n  (b) be the accounting officer of the Office of the Auditor-General; and\n  (c) perform such duties and exercise such other powers as the Auditor-General may delegate to him or her or perform other duties as spelt out by the office of the Auditor-General.\n(2) In performance of his or her responsibilities under subsection (1) (a), the Senior Deputy AuditorGeneral shall report to the Auditor-General.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Senior Deputy Auditor-General shall deputize the Auditor-General and—"
+    },
+    {
+     "ref": "(2)",
+     "text": "In performance of his or her responsibilities under subsection (1) (a), the Senior Deputy AuditorGeneral shall report to the Auditor-General."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Recruitment of other Staff",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) The office of the Auditor-General may recruit such other staff as may be necessary for proper discharge of his or her functions under the Constitution, this Act and any other written law, upon such terms and conditions as he/ she may determine in consultation with the Salaries and Remuneration Commission and subject to Articles 230 and 234(5) of the Constitution.\n(2) The remuneration of such staff should reflect prevailing remuneration of staff performing similar duties in the audit profession in other public and private institutions.\n(3) The staff of the Office of the Auditor-General shall be competitively recruited in accordance to the organisation structure developed by the office of the Auditor-General.\n(4) The recruitment and appointment of staff shall take cognisance of regional, ethnic and gender balance including equal opportunities to persons with disabilities and marginalized groups and shall comply with the value and principles of public service as contemplated in Article 232 of the Constitution.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The office of the Auditor-General may recruit such other staff as may be necessary for proper discharge of his or her functions under the Constitution, this Act and any other written law, upon such terms and conditions as he/ she may determine in consultation with the Salaries and Remuneration Commission and subject to Articles 230 and 234(5) of the Constitution."
+    },
+    {
+     "ref": "(2)",
+     "text": "The remuneration of such staff should reflect prevailing remuneration of staff performing similar duties in the audit profession in other public and private institutions."
+    },
+    {
+     "ref": "(3)",
+     "text": "The staff of the Office of the Auditor-General shall be competitively recruited in accordance to the organisation structure developed by the office of the Auditor-General."
+    },
+    {
+     "ref": "(4)",
+     "text": "The recruitment and appointment of staff shall take cognisance of regional, ethnic and gender balance including equal opportunities to persons with disabilities and marginalized groups and shall comply with the value and principles of public service as contemplated in Article 232 of the Constitution."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Secondment of officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) A State organ or public entity may upon such request by the Auditor-General, second to the office such number of public officers as may be necessary for proper performance of the functions of the Office.\n(2) A public officer seconded to the office shall, during the period of secondment, be deemed to be an officer of the office and be subject to the policies and regulations of the office of the AuditorGeneral.\n(3) The Auditor-General may, upon the request of a State organ or public entity second his or her staff who shall, for the period of such secondment, be under the direction and control of the concerned State organ or public entity and such an officer shall not audit that State organ or public entity within a period of twenty-four months after the expiry of the secondment.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A State organ or public entity may upon such request by the Auditor-General, second to the office such number of public officers as may be necessary for proper performance of the functions of the Office."
+    },
+    {
+     "ref": "(2)",
+     "text": "A public officer seconded to the office shall, during the period of secondment, be deemed to be an officer of the office and be subject to the policies and regulations of the office of the AuditorGeneral."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Auditor-General may, upon the request of a State organ or public entity second his or her staff who shall, for the period of such secondment, be under the direction and control of the concerned State organ or public entity and such an officer shall not audit that State organ or public entity within a period of twenty-four months after the expiry of the secondment."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Delegation of powers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) The Auditor-General may, subject to such conditions as he or she may impose in writing, delegate any power and assign any duty conferred on him or her in terms of this Act or any other written law to a subordinate officer.\n(2) A delegation or instruction in terms of subsection (1) shall not absolve the Auditor-General of the responsibility concerning the exercise of his or her power or the performance of the duty.\n(3) The Auditor-General may confirm, vary or revoke any decision taken by a member of staff in consequence of a delegation or instruction under this section.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Auditor-General may, subject to such conditions as he or she may impose in writing, delegate any power and assign any duty conferred on him or her in terms of this Act or any other written law to a subordinate officer."
+    },
+    {
+     "ref": "(2)",
+     "text": "A delegation or instruction in terms of subsection (1) shall not absolve the Auditor-General of the responsibility concerning the exercise of his or her power or the performance of the duty."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Auditor-General may confirm, vary or revoke any decision taken by a member of staff in consequence of a delegation or instruction under this section."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Budget estimates and plans of the office of the Auditor-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) The accounting officer shall prepare annually budget estimates of revenue and expenditure and work plans for the next financial year for consideration.\n(2) The budget estimates of revenue and expenditure referred to under sub- section (1) shall be submitted to the Cabinet Secretary responsible for finance not later than the 30th March each year for review and submission to the National Assembly in accordance with Article 221 of the Constitution, and the National Assembly shall, pursuant to Article 249 (3) of the Constitution, allocate adequate funds to the office of the Auditor-General.\n(3) The budget estimates submitted under sub-section (2) shall include the following—\n  (a) estimates of revenue and recurrent expenditure for the coming fiscal year;\n  (b) estimates for the development expenditure for the coming fiscal year; and\n  (c) any other matter considered relevant by the Auditor-General in the consideration of the budget and plans of the Office.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The accounting officer shall prepare annually budget estimates of revenue and expenditure and work plans for the next financial year for consideration."
+    },
+    {
+     "ref": "(2)",
+     "text": "The budget estimates of revenue and expenditure referred to under sub- section (1) shall be submitted to the Cabinet Secretary responsible for finance not later than the 30th March each year for review and submission to the National Assembly in accordance with Article 221 of the Constitution, and the National Assembly shall, pursuant to Article 249 (3) of the Constitution, allocate adequate funds to the office of the Auditor-General."
+    },
+    {
+     "ref": "(3)",
+     "text": "The budget estimates submitted under sub-section (2) shall include the following—"
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Power to obtain information from others",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) For the purposes of exercising or performing his or her functions, duties or powers under the Constitution or this Act, and subject to the law relating to data protection, the Auditor-General shall require a public body or any person employed by the public body—\n  (a) to produce any official document in the body's or person's custody, care or control; and\n  (b) to provide the Auditor-General with information or an explanation about any official information, system or asset.\n(2) The Auditor-General may obtain such official information as he or she considers necessary to fulfil his or her functions, duties and powers from a person who is not a member, employee or office holder of the public body, within fourteen days and in doing so, the Auditor-General may—\n  (a) advise the person in writing of the nature of the information and why it is needed;\n  (b) state that the information is required under this Act;\n  (c) ask for further information where necessary;\n  (d) summon the person, if necessary; or\n  (e) reimburse the person for any reasonable costs incurred in travelling where such person is summoned to appear, as may be determined by the Office.\n(3) Where the information required is not official, then the Auditor-General will have to apply to the courts to obtain such information.\n(4) In cases where the Auditor-General suspects fraud or corruption, he or she may invite the relevant organs for their appropriate action.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "For the purposes of exercising or performing his or her functions, duties or powers under the Constitution or this Act, and subject to the law relating to data protection, the Auditor-General shall require a public body or any person employed by the public body—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Auditor-General may obtain such official information as he or she considers necessary to fulfil his or her functions, duties and powers from a person who is not a member, employee or office holder of the public body, within fourteen days and in doing so, the Auditor-General may—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the information required is not official, then the Auditor-General will have to apply to the courts to obtain such information."
+    },
+    {
+     "ref": "(4)",
+     "text": "In cases where the Auditor-General suspects fraud or corruption, he or she may invite the relevant organs for their appropriate action."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Power to examine bank accounts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) The Auditor-General may in the course of exercising his or her functions, duties or powers, track a transaction into the account of any person in any bank through an order of the courts, if the Auditor-General has reason to believe that the money belonging to a public body has been fraudulently or wrongfully paid into such person's account.\n(2) When required under this section, the bank shall produce any documents or provide requested information relating to the account in the bank's custody or control.\n(3) In exercising the authority under this section, the Auditor-General shall ensure that any information obtained is not used for any other purpose other than that legally intended and the Auditor-General shall keep in safe custody all the documents and information so obtained.\n(4) The Auditor-General may make copies of any documents so produced.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Auditor-General may in the course of exercising his or her functions, duties or powers, track a transaction into the account of any person in any bank through an order of the courts, if the Auditor-General has reason to believe that the money belonging to a public body has been fraudulently or wrongfully paid into such person's account."
+    },
+    {
+     "ref": "(2)",
+     "text": "When required under this section, the bank shall produce any documents or provide requested information relating to the account in the bank's custody or control."
+    },
+    {
+     "ref": "(3)",
+     "text": "In exercising the authority under this section, the Auditor-General shall ensure that any information obtained is not used for any other purpose other than that legally intended and the Auditor-General shall keep in safe custody all the documents and information so obtained."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Auditor-General may make copies of any documents so produced."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Outsourcing audit services",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) For purposes of carrying out his or her functions under this Act, the Auditor-General may outsource audit services from duly registered audit firms whose partners and staff are not employees of the Office of the Auditor-General and the public service to assist in an examination and audit of accounts.\n(2) Only a person registered and practising as an accountant under the Accountants Act (Cap. 531) shall be qualified for the purpose of provision of a financial audit opinion under this section.\n(3) An auditor appointed under this section shall comply with any lawful directions given by the Auditor-General and shall report to the Auditor-General.\n(4) For purposes of his or her appointment, an auditor appointed under this section exercises delegated powers of the Auditor-General relating to examinations and audit.\n(5) An auditor appointed under this section shall not certify the results of the examination and audit and shall not submit any report required under this Act other than the report under subsection (2).\n(6) During the period of performing the work outsourced, the staff of the outsourced firm shall conform to the provisions of this Act and Code of Ethics developed under this Act.\n(7) An officer who previously worked for an organ that is being audited by the Auditor-General shall not audit that organ until after thirty-six months from the time he or she ceased working for that organ.\n(8) Outsourcing of any audit services under this section shall not absolve the Auditor-General of any responsibility concerning the exercise of his or her powers under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "For purposes of carrying out his or her functions under this Act, the Auditor-General may outsource audit services from duly registered audit firms whose partners and staff are not employees of the Office of the Auditor-General and the public service to assist in an examination and audit of accounts."
+    },
+    {
+     "ref": "(2)",
+     "text": "Only a person registered and practising as an accountant under the Accountants Act (Cap. 531) shall be qualified for the purpose of provision of a financial audit opinion under this section."
+    },
+    {
+     "ref": "(3)",
+     "text": "An auditor appointed under this section shall comply with any lawful directions given by the Auditor-General and shall report to the Auditor-General."
+    },
+    {
+     "ref": "(4)",
+     "text": "For purposes of his or her appointment, an auditor appointed under this section exercises delegated powers of the Auditor-General relating to examinations and audit."
+    },
+    {
+     "ref": "(5)",
+     "text": "An auditor appointed under this section shall not certify the results of the examination and audit and shall not submit any report required under this Act other than the report under subsection (2)."
+    },
+    {
+     "ref": "(6)",
+     "text": "During the period of performing the work outsourced, the staff of the outsourced firm shall conform to the provisions of this Act and Code of Ethics developed under this Act."
+    },
+    {
+     "ref": "(7)",
+     "text": "An officer who previously worked for an organ that is being audited by the Auditor-General shall not audit that organ until after thirty-six months from the time he or she ceased working for that organ."
+    },
+    {
+     "ref": "(8)",
+     "text": "Outsourcing of any audit services under this section shall not absolve the Auditor-General of any responsibility concerning the exercise of his or her powers under this Act."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Professional assistance and consultancy",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) The Auditor-General may, in the performance of his or her duties and functions under this Act, engage the services of or work in consultation with professional or technical experts or consultants, whether in the public service or not, to enhance the performance of the Auditor-General.\n(2) The engagement of service under sub-section (1) shall be for purposes of ensuring effectiveness in the application of public funds.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Auditor-General may, in the performance of his or her duties and functions under this Act, engage the services of or work in consultation with professional or technical experts or consultants, whether in the public service or not, to enhance the performance of the Auditor-General."
+    },
+    {
+     "ref": "(2)",
+     "text": "The engagement of service under sub-section (1) shall be for purposes of ensuring effectiveness in the application of public funds."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Establishment and composition of the Audit Advisory Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ESTABLISHMENT OF THE AUDIT ADVISORY BOARD",
+   "text": "(1) There is established an unincorporated board to be known as the Audit Advisory Board which shall comprise of—\n  (a) the Auditor-General or a person nominated by him or her;\n  (b) the Attorney-General or a person nominated by him or her;\n  (c) a nominee of the Institute of Certified Public Accountants of Kenya;\n  (d) a nominee of the Association of Professional Societies of East Africa;\n  (e) a nominee of the Law Society of Kenya;\n  (f) the Chairperson of the Public Service Commission or his or her nominee: Provided that the nominee under paragraph (d) shall not be a member of a professional body provided for under subsection 1(c) and (e).\n(2) A person shall be qualified to be nominated under subsection (1)(c) to (e) above if such person—\n  (a) has a degree from a university recognised in Kenya;\n  (b) has a minimum of fifteen years' experience in matters relating to public finance, auditing, accounts, law, governance or public management; and (c) meets the requirements of Chapter Six of the Constitution.\n(3) The Auditor-General may co-opt two other members with the necessary expertise. (4) The members of the Audit Advisory Board shall elect a chairperson from among themselves, who shall not be the Auditor-General. (5) The nomination and appointment of members under this section shall take cognisance of regional, ethnic, and gender balance and people with disabilities and marginalised groups. (6) The Auditor-General shall, within fourteen days of receipt of names of qualified persons pursuant to subsection (1), by notice in the Gazette, appoint members of the Board. (7) The members of the Audit Advisory Board shall hold office for a term not exceeding three years from the date of appointment and may be eligible for reappointment for a further one term of three years.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established an unincorporated board to be known as the Audit Advisory Board which shall comprise of— (a) the Auditor-General or a person nominated by him or her; (b) the Attorney-General or a person nominated by him or her; (c) a nominee of the Institute of Certified Public Accountants of Kenya; (d) a nominee of the Association of Professional Societies of East Africa; (e) a nominee of the Law Society of Kenya; (f) the Chairperson of the Public Service Commission or his or her nominee: Provided that the nominee under paragraph (d) shall not be a member of a professional body provided for under subsection 1(c) and (e)."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall be qualified to be nominated under subsection (1)(c) to (e) above if such person— (a) has a degree from a university recognised in Kenya; (b) has a minimum of fifteen years' experience in matters relating to public finance, auditing, accounts, law, governance or public management; and (c) meets the requirements of Chapter Six of the Constitution."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Auditor-General may co-opt two other members with the necessary expertise. (4) The members of the Audit Advisory Board shall elect a chairperson from among themselves, who shall not be the Auditor-General. (5) The nomination and appointment of members under this section shall take cognisance of regional, ethnic, and gender balance and people with disabilities and marginalised groups. (6) The Auditor-General shall, within fourteen days of receipt of names of qualified persons pursuant to subsection (1), by notice in the Gazette, appoint members of the Board. (7) The members of the Audit Advisory Board shall hold office for a term not exceeding three years from the date of appointment and may be eligible for reappointment for a further one term of three years."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Meetings and procedure of the Audit Advisory Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ESTABLISHMENT OF THE AUDIT ADVISORY BOARD",
+   "text": "(1) The Audit Advisory Board shall meet at least four times in every financial year and not more than twelve times in every financial year and not more than four months shall elapse between one meeting and the next meeting.\n(2) The quorum at the meeting of the Audit Advisory Board is five members of the Board or a greater number determined by the Audit Advisory Board in respect of an important matter.\n(3) The Senior Deputy Auditor-General of the office of the Auditor-General shall be the Secretary of the Audit Advisory Board.\n(4) The Chairperson shall convene and preside at meetings of the Board.\n(5) The proceedings of the Audit Advisory Board shall not be invalidated by reason of a vacancy among the members.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Audit Advisory Board shall meet at least four times in every financial year and not more than twelve times in every financial year and not more than four months shall elapse between one meeting and the next meeting."
+    },
+    {
+     "ref": "(2)",
+     "text": "The quorum at the meeting of the Audit Advisory Board is five members of the Board or a greater number determined by the Audit Advisory Board in respect of an important matter."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Senior Deputy Auditor-General of the office of the Auditor-General shall be the Secretary of the Audit Advisory Board."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Chairperson shall convene and preside at meetings of the Board."
+    },
+    {
+     "ref": "(5)",
+     "text": "The proceedings of the Audit Advisory Board shall not be invalidated by reason of a vacancy among the members."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Functions of the Audit Advisory Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ESTABLISHMENT OF THE AUDIT ADVISORY BOARD",
+   "text": "(1) Subject to section 10, the principal function of the Audit Advisory Board shall be to advise the Auditor-General on the exercise of his or her powers and the performance of his or her functions under the Constitution and this Act.\n(2) Subject to the generality of subsection (1) the Board shall, in addition to any other function that may be conferred by this Act or any other law, advise the Auditor-General on—\n  (a) the recruitment of senior managers into the Office of the Auditor-General;\n  (b) the development and review of organizational development issues;\n  (c) the budget estimates and plans of the office of the Auditor-General;\n  (d) the remuneration and other terms of appointment of the staff of the Office of the AuditorGeneral in consultation with the Salaries and Remuneration Commission; and\n  (e) any other matter that the Auditor-General may refer to the Board from time to time.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to section 10, the principal function of the Audit Advisory Board shall be to advise the Auditor-General on the exercise of his or her powers and the performance of his or her functions under the Constitution and this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to the generality of subsection (1) the Board shall, in addition to any other function that may be conferred by this Act or any other law, advise the Auditor-General on—"
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Allowances and expenses of the Audit Advisory Board members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ESTABLISHMENT OF THE AUDIT ADVISORY BOARD",
+   "text": "The members of the Audit Advisory Board shall be paid such allowances and expenses as are provided by the Salaries and Remuneration Commission from monies appropriated to the Office of the AuditorGeneral.",
+   "clauses": []
+  },
+  "29": {
+   "num": "29",
+   "title": "Guiding principles, practices and standards of auditing",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "AUDIT PROCESS AND TYPES OF AUDIT",
+   "text": "Subject to the Constitution and any written law, the Office of the Auditor-General shall apply the applicable international standards, principles and practices in their audits.",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "Scope of Audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "AUDIT PROCESS AND TYPES OF AUDIT",
+   "text": "Subject to the provisions of Articles 201 and 232 of the Constitution, the Auditor-General shall determine the scope and extent of the examination or inspection of accounts and any other documents or information related to public expenditures or any audits under this Act, which he considers necessary in carrying out his or her responsibilities and functions specified under this Act.",
+   "clauses": []
+  },
+  "31": {
+   "num": "31",
+   "title": "Certification audit process steps",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "AUDIT PROCESS AND TYPES OF AUDIT",
+   "text": "(1) The certification audit process steps shall be as follows—\n  (a) within three months after Parliament or the County Assembly has debated and considered the final report of the Auditor-General and made recommendations, a State organ or a public entity that had been audited shall, as a preliminary step, submit a report on how it has addressed the recommendations and findings of the previous year's audit.\n  (b) at the beginning of the audit examination of the financial statements of a State organ or public entity, an inception meeting shall be held to deliberate on the scope of the financial audit, between the Auditor-General and the accounting officer and the financial statements to be audited should have been signed by the accounting officer and the substantive head of that entity, if different from the accounting officer and the Chairperson of the governing body, where applicable;\n  (c) at the conclusion of the audit examination of the financial statements of each State organ, an exit meeting shall be held at which the Auditor-General shall submit a draft management letter which shall include findings and recommendations to the accounting officer and comments of the accounting officer on the Auditor-General's findings and recommendations and the Auditor-General shall provide a copy of the report to the substantive head of that entity, if different from the accounting officer and, the Chairperson of the governing body, where applicable.\n(2) For all other audits or investigation, the Auditor-General shall inform the State organ or public entity to be audited or investigated in writing before commencement of the audit or investigation.\n(3) The Auditor-General shall include in his or her report under this section—\n  (a) recommendations on how a State organ or public entity may improve the application of funds in a lawful and in an effective way; and\n  (b) how responsive the State organ or public entity has been to past audit findings and recommendations.\n(4) The accounting officer shall within fourteen days from the date of receipt of the draft management letter, submit a response to the Auditor-General including remedial actions that have been undertaken to address any qualifications in the draft management letter.\n(5) If within fourteen days the Auditor-General will not have received a response, the Auditor-General shall proceed with the finalisation of the final management letter.\n(6) Where an audit report has been tabled, the Speaker of the National Assembly shall invite the Auditor-General to present the report before the National Assembly.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The certification audit process steps shall be as follows—"
+    },
+    {
+     "ref": "(2)",
+     "text": "For all other audits or investigation, the Auditor-General shall inform the State organ or public entity to be audited or investigated in writing before commencement of the audit or investigation."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Auditor-General shall include in his or her report under this section—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The accounting officer shall within fourteen days from the date of receipt of the draft management letter, submit a response to the Auditor-General including remedial actions that have been undertaken to address any qualifications in the draft management letter."
+    },
+    {
+     "ref": "(5)",
+     "text": "If within fourteen days the Auditor-General will not have received a response, the Auditor-General shall proceed with the finalisation of the final management letter."
+    },
+    {
+     "ref": "(6)",
+     "text": "Where an audit report has been tabled, the Speaker of the National Assembly shall invite the Auditor-General to present the report before the National Assembly."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Audit reports to be submitted to Parliament and the relevant county assembly",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "AUDIT PROCESS AND TYPES OF AUDIT",
+   "text": "(1) All reports of an audit shall be submitted to Parliament or the relevant county assembly.\n(2) Within seven days of receiving the report, Parliament shall publicize it on its official website and other public spaces.\n(3) Within fourteen days after submitting the report to Parliament or the relevant county assembly, the Auditor-General shall publicize the report on the official website and other public spaces",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "All reports of an audit shall be submitted to Parliament or the relevant county assembly."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within seven days of receiving the report, Parliament shall publicize it on its official website and other public spaces."
+    },
+    {
+     "ref": "(3)",
+     "text": "Within fourteen days after submitting the report to Parliament or the relevant county assembly, the Auditor-General shall publicize the report on the official website and other public spaces"
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Use of work of internal auditor",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "AUDIT PROCESS AND TYPES OF AUDIT",
+   "text": "(1) The final report by an internal auditor which has been deliberated on and adopted by an audit committee of a State organ or public entity, may be copied to the Auditor-General.\n(2) The Auditor-General shall have unhindered access to all internal audit reports of a State organ or any public entity, under subsection (1) above, which is subject to audit by the Auditor-General as provided for under Article 229 (4) of the Constitution.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The final report by an internal auditor which has been deliberated on and adopted by an audit committee of a State organ or public entity, may be copied to the Auditor-General."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Auditor-General shall have unhindered access to all internal audit reports of a State organ or any public entity, under subsection (1) above, which is subject to audit by the Auditor-General as provided for under Article 229 (4) of the Constitution."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Periodic Audits",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "AUDIT PROCESS AND TYPES OF AUDIT",
+   "text": "The Auditor-General may, upon request or at his or her own initiative conduct periodic audits which shall be proactive, preventive, and deterrent to fraud and corrupt practices, systemic and shall be determined with a view to evaluating the effectiveness of risk management, control and governance processes in State Organs and public entities.",
+   "clauses": []
+  },
+  "35": {
+   "num": "35",
+   "title": "Annual financial audits",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "AUDIT PROCESS AND TYPES OF AUDIT",
+   "text": "The Auditor-General shall conduct audits of financial statements under Article 229 of the Constitution for State Organs and public entities and report annually to Parliament and relevant county assembly.",
+   "clauses": []
+  },
+  "36": {
+   "num": "36",
+   "title": "Performance Audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "AUDIT PROCESS AND TYPES OF AUDIT",
+   "text": "(1) The Auditor-General shall conduct performance audit to examine the economy, efficiency and effectiveness with which public money has been expended pursuant to Article 229 of the Constitution.\n(2) The Auditor-General may undertake a comprehensive performance audit within six months after the completion of any National or County project to evaluate, whether the citizen has gotten value for money in the project and submit the report to Parliament or County Assembly for tabling and debate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Auditor-General shall conduct performance audit to examine the economy, efficiency and effectiveness with which public money has been expended pursuant to Article 229 of the Constitution."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Auditor-General may undertake a comprehensive performance audit within six months after the completion of any National or County project to evaluate, whether the citizen has gotten value for money in the project and submit the report to Parliament or County Assembly for tabling and debate."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Forensic Audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "AUDIT PROCESS AND TYPES OF AUDIT",
+   "text": "The Auditor-General may, upon request by Parliament, conduct forensic audits to establish fraud, corruption or other financial improprieties.",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "Procurement audits",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "AUDIT PROCESS AND TYPES OF AUDIT",
+   "text": "The Auditor-General may examine the public procurement and asset disposal process of a state organ or a public entity with a view to confirm as to whether procurements were done lawfully and in an effective way.",
+   "clauses": []
+  },
+  "39": {
+   "num": "39",
+   "title": "Audit reports to be submitted to Parliament and the relevant county assembly",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "AUDIT PROCESS AND TYPES OF AUDIT",
+   "text": "(1) All reports of an audit shall be submitted to Parliament or the relevant county assembly. (2) Within seven days of receiving the report, Parliament or the relevant county assembly shall publicise it on their official website and other public spaces. (3) Within fourteen days after the expiry of seven days upon submitting the report to Parliament or the relevant county assembly, the Auditor-General shall publicise the report on their official website and other public spaces.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "All reports of an audit shall be submitted to Parliament or the relevant county assembly. (2) Within seven days of receiving the report, Parliament or the relevant county assembly shall publicise it on their official website and other public spaces. (3) Within fourteen days after the expiry of seven days upon submitting the report to Parliament or the relevant county assembly, the Auditor-General shall publicise the report on their official website and other public spaces."
+    }
+   ]
+  },
+  "40": {
+   "num": "40",
+   "title": "Auditing of national security organs",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "AUDIT PROCESS AND TYPES OF AUDIT",
+   "text": "(1) In auditing national security organs, the Auditor-General and his or her representatives shall hold an inception meeting at the highest level, pursuant to section 31(1) (b), to agree on areas which may touch on national security and determine the appropriate audit approach that shall ensure confidentiality of information.\n(2) The audit reports on national security organs may be redacted to shield identities of persons as well as assets and liabilities as the case may be.\n(3) All staff of the Auditor-General carrying out audit under this section shall be vetted by the authorised government vetting agency.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In auditing national security organs, the Auditor-General and his or her representatives shall hold an inception meeting at the highest level, pursuant to section 31(1) (b), to agree on areas which may touch on national security and determine the appropriate audit approach that shall ensure confidentiality of information."
+    },
+    {
+     "ref": "(2)",
+     "text": "The audit reports on national security organs may be redacted to shield identities of persons as well as assets and liabilities as the case may be."
+    },
+    {
+     "ref": "(3)",
+     "text": "All staff of the Auditor-General carrying out audit under this section shall be vetted by the authorised government vetting agency."
+    }
+   ]
+  },
+  "41": {
+   "num": "41",
+   "title": "Sources of funds of the Office of the Auditor-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "ACCOUNTS OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) The funds of the Office of the Auditor-General shall consist of—\n  (a) monies appropriated by Parliament for the purposes of the Office of the Auditor-General;\n  (b) such monies or assets as may accrue to the office of the Auditor-General in the course of the exercise of the Auditor-General's powers or the performance of his functions under this Act;\n  (c) audit fees charged at the rates prescribed by the Auditor-General;\n  (d) investment income subject to annual approval by Parliament; and\n  (e) all monies from any other source provided or donated or lent to the office of the AuditorGeneral and such monies shall be disclosed to Parliament.\n(2) The receipts, earnings or accruals of the office of the Auditor-General shall not be paid into the Consolidated Fund but shall be retained for purposes of this Act in accordance with Article 206 (1) of the Constitution.\n(3) The Auditor-General may open and maintain such bank accounts in accordance with section 28 of the Public Finance Management Act (Cap. 412A), as are necessary for the exercise of the functions of the office of the Auditor-General and shall pay into them all monies received from the Government, or from any other source, for the purposes of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The funds of the Office of the Auditor-General shall consist of— (a) monies appropriated by Parliament for the purposes of the Office of the Auditor-General; (b) such monies or assets as may accrue to the office of the Auditor-General in the course of the exercise of the Auditor-General's powers or the performance of his functions under this Act; (c) audit fees charged at the rates prescribed by the Auditor-General;"
+    },
+    {
+     "ref": "(2)",
+     "text": "The receipts, earnings or accruals of the office of the Auditor-General shall not be paid into the Consolidated Fund but shall be retained for purposes of this Act in accordance with Article 206 (1) of the Constitution."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Auditor-General may open and maintain such bank accounts in accordance with section 28 of the Public Finance Management Act (Cap. 412A), as are necessary for the exercise of the functions of the office of the Auditor-General and shall pay into them all monies received from the Government, or from any other source, for the purposes of this Act."
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "Auditor-General not to question Government policy objectives*",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "ACCOUNTS OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "Notwithstanding the provisions of this Act, in an examination under this Act, the Auditor-General shall not question the merits of a policy objective of the national government or county government or any other public entity.\n*This section was declared unconstitutional by Petition No. 388 of 2016: High Court at Nairobi.",
+   "clauses": []
+  },
+  "43": {
+   "num": "43",
+   "title": "Accounts of the Office of the Auditor-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "ACCOUNTS OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) For each financial year, the Accounting Officer of the office of the Auditor-General shall prepare and submit upon approval by the Auditor-General, for audit the financial statements of the office of the Auditor-General to an external auditor appointed by the National Assembly in accordance with Article 226(4) of the Constitution.\n(2) The financial statement shall include the following—\n  (a) a statement of financial performance;\n  (b) a statement of financial position;\n  (c) a statement of changes in net assets;\n  (d) a statement of accounting policies and notes to the financial statements; and\n  (e) a statement of performance of the Office of the Auditor-General including statements on processes and systems audit against predetermined objectives.\n(3) Without prejudice to subsection (2), the Accounting Officer shall prepare the financial statements in a form that complies with the relevant accounting standards prescribed and published by the Public Sector Accounting Standards Board in accordance with the Public Finance Management Act (Cap. 412A).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "For each financial year, the Accounting Officer of the office of the Auditor-General shall prepare and submit upon approval by the Auditor-General, for audit the financial statements of the office of the Auditor-General to an external auditor appointed by the National Assembly in accordance with Article 226(4) of the Constitution."
+    },
+    {
+     "ref": "(2)",
+     "text": "The financial statement shall include the following—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Without prejudice to subsection (2), the Accounting Officer shall prepare the financial statements in a form that complies with the relevant accounting standards prescribed and published by the Public Sector Accounting Standards Board in accordance with the Public Finance Management Act (Cap. 412A)."
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Audit of accounts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "ACCOUNTS OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) The accounting officer of the office of the Auditor-General shall submit accounts of the office to the appointed auditor under section 43, within three months after the end of the financial year to which the accounts relate.\n(2) The appointed auditor shall examine and audit the submitted accounts of the office of the AuditorGeneral within six months after the end of the financial year in accordance with the provisions of Part IV of this Act, express an opinion and certify the result of that examination and audit.\n(3) The appointed auditor shall examine whether or not public money has been applied lawfully and in an effective way.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The accounting officer of the office of the Auditor-General shall submit accounts of the office to the appointed auditor under section 43, within three months after the end of the financial year to which the accounts relate."
+    },
+    {
+     "ref": "(2)",
+     "text": "The appointed auditor shall examine and audit the submitted accounts of the office of the AuditorGeneral within six months after the end of the financial year in accordance with the provisions of Part IV of this Act, express an opinion and certify the result of that examination and audit."
+    },
+    {
+     "ref": "(3)",
+     "text": "The appointed auditor shall examine whether or not public money has been applied lawfully and in an effective way."
+    }
+   ]
+  },
+  "45": {
+   "num": "45",
+   "title": "Reporting by the appointed auditor",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "ACCOUNTS OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "(1) The appointed auditor shall prepare a report on the examination and audit and submit the report to each relevant Clerk of Parliament, with a copy to the Cabinet Secretary responsible for finance and the Auditor-General.\n(2) Subject to Article 35 of the Constitution, Parliament shall publicise it on their official website and other public spaces.\n(3) Within fourteen days after the expiry of seven days upon submitting the report to Parliament, the Auditor-General shall publicise the report on their official website and other public spaces.\n(4) Without limiting what may be included in the report—\n  (a) the report shall indicate whether—\n  (i) the information and explanations that were required to perform the examination and audit were received;\n  (ii) proper books of accounts have been kept and the accounts are in agreement therewith; and\n  (iii) the accounts present a true and fair view of the financial position of the office of the Auditor-General;\n  (b) the report shall identify cases in which—\n  (i) money has been spent in a way that was not lawful, economical, efficient and effective; and\n  (ii) the rules and procedures followed or the records kept were inadequate to safeguard assets, liabilities and the collection of revenue.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The appointed auditor shall prepare a report on the examination and audit and submit the report to each relevant Clerk of Parliament, with a copy to the Cabinet Secretary responsible for finance and the Auditor-General."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to Article 35 of the Constitution, Parliament shall publicise it on their official website and other public spaces."
+    },
+    {
+     "ref": "(3)",
+     "text": "Within fourteen days after the expiry of seven days upon submitting the report to Parliament, the Auditor-General shall publicise the report on their official website and other public spaces."
+    },
+    {
+     "ref": "(4)",
+     "text": "Without limiting what may be included in the report—"
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "Debating and considering report of appointed auditor",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "ACCOUNTS OF THE OFFICE OF THE AUDITOR-GENERAL",
+   "text": "Within three months after receiving an audit report for the accounts of the Office of the Auditor-General, the National Assembly shall debate and consider the Annual Report of the office of the Auditor-General, comprising the financial statements and the activities of the office and take appropriate action.",
+   "clauses": []
+  },
+  "47": {
+   "num": "47",
+   "title": "Time limit for submission of accounts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "REPORTING BY AUDITOR-GENERAL",
+   "text": "(1) The financial statements required under the Constitution, the Public Finance Management Act (Cap. 412A) and any other legislation, shall be submitted to the Auditor-General within three months after the end of the fiscal year to which the accounts relate.\n(2) The financial statements shall be in the form and content as prescribed by the Public Sector Accounting Standards Board.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The financial statements required under the Constitution, the Public Finance Management Act (Cap. 412A) and any other legislation, shall be submitted to the Auditor-General within three months after the end of the fiscal year to which the accounts relate."
+    },
+    {
+     "ref": "(2)",
+     "text": "The financial statements shall be in the form and content as prescribed by the Public Sector Accounting Standards Board."
+    }
+   ]
+  },
+  "48": {
+   "num": "48",
+   "title": "Accounts for audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "REPORTING BY AUDITOR-GENERAL",
+   "text": "(1) Within six months after the end of each financial year, the Auditor-General shall audit and report, in respect of that financial year, on the accounts specified in Article 229 of the Constitution.\n(2) Without prejudice to the provisions of subsection (1), the Auditor-General may audit and report on the accounts of any entity that is funded from public funds.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Within six months after the end of each financial year, the Auditor-General shall audit and report, in respect of that financial year, on the accounts specified in Article 229 of the Constitution."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the provisions of subsection (1), the Auditor-General may audit and report on the accounts of any entity that is funded from public funds."
+    }
+   ]
+  },
+  "49": {
+   "num": "49",
+   "title": "Special reports in the course of annual audit of the accounts of State organs",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "REPORTING BY AUDITOR-GENERAL",
+   "text": "(1) If, in the course of an examination and audit, a matter comes to the attention of the AuditorGeneral that he or she feels should be brought to the attention of the Parliament or the relevant county assembly, the Auditor-General shall submit a special report to Parliament or the relevant county assembly in accordance with the protocols developed in the Regulations.\n(2) Within seven days of receipt, Parliament or the relevant county assembly, shall publicize that report on their official website and any other public notice and shall publish a notice in the gazette to inform the public of the availability of the report.\n(3) Within fourteen days following the expiry of the seven days referred to under subsection (2), the office of the Auditor-General shall publicize that report on its official website and any other public notice.\n(4) Within sixty days following the expiry of the seven days referred to under subsection (2), Parliament or relevant county assembly shall discuss and review the report.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If, in the course of an examination and audit, a matter comes to the attention of the AuditorGeneral that he or she feels should be brought to the attention of the Parliament or the relevant county assembly, the Auditor-General shall submit a special report to Parliament or the relevant county assembly in accordance with the protocols developed in the Regulations."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within seven days of receipt, Parliament or the relevant county assembly, shall publicize that report on their official website and any other public notice and shall publish a notice in the gazette to inform the public of the availability of the report."
+    },
+    {
+     "ref": "(3)",
+     "text": "Within fourteen days following the expiry of the seven days referred to under subsection (2), the office of the Auditor-General shall publicize that report on its official website and any other public notice."
+    },
+    {
+     "ref": "(4)",
+     "text": "Within sixty days following the expiry of the seven days referred to under subsection (2), Parliament or relevant county assembly shall discuss and review the report."
+    }
+   ]
+  },
+  "50": {
+   "num": "50",
+   "title": "Final audit reports on a State organ or public entity including national or county governments accounts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "REPORTING BY AUDITOR-GENERAL",
+   "text": "(1) The final audit report of the Auditor-General shall be submitted to Parliament or the relevant county assembly, with copies to the Cabinet Secretary responsible for finance and the relevant County Executive Committee member for finance, as the case may be, and the accounting office of the entity that is subject of the audit.\n(2) Within three months of receiving an audit report referred to under subsection (1), Parliament or the relevant county assembly shall debate and consider the report and take appropriate action.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The final audit report of the Auditor-General shall be submitted to Parliament or the relevant county assembly, with copies to the Cabinet Secretary responsible for finance and the relevant County Executive Committee member for finance, as the case may be, and the accounting office of the entity that is subject of the audit."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within three months of receiving an audit report referred to under subsection (1), Parliament or the relevant county assembly shall debate and consider the report and take appropriate action."
+    }
+   ]
+  },
+  "51": {
+   "num": "51",
+   "title": "Other reporting by the Auditor-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "REPORTING BY AUDITOR-GENERAL",
+   "text": "(1) Within thirty days following the expiry of the seven days of publication period, Parliament or the relevant county assembly shall discuss and review other reports submitted to them.\n(2) Within fourteen (14) days following the expiry of the seven days publication period, the office of the Auditor-General shall publicize the report on its official website and any other public notice.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Within thirty days following the expiry of the seven days of publication period, Parliament or the relevant county assembly shall discuss and review other reports submitted to them."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within fourteen (14) days following the expiry of the seven days publication period, the office of the Auditor-General shall publicize the report on its official website and any other public notice."
+    }
+   ]
+  },
+  "52": {
+   "num": "52",
+   "title": "Use of media in publicizing of reports",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "REPORTING BY AUDITOR-GENERAL",
+   "text": "Where Auditor-General makes use of national or local media to publicise the reports under this Act, he or she shall take into consideration the following factors—\n  (a) the general nature of the report or document;\n  (b) how and where it has been published and how it may be accessed and read by members of the public;\n  (c) the need to widely circulate a summarized version of the report;\n  (d) accessibility of the document at public libraries or offices of State Organs and public entities; and (e) any other forum that the Auditor-General may consider appropriate.",
+   "clauses": []
+  },
+  "53": {
+   "num": "53",
+   "title": "Implementation of reports by an accounting officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "REPORTING BY AUDITOR-GENERAL",
+   "text": "(1) The relevant accounting officer of a state organ or public entity shall within three months after Parliament has considered and made recommendations on the audit report—\n  (a) take the relevant steps to implement the recommendations of parliament on the report of the Auditor-General; or\n  (b) give explanations in writing to the Parliament on why the report has not been acted upon.\n(2) Failure to comply with the provisions of subsection (1), the accounting officer shall be in contempt of Parliament or County Assembly and upon determination by Parliament or relevant County Assembly, Parliament or relevant County Assembly may recommend administrative sanctions such as removal as the Accounting Officer, reduction in rank among others.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The relevant accounting officer of a state organ or public entity shall within three months after Parliament has considered and made recommendations on the audit report— (a) take the relevant steps to implement the recommendations of parliament on the report of the Auditor-General; or"
+    },
+    {
+     "ref": "(2)",
+     "text": "Failure to comply with the provisions of subsection (1), the accounting officer shall be in contempt of Parliament or County Assembly and upon determination by Parliament or relevant County Assembly, Parliament or relevant County Assembly may recommend administrative sanctions such as removal as the Accounting Officer, reduction in rank among others."
+    }
+   ]
+  },
+  "54": {
+   "num": "54",
+   "title": "Withholding of funds by Parliament or county assembly",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "REPORTING BY AUDITOR-GENERAL",
+   "text": "Where there is a serious material breach or persistent material breaches of the provisions of this Act, the Auditor-General may in his audit report to Parliament or the relevant county assembly pursuant to the Public Finance Management Act (Cap. 412A), recommend the withholding of funds to any State organ or public entity.",
+   "clauses": []
+  },
+  "55": {
+   "num": "55",
+   "title": "Observing the code conduct",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "THE CODE OF CONDUCT AND ETHICS",
+   "text": "The Auditor-General in discharging his or her functions and responsibilities shall determine the code of conduct and ethics for all public officers in the Office if the Auditor-General, which shall be in line with those prescribed by the Constitution, this Act and the Public Officer Ethics Act (Cap. 185B).",
+   "clauses": []
+  },
+  "56": {
+   "num": "56",
+   "title": "Observance of Code of Conduct and Ethics",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "THE CODE OF CONDUCT AND ETHICS",
+   "text": "It shall be the obligation of every officer of the Office of the Auditor-General to observe the Code of Conduct and Ethics developed by the Auditor-General under section 55.",
+   "clauses": []
+  },
+  "57": {
+   "num": "57",
+   "title": "Administrative action",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "THE CODE OF CONDUCT AND ETHICS",
+   "text": "Any staff of the Office of the Auditor-General or an auditor outsourced by the Office who may be proven to have been compromised, bribed or corrupted in any way in consideration for suppressing a fraud or corrupt practice by the Auditee client shall be liable to administrative action under this Act or by the relevant professional body over and above any criminal proceedings which may be preferred against him or her in accordance with this Act or any other written law.",
+   "clauses": []
+  },
+  "58": {
+   "num": "58",
+   "title": "Disclosure of fraud and corruption",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "THE CODE OF CONDUCT AND ETHICS",
+   "text": "(1) All staff of the Office of the Auditor-General are duty bound to disclose any fraud or corruption that comes to their attention immediately and disciplinary action shall be taken against any officer who knowingly covers up any acts of fraud or corruption.\n(2) Despite the provisions of subsection (1), an officer of the Office of the Auditor-General shall not divulge any information which relates to the business secret of the Auditee which comes to his or her knowledge in the course of duty unless is for official purposes as provided for under this Act or any other written law.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "All staff of the Office of the Auditor-General are duty bound to disclose any fraud or corruption that comes to their attention immediately and disciplinary action shall be taken against any officer who knowingly covers up any acts of fraud or corruption."
+    },
+    {
+     "ref": "(2)",
+     "text": "Despite the provisions of subsection (1), an officer of the Office of the Auditor-General shall not divulge any information which relates to the business secret of the Auditee which comes to his or her knowledge in the course of duty unless is for official purposes as provided for under this Act or any other written law."
+    }
+   ]
+  },
+  "59": {
+   "num": "59",
+   "title": "Disclosure of interest",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "THE CODE OF CONDUCT AND ETHICS",
+   "text": "(1) An officer of the Office of the Auditor-General who has an interest in a matter under consideration by the auditee client shall disclose in writing, the nature of that interest and shall not participate in any auditing exercise relating to that client.\n(2) An officer who fails to disclose an interest in a matter in accordance with subsection (1) shall be subject to administrative action under the provisions of this Act or Regulations made thereunder.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An officer of the Office of the Auditor-General who has an interest in a matter under consideration by the auditee client shall disclose in writing, the nature of that interest and shall not participate in any auditing exercise relating to that client."
+    },
+    {
+     "ref": "(2)",
+     "text": "An officer who fails to disclose an interest in a matter in accordance with subsection (1) shall be subject to administrative action under the provisions of this Act or Regulations made thereunder."
+    }
+   ]
+  },
+  "60": {
+   "num": "60",
+   "title": "Confidential reporting of unlawful acts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "THE CODE OF CONDUCT AND ETHICS",
+   "text": "(1) The Auditor-General shall put in place a mechanism for confidential reporting about the officers of the Office of the Auditor-General relating to unlawful acts or orders relating to violation of laws in relation to public funds, gross wastage, mismanagement and abuse of authority.\n(2) Any person reporting a corrupt practice or misconduct by an audit officer with knowledge or good faith or belief that the allegation or information is true, shall be treated with utmost confidentiality.\n(3) Allegations and concerns reported anonymously shall be reviewed and considered as appropriate and some of the factors to be considered by the Auditor-General shall include the seriousness of the allegation, its credibility, and the extent to which the allegation can be confirmed or corroborated by attributable sources.\n(4) Subject to the Witness Protection Act (Cap. 79), the Auditor-General shall not disclose the identity of a person under this section unless—\n  (a) such person agrees to be identified;\n  (b) identification is necessary to allow appropriate law enforcement official to investigate or respond effectively to the disclosure;\n  (c) is required by law where a false accusation has been maliciously made; or\n  (d) the person accused is entitled to the information as a matter of legal right and in such an eventuality the Auditor-General, shall inform the person prior to revealing his or her identity.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Auditor-General shall put in place a mechanism for confidential reporting about the officers of the Office of the Auditor-General relating to unlawful acts or orders relating to violation of laws in relation to public funds, gross wastage, mismanagement and abuse of authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person reporting a corrupt practice or misconduct by an audit officer with knowledge or good faith or belief that the allegation or information is true, shall be treated with utmost confidentiality."
+    },
+    {
+     "ref": "(3)",
+     "text": "Allegations and concerns reported anonymously shall be reviewed and considered as appropriate and some of the factors to be considered by the Auditor-General shall include the seriousness of the allegation, its credibility, and the extent to which the allegation can be confirmed or corroborated by attributable sources."
+    },
+    {
+     "ref": "(4)",
+     "text": "Subject to the Witness Protection Act (Cap. 79), the Auditor-General shall not disclose the identity of a person under this section unless—"
+    }
+   ]
+  },
+  "61": {
+   "num": "61",
+   "title": "Offences by officers of the office of the Auditor-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "OFFENCES AND SANCTIONS",
+   "text": "(1) Any officer of the Office of the Auditor-General commits an offence if that officer—\n  (a) engages in a corrupt act;\n  (b) knowingly and willfully conceals information on audit findings for whatever reason, including in order to obtain a financial benefit for the officer or an accomplice or another person;\n  (c) knowingly and willfully fails to disclose audit information on fraud or corrupt practice by the audited entity;\n  (d) fails to disclose any conflict of interest in any matter under consideration in the course of discharging any functions under this Act; or\n  (e) knowingly and wilfully discloses, publishes or publicizes the Auditor-General's audit report or its contents to third parties including the media before the report is finalized and formally submitted to Parliament or County Assembly and copied to the audited entity and other authorized offices;\n(2) Any officer of the Office of the Auditor-General who commits an offence under subsection (1) shall be liable on conviction to a fine not exceeding ten million shillings or to imprisonment for a term not exceeding five years, or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any officer of the Office of the Auditor-General commits an offence if that officer—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any officer of the Office of the Auditor-General who commits an offence under subsection (1) shall be liable on conviction to a fine not exceeding ten million shillings or to imprisonment for a term not exceeding five years, or to both."
+    }
+   ]
+  },
+  "62": {
+   "num": "62",
+   "title": "Other Offences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "OFFENCES AND SANCTIONS",
+   "text": "(1) A person shall not—\n  (a) without reasonable cause or lawful excuse, obstruct or hinder, assault or threaten a member of staff of the Office of the Auditor-General or professional acting under this Act;\n  (b) without justification, fail to provide information required under this Act;\n  (c) without justification, fail to provide information within reasonable time that is required under this Act;\n  (d) submit false or misleading information;\n  (e) misrepresent to or knowingly mislead a member of staff of the Office of the Auditor-General or professional acting under this Act; or\n  (f) interfere with or exert undue influence on any staff of the Office of the Auditor-General or on any person authorized by the Auditor-General to perform functions under this Act.\n(2) A person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding five million shillings or to imprisonment for a term not exceeding three years, or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding five million shillings or to imprisonment for a term not exceeding three years, or to both."
+    }
+   ]
+  },
+  "63": {
+   "num": "63",
+   "title": "General penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "OFFENCES AND SANCTIONS",
+   "text": "Except as otherwise provided for under this Act, a person who is found guilty of an offence under this Act for which no other punishment is given, is liable on conviction to a fine not exceeding two million shillings or to a term of imprisonment not exceeding one year or, to both.",
+   "clauses": []
+  },
+  "64": {
+   "num": "64",
+   "title": "Powers to report to police, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "OFFENCES AND SANCTIONS",
+   "text": "(1) Where the Auditor-General establishes that any person, supplier or company has been involved in fraud or corrupt practice, the Auditor-General shall report to the police, Ethics and Anti-Corruption Commission or the Public Procurement Oversight Authority for their action.\n(2) Where the matter is referred to the Public Procurement Oversight Authority, the Auditor-General may make recommendation for debarment from future public procurement and asset disposal proceedings of a state organ or public entity with a copy to the relevant accounting officer.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the Auditor-General establishes that any person, supplier or company has been involved in fraud or corrupt practice, the Auditor-General shall report to the police, Ethics and Anti-Corruption Commission or the Public Procurement Oversight Authority for their action."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the matter is referred to the Public Procurement Oversight Authority, the Auditor-General may make recommendation for debarment from future public procurement and asset disposal proceedings of a state organ or public entity with a copy to the relevant accounting officer."
+    }
+   ]
+  },
+  "65": {
+   "num": "65",
+   "title": "Surcharge",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "OFFENCES AND SANCTIONS",
+   "text": "If it is established by the Auditor-General that there has been any deficiency in respect of any money or assets subject to its audit, the Auditor-General may recommend to Parliament or county assemblies that the person in default or responsible should be surcharged with the amount of the deficiency or loss.",
+   "clauses": []
+  },
+  "66": {
+   "num": "66",
+   "title": "Ineligibility to hold public office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "OFFENCES AND SANCTIONS",
+   "text": "A person who is convicted of an offence under this Act shall not be eligible to hold public office or work with an entity owned in whole or part by the State for a period of ten years following the conviction.",
+   "clauses": []
+  },
+  "67": {
+   "num": "67",
+   "title": "Disallowable expenditure",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "OFFENCES AND SANCTIONS",
+   "text": "Where the Auditor-General becomes aware of—\n  (a) any payment made without due authority; or\n  (b) any deficiency or loss occasioned by negligence or misconduct; or\n  (c) any sum which ought to have been, but was not brought to account, he or she shall, in the case of expenditure, call in question the sum concerned and make a report on the sum to Parliament and the relevant county assembly.",
+   "clauses": []
+  },
+  "68": {
+   "num": "68",
+   "title": "Power to make Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "The Cabinet Secretary responsible for matters relating to finance may make Regulations not inconsistent with this Act respecting any matter that is necessary or convenient to be prescribed under this Act or for the carrying out or giving effect to this Act.",
+   "clauses": []
+  },
+  "69": {
+   "num": "69",
+   "title": "Legal opinions and advice by the Attorney-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "The Auditor-General may make a written request to the Attorney-General seeking a legal opinion or advice on matters of law or fact, as the case may be.",
+   "clauses": []
+  },
+  "70": {
+   "num": "70",
+   "title": "Supremacy of this Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "This Act shall prevail in case of any inconsistency between this Act and any other legislation relating to the functions and powers of the Auditor-General.",
+   "clauses": []
+  },
+  "71": {
+   "num": "71",
+   "title": "Protection from personal liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "The Auditor-General and his or her staff, or a person acting on the directions of the Auditor-General shall not be personally liable for any act or omission done or omitted in good faith in carrying out any duty, or exercising any power or function of the Auditor-General under this Act or the Constitution.",
+   "clauses": []
+  },
+  "72": {
+   "num": "72",
+   "title": "Public right of access to official audits reports",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "GENERAL PROVISIONS",
+   "text": "The Public shall have right of access to official reports of the Auditor-General in line with Article 35 of the Constitution for transparency and accountability, except where such access may unduly jeopardize state security.",
+   "clauses": []
+  },
+  "73": {
+   "num": "73",
+   "title": "Repeal of No. 12 of 2003",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "X",
+   "part_title": "REPEAL, SAVINGS AND TRANSITIONAL PROVISIONS",
+   "text": "(1) The Public Audit Act, 2003 (No. 12 of 2003) is repealed. (2) Despite subsection (1)—\n  (a) any proceedings taken against or by the Kenya National Audit Office or pending against that office or any other person immediately before the commencement of this Act may be continued by or against the Kenya National Audit Office as if instituted under this Act: Provided that criminal proceedings shall be regarded as pending if the person concerned had pleaded to the charge in question.\n  (b) any administrative investigation or inquiry instituted in terms of the repealed Act which was pending before the commencement of this Act shall be continued or disposed of as if instituted under this Act;\n  (c) all disciplinary proceedings which immediately before the commencement of this Act were pending shall be continued or concluded as if instituted under this Act;\n  (d) all appeal processes, which immediately before the commencement of this Act were pending, shall proceed as if instituted under this Act;\n  (e) the persons employed by the Kenya National Audit Office shall be transferred to the Office of the Auditor-General established under this Act;\n  (f) a contract subsisting between the Kenya National Audit Office and another person before the commencement of this Act shall continue to exist as if it was a contract entered into between the Office of the Auditor-General and that other person; and\n  (g) the Kenya National Audit Commission established by the repealed Act shall cease to exist within thirty days from the day of commencement of this Act;\n(3) Any references to the words \"Controller and Auditor-General\" under any written law shall be construed to refer to the words \"Auditor-General\".",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Public Audit Act, 2003 (No. 12 of 2003) is repealed. (2) Despite subsection (1)—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Any references to the words \"Controller and Auditor-General\" under any written law shall be construed to refer to the words \"Auditor-General\"."
+    }
+   ]
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 13]",
+   "subtitle": "OATH/AFFIRMATION OF THE HOLDER OF OFFICE OF THE AUDITOR-GENERAL",
+   "text": "I ........................................ having been appointed (the Auditor-General) under the Public Audit Act (Cap. 412B), do solemnly (swear/declare and affirm) that I will at all times obey, respect and uphold the Constitution of Kenya and all other laws of the Republic; that I will faithfully and fully, impartially and to the best of my ability, discharge the trust and perform the functions and exercise the powers devolving upon me by virtue of this appointment without fear, favour, bias, affection, ill-will or prejudice. (SO HELP ME GOD).\nSworn/Declared by the said ........................................\nBefore me this ............................ day of .........................\n........................................\nChief Justice"
+  }
+ ],
+ "spent": {}
+}

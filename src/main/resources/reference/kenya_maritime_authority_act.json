@@ -1,0 +1,549 @@
+{
+ "title": "Kenya Maritime Authority Act",
+ "citation": "Cap. 370",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2006/5/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "KENYA MARITIME AUTHORITY ACT CAP. 370 Published in Kenya Gazette Vol. CVIII—No. 65 on 8 September 2006 Assented to on 23 August 2006 Commenced on 1 January 2007 by Kenya Maritime Authority Act Commencement\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2007 (Act No. 7 of 2007) on 15 October 2007] [Amended by National Electronic Single Window System Act (Cap. 485D) on 11 July 2022] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to provide for the establishment of the Kenya Maritime Authority as a body with responsibility to monitor, regulate and coordinate activities in the maritime industry, and for all other matters connected therewith and incidental thereto",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "ESTABLISHMENT AND FUNCTIONS OF THE AUTHORITY",
+   "provisions": [
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "ADMINISTRATION OF THE AUTHORITY",
+   "provisions": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "OPERATION OF THE AUTHORITY",
+   "provisions": [
+    "15",
+    "16",
+    "17"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "18",
+    "19",
+    "20",
+    "21",
+    "22"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "23",
+    "24",
+    "25",
+    "26"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Kenya Maritime Authority Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— “Authority” means the Kenya Maritime Authority established under section 3; “Board” means the Board of Directors of the Authority constituted under section 6; “Cabinet Secretary” means the Cabinet Secretary for the time being responsible for matters relating to Maritime Transport; “Chairperson” means the Chairperson of the Board of Directors of the Authority appointed under section 6; “Director-General” means the Director-General of the Authority appointed under section 11; “flag State” means the State whose flag a ship is entitled to fly; “financial year” means the period of twelve months ending on the thirtieth June in each year; “member” means a member of the Board of Directors; and “port State” means a State in which port a foreign ship sail subject to the appropriate convention.",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) There is hereby established an Authority to be known as the Kenya Maritime Authority. (2) The Authority shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of—\n  (a) suing and being sued;\n  (b) purchasing or otherwise acquiring, holding, charging, or disposing of movable or immovable property;\n  (c) borrowing money;\n  (d) entering into contracts; and (e) doing or performing all other things or acts for the furtherance of the provisions of this Act which may be lawfully done or performed by a body corporate. (3) The Authority shall consist of such divisions as may, from time to time, be specified by the Board. (4) Spent. (5) Spent. (6) The headquarters of the Authority shall be at a port on Kenya’s coast. (7) The Authority shall establish branches at main inland waters.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is hereby established an Authority to be known as the Kenya Maritime Authority. (2) The Authority shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of— (a) suing and being sued;"
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Objects of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND FUNCTIONS OF THE AUTHORITY",
+   "text": "The principal objects of the Authority are to regulate, co-ordinate and oversee maritime affairs.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Functions of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "ESTABLISHMENT AND FUNCTIONS OF THE AUTHORITY",
+   "text": "(1) The functions of the Authority are to carry out such functions as may be necessary to give effect to the objects of this Act and without prejudice to the generality of the foregoing, the Authority shall have the duty to—\n  (a) administer and enforce the provisions of the Merchant Shipping Act (Cap. 389) and any other legislation relating to the maritime sector for the time being in force;\n  (b) co-ordinate the implementation of policies relating to maritime affairs and promote the integration of such policies into the national development plan;\n  (c) advise government on legislative and other measures necessary for the implementation of relevant international conventions, treaties, and agreements to which Kenya is a party;\n  (ca) liase with the National Electronic Window System established under section 3 of the National Electronic Single Window System Act (Cap. 485D) to establish digital and electronic platforms and facilitate collaboration with other agencies to promote trade;\n  (d) undertake and co-ordinate research, investigation, and surveys in the maritime field;\n  (e) discharge flag State and port State responsibilities in an efficient and effective manner having regard to international maritime conventions, treaties, agreements and other instruments to which Kenya is a party;\n  (f) develop, co-ordinate and manage a national oil spill contingency plan for both coastal and inland waters and shall in the discharge of this responsibility be designated as the “competent oil spill authority”;\n  (g) maintain and administer a ship register;\n  (h) deal with matters pertaining to maritime search and rescue and coordinate the activities of the Kenya Ports Authority, the Kenya Navy and any other body engaged during search and rescue operations;\n  (i) enforce safety of shipping, including compliance with construction regulations, maintenance of safety standards and safety navigation rules;\n  (j) conduct regular inspection of ships to ensure maritime safety and prevention of marine pollution;\n  (k) oversee matters pertaining to the training, recruitment and welfare of seafarers;\n  (l) plan, monitor and evaluate training programmes to ensure conformity with standards laid down in international maritime conventions;\n  (m) conduct investigations into maritime casualties including wreck;\n  (n) undertake enquiries with respect to charges of incompetence and misconduct on the part of seafarers;\n  (o) ensure, in collaboration with such other public agencies and institutions, the prevention of marine source pollution, protection of the marine environment and response to marine environment incidents;\n  (p) regulate activities with regard to shipping in the inland waterways including the safety of navigation;\n  (pp) implement and undertake co-ordination in maritime security; and (q) undertake any other business which is incidental to the performance of any of the foregoing functions. (2) For the purpose of the performance of its functions under this Act, the Authority may do anything and enter into any transaction which, in the opinion of the Authority is necessary or incidental to its functions, and in Particular and without prejudice to the generality of the foregoing, the Authority may impose fees or charges for the use of any service provided by the Authority.\n[Act No. 7 of 2007, Sch., Act No. 25 of 2022, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The functions of the Authority are to carry out such functions as may be necessary to give effect to the objects of this Act and without prejudice to the generality of the foregoing, the Authority shall have the duty to— (a) administer and enforce the provisions of the Merchant Shipping Act (Cap. 389) and any other legislation relating to the maritime sector for the time being in force; (b) co-ordinate the implementation of policies relating to maritime affairs and promote the integration of such policies into the national development plan; (c) advise government on legislative and other measures necessary for the implementation of relevant international conventions, treaties, and agreements to which Kenya is a party; (ca) liase with the National Electronic Window System established under section 3 of the National Electronic Single Window System Act (Cap. 485D) to establish digital and electronic platforms and facilitate collaboration with other agencies to promote trade; (d) undertake and co-ordinate research, investigation, and surveys in the maritime field; (e) discharge flag State and port State responsibilities in an efficient and effective manner having regard to international maritime conventions, treaties, agreements and other instruments to which Kenya is a party; (f) develop, co-ordinate and manage a national oil spill contingency plan for both coastal and inland waters and shall in the discharge of this responsibility be designated as the “competent oil spill authority”; (g) maintain and administer a ship register; (h) deal with matters pertaining to maritime search and rescue and coordinate the activities of the Kenya Ports Authority, the Kenya Navy and any other body engaged during search and rescue operations; (i) enforce safety of shipping, including compliance with construction regulations, maintenance of safety standards and safety navigation rules; (j) conduct regular inspection of ships to ensure maritime safety and prevention of marine pollution;"
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Appointment of Board of Directors of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION OF THE AUTHORITY",
+   "text": "There shall be a Board of Directors of the Authority which shall be the governing body of the Authority consisting of—\n  (a) a Chairperson appointed by the President;\n  (b) the following persons or their representatives—\n  (i) the Principal Secretary of the Ministry for the time being responsible for maritime transport;\n  (ii) the Principal Secretary of the Ministry for the time being responsible for finance; and (iii) the Attorney-General;\n  (c) the Director-General appointed under section 11; and (d) six other persons, with knowledge and experience in matters relating to the regulation of shipping industry, pilotage, maritime security, seafarer’s welfare, ports and harbours, appointed by the Cabinet Secretary.",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Powers of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION OF THE AUTHORITY",
+   "text": "The Board shall—\n  (a) have all powers necessary for the proper performance of its functions under this Act;\n  (b) administer the assets and funds of the Authority in such manner and for such purpose as shall promote the best interests of the Authority in accordance with the Act;\n  (c) have power to receive gifts, donations, grants or other moneys and equipment and make legitimate disbursements therefrom; and\n  (d) have power to enter into association with such other persons, bodies or organisations within or outside Kenya as the Board may consider desirable and appropriate in furtherance of the purposes for which the Authority is established.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Conduct of business and affairs of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION OF THE AUTHORITY",
+   "text": "(1) The conduct and regulation of the business and affairs of the Board shall be as provided in the Second Schedule.\n(2) Except as provided in the Second Schedule, the Board may regulate its own procedure.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The conduct and regulation of the business and affairs of the Board shall be as provided in the Second Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "Except as provided in the Second Schedule, the Board may regulate its own procedure."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Committees of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION OF THE AUTHORITY",
+   "text": "(1) The Board may, by resolution either generally or in any particular case, delegate to any committee of the Board or to any member, officer, employee or agent of the Board the exercise of any of the powers or the performance of any of the functions or duties of the Board under this Act.\n(2) Subject to any specific or general direction of the Board, any committee established under subsection (1) may regulate its own procedure.\n(3) A committee may invite any person whose presence is in its opinion desirable to attend and participate in the deliberations of a meeting of a committee but such person shall have no right to vote.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may, by resolution either generally or in any particular case, delegate to any committee of the Board or to any member, officer, employee or agent of the Board the exercise of any of the powers or the performance of any of the functions or duties of the Board under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to any specific or general direction of the Board, any committee established under subsection (1) may regulate its own procedure."
+    },
+    {
+     "ref": "(3)",
+     "text": "A committee may invite any person whose presence is in its opinion desirable to attend and participate in the deliberations of a meeting of a committee but such person shall have no right to vote."
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Remuneration and allowances of members of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION OF THE AUTHORITY",
+   "text": "The Authority shall pay to the Board of Directors such remuneration, fees, or allowances for expenses as may be determined by the Cabinet Secretary.",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "The Director-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION OF THE AUTHORITY",
+   "text": "(1) There shall be a Director-General of the Authority who shall be appointed by the Cabinet Secretary on the recommendation of the Board and shall hold office for a period not exceeding three years on such terms and conditions as shall be specified in the instrument of appointment but shall be eligible for re-appointment.\n(2) The Director-General shall be the chief executive of the Authority responsible for the day to day management and operations of the Authority and shall have control over all personnel and other activities of the Authority.\n(3) The Director-General shall be an ex officio member of the Board.\n(4) No person shall qualify to be appointed as Director-General under subsection (1) unless, such person is a holder of a degree from a recognised university and has at least ten (10) years’ working experience, in a relevant field, which in the opinion of the Board and the Cabinet Secretary is sufficient to enable the person so appointed to carry out his or her duties as the Director-General.\n(5) The Director-General shall exercise such powers as are necessary for the proper performance of the functions of the Authority to enable the objectives, implementation and applications of the regulations made under this Act and in particular, but without prejudice to the generality of the foregoing, the Director-General shall, subject to the general direction of the Board, have power to—\n  (a) ensure that the provisions of this Act and any rules and regulations made thereunder are complied with to the extent necessary in the interest of the maritime sector;\n  (b) encourage and foster the safe development of maritime matters in Kenya waters;\n  (c) plan, develop and formulate safe and efficient utilisation of the Kenya ocean space;\n  (d) acquire, establish and improve ocean navigation facilities where necessary within the limits of available appropriation;\n  (e) establish a school or schools for the purpose of offering instruction and training in matters related to the maritime industry;\n  (f) promulgate rules and procedures governing the notification and reporting of accidents and incidents involving ships so as to facilitate investigations;\n  (g) use, with their consent, the available services, equipment and facilities of other agencies and to co-operate with those agencies in the establishment, and use of services, equipment and facilities of the Authority;\n  (h) monitor the deployment and utilisation of the movable and immovable property of the Authority; and\n  (i) prepare the annual report and financial statement of the Authority.\n[Act No. 7 of 2007, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Director-General of the Authority who shall be appointed by the Cabinet Secretary on the recommendation of the Board and shall hold office for a period not exceeding three years on such terms and conditions as shall be specified in the instrument of appointment but shall be eligible for re-appointment."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Director-General shall be the chief executive of the Authority responsible for the day to day management and operations of the Authority and shall have control over all personnel and other activities of the Authority."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Director-General shall be an ex officio member of the Board."
+    },
+    {
+     "ref": "(4)",
+     "text": "No person shall qualify to be appointed as Director-General under subsection (1) unless, such person is a holder of a degree from a recognised university and has at least ten (10) years’ working experience, in a relevant field, which in the opinion of the Board and the Cabinet Secretary is sufficient to enable the person so appointed to carry out his or her duties as the Director-General."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Director-General shall exercise such powers as are necessary for the proper performance of the functions of the Authority to enable the objectives, implementation and applications of the regulations made under this Act and in particular, but without prejudice to the generality of the foregoing, the Director-General shall, subject to the general direction of the Board, have power to—"
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Delegation of power by the Director-General",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION OF THE AUTHORITY",
+   "text": "(1) The Director-General may, from time to time, in writing, either generally or particularly, delegate the exercise of any powers or the performance of any duties conferred on him by or under this Act to such person or persons as he may think fit, but such delegation shall not affect the exercise of such powers or performance of such duties by the Director-General.\n(2) Any act done pursuant to a power delegated under subsection (1) shall have the same effect as if done by the Director-General.\n(3) Every officer purporting to act pursuant to any delegation under this section, shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of such delegation.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Director-General may, from time to time, in writing, either generally or particularly, delegate the exercise of any powers or the performance of any duties conferred on him by or under this Act to such person or persons as he may think fit, but such delegation shall not affect the exercise of such powers or performance of such duties by the Director-General."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any act done pursuant to a power delegated under subsection (1) shall have the same effect as if done by the Director-General."
+    },
+    {
+     "ref": "(3)",
+     "text": "Every officer purporting to act pursuant to any delegation under this section, shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of such delegation."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Appointment of Secretary to the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION OF THE AUTHORITY",
+   "text": "(1) There shall be a Secretary to the Authority who shall be appointed by the Board.\n(2) The Secretary shall be responsible for arranging the business of the Board’s meetings, keeping records of the proceedings of the Board, and shall perform such other duties as the Board may direct.\n(3) In the performance of his or her duties under this Act, the Secretary shall be responsible to the Director-General.\n(4) The Board may in the absence of the Secretary appoint any member of the Board or staff of the Authority to temporarily perform the functions of the Secretary under subsection (2).\n(5) Any functions delegated under subsection (3) may be so delegated subject to such conditions or restrictions as the Board may either generally or specifically determine.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Secretary to the Authority who shall be appointed by the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Secretary shall be responsible for arranging the business of the Board’s meetings, keeping records of the proceedings of the Board, and shall perform such other duties as the Board may direct."
+    },
+    {
+     "ref": "(3)",
+     "text": "In the performance of his or her duties under this Act, the Secretary shall be responsible to the Director-General."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Board may in the absence of the Secretary appoint any member of the Board or staff of the Authority to temporarily perform the functions of the Secretary under subsection (2)."
+    },
+    {
+     "ref": "(5)",
+     "text": "Any functions delegated under subsection (3) may be so delegated subject to such conditions or restrictions as the Board may either generally or specifically determine."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Appointment of officers and other employees of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ADMINISTRATION OF THE AUTHORITY",
+   "text": "(1) The Board shall appoint to the service of the Authority the following officers—\n  (a) the Registrar of Ships;\n  (b) the Registrar of Seafarers;\n  (c) the Chief Surveyor of Ships; and\n  (d) the Chief Receiver of Wreck.\n(2) The Board may also appoint such other officers and staff as it may deem necessary for the proper and efficient discharge of the functions of the Authority on such terms and conditions of service as the Board may determine. [Act No. 7 of 2007, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall appoint to the service of the Authority the following officers—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may also appoint such other officers and staff as it may deem necessary for the proper and efficient discharge of the functions of the Authority on such terms and conditions of service as the Board may determine. [Act No. 7 of 2007, Sch.]"
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Business plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "OPERATION OF THE AUTHORITY",
+   "text": "(1) The Authority shall prepare a business plan at least ninety days before the beginning of every financial year to be approved by the Cabinet Secretary.\n(2) The business plan shall—\n  (a) include a statement of the short and medium term operational and business objectives of the Authority for at least five years;\n  (b) outline the strategies and policies that the Authority intends to adopt in order to achieve its objectives; and (c) include, inter alia, an operational plan, a financial plan, a human resources plan and performance indicators.\n(3) The financial plan shall include estimates of expenditure and revenues for the following financial years.\n(4) The Authority may amend the business plan with the Cabinet Secretary’s approval. (5) The Cabinet Secretary’s approval under subsection (1) or (4) shall have effect from the beginning of the financial year concerned. (6) If the Cabinet Secretary fails to grant written approval of the business plan or to direct any changes within sixty days after the submission for approval, the business plan shall be deemed to have been approved by the Cabinet Secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority shall prepare a business plan at least ninety days before the beginning of every financial year to be approved by the Cabinet Secretary."
+    },
+    {
+     "ref": "(2)",
+     "text": "The business plan shall— (a) include a statement of the short and medium term operational and business objectives of the Authority for at least five years; (b) outline the strategies and policies that the Authority intends to adopt in order to achieve its objectives; and (c) include, inter alia, an operational plan, a financial plan, a human resources plan and performance indicators."
+    },
+    {
+     "ref": "(3)",
+     "text": "The financial plan shall include estimates of expenditure and revenues for the following financial years."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Authority may amend the business plan with the Cabinet Secretary’s approval. (5) The Cabinet Secretary’s approval under subsection (1) or (4) shall have effect from the beginning of the financial year concerned. (6) If the Cabinet Secretary fails to grant written approval of the business plan or to direct any changes within sixty days after the submission for approval, the business plan shall be deemed to have been approved by the Cabinet Secretary."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Financial targets and performance indicators",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "OPERATION OF THE AUTHORITY",
+   "text": "When preparing the financial plan, the Authority shall consider—\n  (a) the need for high standards of maritime safety;\n  (b) the need for a high standard of protection for the marine environment;\n  (c) objectives of this Act and Government policies;\n  (d) any direction given by the Cabinet Secretary under this Act;\n  (e) any payments by the Government to the Authority to fund functions referred to in paragraph (g);\n  (f) the need to maintain a reasonable level of reserves, having regard to estimated future infrastructural requirements;\n  (g) the need to earn a reasonable rate of return on the Authority’s assets, including assets wholly or principally used in the performance of functions that are directly funded by the Government; and (h) any other commercial consideration the Authority considers appropriate.",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "Cabinet Secretary may direct variation of financial plan",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "OPERATION OF THE AUTHORITY",
+   "text": "(1) The Cabinet Secretary may direct the Authority to vary the financial plan in respect of financial targets, and performance indicators, relating to the provision of services and facilities.\n(2) A direction under subsection (1) shall be in writing and shall set out the reasons therefor.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may direct the Authority to vary the financial plan in respect of financial targets, and performance indicators, relating to the provision of services and facilities."
+    },
+    {
+     "ref": "(2)",
+     "text": "A direction under subsection (1) shall be in writing and shall set out the reasons therefor."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Funds of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The funds of the Authority shall be derived from—\n  (a) such sums as may, from time to time, be appropriated by Parliament for that purpose; and (b) such fees, fines, levies or other charges as the Cabinet Secretary may approve from time to time.\n(2) The Authority may receive grants and donations from any other source: Provided that such grants and donations shall not be made or received for purposes of influencing the decision or ability of the Authority in any way and shall be disclosed in the annual report of the Authority.\n(3) There shall be paid out of the funds of the Authority, all expenditure incurred by the Authority in the exercise of its powers or the performance of its functions under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The funds of the Authority shall be derived from— (a) such sums as may, from time to time, be appropriated by Parliament for that purpose; and (b) such fees, fines, levies or other charges as the Cabinet Secretary may approve from time to time."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority may receive grants and donations from any other source: Provided that such grants and donations shall not be made or received for purposes of influencing the decision or ability of the Authority in any way and shall be disclosed in the annual report of the Authority."
+    },
+    {
+     "ref": "(3)",
+     "text": "There shall be paid out of the funds of the Authority, all expenditure incurred by the Authority in the exercise of its powers or the performance of its functions under this Act."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Bank accounts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The Authority shall open and maintain such bank accounts as are necessary for the performance of its functions.",
+   "clauses": []
+  },
+  "20": {
+   "num": "20",
+   "title": "Investment of funds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The Authority may—\n  (a) invest any of its surplus funds in Government securities;\n  (b) place on deposit with such banks as it may determine, any moneys not immediately required for the purposes of the Authority.",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) At least three months before the commencement of each financial year the Director-General shall cause to be prepared estimates of the revenue and expenditure of the Authority for that year.\n(2) The annual estimates shall make provision for all the estimated expenditure of the Authority for the financial year and in particular, the estimates shall provide for—\n  (a) the payment of salaries, allowances and other charges in respect of the staff and Board members of the Authority;\n  (b) the payment of pensions, gratuities and other charges in respect of the staff of the Authority;\n  (c) the proper maintenance of the buildings and grounds of the Authority; and (d) the maintenance, repair and replacement of the equipment and other property of the Authority.\n(3) The annual estimates shall be approved by the Board before the commencement of the financial year to which they relate and shall be submitted to the Cabinet Secretary for approval and after the Cabinet Secretary’s approval, the Authority shall not increase the annual estimates without the consent of the Cabinet Secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "At least three months before the commencement of each financial year the Director-General shall cause to be prepared estimates of the revenue and expenditure of the Authority for that year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall make provision for all the estimated expenditure of the Authority for the financial year and in particular, the estimates shall provide for— (a) the payment of salaries, allowances and other charges in respect of the staff and Board members of the Authority; (b) the payment of pensions, gratuities and other charges in respect of the staff of the Authority; (c) the proper maintenance of the buildings and grounds of the Authority; and (d) the maintenance, repair and replacement of the equipment and other property of the Authority."
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual estimates shall be approved by the Board before the commencement of the financial year to which they relate and shall be submitted to the Cabinet Secretary for approval and after the Cabinet Secretary’s approval, the Authority shall not increase the annual estimates without the consent of the Cabinet Secretary."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Authority shall cause to be kept proper books and records of account of the income, expenditure and assets of the Authority.\n(2) Within a period of three months from the end of the financial year, the Authority shall submit to the Auditor-General, the accounts of the Authority together with—\n  (a) a statement of the income and expenditure of the Authority during that year; and\n  (b) a statement of the assets and liabilities of the Authority on the last day of that year.\n(3) Notwithstanding the provisions of any other written law for the time being in force, the accounts of the Authority shall be audited in accordance with the provisions of the Public Audit Act (Cap. 412B).\n[Act No. 7 of 2007, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority shall cause to be kept proper books and records of account of the income, expenditure and assets of the Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within a period of three months from the end of the financial year, the Authority shall submit to the Auditor-General, the accounts of the Authority together with—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Notwithstanding the provisions of any other written law for the time being in force, the accounts of the Authority shall be audited in accordance with the provisions of the Public Audit Act (Cap. 412B)."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Seal of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The seal of the Authority shall be such device as may be determined by the Board and shall be kept by the Secretary to the Authority.\n(2) The affixing of the seal shall be authenticated by the Director-General and the Secretary or some other person authorised in that behalf by a resolution of the Board.\n(3) Any contract or instrument which if entered into or executed by a person not being a body corporate would not be required to be under seal may be entered into or executed without seal on behalf of the Authority by the Secretary or any other person generally or specifically authorised by the Board in that behalf.\n(4) Any document purporting to be a document under the seal of the Authority or issued on behalf of the Authority shall be received in evidence and shall be deemed to be executed or issued, as the case may be, without further proof, unless the contrary is proved.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The seal of the Authority shall be such device as may be determined by the Board and shall be kept by the Secretary to the Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "The affixing of the seal shall be authenticated by the Director-General and the Secretary or some other person authorised in that behalf by a resolution of the Board."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any contract or instrument which if entered into or executed by a person not being a body corporate would not be required to be under seal may be entered into or executed without seal on behalf of the Authority by the Secretary or any other person generally or specifically authorised by the Board in that behalf."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any document purporting to be a document under the seal of the Authority or issued on behalf of the Authority shall be received in evidence and shall be deemed to be executed or issued, as the case may be, without further proof, unless the contrary is proved."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Relief from prosecution",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "No action shall lie against the Authority or any of its officers or other persons appointed or authorised to perform any function under this Act in respect of anything done or omitted to be done by him in good faith in the exercise or performance of any power, authority, or duty conferred or imposed on him under this Act.",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "Prohibition of publication or disclosure of information to unauthorised persons",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) No person shall, without the consent in writing given by or on behalf of the Authority, publish or disclose to any person other than in the course of his duties, or when lawfully required to do so by any court or under any law, the contents of any document, communication or information whatsoever, which relates to, and which has come to his knowledge in the course of his duties under this Act.\n(2) Any person who knowingly contravenes the provisions of subsection (1) shall be guilty of an offence and shall be liable, upon conviction, to a fine not exceeding fifty thousand shillings or to imprisonment for a term not exceeding five years or to both.\n(3) Where any person having information which to his knowledge has been published or disclosed in contravention of subsection (1) unlawfully publishes or communicates any such information to any other person, he shall be guilty of an offence and shall be liable, upon conviction, to a fine not exceeding thirty thousand shillings or to imprisonment for a term not exceeding five years or to both. (4) The consent of the Authority under subsection (1), shall not be unreasonably withheld.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No person shall, without the consent in writing given by or on behalf of the Authority, publish or disclose to any person other than in the course of his duties, or when lawfully required to do so by any court or under any law, the contents of any document, communication or information whatsoever, which relates to, and which has come to his knowledge in the course of his duties under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who knowingly contravenes the provisions of subsection (1) shall be guilty of an offence and shall be liable, upon conviction, to a fine not exceeding fifty thousand shillings or to imprisonment for a term not exceeding five years or to both."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where any person having information which to his knowledge has been published or disclosed in contravention of subsection (1) unlawfully publishes or communicates any such information to any other person, he shall be guilty of an offence and shall be liable, upon conviction, to a fine not exceeding thirty thousand shillings or to imprisonment for a term not exceeding five years or to both. (4) The consent of the Authority under subsection (1), shall not be unreasonably withheld."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "The Cabinet Secretary may make regulations for prescribing anything under this Act and generally for the better carrying into effect the provisions of this Act.",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [s. 3(5)]",
+   "subtitle": null,
+   "text": "Spent TRANSITIONAL PROVISIONS"
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [s. 8(1)]",
+   "subtitle": "PROVISIONS AS TO THE CONDUCT OF BUSINESS AND AFFAIRS OF THE BOARD",
+   "text": "1. Tenure of office\n(1) Any member of the Board other than an ex officio member shall, subject to the provisions of this Schedule, hold office for a period not exceeding three years, on such terms as may be specified in the instrument of appointment, but shall be eligible for re-appointment for a further term of three years.\n(2) The members of the Board shall be appointed at different times so that the respective expiry dates of their terms of office fall at different times.\n2. Vacation of Office A member other than an ex officio member may—\n  (a) at any time resign from Office by notice in writing to the Cabinet Secretary;\n  (b) be removed from Office by the Cabinet Secretary if the member—\n  (i) has been absent from three consecutive meetings of the Board without permission from the Chairperson; or\n  (ii) is adjudged bankrupt or enters into a composition scheme or arrangement with his creditors; or\n  (iii) is convicted of an offence involving dishonesty or fraud; or\n  (iv) is convicted of a criminal offence and sentenced to imprisonment for a term exceeding six months or to a fine exceeding ten thousand shillings; or\n  (v) is incapacitated by prolonged physical or mental illness or is deemed otherwise unfit to discharge his duties as a member of the Board; or\n  (vi) fails to comply with the provisions of this Act relating to disclosure.\n3. Meetings\n(1) The Board shall meet not less than four times in every financial year and not more than four months shall elapse between the date of one meeting and the date of the next meeting.\n(2) Notwithstanding the provisions of subparagraph (1), the Chairperson or any three other members of the Board may call a special meeting at any time where it is deemed expedient for the transaction of the business of the Board, by giving not less than seven days’ written notice to the members.\n(3) The members of the Board shall, at the first meeting of the Board, elect from amongst their number, a vice-Chairperson and an honorary treasurer.\n(4) Unless three-quarters of the total members of the Board otherwise agree, at least fourteen days’ written notice of every meeting of the Board shall be given to every member of the Board.\n(5) The quorum for the conduct of the business of the Board shall be five members excluding the DirectorGeneral.\n(6) The Chairperson shall preside at every meeting of the Board at which he is present but, in his absence, the vice-Chairperson shall preside and in the absence of the vice-Chairperson, the members present shall elect one of their number who shall, with respect to that meeting and the business transacted thereat, have all the powers of the Chairperson.\n(7) Unless a unanimous decision is reached, a decision on any matter before the Board shall be by a majority of votes of the members present and, in the case of an equality of votes, the Chairperson or the person presiding shall have a casting vote.\n(8) Subject to subparagraph (5), no proceedings of the Board shall be invalid by reason only of a vacancy among the members thereof.\n(9) Subject to the provisions of this Schedule, the Board may determine its own procedures and the procedure for any committee of the Board and for the attendance of any other persons at its meetings and may make standing orders, inter alia, in respect of—\n  (a) the conduct and management of the affairs of the Board;\n  (b) the manner in which all payments, including cheques, promissory notes, drafts, bills of exchange and other negotiable instruments and all receipts for monies paid to the Board shall be signed, drawn, accepted, endorsed or otherwise executed;\n  (c) the procedure for meetings and other business of the Board;\n  (d) the duties of officers, employees, consultants and agents of the Board; and\n  (e) the conditions of service and remuneration of staff and other employees, consultants and agents of the Board.\n4. Disclosure of interest\n(1) If a member is directly or indirectly interested in any contract, proposed contract or other matter before the Board and is present at a meeting of the Board at which the contract, proposed contract or other matter is subject of consideration, he shall, at the meeting and as soon as practicable after the commencement thereof, disclose the fact and shall not take part in the consideration or discussion of, or vote on, any questions with respect to the contract or other matter, or be counted in the quorum of the meeting during the consideration of the matter:\nProvided that, if the majority of the members present are of the opinion that the experience or expertise of such member is vital to the deliberations of the meeting, the Board may permit the member to participate in the deliberations subject to such restrictions as it may impose but such member shall not have the right to vote on the matter in question.\n(2) A disclosure of interest made under this paragraph shall be recorded in the minutes of the meeting at which it is made.\n[Act No. 7 of 2007, Sch.]\n5. Minutes The Board shall cause minutes of all resolutions and proceedings of meetings of the Board to be entered in books kept for that purpose."
+  }
+ ],
+ "spent": {}
+}

@@ -1,0 +1,1093 @@
+{
+ "title": "Societies Act",
+ "citation": "Cap. 108",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1968/4/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "SOCIETIES ACT CAP. 108 Assented to on 6 February 1968 Commenced on 16 February 1968\n[Amended by Statute Law (Repeals and Miscellaneous Amendments) Act, 1997 (Act No. 10 of 1997) on 7 November 1997] [Amended by Societies (Amendment) Rules, 2003 (Legal Notice 71 of 2003) on 20 June 2003] [Amended by Companies and Insolvency Legislation (Consequential Amendments) Act, 2015 (Act No. 19 of 2015) on 3 July 2017] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to make provision for the registration and control of societies and to repeal the Societies Act",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "UNLAWFUL SOCIETIES",
+   "provisions": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "REGISTRATION AND EXEMPTION FROM REGISTRATION",
+   "provisions": [
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "provisions": [
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "WINDING-UP",
+   "provisions": [
+    "33",
+    "34",
+    "35",
+    "36",
+    "37"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "INVESTIGATION OF OFFENCES AND PUNISHMENT OF OFFENDERS",
+   "provisions": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "EVIDENCE",
+   "provisions": [
+    "44",
+    "45",
+    "46",
+    "47"
+   ]
+  },
+  {
+   "id": "part_VIII",
+   "num": "VIII",
+   "title": "GENERAL",
+   "provisions": [
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited at the Societies Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In this Act, except where the context otherwise requires—\n\"Cabinet Secretary” means the Cabinet Secretary for the time being responsible for matters relating to societies;\n\"constitution or rules\" includes regulations or by-laws of a society registered or exempted from registration before the commencement of this Act;\n\"exempted society\" means any society for the time being exempted from registration under this Act;\n\"liquidator\" means a liquidator appointed under section 33;\n\"officer\", in relation to a society, means the president, vice-president, chairperson, deputy chairperson, secretary or treasurer thereof, or any member of the committee, council or governing body thereof, or any person who holds in the society any office or position analogous to the foregoing, but does not include a trustee, auditor or patron who takes no part in the management of the society;\n\"registered society\" means any society for the time being registered under this Act, but does not include a society the registration of which is for the time being suspended;\n\"the Registrar\" means the Registrar of Societies appointed under section 8 of this Act, and includes a person appointed under that section to be a Deputy or Assistant Registrar;\n\"society\" includes any club, company, partnership or other association of ten or more persons, whatever its nature or object, established in Kenya or having its headquarters or chief place of business in Kenya, and any branch of a society, but does not, except in paragraphs (i) and (ii) of section 11(2)(f) of this Act, include—\n  (a) a company or foreign company registered under the Companies Act (Cap. 486);\n  (b) any corporation incorporated by or under any other written law;\n  (c) a registered trade union within the meaning of the Labour Relations Act (Cap. 233), including a branch of a trade union registered under that Act, a probationary trade union within the meaning of that Act and a trade union or a branch of a trade union whose application for registration has been made and not determined;\n  (d) a company, firm, association or partnership consisting of not more than twenty persons, formed and maintained with a view to carrying on business for profit;\n  (e) a co-operative society registered as such under any written law;\n  (f) a school registered under the Basic Education Act (Cap. 211), Advisory Council, Board of Governors, District Education Board, School Committee or similar organization established under and in accordance with the provisions of any written law relating to education;\n  (g) a building society as defined by the Building Societies Act (Cap. 489);\n  (h) a bank licensed under the Banking Act (Cap. 488);\n  (i) any international organization of which Kenya is a member, or any branch, section or organ of any such organization;\n  (j) any combination or association which the Cabinet Secretary may, by order, declare not to be a society for the purposes of this Act;\n\"unlawful society\" has the meaning assigned to that expression in section 4(1) of this Act.\n(2) For the avoidance of doubt, it is declared that, for the purposes of this Act, where any body of persons, whether incorporated or unincorporated, is a member of an association, all members of that body are members of that association.\n[Act No. 19 of 2015, s. 8.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, except where the context otherwise requires—"
+    },
+    {
+     "ref": "(2)",
+     "text": "For the avoidance of doubt, it is declared that, for the purposes of this Act, where any body of persons, whether incorporated or unincorporated, is a member of an association, all members of that body are members of that association."
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Societies established in Kenya",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "For the purposes of this Act, a society is established in Kenya, although it may be organized and have its headquarters or chief place of business outside Kenya, if any of its officers or members resides in Kenya or is present therein, or if any person in Kenya manages or assists in the management of the society or solicits or collects money or subscriptions on its behalf, except during such time as—\n  (a) it is organized and is operating wholly outside Kenya; and\n  (b) no office, place of business or place of meeting is maintained or used in Kenya by it or by any person on its behalf; and\n  (c) no register of all or any of its members is kept in Kenya; and\n  (d) no subscription is collected or solicited in Kenya by it or by any person on its behalf.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Unlawful societies",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "UNLAWFUL SOCIETIES",
+   "text": "(1) Every society which is not a registered society or an exempted society is an unlawful society:\nProvided that a society shall not be an unlawful society where, within twenty-eight days of its formation, it has applied for registration or for exemption from registration under section 9 of this Act and it has not been notified of the determination of its application, unless—\n  (i) it is formed for an unlawful purpose; or\n  (ii) the Cabinet Secretary has declared it, by order, to be a society dangerous to the good government of the Republic; or\n  (iii) the Registrar has notified the society (whether or not before the making of the application) that he intends to refuse registration or exemption from registration on one of the grounds specified in section 11(1)(b) of this Act.\n(2) The Registrar shall consider every application for registration of a society or for exemption from registration and shall communicate his decision thereon to the society within one hundred and twenty days of receipt of the application.\n(3) Where a society which is not a registered society or an exempted society has applied for registration or exemption from registration, and is saved by the proviso to subsection (1) of this section from becoming an unlawful society, no person shall, except with the written permission of the Registrar, collect or invite subscriptions or donations to the funds of the society or in any other way whatever organize or take part in any activity of or on behalf of the society, except only to apply to or correspond with the Registrar.\n(4) Any person who contravenes subsection (2) of this section shall be guilty of an offence and liable to a fine not exceeding five thousand shillings or to imprisonment for a term not exceeding six months, or to both such fine and such imprisonment.\n[Act No. 10 of 1997, Sch., Act No. 19 of 2015, s. 9.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every society which is not a registered society or an exempted society is an unlawful society:"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar shall consider every application for registration of a society or for exemption from registration and shall communicate his decision thereon to the society within one hundred and twenty days of receipt of the application."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a society which is not a registered society or an exempted society has applied for registration or exemption from registration, and is saved by the proviso to subsection (1) of this section from becoming an unlawful society, no person shall, except with the written permission of the Registrar, collect or invite subscriptions or donations to the funds of the society or in any other way whatever organize or take part in any activity of or on behalf of the society, except only to apply to or correspond with the Registrar."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person who contravenes subsection (2) of this section shall be guilty of an offence and liable to a fine not exceeding five thousand shillings or to imprisonment for a term not exceeding six months, or to both such fine and such imprisonment."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Managing unlawful society",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "UNLAWFUL SOCIETIES",
+   "text": "Any person who manages or assists in the management of an unlawful society shall be guilty of an offence and be liable to imprisonment for a term not exceeding three years or to a fine not exceeding ten thousand shillings, or to both such imprisonment and such fine.\n[Act No. 10 of 1997, Sch.]",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Being member of unlawful society",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "UNLAWFUL SOCIETIES",
+   "text": "Any person who, knowing or having reasonable cause to believe, a society to be an unlawful society—\n  (a) is a member, or attends any meeting, of that society; or\n  (b) allows a meeting of that society, or of any members of that society, to be held in any house, building or place belonging to or occupied by him, or over which he has control, shall be guilty of an offence and be liable to imprisonment for a term not exceeding one year or to a fine not exceeding five thousand shillings, or to both such imprisonment and such fine.\n[Act No. 10 of 1997, Sch.]",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Prohibition of specified acts by or on behalf of certain societies",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "UNLAWFUL SOCIETIES",
+   "text": "(1) The Cabinet Secretary may, where it appears to him to be in the public interest, in relation to a society which has been refused registration under section 11, or has had its registration cancelled under section 12, of this Act, or is a society of one of the kinds mentioned in paragraphs (i), (ii) and (iii) of the proviso to section 4(1) of this Act, by order, prohibit any act specified therein—\n  (a) by any person on behalf of or in relation to any society associated with such society; or\n  (b) by any person on behalf of or in relation to any society which in the opinion of the Cabinet Secretary has objects similar to the objects of such society, in Kenya or in any particular area of Kenya (being the area in which it appears to him that such society carried on or, as the case may be, proposed to carry on its activities) or in any part of such area.\n(2) An order under subsection (1) of this section shall continue in force for such period (not exceeding six months) as may be specified therein:\nProvided that this subsection shall not preclude the Cabinet Secretary from making a further order or orders, with or without variations, where it appears to him to be in the public interest so to do. (3) Any person who contravenes an order made under subsection (1) of this section shall be guilty of an offence and liable to a fine not exceeding five thousand shillings or to imprisonment for a term not exceeding six months, or to both such fine and such imprisonment. (4) Without limiting the meaning of the word \"associated\", for the purposes of this section a society shall be deemed to be associated with a society which has been refused registration or has had its registration cancelled if the former society is the parent society of which the latter society is a branch or is derived from the same parent society or is the successor of such parent society.\n[Act No. 19 of 2015, s. 10.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, where it appears to him to be in the public interest, in relation to a society which has been refused registration under section 11, or has had its registration cancelled under section 12, of this Act, or is a society of one of the kinds mentioned in paragraphs (i), (ii) and (iii) of the proviso to section 4(1) of this Act, by order, prohibit any act specified therein—"
+    },
+    {
+     "ref": "(2)",
+     "text": "An order under subsection (1) of this section shall continue in force for such period (not exceeding six months) as may be specified therein:"
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Appointment of Registrar of societies and other officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND EXEMPTION FROM REGISTRATION",
+   "text": "The Cabinet Secretary shall, by notice in the Gazette, appoint a Registrar of Societies to perform the duties and exercise the powers imposed and conferred on the Registrar by this Act, and may appoint a Deputy Registrar and any number of Assistant Registrars, who shall be subject to the directions of the Registrar.\n[Act No. 19 of 2015, s. 11.]",
+   "clauses": []
+  },
+  "9": {
+   "num": "9",
+   "title": "Society to apply for registration or exemption",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND EXEMPTION FROM REGISTRATION",
+   "text": "Every society shall, in the prescribed manner and within twenty-eight days after the formation thereof, make application to the Registrar for registration or for exemption from registration under this Act.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Manner of effecting registration or exemption from registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND EXEMPTION FROM REGISTRATION",
+   "text": "(1) Upon application being made in the prescribed manner for registration of a society, the Registrar shall, subject to this Act, register the society by entering in the register of societies, kept for the purpose, the prescribed particulars and the date of the entry.\n(2) Upon application being made in the prescribed manner for exemption of a society from registration, the Registrar may, with the approval of the Cabinet Secretary, so exempt the society, and if he does not so exempt the society he shall treat the application as an application for registration and shall, subject to the provisions of this Act, register the society.\n(3) Upon registering a society or exempting it from registration, the Registrar shall issue to the society a certificate of registration or exemption from registration in the prescribed form. [Act No. 19 of 2015, s. 12.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Upon application being made in the prescribed manner for registration of a society, the Registrar shall, subject to this Act, register the society by entering in the register of societies, kept for the purpose, the prescribed particulars and the date of the entry."
+    },
+    {
+     "ref": "(2)",
+     "text": "Upon application being made in the prescribed manner for exemption of a society from registration, the Registrar may, with the approval of the Cabinet Secretary, so exempt the society, and if he does not so exempt the society he shall treat the application as an application for registration and shall, subject to the provisions of this Act, register the society."
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon registering a society or exempting it from registration, the Registrar shall issue to the society a certificate of registration or exemption from registration in the prescribed form. [Act No. 19 of 2015, s. 12.]"
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Refusal of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND EXEMPTION FROM REGISTRATION",
+   "text": "(1) The Registrar may refuse to register a society where—\n  (a) he is satisfied that such society is a branch of, or is affiliated to or connected with, any organization or association of a political nature established outside Kenya; or (b) any of the proposed officers has been at any time an officer of a society which has been refused registration or which has had its registration cancelled under section 12 of this Act.\n(2) The Registrar shall refuse to register a society where—\n  (a) he has reasonable cause to believe that the society has among its objects, or is likely to pursue or to be used for, any unlawful purpose or any purpose prejudicial to or incompatible with peace, welfare or good order in Kenya, or that the interests of peace, welfare or good order in Kenya would otherwise be likely to suffer prejudice by reason of the registration of the society; or\n  (b) the Cabinet Secretary has, under paragraph (ii) of the proviso to section 4(1) of this Act, declared it to be a society dangerous to the good government of the Republic; or\n  (c) the terms of the constitution or the rules of the society are in any respect repugnant to or inconsistent with any law; or\n  (d) he is satisfied that the application does not comply with the Act or any rules made thereunder; or\n  (e) he is satisfied that the society does not exist; or\n  (f) the name under which the society is to be registered—\n  (i) is identical to that of any other society which either is existing or has existed, or of any society whose application for registration has been refused under this section; or\n  (ii) so nearly resembles the name of any other society as to be likely to deceive the public or the members of either society as to its nature or identity; or\n  (iii) is repugnant to or inconsistent with any law or is otherwise undesirable.\n[Act No. 10 of 1997, Sch., Act No. 19 of 2015, s. 13.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar may refuse to register a society where— (a) he is satisfied that such society is a branch of, or is affiliated to or connected with, any organization or association of a political nature established outside Kenya; or (b) any of the proposed officers has been at any time an officer of a society which has been refused registration or which has had its registration cancelled under section 12 of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar shall refuse to register a society where— (a) he has reasonable cause to believe that the society has among its objects, or is likely to pursue or to be used for, any unlawful purpose or any purpose prejudicial to or incompatible with peace, welfare or good order in Kenya, or that the interests of peace, welfare or good order in Kenya would otherwise be likely to suffer prejudice by reason of the registration of the society; or"
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Cancellation or suspension of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND EXEMPTION FROM REGISTRATION",
+   "text": "(1) Where, in respect of any registered society, the Registrar is of the opinion that the registration of a society should be cancelled or suspended on the ground that—\n  (a) the society has, where he has reasonable cause to so believe, among its objects, or is likely to pursue, or to be used for, any unlawful purpose or any purpose prejudicial to or incompatible with peace, welfare or good order in Kenya; or\n  (b) the interests of peace, welfare, or good order in Kenya would, where he has reasonable cause to believe, be likely to be prejudiced by the continued registration of the society; or\n  (c) the terms of the constitution or of the rules of the society are, where he has reasonable cause to believe, in any respect repugnant to or inconsistent with any law; or\n  (d) the society has wilfully, and after notice from the Registrar, contravened any of the provisions of its constitution or of its rules, or has contravened section 20 of this Act; or\n  (e) the society has failed to comply, within the time allowed for compliance, with an order made under section 31(1) of this Act; or\n  (f) the society has dissolved itself; or\n  (g) the executive of the society is constituted otherwise than in conformity with its constitution and rules; or\n  (h) a person has become an officer of the society who has been at some time an officer of a society which has been refused registration under this Act or which has had its registration cancelled under this section, and the Registrar has given written notice to the society in the prescribed form that such officer must be removed within a period (not being less than seven days from the date of the notice) specified in the notice, and the officer has not been removed within that period; or\n  (i) the society has failed to furnish, within the time allowed, one of the documents required by section 30(1) of this Act; or\n  (j) the society is, or has without duly notifying the Registrar in the prescribed form become, a branch of or affiliated to, or connected with, any organization or group of a political nature established outside Kenya, the Registrar shall give written notice in the prescribed form to the society calling upon the society to show cause, within such period as is specified in the notice, why its registration should not be cancelled or, as the case may be, suspended; and, if the society fails to show cause to the satisfaction of the Registrar within the time specified, the Registrar may cancel or suspend the registration of the society.\n(2) The Registrar may, with the approval of the Cabinet Secretary at any time cancel any registration made under section 10 of this Act and instead grant exemption from such registration under that section.\n(3) The Registrar shall cancel the registration of any registered society which has ceased to be a society within the meaning of this Act, or which the Cabinet Secretary has, under paragraph (ii) of the proviso to section 4(1) of this Act, declared to be a society dangerous to the good government of the Republic.\n(4) Where under subsection (1) of this section the Registrar cancels the registration of a society, he shall at the same time cancel the registration of every branch of that society.\n(5) Where the registration of a society has been suspended under subsection (1) or subsection (2) of this section, a society shall not take any action, nor permit any action to be taken, in furtherance of its objects except—\n  (a) the collection of subscriptions;\n  (b) the payment of its debts; and\n  (c) such action as the Registrar may from time to time authorize.\n(6) Any society which contravenes subsection (5) shall be guilty of an offence.\n[Act No. 10 of 1997, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where, in respect of any registered society, the Registrar is of the opinion that the registration of a society should be cancelled or suspended on the ground that—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar may, with the approval of the Cabinet Secretary at any time cancel any registration made under section 10 of this Act and instead grant exemption from such registration under that section."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall cancel the registration of any registered society which has ceased to be a society within the meaning of this Act, or which the Cabinet Secretary has, under paragraph (ii) of the proviso to section 4(1) of this Act, declared to be a society dangerous to the good government of the Republic."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where under subsection (1) of this section the Registrar cancels the registration of a society, he shall at the same time cancel the registration of every branch of that society."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where the registration of a society has been suspended under subsection (1) or subsection (2) of this section, a society shall not take any action, nor permit any action to be taken, in furtherance of its objects except—"
+    },
+    {
+     "ref": "(6)",
+     "text": "Any society which contravenes subsection (5) shall be guilty of an offence."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Rescission of exemption",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND EXEMPTION FROM REGISTRATION",
+   "text": "The Registrar may, with the approval of the Cabinet Secretary, at any time rescind the exemption of a society from registration given under section 10 of this Act, and if he does so he shall forthwith notify the society thereof:\nProvided that the society, if it is not a society of one of the kinds specified in paragraphs (i), (ii) and (iii) of the proviso to section 4(1) of this Act, may, within a period of twenty-eight days from the date of the receipt of notification of the rescission, apply for registration under this Act, and where the society does so it shall not, unless and until such application is refused, be an unlawful society, notwithstanding the said section 4(1).\n[Act No. 19 of 2015, s. 14.]",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "Cessation of existence of society",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND EXEMPTION FROM REGISTRATION",
+   "text": "(1) If the Registrar has reason to believe that any registered society or exempted society has ceased to exist, he may publish in the Gazette a notice calling upon such society to furnish him, within a period of three months from the date of the notice, with proof of its continued existence.\n(2) If at the expiration of such period the Registrar is satisfied that the society has ceased to exist, he shall cancel the registration or rescind the exemption, as the case may be, of the society, and shall thereupon publish in the Gazette notice of such cancellation or rescission.\n(3) If the Registrar is satisfied beyond doubt that a registered society or exempted society has ceased to exist, he may immediately proceed under subsection (2) of this section without having previously published a notice in the Gazette, and the remaining provisions of that subsection shall apply accordingly.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If the Registrar has reason to believe that any registered society or exempted society has ceased to exist, he may publish in the Gazette a notice calling upon such society to furnish him, within a period of three months from the date of the notice, with proof of its continued existence."
+    },
+    {
+     "ref": "(2)",
+     "text": "If at the expiration of such period the Registrar is satisfied that the society has ceased to exist, he shall cancel the registration or rescind the exemption, as the case may be, of the society, and shall thereupon publish in the Gazette notice of such cancellation or rescission."
+    },
+    {
+     "ref": "(3)",
+     "text": "If the Registrar is satisfied beyond doubt that a registered society or exempted society has ceased to exist, he may immediately proceed under subsection (2) of this section without having previously published a notice in the Gazette, and the remaining provisions of that subsection shall apply accordingly."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Appeal from order of refusal, cancellation or suspension",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION AND EXEMPTION FROM REGISTRATION",
+   "text": "(1) Any society aggrieved by the Registrar’s refusal to register it, or by the cancellation or suspension of its registration under section 12 may—\n  (a) in the case of a political party, appeal to the High Court within thirty days of such refusal, cancellation or suspension; or\n  (b) in the case of any other society, appeal to the Cabinet Secretary within thirty days of such refusal, cancellation or suspension and the Cabinet Secretary shall consider, determine and communicate his decision on the appeal within ninety days of the appeal.\n(2) A society aggrieved by the decision of the Cabinet Secretary under subsection (1)(b) may appeal to the High Court within thirty days of the decision.\n(3) Notwithstanding the provisions of subsection (1) of section 4, where a society other than a society specified in paragraphs (i), (ii) or (iii) of the proviso to section 4(1), lodges an appeal under subsection (1) of this section, such society shall not, pending the decision on the appeal, be an unlawful society.\n[Act No. 10 of 1997, Sch., Act No. 19 of 2015, s. 15.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any society aggrieved by the Registrar’s refusal to register it, or by the cancellation or suspension of its registration under section 12 may—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A society aggrieved by the decision of the Cabinet Secretary under subsection (1)(b) may appeal to the High Court within thirty days of the decision."
+    },
+    {
+     "ref": "(3)",
+     "text": "Notwithstanding the provisions of subsection (1) of section 4, where a society other than a society specified in paragraphs (i), (ii) or (iii) of the proviso to section 4(1), lodges an appeal under subsection (1) of this section, such society shall not, pending the decision on the appeal, be an unlawful society."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Office and postal address",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "(1) Every registered and every exempted society shall have an office and a postal address, and notice of the situation of the office and of the postal address shall be given to the Registrar in the prescribed form on application for registration or exemption from registration.\n(2) All communications and notices required or authorized to be sent under or for the purposes of this Act or any subsidiary legislation thereunder may be sent by post addressed to the postal address of the society.\n(3) Notice in the prescribed form of any change of the situation of the office, or of the postal address, of a registered or exempted society shall be given to the Registrar within fourteen days of the change, and the notice shall be signed by three of the officers of the society.\n(4) Any registered society or exempted society which—\n  (a) operates without having an office, or without having a postal address, or without having given notice of the situation of its office or of its postal address as required by subsection (1) of this section; or\n  (b) operates at any place to which its office may have been removed without having given notice of the change in the situation thereof to the Registrar as required by subsection (3) of this section; or\n  (c) fails to give notice of any change of its postal address as required by subsection (3) of this section, shall be guilty of an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every registered and every exempted society shall have an office and a postal address, and notice of the situation of the office and of the postal address shall be given to the Registrar in the prescribed form on application for registration or exemption from registration."
+    },
+    {
+     "ref": "(2)",
+     "text": "All communications and notices required or authorized to be sent under or for the purposes of this Act or any subsidiary legislation thereunder may be sent by post addressed to the postal address of the society."
+    },
+    {
+     "ref": "(3)",
+     "text": "Notice in the prescribed form of any change of the situation of the office, or of the postal address, of a registered or exempted society shall be given to the Registrar within fourteen days of the change, and the notice shall be signed by three of the officers of the society."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any registered society or exempted society which—"
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Change of officers or title of office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "(1) Notice in the prescribed form of any change of officers, or of the title of any office, of a registered society shall be given to the Registrar within fourteen days of the change, and the notice shall be signed by three of the officers of the society.\n(2) Any registered society which fails to give notice as required by subsection (1) of this section of any change of officers or of the title of any office of the society, shall be guilty of an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Notice in the prescribed form of any change of officers, or of the title of any office, of a registered society shall be given to the Registrar within fourteen days of the change, and the notice shall be signed by three of the officers of the society."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any registered society which fails to give notice as required by subsection (1) of this section of any change of officers or of the title of any office of the society, shall be guilty of an offence."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Disputes as to officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "(1) If the Registrar is of the opinion that a dispute has occurred among the members or officers of a registered society as a result of which the Registrar is not satisfied as to the identity of the persons who have been properly constituted as officers of the society, the Registrar may, by order in writing, require the society to produce to him, within one month of the service of the order, evidence of the settlement of the dispute and of the proper appointment of the lawful officers of the society or of the institution of proceedings for the settlement of such dispute.\n(2) If an order under subsection (1) of this section is not complied with to the satisfaction of the Registrar within the period of one month or any longer period which the Registrar may allow, the Registrar may cancel the registration of the society.\n(3) A society aggrieved by the cancellation of its registration under subsection (2) may appeal to the High Court within thirty days of such cancellation.\n[Act No. 10 of 1997, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If the Registrar is of the opinion that a dispute has occurred among the members or officers of a registered society as a result of which the Registrar is not satisfied as to the identity of the persons who have been properly constituted as officers of the society, the Registrar may, by order in writing, require the society to produce to him, within one month of the service of the order, evidence of the settlement of the dispute and of the proper appointment of the lawful officers of the society or of the institution of proceedings for the settlement of such dispute."
+    },
+    {
+     "ref": "(2)",
+     "text": "If an order under subsection (1) of this section is not complied with to the satisfaction of the Registrar within the period of one month or any longer period which the Registrar may allow, the Registrar may cancel the registration of the society."
+    },
+    {
+     "ref": "(3)",
+     "text": "A society aggrieved by the cancellation of its registration under subsection (2) may appeal to the High Court within thirty days of such cancellation."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Contents of constitution or rules",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "(1) The constitution or rules of every registered society or exempted society, formed after the commencement of this Act shall provide, to the satisfaction of the Registrar, for all the matters specified in the Schedule to this Act and shall not be amended so that it ceases so to provide.\n(2) The Registrar may, if he thinks fit, by order in writing, require any society which, at the commencement of this Act, is registered to amend its constitution or rules within three months after the date of the order to provide for all or any of the matters specified in the Schedule to this Act, and, notwithstanding its constitution or rules, the society, for the purpose of complying with the order, shall convene a meeting of the same kind as is required by its constitution or rules for amending its constitution or rules, or if the constitution or rules make no provision for such amendment the society shall convene a general meeting of members for the purpose.\n(3) If a registered society contravenes an order given under subsection (2) of this section, the society and every officer thereof shall each be guilty of an offence, and the society shall be liable to a fine not exceeding ten thousand shillings, and every officer shall be liable to the like fine or to imprisonment for a term not exceeding one year or to both such fine and such imprisonment:\nProvided that an officer shall not be convicted of the offence under this subsection if he establishes to the satisfaction of the court that he exercised due diligence to prevent its commission and that the offence occurred by reason of matters beyond his control.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The constitution or rules of every registered society or exempted society, formed after the commencement of this Act shall provide, to the satisfaction of the Registrar, for all the matters specified in the Schedule to this Act and shall not be amended so that it ceases so to provide."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar may, if he thinks fit, by order in writing, require any society which, at the commencement of this Act, is registered to amend its constitution or rules within three months after the date of the order to provide for all or any of the matters specified in the Schedule to this Act, and, notwithstanding its constitution or rules, the society, for the purpose of complying with the order, shall convene a meeting of the same kind as is required by its constitution or rules for amending its constitution or rules, or if the constitution or rules make no provision for such amendment the society shall convene a general meeting of members for the purpose."
+    },
+    {
+     "ref": "(3)",
+     "text": "If a registered society contravenes an order given under subsection (2) of this section, the society and every officer thereof shall each be guilty of an offence, and the society shall be liable to a fine not exceeding ten thousand shillings, and every officer shall be liable to the like fine or to imprisonment for a term not exceeding one year or to both such fine and such imprisonment:"
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Registered society to obtain consent of Registrar before amending name, constitution, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "(1) No registered society shall—\n  (a) amend its name, or its constitution or rules; or\n  (b) become a branch of, or affiliated to or connected with, any organization or group of a political nature established outside Kenya; or\n  (c) dissolve itself, except with the prior consent in writing of the Registrar, obtained upon written application to him signed by three of the officers of the society.\n(2) An application by a society to do any of the things specified in subsection (1) of this section shall be accompanied by a copy of the minutes of the meeting at which the resolution to do that thing was passed, certified as a true copy by three of the officers of the society, and the application shall be delivered to the Registrar within fourteen days after the day on which the resolution was passed.\n(3) Any registered society which contravenes this section shall be guilty of an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No registered society shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "An application by a society to do any of the things specified in subsection (1) of this section shall be accompanied by a copy of the minutes of the meeting at which the resolution to do that thing was passed, certified as a true copy by three of the officers of the society, and the application shall be delivered to the Registrar within fourteen days after the day on which the resolution was passed."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any registered society which contravenes this section shall be guilty of an offence."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Exempted society to inform Registrar of amendment of name, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "(1) Every exempted society which—\n  (a) amends its name or objects; or (b) becomes a branch of or affiliated to or connected with, any organization or group of a political nature established outside Kenya; or (c) dissolves itself, shall within fourteen days from the date of effecting such amendment or other matter as aforesaid give to the Registrar notice thereof in writing signed by three of the officers of the society. (2) Any exempted society which contravenes subsection (1) of this section shall be guilty of an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every exempted society which— (a) amends its name or objects; or (b) becomes a branch of or affiliated to or connected with, any organization or group of a political nature established outside Kenya; or (c) dissolves itself, shall within fourteen days from the date of effecting such amendment or other matter as aforesaid give to the Registrar notice thereof in writing signed by three of the officers of the society. (2) Any exempted society which contravenes subsection (1) of this section shall be guilty of an offence."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Officers on dissolution",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "Notwithstanding the dissolution or purported dissolution of a society, the persons who, immediately before the dissolution or purported dissolution, were officers of the society shall be deemed, for the purposes of sections 20 and 21 of this Act, to have been and to be such officers.",
+   "clauses": []
+  },
+  "23": {
+   "num": "23",
+   "title": "Restriction of appointment of certain officers, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "(1) No person who has been convicted of a crime involving fraud or dishonesty shall be capable of being appointed or elected—\n  (a) to the office of treasurer, deputy treasurer or assistant treasurer of a registered society or exempted society; or (b) to any other office in such a society the holder of which is responsible for the collection, disbursement, custody or control of the funds of the society or for its accounts; or (c) to be trustee or auditor of such a society.\n(2) No person shall be capable of being appointed or elected auditor of a registered society or exempted society who is an officer of that society.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No person who has been convicted of a crime involving fraud or dishonesty shall be capable of being appointed or elected— (a) to the office of treasurer, deputy treasurer or assistant treasurer of a registered society or exempted society; or (b) to any other office in such a society the holder of which is responsible for the collection, disbursement, custody or control of the funds of the society or for its accounts; or (c) to be trustee or auditor of such a society."
+    },
+    {
+     "ref": "(2)",
+     "text": "No person shall be capable of being appointed or elected auditor of a registered society or exempted society who is an officer of that society."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Purporting to act as officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "Any person who—\n  (a) acts or purports to act as an officer of a registered society, and who has not been duly appointed or elected as an officer of that society; or (b) having been appointed or elected as an officer of a society (otherwise than at the time of the formation of the society), acts as an officer of that society after the end of the period prescribed by section 17(1) of this Act for giving notice of his appointment or election to the Registrar, no such notice having been given within such period, shall be guilty of an offence and liable to a fine of five thousand shillings or to imprisonment for a term not exceeding six months, or to both such fine and such imprisonment: Provided that this section shall not prevent a person who has been duly appointed or elected as officer of the society from signing the notice prescribed by section 17(1) of this Act.",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "Register of members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "(1) Every registered society shall keep a register of its members in such form as the Registrar may specify or as may be prescribed, and shall cause to be entered therein the name and address of each member, the date of his admission to membership and the date on which he ceases to be a member.\n(2) If a registered society contravenes subsection (1) of this section, the society and every officer thereof shall each be guilty of an offence, and the society shall be liable to a fine not exceeding ten thousand shillings, and every officer shall be liable to the like fine or to imprisonment for a term not exceeding one year or to both such fine and such imprisonment:\nProvided that an officer shall not be convicted of the offence if he establishes to the satisfaction of the court that he exercised due diligence to prevent its commission and that the offence occurred by reason of matters beyond his control.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every registered society shall keep a register of its members in such form as the Registrar may specify or as may be prescribed, and shall cause to be entered therein the name and address of each member, the date of his admission to membership and the date on which he ceases to be a member."
+    },
+    {
+     "ref": "(2)",
+     "text": "If a registered society contravenes subsection (1) of this section, the society and every officer thereof shall each be guilty of an offence, and the society shall be liable to a fine not exceeding ten thousand shillings, and every officer shall be liable to the like fine or to imprisonment for a term not exceeding one year or to both such fine and such imprisonment:"
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Books of account",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "(1) Every registered society shall keep one or more books of account, and shall cause to be entered therein details of all moneys received and payments made by the society.\n(2) Any registered society which contravenes subsection (1) of this section shall be guilty of an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every registered society shall keep one or more books of account, and shall cause to be entered therein details of all moneys received and payments made by the society."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any registered society which contravenes subsection (1) of this section shall be guilty of an offence."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Treasurer to render accounts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "(1) Subject to the constitution or rules of the society, every treasurer and every other officer of a registered society who is responsible for the accounts of the society or for the collection, disbursement, custody or control of its funds shall—\n  (a) at least once in every year at such time as may be specified in the constitution or rules of the society; and\n  (b) at any other times at which he may be required to do so by a resolution of the members of the society or by the rules thereof; and\n  (c) upon resigning or otherwise vacating his office, render to the society and its members a full and true account of all moneys received and paid by him during the period which has elapsed since the date of his assuming office or, if he has previously rendered an account, since the last date upon which he rendered such account, and of the moneys remaining in his hands at the time of rendering such account, and of all bonds, securities or other property of the society entrusted to his custody or under his control.\n(2) After the account has been rendered, the treasurer or other officer referred to in subsection (1) of this section shall, if he is resigning or vacating his office or if required to do so, forthwith hand over to the succeeding treasurer or officer, as the case may be, such moneys as appear to be due from him, and all bonds, securities, effects, books, papers and property of the society in his hands or otherwise under his control.\n(3) Any treasurer or other officer referred to in subsection (1) who contravenes this section shall be guilty of an offence and liable to a fine not exceeding five thousand shillings or to imprisonment for a term not exceeding six months, or to both such fine and such imprisonment.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the constitution or rules of the society, every treasurer and every other officer of a registered society who is responsible for the accounts of the society or for the collection, disbursement, custody or control of its funds shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "After the account has been rendered, the treasurer or other officer referred to in subsection (1) of this section shall, if he is resigning or vacating his office or if required to do so, forthwith hand over to the succeeding treasurer or officer, as the case may be, such moneys as appear to be due from him, and all bonds, securities, effects, books, papers and property of the society in his hands or otherwise under his control."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any treasurer or other officer referred to in subsection (1) who contravenes this section shall be guilty of an offence and liable to a fine not exceeding five thousand shillings or to imprisonment for a term not exceeding six months, or to both such fine and such imprisonment."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Inspection of accounts and documents",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "(1) A registered society shall make its books of account and all documents relating thereto, and a list of the members of the society, available—\n  (a) for inspection by any officer or member of the society at such place and at such times as may be provided for in the constitution or rules of the society; and\n  (b) for inspection by the Registrar, or by any person authorized by him in writing in that behalf, at the office of the Registrar at any reasonable time specified by him, if so required in writing by the Registrar.\n(2) Any registered society which fails to make available to the Registrar, at his office and at the specified time, any books of account, documents or lists of members which he has been required under subsection (1) of this section to make so available shall be guilty of an offence.\n(3) Any person who obstructs the Registrar or any such authorized person in the carrying out of an inspection under subsection (1) of this section shall be guilty of an offence and liable to a fine not exceeding one thousand shillings or to imprisonment for a term not exceeding two months, or to both such fine and such imprisonment.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A registered society shall make its books of account and all documents relating thereto, and a list of the members of the society, available—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any registered society which fails to make available to the Registrar, at his office and at the specified time, any books of account, documents or lists of members which he has been required under subsection (1) of this section to make so available shall be guilty of an offence."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person who obstructs the Registrar or any such authorized person in the carrying out of an inspection under subsection (1) of this section shall be guilty of an offence and liable to a fine not exceeding one thousand shillings or to imprisonment for a term not exceeding two months, or to both such fine and such imprisonment."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Meetings of societies",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "(1) Every registered society shall, at least once in every year, hold a general meeting to which all its members shall be invited, and shall at such meeting—\n  (a) render a full and true account of the moneys received and paid by the society, such account being audited in accordance with the rules of the society; and\n  (b) cause to be elected or appointed all such officers, trustees and auditors and, where applicable, such committees as are required in accordance with the constitution and rules of the society.\n(2) Any registered society which contravenes sub-section (1) of this section shall be guilty of an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every registered society shall, at least once in every year, hold a general meeting to which all its members shall be invited, and shall at such meeting—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Any registered society which contravenes sub-section (1) of this section shall be guilty of an offence."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Annual returns",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "(1) Every registered society shall furnish annually to the Registrar, on or before the prescribed date, such returns, accounts and other documents as may be prescribed.\n(2) If any return, account or other document furnished under subsection (1) of this section is incomplete in any material particular, it shall be taken not to have been furnished for the purposes of subsection (1) of this section.\n(3) Any registered society which contravenes subsection (1) of this section shall be guilty of an offence.\n(4) Any person who wilfully makes or orders or causes or procures to be made any false entry in or omission from any return, account or other document furnished under this section shall be guilty of an offence and liable to a fine not exceeding ten thousand shillings or to imprisonment for a term not exceeding one year, or to both such fine and such imprisonment.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every registered society shall furnish annually to the Registrar, on or before the prescribed date, such returns, accounts and other documents as may be prescribed."
+    },
+    {
+     "ref": "(2)",
+     "text": "If any return, account or other document furnished under subsection (1) of this section is incomplete in any material particular, it shall be taken not to have been furnished for the purposes of subsection (1) of this section."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any registered society which contravenes subsection (1) of this section shall be guilty of an offence."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person who wilfully makes or orders or causes or procures to be made any false entry in or omission from any return, account or other document furnished under this section shall be guilty of an offence and liable to a fine not exceeding ten thousand shillings or to imprisonment for a term not exceeding one year, or to both such fine and such imprisonment."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Registrar may call for information and accounts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "(1) Where the Registrar has reasonable cause to believe that circumstances have arisen which render it expedient for the proper performance of his functions under this Act so to do, he may, by order in writing, require any registered society to furnish him with—\n  (a) a true and complete copy of its constitution and rules;\n  (b) a true and complete list of its officers and members;\n  (c) a true and complete copy of the minutes of any meeting held by the society at which officers of the society were elected or appointed or were ostensibly appointed or elected;\n  (d) a true and complete return of the number of meetings held by the society in Kenya within the period of six months immediately preceding the date of the order, stating the place or places at which such meetings were held;\n  (e) duly audited accounts of the society covering such period as he deems necessary for the purpose for which the order is made;\n  (f) such other accounts, returns and other information as may be prescribed.\n(2) An order given under subsection (1) of this section shall require compliance therewith within a specified period (not being less than twenty-one days in respect of the documents specified in paragraphs (a), (b), (c), (d) and (f), and not less than sixty days in respect of the documents specified in paragraph (e) of that subsection):\nProvided that the Registrar may, on application made to him, extend the period.\n(3) Where the Registrar ordered duly audited accounts under paragraph (e) of subsection (1) of this section, the cost of the audit shall be paid out of the funds of the society in respect of which the order is made, unless the Registrar otherwise directs.\n(4) A society which, on the ground of its failure to comply with an order to furnish duly audited accounts under this section, has had its registration cancelled under section 12 of this Act shall not again be registered, and no society which, in the opinion of the Registrar, is a successor of such a society, shall be registered, unless in either case, in addition to compliance with the provisions of this Act concerning registration, the application for registration is accompanied by the duly audited accounts required by the order.\n(5) Any registered society, which fails to comply with an order given under subsection (1) of this section shall be guilty of an offence.\n(6) If any information or document furnished to the Registrar in pursuance of an order given under this section is false, incorrect or incomplete in any material particular there shall be deemed to have been no compliance with such order.\n(7) In this section, the expression \"duly audited\" means audited by a person approved by the Registrar.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the Registrar has reasonable cause to believe that circumstances have arisen which render it expedient for the proper performance of his functions under this Act so to do, he may, by order in writing, require any registered society to furnish him with—"
+    },
+    {
+     "ref": "(2)",
+     "text": "An order given under subsection (1) of this section shall require compliance therewith within a specified period (not being less than twenty-one days in respect of the documents specified in paragraphs (a), (b), (c), (d) and (f), and not less than sixty days in respect of the documents specified in paragraph (e) of that subsection):"
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the Registrar ordered duly audited accounts under paragraph (e) of subsection (1) of this section, the cost of the audit shall be paid out of the funds of the society in respect of which the order is made, unless the Registrar otherwise directs."
+    },
+    {
+     "ref": "(4)",
+     "text": "A society which, on the ground of its failure to comply with an order to furnish duly audited accounts under this section, has had its registration cancelled under section 12 of this Act shall not again be registered, and no society which, in the opinion of the Registrar, is a successor of such a society, shall be registered, unless in either case, in addition to compliance with the provisions of this Act concerning registration, the application for registration is accompanied by the duly audited accounts required by the order."
+    },
+    {
+     "ref": "(5)",
+     "text": "Any registered society, which fails to comply with an order given under subsection (1) of this section shall be guilty of an offence."
+    },
+    {
+     "ref": "(6)",
+     "text": "If any information or document furnished to the Registrar in pursuance of an order given under this section is false, incorrect or incomplete in any material particular there shall be deemed to have been no compliance with such order."
+    },
+    {
+     "ref": "(7)",
+     "text": "In this section, the expression \"duly audited\" means audited by a person approved by the Registrar."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Discretion to publish certain information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "CONDUCT AND ADMINISTRATION OF SOCIETIES",
+   "text": "The Registrar, where it appears to him to be in the interests of the members of any society, may publish in the Gazette, or by advertisement in any newspaper or in any other manner he may think fit, any information received by him under section 20, section 21 or section 31 of this Act.",
+   "clauses": []
+  },
+  "33": {
+   "num": "33",
+   "title": "Liquidation of certain societies",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "WINDING-UP",
+   "text": "(1) The Cabinet Secretary may, by order published in the Gazette—\n  (a) appoint a person to be the liquidator of a society that is an unlawful society, or that has had its registration cancelled or its exemption rescinded under Part III or has otherwise ceased to exist; and\n  (b) vest in the liquidator all property (both movable and immovable) of the society.\n(2) As soon as practicable after the publication of an order under subsection (1), the liquidator shall proceed to liquidate the affairs of the society.\n[Act No. 19 of 2015, s. 16.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, by order published in the Gazette—"
+    },
+    {
+     "ref": "(2)",
+     "text": "As soon as practicable after the publication of an order under subsection (1), the liquidator shall proceed to liquidate the affairs of the society."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Procedure when the Society is solvent",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "WINDING-UP",
+   "text": "(1) If, after all the debts and liabilities of the society of which the liquidator has notice and the costs of the liquidation have been satisfied or provided for, there are any surplus assets, the liquidator shall prepare and submit to the Cabinet Secretary a scheme for the disposal of those assets.\n(2) If, after making such amendments (if any) as the Cabinet Secretary considers appropriate, the Cabinet Secretary approves a scheme submitted to the Cabinet Secretary under subsection (1), the Cabinet Secretary shall endorse the approval on the amendments.\n(3) As soon as practicable after the Cabinet Secretary has endorsed the scheme, the liquidator shall distribute the surplus assets in accordance with the scheme.\n[Act No. 19 of 2015, s. 17.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If, after all the debts and liabilities of the society of which the liquidator has notice and the costs of the liquidation have been satisfied or provided for, there are any surplus assets, the liquidator shall prepare and submit to the Cabinet Secretary a scheme for the disposal of those assets."
+    },
+    {
+     "ref": "(2)",
+     "text": "If, after making such amendments (if any) as the Cabinet Secretary considers appropriate, the Cabinet Secretary approves a scheme submitted to the Cabinet Secretary under subsection (1), the Cabinet Secretary shall endorse the approval on the amendments."
+    },
+    {
+     "ref": "(3)",
+     "text": "As soon as practicable after the Cabinet Secretary has endorsed the scheme, the liquidator shall distribute the surplus assets in accordance with the scheme."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Procedure if society is insolvent",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "WINDING-UP",
+   "text": "(1) If the assets of the society are insufficient to enable the debts and liabilities of which the receiver has notice and the costs of the liquidation to be satisfied in full, the liquidator shall—\n  (a) set aside an amount sufficient to meet the costs of the liquidation; and\n  (b) after doing so, divide the balance among the creditors who have proved their debts in proportion to the size of their claims.\n(2) Except as provided by this Act, the provisions of the Insolvency Act (Cap. 53), relating to the liquidation of a company apply to the liquidation of a society as they apply to the liquidation of a company.\n[Act No. 19 of 2015, s. 18.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If the assets of the society are insufficient to enable the debts and liabilities of which the receiver has notice and the costs of the liquidation to be satisfied in full, the liquidator shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Except as provided by this Act, the provisions of the Insolvency Act (Cap. 53), relating to the liquidation of a company apply to the liquidation of a society as they apply to the liquidation of a company."
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Supplementary provisions relating to the liquidation of society",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "WINDING-UP",
+   "text": "(1) Stamp duty is not be payable on an order made under section 33, and so far as the order affects registered land—\n  (a) the liquidator shall lodge it with the relevant registrar for registration, who shall register it accordingly without charge; and\n  (b) on the registration of the document, the land vests in the liquidator.\n(2) For the purpose of discovering, taking possession of, recovering and realising the property of the society, the liquidator has all the powers vested in the Official Receiver or a liquidator by the Insolvency Act (Cap. 53).\n(3) Before distributing any assets under this Part, the liquidator shall—\n  (a) fix a date by which the creditors of the society are required to prove their claims or be excluded from any distribution made before they have proved their claims; and\n  (b) shall publish in the Gazette a notice of that date, and notify that date to those creditors individually so far as it is practicable to do so.\n(4) The liquidator may charge fees for liquidating a society at the rate prescribed for the liquidation of companies under the Insolvency Act (Cap. 53), or such other fees as the Cabinet Secretary may in any particular case or kind of case order.\n(5) If an order has been made in respect of a society under section 33, the Cabinet Secretary may, by a further order published in the Gazette, suspend the operation of the order for such period as seems to the Cabinet Secretary to be necessary for the purpose of enabling the society to liquidate its own affairs.\n[Act No. 19 of 2015, s. 19.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Stamp duty is not be payable on an order made under section 33, and so far as the order affects registered land—"
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purpose of discovering, taking possession of, recovering and realising the property of the society, the liquidator has all the powers vested in the Official Receiver or a liquidator by the Insolvency Act (Cap. 53)."
+    },
+    {
+     "ref": "(3)",
+     "text": "Before distributing any assets under this Part, the liquidator shall—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The liquidator may charge fees for liquidating a society at the rate prescribed for the liquidation of companies under the Insolvency Act (Cap. 53), or such other fees as the Cabinet Secretary may in any particular case or kind of case order."
+    },
+    {
+     "ref": "(5)",
+     "text": "If an order has been made in respect of a society under section 33, the Cabinet Secretary may, by a further order published in the Gazette, suspend the operation of the order for such period as seems to the Cabinet Secretary to be necessary for the purpose of enabling the society to liquidate its own affairs."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Part not to apply to forfeited property",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "WINDING-UP",
+   "text": "This Part does not apply to any property ordered under section 43 of this Act to be forfeited.",
+   "clauses": []
+  },
+  "38": {
+   "num": "38",
+   "title": "Power to investigate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "INVESTIGATION OF OFFENCES AND PUNISHMENT OF OFFENDERS",
+   "text": "(1) The Registrar or any administrative officer or any police officer of or above the rank of SubInspector (in this section referred to as \"the requiring officer\") may, in writing, require any person who he has reason to believe is able to give any information as to the existence or operation of any unlawful society, or suspected unlawful society, or as to the operations of any registered society or exempted society, or as to the operations or property of a society which has been dissolved or has otherwise ceased to exist, to attend before him at a specified time, and such attendance may be required at any police station or police office situated within the district in which that person resides, or for the time being is or is found, or at the office of any administrative officer within such district, or at the office of the Registrar.\n(2) Any person who without reasonable cause fails to comply with a requirement made under subsection (1) of this section or, having attended in compliance therewith, refuses or fails to give his correct name and address and to answer truly all questions that may be properly put to him, and to produce all documents in his custody, possession or power relating to such society or suspected society which he has been required to produce, shall be guilty of an offence and liable to a fine not exceeding one thousand shillings or to imprisonment for a term not exceeding two months, or to both such fine and such imprisonment.\n(3) The requiring officer may record in writing any statement made to him by the person attending before him, whether such person is suspected of having committed an offence under any law or not, and any such written statement shall be signed by the person making it after it has been read to him in a language which he understands, and after he has been invited to make any correction he may wish.\n(4) If any person does or omits to do an act that constitutes an offence under subsection (2), the requiring officer may, if of the opinion that it would be advisable to be able to identify the person in the future, order that a photograph and impressions of fingerprints of the person be taken, in which case section 55 of the National Police Service Act (Cap. 84) applies as though the person were in lawful custody.\n[Act No. 19 of 2015, s. 20.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar or any administrative officer or any police officer of or above the rank of SubInspector (in this section referred to as \"the requiring officer\") may, in writing, require any person who he has reason to believe is able to give any information as to the existence or operation of any unlawful society, or suspected unlawful society, or as to the operations of any registered society or exempted society, or as to the operations or property of a society which has been dissolved or has otherwise ceased to exist, to attend before him at a specified time, and such attendance may be required at any police station or police office situated within the district in which that person resides, or for the time being is or is found, or at the office of any administrative officer within such district, or at the office of the Registrar."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who without reasonable cause fails to comply with a requirement made under subsection (1) of this section or, having attended in compliance therewith, refuses or fails to give his correct name and address and to answer truly all questions that may be properly put to him, and to produce all documents in his custody, possession or power relating to such society or suspected society which he has been required to produce, shall be guilty of an offence and liable to a fine not exceeding one thousand shillings or to imprisonment for a term not exceeding two months, or to both such fine and such imprisonment."
+    },
+    {
+     "ref": "(3)",
+     "text": "The requiring officer may record in writing any statement made to him by the person attending before him, whether such person is suspected of having committed an offence under any law or not, and any such written statement shall be signed by the person making it after it has been read to him in a language which he understands, and after he has been invited to make any correction he may wish."
+    },
+    {
+     "ref": "(4)",
+     "text": "If any person does or omits to do an act that constitutes an offence under subsection (2), the requiring officer may, if of the opinion that it would be advisable to be able to identify the person in the future, order that a photograph and impressions of fingerprints of the person be taken, in which case section 55 of the National Police Service Act (Cap. 84) applies as though the person were in lawful custody."
+    }
+   ]
+  },
+  "39": {
+   "num": "39",
+   "title": "Powers of entry, arrest and search",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "INVESTIGATION OF OFFENCES AND PUNISHMENT OF OFFENDERS",
+   "text": "A magistrate, a police officer of or above the rank of Assistant Superintendent or any police officer authorized in writing by a magistrate or by such a police officer may without warrant enter with or without assistance any house or building or any place in which he has reason to believe that a meeting of an unlawful society, or of persons who are members of an unlawful society, is being held, and may without warrant arrest or cause to be arrested all persons found therein, and search such house, building or place, and seize or cause to be seized all insignia, banners, arms, books, papers, documents and other property which he has reasonable cause to believe belong to an unlawful society or are in any way connected with the purpose of the meeting:\nProvided that—\n  (i) an officer shall act under this section without a warrant only if he has reasonable cause to believe that the delay occasioned in obtaining a warrant would seriously hinder him in the performance of his duties;\n  (ii) section 36 of the Criminal Procedure Code (Cap. 75) shall apply in the case of every person arrested without a warrant under this section;\n  (iii) if anything is seized by such officer he shall cause it to be forthwith brought before a court, in order that it may be dealt with according to law.",
+   "clauses": []
+  },
+  "40": {
+   "num": "40",
+   "title": "Offences cognisable",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "INVESTIGATION OF OFFENCES AND PUNISHMENT OF OFFENDERS",
+   "text": "Offences under section 5, section 6 or section 7 of this Act shall be cognizable to the police.",
+   "clauses": []
+  },
+  "41": {
+   "num": "41",
+   "title": "Proceedings against societies",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "INVESTIGATION OF OFFENCES AND PUNISHMENT OF OFFENDERS",
+   "text": "(1) Where a society is charged with an offence under this Act or any rules made thereunder, the society may appear by a representative, who may enter a plea on behalf of the society and conduct the society’s defence on its behalf.\n(2) In this section, \"representative\" in relation to a society means a person who the court is satisfied has been duly appointed in writing by the society to represent it, but a person so appointed shall not by virtue of such appointment be qualified to act on behalf of the society before any court for any purposes other than those specified in this section.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a society is charged with an offence under this Act or any rules made thereunder, the society may appear by a representative, who may enter a plea on behalf of the society and conduct the society’s defence on its behalf."
+    },
+    {
+     "ref": "(2)",
+     "text": "In this section, \"representative\" in relation to a society means a person who the court is satisfied has been duly appointed in writing by the society to represent it, but a person so appointed shall not by virtue of such appointment be qualified to act on behalf of the society before any court for any purposes other than those specified in this section."
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "General penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "INVESTIGATION OF OFFENCES AND PUNISHMENT OF OFFENDERS",
+   "text": "Where a society is guilty of an offence under this Act for which no penalty is expressly provided, the society shall be liable to a fine not exceeding five thousand shillings, and in addition every officer thereof shall be guilty of the like offence and liable to the like fine or to imprisonment for a term not exceeding six months or to both such fine and such imprisonment:\nProvided that an officer shall not be convicted of the offence if he establishes to the satisfaction of the court that he exercised due diligence to prevent its commission and that the offence occurred by reason of matters beyond his control.",
+   "clauses": []
+  },
+  "43": {
+   "num": "43",
+   "title": "Forfeiture",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "INVESTIGATION OF OFFENCES AND PUNISHMENT OF OFFENDERS",
+   "text": "A court may at any time order that any books, accounts, writings, banners, insignia or other property belonging to any unlawful society shall be forfeited and delivered to the Registrar for disposal in such manner as he may see fit.",
+   "clauses": []
+  },
+  "44": {
+   "num": "44",
+   "title": "Admissibility of certified copies and extracts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "EVIDENCE",
+   "text": "(1) In any legal proceedings, a paper purporting to be a copy of or an extract from any register or document kept by the Registrar, and purporting to be certified by him as a true copy or extract as aforesaid, shall be admissible as prima facie evidence of the contents of such register or document.\n(2) In the absence of evidence to the contrary, it shall be presumed that the signature on any such certificate is genuine and that the person signing it held the office and qualifications which he professed to hold at the time when he signed it.\n(3) No process for compelling the production of any document kept by the Registrar shall issue from any court except with the leave of that court, and any such process which is so issued shall bear a statement that it is issued with the leave of the court.\n(4) The Registrar shall not, in any legal proceedings to which he is not a party, be compellable—\n  (a) to produce any document the contents of which can be proved under subsection (1) of this section; or\n  (b) to appear as a witness to prove the matters, transactions or accounts recorded in any such document, unless the court for special cause so orders.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In any legal proceedings, a paper purporting to be a copy of or an extract from any register or document kept by the Registrar, and purporting to be certified by him as a true copy or extract as aforesaid, shall be admissible as prima facie evidence of the contents of such register or document."
+    },
+    {
+     "ref": "(2)",
+     "text": "In the absence of evidence to the contrary, it shall be presumed that the signature on any such certificate is genuine and that the person signing it held the office and qualifications which he professed to hold at the time when he signed it."
+    },
+    {
+     "ref": "(3)",
+     "text": "No process for compelling the production of any document kept by the Registrar shall issue from any court except with the leave of that court, and any such process which is so issued shall bear a statement that it is issued with the leave of the court."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Registrar shall not, in any legal proceedings to which he is not a party, be compellable—"
+    }
+   ]
+  },
+  "45": {
+   "num": "45",
+   "title": "General presumptions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "EVIDENCE",
+   "text": "In any prosecution or other proceedings under this Act—\n  (a) where it is proved that a club, company, partnership or association is in existence, it shall be presumed that such club, company, partnership or association is a society within the meaning of this Act unless the contrary is proved;\n  (b) where it is alleged that a society is an unlawful society, the burden of proving that it is a registered society, or an exempted society, or that it is not a society, shall lie on the person charged;\n  (c) a person named in the register kept by the Registrar as the holder of an office of a society shall be presumed to be the holder of that office or as the case may be, an office of that society, until the contrary is proved;\n  (d) it shall not be necessary for the prosecution to prove that a society possesses a name, or that it has been constituted or is usually known under a particular name.",
+   "clauses": []
+  },
+  "46": {
+   "num": "46",
+   "title": "Presumption of membership and existence of society",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "EVIDENCE",
+   "text": "(1) In any prosecution under this Act, where any books, accounts, writings, lists of members, seals, banners or insignia of or relating to, or purporting to relate to, a society are found in possession of any person, it shall be presumed, until the contrary is proved, that such person is a member of that society, and the society shall be presumed, until the contrary is proved, to be in existence at the time such books, accounts, writings, lists of members, seals, banners or insignia are so found.\n(2) Where any books, accounts, writings, lists of members, seals, banners or insignia of or relating to a society are found in the possession of any person, it shall be further presumed, until the contrary is proved, that that person assists in the management of the society.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In any prosecution under this Act, where any books, accounts, writings, lists of members, seals, banners or insignia of or relating to, or purporting to relate to, a society are found in possession of any person, it shall be presumed, until the contrary is proved, that such person is a member of that society, and the society shall be presumed, until the contrary is proved, to be in existence at the time such books, accounts, writings, lists of members, seals, banners or insignia are so found."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where any books, accounts, writings, lists of members, seals, banners or insignia of or relating to a society are found in the possession of any person, it shall be further presumed, until the contrary is proved, that that person assists in the management of the society."
+    }
+   ]
+  },
+  "47": {
+   "num": "47",
+   "title": "Evidence of membership of unlawful society",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "EVIDENCE",
+   "text": "In any prosecution under this Act, it shall be no objection to the admissibility of evidence as to the constitution or rules, objects or activities of any society that the witness tendering such evidence is not or has not been a member of any unlawful society.",
+   "clauses": []
+  },
+  "48": {
+   "num": "48",
+   "title": "Inspection of documents by public",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "GENERAL",
+   "text": "On payment of the prescribed fees, any person may inspect at the office of the Registrar the register and any documents relating to any society lodged with the Registrar under this Act, and may obtain from the Registrar a copy of or extract from such register or document.",
+   "clauses": []
+  },
+  "49": {
+   "num": "49",
+   "title": "Orders binding if served",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "GENERAL",
+   "text": "An order given by the Registrar to any society under section 18, section 19 or section 31 of this Act shall be binding—\n  (a) upon the society if served in accordance with section 50(1) of this Act; and\n  (b) upon every officer thereof upon whom the order or a copy thereof is served.",
+   "clauses": []
+  },
+  "50": {
+   "num": "50",
+   "title": "Service of summons",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "GENERAL",
+   "text": "(1) Every order, notice, summons or other document issued under this Act or under any rule made thereunder shall be validly served—\n  (a) on a society, if it is sent by registered post addressed to it at its registered postal address; or (b) on an individual, if it is served or is sent by registered post addressed to him at the registered postal address of the society with which he is concerned.\n(2) Any document served by being sent by registered post shall be deemed to have reached the person or society to whom or to which it is addressed at the end of ninety-six hours after the time of posting.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every order, notice, summons or other document issued under this Act or under any rule made thereunder shall be validly served— (a) on a society, if it is sent by registered post addressed to it at its registered postal address; or (b) on an individual, if it is served or is sent by registered post addressed to him at the registered postal address of the society with which he is concerned."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any document served by being sent by registered post shall be deemed to have reached the person or society to whom or to which it is addressed at the end of ninety-six hours after the time of posting."
+    }
+   ]
+  },
+  "51": {
+   "num": "51",
+   "title": "Exemption",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "GENERAL",
+   "text": "Subject to the special provisions as to exemption from registration contained in section 10 of this Act, the Registrar may, by writing under his hand, exempt any specified society from all or any of the provisions of this Act or of any rules made thereunder, subject to such conditions, if any, as he may think fit, and may at any time cancel any such exemption or amend any such condition.",
+   "clauses": []
+  },
+  "52": {
+   "num": "52",
+   "title": "Indemnification of public officers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "GENERAL",
+   "text": "No suit shall lie against any public officer for anything done or omitted to be done by him in good faith and without negligence in the intended exercise of any power or the intended performance of any duty conferred or imposed on him by or under this Act.",
+   "clauses": []
+  },
+  "53": {
+   "num": "53",
+   "title": "Rules",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "GENERAL",
+   "text": "(1) The Cabinet Secretary may make rules for prescribing anything which under this Act may be prescribed, and generally for the better carrying out of the provisions of this Act.\n(2) Without prejudice to the generality of the powers conferred by subsection (1) of this section, rules made thereunder may provide for all or any of the following matters—\n  (a) prescribing fees and forms;\n  (b) prescribing the form of accounts to be used by such societies as may be named by the Cabinet Secretary from time to time by notice in the Gazette;\n  (c) securing the submission to the Registrar of periodical returns relating to the constitution, rules, membership and management of societies;\n  (d) prescribing penalties for the breach of any such rules, not exceeding in any case a fine of five thousand shillings or imprisonment for a term of six months or both such fine and such imprisonment. [Act No. 19 of 2015, s. 21.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may make rules for prescribing anything which under this Act may be prescribed, and generally for the better carrying out of the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of the powers conferred by subsection (1) of this section, rules made thereunder may provide for all or any of the following matters— (a) prescribing fees and forms; (b) prescribing the form of accounts to be used by such societies as may be named by the Cabinet Secretary from time to time by notice in the Gazette; (c) securing the submission to the Registrar of periodical returns relating to the constitution, rules, membership and management of societies; (d) prescribing penalties for the breach of any such rules, not exceeding in any case a fine of five thousand shillings or imprisonment for a term of six months or both such fine and such imprisonment. [Act No. 19 of 2015, s. 21.]"
+    }
+   ]
+  },
+  "54": {
+   "num": "54",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "GENERAL",
+   "text": "",
+   "clauses": []
+  },
+  "55": {
+   "num": "55",
+   "title": "Savings and transitional provision",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "GENERAL",
+   "text": "If —\n  (a) any act or thing that was done or omitted to be done by or to the Cabinet Secretary under this Act before the commencement of the Companies and Insolvency Legislation (Consequential Amendments) Act, 2015 (Act No. 19 of 2015) had effect immediately before that commencement; and\n  (b) that act or thing could be done or be omitted to be done by or to the Cabinet Secretary under this Act after that commencement, that act or thing is taken to have been done or omitted to be done by or to the Cabinet Secretary. [Act No. 19 of 2015, s. 22.]",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 19]",
+   "subtitle": "MATTERS TO BE PROVIDED FOR IN THE CONSTITUTION OR RULES OF EVERY SOCIETY",
+   "text": "1. The name of the society. 2. The whole of the objects for which the society is to be established. 3. The persons to whom membership is open. 4. The rates of entrance and subscription fees (if any) for membership. 5. The method of suspension or expulsion of members. 6. The titles of officers, trustees and auditors and their terms of office, and the method of their election, appointment, dismissal and suspension. 7. The composition of committees (if any) of the society, the terms of office of members of such committees and the method of their election, appointment, dismissal and suspension. 8. The authority for and the method of filling vacancies on committees. 9. The frequency of, quorums for and dates of the general meetings referred to in section 29 of this Act. 10. The custody and investment of the funds and property of the society, and the designation of the persons responsible therefor. 11. The purposes for which the funds may be used, and in particular the prohibition of the distribution of funds among members. 12. The inspection of the books and list of members of a society, by any member or officer, under section 28(1) of this Act. 13. The annual or periodical audit of accounts. 14. The formation of branches, if branches may be formed. 15. The manner of amending the name, constitution or rules of the society. 16. The manner of the dissolution of the society and the disposal of its property on dissolution."
+  }
+ ],
+ "spent": {}
+}

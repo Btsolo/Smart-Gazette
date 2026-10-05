@@ -1,0 +1,749 @@
+{
+ "title": "Medical Practitioners and Dentists Act",
+ "citation": "Cap. 253",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1977/20/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "MEDICAL PRACTITIONERS AND DENTISTS ACT CAP. 253 Published in Kenya Gazette Vol. LXXIX—No. 46 on 11 November 1977 Assented to on 8 November 1977 Commenced on 1 January 1978 by Medical Practitioners and Dentists Act Commencement\n[Amended by Statute Law (Miscellaneous Amendments) Act, 1978 (Act No. 13 of 1978) on 10 November 1978] [Amended by Statute Law (Miscellaneous Amendments) (No. 2) Act, 1984 (Act No. 19 of 1984) on 28 December 1984] [Amended by Statute Law (Repealed and Miscellaneous Amendments) Act, 1990 (Act No. 7 of 1990) on 22 June 1990] [Amended by Statute Law (Miscellaneous Amendments) Act, 1992 (Act No. 11 of 1992) on 23 October 1992] [Amended by Statute Law (Miscellaneous Amendments) Act, 1993 (Act No. 11 of 1993) on 31 December 1993]\n[Amended by Finance Act, 2000 (Act No. 9 of 2000) on 1 December 2001] [Amended by Statute Law (Miscellaneous Amendments) Act, 2012 (Act No. 12 of 2012) on 12 July 2012]\n[Amended by Health Laws (Amendment) Act, 2019 (Act No. 5 of 2019) on 17 May 2019] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to consolidate and amend the law to make provision for the registration of medical practitioners and dentists and for purposes connected therewith and incidental thereto",
+ "parts": [],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "This Act may be cited as the Medical Practitioners and Dentists Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "In this Act, unless the context otherwise requires—\n\"assessment\" means the determination of the suitability for registration under the Act by means of oral or written examination or both;\n\"Board\" deleted by Act No. 5 of 2019, Sch.\n\"Cabinet Secretary\" means the Cabinet Secretary for the time being responsible for matters relating to health;\n\"Council\" means the Kenya Medical Practitioners and Dentists Council established under section 3;\n\"community oral health\" means the provision of curative, preventive and promotive oral health care;\n\"community oral health officer\", means a person who has undergone the prescribed course of training in an approved institution, and holds a diploma, higher diploma or degree in community oral health;\n\"dental practitioner\" and \"dentist\" mean a person registered under this Act as a dentist;\n\"dentistry\" and \"dental services\" include the performance of an operation and the giving of treatment, advice or attendance as is usually performed or given by dentists, and an operation or treatment, advice or attendance on or to any person preparatory to or for the purpose of or in connection with the fitting, insertion or fixing of artificial teeth;\n\"general practice\" means the practice of general medicine or dentistry other than specialist practice as defined in the Act;\n\"health facility\" has the meaning assigned to it in the Health Act (Cap. 241);\n\"health institution\" means a facility that is operated or designed to provide in-patient or out-patient treatment, diagnostic or therapeutic interventions, nursing, rehabilitative, palliative, convalescent, preventative or other health service for public and private use by medical and dental practitioners;\n\"intern\" means a person holding a medical or dental degree or its equivalent recognized by the Council or a person who has passed the internship qualifying examination, who is undergoing a prescribed period of internship in a recognized institution;\n\"internship\" means a prescribed period of employment during which a medical or dental graduate works under supervision to fulfill registration requirements;\n\"internship qualifying examination\" means a written or oral examination or both which determines the suitability of foreign trained graduates who holds a degree recognized by the Council to undergo internship;\n\"licence\" means an annual practising licence issued under section 12 of this Act;\n\"medical practitioner\" means a person registered under this Act as a medical practitioner;\n\"pre-registration examination\" means a written or oral examination or both which determines the suitability for registration under section 6(3) of the Act;\n\"private practice\" means the practice of medicine or of dentistry, as the case may be, for a fee either in kind or cash;\n\"private practitioner\" means a person registered under this Act as either a medical practitioner or a dentist who is also licensed under section 15 to practise medicine or dentistry for fees either in cash or in kind;\n\"professional misconduct\" means a serious digression from established or recognized standards or rules of the profession, that includes a breach of such codes of ethics or conduct as may be prescribed for the profession from time to time;\n\"register\" means the register of medical practitioners, dental practitioners and health institutions for public and private practice which the Council is required by section 5 to keep;\n\"Registrar\" means the Registrar of Medical Practitioners and Dentists constituted by section 5.\n\"specialist\" means a medical practitioner or dentist who has completed an approved post graduate training programme in a particular field of medicine or dentistry, and who has thereafter gained sufficient experience and demonstrated to the Council's satisfaction adequate knowledge and skill, in his chosen field;\n\"specialist practice\" means the practice of medicine or dentistry in a specialized field.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) There is established a Council to be known as the Kenya Medical Practitioners and Dentists Council.\n(2) The Council shall be a body corporate with perpetual succession and a common seal and capable, in its corporate name, of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding, charging and disposing of movable and immovable property; and\n  (c) doing or performing all such other things or acts necessary for the proper performance of its functions under this Act as may lawfully be done or performed by a body corporate.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a Council to be known as the Kenya Medical Practitioners and Dentists Council."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council shall be a body corporate with perpetual succession and a common seal and capable, in its corporate name, of—"
+    }
+   ]
+  },
+  "3A": {
+   "num": "3A",
+   "title": "Composition of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Council shall consist of—\n  (a) a Chairperson who shall be appointed by the President and who shall—\n  (i) be a specialist medical or dental practitioner of good standing; and (ii) have at least ten years' experience, five of which shall be in a managerial position;\n  (b) the Director General for Health or a designated representative;\n  (c) four persons appointed by the Cabinet Secretary, nominated as follows—\n  (i) one person who shall be a representative of universities in Kenya which have the power to grant a qualification which is registerable under this Act;\n  (ii) one person who shall be a representative of the Kenya Medical Association;\n  (iii) one person who shall be a representative of Kenya Dental Association; and (iv) one person who shall be a representative of oral health practitioners;\n  (d) three persons appointed by the Cabinet Secretary, as follows—\n  (i) one person who shall be nominated by Kenya National Commission on Human Rights;\n  (ii) one person who shall be a representative of the private sector in health; and (iii) one person with knowledge and expertise in finance or audit; and (e) the Chief Executive Officer who shall be the Registrar and an ex officio member and also the secretary to the Council.\n(2) A person appointed as a member of the Council under this Act, other than the ex officio member, shall serve for a term of three years and shall be eligible for reappointment for a further and final term of three years.\n(3) The Chairperson shall preside at all meetings of the Council and, in the absence for any reason of the Chairperson, the other members of the Council who are present at that meeting shall choose one of the members to act as the Chairperson at the meeting.\n(4) A member of the Council may—\n  (a) at any time resign from office by giving thirty days' notice in writing to the Chairperson;\n  (b) be removed from office if the member—\n  (i) has been absent from three consecutive meetings of the Council without permission of the Chairperson;\n  (ii) is convicted of an offence involving dishonesty or fraud;\n  (iii) is convicted of a criminal offence and sentenced to imprisonment for a term exceeding six months or more; or (iv) is incapacitated by prolonged physical or mental illness or is deemed otherwise unfit to discharge his or her duties as a member of the Council.\n(5) Six members of the Council shall constitute a quorum at any meeting. (6) The powers of the Council shall not be affected by any vacancy in the membership thereof. (7) The Council shall meet at least once in every three months.\n(8) The Chairperson, may, with prior approval of the Council, appoint suitable persons to assist in carrying out particular decisions of the Council or particular duties or investigations for the Council.\n(9) Subject to the provisions of this Act, the Council may regulate its own procedure. (10) Pursuant to nominations in paragraphs (1)(c) and (d), each organization shall present two nominees one of whom shall be appointed by the Cabinet Secretary taking into account ethnic diversity, gender, disability, skills mix and regional balance.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall consist of— (a) a Chairperson who shall be appointed by the President and who shall— (i) be a specialist medical or dental practitioner of good standing; and (ii) have at least ten years' experience, five of which shall be in a managerial position; (b) the Director General for Health or a designated representative; (c) four persons appointed by the Cabinet Secretary, nominated as follows— (i) one person who shall be a representative of universities in Kenya which have the power to grant a qualification which is registerable under this Act; (ii) one person who shall be a representative of the Kenya Medical Association; (iii) one person who shall be a representative of Kenya Dental Association; and (iv) one person who shall be a representative of oral health practitioners; (d) three persons appointed by the Cabinet Secretary, as follows— (i) one person who shall be nominated by Kenya National Commission on Human Rights; (ii) one person who shall be a representative of the private sector in health; and (iii) one person with knowledge and expertise in finance or audit; and (e) the Chief Executive Officer who shall be the Registrar and an ex officio member and also the secretary to the Council."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person appointed as a member of the Council under this Act, other than the ex officio member, shall serve for a term of three years and shall be eligible for reappointment for a further and final term of three years."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Chairperson shall preside at all meetings of the Council and, in the absence for any reason of the Chairperson, the other members of the Council who are present at that meeting shall choose one of the members to act as the Chairperson at the meeting."
+    },
+    {
+     "ref": "(4)",
+     "text": "A member of the Council may— (a) at any time resign from office by giving thirty days' notice in writing to the Chairperson; (b) be removed from office if the member— (i) has been absent from three consecutive meetings of the Council without permission of the Chairperson; (ii) is convicted of an offence involving dishonesty or fraud; (iii) is convicted of a criminal offence and sentenced to imprisonment for a term exceeding six months or more; or (iv) is incapacitated by prolonged physical or mental illness or is deemed otherwise unfit to discharge his or her duties as a member of the Council."
+    },
+    {
+     "ref": "(5)",
+     "text": "Six members of the Council shall constitute a quorum at any meeting. (6) The powers of the Council shall not be affected by any vacancy in the membership thereof. (7) The Council shall meet at least once in every three months."
+    },
+    {
+     "ref": "(8)",
+     "text": "The Chairperson, may, with prior approval of the Council, appoint suitable persons to assist in carrying out particular decisions of the Council or particular duties or investigations for the Council."
+    },
+    {
+     "ref": "(9)",
+     "text": "Subject to the provisions of this Act, the Council may regulate its own procedure. (10) Pursuant to nominations in paragraphs (1)(c) and (d), each organization shall present two nominees one of whom shall be appointed by the Cabinet Secretary taking into account ethnic diversity, gender, disability, skills mix and regional balance."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Functions of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The functions of the Council shall be to—\n  (a) establish and maintain uniform norms and standards on the learning of medicine and dentistry in Kenya;\n  (b) approve and register medical and dental schools for training of medical and dental practitioners;\n  (c) prescribe the minimum educational entry requirements for persons wishing to be trained as medical and dental practitioners;\n  (d) maintain a record of medical and dental students;\n  (e) conduct internship qualifying examinations, preregistration examinations, and peer reviews as deemed appropriate by the Council;\n  (f) inspect and accredit new and existing institutions for medical and dental internship training in Kenya;\n  (g) license eligible medical and dental interns;\n  (h) determine and set a framework for professional practice of medical and dental practitioners;\n  (i) register eligible medical and dental practitioners;\n  (j) regulate the conduct of registered medical and dental practitioners and take such disciplinary measures for any form of professional misconduct;\n  (k) register and license health institutions;\n  (l) carry out inspection of health institutions;\n  (m) regulate health institutions and take disciplinary action for any form of misconduct by a health institution;\n  (n) accredit continuous professional development providers;\n  (o) issue certificate of status to medical and dental practitioners and health institutions; and (p) do all such other things necessary for the attainment of all or any part of its functions. [Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "4A": {
+   "num": "4A",
+   "title": "Committees of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Council shall constitute the following committees—\n  (a) training, assessment, registration and human resources committee;\n  (b) disciplinary and ethics committee whose mandate shall include—\n  (i) conducting inquiries into complaints submitted to it;\n  (ii) regulating professional conduct;\n  (iii) ensuring fitness to practice and operate;\n  (iv) promoting mediation and arbitration between parties; and\n  (v) at its own liberty, recording and adopting mediation agreements or compromise between parties, on the terms agreed;\n  (c) inspections, licensing, finance and general purposes committee; and\n  (d) audit and risk committee.\n(2) The Council may from time to time appoint such other ad hoc committees as it may deem necessary for the effective carrying out of its functions under this Act.\n(3) Any committee appointed by the Council under subsection (1) or (2) shall consist of such persons as the Council deems necessary.\n(4) The Corporation Secretary shall be the secretary of all committees appointed under this Act.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall constitute the following committees— (a) training, assessment, registration and human resources committee; (b) disciplinary and ethics committee whose mandate shall include— (i) conducting inquiries into complaints submitted to it;"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council may from time to time appoint such other ad hoc committees as it may deem necessary for the effective carrying out of its functions under this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any committee appointed by the Council under subsection (1) or (2) shall consist of such persons as the Council deems necessary."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Corporation Secretary shall be the secretary of all committees appointed under this Act."
+    }
+   ]
+  },
+  "4B": {
+   "num": "4B",
+   "title": "Powers of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Council shall have all powers necessary for the proper performance of its functions under this Act and in particular, but without prejudice to the generality of the foregoing, shall have power to—\n  (a) control, supervise and administer the assets of the Council in such manner and for such purpose as best promotes the purpose for which the Council is established;\n  (b) determine the provisions to be made for capital and recurrent expenditure and for the reserves of the Council;\n  (c) receive any grants, gifts, donations or endowments and make legitimate disbursements therefrom;\n  (d) enter into an association with other bodies or organizations within or outside Kenya as the Council may consider desirable or appropriate and in furtherance of the purpose for which the Council is established;\n  (e) open a bank account or banking accounts for the funds of the Council; and\n  (f) invest any of the funds of the Council not immediately required for its purposes in accordance with the Public Finance Management Act (Cap. 412A) and other relevant laws.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "4C": {
+   "num": "4C",
+   "title": "Chief Executive Officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) There shall be a Chief Executive Officer of the Council who shall be appointed by the Council through a competitive process and whose terms and condition of service shall be determined by the Council in an instrument of appointment or otherwise in writing from time to time.\n(2) A person shall be qualified to be appointed as the Chief Executive Officer if the person—\n  (a) possesses a masters' degree or its equivalent from a university recognised in Kenya;\n  (b) has at least ten years professional and administrative experience in matters related to health; and\n  (c) meets the requirements of Chapter Six of the Constitution.\n(3) The Chief Executive Officer shall be responsible for the daily management of the staff and affairs of the Council.\n(4) The Chief Executive Officer shall serve for a term of four years and shall be eligible, subject to satisfactory performance, to reappointment for a single further term of four years. [Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Chief Executive Officer of the Council who shall be appointed by the Council through a competitive process and whose terms and condition of service shall be determined by the Council in an instrument of appointment or otherwise in writing from time to time."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall be qualified to be appointed as the Chief Executive Officer if the person—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Chief Executive Officer shall be responsible for the daily management of the staff and affairs of the Council."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Chief Executive Officer shall serve for a term of four years and shall be eligible, subject to satisfactory performance, to reappointment for a single further term of four years. [Act No. 5 of 2019, Sch.]"
+    }
+   ]
+  },
+  "4D": {
+   "num": "4D",
+   "title": "Staff of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Council may employ such professional, technical and other staff for the proper and efficient discharge of its functions on such terms and conditions as the Council may determine.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Registrar and register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) For the purpose of this Act, there shall be a Registrar. (2) The Chief Executive Officer shall be the Registrar, and shall perform such duties in connection with the register as are prescribed by this Act. (3) The Registrar shall annually maintain—\n  (a) a register for interns;\n  (b) a register of medical and dental practitioners;\n  (c) a register of community oral health officers;\n  (d) a register of general practitioners;\n  (e) a register of specialist practitioners;\n  (f) a register of foreign medical and dental practitioners;\n  (g) a register of approved medical and dental schools;\n  (h) a register of approved internship training centres;\n  (i) a register of health institutions; and (j) such other registers as may from time to time be required by the Council.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "For the purpose of this Act, there shall be a Registrar. (2) The Chief Executive Officer shall be the Registrar, and shall perform such duties in connection with the register as are prescribed by this Act. (3) The Registrar shall annually maintain—"
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Registration of medical practitioners and dentists",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A person who—\n  (a) is a citizen of Kenya;\n  (b) is a holder of a degree or other qualification obtained from a University in Kenya or the East African Community which is recognized by the Council as making him eligible for registration;\n  (c) presents proof of completion of internship; and (d) satisfies the Council that he is a person of good moral standing, may apply to the Council for full registration as a medical or dental practitioner under this Act.\n(2) A person who—\n  (a) is a citizen of Kenya;\n  (b) is a holder of a degree or other qualification obtained from a University outside Kenya or outside the East African Community which is recognized by the Council as making him eligible for registration;\n  (c) has passed the internship qualifying examinations;\n  (d) presents proof of completion of internship; and\n  (e) satisfies the Council that he is a person of good moral standing, may apply to the Council for full registration as a medical or dental practitioner under this Act.\n(3) A person who—\n  (a) is a citizen of Kenya;\n  (b) is a holder of a degree or other qualification obtained from a University outside Kenya or outside the East African Community which is recognized by the Council as making him eligible for registration;\n  (c) presents proof of completion of internship in the country in which he trained;\n  (d) has passed pre-registration examination; and\n  (e) satisfies the Council that he is a person of good moral standing, may apply to the Council for full registration as a medical or dental practitioner under this Act.\n(4) A person who—\n  (a) is a citizen of the East African Community;\n  (b) is a holder of a degree or other qualification recognized by the Council as making him eligible for registration;\n  (c) presents proof of registration in their country of origin; and\n  (d) satisfies the Council that he is a person of good moral standing, may apply to the Council for reciprocal registration as a medical or dental practitioner under this Act.\n(5) A person who—\n  (a) is not citizen of Kenya or of a partner state of the East African Community;\n  (b) is a holder of a degree or other qualification recognized by the Council as making him eligible for registration;\n  (c) presents proof of registration from the country of origin or any other jurisdiction;\n  (d) satisfies the Council that, he has acquired sufficient knowledge of, and experience in, the practice of medicine or dentistry as the case may be;\n  (e) satisfies the Council that he is a person of good moral standing; and\n  (f) has passed an examination prescribed by the Council, may apply to the Council for temporary registration as a foreign medical or dental practitioner under this Act as is prescribed in regulations.\n(6) An application made under subsections (1), (2), (3), (4) or (5) shall be in the prescribed form and shall be accompanied by the prescribed fee.\n(7) The Council shall consider every application made under this section and shall register the applicant if satisfied that the applicant is—\n  (a) duly qualified in terms of this section; and\n  (b) a fit and proper person to be so registered.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who— (a) is a citizen of Kenya; (b) is a holder of a degree or other qualification obtained from a University in Kenya or the East African Community which is recognized by the Council as making him eligible for registration; (c) presents proof of completion of internship; and (d) satisfies the Council that he is a person of good moral standing, may apply to the Council for full registration as a medical or dental practitioner under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who— (a) is a citizen of Kenya; (b) is a holder of a degree or other qualification obtained from a University outside Kenya or outside the East African Community which is recognized by the Council as making him eligible for registration;"
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who—"
+    },
+    {
+     "ref": "(4)",
+     "text": "A person who—"
+    },
+    {
+     "ref": "(5)",
+     "text": "A person who—"
+    },
+    {
+     "ref": "(6)",
+     "text": "An application made under subsections (1), (2), (3), (4) or (5) shall be in the prescribed form and shall be accompanied by the prescribed fee."
+    },
+    {
+     "ref": "(7)",
+     "text": "The Council shall consider every application made under this section and shall register the applicant if satisfied that the applicant is—"
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Certificate of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Council shall issue to every person registered under this Act, a certificate of registration in the prescribed form.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Correction of register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Registrar shall from time to time make any necessary alterations and corrections in the register in relation to any entry therein.\n(2) The Registrar shall remove from the register—\n  (a) the name of every deceased person;\n  (b) the name of every person convicted of an offence under section 19;\n  (c) the name of every person whose name the Council has under section 20 directed should be struck off the register; and\n  (d) any entry which has been incorrectly or fraudulently made in the register.\n(3) The Registrar may, with the consent of the person concerned, remove from the register the name of a person who has ceased to practise.\n(4) The Registrar shall, not later than 1st July in each year, send by registered post to every person registered in the register a notice inquiring whether or not that person has ceased to practise or has changed his address, and, if no answer is returned to the inquiry within six months from the posting thereof, the name of that person may be removed from the register; but a name removed under this subsection may, at the request of the person concerned and on payment of the prescribed fee, be reinstated by the Registrar.\n(5) The Registrar-General of Births and Deaths shall notify the Registrar of the death of any registered medical practitioner or dentist.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar shall from time to time make any necessary alterations and corrections in the register in relation to any entry therein."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar shall remove from the register—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar may, with the consent of the person concerned, remove from the register the name of a person who has ceased to practise."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Registrar shall, not later than 1st July in each year, send by registered post to every person registered in the register a notice inquiring whether or not that person has ceased to practise or has changed his address, and, if no answer is returned to the inquiry within six months from the posting thereof, the name of that person may be removed from the register; but a name removed under this subsection may, at the request of the person concerned and on payment of the prescribed fee, be reinstated by the Registrar."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Registrar-General of Births and Deaths shall notify the Registrar of the death of any registered medical practitioner or dentist."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Publication of register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Registrar shall publish in the Gazette as soon as may be practicable after registration the name of every medical practitioner or dentist registered in the register.\n(2) The Registrar shall once in every year, as soon as convenient after 1st January, but not later than 31st March, publish in the print or electronic media, as approved by the Council, a list containing the names, qualifications and registered addresses of all registered medical and dental practitioners.\n(3) It shall be the duty of every medical and dental practitioner to inform the Registrar immediately of any change in his registered address.\n[Act No. 12 of 2012, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar shall publish in the Gazette as soon as may be practicable after registration the name of every medical practitioner or dentist registered in the register."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar shall once in every year, as soon as convenient after 1st January, but not later than 31st March, publish in the print or electronic media, as approved by the Council, a list containing the names, qualifications and registered addresses of all registered medical and dental practitioners."
+    },
+    {
+     "ref": "(3)",
+     "text": "It shall be the duty of every medical and dental practitioner to inform the Registrar immediately of any change in his registered address."
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Publication prima facie evidence of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The publication of the list of registered medical and dental practitioners in the Gazette shall be prima facie evidence that the persons named therein are registered under this Act, and the absence of the name of any person from such list shall be prima facie evidence that the person is not so registered.\n(2) All register books and all copies thereof or extracts therefrom certified under the hand of the Registrar shall be receivable in evidence in all courts.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The publication of the list of registered medical and dental practitioners in the Gazette shall be prima facie evidence that the persons named therein are registered under this Act, and the absence of the name of any person from such list shall be prima facie evidence that the person is not so registered."
+    },
+    {
+     "ref": "(2)",
+     "text": "All register books and all copies thereof or extracts therefrom certified under the hand of the Registrar shall be receivable in evidence in all courts."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Registration of higher qualifications for medical practitioners or dentists",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "A person registered under this Act who has obtained a higher degree or qualification than the qualification in respect of which he has been registered may apply to the Council to have that higher degree or qualification inserted in the register in addition to the qualification previously registered, on the payment of a prescribed fee.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "11A": {
+   "num": "11A",
+   "title": "Supervisory functions of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Council shall satisfy itself that courses of study to be followed by students for a degree in medicine or dentistry, including the standard of proficiency required for admission thereto and the standards of examinations leading to the award of a degree, are sufficient to guarantee that the holder thereof has acquired the minimum knowledge and skill necessary for the efficient practice of medicine or dentistry.\n(2) For the purposes of this section the Council may—\n  (a) appoint persons to visit any university or other institution in Kenya offering a course in medicine or dentistry and to report to it on the course of study, staffing, accommodation and equipment available for training in medicine or dentistry and other arrangements available for such training;\n  (b) appoint persons to attend examinations in any aspect of medicine or dentistry at any such university or institution and to report to it on the sufficiency of the examinations and on such matters relating thereto as the Council may require;\n  (c) require the dean or head of the faculty of medicine or dentistry or both at any such university or institution to provide written information to it concerning any of the matters referred to in paragraph (a) or (b).\n(3) The Council shall forward a copy of any report made under subsection (2) to the university or institution concerned and may, if it is satisfied that the standard of any course or examination is insufficient, and after it has given the university or institution an opportunity of making observations on the report, require the university or institution in writing to take such measures as it may specify in order to improve or rectify the standard of such course or examination.\n(4) If the Council, after requirements in writing has been made under subsection (3), is satisfied that the university or institution has nevertheless failed to take measures which are in the opinion of the Council necessary to improve or rectify the standard of any course or examination, it may cancel or suspend any recognition of a degree, diploma, or qualification awarded by that university or institution for the purposes of section 11:\nProvided that no degree awarded prior to such cancellation or suspension shall be thereby affected.\n[Act No. 11 of 1993, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall satisfy itself that courses of study to be followed by students for a degree in medicine or dentistry, including the standard of proficiency required for admission thereto and the standards of examinations leading to the award of a degree, are sufficient to guarantee that the holder thereof has acquired the minimum knowledge and skill necessary for the efficient practice of medicine or dentistry."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of this section the Council may—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Council shall forward a copy of any report made under subsection (2) to the university or institution concerned and may, if it is satisfied that the standard of any course or examination is insufficient, and after it has given the university or institution an opportunity of making observations on the report, require the university or institution in writing to take such measures as it may specify in order to improve or rectify the standard of such course or examination."
+    },
+    {
+     "ref": "(4)",
+     "text": "If the Council, after requirements in writing has been made under subsection (3), is satisfied that the university or institution has nevertheless failed to take measures which are in the opinion of the Council necessary to improve or rectify the standard of any course or examination, it may cancel or suspend any recognition of a degree, diploma, or qualification awarded by that university or institution for the purposes of section 11:"
+    }
+   ]
+  },
+  "11B": {
+   "num": "11B",
+   "title": "Recognition of specialists",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Council may recognize a medical or dental practitioner as a specialist in any of the fields under the Act or the rules thereunder.\n(2) A medical or dental practitioner shall be recognized as a specialist if the medical or dental practitioner—\n  (a) is a holder of a post graduate qualification equivalent to masters' degree in medicine or dental surgery awarded after a period of training recognized by the Council; and\n  (b) has at least two years' experience after obtaining the post graduate qualification under the supervision of a recognized specialist.\n(3) The Council may recognize a medical or dental practitioner as a sub-specialist in any of the fields under the Act or the rules thereunder.\n(4) A medical or dental practitioner shall be recognized as a sub-specialist if the medical or dental practitioner—\n  (a) possesses a basic specialist qualification in his or her discipline;\n  (b) has at least six months training; and (c) has at least one year experience under the supervision of a recognized sub-specialist. [Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council may recognize a medical or dental practitioner as a specialist in any of the fields under the Act or the rules thereunder."
+    },
+    {
+     "ref": "(2)",
+     "text": "A medical or dental practitioner shall be recognized as a specialist if the medical or dental practitioner—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Council may recognize a medical or dental practitioner as a sub-specialist in any of the fields under the Act or the rules thereunder."
+    },
+    {
+     "ref": "(4)",
+     "text": "A medical or dental practitioner shall be recognized as a sub-specialist if the medical or dental practitioner— (a) possesses a basic specialist qualification in his or her discipline; (b) has at least six months training; and (c) has at least one year experience under the supervision of a recognized sub-specialist. [Act No. 5 of 2019, Sch.]"
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Specialist licences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Council shall issue in accordance with this section and rules made under this Act, general, specialist and any other practising licences as the Council shall determine from time to time authorizing medical practitioners and dentists named therein to practice medicine or dentistry.\n(2) An application for a practising licence under subsection (1) shall be made to the Council in the prescribed form and accompanied by the prescribed fee.\n(3) All medical practitioners and dentists shall be required to satisfy the Council's requirement for continuing professional development before the renewal of annual practising licences.\n(4) A practising licence shall bear the date of day on which it is issued and shall have effect from that day: Provided that a practising licence issued during the first month of any practising year shall have effect, for all purposes, from the beginning of that month.\n(5) The practising year for a practising licence shall be from the first of January to the thirty-first of December: Provided that the Council, in consultation with the Cabinet Secretary, may, by order in the Gazette, alter the practising year and the order may make such transitional provisions regarding incidental matters as may be expedient.\n(6) A practising license shall expire at the end of the practising year in which it was issued: Provided that, where the name of a medical or dental practitioner is removed or struck off the register, the practising license, if any, shall expire forthwith. [Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall issue in accordance with this section and rules made under this Act, general, specialist and any other practising licences as the Council shall determine from time to time authorizing medical practitioners and dentists named therein to practice medicine or dentistry."
+    },
+    {
+     "ref": "(2)",
+     "text": "An application for a practising licence under subsection (1) shall be made to the Council in the prescribed form and accompanied by the prescribed fee."
+    },
+    {
+     "ref": "(3)",
+     "text": "All medical practitioners and dentists shall be required to satisfy the Council's requirement for continuing professional development before the renewal of annual practising licences."
+    },
+    {
+     "ref": "(4)",
+     "text": "A practising licence shall bear the date of day on which it is issued and shall have effect from that day: Provided that a practising licence issued during the first month of any practising year shall have effect, for all purposes, from the beginning of that month."
+    },
+    {
+     "ref": "(5)",
+     "text": "The practising year for a practising licence shall be from the first of January to the thirty-first of December: Provided that the Council, in consultation with the Cabinet Secretary, may, by order in the Gazette, alter the practising year and the order may make such transitional provisions regarding incidental matters as may be expedient."
+    },
+    {
+     "ref": "(6)",
+     "text": "A practising license shall expire at the end of the practising year in which it was issued: Provided that, where the name of a medical or dental practitioner is removed or struck off the register, the practising license, if any, shall expire forthwith. [Act No. 5 of 2019, Sch.]"
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Internship and temporary licences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A medical and dental graduate who intends to undertake internship training shall apply to the Council in the prescribed form and upon payment of the prescribed fee for an internship licence.\n(2) If the Council is satisfied that the graduate meets the set requirements, it shall issue the graduate an internship licence with or without conditions on the licence.\n(3) The Council shall grant temporary licences to eligible foreign medical and dental students to perform specific work or works in specific institutions in Kenya.\n(4) An internship licence issued under subsection (2) shall be for a period not exceeding twelve months within a practising year.\n(5) A temporary licence issued under subsection (3) shall be for a period not exceeding twelve months within a practising year and may be renewed. [Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A medical and dental graduate who intends to undertake internship training shall apply to the Council in the prescribed form and upon payment of the prescribed fee for an internship licence."
+    },
+    {
+     "ref": "(2)",
+     "text": "If the Council is satisfied that the graduate meets the set requirements, it shall issue the graduate an internship licence with or without conditions on the licence."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Council shall grant temporary licences to eligible foreign medical and dental students to perform specific work or works in specific institutions in Kenya."
+    },
+    {
+     "ref": "(4)",
+     "text": "An internship licence issued under subsection (2) shall be for a period not exceeding twelve months within a practising year."
+    },
+    {
+     "ref": "(5)",
+     "text": "A temporary licence issued under subsection (3) shall be for a period not exceeding twelve months within a practising year and may be renewed. [Act No. 5 of 2019, Sch.]"
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Renewal of practising licences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A medical practitioner or dentist, issued with a practising licence may apply for the renewal of the licence in the prescribed form at least thirty days before the expiry thereof.\n(2) A medical practitioner or dentist who fails to apply for renewal of their practising licence within the period specified under subsection (1), shall, when applying for renewal, be required to pay such late application fee as shall be prescribed by the Council.\n(3) The Council may refuse to renew, or suspend, withdraw or cancel any practising licence, if satisfied that the medical practitioner or dentist is guilty of professional misconduct or is in breach of any provisions of this Act or any regulations made thereunder, within a period of twelve months immediately preceding the date of the application for renewal.\n(4) A person who is aggrieved by the decision of the Council in the exercise of its powers under subsection (3) may appeal to the High Court.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A medical practitioner or dentist, issued with a practising licence may apply for the renewal of the licence in the prescribed form at least thirty days before the expiry thereof."
+    },
+    {
+     "ref": "(2)",
+     "text": "A medical practitioner or dentist who fails to apply for renewal of their practising licence within the period specified under subsection (1), shall, when applying for renewal, be required to pay such late application fee as shall be prescribed by the Council."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Council may refuse to renew, or suspend, withdraw or cancel any practising licence, if satisfied that the medical practitioner or dentist is guilty of professional misconduct or is in breach of any provisions of this Act or any regulations made thereunder, within a period of twelve months immediately preceding the date of the application for renewal."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person who is aggrieved by the decision of the Council in the exercise of its powers under subsection (3) may appeal to the High Court."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Registration of health institutions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A person or organization may apply to the Council for the registration of a health institution in the prescribed form which shall be accompanied by the prescribed fee.\n(2) Where the applicant satisfies the Council that the institution meets the requirements for registration, the Council shall register the facility as an approved health institution.\n(3) The Council shall issue to every approved health institution registered under this Act, a certificate of registration in the prescribed form.\n(4) The Council shall issue in accordance with this section and rules made under this Act, a licence authorizing the use of any premises as a health institution.\n(5) An application for a licence under subsection (4) shall be made to the Council in the prescribed form and accompanied by the prescribed fees and shall be made on or before the thirtieth of October of each practising year.\n(6) A licence issued under this section shall bear the date of day on which it is issued and shall have effect from that date:\nProvided that a licence issued during the first month of any practising year shall have effect for all purposes from the beginning of that month.\n(7) A licence issued under this section shall be displayed in a conspicuous place at the health institution to which the licence relates.\n(8) A licence issued under this section shall specify the nature of services that may be provided by the health institution.\n(9) The Council may decline to renew, cancel, withdraw or revoke any licence issued under this section, if it is satisfied that the health institution is being operated in a manner that contravenes any provisions of the Act or any regulations made under this Act.\n(10) A health institution registered under this Act shall be inspected by the Council.\n(11) No premise shall be used by any person as a health institution unless it is registered and licenced for such use by the Council.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person or organization may apply to the Council for the registration of a health institution in the prescribed form which shall be accompanied by the prescribed fee."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the applicant satisfies the Council that the institution meets the requirements for registration, the Council shall register the facility as an approved health institution."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Council shall issue to every approved health institution registered under this Act, a certificate of registration in the prescribed form."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Council shall issue in accordance with this section and rules made under this Act, a licence authorizing the use of any premises as a health institution."
+    },
+    {
+     "ref": "(5)",
+     "text": "An application for a licence under subsection (4) shall be made to the Council in the prescribed form and accompanied by the prescribed fees and shall be made on or before the thirtieth of October of each practising year."
+    },
+    {
+     "ref": "(6)",
+     "text": "A licence issued under this section shall bear the date of day on which it is issued and shall have effect from that date:"
+    },
+    {
+     "ref": "(7)",
+     "text": "A licence issued under this section shall be displayed in a conspicuous place at the health institution to which the licence relates."
+    },
+    {
+     "ref": "(8)",
+     "text": "A licence issued under this section shall specify the nature of services that may be provided by the health institution."
+    },
+    {
+     "ref": "(9)",
+     "text": "The Council may decline to renew, cancel, withdraw or revoke any licence issued under this section, if it is satisfied that the health institution is being operated in a manner that contravenes any provisions of the Act or any regulations made under this Act."
+    },
+    {
+     "ref": "(10)",
+     "text": "A health institution registered under this Act shall be inspected by the Council."
+    },
+    {
+     "ref": "(11)",
+     "text": "No premise shall be used by any person as a health institution unless it is registered and licenced for such use by the Council."
+    }
+   ]
+  },
+  "15A": {
+   "num": "15A",
+   "title": "Professional indemnity",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Every practitioner shall in each year take a professional indemnity cover and every health institution shall in each year insure the health institution against professional liability of its staff.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "Licences to be published in Gazette",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The issue and the cancellation, revocation or withdrawal of a licence under section 13 or section 15 shall be published in the Gazette.",
+   "clauses": []
+  },
+  "17": {
+   "num": "17",
+   "title": "No fees recoverable unless person licensed under section 15",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "No person shall be entitled to recover a charge for medical or surgical advice or attendance, or for the performance of an operation as a medical practitioner or dentist, or for medicine which he has prescribed and supplied as a medical practitioner or dentist, unless he is at the time appropriately licensed under section 15.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Certificate not valid unless signatory registered, etc.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "No certificate or other document required by law to be signed by a duly qualified medical or dental practitioner shall be valid unless signed by a person registered as a medical or dental practitioner under this Act or, where the context so admits, by a person who is licensed by the Council under section 13.",
+   "clauses": []
+  },
+  "19": {
+   "num": "19",
+   "title": "[Deleted by Act No. 5 of 2019, Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "",
+   "clauses": []
+  },
+  "19A": {
+   "num": "19A",
+   "title": "Report of convictions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The court by which a medical practitioner or dentist is convicted of an offence under the Penal Code (Cap. 63) or this Act or any court by which his case is brought by way of appeal against conviction shall report the conviction or the upholding of a conviction to the Council specifying the name of the medical practitioner or dentist, as the case may be, the date of the conviction or judgment on appeal and the offence for which he was convicted.\n[Act No. 19 of 1984, Sch.]",
+   "clauses": []
+  },
+  "20": {
+   "num": "20",
+   "title": "Disciplinary proceedings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Any person who is dissatisfied with any professional service offered, or alleges a breach of standards by a registered or licensed person under this Act, may lodge a complaint in the prescribed manner to the Council.\n(2) The Council may, or through a committee appointed for that purpose, inquire into any complaint of professional misconduct, malpractice or any breach of standards.\n(3) Upon an inquiry held by the Council to determine the complaint made under subsection (2), the person whose conduct is being inquired into shall be afforded an opportunity of being heard, either in person or through a representative.\n(4) For purposes of proceedings at any inquiry held under this section, the Council may administer oaths, enforce the attendance of witnesses and production of books and documents.\n(5) The Council shall regulate its own procedure in disciplinary proceedings.\n(6) Where after an inquiry, the Council determines that a person is guilty, the Council may—\n  (a) issue a caution or reprimand in writing;\n  (b) direct a medical practitioner or dentist to undergo remedial training for a period not exceeding twelve months;\n  (c) direct the medical practitioner or dentist be placed on probation for a period not exceeding six months;\n  (d) suspend, withdraw or cancel the practising licence of a medical practitioner or dentist for a period not exceeding twelve months;\n  (e) suspend, withdraw or cancel the licence of a health institution or a section of the health institution for a period not exceeding twelve months;\n  (f) permanently remove the name of a medical practitioner or dentist from the registers under section 5(3); or\n  (g) in addition to the penalties stipulated in paragraphs (a), (b), (c), (d), (e) or (f), impose a fine which the Council deems appropriate in the circumstance.\n(7) A person or health institution whose licence has been withdrawn or cancelled under subsection (6), shall forthwith surrender the license to the Council.\n(8) A person or health institution whose name has been removed from the register under subsection (6) (f) shall forthwith surrender the registration certificate to the Council.\n(9) A person aggrieved by a decision of the Council made under subsection (6) may, within thirty days from the date of the decision of the Council, appeal to the High Court.\n(10) Notwithstanding the provisions of section 3A (5), the Council shall not remove the name of a person from the register under subsection (6) unless at least seven members of the Council are present in the inquiry.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who is dissatisfied with any professional service offered, or alleges a breach of standards by a registered or licensed person under this Act, may lodge a complaint in the prescribed manner to the Council."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council may, or through a committee appointed for that purpose, inquire into any complaint of professional misconduct, malpractice or any breach of standards."
+    },
+    {
+     "ref": "(3)",
+     "text": "Upon an inquiry held by the Council to determine the complaint made under subsection (2), the person whose conduct is being inquired into shall be afforded an opportunity of being heard, either in person or through a representative."
+    },
+    {
+     "ref": "(4)",
+     "text": "For purposes of proceedings at any inquiry held under this section, the Council may administer oaths, enforce the attendance of witnesses and production of books and documents."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Council shall regulate its own procedure in disciplinary proceedings."
+    },
+    {
+     "ref": "(6)",
+     "text": "Where after an inquiry, the Council determines that a person is guilty, the Council may—"
+    },
+    {
+     "ref": "(7)",
+     "text": "A person or health institution whose licence has been withdrawn or cancelled under subsection (6), shall forthwith surrender the license to the Council."
+    },
+    {
+     "ref": "(8)",
+     "text": "A person or health institution whose name has been removed from the register under subsection (6) (f) shall forthwith surrender the registration certificate to the Council."
+    },
+    {
+     "ref": "(9)",
+     "text": "A person aggrieved by a decision of the Council made under subsection (6) may, within thirty days from the date of the decision of the Council, appeal to the High Court."
+    },
+    {
+     "ref": "(10)",
+     "text": "Notwithstanding the provisions of section 3A (5), the Council shall not remove the name of a person from the register under subsection (6) unless at least seven members of the Council are present in the inquiry."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Effect of removal, cancellation or suspension",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Where the name of a person has been removed from the register, the name of that person shall not, subject to the provisions of this Act, be again entered in the register except by order of the Council.\n(2) Where an order has been made for the removal of a person’s name from the register, or for suspending the effect of a person’s registration under this Act, or for cancelling or suspending a licence granted to a person under this Act, the Council may either on its own motion or on the application of the person concerned, and in either case after holding such inquiry as the Council thinks fit, cause the name of that person to be restored to the register or terminate the suspension of the registration, or, as the case may be, grant a new licence or terminate the suspension of the existing licence, in any such case either without fee or on the payment of such fee, not exceeding the appropriate registration or licence fee, as the Council may determine.\n(3) Subsection (1) shall not apply when a person’s name has been removed from the register at his request or with his consent in circumstances under which it could not have been removed without consent, and the name of that person shall on his application and on the payment of the prescribed fee, if any, be restored to the register.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the name of a person has been removed from the register, the name of that person shall not, subject to the provisions of this Act, be again entered in the register except by order of the Council."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where an order has been made for the removal of a person’s name from the register, or for suspending the effect of a person’s registration under this Act, or for cancelling or suspending a licence granted to a person under this Act, the Council may either on its own motion or on the application of the person concerned, and in either case after holding such inquiry as the Council thinks fit, cause the name of that person to be restored to the register or terminate the suspension of the registration, or, as the case may be, grant a new licence or terminate the suspension of the existing licence, in any such case either without fee or on the payment of such fee, not exceeding the appropriate registration or licence fee, as the Council may determine."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subsection (1) shall not apply when a person’s name has been removed from the register at his request or with his consent in circumstances under which it could not have been removed without consent, and the name of that person shall on his application and on the payment of the prescribed fee, if any, be restored to the register."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Penalty for unregistered and unlicensed person practising",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) A person who is not registered or licensed, including a person aiding or assisting therein, under this Act, and makes or produces or causes to be made or produced any false or fraudulent presentation or declaration either orally or in writing, commits an offence and shall be liable, on conviction, to a fine not exceeding five million shillings or to imprisonment for a term not exceeding five years or to both.\n(2) Any person who falsely takes or uses any name, title or addition implying a qualification to practice medicine or dentistry or who not being registered or licensed under this Act, practices or professes to practice or publishes his name as practising medicine or dentistry, commits an offence and shall be liable on conviction to a fine not exceeding five million shillings or to imprisonment for a term not exceeding five years or to both.\n(3) Any person who uses the title \"doctor\" unless he is registered or licensed under this Act as a medical practitioner or dentist or has acquired doctoral qualifications or has obtained such qualifications which entitles him to use that title, commits an offence and shall be liable on conviction to a fine not exceeding five million shillings or to imprisonment for a term not exceeding five years or to both.\n(4) Any person who, while in charge of a health institution, employs or engages the services of another person as a medical practitioner or dentist who is not registered and licenced under this Act, commits an offence and shall be liable on conviction to a fine not exceeding ten million shillings or imprisonment for a term not exceeding five years or to both.\n(5) A person who uses premises as a health institution which premises is not licensed as a health institution commits an offence and shall be liable on conviction to a fine not exceeding ten million shillings or imprisonment for a term not exceeding five years or to both.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who is not registered or licensed, including a person aiding or assisting therein, under this Act, and makes or produces or causes to be made or produced any false or fraudulent presentation or declaration either orally or in writing, commits an offence and shall be liable, on conviction, to a fine not exceeding five million shillings or to imprisonment for a term not exceeding five years or to both."
+    },
+    {
+     "ref": "(2)",
+     "text": "Any person who falsely takes or uses any name, title or addition implying a qualification to practice medicine or dentistry or who not being registered or licensed under this Act, practices or professes to practice or publishes his name as practising medicine or dentistry, commits an offence and shall be liable on conviction to a fine not exceeding five million shillings or to imprisonment for a term not exceeding five years or to both."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any person who uses the title \"doctor\" unless he is registered or licensed under this Act as a medical practitioner or dentist or has acquired doctoral qualifications or has obtained such qualifications which entitles him to use that title, commits an offence and shall be liable on conviction to a fine not exceeding five million shillings or to imprisonment for a term not exceeding five years or to both."
+    },
+    {
+     "ref": "(4)",
+     "text": "Any person who, while in charge of a health institution, employs or engages the services of another person as a medical practitioner or dentist who is not registered and licenced under this Act, commits an offence and shall be liable on conviction to a fine not exceeding ten million shillings or imprisonment for a term not exceeding five years or to both."
+    },
+    {
+     "ref": "(5)",
+     "text": "A person who uses premises as a health institution which premises is not licensed as a health institution commits an offence and shall be liable on conviction to a fine not exceeding ten million shillings or imprisonment for a term not exceeding five years or to both."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Rules",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Cabinet Secretary may, after consultation with the Council, make rules generally for the better carrying out of the provisions of this Act, and any such rules may, without prejudice to the generality of the foregoing—\n  (a) prescribe anything required by this Act to be prescribed;\n  (b) provide for the procedure to be followed by the Council in an inquiry under section 20;\n  (c) provide for enforcing the attendance of witnesses and the production of books and documents at an inquiry held by the Council;\n  (d) prescribe forms to be used in connection with this Act or fees to be charged under this Act;\n  (e) provide for indemnity for clients against loss or damage arising from claims in respect of any liability incurred by a practitioner or a health institution or the employee of a practitioner or health institution;\n  (f) provide for the training, registration, licensing and regulation of community oral health officers; and\n  (g) provide for the process and criteria for registration and licensing of foreign doctors.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "24": {
+   "num": "24",
+   "title": "[Deleted by Act No. 5 of 2019, Sch.]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "",
+   "clauses": []
+  },
+  "25": {
+   "num": "25",
+   "title": "Finance",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Cabinet Secretary may, with the consent of the National Treasury, out of money provided by Parliament—\n  (a) make to the Council such grants as may be necessary to enable it to discharge its functions under this Act;\n  (b) pay remuneration and travelling and other allowances to the members of the Council (other than members who are public officers in receipt of a salary);\n  (c) make such other payments as may be necessary to give effect to the provisions of this Act.",
+   "clauses": []
+  },
+  "26": {
+   "num": "26",
+   "title": "Savings and transition",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) All property, assets, rights, liabilities, obligations, agreements and other arrangements existing at the commencement of this Act and vested in, acquired, incurred or entered into by or on behalf of the Medical Practitioners and Dentists Board, shall be deemed to have vested in or to have been acquired, incurred or entered into by or on behalf of the Board to the same extent as they were enforceable by or against Kenya Medical Practitioners and Dentists Council.\n(2) A person who is an employee of the Medical Practitioners and Dentists Board, shall be deemed to be an employee of the Kenya Medical Practitioners and Dentists Council on the terms and conditions existing, until the expiry of the contract.\n(3) Any legal proceedings pending in any court or tribunal by or against the Medical Practitioners and Dentists Board, in respect of any matter shall continue by or against the Council.\n(4) The members of the Medical Practitioners and Dentists Board, who were appointed, nominated or elected as Board members under section 4, shall continue to hold and act as Council members, until the end of their term.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "All property, assets, rights, liabilities, obligations, agreements and other arrangements existing at the commencement of this Act and vested in, acquired, incurred or entered into by or on behalf of the Medical Practitioners and Dentists Board, shall be deemed to have vested in or to have been acquired, incurred or entered into by or on behalf of the Board to the same extent as they were enforceable by or against Kenya Medical Practitioners and Dentists Council."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who is an employee of the Medical Practitioners and Dentists Board, shall be deemed to be an employee of the Kenya Medical Practitioners and Dentists Council on the terms and conditions existing, until the expiry of the contract."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any legal proceedings pending in any court or tribunal by or against the Medical Practitioners and Dentists Board, in respect of any matter shall continue by or against the Council."
+    },
+    {
+     "ref": "(4)",
+     "text": "The members of the Medical Practitioners and Dentists Board, who were appointed, nominated or elected as Board members under section 4, shall continue to hold and act as Council members, until the end of their term."
+    }
+   ]
+  }
+ },
+ "schedules": [],
+ "spent": {}
+}

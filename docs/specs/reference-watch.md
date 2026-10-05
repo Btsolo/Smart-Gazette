@@ -127,3 +127,29 @@ headers); flags go to the log for now.
 - Not built yet: `geography.unknown_place` (needs ward names read from
   county notices) and the scraper check that Kenya Law's listing includes
   supplements (to confirm on the live site).
+
+## 8. The owner's review of the first flags (5 Oct 2026)
+
+Each flag was checked by hand and taught the system something:
+
+| flag | finding | change |
+|---|---|---|
+| Water Act s.158 | Part IX (ss.148-159) is **spent** in the revision as at 2026-07-10; the 2024 version had it | the reader records spent Parts from the commencement note; the Laws tab says "Spent ..." and never quotes it |
+| EAC CMA s.248 | the section is in the PDF - the reader lost Arrangement entries next to Part headings and lines with the running header | the Arrangement is walked number by number; headers are cut out of lines, not whole lines dropped (245 / 253, the rest lost by the scan) |
+| Elections Act s.1A | the Gazette printed "39 (1), 1A and (1B)" for 39(1A) | a bare number that is a subsection of the section before it belongs to that section |
+| Universities Act s.2A | no such section exists; the notice is wrong | `reference/watch_dismissed.json`: the owner's verdicts with reasons; the watchers skip them |
+
+**More laws (126 PDFs).** Repealed sections listed in the Contents but not
+printed in the body ("[Repealed by Act No. 33 of 1963]") no longer stop the
+reader (Criminal Procedure Code 243 -> 426 / 427, Income Tax Act 124 -> 190 /
+192, VAT Act 47 -> 71 / 71); a PDF without a text layer is read by OCR (cached
+in raw/law/.ocr/); duplicate downloads ("... (1).pdf") are kept once; a title
+must name a law. 114 laws.
+
+**Amending Acts as signals.** The amendment Acts saved in raw/law/ (Finance
+Acts, Statute Law (Miscellaneous Amendments), ... (Amendment) Acts) are not
+laws to quote but records of change: `reference/amendments.json` (date + the
+laws they name near amending words, longest names first). The watch flags a
+law whose copy is older than an amendment of it - 9 flags today (the Finance
+Acts 2025 / 2026 amend the Banking, Insurance, Excise Duty, Gambling Control
+... Acts after our copies). Parity Python = Java.

@@ -1,0 +1,1023 @@
+{
+ "title": "Legal Education Act",
+ "citation": "Cap. 16B",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2012/27/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "LEGAL EDUCATION ACT CAP. 16B Published in Kenya Gazette Vol. CXIV—No. 94 on 5 October 2012 Assented to on 21 September 2012 Commenced on 28 September 2012\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2014 (Act No. 18 of 2014) on 8 December 2014] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to provide for the establishment of the Council of Legal Education; the establishment of the Legal Education Appeals Tribunal; the regulation and licensing of legal education providers and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "COUNCIL OF LEGAL EDUCATION",
+   "provisions": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "REGULATION OF LEGAL EDUCATION PROVIDERS",
+   "provisions": [
+    "18",
+    "19",
+    "20",
+    "21"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "LEGAL EDUCATION AT CERTIFICATE, DIPLOMA AND DEGREE LEVEL",
+   "provisions": [
+    "22",
+    "23"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "24",
+    "25",
+    "26",
+    "27",
+    "28"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "LEGAL EDUCATION APPEALS TRIBUNAL",
+   "provisions": [
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+   ]
+  },
+  {
+   "id": "part_VIII",
+   "num": "VIII",
+   "title": "REPEALS, SAVINGS AND TRANSITIONAL PROVISIONS",
+   "provisions": [
+    "47",
+    "48",
+    "49",
+    "50"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Legal Education Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In this Act, unless the context otherwise requires— \"advocate\" has the meaning assigned to it in section 2 of the Advocates Act (Cap. 16); \"award\" means a professional degree, diploma or certificate issued under this Act; \"Cabinet secretary\" means the cabinet secretary for the time being responsible for matters relating to legal education; \"Council\" means the Council of Legal Education established by section 4; \"Fund\" means the Legal Education Fund established under section 25; \"legal education provider\" means a post-secondary school institution that is licensed to offer legal education or training for the award of a certificate, diploma or degree including those granted a charter under section 19 of the Universities Act (Cap. 210); \"Registrar\" means the registrar of the Legal Education Appeals Tribunal appointed under section 30(1)(d); \"Roll\" means the Roll of Advocates kept under section 16 of the Advocates Act (Cap. 16); \"Tribunal\" means the Legal Education Appeals Tribunal established by section 30.\n(2) Until after the first elections under the Constitution, references in this Act to the expression \"Cabinet Secretary\" shall be construed to mean \"Minister\" and the expression \"Principal Secretary\" shall be construed to mean \"Permanent Secretary\". [Act No. 18 of 2014, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, unless the context otherwise requires— \"advocate\" has the meaning assigned to it in section 2 of the Advocates Act (Cap. 16); \"award\" means a professional degree, diploma or certificate issued under this Act; \"Cabinet secretary\" means the cabinet secretary for the time being responsible for matters relating to legal education; \"Council\" means the Council of Legal Education established by section 4; \"Fund\" means the Legal Education Fund established under section 25; \"legal education provider\" means a post-secondary school institution that is licensed to offer legal education or training for the award of a certificate, diploma or degree including those granted a charter under section 19 of the Universities Act (Cap. 210); \"Registrar\" means the registrar of the Legal Education Appeals Tribunal appointed under section 30(1)(d); \"Roll\" means the Roll of Advocates kept under section 16 of the Advocates Act (Cap. 16); \"Tribunal\" means the Legal Education Appeals Tribunal established by section 30."
+    },
+    {
+     "ref": "(2)",
+     "text": "Until after the first elections under the Constitution, references in this Act to the expression \"Cabinet Secretary\" shall be construed to mean \"Minister\" and the expression \"Principal Secretary\" shall be construed to mean \"Permanent Secretary\". [Act No. 18 of 2014, Sch.]"
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Objective of Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "The objective of this Act is to—\n  (a) promote legal education and the maintenance of the highest possible standards in legal education; and (b) provide a system to guarantee the quality of legal education and legal education providers.",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Establishment of the Council of Legal Education",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COUNCIL OF LEGAL EDUCATION",
+   "text": "(1) There is established a Council to be known as the Council of Legal Education. (2) The Council shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property;\n  (c) borrowing or lending money; and (d) doing or performing any other things or acts for the furtherance of the provisions of this Act which may be lawfully done or be performed by a body corporate.\n(3) The Council shall be the successor of the Council of Legal Education established under the Council of the Legal Education Act, (No. 12 of 1995)(Repealed).\n(4) Subject to this Act, all the rights, duties, obligations, assets and liabilities of the Council of Legal Education existing at the commencement of this Act shall be automatically and fully transferred to the Council.\n(5) The Council shall consist of the following persons—\n  (a) the chairperson, who shall be a person with at least fifteen years experience in matters relating to legal education and training, appointed by President;\n  (b) the Principal Secretary of the Ministry for the time being responsible for legal education;\n  (c) the Principal Secretary of the Ministry for the time being responsible for finance;\n  (d) the Attorney-General;\n  (e) the Chief Justice;\n  (f) two advocates, nominated by the Council of the Law Society of Kenya;\n  (g) one person who teaches law in a public university, nominated by public Universities; and (h) the Secretary to the Council;\n  (i) one person who teaches law in a private university nominated by private universities.\n(6) The Council members referred to in subsection (5)(b), (c), (d), (e) and (f), may attend the Council meetings in person or through their representatives appointed, in writing.\n(7) The Cabinet Secretary shall, in appointing the members of the Council have regard to gender equity.\n(8) The nominating bodies under subsection (5)(g) and (i) shall, nominate for the purposes of appointment, persons who have knowledge and expertise in matters relating to legal education and training, finance, commerce or the management of public institutions.\n(9) A member of the Council appointed under subsection (5)(a), (g), (h) and (i), shall hold office for a term of three years and may be eligible for re-appointment for one further term. [Act No. 18 of 2014, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a Council to be known as the Council of Legal Education. (2) The Council shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of— (a) suing and being sued; (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property; (c) borrowing or lending money; and (d) doing or performing any other things or acts for the furtherance of the provisions of this Act which may be lawfully done or be performed by a body corporate."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Council shall be the successor of the Council of Legal Education established under the Council of the Legal Education Act, (No. 12 of 1995)(Repealed)."
+    },
+    {
+     "ref": "(4)",
+     "text": "Subject to this Act, all the rights, duties, obligations, assets and liabilities of the Council of Legal Education existing at the commencement of this Act shall be automatically and fully transferred to the Council."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Council shall consist of the following persons— (a) the chairperson, who shall be a person with at least fifteen years experience in matters relating to legal education and training, appointed by President; (b) the Principal Secretary of the Ministry for the time being responsible for legal education; (c) the Principal Secretary of the Ministry for the time being responsible for finance; (d) the Attorney-General; (e) the Chief Justice; (f) two advocates, nominated by the Council of the Law Society of Kenya; (g) one person who teaches law in a public university, nominated by public Universities; and (h) the Secretary to the Council; (i) one person who teaches law in a private university nominated by private universities."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Council members referred to in subsection (5)(b), (c), (d), (e) and (f), may attend the Council meetings in person or through their representatives appointed, in writing."
+    },
+    {
+     "ref": "(7)",
+     "text": "The Cabinet Secretary shall, in appointing the members of the Council have regard to gender equity."
+    },
+    {
+     "ref": "(8)",
+     "text": "The nominating bodies under subsection (5)(g) and (i) shall, nominate for the purposes of appointment, persons who have knowledge and expertise in matters relating to legal education and training, finance, commerce or the management of public institutions."
+    },
+    {
+     "ref": "(9)",
+     "text": "A member of the Council appointed under subsection (5)(a), (g), (h) and (i), shall hold office for a term of three years and may be eligible for re-appointment for one further term. [Act No. 18 of 2014, Sch.]"
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Vacation of office",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COUNCIL OF LEGAL EDUCATION",
+   "text": "The office of a member of the Council, other than an ex officio member, shall become vacant if the member —\n  (a) resigns from office by notice, in writing, addressed to the Cabinet Secretary;\n  (b) is absent from three consecutive meetings of the Council without the permission of the chairperson;\n  (c) is convicted of an offence by a court and sentenced to imprisonment for a term of six months or more without the option of a fine;\n  (d) is convicted of an offence involving fraud, dishonesty or moral turpitude;\n  (e) is unable, by reason of mental or physical infirmity, to discharge his functions as a member of the Council;\n  (f) is otherwise unable or unfit to continue serving as member of the Council; or (g) dies.",
+   "clauses": []
+  },
+  "6": {
+   "num": "6",
+   "title": "Conduct of business and affairs of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COUNCIL OF LEGAL EDUCATION",
+   "text": "The conduct and regulation of the business and affairs of the Council shall be as provided for in the First Schedule.",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Headquarters",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COUNCIL OF LEGAL EDUCATION",
+   "text": "The Headquarters of the Council shall be in Nairobi.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Functions of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COUNCIL OF LEGAL EDUCATION",
+   "text": "(1) The functions of the Council shall be to—\n  (a) regulate legal education and training in Kenya offered by legal education providers;\n  (b) licence legal education providers;\n  (c) supervise legal education providers; and (d) advise the Government on matters relating to legal education and training. (e) recognise and approve qualifications obtained outside Kenya for purposes of admission to the Roll. (f) administer such professional examinations as may be prescribed under section 13 of the Advocates Act.\n(2) Without prejudice to the generality of subsection (1), the Council shall, with respect to legal education providers, be responsible for setting and enforcing standards relating to the—\n  (a) accreditation of legal education providers for the purposes of licensing;\n  (b) curricula and mode of instruction;\n  (c) mode and quality of examinations;\n  (d) harmonization of legal education programmes; and\n  (e) monitoring and evaluation of legal education providers and programmes.\n(3) In carrying out its functions under subsection (2), the Council shall—\n  (a) make Regulations in respect of requirements for the admission of persons seeking to enroll in legal education programmes;\n  (b) establish criteria for the recognition and equation of academic qualifications in legal education;\n  (c) formulate a system for recognizing prior learning and experience in law to facilitate progression in legal education from lower levels of learning to higher levels;\n  (d) establish a system of equivalencies of legal educational qualifications and credit transfers;\n  (e) advise and make recommendations to the Government and any other relevant authority on matters relating to legal education and training that require the consideration of the Government;\n  (f) collect, analyse and publish information relating to legal education and training;\n  (g) advise the Government on the standardization, recognition and equation of legal education qualifications awarded by foreign institutions;\n  (h) carry out regular visits and inspections of legal education providers; and\n  (i) perform and exercise any other functions conferred on it by this Act.\n(4) Where any conflict arises between the provisions of this section and the provisions of any other written law for the time being in force, the provisions of this section shall prevail.\n[Act No. 18 of 2014, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The functions of the Council shall be to— (a) regulate legal education and training in Kenya offered by legal education providers; (b) licence legal education providers; (c) supervise legal education providers; and (d) advise the Government on matters relating to legal education and training. (e) recognise and approve qualifications obtained outside Kenya for purposes of admission to the Roll. (f) administer such professional examinations as may be prescribed under section 13 of the Advocates Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), the Council shall, with respect to legal education providers, be responsible for setting and enforcing standards relating to the— (a) accreditation of legal education providers for the purposes of licensing;"
+    },
+    {
+     "ref": "(3)",
+     "text": "In carrying out its functions under subsection (2), the Council shall—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Where any conflict arises between the provisions of this section and the provisions of any other written law for the time being in force, the provisions of this section shall prevail."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Powers of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COUNCIL OF LEGAL EDUCATION",
+   "text": "(1) The Council shall have all the powers necessary on expedient for the performance of its functions under this Act and in particular, the Council shall have the power to—\n  (a) control, supervise and administer its assets in such manner and for such purposes as best promote the purpose for which the Council is established;\n  (b) control and administer the Fund;\n  (c) receive any grants, gifts, donations or endowments and make legitimate disbursements therefrom;\n  (d) enter into association with other bodies organizations within or outside Kenya as the Council may consider desirable or appropriate and in furtherance of the purpose for which the Council is established;\n  (e) open a bank account or bank accounts for the funds of the Council; and\n  (f) invest the funds of the Council not currently required for its purpose.\n(2) The Council may, within such time as may be specified by the Council, require any person to furnish any returns or information relating to legal education and training that is in the opinion of the Council required to enable the Council to perform its functions or exercise its powers under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall have all the powers necessary on expedient for the performance of its functions under this Act and in particular, the Council shall have the power to—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council may, within such time as may be specified by the Council, require any person to furnish any returns or information relating to legal education and training that is in the opinion of the Council required to enable the Council to perform its functions or exercise its powers under this Act."
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Remuneration of Council members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COUNCIL OF LEGAL EDUCATION",
+   "text": "There shall be paid to the members of the Council such remuneration, fees or allowances for expenses as the Cabinet Secretary may, in consultation with the Salaries and Remuneration Commission, approve.",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "The Secretary, officers and staff of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COUNCIL OF LEGAL EDUCATION",
+   "text": "(1) There shall be a secretary to the Council who shall be appointed by the Council on such terms and conditions of service as the Council may determine, who shall be the Chief Executive Officer of the Council.\n(2) The secretary shall serve on a full time basis. (3) The secretary shall be an ex officio member of the Council and shall not have the right to vote. (4) The secretary shall be responsible to the Council for the day to day running of the affairs of the Council and may perform such other duties as may be assigned to him by the Council. (5) The Council shall appoint such other officers and staff as are necessary for the proper discharge of the functions of the Council under this Act, upon such terms and conditions of service as the Council may determine.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a secretary to the Council who shall be appointed by the Council on such terms and conditions of service as the Council may determine, who shall be the Chief Executive Officer of the Council."
+    },
+    {
+     "ref": "(2)",
+     "text": "The secretary shall serve on a full time basis. (3) The secretary shall be an ex officio member of the Council and shall not have the right to vote. (4) The secretary shall be responsible to the Council for the day to day running of the affairs of the Council and may perform such other duties as may be assigned to him by the Council. (5) The Council shall appoint such other officers and staff as are necessary for the proper discharge of the functions of the Council under this Act, upon such terms and conditions of service as the Council may determine."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Independence of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COUNCIL OF LEGAL EDUCATION",
+   "text": "The Council shall, in the exercise of its functions, comply with the general policy of the Government relating to legal education and training and not be subject to the control of any other person or authority.",
+   "clauses": []
+  },
+  "13": {
+   "num": "13",
+   "title": "Cooperation with other organizations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COUNCIL OF LEGAL EDUCATION",
+   "text": "The Council may, in the discharge of its functions, consult, collaborate and co- operate with—\n  (a) the Commission for University Education and other regulators in the field of education, generally;\n  (b) the Law Society of Kenya; and (c) departments and agencies of Government, statutory bodies, and any other body or institution having functions or objects related to the functions of the Council. [Act No. 18 of 2014, Sch.]",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "Invitation of experts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COUNCIL OF LEGAL EDUCATION",
+   "text": "(1) The Council may invite any public officer or other person or any representative of any body, who in the opinion of the Council, has expert knowledge in matters relating to the functions of the Council to attend any meeting of the Council and participate in the proceedings.\n(2) A person attending a meeting under this section may, if invited, participate in any discussion at the meeting but shall not vote.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council may invite any public officer or other person or any representative of any body, who in the opinion of the Council, has expert knowledge in matters relating to the functions of the Council to attend any meeting of the Council and participate in the proceedings."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person attending a meeting under this section may, if invited, participate in any discussion at the meeting but shall not vote."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Delegation by the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COUNCIL OF LEGAL EDUCATION",
+   "text": "The Council may, by resolution, generally or in a particular case, delegate to any of its committees, member, officer, employee or agent, the exercise of any of the powers or the performance of any of the functions of the Council under this Act.",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "Common seal of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COUNCIL OF LEGAL EDUCATION",
+   "text": "(1) The common seal of the Council shall be kept in such custody as the Council shall direct and shall not be used except on the order of the Council.\n(2) The common seal of the Council shall, when affixed to a document and duly authenticated, be judicially and officially noticed and unless and until the contrary is proved, any necessary order or authorization of the Council under this section shall be presumed to have been duly given.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The common seal of the Council shall be kept in such custody as the Council shall direct and shall not be used except on the order of the Council."
+    },
+    {
+     "ref": "(2)",
+     "text": "The common seal of the Council shall, when affixed to a document and duly authenticated, be judicially and officially noticed and unless and until the contrary is proved, any necessary order or authorization of the Council under this section shall be presumed to have been duly given."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Protection from liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "COUNCIL OF LEGAL EDUCATION",
+   "text": "(1) No matter or thing done by a member of the council, any officer, employee or agent of the council shall, if the matter or thing is done bona fide for executing the functions, powers or duties of the Council under this Act, render the member, officer, employee or agent or any person acting under their direction liable to any action, claim or demand whatsoever.\n(2) The provisions of subsection (1) shall not relieve the Council of the liability to pay compensation or damages to any person for any injury to him, his property or any of his interests caused by the exercise of the powers conferred on the council by this Act or by any written law or by the failure, whether wholly or partially, of any works.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No matter or thing done by a member of the council, any officer, employee or agent of the council shall, if the matter or thing is done bona fide for executing the functions, powers or duties of the Council under this Act, render the member, officer, employee or agent or any person acting under their direction liable to any action, claim or demand whatsoever."
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of subsection (1) shall not relieve the Council of the liability to pay compensation or damages to any person for any injury to him, his property or any of his interests caused by the exercise of the powers conferred on the council by this Act or by any written law or by the failure, whether wholly or partially, of any works."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Licensing legal education providers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATION OF LEGAL EDUCATION PROVIDERS",
+   "text": "(1) An institution that intends to offer any course or programme of legal education in Kenya for the award of a degree, diploma or certificate as a professional qualification in law shall apply to the Council for a licence.\n(2) An application under subsection (1) shall be in the prescribed form and shall be accompanied by the prescribed fee.\n(3) A person who offers any course or programme of legal education in Kenya for the award of a degree, diploma or certificate as a professional qualification in law without a licence commits an offence and shall be liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding six months or to both.\n(4) The Council may by notice in the Gazette declare a course or programme, specified in the notice, being offered or provided by any person or institution to be a course or programme for which a licence is required under this section.\n(5) A certificate of attendance at a course, workshop or seminar shall not be considered a degree, diploma or certificate for purposes of this Act.\n(6) A document issued at the end of a programme or training after the commencement of the Act, purporting to be evidence of the award of a degree, diploma or certificate in law shall not be valid unless the Council had licensed the programme or training.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An institution that intends to offer any course or programme of legal education in Kenya for the award of a degree, diploma or certificate as a professional qualification in law shall apply to the Council for a licence."
+    },
+    {
+     "ref": "(2)",
+     "text": "An application under subsection (1) shall be in the prescribed form and shall be accompanied by the prescribed fee."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who offers any course or programme of legal education in Kenya for the award of a degree, diploma or certificate as a professional qualification in law without a licence commits an offence and shall be liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding six months or to both."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Council may by notice in the Gazette declare a course or programme, specified in the notice, being offered or provided by any person or institution to be a course or programme for which a licence is required under this section."
+    },
+    {
+     "ref": "(5)",
+     "text": "A certificate of attendance at a course, workshop or seminar shall not be considered a degree, diploma or certificate for purposes of this Act."
+    },
+    {
+     "ref": "(6)",
+     "text": "A document issued at the end of a programme or training after the commencement of the Act, purporting to be evidence of the award of a degree, diploma or certificate in law shall not be valid unless the Council had licensed the programme or training."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Issuance of licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATION OF LEGAL EDUCATION PROVIDERS",
+   "text": "(1) Where the Council, after considering an application under section 18, determines that the applicant is suitable and competent to offer legal education programmes or training, the Council may issue a licence to the applicant.\n(2) The Council shall specify, in the licence, the courses or legal education programmes which the legal education provider may offer and any terms and conditions that the Council may consider necessary.\n(3) The Council shall, upon licensing an institution as a legal education provider under this Act, publish the name of the institution in the Gazette and at least one daily newspaper with nationwide circulation.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the Council, after considering an application under section 18, determines that the applicant is suitable and competent to offer legal education programmes or training, the Council may issue a licence to the applicant."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council shall specify, in the licence, the courses or legal education programmes which the legal education provider may offer and any terms and conditions that the Council may consider necessary."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Council shall, upon licensing an institution as a legal education provider under this Act, publish the name of the institution in the Gazette and at least one daily newspaper with nationwide circulation."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Display of licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATION OF LEGAL EDUCATION PROVIDERS",
+   "text": "(1) Every accredited legal education provider shall display its licence in a prominent place, at its registered office and at every branch office in which the business of a legal education provider is conducted.\n(2) A legal education provider shall clearly state in all its letters, accounts, agreements and other documents and the fact that it is licensed as a legal education provider.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every accredited legal education provider shall display its licence in a prominent place, at its registered office and at every branch office in which the business of a legal education provider is conducted."
+    },
+    {
+     "ref": "(2)",
+     "text": "A legal education provider shall clearly state in all its letters, accounts, agreements and other documents and the fact that it is licensed as a legal education provider."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Suspension or revocation of licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGULATION OF LEGAL EDUCATION PROVIDERS",
+   "text": "(1) Where the Council has reasonable grounds to believe that a legal education provider is not complying with the terms and conditions of the licence, the Council may, after giving the legal education provider an opportunity to be heard, by notice in writing require the legal education provider to take the corrective action specified in the notice within the period specified in the notice, to the satisfaction of the Council.\n(2) If the legal education provider fails to comply with a notice issued under subsection (1) within the period specified in the notice, the Council may, after calling upon the legal education provider to show cause why the licence should not be cancelled, cancel the licence.\n(3) The Council may, if it determines that a legal education provider is not carrying out its functions in a proper manner or is in breach of the terms and conditions of its licence—\n  (a) suspend the licence for such period as the Council considers necessary; or (b) revoke the licence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the Council has reasonable grounds to believe that a legal education provider is not complying with the terms and conditions of the licence, the Council may, after giving the legal education provider an opportunity to be heard, by notice in writing require the legal education provider to take the corrective action specified in the notice within the period specified in the notice, to the satisfaction of the Council."
+    },
+    {
+     "ref": "(2)",
+     "text": "If the legal education provider fails to comply with a notice issued under subsection (1) within the period specified in the notice, the Council may, after calling upon the legal education provider to show cause why the licence should not be cancelled, cancel the licence."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Council may, if it determines that a legal education provider is not carrying out its functions in a proper manner or is in breach of the terms and conditions of its licence— (a) suspend the licence for such period as the Council considers necessary; or (b) revoke the licence."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Certificate and diploma courses",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LEGAL EDUCATION AT CERTIFICATE, DIPLOMA AND DEGREE LEVEL",
+   "text": "(1) For purposes of the award of a certificate or diploma in law, a person shall undergo, in the case of—\n  (a) a certificate course, at least one year of instruction;\n  (b) a diploma course, at least two years of instruction; and (c) a professional post graduate course at least one year of instruction, and sit and pass all the examinations in the core courses set out in the Second Schedule. (2) A legal education provider may, in addition to the courses set out in the Second Schedule, offer any other courses to persons pursuing a certificate or diploma in law.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "For purposes of the award of a certificate or diploma in law, a person shall undergo, in the case of— (a) a certificate course, at least one year of instruction; (b) a diploma course, at least two years of instruction; and (c) a professional post graduate course at least one year of instruction, and sit and pass all the examinations in the core courses set out in the Second Schedule. (2) A legal education provider may, in addition to the courses set out in the Second Schedule, offer any other courses to persons pursuing a certificate or diploma in law."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Core degree courses",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "LEGAL EDUCATION AT CERTIFICATE, DIPLOMA AND DEGREE LEVEL",
+   "text": "(1) A legal education provider offering a course for the award of a degree in law shall, in addition to any other courses offered, provide instruction and examination for each of the core courses set out in the Second Schedule.\n(2) A legal education provider may offer any other programmes that it may consider necessary, taking into account the developments in the law and society generally.\n(3) The Cabinet Secretary may, by notice in the Gazette, amend the Second Schedule.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A legal education provider offering a course for the award of a degree in law shall, in addition to any other courses offered, provide instruction and examination for each of the core courses set out in the Second Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "A legal education provider may offer any other programmes that it may consider necessary, taking into account the developments in the law and society generally."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary may, by notice in the Gazette, amend the Second Schedule."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "The Legal Education Fund",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) There is established a fund to be known as the Legal Education Fund which shall vest in the Council.\n(2) There shall be paid into the Fund—\n  (a) such moneys as may accrue to or vest in the Council in the course of the exercise of its powers or the performance of its functions under this Act;\n  (b) such sums as may be payable to the Council pursuant to this Act or any other written law, or pursuant to any gift or trust;\n  (c) such sums as may be granted to the Council by the Cabinet Secretary pursuant to subsection (3); and\n  (d) all moneys from any other source provided for or donated or lent to the Council.\n(3) There shall be made to the Council, out of monies provided by Parliament for that purpose, grants towards the expenditure incurred by the Council in the exercise of its powers or the performance of its functions under this Act.\n(4) There shall be paid out of the Fund any expenditure incurred by the Council in the exercise of its powers or the performance of its functions under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a fund to be known as the Legal Education Fund which shall vest in the Council."
+    },
+    {
+     "ref": "(2)",
+     "text": "There shall be paid into the Fund—"
+    },
+    {
+     "ref": "(3)",
+     "text": "There shall be made to the Council, out of monies provided by Parliament for that purpose, grants towards the expenditure incurred by the Council in the exercise of its powers or the performance of its functions under this Act."
+    },
+    {
+     "ref": "(4)",
+     "text": "There shall be paid out of the Fund any expenditure incurred by the Council in the exercise of its powers or the performance of its functions under this Act."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Investment of funds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Council may invest any of its funds in securities in which trustees may by law invest trust funds, or in any other securities, which the National Treasury may from time to time approve for that purpose.\n(2) The Council may place on deposit with such bank or banks as it may determine any moneys not immediately required for the purposes of the Council.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council may invest any of its funds in securities in which trustees may by law invest trust funds, or in any other securities, which the National Treasury may from time to time approve for that purpose."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council may place on deposit with such bank or banks as it may determine any moneys not immediately required for the purposes of the Council."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Financial year",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The financial year of the Council shall be the period of twelve months ending on the thirtieth June in each year.",
+   "clauses": []
+  },
+  "27": {
+   "num": "27",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) Before the commencement of every financial year, the Council shall cause to be prepared estimates of revenue and expenditure of the Council for that year.\n(2) The annual estimates shall make provision for all the estimated expenditure of the Council for the financial year and in particular, the estimates shall provide—\n  (a) for the payment of the salaries, allowances and other charges in respect of the staff of the Council;\n  (b) for the payment of pensions, gratuities and other charges in respect of the retirement benefits which are payable out of the funds of the Council;\n  (c) for the proper maintenance of the buildings and grounds of the Council;\n  (d) for the maintenance, repair and replacement of the equipment and other property of the Council;\n  (e) all expenditure incurred in relation to the establishment, equipment or management of any training institution by the Council; and\n  (f) for the creation of such reserve funds to meet future or contingent liabilities in respect of retirement benefits, insurance or replacement of building or equipment, or in respect of such other matter as the Council may deem appropriate.\n(3) The annual estimates shall be approved by the Council before the commencement of the financial year to which they relate, and shall be submitted to the Cabinet Secretary for approval, and thereafter the Council shall not increase or decrease the annual estimates except with the authority of the Cabinet Secretary.\n(4) There shall be paid to the Council, out of monies provided by Parliament for that purpose, grants towards the expenditure incurred by the Council in the exercise of its powers or the performance of its functions under this Act.\n(5) No expenditure shall be incurred for purposes of the annual estimates approved under this section or in pursuance of an authorization of the Council given without prior approval of the Cabinet Secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Before the commencement of every financial year, the Council shall cause to be prepared estimates of revenue and expenditure of the Council for that year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall make provision for all the estimated expenditure of the Council for the financial year and in particular, the estimates shall provide—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual estimates shall be approved by the Council before the commencement of the financial year to which they relate, and shall be submitted to the Cabinet Secretary for approval, and thereafter the Council shall not increase or decrease the annual estimates except with the authority of the Cabinet Secretary."
+    },
+    {
+     "ref": "(4)",
+     "text": "There shall be paid to the Council, out of monies provided by Parliament for that purpose, grants towards the expenditure incurred by the Council in the exercise of its powers or the performance of its functions under this Act."
+    },
+    {
+     "ref": "(5)",
+     "text": "No expenditure shall be incurred for purposes of the annual estimates approved under this section or in pursuance of an authorization of the Council given without prior approval of the Cabinet Secretary."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Council shall cause to be kept all proper books and records of account of the income, expenditure and assets of the Council.\n(2) Within a period of three months from the end of each financial year, the Council shall submit to the Auditor-General the accounts of the Council together with—\n  (a) a statement of the income and expenditure of the Council during the year; and\n  (b) statement of the assets and liabilities of the Council on the last day of that year.\n(3) The accounts of the Council shall be prepared and be submitted for examination annually by the Auditor-General in accordance with the Public Audit Act (Cap. 412B).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall cause to be kept all proper books and records of account of the income, expenditure and assets of the Council."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within a period of three months from the end of each financial year, the Council shall submit to the Auditor-General the accounts of the Council together with—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The accounts of the Council shall be prepared and be submitted for examination annually by the Auditor-General in accordance with the Public Audit Act (Cap. 412B)."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Establishment of the Legal Education Appeals Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "LEGAL EDUCATION APPEALS TRIBUNAL",
+   "text": "(1) There is established a tribunal to be known as the Legal Education Appeals Tribunal which shall consist of—\n  (a) a chairperson who shall be—\n  (i) an advocate of the High Court of Kenya of not less than ten years standing; or\n  (ii) a person who has attained at least ten years experience in the field of legal education or as a distinguished academic in law;\n  (b) one person who shall be an advocate of the High Court of Kenya of at least seven years standing or a person with at least ten years experience in the field of legal education or as a distinguished academic in law;\n  (c) three persons who have demonstrated competence in the field of legal education; and\n  (d) the registrar who shall be an advocate of the High Court of Kenya with at least five years experience.\n(2) The Judicial Service Commission shall appoint the members of the Tribunal through an open, competitive and transparent process.\n(3) The Tribunal shall be ad hoc and shall sit at such times and in such places as it may appoint.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a tribunal to be known as the Legal Education Appeals Tribunal which shall consist of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Judicial Service Commission shall appoint the members of the Tribunal through an open, competitive and transparent process."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Tribunal shall be ad hoc and shall sit at such times and in such places as it may appoint."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Vacancy in office of member",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "LEGAL EDUCATION APPEALS TRIBUNAL",
+   "text": "The office of a member of the Tribunal shall become vacant if the member—\n  (a) accepts any office the holding of which, if he were not a member of the Tribunal, would make him ineligible for appointment to the office of a member of the Tribunal;\n  (b) resigns by notice in writing addressed to the Cabinet Secretary;\n  (c) is convicted of an offence by a court and sentenced to imprisonment for a term of six months or more without the option of a fine;\n  (d) is convicted of an offence involving fraud, dishonesty or moral turpitude;\n  (e) is unable, by reason of mental or physical infirmity, to discharge his functions as a member of the Council;\n  (f) is otherwise unable to unfit to continue serving as member of the Board; or (g) dies.",
+   "clauses": []
+  },
+  "31": {
+   "num": "31",
+   "title": "Jurisdiction of Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "LEGAL EDUCATION APPEALS TRIBUNAL",
+   "text": "(1) The Tribunal shall, upon an appeal made to it in writing by any party or a reference made to it by the Council or by any committee or officer of the Council, on any matter relating to this Act, inquire into the matter and make a finding thereupon, and notify the parties concerned.\n(2) For the purposes of hearing an appeal, the Tribunal shall have all the powers of the High Court to summon witnesses, to take evidence on oath or affirmation and to call for the production of books and other documents.\n(3) Where the Tribunal considers it desirable for the purposes of avoiding expenses, delay or for any other special reasons, it may receive evidence by affidavit and administer interrogatories within the time specified by the Tribunal.\n(4) When determining any matter before it, the Tribunal may take into consideration any evidence, which it considers relevant to the subject of an appeal before it, notwithstanding that such evidence, would not otherwise be admissible under the law relating to evidence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Tribunal shall, upon an appeal made to it in writing by any party or a reference made to it by the Council or by any committee or officer of the Council, on any matter relating to this Act, inquire into the matter and make a finding thereupon, and notify the parties concerned."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of hearing an appeal, the Tribunal shall have all the powers of the High Court to summon witnesses, to take evidence on oath or affirmation and to call for the production of books and other documents."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the Tribunal considers it desirable for the purposes of avoiding expenses, delay or for any other special reasons, it may receive evidence by affidavit and administer interrogatories within the time specified by the Tribunal."
+    },
+    {
+     "ref": "(4)",
+     "text": "When determining any matter before it, the Tribunal may take into consideration any evidence, which it considers relevant to the subject of an appeal before it, notwithstanding that such evidence, would not otherwise be admissible under the law relating to evidence."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Appeals from decisions of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "LEGAL EDUCATION APPEALS TRIBUNAL",
+   "text": "Any person aggrieved by any decision of the Council to—\n  (a) refuse to grant a licence;\n  (b) impose conditions on a licence; or (c) suspend or revoke a licence, may appeal to the Tribunal against such decision within thirty days from the date of receipt of the decision of the Council.",
+   "clauses": []
+  },
+  "33": {
+   "num": "33",
+   "title": "Procedure of Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "LEGAL EDUCATION APPEALS TRIBUNAL",
+   "text": "(1) Any interested party may be represented before the Tribunal by an advocate or by any other person whom the Tribunal may permit to be heard on behalf of such party.\n(2) The proceedings of the Tribunal shall be open to the public save where the Tribunal, for good cause, otherwise directs.\n(3) Except as is expressly provided in this Act or any Rules made thereunder, the Tribunal shall regulate its own procedures.\n(4) For the purposes of hearing and determining any cause or matter under this Act, the chairperson and two members of the Tribunal shall form a quorum.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any interested party may be represented before the Tribunal by an advocate or by any other person whom the Tribunal may permit to be heard on behalf of such party."
+    },
+    {
+     "ref": "(2)",
+     "text": "The proceedings of the Tribunal shall be open to the public save where the Tribunal, for good cause, otherwise directs."
+    },
+    {
+     "ref": "(3)",
+     "text": "Except as is expressly provided in this Act or any Rules made thereunder, the Tribunal shall regulate its own procedures."
+    },
+    {
+     "ref": "(4)",
+     "text": "For the purposes of hearing and determining any cause or matter under this Act, the chairperson and two members of the Tribunal shall form a quorum."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Conflict of interest",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "LEGAL EDUCATION APPEALS TRIBUNAL",
+   "text": "A member of the Tribunal who has an interest in any matter which is the subject of the proceedings of the Tribunal shall not take part in the proceedings.",
+   "clauses": []
+  },
+  "35": {
+   "num": "35",
+   "title": "Powers of Tribunal on appeal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "LEGAL EDUCATION APPEALS TRIBUNAL",
+   "text": "Upon hearing an appeal the Tribunal may—\n  (a) confirm, set aside or vary the order or decision in question;\n  (b) exercise any of the powers which would have been exercised by the Council, in the proceedings in connection with which the appeal is brought; or (c) make any other order, including an order, for costs, as it may consider just.",
+   "clauses": []
+  },
+  "36": {
+   "num": "36",
+   "title": "Status quo upon appeal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "LEGAL EDUCATION APPEALS TRIBUNAL",
+   "text": "Upon any appeal to the Tribunal under this Act, the status quo of any matter or activity, which is the subject of the appeal, shall be maintained until the appeal is determined.",
+   "clauses": []
+  },
+  "37": {
+   "num": "37",
+   "title": "Award of costs",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "LEGAL EDUCATION APPEALS TRIBUNAL",
+   "text": "(1) The Tribunal shall have the power to award the costs of any proceedings before it and to direct that costs be paid in accordance with any scale prescribed for suits in the High Court or to award a specific sum as costs.\n(2) Where the Tribunal awards costs in an appeal, it shall, on application by the party to whom the costs are awarded, issue to the party a certificate stating the amount of the costs.\n(3) Every certificate issued under subsection (2) may be filed in the High Court by the person in whose favour the costs have been awarded and upon filing, the certificate of costs shall be deemed to be a decree of the High Court and may be executed as such.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Tribunal shall have the power to award the costs of any proceedings before it and to direct that costs be paid in accordance with any scale prescribed for suits in the High Court or to award a specific sum as costs."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Tribunal awards costs in an appeal, it shall, on application by the party to whom the costs are awarded, issue to the party a certificate stating the amount of the costs."
+    },
+    {
+     "ref": "(3)",
+     "text": "Every certificate issued under subsection (2) may be filed in the High Court by the person in whose favour the costs have been awarded and upon filing, the certificate of costs shall be deemed to be a decree of the High Court and may be executed as such."
+    }
+   ]
+  },
+  "38": {
+   "num": "38",
+   "title": "Appeals to the High Court",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "LEGAL EDUCATION APPEALS TRIBUNAL",
+   "text": "(1) Any party to proceedings before the Tribunal who is dissatisfied by a decision or order of the Tribunal on a point of law may, within thirty days of the decision or order, appeal against such decision or order to the High Court.\n(2) The Tribunal may of its own motion or on the application of an interested person, if it considers it appropriate in the circumstances, grant a stay of execution of its award until the time for lodging an appeal has expired or where an appeal has been commenced until the appeal has been determined.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any party to proceedings before the Tribunal who is dissatisfied by a decision or order of the Tribunal on a point of law may, within thirty days of the decision or order, appeal against such decision or order to the High Court."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Tribunal may of its own motion or on the application of an interested person, if it considers it appropriate in the circumstances, grant a stay of execution of its award until the time for lodging an appeal has expired or where an appeal has been commenced until the appeal has been determined."
+    }
+   ]
+  },
+  "39": {
+   "num": "39",
+   "title": "Rules governing appeals",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "LEGAL EDUCATION APPEALS TRIBUNAL",
+   "text": "(1) The Tribunal may make rules with respect to the filing, hearing and disposal of appeals and other matters before it.\n(2) Notwithstanding the generality of subsection (1), the Tribunal may make Rules to provide for—\n  (a) the fees to be paid;\n  (b) the procedure to be followed;\n  (c) the manner of notifying the parties thereto; and (d) the scale of costs of any such appeal.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Tribunal may make rules with respect to the filing, hearing and disposal of appeals and other matters before it."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding the generality of subsection (1), the Tribunal may make Rules to provide for— (a) the fees to be paid; (b) the procedure to be followed; (c) the manner of notifying the parties thereto; and (d) the scale of costs of any such appeal."
+    }
+   ]
+  },
+  "40": {
+   "num": "40",
+   "title": "Remuneration of Tribunal members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "LEGAL EDUCATION APPEALS TRIBUNAL",
+   "text": "(1) There shall be paid to the chairperson, registrar and the members of the Tribunal, such remuneration and allowances as the Cabinet Secretary shall, from time to time, upon the advice of the Salaries and Remuneration Commission determine.\n(2) The expenses of the Tribunal shall be charged to the Legal Education Fund.\n[Act No. 18 of 2014, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be paid to the chairperson, registrar and the members of the Tribunal, such remuneration and allowances as the Cabinet Secretary shall, from time to time, upon the advice of the Salaries and Remuneration Commission determine."
+    },
+    {
+     "ref": "(2)",
+     "text": "The expenses of the Tribunal shall be charged to the Legal Education Fund."
+    }
+   ]
+  },
+  "41": {
+   "num": "41",
+   "title": "Notice of change in a legal education provider that is body corporate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Where a legal education provider is a body corporate, and at any time thereafter changes are made —\n  (a) in the directors of that body corporate; or\n  (b) in the management of the body corporate, the legal education provider shall, within seven days after the change, serve the Council, with a notice giving particulars of the change.\n(2) A legal education provider that fails to comply with the provisions of subsection (1) commits an offence.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a legal education provider is a body corporate, and at any time thereafter changes are made —"
+    },
+    {
+     "ref": "(2)",
+     "text": "A legal education provider that fails to comply with the provisions of subsection (1) commits an offence."
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "Reciprocal agreements",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Council may recommend, to appropriate authorities, the conclusion by Kenya of reciprocal arrangements with the government of any country in the interests of and in furtherance of legal education in Kenya.\n(2) Without prejudice to the generality of subsection (1), the reciprocal arrangements referred to in subsection (1) may include arrangements relating to—\n  (a) credit transfers between a legal education provider in Kenya and a legal education provider in another country;\n  (b) liaison between the Council and a regulator of legal education in another country; and\n  (c) the harmonization of the curricula of legal education in Kenya with those in another country.\n(3) For the purpose of giving effect to any reciprocal arrangement under this section, the Cabinet Secretary may, on the advice of the Council, make Regulations for giving effect in Kenya to any such arrangements and for modifying or adapting this Act in its application to cases affected by such arrangements.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council may recommend, to appropriate authorities, the conclusion by Kenya of reciprocal arrangements with the government of any country in the interests of and in furtherance of legal education in Kenya."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), the reciprocal arrangements referred to in subsection (1) may include arrangements relating to—"
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purpose of giving effect to any reciprocal arrangement under this section, the Cabinet Secretary may, on the advice of the Council, make Regulations for giving effect in Kenya to any such arrangements and for modifying or adapting this Act in its application to cases affected by such arrangements."
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Offences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A person who—\n  (a) for the purpose of procuring the registration of himself or another person as a legal education provider, or for any other purpose under this Act knowingly makes any false statement or representation, or produces or furnishes or causes to be produced or furnished any document or information which he knows to be false in a particular material;\n  (b) being a registered legal education provider has a place of business other than the one specified in the licence and carries on business as a legal education provider at that place; or\n  (c) offers, purports to offer or holds himself out as offering legal education, otherwise than in accordance with this Act, commits an offence.\n(2) A person who commits an offence under this section is liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding three years or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who commits an offence under this section is liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding three years or to both."
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Offences by body corporate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Where an offence is committed by any company or other body corporate, society, association, or body of persons, every person charged with, or concerned or acting in, the control or management of the affairs or activities of such company, body corporate, society, association body of persons commits an offence and is liable to be punished accordingly, unless it is proved by such person that, through no act or omission on his part, he was not aware that the offence was being or was intended or was about to be committed, or that he took all reasonable steps to prevent its commission.",
+   "clauses": []
+  },
+  "45": {
+   "num": "45",
+   "title": "General penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "A person who commits an offence under this Act for which no penalty is specifically provided is liable to a fine, not exceeding one hundred thousand shillings or imprisonment for a term not exceeding one year or both.",
+   "clauses": []
+  },
+  "46": {
+   "num": "46",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary may, upon recommendation of the Council and with the prior approval of the National Assembly, make Regulations for the purposes of giving effect to the provisions of this Act, and in particular, such Regulations may—\n  (a) develop a framework for the implementation of a programme for continuing legal education aiming at the professional development and maintenance of standards in all cadres of the legal profession;\n  (b) make provision for the assessment criteria to be used by the Council in consultation with the local bar associations in other jurisdictions, in accrediting foreign programmes;\n  (c) provide for the Council to, in consultation with Commission for University Education, establish mechanisms for the continuous monitoring and evaluation of the programmes of foreign universities recognized by the Council;\n  (d) authorize the charging by the Council of fees in respect of any application, licence or other service under this Act;\n  (e) make provision for the establishment of legal education and training institutions;\n  (f) provide for the terms and conditions of service, including the appointment, dismissal, remuneration and retiring benefits of the members of staff of the Council; and\n  (g) prescribe any other thing required or permitted to be prescribed for the better carrying out of the objects of this Act.\n(2) The Regulations made under this Act may grant or provide for the granting of exemptions from any of the provisions of the Regulations, conditionally or unconditionally.\n[Act No. 18 of 2014, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, upon recommendation of the Council and with the prior approval of the National Assembly, make Regulations for the purposes of giving effect to the provisions of this Act, and in particular, such Regulations may—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Regulations made under this Act may grant or provide for the granting of exemptions from any of the provisions of the Regulations, conditionally or unconditionally."
+    }
+   ]
+  },
+  "47": {
+   "num": "47",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "REPEALS, SAVINGS AND TRANSITIONAL PROVISIONS",
+   "text": "",
+   "clauses": []
+  },
+  "48": {
+   "num": "48",
+   "title": "Transitional provision",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "REPEALS, SAVINGS AND TRANSITIONAL PROVISIONS",
+   "text": "(1) An institution that was before the date of commencement of this Act, lawfully providing legal training, for which a licence is required under this Act shall be deemed to hold the same status under this Act.\n(2) Notwithstanding the repeal of the Council of Legal Education Act—\n  (a) the repeal shall not affect any instrument made or any other thing done under the former Act and every such instrument or thing shall continue in force and shall, so far as it would have been made or done under this Act, have effect as if made or done under the corresponding enactment of this Act;\n  (b) the repeal shall not adversely affect the terms and conditions on and subject to which any person held office or served immediately before the commencement of this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An institution that was before the date of commencement of this Act, lawfully providing legal training, for which a licence is required under this Act shall be deemed to hold the same status under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding the repeal of the Council of Legal Education Act—"
+    }
+   ]
+  },
+  "49": {
+   "num": "49",
+   "title": "Savings and transitional",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "REPEALS, SAVINGS AND TRANSITIONAL PROVISIONS",
+   "text": "(1) Subject to subsection (2) upon the coming into operation of this Act—\n  (a) every agreement, whether in writing or not, and every deed, bond or other instrument to which the former Council was a party or which affected the former Council, and whether or not of such a nature that the rights, liabilities and obligations thereunder could be assigned, shall have effect as if the Council were a party thereto or affected thereby instead of the former Council, and every reference therein to the former Council substituted in respect of anything to be done on or after such date of coming into operation to refer to the Council;\n  (b) any proceedings pending immediately before such date of coming into operation to which the former Council was a party shall be continued as if the Council was a party thereto in lieu of the former Council;\n  (c) all officers of the former Council shall become the corresponding officers of the Council and, subject to the provisions of any rules made under this Act, shall continue in office for the period for which they were appointed or elected as officers of the former Council.\n(2) For the purposes of this section, the assets and liabilities of the Council do not include the Kenya School of Law.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2) upon the coming into operation of this Act—"
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of this section, the assets and liabilities of the Council do not include the Kenya School of Law."
+    }
+   ]
+  },
+  "50": {
+   "num": "50",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "REPEALS, SAVINGS AND TRANSITIONAL PROVISIONS",
+   "text": "",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [s. 6]",
+   "subtitle": "PROCEEDINGS OF THE COUNCIL OF LEGAL EDUCATION",
+   "text": "1. The Council shall meet not less than four times in every financial year and not more than four months shall elapse between the date of the one meeting and the date of the next meeting.\n2. A meeting of the Council shall be held on such date and at such time as the Council shall decide or, in the absence of such decision or on any occasion on which the chairperson in consultation with the secretary shall decide that a meeting is necessary, on a date and at a time determined by the chairperson.\n3. The chairperson shall, within seven days of the receipt of an application of at least five members, convene a special meeting of the Council.\n4. Unless three-quarters of the total membership of the Council otherwise agree, at least fourteen days written notice of every meeting of the Council shall be given to every member of the Council.\n5. The quorum for the conduct of business at a meeting of the Council shall be six.\n6. The chairperson shall preside at every meeting of the Council and in the absence of the chairperson, the members present shall elect one of their number who shall, with respect to that meeting and the business transacted at the meeting, have all the powers of the chairperson.\n7. Unless a unanimous decision is reached, a decision on any matter before the Council shall be by a majority of votes of the members present and in the case of an equality of votes, the chairperson of the person presiding shall have a casting vote.\n8. Subject to paragraph 5, no proceedings of the Council shall be invalid by reason only of a vacancy among the members thereof.\n9. The members may appoint committees from among themselves or otherwise, to carry out such general or special functions as may be specified by the Council.\n10. Any member who has a direct or indirect interest in any decision to be taken on any specific matter by the Board, shall disclose the nature of such interest at the meeting of the Board where such decision is being taken, and the disclosure shall be recorded in the minutes of the meeting, and if majority of the members of the Board believe that such member’s interest in the matter is such as to influence his judgement, he shall not participate in the deliberation or the decision of the Board on such matter.\n11. The seal of the Council shall be authenticated by the signature of the chairperson and the secretary and any document required by law to be made under seal and all decisions of the Council may be authenticated by the chairperson and the secretary:\nProvided that the Council shall, in the absence of either the chairperson or the secretary, in any particular case or for any particular matter, nominate one member to authenticate the seal of the Council on behalf of either the chairperson or the secretary.\n12. The Council shall cause minutes of all proceedings of meetings of the Council to be entered in books kept for that purpose.\n13. Save as is provided by this Schedule, the Council may regulate its own proceedings."
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [ss. 22 & 23]",
+   "subtitle": "CORE COURSES",
+   "text": "Part I – CORE COURSES AT CERTIFICATE AND DIPLOMA LEVEL 1. Elements of Contract.\n2. Principles of the Law of Torts.\n3. Elements of Commercial Law.\n4. Elements of Property Law.\n5. General Principles of Constitutional Law and Legal Systems.\n6. Family Law and Succession.\n7. Elements of the Law of Business Associations.\n8. Civil Procedure.\n9. Criminal Procedure.\n10. Fundamentals of Book-keeping and Accounting.\n11. Fundamentals of Office Practice and Management.\nPart II – CORE COURSES AT DEGREE LEVEL 1. Legal Research. 2. Law of Torts. 3. Law of Contract. 4. Legal Systems and Methods. 5. Criminal Law. 6. Family Law and Succession. 7. Law of Evidence. 8. Commercial Law (including Sale of Goods, Hire Purchase and Agency). 9. Law of Business Associations (to include Insolvency). 10. Administrative Law. 11. Constitutional Law. 12. Jurisprudence. 13. Equity and the Law of Trusts. 14. Property Law. 15. Public International Law. 16. Labour Law.\nPart III – CORE COURSES AT POST GRADUATE (PROFESSIONAL) DIPLOMA LEVEL 1. Civil Litigation. 2. Criminal Litigation. 3. Probate and Administration. 4. Legal Writing and Drafting. 5. Trial Advocacy (including clinical programme). 6. Professional Ethics. 7. Legal Practice Management. 8. Conveyancing. 9. Commercial Transactions. 10. Pupilage (six months attachment)."
+  }
+ ],
+ "spent": {}
+}

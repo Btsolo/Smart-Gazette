@@ -30,6 +30,7 @@ RE_AMENDMENT = re.compile(r"((?:[A-Z][A-Za-z'-]*\s+(?:and\s+|of\s+|on\s+)?){1,8}
 RE_MISC = re.compile(r"Statute\s+Law\s*\(\s*Miscellaneous\s+Amendments?\s*\)\s*Act,?\s*(\d{4})", re.I)
 RE_SUPPLEMENT_AMEND = re.compile(r"AN\s+ACT\s+of\s+Parliament\s+to\s+amend\s+the\s+((?:[A-Z][A-Za-z'-]*\s+(?:and\s+|of\s+|on\s+)?){1,9}?Act)", re.I)
 _catalog = None
+_dismissed = None
 
 
 def catalog():
@@ -37,6 +38,16 @@ def catalog():
     if _catalog is None:
         _catalog = {l['key']: l for l in json.load(open(os.path.join(L.REF, 'laws.json'), encoding='utf-8'))['laws']}
     return _catalog
+
+
+def dismissed():
+    """(key, watcher, detail) the owner has looked at and dismissed (reference/watch_dismissed.json)"""
+    global _dismissed
+    if _dismissed is None:
+        p = os.path.join(L.REF, 'watch_dismissed.json')
+        doc = json.load(open(p, encoding='utf-8')) if os.path.exists(p) else {'dismissed': []}
+        _dismissed = {(d['key'], d['watcher'], d['detail']) for d in doc['dismissed']}
+    return _dismissed
 
 
 def year_of(law_key):
@@ -86,7 +97,7 @@ def flags(text, gazette_date=None):
                         'action': 'When Kenya Law publishes the amended version, save its PDF to raw/law/ and rebuild '
                                   '(python tools/build_law_reference.py pdfs raw/law).',
                         'evidence': sentence_at(text, m.start(), m.end())})
-    seen, unique = set(), []
+    seen, unique = set(dismissed()), []
     for f in out:
         k = (f['key'], f['watcher'], f['detail'])
         if k not in seen:
@@ -110,11 +121,32 @@ def old_copies(today=None):
     out = []
     for key, law in catalog().items():
         v = law.get('version_date')
-        if v and (today - datetime.date.fromisoformat(v)).days > OLD_COPY_YEARS * 365:
+        if v and (today - datetime.date.fromisoformat(v)).days > OLD_COPY_YEARS * 365 and (key, 'law.old_copy', v) not in dismissed():
             out.append({'set': 'law', 'key': key, 'watcher': 'law.old_copy', 'detail': v,
                         'message': 'Our copy of the %s is text as at %s (over %d years old).' % (law['title'], v, OLD_COPY_YEARS),
                         'action': 'Check Kenya Law for a newer version (%s).' % (law.get('source_url') or 'kenyalaw.org'),
                         'evidence': ''})
+    return out
+
+
+def amendment_flags():
+    """law.amended_after_copy from the amending Acts saved in raw/law/ (reference/
+    amendments.json): an amendment dated after our copy of a law it names"""
+    p = os.path.join(L.REF, 'amendments.json')
+    if not os.path.exists(p):
+        return []
+    out = []
+    for a in json.load(open(p, encoding='utf-8'))['amendments']:
+        for key in a['amends']:
+            v = (catalog().get(key) or {}).get('version_date')
+            if a['date'] and v and a['date'] > v and (key, 'law.amended_after_copy', a['title']) not in dismissed():
+                law = catalog()[key]
+                out.append({'set': 'law', 'key': key, 'watcher': 'law.amended_after_copy', 'detail': a['title'],
+                            'message': 'The %s (%s) amends the %s; our copy is text as at %s, before it.'
+                                       % (a['title'], a['date'], law['title'], v),
+                            'action': 'Save the current version of the %s from Kenya Law to raw/law/ and rebuild '
+                                      '(python tools/build_law_reference.py pdfs raw/law).' % law['title'],
+                            'evidence': 'raw/law/' + a['file']})
     return out
 
 
@@ -123,6 +155,12 @@ def is_closed(flag):
     law = L.law(flag['key'])
     if flag['watcher'] == 'law.missing_section':
         return bool(law and flag['detail'][2:] in law['provisions'])
+    if flag['watcher'] == 'law.amended_after_copy':
+        p = os.path.join(L.REF, 'amendments.json')
+        dated = {a['title']: a['date'] for a in json.load(open(p, encoding='utf-8'))['amendments']} if os.path.exists(p) else {}
+        if dated.get(flag['detail']):
+            v = (catalog().get(flag['key']) or {}).get('version_date')
+            return bool(v and v >= dated[flag['detail']])
     if flag['watcher'] in ('law.amended_after_copy', 'law.amending_supplement'):
         y = re.search(r'(\d{4})\s*$', flag['detail'])
         return bool(y and year_of(flag['key']) and year_of(flag['key']) >= int(y.group(1)))
@@ -148,6 +186,10 @@ def main(years):
         print('  %-22s %-50s x%-3d %s\n      %s\n      evidence: %s' % (f['watcher'], f['key'] + ' ' + f['detail'], counts[k], f['first'], f['action'], f['evidence'][:160]))
     nh = [(a, c) for a, c in not_held.most_common() if c >= NOT_HELD_MIN]
     print('law.not_held (cited >= %d times): %d Acts - %s' % (NOT_HELD_MIN, len(nh), ', '.join('%s %d' % x for x in nh[:12])))
+    af = amendment_flags()
+    print('law.amended_after_copy from saved amending Acts: %d' % len(af))
+    for f in af:
+        print('  %-45s %s' % (f['key'], f['message']))
     oc = old_copies()
     print('law.old_copy: %d - %s' % (len(oc), ', '.join('%s (%s)' % (f['key'], f['detail']) for f in oc)))
 

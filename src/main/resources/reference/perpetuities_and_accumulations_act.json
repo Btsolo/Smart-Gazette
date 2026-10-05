@@ -1,0 +1,519 @@
+{
+ "title": "Perpetuities and Accumulations Act",
+ "citation": "Cap. 161",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1984/6/eng@2022-03-21",
+ "version_date": "2022-03-21",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "PERPETUITIES AND ACCUMULATIONS ACT CAP. 161 Published in Kenya Gazette Vol. LXXXVI—No. 24 on 8 June 1984 Assented to on 30 May 1984 Commenced on 8 June 1984\n[Amended by Perpetuities and Accumulations (Amendment) Act, 2022 (Act No. 10 of 2022) on 21 March 2022]\nAn Act of Parliament to consolidate and modify the law in Kenya relating to the avoidance of future interests in property on grounds of remoteness and governing accumulations of income from property",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "PERPETUITIES",
+   "provisions": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "ACCUMULATIONS",
+   "provisions": [
+    "19",
+    "20",
+    "21",
+    "22"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "GENERAL",
+   "provisions": [
+    "23",
+    "24",
+    "25"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Perpetuities and Accumulations Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In this Act, except where the context otherwise requires— \"charitable disposition\" means a disposition in favour of a charity; \"charity\" means an institution or body of persons established for the purpose of benefiting the public or a section thereof whether by way of the relief of poverty or distress or in the advancement of religion, knowledge, commerce, health, safety or other objects beneficial to mankind. \"in being\" means living or en ventre sa mère; \"power of appointment\" includes a discretionary power to transfer a beneficial interest in property without the furnishing of valuable consideration.\n(2) For the purposes of this Act a disposition contained in a will shall be deemed to be made at the death of the testator and a disposition contained in any other instrument shall be deemed to be made at the date of the instrument.\n(3) Property or any interest in property vests—\n  (a) when the person to whom it is given is ascertained and in existence; and (b) when the property or the amount of the interest is ascertained; and (c) when all other events have happened to enable the interest to come into possession at once subject to the determination at any time of any prior interests.\n(4) For the purposes of this Act a person shall be treated as a member of a class if in his case all the conditions identifying a member of the class are satisfied, and shall be treated as a potential member if in his case some only of those conditions are satisfied but there is a possibility that the remainder will in time be satisfied.\n(5) Nothing in this Act shall affect the operation of the rule of law rendering void for remoteness certain dispositions under which property is limited to be applied for purposes other than the benefit of a person or class of persons in cases where the property may be so applied after the end of the perpetuity period.\n(6) The provisions of this Act shall apply (except as provided in section 15 (2)) only in relation to wills taking effect after 30th June, 1981, and other instruments taking effect after the commencement of this Act, and, in the case of an instrument made in the exercise of a special power of appointment, only where this Act applies in relation to the instrument creating that power; and section 13 shall apply in all cases for construing the reference to a special power of appointment.\n(7) This Act shall apply in relation to a disposition made otherwise than by an instrument as if the disposition had been contained in an instrument taking effect when the disposition was made.\n(8) For the purposes of this Act, any reference with regards dispositions of Property shall be in reference to immovable property.\n(9) For the purpose of this Act, any reference to the perpetuity period shall not apply to family trusts.\n[Act No. 10 of 2022, s. 2.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, except where the context otherwise requires— \"charitable disposition\" means a disposition in favour of a charity; \"charity\" means an institution or body of persons established for the purpose of benefiting the public or a section thereof whether by way of the relief of poverty or distress or in the advancement of religion, knowledge, commerce, health, safety or other objects beneficial to mankind. \"in being\" means living or en ventre sa mère; \"power of appointment\" includes a discretionary power to transfer a beneficial interest in property without the furnishing of valuable consideration."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of this Act a disposition contained in a will shall be deemed to be made at the death of the testator and a disposition contained in any other instrument shall be deemed to be made at the date of the instrument."
+    },
+    {
+     "ref": "(3)",
+     "text": "Property or any interest in property vests— (a) when the person to whom it is given is ascertained and in existence; and (b) when the property or the amount of the interest is ascertained; and (c) when all other events have happened to enable the interest to come into possession at once subject to the determination at any time of any prior interests."
+    },
+    {
+     "ref": "(4)",
+     "text": "For the purposes of this Act a person shall be treated as a member of a class if in his case all the conditions identifying a member of the class are satisfied, and shall be treated as a potential member if in his case some only of those conditions are satisfied but there is a possibility that the remainder will in time be satisfied."
+    },
+    {
+     "ref": "(5)",
+     "text": "Nothing in this Act shall affect the operation of the rule of law rendering void for remoteness certain dispositions under which property is limited to be applied for purposes other than the benefit of a person or class of persons in cases where the property may be so applied after the end of the perpetuity period."
+    },
+    {
+     "ref": "(6)",
+     "text": "The provisions of this Act shall apply (except as provided in section 15 (2)) only in relation to wills taking effect after 30th June, 1981, and other instruments taking effect after the commencement of this Act, and, in the case of an instrument made in the exercise of a special power of appointment, only where this Act applies in relation to the instrument creating that power; and section 13 shall apply in all cases for construing the reference to a special power of appointment."
+    },
+    {
+     "ref": "(7)",
+     "text": "This Act shall apply in relation to a disposition made otherwise than by an instrument as if the disposition had been contained in an instrument taking effect when the disposition was made."
+    },
+    {
+     "ref": "(8)",
+     "text": "For the purposes of this Act, any reference with regards dispositions of Property shall be in reference to immovable property."
+    },
+    {
+     "ref": "(9)",
+     "text": "For the purpose of this Act, any reference to the perpetuity period shall not apply to family trusts."
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Condition restraining alienation void",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) Where a disposition is subject to a condition or limitation absolutely restraining the beneficiary or any person claiming under him from charging or disposing of his interest in the property that condition or limitation shall be void.\n(2) This section shall not apply to charitable dispositions.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a disposition is subject to a condition or limitation absolutely restraining the beneficiary or any person claiming under him from charging or disposing of his interest in the property that condition or limitation shall be void."
+    },
+    {
+     "ref": "(2)",
+     "text": "This section shall not apply to charitable dispositions."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Restriction repugnant to interest void",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) Where a disposition creates an interest absolutely in favour of a person but the terms of the disposition direct that the interest shall be applied or enjoyed by him in a particular manner, he may receive and dispose of the interest as if there were no such direction.\n(2) This section shall not affect the right to restrain, for the beneficial enjoyment of one piece of immovable property, the enjoyment of another piece of immovable property, or to compel the enjoyment thereof in a particular manner.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a disposition creates an interest absolutely in favour of a person but the terms of the disposition direct that the interest shall be applied or enjoyed by him in a particular manner, he may receive and dispose of the interest as if there were no such direction."
+    },
+    {
+     "ref": "(2)",
+     "text": "This section shall not affect the right to restrain, for the beneficial enjoyment of one piece of immovable property, the enjoyment of another piece of immovable property, or to compel the enjoyment thereof in a particular manner."
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Duration of perpetuity period",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PERPETUITIES",
+   "text": "(1) Subject to section 16 (2) and subsection (2) of this section, the perpetuity period—\n  (a) where the instrument by which the disposition is made so provides, shall be such number of years not exceeding eighty as is specified in that behalf in the instrument; which failing\n  (b) shall be a specified life or specified lives in being and eighteen years thereafter; which failing\n  (c) shall be eighteen years.\n(2) Subsection (1) (a) shall not have effect where the disposition is made in exercise of a special power of appointment, but where a period is specified under that subsection in the instrument creating such a power the period shall apply in relation to a disposition under the power as it applies in relation to the power itself.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to section 16 (2) and subsection (2) of this section, the perpetuity period—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Subsection (1) (a) shall not have effect where the disposition is made in exercise of a special power of appointment, but where a period is specified under that subsection in the instrument creating such a power the period shall apply in relation to a disposition under the power as it applies in relation to the power itself."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Remoteness of vesting",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PERPETUITIES",
+   "text": "Subject to the provisions of this Act, no disposition shall be valid which must postpone the vesting of the interest disposed of beyond the perpetuity period.",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Presumptions and evidence as to future parenthood",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PERPETUITIES",
+   "text": "(1) Where in any proceedings there arises under section 6 a question which turns on the ability of a person to have a child at some future time, then—\n  (a) subject to paragraph (b), it shall be presumed that a male can have a child at the age of fourteen years or over, but not under that age, and that a female can have a child at the age of twelve years or over, but not under that age or over the age of fifty-five years; but\n  (b) in the case of a living person evidence may be given to show that he or she will or will not be able to have a child at the time in question.\n(2) Where any such question is decided by treating a person as unable to have a child at a particular time, and he or she does so, the High Court may make such order as it thinks fit for placing the persons interested in the property comprised in the disposition, so far as may be just, in the position they would have held if the question had not been so decided.\n(3) Subject to subsection (2), where any such question is decided in relation to a disposition by treating a person as able or unable to have a child at a particular time then he or she shall be so treated for the purpose of any question which may arise under section 6 in relation to the same disposition in any subsequent proceedings.\n(4) In this section references to having a child are references to begetting or giving birth to a child, but those provisions (except subsection (1)(b)) shall apply in relation to the possibility that a person will at any time have a child by adoption, legitimation or other means as they apply to his or her ability at that time to beget or give birth to a child.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where in any proceedings there arises under section 6 a question which turns on the ability of a person to have a child at some future time, then—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where any such question is decided by treating a person as unable to have a child at a particular time, and he or she does so, the High Court may make such order as it thinks fit for placing the persons interested in the property comprised in the disposition, so far as may be just, in the position they would have held if the question had not been so decided."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to subsection (2), where any such question is decided in relation to a disposition by treating a person as able or unable to have a child at a particular time then he or she shall be so treated for the purpose of any question which may arise under section 6 in relation to the same disposition in any subsequent proceedings."
+    },
+    {
+     "ref": "(4)",
+     "text": "In this section references to having a child are references to begetting or giving birth to a child, but those provisions (except subsection (1)(b)) shall apply in relation to the possibility that a person will at any time have a child by adoption, legitimation or other means as they apply to his or her ability at that time to beget or give birth to a child."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Uncertainty as to remoteness",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PERPETUITIES",
+   "text": "(1) Where, apart from the provisions of this section and sections 10 and 11, a disposition might not vest the interest disposed of within the perpetuity period, the disposition shall be treated, until such time (if any) as it becomes established that the vesting must occur, if at all, beyond the perpetuity period, as if the disposition were not subject to section 6, and its becoming so established shall not affect the validity of anything previously done in relation to the interest disposed of by way of advancement, application of interim income or otherwise.\n(2) Where, apart from the provisions referred to in subsection (1), a disposition consists of the conferring of a general power of appointment which might not become exercisable within the perpetuity period, the disposition shall be treated, until such time (if any) as it becomes established that the power will not be exercisable within the perpetuity period, as if the disposition were not subject to section 6.\n(3) Where a disposition consisting of the conferring of a power, option or other right might be exercised beyond the perpetuity period, the disposition shall be treated as regards an exercise of the right within the perpetuity period as if it were not subject to section 6, and shall be void only if, and so far as, the right is not fully exercised within the perpetuity period.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where, apart from the provisions of this section and sections 10 and 11, a disposition might not vest the interest disposed of within the perpetuity period, the disposition shall be treated, until such time (if any) as it becomes established that the vesting must occur, if at all, beyond the perpetuity period, as if the disposition were not subject to section 6, and its becoming so established shall not affect the validity of anything previously done in relation to the interest disposed of by way of advancement, application of interim income or otherwise."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where, apart from the provisions referred to in subsection (1), a disposition consists of the conferring of a general power of appointment which might not become exercisable within the perpetuity period, the disposition shall be treated, until such time (if any) as it becomes established that the power will not be exercisable within the perpetuity period, as if the disposition were not subject to section 6."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a disposition consisting of the conferring of a power, option or other right might be exercised beyond the perpetuity period, the disposition shall be treated as regards an exercise of the right within the perpetuity period as if it were not subject to section 6, and shall be void only if, and so far as, the right is not fully exercised within the perpetuity period."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Ascertainment of lives in being",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PERPETUITIES",
+   "text": "(1) Where section 8 applies and the duration of the perpetuity period is not determined by paragraph (a) or (c) of section 5 (1), it shall be determined in accordance with this section.\n(2) Where persons falling within subsection (3) are individuals in being and ascertainable at the commencement of the perpetuity period, the duration of the period shall be determined by reference to their lives and no others, but so that the lives of any description of persons falling within paragraph (b) or (c) of that subsection shall be disregarded if the number of persons of that description is such as to render it impracticable to ascertain the date of death of the survivor.\n(3) The persons referred to in subsection (2) are as follows—\n  (a) a person expressly selected by the instrument creating the disposition to be a life in being;\n  (b) a person to whom or in whose favour the disposition was made, that is to say—\n  (i) in the case of a disposition to a class of persons, any member or potential member of that class;\n  (ii) in the case of an individual disposition to a person taking only on certain conditions being satisfied, any person as to whom some of the conditions are satisfied and the remainder may in time be satisfied;\n  (iii) in the case of the exercise of a power, option or other right, the person on whom the right is conferred;\n  (c) a person having a child or grandchild within subparagraphs (i) or (ii) of paragraph (b) or any of whose children or grandchildren, if subsequently born, would by virtue of his or her descent fall within either of those subparagraphs;\n  (d) any person on the failure or determination of whose prior interest the disposition is limited to take effect;\n  (e) any person on whose death any disposition is limited to take effect;\n  (f) any person who is a life in being for the purposes of any other disposition created by the same instrument.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where section 8 applies and the duration of the perpetuity period is not determined by paragraph (a) or (c) of section 5 (1), it shall be determined in accordance with this section."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where persons falling within subsection (3) are individuals in being and ascertainable at the commencement of the perpetuity period, the duration of the period shall be determined by reference to their lives and no others, but so that the lives of any description of persons falling within paragraph (b) or (c) of that subsection shall be disregarded if the number of persons of that description is such as to render it impracticable to ascertain the date of death of the survivor."
+    },
+    {
+     "ref": "(3)",
+     "text": "The persons referred to in subsection (2) are as follows—"
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Reduction of age and exclusion of class members to avoid perpetuity",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PERPETUITIES",
+   "text": "(1) Where a disposition is limited by reference to the attainment by any person or persons of a specified age exceeding eighteen years, and it is apparent at the time the disposition is made or becomes apparent at a subsequent time—\n  (a) that the disposition would, apart from this section, be void for remoteness; but\n  (b) that it would not have been void if the specified age had been eighteen years, the disposition shall be treated for all purposes as if, instead of being limited by reference to the age in fact specified, it had been limited by reference to the age nearest to that age which would, if specified instead, have prevented the disposition from being so void.\n(2) Where in the case of a disposition, different ages exceeding eighteen years are specified in relation to different persons—\n  (a) the reference in subsection (1)(b) to the specified age shall be construed as a reference to all the specified ages; and\n  (b) subsection (1) shall operate to reduce each such age so far as is necessary to save the disposition from being void for remoteness.\n(3) Where the inclusion of any persons, being potential members of a class or unborn persons who at birth would become members or potential members of the class, prevents the foregoing provisions of this section from operating to save a disposition from being void for remoteness, those persons shall thenceforth be deemed for all purposes of the disposition to be excluded from the class, and those provisions shall thereupon have effect accordingly.\n(4) Where, in the case of a disposition to which subsection (3) does not apply, it is apparent at the time the disposition is made or becomes apparent at a subsequent time that, apart from this subsection, the inclusion of persons who at birth would become members or potential members of the class, would cause the disposition to be treated as void for remoteness, those persons shall, unless their exclusion would exhaust the class, thenceforth be excluded from the class for all the purposes of the disposition.\n(5) Where this section has effect in relation to a disposition to which section 8 applies, the operation of this section shall not affect the validity of anything previously done in relation to the interest disposed of by way of advancement, application of intermediate income or otherwise.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where a disposition is limited by reference to the attainment by any person or persons of a specified age exceeding eighteen years, and it is apparent at the time the disposition is made or becomes apparent at a subsequent time—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where in the case of a disposition, different ages exceeding eighteen years are specified in relation to different persons—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the inclusion of any persons, being potential members of a class or unborn persons who at birth would become members or potential members of the class, prevents the foregoing provisions of this section from operating to save a disposition from being void for remoteness, those persons shall thenceforth be deemed for all purposes of the disposition to be excluded from the class, and those provisions shall thereupon have effect accordingly."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where, in the case of a disposition to which subsection (3) does not apply, it is apparent at the time the disposition is made or becomes apparent at a subsequent time that, apart from this subsection, the inclusion of persons who at birth would become members or potential members of the class, would cause the disposition to be treated as void for remoteness, those persons shall, unless their exclusion would exhaust the class, thenceforth be excluded from the class for all the purposes of the disposition."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where this section has effect in relation to a disposition to which section 8 applies, the operation of this section shall not affect the validity of anything previously done in relation to the interest disposed of by way of advancement, application of intermediate income or otherwise."
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Condition relating to death of surviving spouse",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PERPETUITIES",
+   "text": "Where a disposition is limited by reference to the time of death of the survivor of a person in being at the time of the commencement of the perpetuity period and any spouse of that person, and that time has not arrived at the end of the perpetuity period, the disposition shall be treated for all purposes, where to do so would save it from being void for remoteness, as if it had instead been limited by reference to the time immediately before the end of that period.",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Saving and acceleration of expectant interests",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PERPETUITIES",
+   "text": "A disposition shall not be treated as void for remoteness by reason only that the interest disposed of is ulterior to and dependent upon an interest under a disposition which is void, and the vesting of an interest shall not be prevented from being accelerated on the failure of a prior interest by reason only that the failure arises because of remoteness.",
+   "clauses": []
+  },
+  "13": {
+   "num": "13",
+   "title": "Powers of appointment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PERPETUITIES",
+   "text": "For the purpose of section 6 and section 14, a power of appointment shall be treated as a special power unless—\n  (a) in the instrument creating the power it is expressed to be exercisable by one person only; and\n  (b) it could, at all times during its currency when that person is of full age and capacity, be exercised by him so as immediately to transfer to himself the whole of the interest governed by the power without the consent of any other person or compliance with any other condition, not being a formal condition relating only to the mode of exercise of the power:\nProvided that for the purpose of determining whether a disposition made under a power of appointment exercisable by will only is void for remoteness, the power shall be treated as a general power where it would have fallen to be so treated if exercisable by deed.",
+   "clauses": []
+  },
+  "14": {
+   "num": "14",
+   "title": "Validity of powers of appointment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PERPETUITIES",
+   "text": "(1) In the case of a general power of appointment the perpetuity period shall commence at the time of the exercise of the power.\n(2) In the case of a special power of appointment the perpetuity period shall commence at the date the disposition creating the special power takes effect.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In the case of a general power of appointment the perpetuity period shall commence at the time of the exercise of the power."
+    },
+    {
+     "ref": "(2)",
+     "text": "In the case of a special power of appointment the perpetuity period shall commence at the date the disposition creating the special power takes effect."
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Administrative powers of trustees",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PERPETUITIES",
+   "text": "(1) Section 6 shall not operate to invalidate a power conferred on trustees or other persons to sell, lease, exchange or otherwise dispose of property for full consideration, or to do any other act in the administration (as opposed to the distribution) of property, and shall not prevent the payment to trustees or other persons of reasonable remuneration for their services.\n(2) Subsection (1) shall apply for the purpose of enabling a power to be exercised at any time after the commencement of the Act, notwithstanding that the power is conferred by an instrument which took effect before that commencement.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Section 6 shall not operate to invalidate a power conferred on trustees or other persons to sell, lease, exchange or otherwise dispose of property for full consideration, or to do any other act in the administration (as opposed to the distribution) of property, and shall not prevent the payment to trustees or other persons of reasonable remuneration for their services."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subsection (1) shall apply for the purpose of enabling a power to be exercised at any time after the commencement of the Act, notwithstanding that the power is conferred by an instrument which took effect before that commencement."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Options relating to land",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PERPETUITIES",
+   "text": "(1) Section 6 shall not apply to a disposition consisting of the conferring of an option to acquire for valuable consideration an interest reversionary (whether directly or indirectly) on the term of a lease if—\n  (a) the option is exercisable only by the lessee or his successors in title; and\n  (b) it ceases to be exercisable at or before the expiration of one year following the determination of the lease.\n(2) Subsection (1) shall apply in relation to an agreement for a lease as it applies in relation to a lease, and \"lessee\" shall be construed accordingly.\n(3) In the case of any other disposition consisting of the conferring of an option to acquire for valuable consideration an interest in land, the perpetuity period shall be twenty-one years, and section 5 shall not apply:\nProvided that this subsection shall not apply to a right of pre-emption conferred on a public or local authority in respect of land used or to be used for religious purposes where the right becomes exercisable only if the land ceases to be used for such purposes.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Section 6 shall not apply to a disposition consisting of the conferring of an option to acquire for valuable consideration an interest reversionary (whether directly or indirectly) on the term of a lease if—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Subsection (1) shall apply in relation to an agreement for a lease as it applies in relation to a lease, and \"lessee\" shall be construed accordingly."
+    },
+    {
+     "ref": "(3)",
+     "text": "In the case of any other disposition consisting of the conferring of an option to acquire for valuable consideration an interest in land, the perpetuity period shall be twenty-one years, and section 5 shall not apply:"
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Recovery of annual sums charged on immovable property",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PERPETUITIES",
+   "text": "Section 6 shall not apply to powers or remedies for recovering or compelling the payment of an annual sum charged on immovable property or on the income thereof or on any other annual sum which is itself so charged, whether conferred by law or created by any instrument relating to that annual sum.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Avoidance of contractual and other rights in cases of remoteness",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "PERPETUITIES",
+   "text": "Where a disposition inter vivos would fall to be treated as void for remoteness if the rights and duties thereunder were capable of transmission to persons other than the original parties and had been so transmitted, it shall be treated as void as between the person by whom it was made and the person to whom or in whose favour it was made or any successor of his, and no remedy shall lie in contract or otherwise for giving effect to it or making restitution for its lack of effect.",
+   "clauses": []
+  },
+  "19": {
+   "num": "19",
+   "title": "Accumulation of income",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ACCUMULATIONS",
+   "text": "(1) Subject to section 16 of this Act, the terms of any instrument or a trust may direct or authorize the accumulation of all or part of the income of such property for a period not exceeding the intended duration of the trust.\n(2) Subject to special and general power of maintenance and advancement or as predicted by the terms of the trust or as otherwise provided, income which is not accumulated shall be distributed.\n(3) At all times, any income that is not accumulated shall be distributed to the intended beneficiaries.\n[Act No. 10 of 2022, s. 3.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to section 16 of this Act, the terms of any instrument or a trust may direct or authorize the accumulation of all or part of the income of such property for a period not exceeding the intended duration of the trust."
+    },
+    {
+     "ref": "(2)",
+     "text": "Subject to special and general power of maintenance and advancement or as predicted by the terms of the trust or as otherwise provided, income which is not accumulated shall be distributed."
+    },
+    {
+     "ref": "(3)",
+     "text": "At all times, any income that is not accumulated shall be distributed to the intended beneficiaries."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Accumulation during minority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ACCUMULATIONS",
+   "text": "When accumulations of surplus income are lawfully made during a minority, the period for which the accumulations are made shall not (whether the trust was created or the accumulations were made before or after the commencement of this Act) be taken into account in determining the periods for which accumulations are permitted to be made by section 19, and accordingly an express trust for accumulation for any other permitted period shall not be deemed to have been invalidated or become invalid by reason of accumulation also having been made as aforesaid during the minority.",
+   "clauses": []
+  },
+  "21": {
+   "num": "21",
+   "title": "Restriction on accumulation for the purchase of immovable property",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ACCUMULATIONS",
+   "text": "(1) No person may dispose of property so that the income thereof shall be wholly or partially accumulated for the purchase of immovable property only, for a longer period than the duration of the minority or respective minorities of any person or persons who, under the limitations of the instrument directing the accumulation, would for the time being, if of full age, be entitled to the income so directed to be accumulated.\n(2) This section shall not, nor shall the enactments which it replaces, apply to accumulations to be held as capital money for the purpose of the Trusts of Land Act (Cap. 290), whether or not the accumulations are primarily liable to be laid out in the purchase of immovable property.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No person may dispose of property so that the income thereof shall be wholly or partially accumulated for the purchase of immovable property only, for a longer period than the duration of the minority or respective minorities of any person or persons who, under the limitations of the instrument directing the accumulation, would for the time being, if of full age, be entitled to the income so directed to be accumulated."
+    },
+    {
+     "ref": "(2)",
+     "text": "This section shall not, nor shall the enactments which it replaces, apply to accumulations to be held as capital money for the purpose of the Trusts of Land Act (Cap. 290), whether or not the accumulations are primarily liable to be laid out in the purchase of immovable property."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Termination of accumulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "ACCUMULATIONS",
+   "text": "(1) The foregoing sections of this part shall not affect the right of a beneficiary of full age and capacity who has an absolute vested and indefeasible interest in property at any time to require the transfer of the property to him and the termination of an accumulation.\n(2) Section 4 shall apply to any question under this section.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The foregoing sections of this part shall not affect the right of a beneficiary of full age and capacity who has an absolute vested and indefeasible interest in property at any time to require the transfer of the property to him and the termination of an accumulation."
+    },
+    {
+     "ref": "(2)",
+     "text": "Section 4 shall apply to any question under this section."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Act not to apply to pension and similar funds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "GENERAL",
+   "text": "The provisions of this Act shall not apply, and the provisions of any law heretofore in force in Kenya relating to perpetuities shall be deemed never to have applied, to the trusts of any fund established under trusts subject to the law of Kenya in connection with an undertaking or combination of undertakings carried on wholly or partly in Kenya, being a fund of which the main purpose is either—\n  (a) the provision of superannuating allowances on retirement to persons employed in the undertaking or combination of undertakings in connection with which the fund is established; or\n  (b) the provision of pensions during widowhood to the widows of persons who are or have been so employed and of periodical allowances to or in respect of children of those persons; or\n  (c) the assurance of capital sums on the death of persons who have been so employed, and whether or not the fund has been approved and registered pursuant to and for the purposes of the Income Tax Act (Cap. 470).",
+   "clauses": []
+  },
+  "24": {
+   "num": "24",
+   "title": "Validity of dispositions in favour of charities",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "GENERAL",
+   "text": "(1) No charitable disposition shall be invalid by reason of non-compliance with the provisions of section 6; but such a disposition shall, unless it is to take effect on the failure or determination of a previous charitable disposition, take effect, if at all, within the perpetuity period.\n(2) Section 19 shall apply to the income of a charity.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No charitable disposition shall be invalid by reason of non-compliance with the provisions of section 6; but such a disposition shall, unless it is to take effect on the failure or determination of a previous charitable disposition, take effect, if at all, within the perpetuity period."
+    },
+    {
+     "ref": "(2)",
+     "text": "Section 19 shall apply to the income of a charity."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Act to bind Government",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "GENERAL",
+   "text": "This Act shall bind the Government.",
+   "clauses": []
+  }
+ },
+ "schedules": [],
+ "spent": {}
+}

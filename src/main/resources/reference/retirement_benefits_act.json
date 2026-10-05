@@ -1,0 +1,1566 @@
+{
+ "title": "Retirement Benefits Act",
+ "citation": "Cap. 197",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1997/3/eng@2025-06-20",
+ "version_date": "2025-06-20",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "RETIREMENT BENEFITS ACT CAP. 197 Published in Kenya Gazette Vol. XCIX—No. 44 on 29 August 1997 Assented to on 22 August 1997 Commenced on 20 November 1997 by Retirement Benefits Act Commencement\n[Amended by Retirement Benefits (Amendment) Act, 1998 (Act No. 7 of 1998) on 8 January 1999] [Amended by Finance Act, 2003 (Act No. 15 of 2003) on 8 January 1999]\n[Amended by Finance Act, 1999 (Act No. 4 of 1999) on 18 November 1999] [Amended by Finance Act, 2002 (Act No. 7 of 2002) on 13 June 2002]\n[Amended by Retirement Benefits (Amendment) Act, 2003 (Act No. 8 of 2003) on 19 December 2003] [Amended by Retirement Benefits (Amendment) Act, 2006 (Act No. 2 of 2006) on 19 July 2006] [Amended by Finance Act, 2007 (Act No. 9 of 2007) on 1 January 2008] [Amended by Finance Act, 2008 (Act No. 8 of 2008) on 1 January 2009] [Amended by Finance Act, 2009 (Act No. 8 of 2009) on 1 January 2010] [Amended by Finance Act, 2010 (Act No. 10 of 2010) on 1 January 2011] [Amended by Finance Act, 2012 (Act No. 57 of 2012) on 1 January 2013] [Amended by Finance Act, 2013 (Act No. 38 of 2013) on 1 January 2014]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2014 (Act No. 18 of 2014) on 8 December 2014] [Amended by Finance Act, 2015 (Act No. 14 of 2015) on 1 October 2015] [Amended by Finance Act, 2016 (Act No. 38 of 2016) on 1 January 2017] [Amended by Finance Act, 2017 (Act No. 15 of 2017) on 1 January 2018] [Amended by Finance Act, 2018 (Act No. 10 of 2018) on 1 July 2018] [Amended by Finance Act, 2019 (Act No. 23 of 2019) on 7 November 2019]\n[Amended by Tax Laws (Amendment) Act, 2020 (Act No. 2 of 2020) on 25 April 2020] [Amended by Finance Act, 2020 (Act No. 8 of 2020) on 30 June 2020]\n[Amended by Public Service Superannuation Scheme Act (Cap. 189A) on 1 January 2021] [Amended by Finance Act, 2021 (Act No. 8 of 2021) on 1 July 2021]\n[Amended by Finance Act, 2021 (Act No. 8 of 2021) on 1 January 2022] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\n[Amended by Finance Act, 2023 (Act No. 4 of 2023) on 1 July 2023] [Amended by Statute Law (Miscellaneous Amendment) Act, 2023 (Act No. 19 of 2023) on 11 December 2023]\n[Amended by Anti-Money Laundering and Combating of Terrorism Financing Laws (Amendment) Act (Act No. 6 of 2025) on 20 June 2025]\nAn Act of Parliament to establish a Retirement Benefits Authority for the regulation, supervision and promotion of retirement benefits schemes, the development of the retirement benefits sector and for connected purposes (Act No. 7 of 1998, s. 3, Act No. 2 of 2006, s. 3)",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "provisions": [
+    "3",
+    "4",
+    "5",
+    "5A",
+    "5B",
+    "6",
+    "7",
+    "7A",
+    "7B",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "REGISTRATION OF RETIREMENT BENEFITS SCHEMES, MANAGERS, CUSTODIANS AND ADMINISTRATORS",
+   "provisions": [
+    "22",
+    "22A",
+    "23",
+    "24",
+    "25",
+    "25A",
+    "25B",
+    "25C",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "REGULATION AND SUPERVISION OF RETIREMENT BENEFITS SCHEMES",
+   "provisions": [
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "36A",
+    "37",
+    "38",
+    "39",
+    "40"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "INSPECTION AND APPOINTMENT OF INTERIM ADMINISTRATION",
+   "provisions": [
+    "41",
+    "42",
+    "43",
+    "44",
+    "44A",
+    "45",
+    "45A"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "APPEALS",
+   "provisions": [
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "MISCELLANEOUS",
+   "provisions": [
+    "53",
+    "53A",
+    "53B",
+    "54",
+    "54A",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Retirement Benefits Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires—\n“actuary” means a person who is a Fellow of the Institute of Actuaries in England, or the Faculty of Actuaries in Scotland, or the Canadian Institute of Actuaries, or the Society of Actuaries of the United States of America or the Institute of Actuaries of Japan or the Institute of Actuaries of Australia or a person holding such equivalent qualification as the Board may, by notice in the Gazette, prescribe;\n“administrator” means a person appointed by trustees to administer a scheme in accordance with such terms and conditions of service as may be specified in the instrument of appointment;\n“authority” means the Retirement Benefits Authority established by section 3;\n“Board” means the Board of Directors of the Authority constituted under section 6;\n“Cabinet Secretary” means the Cabinet Secretary for the time being responsible for matters relating to Finance;\n“Chief Executive Officer” means the Chief Executive Officer of the Authority appointed under section 11;\n\"corporate trustee\" means a limited liability company incorporated under the Companies Act (Cap. 486), which is, for the time being, empowered under any written law, its charter, memorandum of association, deed of settlement or other instrument constituting it or defining its powers to mainly undertake trusts, and includes a trust corporation;\n“custodian” means a company whose business includes taking responsibility for the safe custody of the funds, securities, financial instruments and documents of title of the assets of scheme funds;\n“financial year”—\n  (a) in relation to the Authority, has the meaning assigned to it in section 19;\n  (b) in relation to a scheme, means such accounting period as may be prescribed in the scheme rules;\n“Fund” means the Retirement Benefits Authority Fund established by section 17;\n“Levy” means the Retirement Benefits Levy to be imposed under section 16;\n“manager” means a company whose business includes—\n  (i) undertaking, pursuant to a contract or other arrangement, the management of the funds and other assets of a scheme fund for purposes of investment;\n  (ii) providing consultancy services on the investment of scheme funds; or\n  (iii) reporting or disseminating information concerning the assets available for investment of scheme funds;\n“member” means a member of a retirement benefits scheme and includes a person entitled to or receiving a benefit under a retirement benefits scheme;\n“pooled fund” means a fund established by a limited liability company, other than an approved issuer, for purposes of pooling scheme funds for collective investment;\n\"post-retirement medical fund\" means a fund established under this Act into which contributions are made and from which costs of medical benefits can be met in accordance with the medical fund rules;\n“retirement benefits scheme” means any scheme or arrangement (other than a contract for life assurance) whether established by a written law for the time being in force or by any other instrument, under which persons are entitled to benefits in the form of payments or post-retirement medical cover determined by age, length of service, amount of earnings or otherwise and payable primarily upon retirement, or upon death, termination of service, or upon the occurrence of such other event as may be specified in such written law or other instrument;\n“scheme” means a retirement benefits scheme;\n“scheme fund” means the retirement benefits scheme fund to be established pursuant to the provisions of section 32;\n“scheme rules” means the rules specifically governing the constitution and administration of a particular scheme;\n“sponsor” means a person who establishes a scheme; “statutory fund” has the meaning assigned to it in section 2 of the Insurance Act (Cap. 487); “terrorism financing” has the meaning assigned to it under the Prevention of Terrorism Act (Cap. 59B); “Tribunal” means the Appeals Tribunal established under section 48; “trust corporation” means a company incorporated under the Companies Act (Cap. 486) having a subscribed capital of not less than ten million shillings and which is for the time being empowered (by or under any written law, its charter, memorandum of association, deed of settlement or other instrument constituting it or defining its powers) to undertake trusts: Provided that such company does not, by any prospectus, circular, advertisements, or other documents issued by it or on its behalf, state or hold out that any liability attaches to the Public Trustee or to the Consolidated Fund in respect of any act or omission of the company when acting as an executor or administrator; “trustee” means a trustee of a scheme fund and includes a trust corporation.\n(Act No. 7 of 1998, s. 2, Act No. 4 of 1999, s. 105A, Act No. 8 of 2003, s. 2, Act No. 2 of 2006, s. 2, Act No. 8 of 2021, s. 60, Act No. 6 of 2025, Sch.)",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment and incorporation of the Retirement Benefits Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "(1) There is established an Authority to be known as the Retirement Benefits Authority. (2) The Authority shall be a body corporate with perpetual succession and a common seal and shall in its corporate name be capable of—\n  (a) suing and be sued;\n  (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property;\n  (c) borrowing or lending money; and (d) doing or performing all other things or acts for the furtherance of the provisions of this Act, which may be lawfully done or performed by a body corporate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established an Authority to be known as the Retirement Benefits Authority. (2) The Authority shall be a body corporate with perpetual succession and a common seal and shall in its corporate name be capable of— (a) suing and be sued; (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of movable and immovable property; (c) borrowing or lending money; and (d) doing or performing all other things or acts for the furtherance of the provisions of this Act, which may be lawfully done or performed by a body corporate."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Headquarters",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "The headquarters of the Authority shall be in Nairobi.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Object and functions of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "The object and functions of the Authority shall be to—\n  (a) regulate and supervise the establishment and management of retirement benefits schemes;\n  (b) protect the interests of members and sponsors of retirement benefits sector;\n  (ba) approve trustees' remuneration approved by members during the annual general meeting after every three years;\n  (c) promote the development of the retirement benefits sector;\n  (d) advise the Cabinet Secretary on the national policy to be followed with regard to retirement benefits schemes and to implement all Government policies relating thereto; and\n  (e) perform such other functions as are conferred on it by this Act or by any other written law.\n(Act No. 15 of 2017, s. 43)",
+   "clauses": []
+  },
+  "5A": {
+   "num": "5A",
+   "title": "Assistance in investigation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "(1) The Authority may, where it receives a request from a regulatory body, whether established within or outside Kenya, for assistance in investigating a person specified by the regulatory body who has contravened or is contravening any legal or regulatory requirements which—\n  (a) are enforced or administered by that regulatory body; or\n  (b) relate to transactions regulated by that regulatory body, and where it is of the opinion that the request meets the requirements of subsection (3), provide the assistance requested by exercising any of its powers under this Act or by providing such other assistance as the Authority may consider necessary.\n(2) For the purposes of subsection (1), the provisions of this Act shall, with such modifications as may be necessary, apply and have effect as if the contravention of the legal or regulatory requirement referred to in subsection (1) were an offence under this Act.\n(3) A regulatory body which requests for assistance under subsection (1) shall demonstrate that—\n  (a) it is desirable or expedient that the assistance requested should be provided in the interest of the public; or\n  (b) the assistance shall assist the regulatory body in the discharge and performance of its functions.\n(4) The Authority shall, in determining whether the requirements of subsection (3) have been satisfied in any particular case, take into account whether the regulatory body shall—\n  (a) pay the Authority any of the costs and expenses incurred in providing the assistance; and\n  (b) be able and willing to provide reciprocal assistance within its jurisdiction in response to a similar request for assistance from Kenya.\n(5) Nothing in this section shall be construed as limiting the powers of the Authority to co-operate or co-ordinate with any other regulatory body in the exercise of its powers under this Act, in so far as any such co-operation or co-ordination is not contrary to the objectives of this Act.\n(Act No. 38 of 2013, s. 24)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority may, where it receives a request from a regulatory body, whether established within or outside Kenya, for assistance in investigating a person specified by the regulatory body who has contravened or is contravening any legal or regulatory requirements which—"
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of subsection (1), the provisions of this Act shall, with such modifications as may be necessary, apply and have effect as if the contravention of the legal or regulatory requirement referred to in subsection (1) were an offence under this Act."
+    },
+    {
+     "ref": "(3)",
+     "text": "A regulatory body which requests for assistance under subsection (1) shall demonstrate that—"
+    },
+    {
+     "ref": "(4)",
+     "text": "The Authority shall, in determining whether the requirements of subsection (3) have been satisfied in any particular case, take into account whether the regulatory body shall—"
+    },
+    {
+     "ref": "(5)",
+     "text": "Nothing in this section shall be construed as limiting the powers of the Authority to co-operate or co-ordinate with any other regulatory body in the exercise of its powers under this Act, in so far as any such co-operation or co-ordination is not contrary to the objectives of this Act."
+    }
+   ]
+  },
+  "5B": {
+   "num": "5B",
+   "title": "Authority may investigate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "(1) Where the Authority has reasonable cause to believe, either on its own motion or as a result of a complaint received from any person, that—\n  (a) an offence has been committed under this Act; or\n  (b) a manager, custodian, trustee or an administrator may have engaged in embezzlement, fraud, misfeasance or other misconduct in connection with its regulated activity; or\n  (c) the manner in which a manager, custodian, trustee or an administrator has engaged or is engaging in the regulated activity is not in the interest of the person's clients or in the public interest, the Authority shall in writing depute a suitably qualified person to conduct investigations into the matter on behalf of the Authority.\n(2) An investigator appointed under subsection (1) shall require any person whom the investigator reasonably believes or suspects to be in possession or in control of any record or document which contains, or which is likely to contain, information relevant to an investigation under this section—\n  (a) to produce to the investigator, within such time and at such place as the investigator may require in writing, any record or document specified by the investigator which is, or may be, relevant to the investigation, and which is in the possession or under the control of that person;\n  (b) to give an explanation or further particulars in respect of any record or document produced under paragraph (a);\n  (c) to attend before the investigator at the time and place specified in writing by the investigator, and to the best of his ability under oath or affirmation answer any question relating to the matters under investigation as the investigator may put to him; and\n  (d) to assist the investigator with the investigation to the best of the person's ability.\n(3) A person who contravenes the provisions of subsection (2) commits an offence.\n(Act No. 38 of 2013, s. 24)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the Authority has reasonable cause to believe, either on its own motion or as a result of a complaint received from any person, that—"
+    },
+    {
+     "ref": "(2)",
+     "text": "An investigator appointed under subsection (1) shall require any person whom the investigator reasonably believes or suspects to be in possession or in control of any record or document which contains, or which is likely to contain, information relevant to an investigation under this section—"
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who contravenes the provisions of subsection (2) commits an offence."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Board of Directors",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "The management of the Authority shall vest in a Board of Directors of the Authority which shall comprise —\n  (a) a chairperson to be appointed by the Cabinet Secretary from amongst the members appointed under paragraph (f);\n  (b) the Chief Executive Officer appointed under section 11;\n  (c) the Principal Secretary in the Ministry for the time being responsible for matters relating to finance or his representative;\n  (d) the Commissioner of Insurance;\n  (e) the Chief Executive of the Capital Markets Authority; and\n  (f) five members, not being public officers, appointed by the Cabinet Secretary by virtue of their knowledge or experience in matters relating to the administration of scheme funds, banking, insurance, law or actuarial studies:\nProvided that no person shall be eligible to be appointed under paragraph (f) if such person is an employee or director of any company, firm or institution where such employment or directorship may lead to a conflict of interest.\n(Act No. 8 of 2008, s. 77)",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Powers of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "The Board shall have all powers necessary for the performance of its functions under this Act and in particular, the Board shall have power to—\n  (a) control, supervise and administer the assets of the Authority in such manner and for such purposes as best promote the purpose for which the Authority is established;\n  (b) determine the provisions to be made for capital and recurrent expenditure and for reserves of the Authority;\n  (c) receive any grants, gifts donations or endowments on behalf of the Authority and make legitimate disbursements therefrom;\n  (d) enter into association with other bodies or organizations within or outside Kenya as the Board may consider desirable or appropriate and in furtherance of the purpose for which the Authority is established;\n  (e) open a banking account or banking accounts for the funds of the Authority; and\n  (f) invest funds of the Authority not currently required for its purposes in the manner provided in section 18.",
+   "clauses": []
+  },
+  "7A": {
+   "num": "7A",
+   "title": "Powers of anti-money laundering and countering the financing of terrorism purposes",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "(1) Pursuant to sections 2A, 36A, 36B and 36C of the Proceeds of Crime and Anti-Money Laundering Act (Cap. 59A), the Authority shall regulate, supervise and enforce compliance for antimoney laundering, combating the financing of terrorism and countering proliferation financing purposes by all reporting institutions regulated and supervised by the Authority and to whom the provisions of the Proceeds of Crime and Anti-Money Laundering Act (Cap. 59A) apply.\n(2) In undertaking its mandate under subsection (1), the Authority may—\n  (a) vet proposed significant shareholders, proposed beneficial owners, proposed directors and senior officers of a reporting institution;\n  (b) conduct onsite inspection;\n  (c) conduct offsite surveillance;\n  (d) undertake consolidated supervision of an institution and its group;\n  (e) compel the production of any document or information the Authority may require for the purpose of discharging its supervisory mandate under the Proceeds of Crime and AntiMoney Laundering Act (Cap. 59A);\n  (f) impose monetary, civil or administrative sanctions for violations related to antimoney laundering, combating the financing of terrorism or countering proliferation financing purposes;\n  (g) issue regulations, guidelines, directions, rules or instructions for anti-money laundering, combating the financing of terrorism and countering proliferation financing purposes;\n  (h) co-operate and share information for anti-money laundering, combating the financing of terrorism and countering proliferation financing purposes; and\n  (i) take such action as is necessary to supervise and enforce compliance by reporting institutions in line with the provisions of the Proceeds of Crime and Anti-Money Laundering Act (Cap. 59A) and any regulations, guidelines, rules, instruction or direction made or issued thereunder.\n(3) For purposes of this section, “reporting institution” has the meaning assigned to it under section 2 of the Proceeds of Crime and Anti-Money Laundering Act (Cap. 59A).\n(Act No. 6 of 2025, Sch.)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Pursuant to sections 2A, 36A, 36B and 36C of the Proceeds of Crime and Anti-Money Laundering Act (Cap. 59A), the Authority shall regulate, supervise and enforce compliance for antimoney laundering, combating the financing of terrorism and countering proliferation financing purposes by all reporting institutions regulated and supervised by the Authority and to whom the provisions of the Proceeds of Crime and Anti-Money Laundering Act (Cap. 59A) apply."
+    },
+    {
+     "ref": "(2)",
+     "text": "In undertaking its mandate under subsection (1), the Authority may—"
+    },
+    {
+     "ref": "(3)",
+     "text": "For purposes of this section, “reporting institution” has the meaning assigned to it under section 2 of the Proceeds of Crime and Anti-Money Laundering Act (Cap. 59A)."
+    }
+   ]
+  },
+  "7B": {
+   "num": "7B",
+   "title": "Penalties for violations relating to money laundering and terrorism financing",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "(1) No member, manager, custodian, administrator or any other person in a scheme or scheme fund shall violate or fail to comply with the regulations, guidelines, directions, rules or instructions issued for anti-money laundering, combating the financing of terrorism and countering proliferation financing purposes.\n(2) A person who violates or fails to comply with the provisions of subsection (1) shall be liable—\n  (a) in case of a legal person, to a penalty not exceeding five million shillings;\n  (b) in the case of a natural person, to a penalty not exceeding one million shillings; and\n  (c) to additional penalties not exceeding one hundred thousand shillings in each case for each day or part thereof during which such violation or non-compliance continues.\n(Act No. 6 of 2025, Sch.)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No member, manager, custodian, administrator or any other person in a scheme or scheme fund shall violate or fail to comply with the regulations, guidelines, directions, rules or instructions issued for anti-money laundering, combating the financing of terrorism and countering proliferation financing purposes."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who violates or fails to comply with the provisions of subsection (1) shall be liable—"
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Conduct of business and affairs of the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "The conduct and regulation of the business and affairs of the Board shall be as provided in the Schedule but subject thereto, the Board shall regulate its own procedure.",
+   "clauses": []
+  },
+  "9": {
+   "num": "9",
+   "title": "Delegation by the Board",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "The Board may, by resolution either generally or in any particular case, delegate to any committee of the Board or to any member, officer, employee or agent of the Authority, the exercise of any of the powers or the performance of any of the functions or duties of the Authority under this Act or under any other written law.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "Remuneration of Board members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "The Authority, in consultation with the Cabinet Secretary shall pay members of the Board such remuneration, fees or allowances for expenses as it may determine.",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "The Chief Executive Officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "(1) There shall be a Chief Executive officer who shall be appointed by the Board in consultation with the Cabinet Secretary and whose terms and conditions of service shall be determined by the Board in the instrument of appointment or otherwise in writing from time to time.\n(2) No person shall be appointed under this section unless he has at least ten years experience in a managerial capacity in the retirements benefits, accounting, finance, insurance or the banking sectors.\n(3) The Chief Executive Officer shall be an ex officio member of the Board but shall have no right to vote at any meeting of the Board.\n(4) The Chief Executive Officer shall, subject to the directions of the Board, be responsible for the day to day management of the affairs of the Authority.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be a Chief Executive officer who shall be appointed by the Board in consultation with the Cabinet Secretary and whose terms and conditions of service shall be determined by the Board in the instrument of appointment or otherwise in writing from time to time."
+    },
+    {
+     "ref": "(2)",
+     "text": "No person shall be appointed under this section unless he has at least ten years experience in a managerial capacity in the retirements benefits, accounting, finance, insurance or the banking sectors."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Chief Executive Officer shall be an ex officio member of the Board but shall have no right to vote at any meeting of the Board."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Chief Executive Officer shall, subject to the directions of the Board, be responsible for the day to day management of the affairs of the Authority."
+    }
+   ]
+  },
+  "12": {
+   "num": "12",
+   "title": "Staff of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "(1) The Board shall appoint a secretary to the Board on such terms and conditions of service as the Board may determine.\n(2) The Board may appoint such officers or servants as are necessary for the proper discharge of the functions of the Authority under this Act or any other written law, upon such terms and conditions of service as the Board may determine.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board shall appoint a secretary to the Board on such terms and conditions of service as the Board may determine."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may appoint such officers or servants as are necessary for the proper discharge of the functions of the Authority under this Act or any other written law, upon such terms and conditions of service as the Board may determine."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "The Common Seal of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "(1) The common seal of the Authority shall be kept in such custody as the Board may direct and shall not be used except on the order of the Board.\n(2) The common seal of the Authority when affixed to a document and duly authenticated shall be judicially and officially noticed and unless and until the contrary is proved, any necessary order or authorisation by the Board under this section shall be presumed to have been duly given.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The common seal of the Authority shall be kept in such custody as the Board may direct and shall not be used except on the order of the Board."
+    },
+    {
+     "ref": "(2)",
+     "text": "The common seal of the Authority when affixed to a document and duly authenticated shall be judicially and officially noticed and unless and until the contrary is proved, any necessary order or authorisation by the Board under this section shall be presumed to have been duly given."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Protection from personal liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "No matter or thing done by a member of the Board or any officer, employee or agent of the Authority shall, if the matter or thing is done bona fide for executing the functions, powers or duties of the Authority, render the member, officer, employee or agent or any person acting on their directions personally liable to any action, claim or demand whatsoever.",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "Liability of the Authority for damages",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "The provisions of this Act shall not relieve the Authority of the liability to pay compensation or damages to any person for any injury to him, his property or any of his interest caused by the exercise of any power conferred by this Act or any other written law or by the failure, whether wholly or partially, of any works.",
+   "clauses": []
+  },
+  "16": {
+   "num": "16",
+   "title": "The Retirement Benefits Levy",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "(1) The Cabinet Secretary may, in consultation with the Board, by order published in the Gazette, impose a levy to be known as the Retirement Benefits Levy on the contributions made to scheme funds, or on the assets of such funds, or on such other base as he may determine.\n(2) A levy imposed under this section shall be payable at such rate as may be specified in the order. (3) An order under this section may contain provisions as to the time at which any amount payable by way of the levy shall become due. (4) All moneys received in respect of the levy shall be paid into the Fund and if not paid on or before the date prescribed by the order, the amount due and any sum payable under subsection (5) shall be a civil debt recoverable summarily by the Authority. (5) If a person fails to pay any amount payable by him by way of the levy on or before the date prescribed by the order, a sum equal to five per centum of the amount shall be added to the amount due for each month or part thereof during which the amount due remains unpaid.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, in consultation with the Board, by order published in the Gazette, impose a levy to be known as the Retirement Benefits Levy on the contributions made to scheme funds, or on the assets of such funds, or on such other base as he may determine."
+    },
+    {
+     "ref": "(2)",
+     "text": "A levy imposed under this section shall be payable at such rate as may be specified in the order. (3) An order under this section may contain provisions as to the time at which any amount payable by way of the levy shall become due. (4) All moneys received in respect of the levy shall be paid into the Fund and if not paid on or before the date prescribed by the order, the amount due and any sum payable under subsection (5) shall be a civil debt recoverable summarily by the Authority. (5) If a person fails to pay any amount payable by him by way of the levy on or before the date prescribed by the order, a sum equal to five per centum of the amount shall be added to the amount due for each month or part thereof during which the amount due remains unpaid."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "The Retirement Benefits Authority Fund",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "(1) There is established a fund to be known as the Retirement Benefits Authority Fund which shall vest in the Authority.\n(2) There shall be paid into the Fund—\n  (a) all proceeds of the levy established by section 16;\n  (b) such moneys or assets as may accrue to or vest in the Authority in the course of the exercise of its powers or the performance of its functions under this Act;\n  (c) such sums as may be payable to the Authority pursuant to this Act or any other written law, or pursuant to any gift or trust;\n  (d) such sums as may be granted to the Authority by the Cabinet Secretary pursuant to subsection (3); and (e) all moneys from any other source provided for or donated or lent to the Authority.\n(3) There shall be made to the Authority out of moneys provided by Parliament for that purpose, grants towards the expenditure incurred by the Board in the exercise of its powers of the performance of its functions under this Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a fund to be known as the Retirement Benefits Authority Fund which shall vest in the Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "There shall be paid into the Fund— (a) all proceeds of the levy established by section 16; (b) such moneys or assets as may accrue to or vest in the Authority in the course of the exercise of its powers or the performance of its functions under this Act; (c) such sums as may be payable to the Authority pursuant to this Act or any other written law, or pursuant to any gift or trust; (d) such sums as may be granted to the Authority by the Cabinet Secretary pursuant to subsection (3); and (e) all moneys from any other source provided for or donated or lent to the Authority."
+    },
+    {
+     "ref": "(3)",
+     "text": "There shall be made to the Authority out of moneys provided by Parliament for that purpose, grants towards the expenditure incurred by the Board in the exercise of its powers of the performance of its functions under this Act."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Investment of funds of the Authority",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "(1) The Authority may invest any of its funds in securities which for the time being trustees may by law invest trust funds, or in any other securities which the Treasury may, from time to time, approve.\n(2) The Authority may place on deposit with such bank or banks as it may determine, any moneys not immediately required for the purposes of the Authority.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority may invest any of its funds in securities which for the time being trustees may by law invest trust funds, or in any other securities which the Treasury may, from time to time, approve."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority may place on deposit with such bank or banks as it may determine, any moneys not immediately required for the purposes of the Authority."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Financial year",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "The financial year of the Authority shall be the period of twelve months ending on the thirtieth June in each year.",
+   "clauses": []
+  },
+  "20": {
+   "num": "20",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "(1) Before the commencement of each financial year, the Board shall cause to be prepared estimates of revenue and expenditure of the Authority for that year.\n(2) The annual estimates shall make provision for all the estimated expenditure of the Authority for the financial year and in particular, the estimates shall provide for—\n  (a) the payment of the salaries, allowances and other charges in respect of the staff of the Authority;\n  (b) the payment of pensions, gratuities and other charges in respect of the retirement benefits which are payable out of the funds of the Authority;\n  (c) the proper maintenance of the buildings and grounds of the Authority;\n  (d) the maintenance, repair and replacement of the equipment and other property of the Authority;\n  (e) the creation of such reserve funds to meet future or contingent liabilities in respect of retirement benefits, insurance or replacement of buildings or equipment, or in respect of such other matter as the Board may deem appropriate.\n(3) The annual estimates shall be prepared at least three months before commencement of the financial year to which they relate and shall be submitted to the Board for approval and after such approval, the Authority shall not increase the annual estimates without the consent of the Cabinet Secretary.\n(4) No expenditure shall be incurred for the purposes of the Board except in accordance with the annual estimates approved under this section or in pursuance of an authorisation of the Authority given with the prior approval of the Cabinet Secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Before the commencement of each financial year, the Board shall cause to be prepared estimates of revenue and expenditure of the Authority for that year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall make provision for all the estimated expenditure of the Authority for the financial year and in particular, the estimates shall provide for—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual estimates shall be prepared at least three months before commencement of the financial year to which they relate and shall be submitted to the Board for approval and after such approval, the Authority shall not increase the annual estimates without the consent of the Cabinet Secretary."
+    },
+    {
+     "ref": "(4)",
+     "text": "No expenditure shall be incurred for the purposes of the Board except in accordance with the annual estimates approved under this section or in pursuance of an authorisation of the Authority given with the prior approval of the Cabinet Secretary."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE RETIREMENT BENEFITS AUTHORITY",
+   "text": "(1) The Authority shall cause to be kept all proper books and records of account of the income, expenditure and assets of the Authority.\n(2) Within a period of four months after the end of each financial year, the Board shall submit to the Auditor-General or an auditor appointed under this section, the accounts of the authority together with—\n  (a) a statement of income and expenditure during that year; and\n  (b) a statement of the assets and liabilities of the Authority on the last day of that year.\n(3) The accounts of the Authority shall be audited and reported upon in accordance with the Public Audit Act (Cap. 412B) by the Auditor-General.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority shall cause to be kept all proper books and records of account of the income, expenditure and assets of the Authority."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within a period of four months after the end of each financial year, the Board shall submit to the Auditor-General or an auditor appointed under this section, the accounts of the authority together with—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The accounts of the Authority shall be audited and reported upon in accordance with the Public Audit Act (Cap. 412B) by the Auditor-General."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Retirement benefits schemes, managers, corporate trustees, custodians and administrators to be registered",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF RETIREMENT BENEFITS SCHEMES, MANAGERS, CUSTODIANS AND ADMINISTRATORS",
+   "text": "(1) No person shall establish a retirement benefits scheme except in accordance with the provisions of this Act and under the authority of a certificate issued under this Act.\n(2) No person shall act as a manager, corporate trustee, custodian or administrator unless such person is registered under this Act and holds a valid certificate of registration issued pursuant to the provisions of this Act.\n(2A) The provisions relating to administrators under subsection (2) shall not apply to natural persons who are employees of a scheme.\n(3) The Authority shall, in consultation with the Cabinet Secretary, by notice in the Gazette and by public advertisement in at least one daily newspaper of wide circulation, publish a list of all registered managers, corporate trustees, custodians and administrators at least once in every calendar year.\n(4) A person who—\n  (a) establishes a retirement benefits scheme; or\n  (b) acts as a manager, corporate trustee or custodian, contrary to the provisions of this section commits an offence and shall be liable on conviction, to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding two years, or to both.\n(Act No. 7 of 1998, s. 4, Act No. 8 of 2003, s. 3, Act No. 2 of 2006, ss. 4(a), 4(b) & 4(c), Act No. 8 of 2021, s. 61)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No person shall establish a retirement benefits scheme except in accordance with the provisions of this Act and under the authority of a certificate issued under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "No person shall act as a manager, corporate trustee, custodian or administrator unless such person is registered under this Act and holds a valid certificate of registration issued pursuant to the provisions of this Act."
+    },
+    {
+     "ref": "(2A)",
+     "text": "The provisions relating to administrators under subsection (2) shall not apply to natural persons who are employees of a scheme."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Authority shall, in consultation with the Cabinet Secretary, by notice in the Gazette and by public advertisement in at least one daily newspaper of wide circulation, publish a list of all registered managers, corporate trustees, custodians and administrators at least once in every calendar year."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person who—"
+    }
+   ]
+  },
+  "22A": {
+   "num": "22A",
+   "title": "Criteria for suitability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF RETIREMENT BENEFITS SCHEMES, MANAGERS, CUSTODIANS AND ADMINISTRATORS",
+   "text": "(1) The Authority shall, in determining whether a person is suitable to act as a trustee, manager, custodian or an administrator under this Act, consider the—\n  (a) financial status or solvency of the person;\n  (b) educational or other qualifications or experience of the person, having regard to the nature of the functions which, if the application is granted, the person shall perform;\n  (c) status of any other licence or approval granted to the person by any financial sector regulator;\n  (d) ability of the person to carry on the regulated activity competently, honestly and fairly; and\n  (e) reputation, character, financial integrity and reliability—\n  (i) in the case of a natural person, of that individual; or\n  (ii) in the case of a company, of the company, its chairperson, directors, chief executive, management and all other personnel including all duly appointed agents, and any substantial shareholder of the company, if the chairperson, director, chief executive, management or the personnel are shareholders of the company.\n(2) Without prejudice to the generality of subsection (1), the Authority may, in considering whether a person is fit and proper—\n  (a) take into account whether the person—\n  (i) has contravened the provision of any law, in Kenya or elsewhere, designed for the protection of members of the public against financial loss due to dishonesty, incompetence, or malpractice by persons engaged in transacting with marketable securities;\n  (ii) was a director of a licensed person who has been liquidated or is under liquidation or statutory management;\n  (iii) has taken part in any business practice which, in the opinion of the Authority, was fraudulent prejudicial to the market or public interest, or was otherwise improper, which would otherwise discredit the person's methods of conducting business; or\n  (iv) has taken part or has been associated with any business practice which casts doubt on the competence or soundness of judgment of that person; or\n  (v) has acted in such a manner as to cast doubt on the person's competence and soundness of judgment;\n  (b) take into account any information in the possession of the Authority, whether provided by the applicant or not, relating to—\n  (i) any person who is to be employed by, associated with, or who shall be acting for or on behalf of, the applicant for the purposes of a regulated activity, including an agent;\n(A) any other company in the same group of companies; or (B) any substantial shareholder or key personnel of the company or any company referred to in subparagraph (a);\n  (ii) where the applicant is a company in a group of companies—\n  (c) take into account whether the applicant has established effective internal control procedures and risk management systems to ensure its compliance with all applicable regulatory requirements; and\n  (d) have regard to the state of affairs of any other business which the person carries on or purports to carry on.\n(3) The Authority shall give a person an opportunity to be heard before determining whether a person is fit and proper for the purposes of this Act.\n(4) For the purposes of this section, \"group of companies\" means any two or more companies one of which is the holding company of the others.\n(Act No. 38 of 2013, s. 25)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority shall, in determining whether a person is suitable to act as a trustee, manager, custodian or an administrator under this Act, consider the—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), the Authority may, in considering whether a person is fit and proper—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Authority shall give a person an opportunity to be heard before determining whether a person is fit and proper for the purposes of this Act."
+    },
+    {
+     "ref": "(4)",
+     "text": "For the purposes of this section, \"group of companies\" means any two or more companies one of which is the holding company of the others."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF RETIREMENT BENEFITS SCHEMES, MANAGERS, CUSTODIANS AND ADMINISTRATORS",
+   "text": "(1) A person proposing to establish a retirement benefits scheme or to act as a manager, corporate trustee, a custodian or an administrator shall apply to the Authority for, and obtain, a certificate of registration before establishing the scheme or commencing the performance of any of the functions of a manager, corporate trustee, a custodian or an administrator.\n(2) An application under subsection (1) shall be—\n  (a) addressed to the Chief Executive Officer;\n  (b) in the prescribed form; and\n  (c) accompanied by the prescribed fee. (3) In considering an application under this section, the Authority may request the applicant to supply such additional information as it considers necessary in determining the application. (4) The Authority may, subject to the provisions of this Act and on payment of the prescribed fee, register the applicant and issue to the applicant a certificate of registration in the prescribed form, authorising the applicant to establish a retirement benefits scheme, or to act as a manager, corporate trustee, a custodian or an administrator as the case may be. (5) A certificate issued under this section shall be subject to such conditions as the Authority may, in consultation with Cabinet Secretary, impose.\n(Act No. 7 of 1998, s. 5, Act No. 2 of 2006, s. 5, Act No. 8 of 2021, s. 62)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person proposing to establish a retirement benefits scheme or to act as a manager, corporate trustee, a custodian or an administrator shall apply to the Authority for, and obtain, a certificate of registration before establishing the scheme or commencing the performance of any of the functions of a manager, corporate trustee, a custodian or an administrator."
+    },
+    {
+     "ref": "(2)",
+     "text": "An application under subsection (1) shall be—"
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Requirements for registration of schemes",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF RETIREMENT BENEFITS SCHEMES, MANAGERS, CUSTODIANS AND ADMINISTRATORS",
+   "text": "(1) No scheme, other than a scheme established by a written law shall be registered under this Act unless—\n  (a) it is proposed to be established under an irrevocable trust; and (b) the proposed scheme rules adequately protect the rights and interests of the sponsors and members thereof.\n(2) No scheme shall be registered under this Act unless the trustees thereof satisfy the requirements specified in section 26.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No scheme, other than a scheme established by a written law shall be registered under this Act unless— (a) it is proposed to be established under an irrevocable trust; and (b) the proposed scheme rules adequately protect the rights and interests of the sponsors and members thereof."
+    },
+    {
+     "ref": "(2)",
+     "text": "No scheme shall be registered under this Act unless the trustees thereof satisfy the requirements specified in section 26."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Requirements for registration of managers and custodians",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF RETIREMENT BENEFITS SCHEMES, MANAGERS, CUSTODIANS AND ADMINISTRATORS",
+   "text": "No applicant for registration as a manager shall be registered unless such applicant—\n  (a) is a limited liability company incorporated under the Companies Act (Cap. 486) whose liability is limited by shares and whose main object is to manage scheme funds;\n  (b) has such minimum paid up share capital as may be prescribed;\n  (c) is capable of meeting the obligations to members and sponsor specified in the scheme rules;\n  (d) has the professional capacity to manage scheme funds;\n  (e) has never been involved in the management of the scheme fund of any scheme which was deregistered due to any failure on the part of the management; and (f) meets such additional requirements as may be prescribed.",
+   "clauses": []
+  },
+  "25A": {
+   "num": "25A",
+   "title": "Requirements for registration of custodians",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF RETIREMENT BENEFITS SCHEMES, MANAGERS, CUSTODIANS AND ADMINISTRATORS",
+   "text": "No applicant for registration as a custodian shall be registered unless such applicant—\n  (a) is a limited liability company incorporated under the Companies Act (Cap. 486) whose main function is to perform the functions of a custodian within the meaning of this Act;\n  (b) has the professional and technical capacity and adequate operational systems to perform the said functions;\n  (c) has never been a custodian of any scheme fund which was deregistered due to any fault, either fully or partially, of the custodian, and (d) meets such additional requirements as may be prescribed. (Act No. 7 of 1998, s. 6)",
+   "clauses": []
+  },
+  "25B": {
+   "num": "25B",
+   "title": "Requirements for registration of administrators",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF RETIREMENT BENEFITS SCHEMES, MANAGERS, CUSTODIANS AND ADMINISTRATORS",
+   "text": "(1) No applicant for registration as a scheme administrator shall be registered unless such applicant—\n  (a) is a limited liability company incorporated under the Companies Act (Cap. 486), whose liability is limited by shares and whose main objective is to render administrative services to schemes;\n  (b) has such minimum paid up share capital as may, from time to time, be prescribed;\n  (c) is capable of meeting the obligations to members and sponsors specified in the scheme rules;\n  (d) has the professional and technical capacity and adequate operational systems to perform it’s functions;\n  (e) has never been an administrator of any scheme fund which has been either deregistered, wound up or placed under an interim administrator due to any fault, either fully or partially, of the administrator;\n  (ee) has in its Board of Directors and top management such number of persons as may be prescribed who are academically and professionally qualified in matters relating to administration of schemes, insurance, law, accounting, actuarial science, economics, banking, finance or investment of scheme funds;\n  (eb) has at least thirty three percent of its paid up share capital owned by Kenyan citizens unless the applicant is a bank or an insurance company; and\n  (f) meets such additional requirements as may, from time to time, be prescribed.\n(2) A person registered as a scheme administrator under this Act shall comply with the provisions of paragraph (eb) of subsection (1) within six months from the date of commencement of that paragraph.\n(Act No. 2 of 2006, s. 6, Act No. 18 of 2014, Sch., Act No. 4 of 2023, Sch.)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No applicant for registration as a scheme administrator shall be registered unless such applicant—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person registered as a scheme administrator under this Act shall comply with the provisions of paragraph (eb) of subsection (1) within six months from the date of commencement of that paragraph."
+    }
+   ]
+  },
+  "25C": {
+   "num": "25C",
+   "title": "Requirements for the registration of corporate trustees",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF RETIREMENT BENEFITS SCHEMES, MANAGERS, CUSTODIANS AND ADMINISTRATORS",
+   "text": "An applicant shall be registered by the Authority as a corporate trustee if that applicant—\n  (a) has such minimum paid up share capital as may be prescribed by the Authority;\n  (b) is capable of meeting the obligations to members and sponsors as specified in the scheme rules;\n  (c) has the professional and technical capacity and adequate operational systems to perform its functions;\n  (d) has never been a corporate trustee of any scheme fund which has been deregistered, wound up or placed under an interim administrator due to any fault, either fully or partially, of the corporate trustee;\n  (e) has never been involved in the management or administration of a scheme which was deregistered for any failure on the part of the management or the administration thereof;\n  (f) has in its board of directors and senior management such number of persons as may be prescribed who are academically and professionally qualified in matters relating to administration of schemes, insurance, law, accounting, actuarial science, economics, banking, finance or investment of scheme funds; and\n  (g) meets such additional requirements as may be prescribed by the Authority.\n(Act No. 8 of 2021, s. 63)",
+   "clauses": []
+  },
+  "26": {
+   "num": "26",
+   "title": "Requirements with regard to trustees",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF RETIREMENT BENEFITS SCHEMES, MANAGERS, CUSTODIANS AND ADMINISTRATORS",
+   "text": "(1) Every scheme, other than a scheme established by a written law shall be established under an irrevocable trust.\n(2) No person shall be a trustee of any scheme fund if such person—\n  (a) has been sentenced to imprisonment by a court of competent jurisdiction for a period of six months of more;\n  (b) is adjudged bankrupt;\n  (c) was previously involved in the management or administration of a scheme which was deregistered for any failure on the part of the management or the administration thereof;\n  (d) is disqualified under any other written law, or his holding office as such is deemed by the Authority as being, in any way, detrimental to the scheme; or (e) does not comply with the guidelines or practice notes issued by the Authority.\n(3) Not withstanding the provisions of subsection (2), the appointment of any person as a trustee shall be subject to approval by the Authority. (Act No. 2 of 2006, s. 7, Act No. 15 of 2017, s. 44)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every scheme, other than a scheme established by a written law shall be established under an irrevocable trust."
+    },
+    {
+     "ref": "(2)",
+     "text": "No person shall be a trustee of any scheme fund if such person— (a) has been sentenced to imprisonment by a court of competent jurisdiction for a period of six months of more; (b) is adjudged bankrupt; (c) was previously involved in the management or administration of a scheme which was deregistered for any failure on the part of the management or the administration thereof; (d) is disqualified under any other written law, or his holding office as such is deemed by the Authority as being, in any way, detrimental to the scheme; or (e) does not comply with the guidelines or practice notes issued by the Authority."
+    },
+    {
+     "ref": "(3)",
+     "text": "Not withstanding the provisions of subsection (2), the appointment of any person as a trustee shall be subject to approval by the Authority. (Act No. 2 of 2006, s. 7, Act No. 15 of 2017, s. 44)"
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Refusal of registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF RETIREMENT BENEFITS SCHEMES, MANAGERS, CUSTODIANS AND ADMINISTRATORS",
+   "text": "(1) The Authority may refuse to register any scheme, manager, corporate trustee, custodian or administrator under section 23 if satisfied that—\n  (a) the information contained in the application for registration is false or untrue in any material particular; or (b) the applicant does not meet the requirements for registration.\n(2) Where the Authority refuses to register any scheme, manager, corporate trustee, or custodian, it shall forthwith notify the applicant in the prescribed form, specifying the reasons for such refusal. (Act No. 7 of 1998, s. 7, Act No. 2 of 2006, s. 8, Act No. 8 of 2021, s. 64)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Authority may refuse to register any scheme, manager, corporate trustee, custodian or administrator under section 23 if satisfied that— (a) the information contained in the application for registration is false or untrue in any material particular; or (b) the applicant does not meet the requirements for registration."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Authority refuses to register any scheme, manager, corporate trustee, or custodian, it shall forthwith notify the applicant in the prescribed form, specifying the reasons for such refusal. (Act No. 7 of 1998, s. 7, Act No. 2 of 2006, s. 8, Act No. 8 of 2021, s. 64)"
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Deregistration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF RETIREMENT BENEFITS SCHEMES, MANAGERS, CUSTODIANS AND ADMINISTRATORS",
+   "text": "(1) Subject to subsection (2), the Authority may deregister a scheme if—\n  (a) it discovers after registration that a statement was made in connection with the application therefore which the applicant knew to be false or untrue in any material particular; or (b) the scheme is wound up or is otherwise dissolved; or (c) the scheme does not conform to the provisions of this Act or any regulations made or directions issued under this Act or any condition of the certificate of registration.\n(2) The Authority shall, before deregistering a scheme, give the trustees, sponsors and members of the scheme at least twenty-eight days notice of its intention and shall consider any representations made to it in writing by the trustees, sponsors or members within that period before deregistering the scheme.\n(3) Subject to subsection (4), the Authority may deregister a manager, corporate trustee, custodian or administrator if—\n  (a) it discovers after registration that the manager, corporate trustee, custodian or administrator made a statement in or in connection with the application therefor which was false or untrue in any material particular; or\n  (b) any event occurs which renders the manager, corporate trustee, custodian or administrator ineligible to manage or provide custodial services to a scheme fund, as the case may be;\n  (c) the manager’s, corporate trustee's, custodian’s or administrator’s business is wound up or is otherwise dissolved;\n  (d) the manager, corporate trustee, custodian or administrator is in breach of any condition attached to the certificate of registration; or\n  (e) the manager, corporate trustee, custodian or administrator does not comply with any of provisions of this Act, or with any regulations made or directions issued thereunder.\n(4) The Authority shall, before deregistering a manager, corporate trustee or custodian, give the manager, corporate trustee or custodian and the sponsors or trustees of the scheme at least twentyeight days notice of its intention, and shall consider any representations made to it in writing by the manager, corporate trustee or custodian within that period before deregistering the manager, corporate trustee or custodian.\n(5) Every notice under subsections (2) and (4) shall be in the prescribed form and shall specify the reasons for the intended deregistration.\n(6) The deregistration of a scheme shall not in any way prejudice the claims of members under the scheme.\n(7) Where the assets of a deregistered scheme are insufficient to fully discharge its obligations to its members, the Chief Executive Officer may, subject to the approval of the Board, take over the distribution or transfer of the assets and the supervision of the scheme in order to protect the interests of members.\n(Act No. 7 of 1998, s. 8, Act No. 2 of 2006, s. 9, Act No. 8 of 2021, s. 65)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2), the Authority may deregister a scheme if— (a) it discovers after registration that a statement was made in connection with the application therefore which the applicant knew to be false or untrue in any material particular; or (b) the scheme is wound up or is otherwise dissolved; or (c) the scheme does not conform to the provisions of this Act or any regulations made or directions issued under this Act or any condition of the certificate of registration."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority shall, before deregistering a scheme, give the trustees, sponsors and members of the scheme at least twenty-eight days notice of its intention and shall consider any representations made to it in writing by the trustees, sponsors or members within that period before deregistering the scheme."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to subsection (4), the Authority may deregister a manager, corporate trustee, custodian or administrator if— (a) it discovers after registration that the manager, corporate trustee, custodian or administrator made a statement in or in connection with the application therefor which was false or untrue in any material particular; or"
+    },
+    {
+     "ref": "(4)",
+     "text": "The Authority shall, before deregistering a manager, corporate trustee or custodian, give the manager, corporate trustee or custodian and the sponsors or trustees of the scheme at least twentyeight days notice of its intention, and shall consider any representations made to it in writing by the manager, corporate trustee or custodian within that period before deregistering the manager, corporate trustee or custodian."
+    },
+    {
+     "ref": "(5)",
+     "text": "Every notice under subsections (2) and (4) shall be in the prescribed form and shall specify the reasons for the intended deregistration."
+    },
+    {
+     "ref": "(6)",
+     "text": "The deregistration of a scheme shall not in any way prejudice the claims of members under the scheme."
+    },
+    {
+     "ref": "(7)",
+     "text": "Where the assets of a deregistered scheme are insufficient to fully discharge its obligations to its members, the Chief Executive Officer may, subject to the approval of the Board, take over the distribution or transfer of the assets and the supervision of the scheme in order to protect the interests of members."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Duration and renewal of certificates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF RETIREMENT BENEFITS SCHEMES, MANAGERS, CUSTODIANS AND ADMINISTRATORS",
+   "text": "(1) Subject to this Act, a certificate of registration issued in respect of a scheme shall be valid from the date of issue and shall remain in force until the scheme is deregistered or wound up in accordance with the scheme rules or the provisions of the written law under which the scheme is established.\n(2) A certificate of registration issued to a manager, corporate trustee, custodian or administrator shall be valid from the date of issue and shall, unless suspended or revoked, remain valid.\n(3) A manager, corporate trustee, custodian or administrator shall pay such annual fee as may be prescribed by the Authority.\n(4) A manager, corporate trustee, custodian or administrator shall submit current audited financial statements, a list of the directors and top management, any changes in clientele and such further information as the Authority may request by the 30th September of every year.\n(5) A manager, corporate trustee, custodian or administrator shall communicate to the Authority any changes in shareholding, directorship or top management within thirty days after the change has occurred.\n(Act No. 7 of 1998, s. 9, Act No. 2 of 2006, s. 10, Act No. 38 of 2016, s. 46, Act No. 8 of 2021, s. 66)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this Act, a certificate of registration issued in respect of a scheme shall be valid from the date of issue and shall remain in force until the scheme is deregistered or wound up in accordance with the scheme rules or the provisions of the written law under which the scheme is established."
+    },
+    {
+     "ref": "(2)",
+     "text": "A certificate of registration issued to a manager, corporate trustee, custodian or administrator shall be valid from the date of issue and shall, unless suspended or revoked, remain valid."
+    },
+    {
+     "ref": "(3)",
+     "text": "A manager, corporate trustee, custodian or administrator shall pay such annual fee as may be prescribed by the Authority."
+    },
+    {
+     "ref": "(4)",
+     "text": "A manager, corporate trustee, custodian or administrator shall submit current audited financial statements, a list of the directors and top management, any changes in clientele and such further information as the Authority may request by the 30th September of every year."
+    },
+    {
+     "ref": "(5)",
+     "text": "A manager, corporate trustee, custodian or administrator shall communicate to the Authority any changes in shareholding, directorship or top management within thirty days after the change has occurred."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF RETIREMENT BENEFITS SCHEMES, MANAGERS, CUSTODIANS AND ADMINISTRATORS",
+   "text": "(1) The Chief Executive Officer shall keep a register in such form as the Board may determine, of all schemes, managers, corporate trustees, custodians and administrators registered under this Act and shall enter therein, in respect of the schemes, managers, corporate trustees and custodians, such particulars as the Board may specify.\n(2) The Board may determine the time or times during which, and the extent to which any person may, on payment of the prescribed fee, inspect the register kept under this section or obtain copies thereof.\n(Act No. 7 of 1998, s. 10, Act No. 2 of 2006, s. 11, Act No. 8 of 2021, s. 67)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Chief Executive Officer shall keep a register in such form as the Board may determine, of all schemes, managers, corporate trustees, custodians and administrators registered under this Act and shall enter therein, in respect of the schemes, managers, corporate trustees and custodians, such particulars as the Board may specify."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Board may determine the time or times during which, and the extent to which any person may, on payment of the prescribed fee, inspect the register kept under this section or obtain copies thereof."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Use of register in evidence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "REGISTRATION OF RETIREMENT BENEFITS SCHEMES, MANAGERS, CUSTODIANS AND ADMINISTRATORS",
+   "text": "(1) For the purposes of ascertaining the facts concerning the registration of a scheme, manager, corporate trustee, custodian or administrator, entries made in the register shall be prima facie evidence as to the facts specified in the register.\n(2) A document certified by the Chief Executive Officer as a true copy or extract from the register shall be admissible in any court as prima facie evidence of the contents of the register.\n(Act No. 7 of 1998, s. 11, Act No. 2 of 2006, s. 12, Act No. 8 of 2021, s. 68)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "For the purposes of ascertaining the facts concerning the registration of a scheme, manager, corporate trustee, custodian or administrator, entries made in the register shall be prima facie evidence as to the facts specified in the register."
+    },
+    {
+     "ref": "(2)",
+     "text": "A document certified by the Chief Executive Officer as a true copy or extract from the register shall be admissible in any court as prima facie evidence of the contents of the register."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Scheme funds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATION AND SUPERVISION OF RETIREMENT BENEFITS SCHEMES",
+   "text": "(1) There shall be, in respect of every scheme other than a scheme fully funded out of the Consolidated Fund, a scheme fund into which all contributions, investment earnings, income and all other moneys payable under the scheme rules or the provisions of this Act shall be paid.\n(2) The scheme fund and all monies therein shall at all times be maintained separately from any other funds under the control of the trustees or the manager thereof.\n(3) Subject to the provisions of this Act, the Cabinet Secretary may, in consultation with the Authority, make regulations with regard to the funding, vesting, custody, management, application and the transfer of scheme funds and the accounting for such funds.\n(Act No. 8 of 2012, s. 59)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be, in respect of every scheme other than a scheme fully funded out of the Consolidated Fund, a scheme fund into which all contributions, investment earnings, income and all other moneys payable under the scheme rules or the provisions of this Act shall be paid."
+    },
+    {
+     "ref": "(2)",
+     "text": "The scheme fund and all monies therein shall at all times be maintained separately from any other funds under the control of the trustees or the manager thereof."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to the provisions of this Act, the Cabinet Secretary may, in consultation with the Authority, make regulations with regard to the funding, vesting, custody, management, application and the transfer of scheme funds and the accounting for such funds."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Statutory contributions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATION AND SUPERVISION OF RETIREMENT BENEFITS SCHEMES",
+   "text": "(1) Notwithstanding the provisions of any written law for the time being in force, an employer may, with the approval of his employees, pay any statutory contributions in respect of such employees into any scheme fund prescribed for that purpose:\nProvided that where such payment involves a transfer of funds from another scheme fund, the employer shall, at least sixty days before commencing such payment, give written notice thereof to the Authority and to the trustees of the scheme fund from which such funds shall be transferred.\n(2) In this section, the expression “statutory contributions” means contributions required under the provisions of a written law to be paid into a retirement benefits scheme.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Notwithstanding the provisions of any written law for the time being in force, an employer may, with the approval of his employees, pay any statutory contributions in respect of such employees into any scheme fund prescribed for that purpose:"
+    },
+    {
+     "ref": "(2)",
+     "text": "In this section, the expression “statutory contributions” means contributions required under the provisions of a written law to be paid into a retirement benefits scheme."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Annual report and accounts",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATION AND SUPERVISION OF RETIREMENT BENEFITS SCHEMES",
+   "text": "(1) The trustees of every scheme shall cause to be kept all proper books and records of account of the income, expenditure and assets of the scheme fund.\n(2) Within a period of three months after the end of each financial year, the trustees shall cause to be prepared in respect of the scheme fund—\n  (a) statement of assets and liabilities;\n  (b) a statement of income and expenditure;\n  (c) a statement of the assets and liabilities of the scheme as on the last day of that year; and\n  (d) such other documents as may be prescribed.\n(3) The accounts of the scheme fund in respect of each financial year shall be audited by an auditor appointed by the trustees with the approval of the Board:\nProvided that the appointed auditor shall not be a member, trustee or sponsor of the scheme.\n(4) Within three months after the end of each financial year, the trustees shall submit a copy of the audited accounts of the scheme to the Chief Executive Officer.\n(4A) A trustee who fails to submit a copy of the audited accounts, in respect of a scheme, to the Chief Executive Officer pursuant to subsection (4) commits an offence and shall be liable, on conviction, to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding two years or to both.\n(4B) Where an offence under subsection (4A) is continuing offence, the person convicted shall, in addition to the penalty prescribed under the subsection, be liable to further fine of five thousand shillings for each day or part thereof during which the offence continues.\n(4C) A trustee who fails to submit a copy of audited accounts of the scheme to the Chief Executive Officer by the due date shall pay a penalty of one hundred thousand shillings and where the returns remain un-submitted, the trustee, in addition to the prescribed penalty, shall pay a further fine of one thousand shillings for each day or part thereof during which the returns remain un-submitted:\nProvided that a person who pays a penalty under this subsection may also be liable to prosecution in court under subsection (4A).\n(4D) A fund manager who fails to submit an investment return of a scheme to the Chief Executive Officer by the due date shall pay a penalty of ten thousand shillings and where the returns remain unsubmitted, the fund manager, in addition to the prescribed penalty shall pay a further fine of one thousand shillings for every day or part thereof during which the returns remain unsubmitted.\n(4E) An administrator who fails to submit contribution returns of a scheme to the Chief Executive Officer by the due date shall pay a penalty of ten thousand shillings and where the returns remain unsubmitted, the administrator, in addition to the prescribed penalty, shall pay a further fine of one thousand shillings for every day or part thereof during which the returns remain unsubmitted.\n(4F) Despite the provisions of subsection (4)—\n  (a) the Authority may, on application by the Trustees, extend the time specified in subsection (4) for a period not exceeding three months, if the extension appears justified; and\n  (b) where an extension of time is granted, the penalty prescribed for late submission shall not apply for the extended period.\n(5) Every scheme shall publish its annual accounts in such manner as the Cabinet Secretary may, in consultation with the Authority, prescribe.\n(Act No. 7 of 1998, s. 12, Act No. 7 of 2002, s. 61, Act No. 8 of 2003, s. 4, Act No. 9 of 2007, s. 71, Act No. 14 of 2015, s. 47, Act No. 15 of 2017, s. 45, Act No. 10 of 2018, s. 72, Act No. 8 of 2021, s. 69)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The trustees of every scheme shall cause to be kept all proper books and records of account of the income, expenditure and assets of the scheme fund."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within a period of three months after the end of each financial year, the trustees shall cause to be prepared in respect of the scheme fund—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The accounts of the scheme fund in respect of each financial year shall be audited by an auditor appointed by the trustees with the approval of the Board:"
+    },
+    {
+     "ref": "(4)",
+     "text": "Within three months after the end of each financial year, the trustees shall submit a copy of the audited accounts of the scheme to the Chief Executive Officer."
+    },
+    {
+     "ref": "(4A)",
+     "text": "A trustee who fails to submit a copy of the audited accounts, in respect of a scheme, to the Chief Executive Officer pursuant to subsection (4) commits an offence and shall be liable, on conviction, to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding two years or to both."
+    },
+    {
+     "ref": "(4B)",
+     "text": "Where an offence under subsection (4A) is continuing offence, the person convicted shall, in addition to the penalty prescribed under the subsection, be liable to further fine of five thousand shillings for each day or part thereof during which the offence continues."
+    },
+    {
+     "ref": "(4C)",
+     "text": "A trustee who fails to submit a copy of audited accounts of the scheme to the Chief Executive Officer by the due date shall pay a penalty of one hundred thousand shillings and where the returns remain un-submitted, the trustee, in addition to the prescribed penalty, shall pay a further fine of one thousand shillings for each day or part thereof during which the returns remain un-submitted:"
+    },
+    {
+     "ref": "(4D)",
+     "text": "A fund manager who fails to submit an investment return of a scheme to the Chief Executive Officer by the due date shall pay a penalty of ten thousand shillings and where the returns remain unsubmitted, the fund manager, in addition to the prescribed penalty shall pay a further fine of one thousand shillings for every day or part thereof during which the returns remain unsubmitted."
+    },
+    {
+     "ref": "(4E)",
+     "text": "An administrator who fails to submit contribution returns of a scheme to the Chief Executive Officer by the due date shall pay a penalty of ten thousand shillings and where the returns remain unsubmitted, the administrator, in addition to the prescribed penalty, shall pay a further fine of one thousand shillings for every day or part thereof during which the returns remain unsubmitted."
+    },
+    {
+     "ref": "(4F)",
+     "text": "Despite the provisions of subsection (4)—"
+    },
+    {
+     "ref": "(5)",
+     "text": "Every scheme shall publish its annual accounts in such manner as the Cabinet Secretary may, in consultation with the Authority, prescribe."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Actuarial evaluations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATION AND SUPERVISION OF RETIREMENT BENEFITS SCHEMES",
+   "text": "(1) The Board may require the trustees of such schemes or categories of schemes as it may specify, to cause the schemes to be evaluated by an actuary appointed by the trustees with the approval of the Board and to present the actuarial report to the Chief Executive Officer at such regular intervals as the Board may specify.\n(2) A trustee who fails to submit a copy of the actuarial report to the Chief Executive Officer by the due date specified in the regulations shall pay a penalty of one hundred thousand shillings.\n(3) Where the report remains unsubmitted, the trustee, in addition to the penalty specified under subsection (2), shall pay a further penalty of one thousand shillings for each day or part thereof during which the report remains unsubmitted.\n(Act No. 8 of 2020, s. 37)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Board may require the trustees of such schemes or categories of schemes as it may specify, to cause the schemes to be evaluated by an actuary appointed by the trustees with the approval of the Board and to present the actuarial report to the Chief Executive Officer at such regular intervals as the Board may specify."
+    },
+    {
+     "ref": "(2)",
+     "text": "A trustee who fails to submit a copy of the actuarial report to the Chief Executive Officer by the due date specified in the regulations shall pay a penalty of one hundred thousand shillings."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the report remains unsubmitted, the trustee, in addition to the penalty specified under subsection (2), shall pay a further penalty of one thousand shillings for each day or part thereof during which the report remains unsubmitted."
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Protection against attachment",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATION AND SUPERVISION OF RETIREMENT BENEFITS SCHEMES",
+   "text": "Notwithstanding anything to the contrary contained in any other written law, where a judgement or order against a member of a scheme is made, no execution or attachment or process of any nature shall be issued in respect of the contributions or funds of the member or his employer except in accordance with the scheme rules and such contributions shall not form part of the assets of the member or of his employer in the event of bankruptcy.",
+   "clauses": []
+  },
+  "36A": {
+   "num": "36A",
+   "title": "Treatment of death benefits",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATION AND SUPERVISION OF RETIREMENT BENEFITS SCHEMES",
+   "text": "Upon the death of a member of a scheme, the benefit payable from the scheme shall not form part of the estate of the member for the purpose of administration and shall be paid out by the trustees in accordance with the scheme rules.\n(Act No. 9 of 2007, s. 72)",
+   "clauses": []
+  },
+  "37": {
+   "num": "37",
+   "title": "Investment of scheme funds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATION AND SUPERVISION OF RETIREMENT BENEFITS SCHEMES",
+   "text": "(1) Every scheme shall have a prudent investment policy on the investment of the funds of the scheme so as to maintain the capital funds of the scheme and generally to secure market rates of return on such investment:\nProvided that a scheme with a fund value of one hundred million Kenya shillings or less may invest up to one hundred per centum of its scheme funds in Government securities.\n(2) Notwithstanding the provisions of any other written law, the investment policy of a scheme shall be implemented subject to any regulations the Cabinet Secretary may, in consultation with the Authority, make for that purpose.\n(3) There shall be submitted to the Chief Executive Officer, in respect of every scheme, a statement of all investments of the scheme fund, in such form, manner and at such intervals as may be prescribed.\n(4) Where scheme funds are invested in a guaranteed fund asset class, the approved issuer shall, upon termination of the relevant agreement, transfer the funds out of the asset class within twelve months, or such other shorter period as may be specified in the instrument of appointment.\n(Act No. 7 of 1998, s. 13, Act No. 8 of 2003, s. 5, Act No. 8 of 2009, s. 69, Act No. 23 of 2019, s. 50)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every scheme shall have a prudent investment policy on the investment of the funds of the scheme so as to maintain the capital funds of the scheme and generally to secure market rates of return on such investment:"
+    },
+    {
+     "ref": "(2)",
+     "text": "Notwithstanding the provisions of any other written law, the investment policy of a scheme shall be implemented subject to any regulations the Cabinet Secretary may, in consultation with the Authority, make for that purpose."
+    },
+    {
+     "ref": "(3)",
+     "text": "There shall be submitted to the Chief Executive Officer, in respect of every scheme, a statement of all investments of the scheme fund, in such form, manner and at such intervals as may be prescribed."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where scheme funds are invested in a guaranteed fund asset class, the approved issuer shall, upon termination of the relevant agreement, transfer the funds out of the asset class within twelve months, or such other shorter period as may be specified in the instrument of appointment."
+    }
+   ]
+  },
+  "38": {
+   "num": "38",
+   "title": "Restriction on use of scheme funds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATION AND SUPERVISION OF RETIREMENT BENEFITS SCHEMES",
+   "text": "(1) No scheme funds shall be—\n  (a) used to make direct or indirect loans to any person;\n  (b) invested contrary to any guidelines prescribed for that purpose; or\n  (c) invested with a bank, non-banking financial institution, insurance company, building society or other similar institution with a view to securing loans, at a preferential rate of interest or for any other consideration to the sponsor, trustees, members or the manager of such scheme, or, in the case of scheme funds which comprise any statutory contributions, be placed in any investment other than Government securities or infrastructure bonds issued by public institutions.\n(1A) Notwithstanding the provisions of subsection (1), a prescribed proportion of the benefits accruing to a member in a scheme may be assigned and used by the member to secure a mortgage loan or to purchase a residential house from such institutions and on such terms as may be prescribed in regulations made by the Cabinet Secretary.\n(1A) Subject to subsection (1)(b), where a fund is set up exclusively for the purpose of investing sharia complaint funds, the fund shall be exempted from the guidelines.\n(2) The Authority may disqualify a person who acts in contravention of the provisions of this section from participating in any way in the management custody or administration of any scheme fund:\nProvided that the Authority may, on the expiry of at least five years from the date of disqualification, upon application by such person and payment of the prescribed fee, lift the disqualification subject to such conditions as it may deem appropriate.\n(Act No. 7 of 1998, s. 14, Act No. 9 of 2007, ss. 73(a) and 73(b), Act No. 8 of 2009, s. 69, Act No. 2 of 2020, Sch., Act No. 4 of 2023, Sch.)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No scheme funds shall be—"
+    },
+    {
+     "ref": "(1A)",
+     "text": "Notwithstanding the provisions of subsection (1), a prescribed proportion of the benefits accruing to a member in a scheme may be assigned and used by the member to secure a mortgage loan or to purchase a residential house from such institutions and on such terms as may be prescribed in regulations made by the Cabinet Secretary."
+    },
+    {
+     "ref": "(1A)",
+     "text": "Subject to subsection (1)(b), where a fund is set up exclusively for the purpose of investing sharia complaint funds, the fund shall be exempted from the guidelines."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority may disqualify a person who acts in contravention of the provisions of this section from participating in any way in the management custody or administration of any scheme fund:"
+    }
+   ]
+  },
+  "39": {
+   "num": "39",
+   "title": "Unsafe and unsound practices",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATION AND SUPERVISION OF RETIREMENT BENEFITS SCHEMES",
+   "text": "(1) Where, in the opinion of the Chief Executive Officer, a trustee, manager, custodian or administrator of a scheme is pursuing an act or course of conduct which the Chief Executive Officer considers to be an unsafe or unsound practice, or in any way detrimental to the scheme, the Chief Executive Officer shall, by notice in writing, direct such trustee, manager, custodian or administrator to refrain from pursuing such act or course of conduct.\n(2) A trustee, manager or custodian who acts in contravention of a direction under this section commits an offence and shall be liable, on conviction, to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding two years, or to both.\n(Act No. 7 of 1998, s. 15, Act No. 2 of 2006, s. 13)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where, in the opinion of the Chief Executive Officer, a trustee, manager, custodian or administrator of a scheme is pursuing an act or course of conduct which the Chief Executive Officer considers to be an unsafe or unsound practice, or in any way detrimental to the scheme, the Chief Executive Officer shall, by notice in writing, direct such trustee, manager, custodian or administrator to refrain from pursuing such act or course of conduct."
+    },
+    {
+     "ref": "(2)",
+     "text": "A trustee, manager or custodian who acts in contravention of a direction under this section commits an offence and shall be liable, on conviction, to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding two years, or to both."
+    }
+   ]
+  },
+  "40": {
+   "num": "40",
+   "title": "General obligations of trustees and managers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "REGULATION AND SUPERVISION OF RETIREMENT BENEFITS SCHEMES",
+   "text": "The trustee, manager, custodian or administrator of a scheme shall—\n  (a) ensure that the scheme fund is at all times managed in accordance with this Act, any regulations made thereunder, the scheme rules and any directions given by the Chief Executive Officer;\n  (b) take reasonable care to ensure that the management of the scheme is carried out in the best interests of the members and sponsors of the scheme;\n  (c) report to the Chief Executive Officer, as soon as reasonably practicable, any unusual occurrence which in his view could jeopardise the rights of the members or sponsors of the scheme; and\n  (d) report to the Chief Executive Officer, as soon as reasonably practicable, if any contributions into a scheme fund remain due for a period of more than thirty days.\n(Act No. 7 of 1998, s. 16, Act No. 2 of 2006, s. 14)",
+   "clauses": []
+  },
+  "41": {
+   "num": "41",
+   "title": "Inspection",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INSPECTION AND APPOINTMENT OF INTERIM ADMINISTRATION",
+   "text": "(1) The Chief Executive Officer may, at any time and from time to time, and shall, if so directed by the Board, cause an inspection to be made by an inspector authorized by him in writing, of any scheme or of the business of any manager, corporate trustee, custodian or administrator registered under this Act, and of it’s books, accounts and records.\n(2) When an inspection is made under subsection (1), the manager, corporate trustee, custodian or administrator of the scheme concerned and every officer, trustee or employee thereof shall make available to the inspector all the books, accounts records and other documents of the scheme and such correspondence, statements and information relating to the scheme as the inspector may require, within seven days or such longer period as the inspector may direct in writing.\n(3) Any failure to produce any books, accounts, records, documents, correspondence, statements, returns or other information within the period specified in the direction under subsection (2) constitutes an offence:\nProvided that—\n  (a) the books, accounts and other documents shall not, in the course of inspection, be removed from the premises at which they are produced;\n  (b) the inspector may make copies of any books, accounts and other documents required for the purposes of his report; and\n  (c) all information obtained in the course of the inspection shall be treated as confidential and used solely for the purposes of this Act.\n(Act No. 7 of 1998, s. 17, Act No. 2 of 2006, s. 15, Act No. 8 of 2021, s. 70)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Chief Executive Officer may, at any time and from time to time, and shall, if so directed by the Board, cause an inspection to be made by an inspector authorized by him in writing, of any scheme or of the business of any manager, corporate trustee, custodian or administrator registered under this Act, and of it’s books, accounts and records."
+    },
+    {
+     "ref": "(2)",
+     "text": "When an inspection is made under subsection (1), the manager, corporate trustee, custodian or administrator of the scheme concerned and every officer, trustee or employee thereof shall make available to the inspector all the books, accounts records and other documents of the scheme and such correspondence, statements and information relating to the scheme as the inspector may require, within seven days or such longer period as the inspector may direct in writing."
+    },
+    {
+     "ref": "(3)",
+     "text": "Any failure to produce any books, accounts, records, documents, correspondence, statements, returns or other information within the period specified in the direction under subsection (2) constitutes an offence:"
+    }
+   ]
+  },
+  "42": {
+   "num": "42",
+   "title": "Powers of the inspector",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INSPECTION AND APPOINTMENT OF INTERIM ADMINISTRATION",
+   "text": "(1) An inspector may, by notice in writing, require any person who is or has at any time been a trustee, manager, corporate trustee, custodian or administrator of the scheme being inspected, or an officer, employee, agent, accountant, auditor or actuary appointed by such trustee, manager, corporate trustee, custodian or administrator to—\n  (a) give to the inspector all reasonable assistance in connection with the inspection;\n  (b) appear before the inspector for examination concerning matters relevant to the inspection, or\n  (c) produce any books or documents relating to the affairs of the scheme being inspected.\n(2) A person who—\n  (a) refuses or fails to comply with a requirement of an inspector which is applicable to him, to the extent to which he is able to comply with it;\n  (b) obstructs or hinders an inspector in the exercise of his powers under this Act;\n  (c) furnishes information or makes a false statement which he knows to be false or misleading in any material particular; or\n  (d) when appearing before an inspector for examination, makes a statement which he knows to be false or misleading in any material particular, commits an offence.\n(3) A person convicted of an offence under subsection (2) shall be liable to a fine not exceeding five hundred thousand shillings, or, in the case of a natural person, to imprisonment for a term not exceeding three years, or to both.\n(4) Where an offence under subsection (2) is a continuing offence, the person convicted shall, in addition to the penalty prescribed in subsection (3), be liable to a further fine of one thousand shillings for every day during which the offence continues.\n(5) Where the person convicted under this section is a body corporate, the Authority may, notwithstanding any other penalty imposed under this Act, apply to court for the winding up of such body corporate.\n(Act No. 7 of 1998, s. 18, Act No. 7 of 2002, s. 62, Act No. 2 of 2006, s. 16, Act No. 8 of 2021, s. 71)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An inspector may, by notice in writing, require any person who is or has at any time been a trustee, manager, corporate trustee, custodian or administrator of the scheme being inspected, or an officer, employee, agent, accountant, auditor or actuary appointed by such trustee, manager, corporate trustee, custodian or administrator to—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who—"
+    },
+    {
+     "ref": "(3)",
+     "text": "A person convicted of an offence under subsection (2) shall be liable to a fine not exceeding five hundred thousand shillings, or, in the case of a natural person, to imprisonment for a term not exceeding three years, or to both."
+    },
+    {
+     "ref": "(4)",
+     "text": "Where an offence under subsection (2) is a continuing offence, the person convicted shall, in addition to the penalty prescribed in subsection (3), be liable to a further fine of one thousand shillings for every day during which the offence continues."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where the person convicted under this section is a body corporate, the Authority may, notwithstanding any other penalty imposed under this Act, apply to court for the winding up of such body corporate."
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Inspection report",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INSPECTION AND APPOINTMENT OF INTERIM ADMINISTRATION",
+   "text": "An inspector appointed under this Part shall submit his report to the Chief Executive Officer and the report shall draw attention to any breach of the requirements of this Act and any regulations made thereunder, any mismanagement or lack of management skills in the manager and any other matter revealed or discovered in the course of the inspection warranting, in the opinion of the inspector, remedial action or further investigation.",
+   "clauses": []
+  },
+  "44": {
+   "num": "44",
+   "title": "Directions to manager",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INSPECTION AND APPOINTMENT OF INTERIM ADMINISTRATION",
+   "text": "The Chief Executive Officer may, by notice in the prescribed form, require the trustees, manager, custodian or administrator of a scheme inspected under this Part to comply, by such date or within such period as may be specified therein, with such directions as the Authority considers necessary in connection with any matter arising out of the report made under section 43.\n(Act No. 7 of 1998, s. 19, Act No. 2 of 2006, s. 17)",
+   "clauses": []
+  },
+  "44A": {
+   "num": "44A",
+   "title": "Sharing information",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INSPECTION AND APPOINTMENT OF INTERIM ADMINISTRATION",
+   "text": "The Authority may share information with other regulatory authorities.\n(Act No. 10 of 2010, s. 76)",
+   "clauses": []
+  },
+  "45": {
+   "num": "45",
+   "title": "Appointment of interim administrator",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INSPECTION AND APPOINTMENT OF INTERIM ADMINISTRATION",
+   "text": "(1) This section applies and the powers conferred by subsection (2) may be exercised in the following circumstances—\n  (a) if the trustees of a scheme fail to submit to the Chief Executive Officer the annual accounts required under section 34 for over six months after the end of the financial year to which they relate;\n  (b) if the trustees are found to have submitted or provided any accounts, returns, statements, books, records, correspondence, documents or other information relating to the scheme fund which are false or misleading; or\n  (c) if the Chief Executive Officer, whether on inspection or otherwise, becomes aware of any fact or circumstance which, in his opinion, warrants the exercise of the relevant power in the interests of the sponsors and members of the scheme or in the public interest.\n(2) The Chief Executive Officer may, with the approval of the Authority—\n  (a) appoint any person (in this Act referred to as “an interim administrator”) to assume the management, control and conduct of the affairs and business of the trustees, the manager, the custodian or the administrator, as the case may be, to exercise all the powers of the trustees, the manager, the custodian or the administrator to the exclusion of such trustees, manager, custodian or administrator;\n  (b) remove any officer or employee of the trustees, the manager, the custodian or the administrator who, in the opinion of the Chief Executive Officer, has caused or contributed to any contravention of the provisions of this Act or any regulations made thereunder or to any deterioration in the financial stability of the scheme or has been guilty of conduct detrimental to the interests of the members or sponsors of the scheme; or\n  (c) by notice in the Gazette, revoke or cancel any existing power of attorney, mandate, appointment or other authority by the trustees, the manager, the custodian or the administrator in favour of any officer, employee or any other person.\n(3) The appointment of an interim administrator shall be for such period, not exceeding twelve months, as the Chief Executive Officer may specify in the instrument of appointment but may be extended by the High Court, upon application by the Chief Executive Officer, if such extension appears justified.\n(4) An interim administrator shall, upon assuming the management, control and conduct of the affairs and business of the trustees, the manager, the custodian or the administrator, discharge his duties with diligence and in accordance with sound actuarial and financial principles and in particular, with due regard to the interests of the trustees, the manager, the custodian, the administrator, the members and sponsors of the scheme.\n(5) The responsibilities of the interim administrator shall be—\n  (a) tracing, preserving and securing all the assets and property of the scheme;\n  (b) recovering all debts and other sums of money due to and owing to the scheme;\n  (c) evaluating the solvency and the liquidity of the scheme;\n  (d) assessing the scheme’s, the manager’s, the custodian’s and the administrator’s compliance with the provisions of this Act and any regulations made thereunder;\n  (e) determining the adequacy of the capital and reserves and the management of the scheme and recommending to the Chief Executive Officer any restructuring or re-organization which he considers necessary and which, subject to the provisions of any other law, may be implemented by him on behalf of the trustees, the manager, the custodian or the administrator; and\n  (f) obtain from any former trustee, manager or administrator of the scheme or any officer, employee or agent thereof, any documents, records, accounts, statements, correspondence or information relating to the scheme.\n(6) The interim administrator shall, within a period of twelve months from the date of his appointment, prepare and submit to the Chief Executive Officer, a report on the financial position and the management of the scheme with recommendations as to whether—\n  (a) the scheme is capable of being revived; or\n  (b) the scheme should be deregistered.\n(7) The Chief Executive Officer shall, after taking into account the report of the interim administrator, make appropriate recommendations to the Board which shall take a decision on the matter.\n(8) Neither the Chief Executive Officer nor any officer, employee or agent of the Authority nor the interim administrator nor any other person appointed, designated or approved by the Chief Executive Officer under the provisions of this Part shall be liable in respect of any act or omission done in good faith in the execution of the duties undertaken by him.\n(9) The costs of an interim administrator of a scheme shall be a charge on the Fund.\n(Act No. 7 of 1998, s. 20, Act No. 2 of 2006, ss. 18(a)(i), 18(a) (ii), 18(c)(i), 18(c)(ii), & 18(c)(iii), Act No. 57 of 2012, s. 55)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "This section applies and the powers conferred by subsection (2) may be exercised in the following circumstances—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Chief Executive Officer may, with the approval of the Authority—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The appointment of an interim administrator shall be for such period, not exceeding twelve months, as the Chief Executive Officer may specify in the instrument of appointment but may be extended by the High Court, upon application by the Chief Executive Officer, if such extension appears justified."
+    },
+    {
+     "ref": "(4)",
+     "text": "An interim administrator shall, upon assuming the management, control and conduct of the affairs and business of the trustees, the manager, the custodian or the administrator, discharge his duties with diligence and in accordance with sound actuarial and financial principles and in particular, with due regard to the interests of the trustees, the manager, the custodian, the administrator, the members and sponsors of the scheme."
+    },
+    {
+     "ref": "(5)",
+     "text": "The responsibilities of the interim administrator shall be—"
+    },
+    {
+     "ref": "(6)",
+     "text": "The interim administrator shall, within a period of twelve months from the date of his appointment, prepare and submit to the Chief Executive Officer, a report on the financial position and the management of the scheme with recommendations as to whether—"
+    },
+    {
+     "ref": "(7)",
+     "text": "The Chief Executive Officer shall, after taking into account the report of the interim administrator, make appropriate recommendations to the Board which shall take a decision on the matter."
+    },
+    {
+     "ref": "(8)",
+     "text": "Neither the Chief Executive Officer nor any officer, employee or agent of the Authority nor the interim administrator nor any other person appointed, designated or approved by the Chief Executive Officer under the provisions of this Part shall be liable in respect of any act or omission done in good faith in the execution of the duties undertaken by him."
+    },
+    {
+     "ref": "(9)",
+     "text": "The costs of an interim administrator of a scheme shall be a charge on the Fund."
+    }
+   ]
+  },
+  "45A": {
+   "num": "45A",
+   "title": "Treatment of unclaimed benefits",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "INSPECTION AND APPOINTMENT OF INTERIM ADMINISTRATION",
+   "text": "(1) If within a period of two years from the completion of winding up proceedings in respect of a scheme under the Act, the liquidator is unable to trace any member of the scheme, the accrued benefits due to such member shall become unclaimed assets within the meaning of section 13(1) of the Unclaimed Financial Assets Act (Cap. 494) at the end of that period.\n(2) At the end of the period specified in subsection (1), a trustee of the scheme may treat accrued benefits as unclaimed benefits if—\n  (a) a scheme member entitled to such accrued benefits has not lodged any claim and the trustee is unable to locate that member after taking the specified steps;\n  (b) a scheme member has lodged a claim with the trustee but the trustee is subsequently unable to locate that member after taking the specified steps; or\n  (c) the member or beneficiary has not—\n  (i) increased or decreased the principal;\n  (ii) accepted any payment in respect of the accrued benefits;\n  (iii) communicated with the scheme concerning the accrued benefits; or\n  (iv) indicated any other interest in the accrued benefits as evidenced by a record prepared by the trustees.\n(Act No. 23 of 2019, s. 51)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If within a period of two years from the completion of winding up proceedings in respect of a scheme under the Act, the liquidator is unable to trace any member of the scheme, the accrued benefits due to such member shall become unclaimed assets within the meaning of section 13(1) of the Unclaimed Financial Assets Act (Cap. 494) at the end of that period."
+    },
+    {
+     "ref": "(2)",
+     "text": "At the end of the period specified in subsection (1), a trustee of the scheme may treat accrued benefits as unclaimed benefits if—"
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "Appeals to the Chief Executive Officer",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "APPEALS",
+   "text": "(1) Any member of a scheme who is dissatisfied with a decision of the manager, administrator, custodian or trustees of the scheme may request, in writing, that such decision be reviewed by the Chief Executive Officer with a view to ensuring that such decision is made in accordance with the provisions of the relevant scheme rules or the Act under which the scheme is established.\n(2) A copy of every request under this section shall be served on the manager, administrator, custodian or trustees of the scheme.\n(Act No. 7 of 1998, s. 21, Act No. 2 of 2006, s. 19)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any member of a scheme who is dissatisfied with a decision of the manager, administrator, custodian or trustees of the scheme may request, in writing, that such decision be reviewed by the Chief Executive Officer with a view to ensuring that such decision is made in accordance with the provisions of the relevant scheme rules or the Act under which the scheme is established."
+    },
+    {
+     "ref": "(2)",
+     "text": "A copy of every request under this section shall be served on the manager, administrator, custodian or trustees of the scheme."
+    }
+   ]
+  },
+  "47": {
+   "num": "47",
+   "title": "Establishment of Appeals Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "APPEALS",
+   "text": "(1) The Cabinet Secretary shall, by order published in the Gazette establish an Appeals Tribunal for the purpose of hearing appeals under this Act.\n(2) The Tribunal shall consist of a chairperson and four other members who shall be appointed by the Cabinet Secretary and who shall hold office for a period of three years upon such terms and conditions as may be prescribed.\n(3) The chairperson of the Tribunal shall be an advocate of the High Court of Kenya of not less than seven years standing.\n(3A) The quorum of the Tribunal for the purposes of a hearing under this section shall be the chairperson and any two members.\n(4) Subject to subsection (3A), all matters before the Tribunal shall, in the event of a difference of opinion, be decided by the votes of the majority of the members thereof.\n(Act No. 2 of 2006, ss. 20(a) & 20(b))",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary shall, by order published in the Gazette establish an Appeals Tribunal for the purpose of hearing appeals under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Tribunal shall consist of a chairperson and four other members who shall be appointed by the Cabinet Secretary and who shall hold office for a period of three years upon such terms and conditions as may be prescribed."
+    },
+    {
+     "ref": "(3)",
+     "text": "The chairperson of the Tribunal shall be an advocate of the High Court of Kenya of not less than seven years standing."
+    },
+    {
+     "ref": "(3A)",
+     "text": "The quorum of the Tribunal for the purposes of a hearing under this section shall be the chairperson and any two members."
+    },
+    {
+     "ref": "(4)",
+     "text": "Subject to subsection (3A), all matters before the Tribunal shall, in the event of a difference of opinion, be decided by the votes of the majority of the members thereof."
+    }
+   ]
+  },
+  "48": {
+   "num": "48",
+   "title": "Appeals to the Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "APPEALS",
+   "text": "(1) Any person aggrieved by a decision of the Authority or of the Chief Executive Officer under the provisions of this Act or any regulations made thereunder may appeal to the Tribunal within thirty days of the receipt of the decision.\n(2) Where any dispute arises between any person and the Authority as to the exercise of the powers conferred upon the Authority by this Act, either party may appeal to the Tribunal in such manner as may be prescribed.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person aggrieved by a decision of the Authority or of the Chief Executive Officer under the provisions of this Act or any regulations made thereunder may appeal to the Tribunal within thirty days of the receipt of the decision."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where any dispute arises between any person and the Authority as to the exercise of the powers conferred upon the Authority by this Act, either party may appeal to the Tribunal in such manner as may be prescribed."
+    }
+   ]
+  },
+  "49": {
+   "num": "49",
+   "title": "Powers of Appeals Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "APPEALS",
+   "text": "(1) On the hearing of an appeal, the Tribunal shall have all the powers of a subordinate court of the first class to summon witnesses, to take evidence upon oath or affirmation and to call for the production of books and other documents.\n(2) Where the Tribunal considers it desirable for the purpose of avoiding expense or delay or any other special reason so to do, it may receive evidence by affidavit and administer interrogatories and require the person to whom the interrogatories are administered to make a full and true reply to the interrogatories within the time specified by the Tribunal.\n(3) In its determination of any matter, the Tribunal may take into consideration any evidence which it considers relevant to the subject of an appeal before it, notwithstanding that the evidence would not otherwise be admissible under the law relating to admissibility of evidence.\n(4) The Tribunal shall have power to award the costs of any proceedings before it and to direct that costs shall be paid in accordance with any scale prescribed for suits in the High Court or to award a specific sum as costs.\n(5) All summons, notices or other documents issued under the hand of the chairperson of the Tribunal shall be deemed to be issued by the Tribunal.\n(6) Any interested party may be represented before the Tribunal by an advocate or by any other person whom the Tribunal may, in its discretion, admit to be heard on behalf of the party.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "On the hearing of an appeal, the Tribunal shall have all the powers of a subordinate court of the first class to summon witnesses, to take evidence upon oath or affirmation and to call for the production of books and other documents."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Tribunal considers it desirable for the purpose of avoiding expense or delay or any other special reason so to do, it may receive evidence by affidavit and administer interrogatories and require the person to whom the interrogatories are administered to make a full and true reply to the interrogatories within the time specified by the Tribunal."
+    },
+    {
+     "ref": "(3)",
+     "text": "In its determination of any matter, the Tribunal may take into consideration any evidence which it considers relevant to the subject of an appeal before it, notwithstanding that the evidence would not otherwise be admissible under the law relating to admissibility of evidence."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Tribunal shall have power to award the costs of any proceedings before it and to direct that costs shall be paid in accordance with any scale prescribed for suits in the High Court or to award a specific sum as costs."
+    },
+    {
+     "ref": "(5)",
+     "text": "All summons, notices or other documents issued under the hand of the chairperson of the Tribunal shall be deemed to be issued by the Tribunal."
+    },
+    {
+     "ref": "(6)",
+     "text": "Any interested party may be represented before the Tribunal by an advocate or by any other person whom the Tribunal may, in its discretion, admit to be heard on behalf of the party."
+    }
+   ]
+  },
+  "50": {
+   "num": "50",
+   "title": "Refusal or failure to give evidence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "APPEALS",
+   "text": "Any person summoned by the Tribunal to attend and give evidence or to produce any records, books of account, statements or other documents, or required to answer interrogatories and who, without sufficient cause—\n  (a) refuses or fails to attend at the time and place mentioned in the summons served on him;\n  (b) refuses or fails to answer, fully and satisfactorily, to the best of his knowledge and belief, all questions lawfully put to him by the Tribunal; or\n  (c) refuses or fails to produce any records, books of account, statements or other documents which are in his possession or under his control or mentioned or referred to in any summons served on him, commits an offence and shall be liable, on conviction, to a fine not exceeding one hundred thousand shillings, or to imprisonment for a term not exceeding two years, or to both.",
+   "clauses": []
+  },
+  "51": {
+   "num": "51",
+   "title": "Costs",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "APPEALS",
+   "text": "(1) Where the Tribunal awards costs in an appeal, it shall, on application by the person to whom the costs are awarded, issue to him a certificate stating the amount of the costs.\n(2) Every certificate issued under subsection (1) may be filed in the High Court by the person in whose favour the costs have been awarded and upon being so filed, shall be deemed to be a decree of the High Court and may be executed as such:\nProvided that an order for costs against the Government shall not be enforced save in the manner provided for by the Government Proceedings Act (Cap. 40).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the Tribunal awards costs in an appeal, it shall, on application by the person to whom the costs are awarded, issue to him a certificate stating the amount of the costs."
+    },
+    {
+     "ref": "(2)",
+     "text": "Every certificate issued under subsection (1) may be filed in the High Court by the person in whose favour the costs have been awarded and upon being so filed, shall be deemed to be a decree of the High Court and may be executed as such:"
+    }
+   ]
+  },
+  "52": {
+   "num": "52",
+   "title": "Rules for appeals to the Appeals Tribunal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "APPEALS",
+   "text": "The Chief Justice may make rules governing the making of appeals and providing for the fees to be paid, the scale of costs of any such appeal, the procedure to be followed therein, and the manner of notifying the parties thereto; and until such rules are made and subject thereto, the provisions of the Civil Procedure Act (Cap. 21) shall apply as if the matter appealed against were a decree of a subordinate court exercising original jurisdiction.",
+   "clauses": []
+  },
+  "53": {
+   "num": "53",
+   "title": "General penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) Any person who—\n  (a) contravenes any provision of this Act which is expressly stated to be an offence but for which no other penalty is prescribed; or\n  (b) fails to comply with any direction given by the Chief Executive Officer under this Act, commits an offence and shall be liable, on conviction, to a fine not exceeding one hundred thousand shillings, or to imprisonment for a term not exceeding one year, or to both.\n(2) A person does not commit an offence under subsection (1), if he proves, to the satisfaction of the court, that the act or omission constituting the offence was done without his knowledge, consent or connivance and that he attempted to prevent the commission of the offence having regard to all the circumstances of the case.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person does not commit an offence under subsection (1), if he proves, to the satisfaction of the court, that the act or omission constituting the offence was done without his knowledge, consent or connivance and that he attempted to prevent the commission of the offence having regard to all the circumstances of the case."
+    }
+   ]
+  },
+  "53A": {
+   "num": "53A",
+   "title": "Proceedings for recovery of deductions from employers",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) Where an employer, having with the agreement of an employee who is a member of a scheme, made a deduction from the employee’s emoluments for remittance to the scheme, fails to remit the deduction within fifteen days of the deduction, the scheme may, after giving such employer not less than seven days’ notice, institute proceedings for the recovery of the deduction.\n(2) A notice under subsection (1) shall be in writing and copied to the Authority, and shall:\n  (a) require the employer to pay the sum deducted to the scheme within seven days of the notice; and\n  (b) inform the employer that if he fails to pay such sum before the expiration of the notice, proceedings for the summary recovery of the sum shall be filed in court without further reference to him.\n(3) Any sum which is the subject of proceedings for summary recovery under this section shall attract a compound interest at the rate of three percent per month.\n(4) Without prejudice to any proceedings instituted under the provisions of this section, a person who refuses or fails to comply with a notice given to him under subsection (1) commits an offence and shall be liable to a fine not exceeding five hundred thousand shillings, or in the case of a natural person, to imprisonment for a term not exceeding three years, or to both.\n(5) Where an offence under subsection (4) is a continuing offence, the person convicted shall, in addition to the penalty prescribed in that subsection be liable to a further fine of one thousand shillings for every day or part thereof during which the offence continues.\n(Act No. 2 of 2006, s. 21)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where an employer, having with the agreement of an employee who is a member of a scheme, made a deduction from the employee’s emoluments for remittance to the scheme, fails to remit the deduction within fifteen days of the deduction, the scheme may, after giving such employer not less than seven days’ notice, institute proceedings for the recovery of the deduction."
+    },
+    {
+     "ref": "(2)",
+     "text": "A notice under subsection (1) shall be in writing and copied to the Authority, and shall:"
+    },
+    {
+     "ref": "(3)",
+     "text": "Any sum which is the subject of proceedings for summary recovery under this section shall attract a compound interest at the rate of three percent per month."
+    },
+    {
+     "ref": "(4)",
+     "text": "Without prejudice to any proceedings instituted under the provisions of this section, a person who refuses or fails to comply with a notice given to him under subsection (1) commits an offence and shall be liable to a fine not exceeding five hundred thousand shillings, or in the case of a natural person, to imprisonment for a term not exceeding three years, or to both."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where an offence under subsection (4) is a continuing offence, the person convicted shall, in addition to the penalty prescribed in that subsection be liable to a further fine of one thousand shillings for every day or part thereof during which the offence continues."
+    }
+   ]
+  },
+  "53B": {
+   "num": "53B",
+   "title": "Powers to recover unremitted contributions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) Notwithstanding the provisions stated under section 53A, where there is non-remittance of the contribution by the employer, the Authority shall—\n  (a) require the employer to—\n  (i) pay the contributions and interest accrued to the scheme in full within the period specified in the notice and a penalty of five per cent of unremitted contributions or twenty thousand shillings whichever is higher, payable to the Authority within seven days of receipt of the notice;\n  (ii) pay the penalty specified in paragraph (a)(i) and submit to the Authority for approval a remedial plan providing the period within which the accumulated contributions and interest thereon shall be offset; or\n  (iii) immediately cease further deductions from employees' emoluments and notify all the members of the scheme of the cessation:\nProvided that—\n(A) the Authority may lift the cessation order where it is satisfied that the employer is able to remit the employee emoluments as and when they fall due;\n(B) where there is a failure by an employer to comply with a direction to cease deductions from employees' emoluments under this provision, the Authority shall take the necessary action or issue such other directions as it may deem necessary and expedient in protecting the interests of the members, including instituting summary proceedings to recover the amounts due to the scheme; and\n  (b) initiate the process of winding up the scheme and facilitate members to join individual schemes where their contributions shall be remitted.\n(2) Where an employer has failed to remit contributions, the Trustees may with the approval of the Authority, appoint the Kenya Revenue Authority, as an agent, to collect unremitted contributions, interests, and penalties.\n(3) Subject to subsection (2), the Trustees shall in writing request the Authority for approval and shall demonstrate that they have taken all reasonable effort to recover unremitted contributions from a defaulting employer without any success.\n(4) The Authority shall either approve or reject the request in writing within twenty-one days from the date of receipt of the request.\n(5) Despite subsection (2), where the Authority is of the opinion that the Trustees have failed or have not made reasonable effort to recover the unremitted contributions, interests and penalties, the Authority shall give notice to the Trustees instructing them to appoint the Kenya Revenue Authority as an agent to recover the unremitted contributions, interests and penalties.\n(6) Upon appointment under subsection (2) or (5), the Kenya Revenue Authority shall issue a twenty-one-day notice in writing to the defaulting employer requiring it to remit the unremitted contributions, interests, penalties and recovery costs.\n(7) Where an employer fails to comply with the notice, the Kenya Revenue Authority shall—\n  (a) serve such employer and the employers bank with an agency notice;\n  (b) attach the bank accounts of the defaulting employer; and\n  (c) remit the attached funds to the Scheme, within thirty days.\n(8) The cost of the recovery of unremitted contributions shall be borne by the defaulting employer.\n(Act No. 10 of 2018, s. 73, Act No. 8 of 2021, s. 72)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Notwithstanding the provisions stated under section 53A, where there is non-remittance of the contribution by the employer, the Authority shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Where an employer has failed to remit contributions, the Trustees may with the approval of the Authority, appoint the Kenya Revenue Authority, as an agent, to collect unremitted contributions, interests, and penalties."
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to subsection (2), the Trustees shall in writing request the Authority for approval and shall demonstrate that they have taken all reasonable effort to recover unremitted contributions from a defaulting employer without any success."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Authority shall either approve or reject the request in writing within twenty-one days from the date of receipt of the request."
+    },
+    {
+     "ref": "(5)",
+     "text": "Despite subsection (2), where the Authority is of the opinion that the Trustees have failed or have not made reasonable effort to recover the unremitted contributions, interests and penalties, the Authority shall give notice to the Trustees instructing them to appoint the Kenya Revenue Authority as an agent to recover the unremitted contributions, interests and penalties."
+    },
+    {
+     "ref": "(6)",
+     "text": "Upon appointment under subsection (2) or (5), the Kenya Revenue Authority shall issue a twenty-one-day notice in writing to the defaulting employer requiring it to remit the unremitted contributions, interests, penalties and recovery costs."
+    },
+    {
+     "ref": "(7)",
+     "text": "Where an employer fails to comply with the notice, the Kenya Revenue Authority shall—"
+    },
+    {
+     "ref": "(8)",
+     "text": "The cost of the recovery of unremitted contributions shall be borne by the defaulting employer."
+    }
+   ]
+  },
+  "54": {
+   "num": "54",
+   "title": "Offences by corporate bodies, partnerships, principals and employees",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) When an offence under the provisions of this Act is committed by a body corporate, the body corporate and every director or officer thereof who had knowledge or should have had knowledge of the commission of the offence and who did not exercise due diligence to ensure compliance with this Act commits an offence.\n(2) Where an offence is committed under this Act by a partnership, every partner or officer of the partnership who had knowledge or who should have had knowledge of the commission of the offence commits an offence.\n(3) A person shall be personally liable for an offence against this Act whether committed by him on his own account or as an agent or servant of another person.\n(4) An employer or principal shall be liable for an offence committed by an employee or agent against this Act unless the employer or principal proves that the offence was committed against his express or standing directions.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "When an offence under the provisions of this Act is committed by a body corporate, the body corporate and every director or officer thereof who had knowledge or should have had knowledge of the commission of the offence and who did not exercise due diligence to ensure compliance with this Act commits an offence."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where an offence is committed under this Act by a partnership, every partner or officer of the partnership who had knowledge or who should have had knowledge of the commission of the offence commits an offence."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person shall be personally liable for an offence against this Act whether committed by him on his own account or as an agent or servant of another person."
+    },
+    {
+     "ref": "(4)",
+     "text": "An employer or principal shall be liable for an offence committed by an employee or agent against this Act unless the employer or principal proves that the offence was committed against his express or standing directions."
+    }
+   ]
+  },
+  "54A": {
+   "num": "54A",
+   "title": "Conduct of prosecutions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) The Director of Public Prosecutions may, pursuant to the provisions of the Criminal Procedure Code (Cap. 75), appoint public prosecutors for the purposes of cases arising under this Act.\n(2) The Authority shall, for the purposes of the Criminal Procedure Code (Cap. 75), be deemed to be a public authority.\n(Act No. 8 of 2003, s. 6, Act No. 19 of 2023, Sch.)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Director of Public Prosecutions may, pursuant to the provisions of the Criminal Procedure Code (Cap. 75), appoint public prosecutors for the purposes of cases arising under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Authority shall, for the purposes of the Criminal Procedure Code (Cap. 75), be deemed to be a public authority."
+    }
+   ]
+  },
+  "55": {
+   "num": "55",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS",
+   "text": "(1) The Cabinet Secretary may, in consultation with the Authority, make regulations generally for the better carrying out of the provisions of this Act.\n(2) Without prejudice to the generality of subsection (1) regulations under this section may—\n  (a) prescribe anything required to be prescribed under this Act;\n  (b) subject to this Act, provide for the procedure for registration and the conditions of registration;\n  (c) provide the eligibility requirements for the membership of schemes and access to retirement benefits;\n  (d) provide for any matter relating to the nature of benefits under schemes;\n  (e) prescribe the fees and other charges payable to the Authority;\n  (f) subject to the provisions of this Act and of any other written law, make provisions with regard to the winding up of schemes and the transfer of the assets of the schemes upon such winding up;\n  (g) regulate the transitional period prescribed by section 57.\n(3) Without prejudice to subsection (1), the Authority may from time to time, issue guidelines, practice notes or codes of conduct for better administration of the retirement benefits schemes.\n(Act No. 7 of 1998, s. 22, Act No. 8 of 2008, s. 78)",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, in consultation with the Authority, make regulations generally for the better carrying out of the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1) regulations under this section may—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Without prejudice to subsection (1), the Authority may from time to time, issue guidelines, practice notes or codes of conduct for better administration of the retirement benefits schemes."
+    }
+   ]
+  },
+  "56": {
+   "num": "56",
+   "title": "Exemption from Cap. 446",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS",
+   "text": "The provisions of the State Corporations Act (Cap. 446) shall not apply to the Authority.",
+   "clauses": []
+  },
+  "57": {
+   "num": "57",
+   "title": "Transitional provisions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS",
+   "text": "Any person who, at the commencement of this Act, is a trustee or manager of a scheme to which this Act applies shall, within sixty days of the commencement, or within such longer period as the Cabinet Secretary may, in consultation with the Authority prescribe, apply for registration under this Act: Provided that the period prescribed under this section shall not exceed three years.",
+   "clauses": []
+  },
+  "58": {
+   "num": "58",
+   "title": "Supersession",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS",
+   "text": "Where there is a conflict between the provisions of this Act and the provisions of any written law (other than the Constitution) with regard to the powers or functions of the Authority under this Act, the provisions of this Act shall prevail.",
+   "clauses": []
+  },
+  "59": {
+   "num": "59",
+   "title": "Exemption from compliance with provisions of this Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS",
+   "text": "The Cabinet Secretary may, by order published in the Gazette—\n  (a) exempt any person or class of person from compliance with any specified provisions of this Act; or (b) extend the time for compliance by any person or class of persons with any specified provisions of this Act:\nProvided that nothing in this section shall apply in respect of payment of retirement benefits any of the provisions of Part III of this Act.\n(Act No. 15 of 2003, s. 58, Act No. 38 of 2013, s. 26)",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 8]",
+   "subtitle": "PROVISIONS AS TO THE CONDUCT OF BUSINESS AND AFFAIRS OF THE BOARD",
+   "text": "(Act No. 7 of 1998, s. 23) 1. Tenure of office\n(1) A member of the Board other than an ex officio member shall, subject to the provisions of this Schedule, hold office for a period not exceeding four years, on such terms and conditions as may be specified in the instrument of appointment but shall be eligible for re-appointment for one more term of a period not exceeding four years.\n(2) The members of the Board shall be appointed at different times so that the respective expiry dates of the members terms shall fall at different times.\n2. Vacation of office A member other than an ex officio member may—\n  (a) at any time resign from office by notice in writing to the Cabinet Secretary;\n  (b) be removed from office by the Cabinet Secretary if the member—\n  (i) has been absent from three consecutive meetings of the Board without permission from the chairperson; or (ii) is adjudged bankrupt or enters into a composition scheme or arrangement with his creditors; or\n  (iii) is convicted of an offence involving dishonesty, fraud or moral turpitude; or\n  (iv) is convicted of a criminal offence and sentenced to imprisonment for a term exceeding six months or to a fine exceeding ten thousand shillings; or\n  (v) is incapacitated by prolonged physical or mental illness; or\n  (vi) is otherwise unable or unfit to discharge his functions.\n(Act No. 7 of 1998, s. 23(a)) 3. Meetings\n(1) The Board shall meet not less than four times in every financial year and not more than four months shall elapse between the date of one meeting and the date of the next meeting.\n(2) Unless three quarters of the total members of the Board otherwise agree, at least fourteen days’ written notice of every meeting of the Board shall be given to every member of the Board.\n(3) The quorum for the conduct of the business of the Board shall be three members excluding the Chief Executive Officer, of whom at least one shall be from amongst the members of the Board appointed under paragraph (f) of section 6.\n(4) The chairperson shall preside at every meeting of the Board at which he is present but in his absence, the members present shall elect one of their number who shall, with respect to that meeting and the business transacted thereat, have all the powers of the chairperson.\n(5) Unless a unanimous decision is reached a decision on any matter before the Board shall be by a majority of votes of the members present and in the case of an equality of votes, the chairperson or the person presiding shall have a casting vote.\n(6) Subject to subparagraph (3), no proceedings of the Board shall be invalid by reason only of a vacancy among the members thereof.\n(7) Subject to the provisions of this Schedule, the Board may determine its own procedure and the procedure for any committee of the Board and for the attendance of any other persons at its meetings and may make standing orders in respect thereof.\n(Act No. 7 of 1998, s. 23(b)) 4. Disclosure of interest\n(1) If a member is directly or indirectly interested in any contract, proposed contract or other matter before the Board and is present at a meeting of the Board at which the contract, proposed contract or other matter is the subject of consideration, he shall, at the meeting and as soon as practicable after the commencement thereof, disclose the fact and shall not take part in the consideration or discussion of, or vote on any questions with respect to the contract or other matter, or be counted in the quorum of the meeting during consideration of the matter:\nProvided that if the majority of the members present are of the opinion that the experience or expertise that member is vital to the deliberations of the meeting, the Board may permit the member to participate in the deliberations subject to such restrictions as it may impose.\n(2) A disclosure of interest made under this paragraph shall be recorded in the minutes of the meeting at which it is made.\n5. The common seal The affixing of the common seal of the Authority shall be authenticated by the signatures of the chairperson and the Chief Executive Officer and any document required by law to be made under seal and all decisions of the Board may be authenticated by the signatures of the chairperson and the Chief Executive Officer:\nProvided that the Board shall, in the absence of either the chairperson or the Chief Executive Officer, in any particular matter nominate one member to authenticate the seal of the Board on behalf of either the chairperson or the Chief Executive Officer.\n6. Contracts and instruments Any contract or instrument which, if entered into or executed by a person not being a body corporate, would not require to be under seal, may be entered into or executed on behalf of the Authority by any person generally or specially authorized by the Authority for that purpose.\n7. Minutes The Board shall cause minutes of all proceedings of meetings of the Board to be entered in books kept for that purpose."
+  }
+ ],
+ "spent": {}
+}

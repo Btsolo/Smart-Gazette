@@ -251,15 +251,71 @@ def name_pattern(title):
     return r'(?:the\s*)?' + r'\s*'.join(out)
 
 
+RE_AMENDING = re.compile(r'\(\s*Amendments?(?:\s+Act)?\s*\)|Miscellaneous\s+Amendments|Consequential\s+Amendments|\bFinance\s+Act\b', re.I)
+RE_SUPPLEMENT_DATE = re.compile(r'NAIROBI,?\s*(\d{1,2})(?:st|nd|rd|th)?\s+([A-Z][a-z]+),?\s+(\d{4})')
+RE_ASSENT_DATE = re.compile(r'Date\s+of\s+(?:Assent|Commencement)\s*:\s*(\d{1,2})(?:st|nd|rd|th)?\s+([A-Z][a-z]+),?\s+(\d{4})')
+
+
+def amendment_record(pdf, laws, law_pdf):
+    """An amending Act (a Gazette Supplement: "(Amendment) Act", "Statute Law
+    (Miscellaneous Amendments) Act", a Finance Act) is not a law to quote but a
+    record of change: its date and the laws in the library it names. The
+    reference watch flags a law whose copy is older than an amendment of it."""
+    text = law_pdf.text_of(pdf)
+    head = text[:6000]
+    m = RE_SUPPLEMENT_DATE.search(head) or RE_ASSENT_DATE.search(head)
+    date = law_pdf.iso_date('%s %s %s' % m.groups()) if m else None
+    title = os.path.splitext(os.path.basename(pdf))[0]
+    # a law counts as amended when its name stands near amending words - an
+    # amending Act also names laws in passing ("pursuant to Article 94 of the
+    # Constitution"); the Constitution only through its own amendment Acts.
+    # Longest names first, and a shorter name inside a longer one already found
+    # does not count ("Societies Act" inside "Co-operative Societies Act").
+    pairs = sorted(((law['key'], n) for law in laws for n in law['names']), key=lambda kv: -len(kv[1]))
+    spans, amends = [], []
+    for key, n in pairs:
+        if key == 'constitution' and 'Constitution' not in title:
+            continue
+        for m in re.finditer(n + r'\b', text, re.I):
+            if any(a < m.end() and m.start() < b for a, b in spans):
+                continue
+            spans.append((m.start(), m.end()))
+            if key not in amends and re.search(r'amend|repeal|delet|insert|substitut',
+                                               text[max(0, m.start() - 300):m.end() + 600], re.I):
+                amends.append(key)
+    return {'title': title, 'file': os.path.basename(pdf), 'date': date, 'amends': amends}
+
+
 def build_pdfs(folder):
     sys.path.insert(0, HERE)
     import glob
     import law_pdf
     catalog = []
+    problems = []
+    amending = []
     for f in sorted(glob.glob(os.path.join(folder, '*.pdf'))):
-        d = law_pdf.parse_any(f)
+        if RE_AMENDING.search(os.path.basename(f)):
+            amending.append(f)                            # read after the laws: it names them
+            continue
+        try:
+            d = law_pdf.parse_any(f)
+        except Exception as e:                            # one unreadable PDF must not stop the rest
+            problems.append((os.path.basename(f), 'could not be read: %r' % e))
+            continue
         check = d.pop('check')
+        if not d['provisions']:
+            problems.append((os.path.basename(f), 'no sections found (a scan without a text layer, or a new layout)'))
+            continue
+        if not d['title'] or not re.search(r'\b(?:Act|Code|Constitution|Ordinance|Order|Rules|Regulations)\b', d['title']):
+            problems.append((os.path.basename(f), 'title not read (%r) - not catalogued' % d['title']))
+            continue
         key = key_of(d['title'] or os.path.splitext(os.path.basename(f))[0])
+        twin = next((c for c in catalog if c['key'] == key), None)
+        if twin:                                          # the same Act saved twice: keep the newer text
+            if (twin['version_date'] or '') >= (d['version_date'] or ''):
+                problems.append((os.path.basename(f), 'same Act as another file (kept the newer version)'))
+                continue
+            catalog.remove(twin)
         out = os.path.join(OUT_DIR, key + '.json')
         # a rebuild that changes nothing keeps the file as it was (git then shows
         # only real updates - docs/specs/reference-watch.md §3.5)
@@ -291,6 +347,22 @@ def build_pdfs(folder):
                        'LawReferenceService) reads this file.',
                'laws': catalog}, open(path, 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=1)
     print('catalog: %d laws -> %s' % (len(catalog), os.path.relpath(path, REPO)))
+    records = []
+    for f in amending:
+        try:
+            r = amendment_record(f, catalog, law_pdf)
+        except Exception as e:
+            problems.append((os.path.basename(f), 'amendment could not be read: %r' % e))
+            continue
+        records.append(r)
+        print('amendment %-62s %s amends %d law(s) we hold: %s' % (r['title'][:62], r['date'], len(r['amends']), ', '.join(r['amends'][:6])))
+    apath = os.path.join(OUT_DIR, 'amendments.json')
+    json.dump({'note': 'Amending Acts (Gazette Supplements) and the laws in the library they name '
+                       '(tools/build_law_reference.py pdfs raw/law). The reference watch flags a law whose '
+                       'copy is older than an amendment of it.',
+               'amendments': records}, open(apath, 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=1)
+    for name, why in problems:
+        print('NOT BUILT: %s - %s' % (name, why))
 
 
 if __name__ == '__main__':

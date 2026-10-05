@@ -471,6 +471,14 @@ example notices are in `reports/FINDINGS.md`.
     close themselves after a rebuild; never edit legal text automatically.
     Supplements are recognised before any AI call and not made into notices.
     audit section 8. "(1A)" subsections were misread as sections - fixed.
+60. **A flag is a question.** The owner's check of the first 4 law flags gave
+    4 different truths: spent (Water Act Part IX - spent Parts recorded),
+    misread by us (EAC s.248 - Arrangement walked number by number), misprinted
+    in the Gazette ("39 (1), 1A" - bare subsection rule), wrong at source
+    (Universities "2A" - `reference/watch_dismissed.json`). Amending Acts saved
+    in raw/law/ are change records (`reference/amendments.json`), not laws.
+    Repealed-but-unprinted sections no longer stop the PDF reader; scans are
+    OCR'd; 114 laws.
 
 ## What I want from the corpus run
 

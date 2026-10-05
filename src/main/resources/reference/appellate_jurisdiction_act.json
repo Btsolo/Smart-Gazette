@@ -1,0 +1,169 @@
+{
+ "title": "Appellate Jurisdiction Act",
+ "citation": "Cap. 9",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1977/15/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "APPELLATE JURISDICTION ACT CAP. 9 Published in Kenya Gazette Vol. LXXIX—No. 44 on 28 October 1977 Assented to on 25 October 1977 Commenced on 28 October 1977\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2009 (Act No. 6 of 2009) on 23 July 2009] [Amended by Statute Law (Miscellaneous Amendments) Act, 2012 (Act No. 12 of 2012) on 12 July 2012]\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to confer on the Court of Appeal jurisdiction to hear appeals from the High Court and for purposes incidental thereto",
+ "parts": [],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "This Act may be cited as the Appellate Jurisdiction Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "In this Act— \"judgment\" includes decree, order, sentence and decision; \"the Court of Appeal\" means the Court of Appeal established by section 164(1) of the Constitution; \"the Court of Appeal Rules\" means the Court of Appeal Rules (sub. leg); \"the Old Court of Appeal\" means the Court of Appeal for East Africa, referred to in section 17 of the Treaty for East African Co-operation Act (Repealed), or any Court replaced by that Court.",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Jurisdiction of Court of Appeal",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Court of Appeal shall have jurisdiction to hear and determine appeals from the High Court and any other Court or Tribunal prescribed by an Act of Parliament in cases in which an appeal lies to the Court of Appeal under any law.\n(2) For all purposes of and incidental to the hearing and determination of any appeal in the exercise of the jurisdiction conferred by this Act, the Court of Appeal shall have, in addition to any other power, authority and jurisdiction conferred by this Act, the power, authority and jurisdiction vested in the High Court.\n(3) In the hearing of an appeal in the exercise of the jurisdiction conferred by this Act, the law to be applied shall be the law applicable to the case in the High Court. [Act No. 12 of 2012, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Court of Appeal shall have jurisdiction to hear and determine appeals from the High Court and any other Court or Tribunal prescribed by an Act of Parliament in cases in which an appeal lies to the Court of Appeal under any law."
+    },
+    {
+     "ref": "(2)",
+     "text": "For all purposes of and incidental to the hearing and determination of any appeal in the exercise of the jurisdiction conferred by this Act, the Court of Appeal shall have, in addition to any other power, authority and jurisdiction conferred by this Act, the power, authority and jurisdiction vested in the High Court."
+    },
+    {
+     "ref": "(3)",
+     "text": "In the hearing of an appeal in the exercise of the jurisdiction conferred by this Act, the law to be applied shall be the law applicable to the case in the High Court. [Act No. 12 of 2012, Sch.]"
+    }
+   ]
+  },
+  "3A": {
+   "num": "3A",
+   "title": "Objective of Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The overriding objective of this Act and the rules made hereunder is to facilitate the just, expeditious, proportionate and affordable resolution of the appeals governed by the Act.\n(2) The Court shall, in the exercise of its powers under this Act or the interpretation of any of its provisions, seek to give effect to the overriding objective specified in subsection (1).\n(3) An advocate in an appeal presented to the Court is under a duty to assist the Court to further the overriding objective and, to that effect, to participate in the processes of the Court and to comply with directions and orders of the Court.\n[Act No. 6 of 2009, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The overriding objective of this Act and the rules made hereunder is to facilitate the just, expeditious, proportionate and affordable resolution of the appeals governed by the Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Court shall, in the exercise of its powers under this Act or the interpretation of any of its provisions, seek to give effect to the overriding objective specified in subsection (1)."
+    },
+    {
+     "ref": "(3)",
+     "text": "An advocate in an appeal presented to the Court is under a duty to assist the Court to further the overriding objective and, to that effect, to participate in the processes of the Court and to comply with directions and orders of the Court."
+    }
+   ]
+  },
+  "3B": {
+   "num": "3B",
+   "title": "Duty of Court",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "For the purpose of furthering the overriding objective specified in section 3A, the Court shall handle all matters presented before it for the purpose of attaining the following aims—\n  (a) the just determination of the proceedings;\n  (b) the efficient use of the available judicial and administrative resources;\n  (c) the timely disposal of the proceedings, and all other proceedings in the Court, at a cost affordable by the respective parties; and\n  (d) the use of suitable technology.\n[Act No. 6 of 2009, Sch.]",
+   "clauses": []
+  },
+  "4": {
+   "num": "4",
+   "title": "Execution",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Any judgment of the Court of Appeal given in exercise of its jurisdiction under this Act may be executed and enforced as if it were a judgment of the High Court.",
+   "clauses": []
+  },
+  "5": {
+   "num": "5",
+   "title": "Rules",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) The Rules Committee may make rules of court for regulating the practice and procedure of the Court of Appeal with respect to appeals and, in connection with such appeal, for regulating the practice and procedure of the High Court.\n(2) Without prejudice to the generality of subsection (1) of this section, rules of court for the Court of Appeal may be made for the following purposes—\n  (a) for regulating the sittings of the Court, whether in divisions or otherwise, and the selection of judges for any purpose;\n  (b) for regulating the right of practising before the Court and the representation of persons concerned in any proceedings in the Court;\n  (c) for prescribing cases in which, and conditions upon which, an appellant in a criminal appeal to the Court shall be entitled to be present at the hearing of the appeal;\n  (d) for providing for summary determination of any appeal which appears to the Court to be frivolous or vexatious or to be brought for the purposes of delay;\n  (e) for prescribing forms and fees in respect of proceedings in the Court and regulating the costs of and incidental to any such proceedings;\n  (f) for prescribing and regulating the powers and duties of officers of the Court;\n  (g) for prescribing the time within which any requirement of the rules is to be complied with;\n  (h) for providing for a reference from a decision of a single judge to the Court.\n(3) Rules made under this section may fix the number of judges of the Court who may sit for any purpose:\nProvided that—\n  (i) an uneven number of judges shall sit, which, for the purposes of any final determination by the Court other than the summary dismissal of an appeal, shall not be less than three; and\n  (ii) any determination by the Court on any matter (whether final or otherwise) shall, where more than one judge sits, be according to the opinion of a majority of the judges who sit for the purpose of determining that matter.\n(4) Rules made under this section may amend or revoke the Court of Appeal Rules, and the Court of Appeal Rules shall continue in force, subject to any amendments so made, until so revoked, as if they were rules made under this section.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Rules Committee may make rules of court for regulating the practice and procedure of the Court of Appeal with respect to appeals and, in connection with such appeal, for regulating the practice and procedure of the High Court."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1) of this section, rules of court for the Court of Appeal may be made for the following purposes—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Rules made under this section may fix the number of judges of the Court who may sit for any purpose:"
+    },
+    {
+     "ref": "(4)",
+     "text": "Rules made under this section may amend or revoke the Court of Appeal Rules, and the Court of Appeal Rules shall continue in force, subject to any amendments so made, until so revoked, as if they were rules made under this section."
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Power of High Court to admit to bail or postpone fine",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The High Court may, if it thinks fit, pending the determination of an appeal from the High Court to the Court of Appeal—\n  (a) admit the appellant to bail; or\n  (b) postpone the payment of a fine.",
+   "clauses": []
+  },
+  "7": {
+   "num": "7",
+   "title": "Power of High Court to extend time",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The High Court may extend the time for giving notice of intention to appeal from a judgment of the High Court or for making an application for leave to appeal or for a certificate that the case is fit for appeal, notwithstanding that the time for giving such notice or making such appeal may have already expired:\nProvided that in the case of a sentence of death no extension of time shall be granted after the issue of the warrant for the execution of that sentence.",
+   "clauses": []
+  },
+  "8": {
+   "num": "8",
+   "title": "Transitional provisions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "Notwithstanding the provisions of section 3 of this Act and the replacement of the old Court of Appeal—\n  (a) all proceedings pending before the old Court of Appeal in exercise of its jurisdiction under the law of Kenya immediately before the commencement of this Act may be continued and concluded before the Court of Appeal as if they had been commenced under or by virtue of this Act and the law of Kenya now in force or may be recommenced de novo before the Court of Appeal within such period as may be approved by that Court; and\n  (b) every judgment of the old Court of Appeal which immediately before the commencement of this Act had not been fully executed or enforced may be executed and enforced in the same manner as if it were a judgment of the Court of Appeal made in exercise of its jurisdiction under this Act.",
+   "clauses": []
+  },
+  "9": {
+   "num": "9",
+   "title": "[Spent]",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "",
+   "clauses": []
+  }
+ },
+ "schedules": [],
+ "spent": {}
+}

@@ -1,0 +1,895 @@
+{
+ "title": "Physiotherapists Act",
+ "citation": "Cap. 253D",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2014/20/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "PHYSIOTHERAPISTS ACT CAP. 253D Published in Kenya Gazette Vol. CXVII—No. 7 on 23 January 2015 Assented to on 24 December 2014 Commenced on 14 January 2015\n[Amended by Health Laws (Amendment) Act, 2019 (Act No. 5 of 2019) on 17 May 2019] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to make provision for the training, registration and licensing of physiotherapists, to regulate their practice, to provide for the establishment, powers and functions of the Physiotherapy Council of Kenya and for connected purposes",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "THE PHYSIOTHERAPY COUNCIL OF KENYA",
+   "provisions": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "FINANCIAL PROVISIONS",
+   "provisions": [
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "TRAINING AND REGISTRATION OF PHYSIOTHERAPISTS",
+   "provisions": [
+    "19",
+    "20",
+    "21",
+    "22",
+    "23"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "PROVISIONS RELATING TO PRIVATE PRACTICE",
+   "provisions": [
+    "24",
+    "25",
+    "26",
+    "27"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "DISCIPLINARY PROVISIONS",
+   "provisions": [
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "35",
+    "36",
+    "37",
+    "38",
+    "39"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Physiotherapists Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "In this Act, unless the context otherwise requires— \"approved institution\" means the Kenya Medical Training College, institutions established under the Universities Act (Cap. 210), and the Technical and Vocational Education and Training Act (Cap. 210A) and such other training institution as the Council may approve; \"Cabinet Secretary\"means the Cabinet Secretary for the time being responsible for matters relating to health; \"Council\"means the Physiotherapy Council of Kenya established by section 3; \"physiotherapy\" also referred to as \"physical therapy\" means the application of physiotherapy knowledge, skill and judgment by a physiotherapist to obtain, regain or maintain optimal health and functional performance and includes but is not limited to—\n  (a) the assessment of neuromusculoskeletal and cardio respiratory, neural and vascular systems and establishment of physiotherapy diagnosis;\n  (b) the development, progression, implementation and evaluation of physiotherapeutic interventions;\n  (c) the education of patients, care providers on matters of health promotion, wellness, disease prevention and rehabilitation givers, students and other health services;\n  (d) the manual therapy treatment techniques including soft tissue manipulation, proprioceptive neuromuscular facilitation, manual lymphedema drainage and muscle relaxation techniques;\n  (e) the spinal and peripheral joints mobilization and manual manipulation;\n  (f) work-place and modifications, prescription, fabrication, modification and application of braces, splints, taping, mobility aids or seating equipment;\n  (g) sports and physical activity preparticipation screening and assessment, sports injury prevention, treatment and rehabilitation, hydrotherapy, electrotherapy and use of mechanical, radiant or thermal energy;\n  (h) the ergonomic evaluation, modification, education, assessment and categorization of disability and counseling;\n  (i) tracheal suctioning;\n  (j) the administration of physiotherapy related medication as prescribed by a physician; and (k) performing such other aspects of physiotherapy as may be prescribed in regulations. \"physiotherapist\" means a person registered under this Act as such; \"physiotherapist\"means a person registered under this Act as such; \"register\" means the register of physiotherapists maintained under section 22; \"Registrar\" means the Registrar of physiotherapists appointed under section 10.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": []
+  },
+  "3": {
+   "num": "3",
+   "title": "Establishment of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE PHYSIOTHERAPY COUNCIL OF KENYA",
+   "text": "(1) There is established a Council to be known as the Physiotherapy Council of Kenya. (2) The Council shall be a body corporate with perpetual succession and a common seal, and shall, in its corporate name, be capable of—\n  (a) suing and being sued;\n  (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of both movable and immovable property;\n  (c) borrowing money;\n  (d) entering into contracts;\n  (e) doing or performing all such other acts necessary for the proper performance of its functions under this Act, which may be lawfully done or performed by a body corporate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a Council to be known as the Physiotherapy Council of Kenya. (2) The Council shall be a body corporate with perpetual succession and a common seal, and shall, in its corporate name, be capable of— (a) suing and being sued; (b) taking, purchasing or otherwise acquiring, holding, charging or disposing of both movable and immovable property; (c) borrowing money; (d) entering into contracts; (e) doing or performing all such other acts necessary for the proper performance of its functions under this Act, which may be lawfully done or performed by a body corporate."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Functions of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE PHYSIOTHERAPY COUNCIL OF KENYA",
+   "text": "(1) The object and purpose for which the Council is established is to exercise general supervision and control over the training and practice of physiotherapists in Kenya and to advise the Government in relation to all aspects thereof.\n(2) Without prejudice to the generality of subsection (1), the Council shall—\n  (a) prescribe the minimum educational requirements for persons wishing to be registered as physiotherapists under this Act;\n  (b) consider and approve the qualifications of physiotherapists for the purposes of registration under this Act;\n  (c) cause to be maintained a register of all persons registered as physiotherapists in accordance with this Act;\n  (d) prescribe and conduct examinations for purposes of registration under this Act collaboration with the approved institutions;\n  (e) in collaboration with the Council for University Education and Technical and Vocational Educational and Training Authority, approve and accredit institutions offering physiotherapy training leading to registration under this Act;\n  (f) license the private practice of physiotherapists;\n  (g) establish and maintain a professional code of conduct for all persons registered under this Act;\n  (h) regulate the professional conduct of registered physiotherapists and take such disciplinary measures as may be appropriate to maintain proper professional standards;\n  (i) establish, approve and accredit programs for continuing professional educational programs;\n  (j) cause to be published in the Kenya Gazette every calendar year or such other period as may be prescribed, the names of all registered physiotherapists;\n  (k) perform such other function as may be provided for in this Act or any other written law.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The object and purpose for which the Council is established is to exercise general supervision and control over the training and practice of physiotherapists in Kenya and to advise the Government in relation to all aspects thereof."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), the Council shall— (a) prescribe the minimum educational requirements for persons wishing to be registered as physiotherapists under this Act; (b) consider and approve the qualifications of physiotherapists for the purposes of registration under this Act; (c) cause to be maintained a register of all persons registered as physiotherapists in accordance with this Act; (d) prescribe and conduct examinations for purposes of registration under this Act collaboration with the approved institutions; (e) in collaboration with the Council for University Education and Technical and Vocational Educational and Training Authority, approve and accredit institutions offering physiotherapy training leading to registration under this Act;"
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Powers of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE PHYSIOTHERAPY COUNCIL OF KENYA",
+   "text": "(1) The Council shall have all powers necessary for the proper performance of its functions under this Act.\n(2) Without prejudice to the generality of subsection (1), the Council shall have power to—\n  (a) control, supervise and administer its assets in such manner and for such purpose as best promotes the purpose for which the Council is established;\n  (b) determine the provisions to be made for its capital and recurrent expenditure and for its reserves;\n  (c) receive any grants, gifts, donations or endowments and make legitimate disbursements there from;\n  (d) enter into association with other bodies or organizations within or outside Kenya as may be desirable or appropriate in furtherance of the purpose for which the Council is established;\n  (e) open a banking account or banking accounts for the funds of the Council; and\n  (f) invest any funds of the Council not immediately required for its purposes in the manner provided in section 17.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall have all powers necessary for the proper performance of its functions under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of subsection (1), the Council shall have power to—"
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Composition of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE PHYSIOTHERAPY COUNCIL OF KENYA",
+   "text": "(1) The Council shall consist of—\n  (a) the chairperson appointed by the Cabinet Secretary from amongst the persons nominated under paragraph (e);\n  (b) a person from the Ministry responsible for health with expertise in health appointed by the Cabinet Secretary;\n  (c) the Director of the Kenya Medical Training College or a designated representative not below the level of Deputy Director;\n  (d) one person with disability nominated by the National Council for Persons With Disabilities;\n  (e) four physiotherapists competitively and transparently nominated by the Kenya Society of Physiotherapists from each of the following sectors—\n  (i) physiotherapists working in the private sector;\n  (ii) physiotherapists working in the county governments;\n  (iii) physiotherapists working in universities in Kenya which award the qualifications recognized by the Council under section 4;\n  (iv) a representative of the governing organ of the Kenya Society of Physiotherapists;\n  (f) the Registrar who shall be the secretary to the Council. (2) No person shall be appointed as chairperson of the Council unless such person is—\n  (a) is registered under this Act as a physiotherapist; and (b) a physiotherapist of not less than ten years standing. (3) Pursuant to section 6 (1) (e), the Kenya Society of Physiotherapists shall present two nominees from each of the categories given in (i), (ii), (iii) and (iv), one of whom will be appointed by the Cabinet Secretary taking into account diversity, gender, skills mix and regional balance. (4) The members of the Council appointed under subsections (1) (a) and (e) shall hold office for a term of three years and shall be eligible for reappointment for one further term.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall consist of—"
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Conduct of business and affairs of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE PHYSIOTHERAPY COUNCIL OF KENYA",
+   "text": "(1) The conduct and regulation of the business and affairs of the Council shall be as provided in the Schedule.\n(2) Except as provided in the Schedule, the Council may regulate its own procedure.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The conduct and regulation of the business and affairs of the Council shall be as provided in the Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "Except as provided in the Schedule, the Council may regulate its own procedure."
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Delegation by the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE PHYSIOTHERAPY COUNCIL OF KENYA",
+   "text": "The Council may, by resolution generally or in any particular case, delegate to any committee of the Council the exercise of any of the powers or the performance of any of the functions or duties of the Council under this Act.",
+   "clauses": []
+  },
+  "9": {
+   "num": "9",
+   "title": "Remuneration of Council members",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE PHYSIOTHERAPY COUNCIL OF KENYA",
+   "text": "The Council shall pay its members such allowances for expenses as may be determined by the Cabinet Secretary upon the advice of the Salaries and Remuneration Commission.",
+   "clauses": []
+  },
+  "10": {
+   "num": "10",
+   "title": "The Registrar",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE PHYSIOTHERAPY COUNCIL OF KENYA",
+   "text": "(1) There shall be Registrar who shall be appointed by the Council and whose terms and conditions of service shall be determined by the Council upon the advice of the Salaries and Remuneration Commission.\n(2) A person shall not be appointed under this section unless such person—\n  (a) holds a degree in physiotherapy from a university recognized in Kenya and is a Kenyan citizen;\n  (b) is registered as a physiotherapist under this Act; and (c) has at least ten years' post qualification working experience.\n(3) The Registrar shall—\n  (a) be the secretary to the Council;\n  (b) subject to the directions of the Council be responsible for the day to day management of the affairs and staff of the Council;\n  (c) perform such other functions as may be provided for in this Act.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There shall be Registrar who shall be appointed by the Council and whose terms and conditions of service shall be determined by the Council upon the advice of the Salaries and Remuneration Commission."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person shall not be appointed under this section unless such person— (a) holds a degree in physiotherapy from a university recognized in Kenya and is a Kenyan citizen; (b) is registered as a physiotherapist under this Act; and (c) has at least ten years' post qualification working experience."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall— (a) be the secretary to the Council; (b) subject to the directions of the Council be responsible for the day to day management of the affairs and staff of the Council;"
+    }
+   ]
+  },
+  "11": {
+   "num": "11",
+   "title": "Staff of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE PHYSIOTHERAPY COUNCIL OF KENYA",
+   "text": "The Council may appoint such officers and other staff or hire such experts as may be necessary for the proper discharge of its functions under this Act, upon such terms and conditions of service as the Council may determine upon the advice of the Salaries and Remuneration Commission.",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Protection from personal liability",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "THE PHYSIOTHERAPY COUNCIL OF KENYA",
+   "text": "(1) No matter or thing done by a member of the Council or agent of the Council shall, if the matter or thing is done bona fide for executing the functions, powers and duties of the Council under this Act, render the member or agent or any person acting on their directions personally liable to any action, claim or demand whatsoever.\n(2) The provisions of subsection (1) shall not relieve the Council of the liability, to pay compensation or damages to any person for any injury to him, his property or any of his interests caused by the exercise of any power conferred by this Act, or by the failure, whether wholly or partially, of any works.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No matter or thing done by a member of the Council or agent of the Council shall, if the matter or thing is done bona fide for executing the functions, powers and duties of the Council under this Act, render the member or agent or any person acting on their directions personally liable to any action, claim or demand whatsoever."
+    },
+    {
+     "ref": "(2)",
+     "text": "The provisions of subsection (1) shall not relieve the Council of the liability, to pay compensation or damages to any person for any injury to him, his property or any of his interests caused by the exercise of any power conferred by this Act, or by the failure, whether wholly or partially, of any works."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Funds of the Council",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The funds of the Council shall comprise of—\n  (a) grants, gifts or donations that the Council may receive as a result of public and private appeal from local and; international donors or agencies for the purposes of carrying out its functions.\n  (b) such fees, monies or assets as may accrue to or vest in the Council in the course of the exercise of its powers or the performance of its functions under this Act or under any written law; and\n  (c) all monies from any other lawful source provided for or donated or lent to the Council.\n(2) The funds of the Council referred to in subsection (1) and its balances at the close of each financial year shall not be paid into the Consolidated Fund, but shall be retained by the Council for the purposes for which the Council is established.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The funds of the Council shall comprise of—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The funds of the Council referred to in subsection (1) and its balances at the close of each financial year shall not be paid into the Consolidated Fund, but shall be retained by the Council for the purposes for which the Council is established."
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Financial Year",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The financial year of the Council shall be the period of twelve months ending on the thirtieth June in each year.",
+   "clauses": []
+  },
+  "15": {
+   "num": "15",
+   "title": "Annual estimates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) At least three months before the commencement of each financial year, the Council shall cause to be prepared estimates of the revenue and expenditure of the Council for that year.\n(2) The annual estimates shall make provision for all estimated expenditure of the Council for the financial year and in particular, the estimates shall provide for—\n  (a) the payment of the salaries, allowances and other charges in respect of members of the Council and staff of the Council;\n  (b) the payment of pensions, gratuities and other charges in respect of members of the Council and staff of the Council;\n  (c) the proper maintenance of the buildings and grounds of the Council;\n  (d) the maintenance, repair and replacement of the equipment and other property of the Council; and\n  (e) the creation of such reserve funds to meet future or contingent liabilities in respect of retirement benefits, insurance or replacement of buildings or equipment, or in respect of such other matter as the Council may deem appropriate.\n(3) The annual estimates shall be approved by the Council before the commencement of the financial year to which they relate and shall be submitted to the Cabinet Secretary for approval and after the Cabinet Secretary's approval, the Council shall not increase the annual estimates without the consent of the Cabinet Secretary.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "At least three months before the commencement of each financial year, the Council shall cause to be prepared estimates of the revenue and expenditure of the Council for that year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The annual estimates shall make provision for all estimated expenditure of the Council for the financial year and in particular, the estimates shall provide for—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The annual estimates shall be approved by the Council before the commencement of the financial year to which they relate and shall be submitted to the Cabinet Secretary for approval and after the Cabinet Secretary's approval, the Council shall not increase the annual estimates without the consent of the Cabinet Secretary."
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Accounts and audit",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Council shall cause to be kept all proper books and records of accounts of the income, expenditure and assets of the Council.\n(2) Within a period of four months from the end of each financial year, the Council shall submit to the Auditor- General or to an auditor appointed under this section, the accounts of the Council together with—\n  (a) a statement of the income and expenditure of the Council during that year; and\n  (b) a balance sheet of the Council on the last day of that year.\n(3) The accounts of the Council shall be audited and reported upon in accordance with the Public Audit Act (Cap. 412B).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall cause to be kept all proper books and records of accounts of the income, expenditure and assets of the Council."
+    },
+    {
+     "ref": "(2)",
+     "text": "Within a period of four months from the end of each financial year, the Council shall submit to the Auditor- General or to an auditor appointed under this section, the accounts of the Council together with—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The accounts of the Council shall be audited and reported upon in accordance with the Public Audit Act (Cap. 412B)."
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Investment of funds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "The Council may invest any of the funds of the Council in securities, in which for the time being trustees may by law invest trust funds, or in any other securities or banks which the Treasury may, from time to time, approve for that purpose.",
+   "clauses": []
+  },
+  "18": {
+   "num": "18",
+   "title": "Annual report",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "FINANCIAL PROVISIONS",
+   "text": "(1) The Council shall, within three months after the end of each financial year, prepare and submit to the Cabinet Secretary a report of the operations of the Council for the immediate proceeding year.\n(2) The Cabinet Secretary shall lay the annual report before the National Assembly within three months of the day the National Assembly within three months of the day the National Assembly next sits after the report is presented to him.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall, within three months after the end of each financial year, prepare and submit to the Cabinet Secretary a report of the operations of the Council for the immediate proceeding year."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary shall lay the annual report before the National Assembly within three months of the day the National Assembly within three months of the day the National Assembly next sits after the report is presented to him."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Approved training institutions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "TRAINING AND REGISTRATION OF PHYSIOTHERAPISTS",
+   "text": "(1) The Council shall approve and recognize all training institutions that offer courses in physiotherapy.\n(1A) No person, being in charge of a training institution in Kenya, shall—\n  (a) admit persons for training with a view to qualifying for registration under this Act;\n  (b) conduct a course of training or administer the examination prescribed for the purposes of registration under this Act; or\n  (c) issue any document or statement implying that the holder thereof has undergone a course of training or passed the examinations prescribed by the Council for purposes of registration, unless such institution is established under the Kenya Medical Training College Act (Cap. 261) established or accredited under the Universities Act (Cap. 210), or the Technical and Vocational Education and Training Act (Cap. 210A) and is approved and recognized by the Council for that purpose in accordance with this Act.\n(2) A person who contravenes any of the provisions of subsection (1) commits an offence and shall, on conviction, be liable to a fine not more than five million shillings, or to imprisonment for a term not less than two years, or to both.\n(3) The Council shall prescribe the procedure for approving training institutions other than those established or accredited under the Universities Act (Cap. 210), for the purposes of this section.\n(4) The Council shall publish a list of the training institutions approved under this Act.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall approve and recognize all training institutions that offer courses in physiotherapy."
+    },
+    {
+     "ref": "(1A)",
+     "text": "No person, being in charge of a training institution in Kenya, shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who contravenes any of the provisions of subsection (1) commits an offence and shall, on conviction, be liable to a fine not more than five million shillings, or to imprisonment for a term not less than two years, or to both."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Council shall prescribe the procedure for approving training institutions other than those established or accredited under the Universities Act (Cap. 210), for the purposes of this section."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Council shall publish a list of the training institutions approved under this Act."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Persons eligible to be registered",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "TRAINING AND REGISTRATION OF PHYSIOTHERAPISTS",
+   "text": "(1) Subject to the provisions of this section, a person shall be eligible for registration under this Act as a physiotherapist if the person—\n  (a) is the holder of a qualification which is recognized by the Council;\n  (b) after obtaining that qualification, has engaged in training employment under the supervision of a registered physiotherapist for such period, being not less than one year, as the Council may approve;\n  (c) satisfies the Council that, while engaged in training employment as specified in paragraph (b), has acquired sufficient knowledge of, and experience in the practice of physiotherapy.\n(2) A person who is the holder of a qualification from an accredited institution outside Kenya shall be eligible for registration under this Act as a physiotherapist if the person—\n  (a) is the holder of a qualification obtained from an institution that is accredited and recognized by the regulating authority responsible for the registration of physiotherapists in the country of study;\n  (b) has engaged in physiotherapy practice under the supervision of a physiotherapist registered by the Council for such period, being not less than twelve months, as the Council may approve; and\n  (c) the Council is satisfied that the qualifications obtained by the person meet such requirements for a course leading to a qualification in physiotherapy as the Council shall from time to time prescribe pursuant to section 4 (2) (a).\n(3) Where the Council finds that a person has not completed all courses prescribed pursuant to section 4(2)(a), the Council shall require that person to—\n  (a) attend such interview as may be appropriate;\n  (b) undergo an oral or written examination or both; and\n  (c) take the courses required in an institution recognized and approved by the Council prior to engaging in supervised practice.\n(4) Despite subsection (3), all qualifications issued by a university or institution accredited under the Universities Act (Cap. 210), or the Technical and Vocational Education and Training Act (Cap. 210A), shall be recognized by the Council.\n(5) The Council may, after assessing the suitability for registration of a person under subsections (1) and (2), direct that before registration, the person shall undergo such further period of training or pass such examination in an institution accredited under the Universities Act (Cap. 210), or the Technical and Vocational Education and Training Act (Cap. 210A).\n(6) The Council shall not authorise the registration of a person unless it is satisfied—\n  (a) that the requirements of subsection (1) or (2) have been fulfilled; or\n  (b) in the case of a person referred to in subsection (3) that the requirements of subsection (5) have been fulfilled and that the person has undergone any further period of training or passed any examination specified by the Council.\n(7) The Council may, where it considers it expedient, delegate the assessment of suitability for registration under subsection (2) to a committee of the Council which shall, after making the assessment, make recommendations to the Council.\n(8) The Council shall register every qualified person by such particulars as the Council may prescribe, in the appropriate register kept for that purpose pursuant to section 22.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to the provisions of this section, a person shall be eligible for registration under this Act as a physiotherapist if the person—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who is the holder of a qualification from an accredited institution outside Kenya shall be eligible for registration under this Act as a physiotherapist if the person—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the Council finds that a person has not completed all courses prescribed pursuant to section 4(2)(a), the Council shall require that person to—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Despite subsection (3), all qualifications issued by a university or institution accredited under the Universities Act (Cap. 210), or the Technical and Vocational Education and Training Act (Cap. 210A), shall be recognized by the Council."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Council may, after assessing the suitability for registration of a person under subsections (1) and (2), direct that before registration, the person shall undergo such further period of training or pass such examination in an institution accredited under the Universities Act (Cap. 210), or the Technical and Vocational Education and Training Act (Cap. 210A)."
+    },
+    {
+     "ref": "(6)",
+     "text": "The Council shall not authorise the registration of a person unless it is satisfied—"
+    },
+    {
+     "ref": "(7)",
+     "text": "The Council may, where it considers it expedient, delegate the assessment of suitability for registration under subsection (2) to a committee of the Council which shall, after making the assessment, make recommendations to the Council."
+    },
+    {
+     "ref": "(8)",
+     "text": "The Council shall register every qualified person by such particulars as the Council may prescribe, in the appropriate register kept for that purpose pursuant to section 22."
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Application for registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "TRAINING AND REGISTRATION OF PHYSIOTHERAPISTS",
+   "text": "(1) A person trained in an approved institution in Kenya wishing to be registered under this Act shall apply for registration to the Council.\n(2) An applicant for registration who is a graduate of a foreign school of physiotherapy shall, furnish evidence satisfactory to the Council that the applicant:\n  (a) has completed a course of study in physiotherapy which is substantially equivalent to that provided in an accredited program approved by the Council;\n  (b) is a graduate of an institution, college or university recognized by the Council;\n  (c) is registered or is eligible for registration in the country of study;\n  (d) has engaged in physiotherapy practice under the supervision of a physiotherapist registered by the Council for such period, being not less than twelve months, as the Council may approve; and\n  (e) has successfully completed a written examination approved by the Council.\n(3) An application for registration under this section shall be in the prescribed form and shall be accompanied by the prescribed fee.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person trained in an approved institution in Kenya wishing to be registered under this Act shall apply for registration to the Council."
+    },
+    {
+     "ref": "(2)",
+     "text": "An applicant for registration who is a graduate of a foreign school of physiotherapy shall, furnish evidence satisfactory to the Council that the applicant:"
+    },
+    {
+     "ref": "(3)",
+     "text": "An application for registration under this section shall be in the prescribed form and shall be accompanied by the prescribed fee."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "TRAINING AND REGISTRATION OF PHYSIOTHERAPISTS",
+   "text": "(1) The Registrar shall maintain a register for persons registered under this Act\n(2) The Register maintained under subsection (1) may be in such form as may be prescribed and different registers may be kept for different categories of physiotherapists.\n(3) The Registrar shall—\n  (a) not later than the 31st March in every year, publish in the Gazette and in the official Council website, the names, addresses and qualifications of all registered physiotherapists; and\n  (b) subject to the directions of the Council, cause to be published any amendments or deletion from the registers.\n(4) Every registered physiotherapist shall notify the Registrar of any change in his registered address.\n(5) The Registrar may, with the consent of the person concerned remove from the register, the name of a person who has ceased to practice.\n(6) A name removed from the register under subsection (4) may, at the request of the person concerned, on the approval of the Council and on payment of the prescribed fee, be reinstated by the Registrar.\n(7) Any person may inspect the register and any documents relating to any entry therein, and may obtain from the Registrar, a copy of, or an extract from the registers on payment of the prescribed fee.\n[Act No. 5 of 2019, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar shall maintain a register for persons registered under this Act"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Register maintained under subsection (1) may be in such form as may be prescribed and different registers may be kept for different categories of physiotherapists."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Registrar shall—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Every registered physiotherapist shall notify the Registrar of any change in his registered address."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Registrar may, with the consent of the person concerned remove from the register, the name of a person who has ceased to practice."
+    },
+    {
+     "ref": "(6)",
+     "text": "A name removed from the register under subsection (4) may, at the request of the person concerned, on the approval of the Council and on payment of the prescribed fee, be reinstated by the Registrar."
+    },
+    {
+     "ref": "(7)",
+     "text": "Any person may inspect the register and any documents relating to any entry therein, and may obtain from the Registrar, a copy of, or an extract from the registers on payment of the prescribed fee."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Removal of names from the register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "TRAINING AND REGISTRATION OF PHYSIOTHERAPISTS",
+   "text": "(1) The Registrar shall remove from the register—\n  (a) the names of all deceased persons;\n  (b) the names of all persons removed from the register under this Act;\n  (c) any entries fraudulently or erroneously made.\n(2) The Registrar shall, as soon as reasonably practicable, cause the name and address of every person whose name is removed from the Register under this section, to be published in the Gazette.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Registrar shall remove from the register—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Registrar shall, as soon as reasonably practicable, cause the name and address of every person whose name is removed from the Register under this section, to be published in the Gazette."
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Qualification for private practice",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "PROVISIONS RELATING TO PRIVATE PRACTICE",
+   "text": "(1) Subject to this Act, no person shall engage in private practice as a physiotherapist unless that person holds a valid practicing certificate issued under this Act.\n(2) For the purposes of this Act, a person shall be deemed to engage in private practice if the person practices as a physiotherapist—\n  (a) on the persons own account and is entitled to receive the entire amount of all fees and charges earned for the persons own financial benefit;\n  (b) in partnership with others and is entitled to receive a share of the profits earned by such partnership and is liable to bear a share of any losses incurred by such partnership, but no person shall be deemed to engage in private practice where he is employed—\n  (i) by the Government or any other public body;\n  (ii) by a state corporation as defined by the State Corporations Act; or\n  (iii) by any person or partnership engaged in his profession where all fees and charges earned by him are to the benefit of his employer, notwithstanding that he is engaged in his professional capacity as a physiotherapist.\n(3) A person who engages in private practice as a physiotherapist contrary to the provisions of this section commits an offence and shall, on conviction, be liable to a fine not more than one million shillings, or to imprisonment for a term not less than one year, or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this Act, no person shall engage in private practice as a physiotherapist unless that person holds a valid practicing certificate issued under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of this Act, a person shall be deemed to engage in private practice if the person practices as a physiotherapist—"
+    },
+    {
+     "ref": "(3)",
+     "text": "A person who engages in private practice as a physiotherapist contrary to the provisions of this section commits an offence and shall, on conviction, be liable to a fine not more than one million shillings, or to imprisonment for a term not less than one year, or to both."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Application for practicing certificate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "PROVISIONS RELATING TO PRIVATE PRACTICE",
+   "text": "(1) An application for a practicing certificate shall be made to the Registrar in such form as may be prescribed.\n(2) Every application under this section shall be accompanied by the prescribed fee. (3) The Council shall, where a physiotherapist is duly registered under this Act and is not for the time being suspended from practice, within sixty days of receipt by the Council of the application, issue to the applicant a practicing certificate in the prescribed form. (4) The Registrar shall keep one copy of every application delivered to him under this section.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "An application for a practicing certificate shall be made to the Registrar in such form as may be prescribed."
+    },
+    {
+     "ref": "(2)",
+     "text": "Every application under this section shall be accompanied by the prescribed fee. (3) The Council shall, where a physiotherapist is duly registered under this Act and is not for the time being suspended from practice, within sixty days of receipt by the Council of the application, issue to the applicant a practicing certificate in the prescribed form. (4) The Registrar shall keep one copy of every application delivered to him under this section."
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Validity of practicing certificate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "PROVISIONS RELATING TO PRIVATE PRACTICE",
+   "text": "(1) Every practicing certificate shall bear the date on which it is issued and shall have effect from that day.\n(2) A practicing certificate issued under this section shall be valid from the date it is issued and shall expire on the 31st December of the year it is issued.\n(3) Where the name of the physiotherapist is removed or struck off the register, the practicing certificate, if any, shall expire forthwith.\n(4) The Registrar shall enter in the register the date of issue of every practicing certificate.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Every practicing certificate shall bear the date on which it is issued and shall have effect from that day."
+    },
+    {
+     "ref": "(2)",
+     "text": "A practicing certificate issued under this section shall be valid from the date it is issued and shall expire on the 31st December of the year it is issued."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where the name of the physiotherapist is removed or struck off the register, the practicing certificate, if any, shall expire forthwith."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Registrar shall enter in the register the date of issue of every practicing certificate."
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Renewal, cancellation and suspension of practicing certificate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "PROVISIONS RELATING TO PRIVATE PRACTICE",
+   "text": "(1) A physiotherapist issued with a practicing certificate may apply for renewal of the certificate in the prescribed form at least thirty days before the date of expiry thereof.\n(2) A physiotherapist who fails to renew his practicing certificate within the prescribed period shall, when applying for a renewal, be required to pay such late application fee, as shall be prescribed.\n(3) The Council shall have the power to renew any practicing certificate and may, refuse to renew, cancel, withdraw or suspend a practicing certificate for a period not exceeding twelve months, if satisfied that the physiotherapist is guilty of professional misconduct or is in breach of any provisions of this Act or its rules.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A physiotherapist issued with a practicing certificate may apply for renewal of the certificate in the prescribed form at least thirty days before the date of expiry thereof."
+    },
+    {
+     "ref": "(2)",
+     "text": "A physiotherapist who fails to renew his practicing certificate within the prescribed period shall, when applying for a renewal, be required to pay such late application fee, as shall be prescribed."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Council shall have the power to renew any practicing certificate and may, refuse to renew, cancel, withdraw or suspend a practicing certificate for a period not exceeding twelve months, if satisfied that the physiotherapist is guilty of professional misconduct or is in breach of any provisions of this Act or its rules."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Disciplinary committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "DISCIPLINARY PROVISIONS",
+   "text": "(1) There is established a Disciplinary Committee of the Council which shall consist of—\n  (a) the chairperson of the Kenya Society of Physiotherapists who shall be chairperson of the Committee;\n  (b) the Principal Secretary in the Ministry responsible for health or his designated representative;\n  (c) two physiotherapists not being members of the Council, competitively and transparently appointed by the Cabinet Secretary of whom—\n  (i) one shall be in the public service;\n  (ii) one shall be from the private practice;\n  (d) the Attorney-General or a designated representative; and (e) the Registrar who shall be an ex-officio member and the secretary of the Committee.\n(2) The quorum of the Committee shall be three members. (3) A member of the Disciplinary Committee shall hold office for three years and shall be eligible for re- appointment for one further term of office.\n(4) The Council shall provide the Disciplinary Committee with such facilities and resources as are necessary to enable it to competently discharge its functions.\n(5) The Council shall pay to its members such remuneration, fees or allowances for expenses as it may determine, in consultation with the Salaries and Remuneration Commission.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "There is established a Disciplinary Committee of the Council which shall consist of— (a) the chairperson of the Kenya Society of Physiotherapists who shall be chairperson of the Committee; (b) the Principal Secretary in the Ministry responsible for health or his designated representative; (c) two physiotherapists not being members of the Council, competitively and transparently appointed by the Cabinet Secretary of whom— (i) one shall be in the public service; (ii) one shall be from the private practice; (d) the Attorney-General or a designated representative; and (e) the Registrar who shall be an ex-officio member and the secretary of the Committee."
+    },
+    {
+     "ref": "(2)",
+     "text": "The quorum of the Committee shall be three members. (3) A member of the Disciplinary Committee shall hold office for three years and shall be eligible for re- appointment for one further term of office."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Council shall provide the Disciplinary Committee with such facilities and resources as are necessary to enable it to competently discharge its functions."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Council shall pay to its members such remuneration, fees or allowances for expenses as it may determine, in consultation with the Salaries and Remuneration Commission."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Reference of matters to Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "DISCIPLINARY PROVISIONS",
+   "text": "The Council may refer a matter to the Disciplinary Committee if it has reason to believe that a person registered under this Act has been, either before or after he was registered—\n  (a) convicted of an offence punishable by imprisonment for more than six months, the commission of which in the opinion of the Council, has dishonored him in the public estimation; or\n  (b) guilty of negligence or professional misconduct in respect of his profession; or\n  (c) guilty of impropriety or misconduct in respect of his profession.",
+   "clauses": []
+  },
+  "30": {
+   "num": "30",
+   "title": "Functions of the Committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "DISCIPLINARY PROVISIONS",
+   "text": "The functions of the Committee shall be to inquire into any matter referred to it by the Council under section 30 and to make its recommendations thereon to the Council.",
+   "clauses": []
+  },
+  "31": {
+   "num": "31",
+   "title": "Procedure of the committee",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "DISCIPLINARY PROVISIONS",
+   "text": "(1) Upon an inquiry by the Committee, the physiotherapist subject to the inquiry shall be afforded an opportunity to be heard either in person or through an advocate.\n(2) For the purpose of proceedings at any inquiry by the Committee, the Committee may administer oaths or affirmations and may, subject to any rules made under section 39, enforce the attendance of persons as witnesses and the production of any books or other documents relevant to the inquiry.\n(3) The Committee shall, subject to any rules made under this Act, have power to regulate its own procedure in any disciplinary proceedings.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Upon an inquiry by the Committee, the physiotherapist subject to the inquiry shall be afforded an opportunity to be heard either in person or through an advocate."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purpose of proceedings at any inquiry by the Committee, the Committee may administer oaths or affirmations and may, subject to any rules made under section 39, enforce the attendance of persons as witnesses and the production of any books or other documents relevant to the inquiry."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Committee shall, subject to any rules made under this Act, have power to regulate its own procedure in any disciplinary proceedings."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Disciplinary measures",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "DISCIPLINARY PROVISIONS",
+   "text": "(1) Where on the recommendations of the Committee the Council is satisfied that a physiotherapist is in breach of any of the terms or conditions prescribed by the Council under section 30, the Council may—\n  (a) impose a fine which the Council deems appropriate in the circumstances;\n  (b) issue the physiotherapist with a letter of admonishment;\n  (c) suspend the registration certificate of the physiotherapist for a specified period not less than three months but not exceeding twelve months;\n  (d) withdraw or cancel the practicing certificate of the physiotherapist for a period not less than twelve months but not exceeding three years; or\n  (e) remove the name of the physiotherapist from the register.\n(2) The Council may order a physiotherapist to reimburse costs and expenses incurred in connection with a disciplinary hearing and such costs shall be a civil debt recoverable by the Council.\n(3) Where, after the hearing in disciplinary proceedings under this Act the Committee recommends to the Council that a physiotherapist is unfit to practice as a result of ill-health, the Council may, if satisfied with the Committee's recommendations, withdraw the certificate of registration or practicing certificate of the physiotherapist until such time as the Council is satisfied that the physiotherapist is fully recovered to resume his duties.\n(4) A physiotherapist who has been suspended from practice or whose license to practice has been withdrawn or cancelled shall, from the date of the suspension, withdrawal or cancellation, surrender his registration and practicing certificates and annual license to the Registrar.\n(5) A physiotherapist who refuses or fails to surrender his practicing licence or certificates to the Registrar on request shall be guilty of professional misconduct and liable to a fine of not less than twenty thousand shillings by the Council.\n(6) A physiotherapist who is aggrieved by the decision of the Council in the exercise of its powers under this section may, within sixty days from the date of the decision of the Council, appeal to the High Court.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where on the recommendations of the Committee the Council is satisfied that a physiotherapist is in breach of any of the terms or conditions prescribed by the Council under section 30, the Council may—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council may order a physiotherapist to reimburse costs and expenses incurred in connection with a disciplinary hearing and such costs shall be a civil debt recoverable by the Council."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where, after the hearing in disciplinary proceedings under this Act the Committee recommends to the Council that a physiotherapist is unfit to practice as a result of ill-health, the Council may, if satisfied with the Committee's recommendations, withdraw the certificate of registration or practicing certificate of the physiotherapist until such time as the Council is satisfied that the physiotherapist is fully recovered to resume his duties."
+    },
+    {
+     "ref": "(4)",
+     "text": "A physiotherapist who has been suspended from practice or whose license to practice has been withdrawn or cancelled shall, from the date of the suspension, withdrawal or cancellation, surrender his registration and practicing certificates and annual license to the Registrar."
+    },
+    {
+     "ref": "(5)",
+     "text": "A physiotherapist who refuses or fails to surrender his practicing licence or certificates to the Registrar on request shall be guilty of professional misconduct and liable to a fine of not less than twenty thousand shillings by the Council."
+    },
+    {
+     "ref": "(6)",
+     "text": "A physiotherapist who is aggrieved by the decision of the Council in the exercise of its powers under this section may, within sixty days from the date of the decision of the Council, appeal to the High Court."
+    }
+   ]
+  },
+  "33": {
+   "num": "33",
+   "title": "Lifting of suspension",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "DISCIPLINARY PROVISIONS",
+   "text": "(1) A physiotherapist who has been suspended from practising may appeal to the Council for the lifting of the suspension at any time before the expiry thereof.\n(2) Where the Council is satisfied that the suspension of a physiotherapist should be lifted, the Council shall, upon the receipt of the prescribed fee, lift the suspension and restore to the physiotherapist, his registration and practicing certificates and his annual license.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A physiotherapist who has been suspended from practising may appeal to the Council for the lifting of the suspension at any time before the expiry thereof."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where the Council is satisfied that the suspension of a physiotherapist should be lifted, the Council shall, upon the receipt of the prescribed fee, lift the suspension and restore to the physiotherapist, his registration and practicing certificates and his annual license."
+    }
+   ]
+  },
+  "34": {
+   "num": "34",
+   "title": "Restoration of name in register",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "DISCIPLINARY PROVISIONS",
+   "text": "(1) A physiotherapist whose name has been removed from the register may, after the expiry of a period of three years from the date of such removal, appeal to the Council for restoration of his name in the register.\n(2) The Council may, after considering the appeal made under subsection (1), cause the name of the applicant to be restored in the appropriate register, upon payment of the prescribed fee.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A physiotherapist whose name has been removed from the register may, after the expiry of a period of three years from the date of such removal, appeal to the Council for restoration of his name in the register."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Council may, after considering the appeal made under subsection (1), cause the name of the applicant to be restored in the appropriate register, upon payment of the prescribed fee."
+    }
+   ]
+  },
+  "35": {
+   "num": "35",
+   "title": "Certificates",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) A certificate under the seal of the Council to the effect that a person is or was at any date registered under this Act shall be conclusive evidence of the facts so stated.\n(2) All certificates under the seal of the Council shall remain the property of the Council.\n(3) A person whose name is removed from the register or in the case of a deceased person, his legal representative shall, within thirty days of the publication of such removal, surrender the certificate of registration of that person to the Council.\n(4) A person who—\n  (a) destroys or defaces a certificate of registration;\n  (b) without reasonable excuse, is in possession of a certificate of registration not issued to him; or\n  (c) fails to surrender a certificate of registration under subsection (3), commits an offence and shall, on conviction, be liable to a fine not less than thirty thousand shillings, or to imprisonment for a term not exceeding three months, or to both.\n(5) A person who is in possession of a certificate of registration not issued to him, or fails to surrender such certificate under subsection (4) commits an offence and shall, on conviction, be liable to a fine not less than thirty thousand shillings, or to imprisonment for a term not exceeding three months, or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A certificate under the seal of the Council to the effect that a person is or was at any date registered under this Act shall be conclusive evidence of the facts so stated."
+    },
+    {
+     "ref": "(2)",
+     "text": "All certificates under the seal of the Council shall remain the property of the Council."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person whose name is removed from the register or in the case of a deceased person, his legal representative shall, within thirty days of the publication of such removal, surrender the certificate of registration of that person to the Council."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person who—"
+    },
+    {
+     "ref": "(5)",
+     "text": "A person who is in possession of a certificate of registration not issued to him, or fails to surrender such certificate under subsection (4) commits an offence and shall, on conviction, be liable to a fine not less than thirty thousand shillings, or to imprisonment for a term not exceeding three months, or to both."
+    }
+   ]
+  },
+  "36": {
+   "num": "36",
+   "title": "Offences by partnership or bodies corporate",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Any act or omission which is an offence under this Act or any rules made hereunder shall, if done by a body corporate, be deemed to be an offence committed by every director, secretary or manager of the body corporate unless proved that the offence was committed without consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions and the circumstances of the case.\n(2) If an offence under this Act or any rules made hereunder is committed by a partner in a firm, every person who, at the time of the commission of the offence, was a partner in that firm, or was purporting to act in that office shall be deemed to have committed the offence unless there is proof that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions and the circumstances of the case.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any act or omission which is an offence under this Act or any rules made hereunder shall, if done by a body corporate, be deemed to be an offence committed by every director, secretary or manager of the body corporate unless proved that the offence was committed without consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions and the circumstances of the case."
+    },
+    {
+     "ref": "(2)",
+     "text": "If an offence under this Act or any rules made hereunder is committed by a partner in a firm, every person who, at the time of the commission of the offence, was a partner in that firm, or was purporting to act in that office shall be deemed to have committed the offence unless there is proof that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions and the circumstances of the case."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Offences relating to registration",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) No person shall practice as a physiotherapist in any health institution or in any other place in Kenya unless that person is registered under this Act.\n(2) A person who contravenes the provisions of subsection (1) commits an offence and shall, on conviction, be liable to a fine not more than five hundred thousand shillings, or to imprisonment for a term not less than twelve months, or to both.\n(3) No person shall, while in charge of a health institution or any other health organization in Kenya, allow a person who is not registered under this Act to practice as a physiotherapist in the institution.\n(4) A person who contravenes the provisions of subsection (3) commits an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand, or imprisonment for a term of not less than two years, or to both.\n(5) Any person who, in an application for registration, willfully makes a false or misleading statement or presents a false certificate, commits an offence and shall, on conviction be liable to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term of not less than one year, or to both.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No person shall practice as a physiotherapist in any health institution or in any other place in Kenya unless that person is registered under this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who contravenes the provisions of subsection (1) commits an offence and shall, on conviction, be liable to a fine not more than five hundred thousand shillings, or to imprisonment for a term not less than twelve months, or to both."
+    },
+    {
+     "ref": "(3)",
+     "text": "No person shall, while in charge of a health institution or any other health organization in Kenya, allow a person who is not registered under this Act to practice as a physiotherapist in the institution."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person who contravenes the provisions of subsection (3) commits an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand, or imprisonment for a term of not less than two years, or to both."
+    },
+    {
+     "ref": "(5)",
+     "text": "Any person who, in an application for registration, willfully makes a false or misleading statement or presents a false certificate, commits an offence and shall, on conviction be liable to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term of not less than one year, or to both."
+    }
+   ]
+  },
+  "38": {
+   "num": "38",
+   "title": "General penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "A person convicted of an offence under this Act for which no penalty is provided shall, on conviction, be liable to a fine not exceeding thirty thousand shillings or to imprisonment for a term not exceeding three months, or to both.",
+   "clauses": []
+  },
+  "39": {
+   "num": "39",
+   "title": "Rules",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Council shall make rules generally for the better carrying out of the provisions of this Act.\n(2) Without prejudice to the generality of the foregoing, such rules may provide for—\n  (a) prescribing anything required to be prescribed under this Act;\n  (b) the form and method of keeping the registers and other records under this Act;\n  (c) the conditions under which training institutions other than those established or accredited under the Universities Act (Cap. 210) may be approved;\n  (d) the course content and examination for physiotherapist for purposes of registration under this Act;\n  (e) the terms and conditions of professional practice of registered physiotherapist;\n  (f) the forms and fees for the purposes of this Act;\n  (g) the form and method of conducting any inspection, assessment, evaluation, examination or regulation required under this Act;\n  (h) prescribe the terms and conditions of the practice of a physiotherapist engaged in private practice, the services to be rendered by a physiotherapist in private practice; and the employment of a physiotherapist in private institutions.\n  (i) any other matter that may related to physiotherapy practice in Kenya",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Council shall make rules generally for the better carrying out of the provisions of this Act."
+    },
+    {
+     "ref": "(2)",
+     "text": "Without prejudice to the generality of the foregoing, such rules may provide for—"
+    }
+   ]
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 7(2)]",
+   "subtitle": "PROVISIONS AS TO THE CONDUCT OF BUSINESS AND AFFAIRS OF THE COUNCIL",
+   "text": "1. Tenure of office The Chairperson or a member of the Council other than ex officio members shall, subject to the provisions of this Schedule, hold office for a period of three years, on such terms and conditions as may be specified in the instrument of appointment, but shall be eligible for re-appointment for one further term.\n2. Vacation of office A member other than an ex officio member may—\n  (a) at any time resign from office by notice in writing to the Cabinet Secretary;\n  (b) be removed from office by the Cabinet Secretary on recommendation of the Council if the member —\n  (i) has been absent from three consecutive meetings of the Council without its permission;\n  (ii) is convicted of a criminal offence that amounts to a felony in Kenya;\n  (iii) is incapacitated by prolonged physical or mental illness for a period exceeding six months;\n  (iv) is otherwise unable or unfit to discharge his functions.\n3. Meetings\n(1) The Council shall meet not less than four times in every financial year and not more than four months shall elapse between the date of one meeting and the date of the next meeting.\n(2) Notwithstanding subparagraph (1), the Chairperson may, and upon requisition in writing by at least five members shall, convene a special meeting of the Council at any time for the transaction of the business of the Council.\n(3) Unless three quarters of the total members of the Council otherwise agree, at least fourteen days' written notice of every meeting of the Council shall be given to every member of the Council.\n(4) The quorum for the conduct of the business of the Council shall be half of the total members including the Chairperson or the person presiding.\n(5) In the absence of the Chairperson, the members present shall elect one of their number to preside whenever the Chairperson is absent, and the person so elected shall have all the powers of the Chairperson with respect to that meeting and the business transacted thereat.\n(6) Unless a unanimous decision is reached, a decision on any matter before the Council shall be by a majority of the votes of the members present and voting, and in case of an equality of votes, the Chairperson or the person presiding shall have a casting vote.\n(7) Subject to subparagraph (6), no proceedings of the Council shall be invalid by reason only of a vacancy among the members thereof.\n(8) Subject to the provisions of this Schedule, the Council may determine its own procedure and the procedure for any committee of the Council and for the attendance of other persons at its meetings and may make standing orders in respect thereof.\n4. Committees of the Council\n(1) The Council may establish such committees as it may deem appropriate to perform such functions and responsibilities as it may determine.\n(2) The Committee established under subparagraph (1) shall elect the chairperson from amongst its members.\n(3) The Council may where it deems appropriate, co-opt any person to attend the deliberations of any of its committees.\n(4) All decisions by the committees appointed under subsection (1) shall be ratified by the Council.\n5. Disclosure of interest\n(1) A member who has an interest in any contract, or other matter present at a meeting shall at the meeting and as soon as reasonably practicable after the commencement, disclose the fact thereof and shall not take part in the consideration or discussion of, or vote on, any questions with respect to the contract or other matter, or be counted in the quorum of the meeting during consideration of the matter.\n(2) A disclosure of interest made under subparagraph (1) shall be recorded in the minutes of the meeting at which it is made.\n(3) A member of the Council who contravenes subparagraph (1) commits an offence and is liable to a fine not exceeding two hundred thousand shillings.\n6. Contracts and instruments Any contract or instrument which, if entered into or executed by a person not being a body corporate, would not require to be under seal may be entered into or executed on behalf of the Council by any person generally or specially authorized by the Council for that purpose.\n7. Common Seal\n(1) The affixing of the common seal of the Council shall be authenticated by the signature of the chairperson and the Registrar and any document not required by law to be made under seal and all decisions of the Council may be authenticated by the signatures of the chairman and the Registrar.\n(2) The Council shall, by resolution in the absence of either the chairperson or the Registrar in any particular matter, nominate one member to authenticate the seal of the Council on behalf of either the chairperson or the Registrar."
+  }
+ ],
+ "spent": {}
+}

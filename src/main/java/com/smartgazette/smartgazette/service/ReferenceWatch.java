@@ -44,6 +44,20 @@ public class ReferenceWatch {
     private final LawReferenceService laws;
     private final ReferenceFlagRepository repo;
 
+    /** "key|watcher|detail" the owner has looked at and dismissed (reference/watch_dismissed.json). */
+    private static final Set<String> DISMISSED = loadDismissed();
+
+    private static Set<String> loadDismissed() {
+        Set<String> out = new HashSet<>();
+        try (java.io.InputStream in = new org.springframework.core.io.ClassPathResource("reference/watch_dismissed.json").getInputStream()) {
+            for (JsonNode d : new com.fasterxml.jackson.databind.ObjectMapper().readTree(in).path("dismissed"))
+                out.add(d.path("key").asText() + "|" + d.path("watcher").asText() + "|" + d.path("detail").asText());
+        } catch (java.io.IOException e) {
+            LoggerFactory.getLogger(ReferenceWatch.class).warn("No reference/watch_dismissed.json - nothing dismissed.");
+        }
+        return out;
+    }
+
     @Value("${reference-watch.old-copy-years:5}")
     private int oldCopyYears = 5;
 
@@ -121,7 +135,7 @@ public class ReferenceWatch {
                         sentenceAt(text, s.start(), s.end())));
             }
         }
-        Set<String> seen = new HashSet<>();
+        Set<String> seen = new HashSet<>(DISMISSED);
         List<Flag> unique = new ArrayList<>();
         for (Flag f : out) if (seen.add(f.key() + "|" + f.watcher() + "|" + f.detail())) unique.add(f);
         return unique;
@@ -146,7 +160,8 @@ public class ReferenceWatch {
         List<Flag> out = new ArrayList<>();
         for (String key : laws.lawKeys()) {
             String v = field(key, "version_date");
-            if (v != null && ChronoUnit.DAYS.between(LocalDate.parse(v), today) > oldCopyYears * 365L) {
+            if (v != null && ChronoUnit.DAYS.between(LocalDate.parse(v), today) > oldCopyYears * 365L
+                    && !DISMISSED.contains(key + "|law.old_copy|" + v)) {
                 String url = field(key, "source_url");
                 out.add(new Flag("law", key, "law.old_copy", v,
                         "Our copy of the " + nameOf(key) + " is text as at " + v + " (over " + oldCopyYears + " years old).",
@@ -156,10 +171,47 @@ public class ReferenceWatch {
         return out;
     }
 
+    /** Amending Acts saved in raw/law/ (reference/amendments.json): title -> {date, amends}. */
+    private static final JsonNode AMENDMENTS = loadAmendments();
+
+    private static JsonNode loadAmendments() {
+        try (java.io.InputStream in = new org.springframework.core.io.ClassPathResource("reference/amendments.json").getInputStream()) {
+            return new com.fasterxml.jackson.databind.ObjectMapper().readTree(in).path("amendments");
+        } catch (java.io.IOException e) {
+            return com.fasterxml.jackson.databind.node.MissingNode.getInstance();
+        }
+    }
+
+    private static String amendmentDate(String title) {
+        for (JsonNode a : AMENDMENTS) if (a.path("title").asText().equals(title) && a.hasNonNull("date")) return a.path("date").asText();
+        return null;
+    }
+
+    /** law.amended_after_copy from the saved amending Acts (= reference_watch.amendment_flags). */
+    public List<Flag> amendmentFlags() {
+        List<Flag> out = new ArrayList<>();
+        for (JsonNode a : AMENDMENTS) {
+            String title = a.path("title").asText(), date = a.hasNonNull("date") ? a.path("date").asText() : null;
+            for (JsonNode k : a.path("amends")) {
+                String key = k.asText(), v = field(key, "version_date");
+                if (date != null && v != null && date.compareTo(v) > 0 && !DISMISSED.contains(key + "|law.amended_after_copy|" + title)) {
+                    out.add(new Flag("law", key, "law.amended_after_copy", title,
+                            "The " + title + " (" + date + ") amends the " + nameOf(key) + "; our copy is text as at " + v + ", before it.",
+                            "Save the current version of the " + nameOf(key) + " from Kenya Law to raw/law/ and rebuild "
+                                    + "(python tools/build_law_reference.py pdfs raw/law).",
+                            "raw/law/" + a.path("file").asText()));
+                }
+            }
+        }
+        return out;
+    }
+
     /** A flag the library itself now answers, after a rebuild. */
     boolean isClosed(String key, String watcher, String detail) {
         JsonNode d = laws.law(key);
         if ("law.missing_section".equals(watcher)) return d != null && d.path("provisions").has(detail.substring(2));
+        String amended = "law.amended_after_copy".equals(watcher) ? amendmentDate(detail) : null;
+        if (amended != null) return field(key, "version_date") != null && field(key, "version_date").compareTo(amended) >= 0;
         if ("law.amended_after_copy".equals(watcher) || "law.amending_supplement".equals(watcher)) {
             Matcher y = Pattern.compile("(\\d{4})\\s*$").matcher(detail);
             return y.find() && yearOf(key) != null && yearOf(key) >= Integer.parseInt(y.group(1));
@@ -225,6 +277,7 @@ public class ReferenceWatch {
     public void review() {
         try {
             for (Flag f : oldCopies(LocalDate.now())) record(f, "daily review");
+            for (Flag f : amendmentFlags()) record(f, "amending Acts in the library");
             List<ReferenceFlag> open = repo.findByStatusOrderByFirstSeenAsc(ReferenceFlag.Status.OPEN);
             int closed = 0;
             for (ReferenceFlag r : open) {

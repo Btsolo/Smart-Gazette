@@ -1,0 +1,101 @@
+{
+ "title": "Law of Contract Act",
+ "citation": "Cap. 23",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/1960/43/eng@2022-12-31",
+ "version_date": "2022-12-31",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "LAW OF CONTRACT ACT CAP. 23 Assented to on 25 November 1960 Commenced on 1 January 1961\n[Amended by Kenya (Amendment of Laws) (Miscellaneous Amendments) (No. 1) Order, 1964 (Legal Notice 87 of 1964) on 24 March 1964]\n[Amended by Law of Contract (Amendment) Act, 1968 (Act No. 28 of 1968) on 3 May 1968] [Amended by Disposal of Uncollected Goods Act (Cap. 38) on 8 May 1987]\n[Amended by Statute Law (Miscellaneous Amendments) Act.(No.2), 1990 (Act No. 21 of 1990) on 18 January 1990] [Amended by Auctioneers Act (Cap. 526) on 15 August 1997]\n[Amended by Statute Law (Miscellaneous Amendments) Act, 2002 (Act No. 2 of 2002) on 7 June 2002] [Amended by Business Laws (Amendment) Act, 2020 (Act No. 1 of 2020) on 18 March 2020]\n[Amended by Business Laws (Amendment) (No. 2) Act, 2021 (Act No. 1 of 2021) on 30 March 2021] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to apply the English common law of contract to Kenya, with certain modifications",
+ "parts": [],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "This Act may be cited as the Law of Contract Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "English law of contract to apply in Kenya.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) Save as may be provided by any written law for the time being in force, the common law of England relating to contract, as modified by the doctrines of equity, by the Acts of Parliament of the United Kingdom applicable by virtue of subsection 2 of this section and by the Acts of Parliament of the United Kingdom specified in the Schedule to this Act, to the extent and subject to the modifications mentioned in the said Schedule, shall extend and apply to Kenya:\nProvided that no contract in writing shall be void or unenforceable by reason only that it is not under seal.\n(2) After the commencement, and subject to section 4, of this Act, the provisions of section 74 of the Kenya (Constitution) Order in Council, 1958, shall have effect, in relation to paragraph (2) of Article 4 of the Kenya Colony Order in Council, 1921, as if the Contract Act, 1872, of India had never been applied to Kenya.\n[Vol. V, (1948), Act No. 9 of 1872, L.N. 87/1964, Sch.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Save as may be provided by any written law for the time being in force, the common law of England relating to contract, as modified by the doctrines of equity, by the Acts of Parliament of the United Kingdom applicable by virtue of subsection 2 of this section and by the Acts of Parliament of the United Kingdom specified in the Schedule to this Act, to the extent and subject to the modifications mentioned in the said Schedule, shall extend and apply to Kenya:"
+    },
+    {
+     "ref": "(2)",
+     "text": "After the commencement, and subject to section 4, of this Act, the provisions of section 74 of the Kenya (Constitution) Order in Council, 1958, shall have effect, in relation to paragraph (2) of Article 4 of the Kenya Colony Order in Council, 1921, as if the Contract Act, 1872, of India had never been applied to Kenya."
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Certain contracts to be in writing.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "(1) No suit shall be brought whereby to charge the defendant upon any special promise to answer for the debt, default or miscarriages of another person unless the agreement upon which such suit is brought, or some memorandum or note thereof, is in writing and signed by the party to be charged therewith or some other person thereunto by him lawfully authorized.\n(2) No suit shall be brought whereby to charge any person upon or by reason of any representation or assurance made or given concerning or relating to the character, conduct, credit, ability, trade or dealings of any other person, to the intent or purpose that such other person may obtain credit, money or goods, unless such representation or assurance is made in writing, signed by the party to be charged therewith.\n(3) No suit shall be brought upon a contract for the disposition of an interest in land unless—\n  (a) the contract upon which the suit is founded—\n  (i) is in writing;\n  (ii) is signed by all the parties thereto; and\n  (b) the signature of each party signing has been attested by a witness who is present when the contract was signed by such party:\nProvided that this subsection shall not apply to a contract made in the course of a public auction by an auctioneer within the meaning of the Auctioneers Act (Cap. 526), nor shall anything in it affect the creation of a resulting, implied or constructive trust.\n(4) Subsection (3) shall not apply to a contract made in the course of a public auction nor shall anything in that subsection affect the creation or operation of a resulting, implied or a constructive trust.\n(5) The terms of a contract may be incorporated in a document either by being set out in it or by reference to some other document.\n(6) For the purposes of subsection (3)—\n\"advanced electronic signature\" has the same meaning as defined in the Kenya Information and Communications Act (Cap. 411A);\n\"disposition\" includes a transfer and a device, bequest or appointment of property contained in a will;\n\"interest in land\" means any estate in or charge over land, or any estate in or charge over the proceeds of sale of land;\n\"party\" includes any agent, auctioneer or advocate duly authorized in writing to act in the absence of the party who has given such authority;\n\"sign\", in relation to a contract, includes making one’s mark or writing one’s name or initial physically or by means of an advanced electronic signature on the instrument as an indication that one intends to bind himself to the contents of the instrument and in relation to a body corporate includes—\n  (a) signature by an attorney of the body corporate duly appointed by a power of attorney registered under the Registration of Documents Act (Cap. 285);\n  (b) the affixing of the common seal of the body corporate in accordance with the constitution or the articles of association of the body corporate, as the case may be, in which case no further attestation shall be required;\n  (c) execution of the document in accordance with section 37 of the Companies Act (Cap. 486), for body corporates incorporated under the Companies Act (Cap. 486).\n\"transfer\" includes a mortgage, charge, lease, conveyance, assignment, assent, vesting declaration, vesting instrument disclaimer, release and every other assurance of property or any interest therein by any instrument other than a will or a codicil.\n(7) The provisions of subsection (3) shall not apply to any agreement or contract made or entered into before the commencement of that subsection.\n[Act No. 28 of 1968, Act No. 21 of 1990, Sch., Act No. 5 of 1996, s. 33, Act No. 2 of 2002, Sch, Act No. 1 of 2020, s. 2, Act No. 1 of 2021, s. 2.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "No suit shall be brought whereby to charge the defendant upon any special promise to answer for the debt, default or miscarriages of another person unless the agreement upon which such suit is brought, or some memorandum or note thereof, is in writing and signed by the party to be charged therewith or some other person thereunto by him lawfully authorized."
+    },
+    {
+     "ref": "(2)",
+     "text": "No suit shall be brought whereby to charge any person upon or by reason of any representation or assurance made or given concerning or relating to the character, conduct, credit, ability, trade or dealings of any other person, to the intent or purpose that such other person may obtain credit, money or goods, unless such representation or assurance is made in writing, signed by the party to be charged therewith."
+    },
+    {
+     "ref": "(3)",
+     "text": "No suit shall be brought upon a contract for the disposition of an interest in land unless—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Subsection (3) shall not apply to a contract made in the course of a public auction nor shall anything in that subsection affect the creation or operation of a resulting, implied or a constructive trust."
+    },
+    {
+     "ref": "(5)",
+     "text": "The terms of a contract may be incorporated in a document either by being set out in it or by reference to some other document."
+    },
+    {
+     "ref": "(6)",
+     "text": "For the purposes of subsection (3)—"
+    },
+    {
+     "ref": "(7)",
+     "text": "The provisions of subsection (3) shall not apply to any agreement or contract made or entered into before the commencement of that subsection."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Application of Indian Act.",
+   "chapter": null,
+   "chapter_title": null,
+   "part": null,
+   "part_title": null,
+   "text": "The Contract Act, 1872, of India (now repealed in its application to Kenya) shall, notwithstanding such repeal, continue to apply to any agreement made or contract entered into before the commencement of this Act.\n[Act No. 9 of 1872, Act No. 3 of 1987, s. 10.]",
+   "clauses": []
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "SCHEDULE [s. 2]",
+   "subtitle": "APPLICABLE LAWS OF THE UNITED KINGDOM",
+   "text": "The Law Reform (Married Women and Tortfeasors) Act, 1935 (25 and 26 Geo. 5, The Law Reform (Frustrated Contracts) Act, 1943 (6 & 7 Geo. 6, c. 40) Paragraphs (b) and (c) of section 1 in so far as they relate to contract, debt or obligation (not being a debt or obligation arising out of the commission of a tort).\nThe whole Act:\nProvided that the reference in paragraph (c) of subsection (5) of section 2 to section seven of the Sale of Goods Act (Cap. 31) shall be construed as a reference to section 9 of the Sale of Goods Act (Cap. 31)."
+  }
+ ],
+ "spent": {}
+}

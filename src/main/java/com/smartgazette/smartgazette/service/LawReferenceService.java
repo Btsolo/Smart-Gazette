@@ -144,10 +144,20 @@ public class LawReferenceService {
             if (kind.startsWith("art") && !key.equals("constitution")) continue;
             if (kind.startsWith("s") && key.equals("constitution")) continue;
             Matcher one = ONE.matcher(m.group("list"));
+            String prev = null;
+            JsonNode doc = key.startsWith("?") ? null : laws.get(key);
             while (one.find()) {
+                String num = one.group(1);
+                // "sections 39 (1), 1A and (1B)": a bare number that is no section of the
+                // law but a subsection of the section just before it belongs to that section
+                if (doc != null && prev != null && !doc.path("provisions").has(num) && !doc.path("spent").has(num)
+                        && hasClause(doc.path("provisions").path(prev), "(" + num + ")")) {
+                    continue;
+                }
                 String clause = one.group(2).replaceAll("\\s+", "");
                 Matcher first = FIRST_SUB.matcher(clause);
-                add(out, seen, key, one.group(1), first.find() ? first.group() : null);
+                add(out, seen, key, num, first.find() ? first.group() : null);
+                prev = num;
             }
         }
         Matcher s = SCHED.matcher(notice);
@@ -180,6 +190,12 @@ public class LawReferenceService {
         JsonNode prov = doc != null ? doc.path("provisions").get(num) : null;
         String label = (doc != null ? doc.path("provision_label").asText() : "section") + " " + num
                 + (clause != null ? clause : "");
+        if (prov == null && doc != null && doc.path("spent").has(num)) {
+            // a Part the revised edition marks spent (Water Act Part IX): explained, never quoted
+            out.add(new LawRef(key, lawTitle, num, clause, label, "Spent (Part " + doc.path("spent").path(num).asText() + ")",
+                    spentNote(doc, num), true, "spent", versionOf(doc), sourceOf(doc)));
+            return;
+        }
         out.add(new LawRef(key, lawTitle, num, clause, label,
                 prov != null ? prov.path("title").asText() : null,
                 prov != null ? provisionText(prov, clause) : null, prov != null, "cited",
@@ -295,7 +311,7 @@ public class LawReferenceService {
     static List<LawRef> quotable(List<LawRef> refs) {
         List<LawRef> out = new ArrayList<>();
         for (LawRef r : refs) {
-            if (!r.isAct() && r.found() && r.text() != null && !r.text().isBlank()) out.add(r);
+            if (!r.isAct() && !"spent".equals(r.kind()) && r.found() && r.text() != null && !r.text().isBlank()) out.add(r);
             if (out.size() == 2) break;
         }
         return out;
@@ -397,6 +413,17 @@ public class LawReferenceService {
         String cut = s.substring(0, n);
         int end = Math.max(cut.lastIndexOf(". "), Math.max(cut.lastIndexOf("; "), cut.lastIndexOf(".\n")));
         return (end > n / 2 ? cut.substring(0, end + 1) : cut.substring(0, cut.lastIndexOf(' ') > 0 ? cut.lastIndexOf(' ') : n)) + " \u2026";
+    }
+
+    static String spentNote(JsonNode doc, String num) {
+        return "Spent: section " + num + " is in Part " + doc.path("spent").path(num).asText() + " of the "
+                + doc.path("title").asText() + ", which the revised edition (text as at " + doc.path("version_date").asText()
+                + ") marks spent and no longer prints. The notice cites it as it stood before.";
+    }
+
+    private static boolean hasClause(JsonNode prov, String ref) {
+        for (JsonNode c : prov.path("clauses")) if (ref.equals(c.path("ref").asText())) return true;
+        return false;
     }
 
     /** The whole provision, or one sub-article with its lettered paragraphs. */

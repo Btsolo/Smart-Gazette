@@ -1,0 +1,1255 @@
+{
+ "title": "Excise Duty Act",
+ "citation": "Cap. 472",
+ "source": "Kenya Law (National Council for Law Reporting) and Laws.Africa",
+ "source_url": "https://new.kenyalaw.org/akn/ke/act/2015/23/eng@2025-07-01",
+ "version_date": "2025-07-01",
+ "retrieved": "2026-10-05",
+ "note": "Official text as published by Kenya Law (PDF), converted to JSON by tools/build_law_reference.py. There is no copyright on the legislative content (Kenya Law; Copyright Act, Cap. 130, s. 2); the PDF copy is CC BY-NC-SA 4.0 - credit Kenya Law and Laws.Africa. Check source_url for amendments after version_date.",
+ "provision_label": "section",
+ "preamble": "EXCISE DUTY ACT CAP. 472 Published in Kenya Gazette Vol. CXVII—No. 124 on 13 November 2015 Assented to on 6 November 2015 Commenced on 1 December 2015 by Excise Duty Act Commencement\n[Amended by Finance Act, 2016 (Act No. 38 of 2016) on 9 June 2016] [Amended by Finance Act, 2016 (Act No. 38 of 2016) on 1 July 2016] [Amended by Statute Law (Miscellaneous Amendments) Act, 2017 (Act No. 11 of 2017) on 13 January 2017] [Amended by Finance Act, 2017 (Act No. 15 of 2017) on 3 April 2017] [Amended by Finance Act, 2017 (Act No. 15 of 2017) on 1 January 2018] [Amended by Finance Act, 2018 (Act No. 10 of 2018) on 1 July 2018] [Amended by Finance Act, 2019 (Act No. 23 of 2019) on 15 November 2019] [Amended by Business Laws (Amendment) Act, 2020 (Act No. 1 of 2020) on 18 March 2020] [Amended by Tax Laws (Amendment) Act, 2020 (Act No. 2 of 2020) on 25 April 2020] [Amended by Finance Act, 2020 (Act No. 8 of 2020) on 30 June 2020] [Amended by Finance Act, 2020 (Act No. 8 of 2020) on 1 January 2021] [Amended by Finance Act, 2021 (Act No. 8 of 2021) on 1 July 2021] [Amended by Finance Act, 2022 (Act No. 22 of 2022) on 21 June 2022] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] [Amended by Finance Act, 2022 (Act No. 22 of 2022) on 1 January 2023] [Amended by Finance Act, 2023 (Act No. 4 of 2023) on 1 July 2023] [Amended by Tax Laws (Amendment) Act, 2024 (Act No. 12 of 2024) on 27 December 2024] [Amended by The Excise Duty (Amendment) Act, 2025 (Act No. 2 of 2025) on 27 December 2024] [Amended by Finance Act, 2025 (Act No. 9 of 2025) on 1 July 2025]\nAN ACT of Parliament to provide for the charge, assessment and collection of excise duty, to make administrative provisions relating thereto, and for connected purposes A — Application for a Licence",
+ "parts": [
+  {
+   "id": "part_I",
+   "num": "I",
+   "title": "PRELIMINARY",
+   "provisions": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  {
+   "id": "part_II",
+   "num": "II",
+   "title": "LIABILITY FOR EXCISE DUTY",
+   "provisions": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14"
+   ]
+  },
+  {
+   "id": "part_III",
+   "num": "III",
+   "title": "LICENSING",
+   "provisions": [
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23"
+   ]
+  },
+  {
+   "id": "part_IV",
+   "num": "IV",
+   "title": "EXCISE CONTROL",
+   "provisions": [
+    "24",
+    "25",
+    "26",
+    "27"
+   ]
+  },
+  {
+   "id": "part_V",
+   "num": "V",
+   "title": "EXCISE STAMPS",
+   "provisions": [
+    "28"
+   ]
+  },
+  {
+   "id": "part_VI",
+   "num": "VI",
+   "title": "REFUNDS",
+   "provisions": [
+    "29",
+    "30",
+    "31",
+    "32"
+   ]
+  },
+  {
+   "id": "part_VII",
+   "num": "VII",
+   "title": "EXCISE DUTY PROCEDURE",
+   "provisions": [
+    "33",
+    "34",
+    "35",
+    "36",
+    "36A",
+    "37"
+   ]
+  },
+  {
+   "id": "part_VIII",
+   "num": "VIII",
+   "title": "OFFENCES AND PENALTIES",
+   "provisions": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "41A"
+   ]
+  },
+  {
+   "id": "part_IX",
+   "num": "IX",
+   "title": "MISCELLANEOUS PROVISIONS",
+   "provisions": [
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+   ]
+  }
+ ],
+ "provisions": {
+  "1": {
+   "num": "1",
+   "title": "Short title",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "This Act may be cited as the Excise Duty Act.",
+   "clauses": []
+  },
+  "2": {
+   "num": "2",
+   "title": "Interpretation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) In this Act, unless the context otherwise requires—\n“approved form” shall have the meaning assigned to it under the Tax Procedures Act (Cap. 469B);\n\"aircraft” means every description of conveyance by air of human beings or goods;\n\"arm's length transaction” means a transaction between persons dealing with each other at arm's length;\n\"authorised officer” means an officer authorised by the Commissioner for the purposes of this Act;\n\"betting” shall have the meaning assigned to it under the Betting, Lotteries and Gaming Act (Cap. 131);\n\"bookmaker” shall have the meaning assigned to it under section 2 of the Betting, Lotteries and Gaming Act (Cap. 131);\n“Cabinet Secretary” means the Cabinet Secretary for the time being responsible for matters relating to finance;\n“Commissioner” means the Commissioner-General appointed under the Kenya Revenue Authority Act (Cap. 469);\n\"compound\" has the meaning assigned to it in section 2 of the Compounding of Potable Spirits Act (Cap. 123);\n\"concessional loan\" means a loan with at least twenty-five percent grant element;\n\"denature” means to render unfit for human consumption;\n“digital lender” means a person extending credit through an electronic medium but does not include a bank licenced under the Banking Act, a Sacco society registered under the Cooperative Societies Act or a microfinance institution licensed under the Microfinance Act;\n\"digital marketplace\" means means an online or electronic platform which enables users to sell or provide services, goods or other property to other users;\n“distillery” means a licensed distiller's factory;\n“duty of customs” means import duty, countervailing duty, or surtax charged under the East African Community Customs Management Act, 2004;\n“ex-factory selling price\" has the meaning assigned to it in section 11;\n“excisable goods\" means the goods specified in Part I of the First Schedule;\n“excisable services\" means the services specified in Part II of the First Schedule;\n“excise control” has the meaning assigned to it in section 24;\n“excise duty” means the excise duty imposed under this Act;\n“exempt goods” means goods specified in the Second Schedule;\n“export” means to take or cause to be taken from Kenya to a foreign country, a special economic zone or to an export processing zone;\n“export processing zone” has the meaning assigned to it in section 2 of the Export Processing Zones Act (Cap. 517);\n“factory” means any premises at which a licensed manufacturer is licensed to manufacture and store excisable goods, but does not include any part of the premises through which excisable goods are sold to the public;\n\"import” means to bring or cause goods to be brought into Kenya from a foreign country, a special economic zone or an export processing zone;\n“importer” in relation to goods, means the person who owns the goods, or any other person who is, for the time being, in possession of or beneficially interested in the goods at the time of importation;\n“international traffic”, in relation to an aircraft or vessel, means any operation of the aircraft or vessel, except as between two places in Kenya;\n“international organization” shall have the meaning assigned to it under the Tax Procedures Act (Cap. 469B);\n“licence”—\n  (a) in the case of excisable services, means the certificate of registration;\n  (b) in the case of excisable goods, means the licence issued under section 17; or\n  (c) in the case of any activity under section 15(1)(e), means the licence required thereunder;\n“licensed distiller” means a distiller licensed under section 17;\n“licensed manufacturer” means a person licensed under section 17 to manufacture excisable goods;\n“licensed person” means a person licensed or registered under section 17;\n“manufacture” includes—\n  (a) the production of excisable goods;\n  (b) any intermediate or uncompleted process in the production of excisable goods; or\n  (c) the distilling, rectifying, compounding, or denaturing of spirits;\n\"micro distiller\" means a manufacturer of a spirituous beverage through two fundamental processes of fermentation and distillation using a still (boiler) not exceeding 1,800 litres and whose annual production volume does not exceed 100,000 litres per Year;\n“open market value” has the meaning assigned to it in section 3;\n\"official aid funded project\" means a project funded by means of a grant or concessional loan in accordance with an agreement between the Government and any foreign government, agency, institution, foundation, organization or any other aid agency;\n\"possession\" means having, owning or controlling any excisable goods including—\n  (a) having in one's possession any excisable goods;\n  (b) knowingly having any excisable goods in the actual possession or custody of any other person;\n  (c) having any excisable goods in any place, whether belonging to or occupied by oneself or not, for the use or benefit of oneself; or\n  (d) having any excisable goods for the use or benefit of another person:\nProvided that if there are two or more persons and any of them with the knowledge or consent of the others has any excisable goods in his custody or possession, such goods shall be deemed to be in the custody and possession of all of them;\n“prescribed” means prescribed in the Regulations;\n“rectify” means to redistill spirits removed from a spirits receiver for the purpose of purifying or adding flavour;\n“special economic zone” shall have the meaning assigned to it under the Special Economic Zones Act (Cap. 517A);\n“spirits” means spirits of any description and includes all liquor mixed with spirits and all mixtures and compounds or preparations made with spirits, but does not include denatured spirits;\n“still\" means a distilling apparatus and includes any part of a still;\n“stores\" means goods for use or consumption by passengers or crew on an aircraft or ship while in international traffic, and includes goods for sale on board such aircraft or vessel;\n“supply”, in relation to services, has the meaning assigned to it under the Value Added Tax Act (Cap. 476);\n“tax law” shall have the meaning assigned to it under the Tax Procedures Act (Cap. 469B);\n“the Regulations” means regulations made under this Act;\n“time of importation” has the meaning assigned to it meaning in section 4(2);\n“time of supply”, in relation to excisable services, has the meaning in section 4(1);\n“unexcisable goods” means goods that are not excisable goods;\n“unexcised goods or services” means excisable goods or services liable for excise duty but, in respect of which, the full amount of excise duty due has not been paid;\n“value added tax” means the value added tax imposed under the Value Added Tax Act (Cap. 476);\n“vessel” means every description of conveyance by water of human beings or goods.\n(2) Except when the context otherwise requires, the terms \"approved form\", \"international organisation\", \"person\", \"related person\", and \"tax law\" have the meanings assigned to them under the Tax Procedures Act (Cap. 469B).\n(3) In this Act, goods shall be classified by reference to the tariff codes set out in Annex 1 to the Protocol on the Establishment of the East African Community Customs Union and in interpreting that Annex, the general rules of interpretation set out in the Annex shall apply.\n[Act No. 38 of 2016, s. 20, Act No. 23 of 2019, s. 23, Act No. 8 of 2020, s. 15, Act No. 8 of 2021, s. 29, Act No. 4 of 2023, s. 40, Act No. 12 of 2024, s. 23, Act No. 9 of 2025, s. 40.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "In this Act, unless the context otherwise requires—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Except when the context otherwise requires, the terms \"approved form\", \"international organisation\", \"person\", \"related person\", and \"tax law\" have the meanings assigned to them under the Tax Procedures Act (Cap. 469B)."
+    },
+    {
+     "ref": "(3)",
+     "text": "In this Act, goods shall be classified by reference to the tariff codes set out in Annex 1 to the Protocol on the Establishment of the East African Community Customs Union and in interpreting that Annex, the general rules of interpretation set out in the Annex shall apply."
+    }
+   ]
+  },
+  "3": {
+   "num": "3",
+   "title": "Open market value",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) The open market value of excisable goods or services at a particular time is the price that the goods or services would reasonably be expected to fetch in an arm's length transaction at that time at the wholesale level.\n(2) If the open market value of excisable goods or services at a particular time cannot be determined under subsection (1), the open market value shall be the price which is an objective approximation of the price of the goods or services according to the Fourth Schedule of the East African Community Customs Management Act.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The open market value of excisable goods or services at a particular time is the price that the goods or services would reasonably be expected to fetch in an arm's length transaction at that time at the wholesale level."
+    },
+    {
+     "ref": "(2)",
+     "text": "If the open market value of excisable goods or services at a particular time cannot be determined under subsection (1), the open market value shall be the price which is an objective approximation of the price of the goods or services according to the Fourth Schedule of the East African Community Customs Management Act."
+    }
+   ]
+  },
+  "4": {
+   "num": "4",
+   "title": "Time of supply or importation",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "I",
+   "part_title": "PRELIMINARY",
+   "text": "(1) The time of supply of excisable services shall be the earlier of—\n  (a) the date on which the services are performed;\n  (b) the date on which the invoice for the supply of the services is issued; or\n  (c) the date on which payment for the supply of the services is received, in whole or part.\n(1A) In relation to a betting transaction, the time of supply shall be the time a person wagers or stakes money on a platform or other medium provided by a bookmaker.\n(2) The time of importation of excisable goods shall be—\n  (a) for excisable goods cleared for home use directly at the port of importation, or goods entered for removal to an inland station and there cleared for home use, at the time of customs clearance;\n  (b) for excisable goods removed to a licensed warehouse subsequent to importation, at the time of final clearance from the warehouse for home use;\n  (c) for excisable goods removed from an export processing zone or special economic zone for home use, at the time of removal for home use; or\n  (d) in any other case, at the time the excisable goods are brought into Kenya.\n[Act No. 38 of 2016, s. 21, Act No. 23 of 2019, s. 24.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The time of supply of excisable services shall be the earlier of—"
+    },
+    {
+     "ref": "(1A)",
+     "text": "In relation to a betting transaction, the time of supply shall be the time a person wagers or stakes money on a platform or other medium provided by a bookmaker."
+    },
+    {
+     "ref": "(2)",
+     "text": "The time of importation of excisable goods shall be—"
+    }
+   ]
+  },
+  "5": {
+   "num": "5",
+   "title": "Imposition of excise duty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "LIABILITY FOR EXCISE DUTY",
+   "text": "(1) Subject to this Act, a tax, to be known as excise duty, shall be charged in accordance with the provisions of this Act on—\n  (a) excisable goods manufactured in Kenya by a licensed manufacturer;\n  (b) excisable services supplied in Kenya by a licensed person;\n  (c) excisable goods imported into Kenya; or (d) excisable services offered in Kenya by a non-resident person over the internet, an electronic network or through a digital marketplace.\n(2) Excise duty shall be charged at the rate specified in the First Schedule for the excisable goods or services in force at the time the liability arises for excise duty as determined under section 6.\n(3) The excise duty payable—\n  (a) under subsection (1)(a), shall be payable by the licensed manufacturer;\n  (b) under subsection (1)(b), shall be payable by the licensed person making the supply:\n  (c) under subsection (1)(c), shall be payable by the importer of the excisable goods; or (d) under subsection (1)(d), shall be payable by the non-resident person offering the service.\n(4) For the purposes of this section — “non-resident person” means a person outside Kenya. [Act No. 12 of 2024, s. 24, Act No. 9 of 2025, s. 41.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this Act, a tax, to be known as excise duty, shall be charged in accordance with the provisions of this Act on— (a) excisable goods manufactured in Kenya by a licensed manufacturer; (b) excisable services supplied in Kenya by a licensed person; (c) excisable goods imported into Kenya; or (d) excisable services offered in Kenya by a non-resident person over the internet, an electronic network or through a digital marketplace."
+    },
+    {
+     "ref": "(2)",
+     "text": "Excise duty shall be charged at the rate specified in the First Schedule for the excisable goods or services in force at the time the liability arises for excise duty as determined under section 6."
+    },
+    {
+     "ref": "(3)",
+     "text": "The excise duty payable— (a) under subsection (1)(a), shall be payable by the licensed manufacturer; (b) under subsection (1)(b), shall be payable by the licensed person making the supply: (c) under subsection (1)(c), shall be payable by the importer of the excisable goods; or (d) under subsection (1)(d), shall be payable by the non-resident person offering the service."
+    },
+    {
+     "ref": "(4)",
+     "text": "For the purposes of this section — “non-resident person” means a person outside Kenya. [Act No. 12 of 2024, s. 24, Act No. 9 of 2025, s. 41.]"
+    }
+   ]
+  },
+  "6": {
+   "num": "6",
+   "title": "Timing of liability for excise duty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "LIABILITY FOR EXCISE DUTY",
+   "text": "(1) The liability of a licensed manufacturer for excise duty on excisable goods manufactured in Kenya shall arise at the time of removal of the goods from the manufacturer's factory.\n(2) For the purposes of this Act, excisable goods that are consumed in a licensed manufacturer's factory shall be treated as removed from the factory at the time of consumption.\n(3) The liability of a licensed person for excise duty on excisable services shall arise at the time of the supply of the services.\n(4) The liability of an importer for excise duty on excisable goods imported into Kenya shall arise—\n  (a) for petroleum products, at the time of importation or such other time as may be specified by the Cabinet Secretary by notice in the gazette; or (b) for any other excisable goods, at the time of importation.\n(5) A licensed person shall pay the liability for excise duty arising under subsection (1) or (3), as the case may be, in accordance with section 36.\n(6) An importer shall discharge the liability for excise duty referred to in subsection ( 4) in accordance with section 36. [Act No. 10 of 2018, s. 23.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The liability of a licensed manufacturer for excise duty on excisable goods manufactured in Kenya shall arise at the time of removal of the goods from the manufacturer's factory."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of this Act, excisable goods that are consumed in a licensed manufacturer's factory shall be treated as removed from the factory at the time of consumption."
+    },
+    {
+     "ref": "(3)",
+     "text": "The liability of a licensed person for excise duty on excisable services shall arise at the time of the supply of the services."
+    },
+    {
+     "ref": "(4)",
+     "text": "The liability of an importer for excise duty on excisable goods imported into Kenya shall arise— (a) for petroleum products, at the time of importation or such other time as may be specified by the Cabinet Secretary by notice in the gazette; or (b) for any other excisable goods, at the time of importation."
+    },
+    {
+     "ref": "(5)",
+     "text": "A licensed person shall pay the liability for excise duty arising under subsection (1) or (3), as the case may be, in accordance with section 36."
+    },
+    {
+     "ref": "(6)",
+     "text": "An importer shall discharge the liability for excise duty referred to in subsection ( 4) in accordance with section 36. [Act No. 10 of 2018, s. 23.]"
+    }
+   ]
+  },
+  "7": {
+   "num": "7",
+   "title": "Goods and services not liable to excise duty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "LIABILITY FOR EXCISE DUTY",
+   "text": "(1) Subject to this section, no excise duty shall be charged on the following—\n  (a) exempt goods which meet the conditions set out in the Second Schedule;\n  (b) excisable goods exported under customs control, including as stores;\n  (c) excisable services exported from Kenya;\n  (d) excisable goods that the manufacturer has destroyed, with the prior written permission of the Commissioner, under the supervision of an authorised officer prior to their removal from the factory in which they were manufactured;\n  (e) denatured spirits for use in the manufacture of gasohol or as a heating fuel;\n  (f) excisable goods that have been lost or destroyed by accident or other unavoidable cause—\n  (i) in the course of removal of the goods by the manufacturer from the manufacturer's factory including when loading or unloading the goods;\n  (ii) in the factory of the manufacturer in which the goods were manufactured before removal from the factory; or\n  (iii) on board an aircraft or vessel prior to importation into Kenya.\n(2) The Cabinet Secretary may by notice in the Gazette, grant remission of excise duty, wholly or partially, in respect of beer, spirit or wine made from sorghum, millet or cassava or any other agricultural products (excluding barley), grown in Kenya.\n(3) The Gazette notice issued under subsection (2), shall specify the products and conditions to be met for the remissions to be granted.\n(3A) A notice under subsection (2) of this section shall be laid before the National Assembly without unreasonable delay, and a resolution may be passed by the National Assembly within twenty-one days on which it next sits after the notice is so laid, that the notice—\n  (a) be approved; or\n  (b) be annulled and it shall thenceforth be void, but without prejudice to the validity of anything previously done thereunder, or to the issuing of a new notice.\n(4) Excisable services shall be considered to be exported from Kenya if the services are supplied from a place of business in Kenya for use or consumption outside Kenya.\n(5) An exemption granted under this section shall apply if the Commissioner is satisfied that—\n  (a) the goods referred to in subsection (1)(a) have been received and consumed by the exempt person; and\n  (b) excisable goods or services for export under subsections (1)(b) and (c) have not been, and shall not be consumed in Kenya.\n(6) Subsection (1)(f)(i) and (ii) shall not apply if the licensed manufacturer has been compensated for the loss of the excisable goods and the compensation includes the excise duty payable on the goods, as a consequence of any of the following—\n  (a) an insurance policy, indemnity, or other agreement;\n  (b) a settlement; or\n  (c) a judicial decision.\n[Act No. 10 of 2018, s. 24, Act No. 8 of 2021, s. 30, Act No. 12 of 2024, s. 25.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this section, no excise duty shall be charged on the following—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Cabinet Secretary may by notice in the Gazette, grant remission of excise duty, wholly or partially, in respect of beer, spirit or wine made from sorghum, millet or cassava or any other agricultural products (excluding barley), grown in Kenya."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Gazette notice issued under subsection (2), shall specify the products and conditions to be met for the remissions to be granted."
+    },
+    {
+     "ref": "(3A)",
+     "text": "A notice under subsection (2) of this section shall be laid before the National Assembly without unreasonable delay, and a resolution may be passed by the National Assembly within twenty-one days on which it next sits after the notice is so laid, that the notice—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Excisable services shall be considered to be exported from Kenya if the services are supplied from a place of business in Kenya for use or consumption outside Kenya."
+    },
+    {
+     "ref": "(5)",
+     "text": "An exemption granted under this section shall apply if the Commissioner is satisfied that—"
+    },
+    {
+     "ref": "(6)",
+     "text": "Subsection (1)(f)(i) and (ii) shall not apply if the licensed manufacturer has been compensated for the loss of the excisable goods and the compensation includes the excise duty payable on the goods, as a consequence of any of the following—"
+    }
+   ]
+  },
+  "8": {
+   "num": "8",
+   "title": "Variation of rates of excise duty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "LIABILITY FOR EXCISE DUTY",
+   "text": "(1) The Cabinet Secretary may, by order in the Gazette, amend the First Schedule by increasing or decreasing any rate of excise duty on excisable goods or services from the date specified in the order by an amount not exceeding ten per centum of the rate set out in respect of those goods or services in the First Schedule.\n(2) Nothing in subsection (1) shall empower the Cabinet Secretary to impose excise duty on any goods or services that are not excisable.\n(3) The Cabinet Secretary shall lay an order varying the rate of excise duty made under subsection (1) before the National Assembly within seven days after its publication in the Gazette.\n(4) If the National Assembly passes a resolution disapproving of the variation within twenty days from the first day on which the National Assembly next sits after the variation is laid before the National Assembly, the Order shall cease to have effect from the date of the resolution.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may, by order in the Gazette, amend the First Schedule by increasing or decreasing any rate of excise duty on excisable goods or services from the date specified in the order by an amount not exceeding ten per centum of the rate set out in respect of those goods or services in the First Schedule."
+    },
+    {
+     "ref": "(2)",
+     "text": "Nothing in subsection (1) shall empower the Cabinet Secretary to impose excise duty on any goods or services that are not excisable."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Cabinet Secretary shall lay an order varying the rate of excise duty made under subsection (1) before the National Assembly within seven days after its publication in the Gazette."
+    },
+    {
+     "ref": "(4)",
+     "text": "If the National Assembly passes a resolution disapproving of the variation within twenty days from the first day on which the National Assembly next sits after the variation is laid before the National Assembly, the Order shall cease to have effect from the date of the resolution."
+    }
+   ]
+  },
+  "9": {
+   "num": "9",
+   "title": "Excisable value",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "LIABILITY FOR EXCISE DUTY",
+   "text": "(1) This section shall apply where the First Schedule specifies a rate of excise duty payable by reference to the excisable value of excisable goods or services.\n(2) The excisable value of excisable goods imported into Kenya shall be the sum total of the following amounts—\n  (a) the customs value of the goods as determined under the East African Community Customs Management Act, whether or not any duty of customs is payable on the goods; and\n  (b) the amount of duty of customs (if any) payable on the goods under the East African Community Customs Management Act, 2004 (No. 1 of 2005).\n(3) The excisable value of excisable goods manufactured in Kenya shall be the ex-factory selling price of the goods, but not including—\n  (a) the value added tax payable on the supply of the goods;\n  (b) the cost of excise stamps, if any; or\n  (c) the cost of returnable containers.\n(4) Subject to subsections (5) and (6), the excisable value of excisable services shall be—\n  (a) if the excisable services are supplied by a registered person in an arm's length transaction, the fee, commission, or charge payable for the services; or\n  (b) in any other case, the open market value of the services.\n(5) The excisable value of excisable services shall not include the value added tax, if any, payable on the supply of the services.\n(6) The excisable value of excisable services specified in item 4 of Part II of the First Schedule shall not include interest or an insurance premium.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "This section shall apply where the First Schedule specifies a rate of excise duty payable by reference to the excisable value of excisable goods or services."
+    },
+    {
+     "ref": "(2)",
+     "text": "The excisable value of excisable goods imported into Kenya shall be the sum total of the following amounts—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The excisable value of excisable goods manufactured in Kenya shall be the ex-factory selling price of the goods, but not including—"
+    },
+    {
+     "ref": "(4)",
+     "text": "Subject to subsections (5) and (6), the excisable value of excisable services shall be—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The excisable value of excisable services shall not include the value added tax, if any, payable on the supply of the services."
+    },
+    {
+     "ref": "(6)",
+     "text": "The excisable value of excisable services specified in item 4 of Part II of the First Schedule shall not include interest or an insurance premium."
+    }
+   ]
+  },
+  "10": {
+   "num": "10",
+   "title": "Repealed",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "LIABILITY FOR EXCISE DUTY",
+   "text": "Repealed by Act No. 4 of 2023, s. 41",
+   "clauses": []
+  },
+  "11": {
+   "num": "11",
+   "title": "Ex-factory selling price of excisable goods",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "LIABILITY FOR EXCISE DUTY",
+   "text": "The ex-factory selling price of excisable goods shall be—\n  (a) if the excisable goods are sold by the manufacturer, in an arm's length transaction, the price payable by the purchaser; or\n  (b) in any other case, the open market value of the goods at the time of removal from the manufacturer's factory.\n[Act No. 22 of 2022, s. 33.]",
+   "clauses": []
+  },
+  "12": {
+   "num": "12",
+   "title": "Quantity of excisable goods",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "LIABILITY FOR EXCISE DUTY",
+   "text": "(1) This section shall apply where the First Schedule specifies a rate of excise duty payable by reference to a quantity measured by volume or weight.\n(2) If—\n  (a) excisable goods are imported into Kenya, or removed from the factory of a licensed manufacturer, in a package intended for sale with, or of a kind usually sold with the goods in a sale by retail; and\n  (b) the package—\n  (i) is not marked or labelled with a net weight; or\n  (ii) is not commonly sold as containing, or is not commonly reputed to contain, a specific quantity or weight; and\n  (c) the owner of the goods is unable to satisfy the Commissioner of the correct net weight of the package, the excisable goods shall be liable to excise duty according to the gross weight of the package and its contents.\n(3) Subject to subsection (4), if—\n  (a) excisable goods are imported into Kenya, or removed from the factory of a licensed manufacturer, in a package intended for sale with, or of a kind usually sold with, the goods in a sale by retail; and\n  (b) the package—\n  (i) is marked, or labelled as containing a specific quantity of the goods; or\n  (ii) is commonly sold as containing, or is commonly reputed to contain, a specific quantity of the goods, the package shall be treated as containing not less than the specific quantity.\n(4) If the package referred to in subsection (3) contains more than the specific quantity, excise duty shall be computed on the actual quantity.\n(5) The Commissioner may determine and specify the allowance for tare or wastage that may be granted and the conditions under which it is granted.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "This section shall apply where the First Schedule specifies a rate of excise duty payable by reference to a quantity measured by volume or weight."
+    },
+    {
+     "ref": "(2)",
+     "text": "If—"
+    },
+    {
+     "ref": "(3)",
+     "text": "Subject to subsection (4), if—"
+    },
+    {
+     "ref": "(4)",
+     "text": "If the package referred to in subsection (3) contains more than the specific quantity, excise duty shall be computed on the actual quantity."
+    },
+    {
+     "ref": "(5)",
+     "text": "The Commissioner may determine and specify the allowance for tare or wastage that may be granted and the conditions under which it is granted."
+    }
+   ]
+  },
+  "13": {
+   "num": "13",
+   "title": "Place of supply of excisable services",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "LIABILITY FOR EXCISE DUTY",
+   "text": "(1) Subject to this section, a supply of excisable services shall be deemed to be made in Kenya if the services are supplied from a place of business of the supplier in Kenya.\n(2) If the place of business of the supplier is outside Kenya, the supply of services shall be deemed to be made in Kenya if the services are consumed by a person in Kenya through the internet, an electronic network or a digital marketplace. [Act No. 9 of 2025, s. 42.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this section, a supply of excisable services shall be deemed to be made in Kenya if the services are supplied from a place of business of the supplier in Kenya."
+    },
+    {
+     "ref": "(2)",
+     "text": "If the place of business of the supplier is outside Kenya, the supply of services shall be deemed to be made in Kenya if the services are consumed by a person in Kenya through the internet, an electronic network or a digital marketplace. [Act No. 9 of 2025, s. 42.]"
+    }
+   ]
+  },
+  "14": {
+   "num": "14",
+   "title": "Relief for raw materials",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "II",
+   "part_title": "LIABILITY FOR EXCISE DUTY",
+   "text": "(1) Where excise duty has been paid in respect of excisable goods imported into, or manufactured in Kenya by a licensed manufacturer and which have been used as raw materials in the manufacture of other excisable goods (hereinafter referred to as \"finished goods\"), the excise duty paid on the raw materials shall be offset against the excise duty payable on the finished goods.\n(2) Where excise duty has been paid in respect of internet data services by a licensed person who purchases the data in bulk for resale, the excise duty paid shall be offset against the excise duty payable by that person on internet data services supplied to the final consumer. [Act No. 8 of 2021, s. 31.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where excise duty has been paid in respect of excisable goods imported into, or manufactured in Kenya by a licensed manufacturer and which have been used as raw materials in the manufacture of other excisable goods (hereinafter referred to as \"finished goods\"), the excise duty paid on the raw materials shall be offset against the excise duty payable on the finished goods."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where excise duty has been paid in respect of internet data services by a licensed person who purchases the data in bulk for resale, the excise duty paid shall be offset against the excise duty payable by that person on internet data services supplied to the final consumer. [Act No. 8 of 2021, s. 31.]"
+    }
+   ]
+  },
+  "15": {
+   "num": "15",
+   "title": "Activities requiring a licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "LICENSING",
+   "text": "(1) A person shall not undertake any of the following activities unless the person is licensed or registered by the Commissioner to undertake the activity—\n  (a) the manufacture of excisable goods in Kenya;\n  (b) the importation into Kenya of excisable goods specified by the Cabinet Secretary under section 28 as requiring an excise stamp;\n  (c) the supply of excisable services;\n  (d) the use of spirit or illuminating kerosene to manufacture goods in Kenya that are not excisable goods;\n  (da) the importation, distribution, or handling of methanol in Kenya;\n  (db) the importation, distribution, or handling of ethanol in Kenya; or (e) the carrying out of any other activity in Kenya for which the Commissioner, by notice in the Gazette, may impose a requirement for a licence.\n(2) A person who manufactures excisable goods or supplies excisable services in contravention of subsection (1) shall be liable for the excise duty payable in respect of the excisable goods or services at the rate specified in the First Schedule.\n(3) The excise duty payable by a person under subsection (2)—\n  (a) shall be payable on demand made by the Commissioner; and (b) shall be in addition to any penalty or sanction imposed on the person under this Act or the Tax Procedures Act (Cap. 469B) for breach of subsection (1). [Act No. 38 of 2016, s. 23, Act No. 15 of 2017, s. 3, Act No. 9 of 2025, s. 43.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person shall not undertake any of the following activities unless the person is licensed or registered by the Commissioner to undertake the activity— (a) the manufacture of excisable goods in Kenya; (b) the importation into Kenya of excisable goods specified by the Cabinet Secretary under section 28 as requiring an excise stamp; (c) the supply of excisable services; (d) the use of spirit or illuminating kerosene to manufacture goods in Kenya that are not excisable goods; (da) the importation, distribution, or handling of methanol in Kenya; (db) the importation, distribution, or handling of ethanol in Kenya; or (e) the carrying out of any other activity in Kenya for which the Commissioner, by notice in the Gazette, may impose a requirement for a licence."
+    },
+    {
+     "ref": "(2)",
+     "text": "A person who manufactures excisable goods or supplies excisable services in contravention of subsection (1) shall be liable for the excise duty payable in respect of the excisable goods or services at the rate specified in the First Schedule."
+    },
+    {
+     "ref": "(3)",
+     "text": "The excise duty payable by a person under subsection (2)— (a) shall be payable on demand made by the Commissioner; and (b) shall be in addition to any penalty or sanction imposed on the person under this Act or the Tax Procedures Act (Cap. 469B) for breach of subsection (1). [Act No. 38 of 2016, s. 23, Act No. 15 of 2017, s. 3, Act No. 9 of 2025, s. 43.]"
+    }
+   ]
+  },
+  "16": {
+   "num": "16",
+   "title": "Applications for a licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "LICENSING",
+   "text": "(1) A person who intends to undertake any of the activities specified in section 15(1) shall apply to the Commissioner for a licence for any of the activities specified section 15(1).\n(2) An application under subsection (1) shall be—\n  (a) in the prescribed form;\n  (b) accompanied by the prescribed fees; and\n  (c) lodged with the Commissioner in the prescribed manner.\nB – Issue of Licences",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who intends to undertake any of the activities specified in section 15(1) shall apply to the Commissioner for a licence for any of the activities specified section 15(1)."
+    },
+    {
+     "ref": "(2)",
+     "text": "An application under subsection (1) shall be—"
+    }
+   ]
+  },
+  "17": {
+   "num": "17",
+   "title": "Issue of licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "LICENSING",
+   "text": "(1) Subject to subsection (2), the Commissioner shall within fourteen days of receipt of the required documents consider an application under section 16 and may grant or refuse to issue the applicant with a licence.\n(2) The Commissioner may refuse an application under section 16 if satisfied that—\n  (a) the applicant has been convicted of an offence under this Act or the Tax Procedures Act (Cap. 469B);\n  (b) the applicant has been convicted of an offence involving dishonesty or fraud under any law;\n  (c) the applicant—\n  (i) is or has been declared bankrupt or insolvent; or\n  (ii) is in the process of liquidation or receivership;\n  (d) in the case of an application to be a manufacturer of excisable goods, the factory, plant or equipment, specified in the application is not adequate to manufacture or secure excisable goods;\n  (e) the applicant has not kept proper records as required under any tax law or has otherwise failed to comply with its obligations under a tax law; or\n  (f) paragraphs (a), (b), (c) or (e) apply to a person related to the applicant and the Commissioner is satisfied that the related person is reasonably expected to be involved in the conduct of the activity to which the application relates.\n(3) The Commissioner may impose such terms, conditions or restrictions as the Commissioner considers appropriate in relation to a licence issued under this section.\n(4) The Commissioner shall give an applicant for a licence under section 16 written notice of the decision on the application and if the application is refused, the notice shall include reasons for the refusal.\n(5) A licence shall take effect from the date specified therein by the Commissioner and shall unless earlier suspended, remain in force until cancelled under section 21.\n[Act No. 9 of 2025, s. 44.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2), the Commissioner shall within fourteen days of receipt of the required documents consider an application under section 16 and may grant or refuse to issue the applicant with a licence."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Commissioner may refuse an application under section 16 if satisfied that—"
+    },
+    {
+     "ref": "(3)",
+     "text": "The Commissioner may impose such terms, conditions or restrictions as the Commissioner considers appropriate in relation to a licence issued under this section."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Commissioner shall give an applicant for a licence under section 16 written notice of the decision on the application and if the application is refused, the notice shall include reasons for the refusal."
+    },
+    {
+     "ref": "(5)",
+     "text": "A licence shall take effect from the date specified therein by the Commissioner and shall unless earlier suspended, remain in force until cancelled under section 21."
+    }
+   ]
+  },
+  "18": {
+   "num": "18",
+   "title": "Form of licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "LICENSING",
+   "text": "(1) The licence issued under section 17 shall be in the prescribed form.\n(2) A licence issued to a manufacturer of excisable goods shall specify the following—\n  (a) the class or classes of excisable goods that the manufacturer is licensed to manufacture;\n  (b) the factory or factories at which the manufacturer is permitted to manufacture excisable goods.\n(3) A factory specified in a licence issued under this section shall be used only for the manufacture of the class or classes of excisable goods specified in the licence.\n(4) Only the person specified as the licensed manufacturer in a licence issued under this section shall manufacture excisable goods in the factory specified in the licence.\n(5) A licence issued to a supplier of excisable services shall specify the excisable services offered.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The licence issued under section 17 shall be in the prescribed form."
+    },
+    {
+     "ref": "(2)",
+     "text": "A licence issued to a manufacturer of excisable goods shall specify the following— (a) the class or classes of excisable goods that the manufacturer is licensed to manufacture; (b) the factory or factories at which the manufacturer is permitted to manufacture excisable goods."
+    },
+    {
+     "ref": "(3)",
+     "text": "A factory specified in a licence issued under this section shall be used only for the manufacture of the class or classes of excisable goods specified in the licence."
+    },
+    {
+     "ref": "(4)",
+     "text": "Only the person specified as the licensed manufacturer in a licence issued under this section shall manufacture excisable goods in the factory specified in the licence."
+    },
+    {
+     "ref": "(5)",
+     "text": "A licence issued to a supplier of excisable services shall specify the excisable services offered."
+    }
+   ]
+  },
+  "19": {
+   "num": "19",
+   "title": "Obligations of licensed person",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "LICENSING",
+   "text": "(1) A licensed person shall display in a conspicuous place—\n  (a) the original of the licence at the principal place of business; and (b) in case of excisable services, a certified copy of the licence at every other place of business.\n(2) A licensed person shall notify the Commissioner, in writing—\n  (a) if the licensed person ceases to carry on the activity for which the licence is issued;\n  (b) it there is any change in the name, address, place of business, ownership, constitution, or nature of the principal activity or activities carried on by the licensed person;\n  (c) of any period in which the licensed person closes operations on a temporary basis; or (d) if, the case of a licensed manufacturer, there is any change in the factory specified in the licence, or the plant and equipment used to manufacture excisable goods.\n(3) A notification under subsection (2) shall be lodged with the Commissioner—\n  (a) in the case of a notification under paragraph (c) where the closure was unplanned, within seven days after the event causing the closure; or (b) in any other case, at least seven days prior to the event requiring notification occurs.\nC — Suspension and Cancellation of Licences",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A licensed person shall display in a conspicuous place— (a) the original of the licence at the principal place of business; and (b) in case of excisable services, a certified copy of the licence at every other place of business."
+    },
+    {
+     "ref": "(2)",
+     "text": "A licensed person shall notify the Commissioner, in writing— (a) if the licensed person ceases to carry on the activity for which the licence is issued; (b) it there is any change in the name, address, place of business, ownership, constitution, or nature of the principal activity or activities carried on by the licensed person; (c) of any period in which the licensed person closes operations on a temporary basis; or (d) if, the case of a licensed manufacturer, there is any change in the factory specified in the licence, or the plant and equipment used to manufacture excisable goods."
+    },
+    {
+     "ref": "(3)",
+     "text": "A notification under subsection (2) shall be lodged with the Commissioner— (a) in the case of a notification under paragraph (c) where the closure was unplanned, within seven days after the event causing the closure; or (b) in any other case, at least seven days prior to the event requiring notification occurs."
+    }
+   ]
+  },
+  "20": {
+   "num": "20",
+   "title": "Suspension of licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "LICENSING",
+   "text": "(1) Subject to section 23, the Commissioner may suspend a licence issued under this Act if the Commissioner is satisfied that—\n  (a) any of the matters specified in section 19(2) (a), (b), or (c) apply to the licensed person;\n  (b) the licensed person has not kept proper records as required under this Act or the Tax Procedures Act (Cap. 469B), or has otherwise failed to comply with obligations under this Act;\n  (c) the licensed person has breached a condition of the licence;\n  (d) the licensed person has made a false or misleading statement to the Commissioner;\n  (e) for a licensed manufacturer, the factory, or plant or equipment, specified in the licence is no longer adequate to manufacture or secure excisable goods.\n(2) Where a licence is suspended under subsection (1), the Commissioner shall serve the licensed person with written notice of the suspension.\n(3) The suspension of a licence shall take effect from the date of service of the notice under subsection (2).\n(4) A person served with a notice of suspension under subsection (2) may, by notice in writing and within fourteen days of service of the notice, or within such further time as the Commissioner may allow, appeal against the suspension.\n(5) Where a licensed person lodges a notice of appeal in accordance with subsection (4), the Commissioner shall, within fourteen days after receipt of the notice, either—\n  (a) accept the appeal and revoke the suspension of the licence;\n  (b) provide the licensed person with written notice of the action required to be taken before the date specified in the notice being not less than fourteen days to remedy the deficiencies that led to the suspension of the licence and revoke the suspension if the action is taken within the specified time; or (c) reject the appeal and cancel the licence under section 21.\n(6) If the Commissioner fails to take action under subsection (5) within the time specified in that subsection, the suspension shall stand revoked. [Act No. 10 of 2018, s. 26, Act No. 4 of 2023, s. 42.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to section 23, the Commissioner may suspend a licence issued under this Act if the Commissioner is satisfied that— (a) any of the matters specified in section 19(2) (a), (b), or (c) apply to the licensed person; (b) the licensed person has not kept proper records as required under this Act or the Tax Procedures Act (Cap. 469B), or has otherwise failed to comply with obligations under this Act; (c) the licensed person has breached a condition of the licence; (d) the licensed person has made a false or misleading statement to the Commissioner; (e) for a licensed manufacturer, the factory, or plant or equipment, specified in the licence is no longer adequate to manufacture or secure excisable goods."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where a licence is suspended under subsection (1), the Commissioner shall serve the licensed person with written notice of the suspension."
+    },
+    {
+     "ref": "(3)",
+     "text": "The suspension of a licence shall take effect from the date of service of the notice under subsection (2)."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person served with a notice of suspension under subsection (2) may, by notice in writing and within fourteen days of service of the notice, or within such further time as the Commissioner may allow, appeal against the suspension."
+    },
+    {
+     "ref": "(5)",
+     "text": "Where a licensed person lodges a notice of appeal in accordance with subsection (4), the Commissioner shall, within fourteen days after receipt of the notice, either— (a) accept the appeal and revoke the suspension of the licence; (b) provide the licensed person with written notice of the action required to be taken before the date specified in the notice being not less than fourteen days to remedy the deficiencies that led to the suspension of the licence and revoke the suspension if the action is taken within the specified time; or (c) reject the appeal and cancel the licence under section 21."
+    },
+    {
+     "ref": "(6)",
+     "text": "If the Commissioner fails to take action under subsection (5) within the time specified in that subsection, the suspension shall stand revoked. [Act No. 10 of 2018, s. 26, Act No. 4 of 2023, s. 42.]"
+    }
+   ]
+  },
+  "21": {
+   "num": "21",
+   "title": "Cancellation of licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "LICENSING",
+   "text": "(1) The Commissioner shall, by notice in writing, cancel the licence of a person when—\n  (a) the Commissioner has received notification under section 19 (2) (a);\n  (b) the person fails to appeal the suspension of the licence within the time specified in section 20(4);\n  (c) the person fails to comply with a notice served on the person under section 20 (5) (b) within the time specified in the notice or within such further time as the Commissioner may allow; or (d) deleted by Act No. 10 of 2018, s. 27;\n  (e) the Commissioner rejects an appeal against the suspension of a licence under section 20 (5) (c).\n(2) The cancellation of a licence takes effect from the date specified in the notice of cancellation. (3) Any obligation or liability of a licensed person under this Act or the Tax Procedures Act (Cap. 469B), in respect of anything done or omitted to be done by the person while licensed, including the obligation to pay excise duty or to file excise duty returns, shall not be affected by cancellation of the person's licence.\n[Act No. 10 of 2018, s. 27.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Commissioner shall, by notice in writing, cancel the licence of a person when— (a) the Commissioner has received notification under section 19 (2) (a); (b) the person fails to appeal the suspension of the licence within the time specified in section 20(4); (c) the person fails to comply with a notice served on the person under section 20 (5) (b) within the time specified in the notice or within such further time as the Commissioner may allow; or (d) deleted by Act No. 10 of 2018, s. 27; (e) the Commissioner rejects an appeal against the suspension of a licence under section 20 (5) (c)."
+    },
+    {
+     "ref": "(2)",
+     "text": "The cancellation of a licence takes effect from the date specified in the notice of cancellation. (3) Any obligation or liability of a licensed person under this Act or the Tax Procedures Act (Cap. 469B), in respect of anything done or omitted to be done by the person while licensed, including the obligation to pay excise duty or to file excise duty returns, shall not be affected by cancellation of the person's licence."
+    }
+   ]
+  },
+  "22": {
+   "num": "22",
+   "title": "Consequences of suspension or cancellation of licence",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "LICENSING",
+   "text": "(1) If the licence of a licensed manufacturer is suspended or cancelled—\n  (a) the manufacturer shall—\n  (i) immediately cease to manufacture excisable goods;\n  (ii) immediately pay all excise duty on excisable goods on hand in respect of which duty is still unpaid;\n  (iii) dispose of excisable goods and materials in the manufacturer's factory in accordance with the direction of the Commissioner;\n  (b) the Commissioner may—\n  (i) require the licensed manufacturer to remove excisable goods in the manufacturer's factory to another place approved by the Commissioner; and\n  (ii) take control of the manufacturer's factory and of any excisable goods at the factory as may be necessary for the protection of revenue and ensure compliance with this Act.\n(2) If the licence of a person licensed to supply excisable services is cancelled, the person shall—\n  (a) cease to supply the excisable services; and\n  (b) pay excise duty on excisable services supplied in respect of which duty is not still unpaid.\n(3) If the licence of a person, other than a person to whom subsection (2) applies, is suspended or cancelled, the person shall immediately cease to undertake the activity for which the licence is issued.\n(4) The Commissioner may, by notice in writing, require a licensed person to pay such costs as may be incurred by the Commissioner as a result of the suspension or cancellation of the person's licence as specified in the notice and the costs shall be treated as tax for the purposes of the Tax Procedures Act (Cap. 469B).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If the licence of a licensed manufacturer is suspended or cancelled— (a) the manufacturer shall— (i) immediately cease to manufacture excisable goods; (ii) immediately pay all excise duty on excisable goods on hand in respect of which duty is still unpaid; (iii) dispose of excisable goods and materials in the manufacturer's factory in accordance with the direction of the Commissioner;"
+    },
+    {
+     "ref": "(2)",
+     "text": "If the licence of a person licensed to supply excisable services is cancelled, the person shall—"
+    },
+    {
+     "ref": "(3)",
+     "text": "If the licence of a person, other than a person to whom subsection (2) applies, is suspended or cancelled, the person shall immediately cease to undertake the activity for which the licence is issued."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Commissioner may, by notice in writing, require a licensed person to pay such costs as may be incurred by the Commissioner as a result of the suspension or cancellation of the person's licence as specified in the notice and the costs shall be treated as tax for the purposes of the Tax Procedures Act (Cap. 469B)."
+    }
+   ]
+  },
+  "23": {
+   "num": "23",
+   "title": "Commissioner to notify licensee prior to suspension of license",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "III",
+   "part_title": "LICENSING",
+   "text": "(1) Where the Commissioner seeks to suspend a licence under this Act, the Commissioner shall give the licensee twenty-one days' notice prior to the suspension, giving grounds on which the suspension shall be done.\n(2) A notice issued under this section may require the licensee to remedy any circumstances which may be required to be remedied.\n(3) Where a licensee fails to comply with the requirements indicated in the notice issued under this section, the Commissioner may proceed to suspend the licence under section 20.\n(4) Despite any other provision of this Act, the Commissioner may suspend a licence, without notice, where the licensee—\n  (a) has engaged in tax fraud;\n  (b) has been found in possession of, or using, counterfeit stamps on excisable goods;\n  (c) has been found in possession of goods bearing counterfeit stamps; or\n  (d) has violated any regulations relating to health and safety, standards or packaging of goods. [Act No. 10 of 2018, s. 28.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Where the Commissioner seeks to suspend a licence under this Act, the Commissioner shall give the licensee twenty-one days' notice prior to the suspension, giving grounds on which the suspension shall be done."
+    },
+    {
+     "ref": "(2)",
+     "text": "A notice issued under this section may require the licensee to remedy any circumstances which may be required to be remedied."
+    },
+    {
+     "ref": "(3)",
+     "text": "Where a licensee fails to comply with the requirements indicated in the notice issued under this section, the Commissioner may proceed to suspend the licence under section 20."
+    },
+    {
+     "ref": "(4)",
+     "text": "Despite any other provision of this Act, the Commissioner may suspend a licence, without notice, where the licensee—"
+    }
+   ]
+  },
+  "24": {
+   "num": "24",
+   "title": "Excisable goods under excise control",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "EXCISE CONTROL",
+   "text": "(1) Excisable goods stored in the factory of a licensed manufacturer shall be subject to the control of the Commissioner (referred to as \"excise control\").\n(2) Excisable goods shall be subject to excise control until the earlier of—\n  (a) the removal of the goods from the factory of a licensed manufacturer for consumption in Kenya;\n  (b) the export of the goods from Kenya; or\n  (c) the destruction or disposal of goods in accordance with subsection (4), or section 7 (1) (d).\n(3) When goods are subject to excise control—\n  (a) an authorised officer may, at any time, examine the goods; and\n  (b) no person shall, except with authority of the Commissioner granted in accordance with this Act, remove the goods from a factory or otherwise interfere in any way with the goods.\n(4) When goods are subject to excise control, the Commissioner may permit the owner of those goods to abandon them to the Commissioner, and on such abandonment the goods may, at the expense of the owner thereof, be destroyed or otherwise disposed of as the Commissioner may direct.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Excisable goods stored in the factory of a licensed manufacturer shall be subject to the control of the Commissioner (referred to as \"excise control\")."
+    },
+    {
+     "ref": "(2)",
+     "text": "Excisable goods shall be subject to excise control until the earlier of—"
+    },
+    {
+     "ref": "(3)",
+     "text": "When goods are subject to excise control—"
+    },
+    {
+     "ref": "(4)",
+     "text": "When goods are subject to excise control, the Commissioner may permit the owner of those goods to abandon them to the Commissioner, and on such abandonment the goods may, at the expense of the owner thereof, be destroyed or otherwise disposed of as the Commissioner may direct."
+    }
+   ]
+  },
+  "25": {
+   "num": "25",
+   "title": "Obligations of licensed manufacturer in relation to excisable goods under excise control",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "EXCISE CONTROL",
+   "text": "(1) For the purposes of ensuring proper accounting of excisable goods under excise control, a licensed manufacturer shall—\n  (a) keep and maintain at the factory, metering and measuring devices, and such other equipment as may be necessary in order to enable the Commissioner to take an account of, or check by weight, gauge or measure, all excisable goods or materials in the factory;\n  (b) store excisable goods in the factory in such manner as to facilitate the taking of a full account of the goods;\n  (c) keep a materials account in the approved form and enter therein the particulars of all raw materials and intermediate goods received at the factory for use in manufacturing, and balance the account at the end of each month;\n  (d) keep a finished goods account in the approved form and enter therein particulars of all excisable goods manufactured therein and delivered therefrom and shall balance the account at the end of each month;\n  (e) ensure that excise duty is paid on any excisable goods consumed at the factory; and\n  (f) comply with such other requirements as may be specified in the Regulations.\n(2) For the purpose of subsection (1)(a), the Commissioner shall, by notice in the Gazette, specify the requirements of a measuring or metering device and such other equipment as may be required.\n(2A) Notwithstanding subsection (1)(a), a licensed microdistiller shall be exempt from the requirement for automation, continuous piping, and the use of mass flow meters.\n(2B) The production volume of such a licensed microdistiller shall be ascertained and monitored through the use of excise stamps or such other mechanism as the Commissioner may prescribe by notice in the Gazette.\n(3) The Commissioner—\n  (a) may, at any time, take samples of excisable goods free of charge for such purposes of the Act as the Commissioner may deem necessary, and any such samples shall be disposed of and accounted for in such manner as the Commissioner may direct; or\n  (b) may, subject to such written conditions as the Commissioner may impose, permit the owner of excisable goods to take samples which are of no commercial value without payment of the excise duty thereon.\n[Act No. 9 of 2025, s. 45.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "For the purposes of ensuring proper accounting of excisable goods under excise control, a licensed manufacturer shall—"
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purpose of subsection (1)(a), the Commissioner shall, by notice in the Gazette, specify the requirements of a measuring or metering device and such other equipment as may be required."
+    },
+    {
+     "ref": "(2A)",
+     "text": "Notwithstanding subsection (1)(a), a licensed microdistiller shall be exempt from the requirement for automation, continuous piping, and the use of mass flow meters."
+    },
+    {
+     "ref": "(2B)",
+     "text": "The production volume of such a licensed microdistiller shall be ascertained and monitored through the use of excise stamps or such other mechanism as the Commissioner may prescribe by notice in the Gazette."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Commissioner—"
+    }
+   ]
+  },
+  "26": {
+   "num": "26",
+   "title": "Keeping or use of still otherwise than by distiller or rectifier prohibited",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "EXCISE CONTROL",
+   "text": "(1) Subject to subsection (2), no person other than a licensed distiller or rectifier shall keep or use a still.\n(2) The Commissioner may permit, subject to such conditions as the Commissioner may impose, the keeping or use of a still by a person other than a licensed distiller or rectifier when the still is—\n  (a) kept by a person who makes or keeps stills solely for the purpose of sale;\n  (b) kept or used for experimental, analytical, or scientific purposes; or\n  (c) kept or used for the manufacture of an article other than spirits.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2), no person other than a licensed distiller or rectifier shall keep or use a still."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Commissioner may permit, subject to such conditions as the Commissioner may impose, the keeping or use of a still by a person other than a licensed distiller or rectifier when the still is—"
+    }
+   ]
+  },
+  "27": {
+   "num": "27",
+   "title": "Deemed removal of excisable goods",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IV",
+   "part_title": "EXCISE CONTROL",
+   "text": "(1) A licensed manufacturer who cannot account, to the satisfaction of the Commissioner, for any quantity of excisable goods manufactured shall be deemed to have removed those goods from excise control in the month in which the discrepancy arose.\n(2) A licensed manufacturer shall notify the Commissioner of any discrepancies between the manufacturer's actual and recorded inventory as soon as the manufacturer becomes aware of the discrepancy.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A licensed manufacturer who cannot account, to the satisfaction of the Commissioner, for any quantity of excisable goods manufactured shall be deemed to have removed those goods from excise control in the month in which the discrepancy arose."
+    },
+    {
+     "ref": "(2)",
+     "text": "A licensed manufacturer shall notify the Commissioner of any discrepancies between the manufacturer's actual and recorded inventory as soon as the manufacturer becomes aware of the discrepancy."
+    }
+   ]
+  },
+  "28": {
+   "num": "28",
+   "title": "Excise stamps and other markings",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "V",
+   "part_title": "EXCISE STAMPS",
+   "text": "(1) The Cabinet Secretary may in the regulations specify—\n  (a) the excisable goods to which excise stamps shall be affixed;\n  (b) the systems for management of excise stamps and excisable goods, and\n  (c) the place and time of affixing excise stamps.\n(2) The Commissioner shall, by notice in at least two newspapers of national circulation, specify the types and descriptions of excise stamps to be affixed on goods specified under subsection (1).\n(3) If excisable goods are manufactured for export, or for delivery to persons listed in subparagraph (2) or (3) of the Second Schedule, the goods shall be marked with such inscriptions as the Commissioner may specify to facilitate the tracking and tracing of the goods.\n(4) A person shall not remove excisable goods specified in subsection (1) from the place designated for affixing stamps unless the goods have been affixed with stamps in accordance with the regulation.\n(5) Notwithstanding subsection (4), the Commissioner may in exceptional circumstances, and with prior approval of the Cabinet Secretary, allow removal of excisable goods from excise control without affixing excise stamps on the goods.\n(6) A person who—\n  (a) defaces or prints over an excise stamp affixed on any excisable goods or package;\n  (b) knowingly is in possession of excisable goods on which excise stamps have not been affixed and which have not been exempted from the requirements of this Act or Regulations made under this Act;\n  (c) acquires or attempts to acquire an excise stamp without the authority of the Commissioner;\n  (d) prints, counterfeits, makes or in any way creates an excise stamp without the authority of the Commissioner;\n  (e) knowingly is in possession of an excise stamp which has been printed, made or in any way acquired without the authority of the Commissioner;\n  (f) knowingly is in possession of, conveys, distributes, sells, offers for sale or trades in excisable goods without affixing excise stamps in accordance with this Act or Regulations made under this Act; or\n  (g) is in possession of, conveys, distributes, sells, or trades in excisable goods which have been affixed with counterfeit excise stamps, commits an offence.\n(7) A person who commits an offence under subsection (6) is liable, upon conviction, to a fine not exceeding five million shillings or imprisonment for a term not exceeding three years, or to both.\n[Act No. 4 of 2023, s. 43.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may in the regulations specify—"
+    },
+    {
+     "ref": "(2)",
+     "text": "The Commissioner shall, by notice in at least two newspapers of national circulation, specify the types and descriptions of excise stamps to be affixed on goods specified under subsection (1)."
+    },
+    {
+     "ref": "(3)",
+     "text": "If excisable goods are manufactured for export, or for delivery to persons listed in subparagraph (2) or (3) of the Second Schedule, the goods shall be marked with such inscriptions as the Commissioner may specify to facilitate the tracking and tracing of the goods."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person shall not remove excisable goods specified in subsection (1) from the place designated for affixing stamps unless the goods have been affixed with stamps in accordance with the regulation."
+    },
+    {
+     "ref": "(5)",
+     "text": "Notwithstanding subsection (4), the Commissioner may in exceptional circumstances, and with prior approval of the Cabinet Secretary, allow removal of excisable goods from excise control without affixing excise stamps on the goods."
+    },
+    {
+     "ref": "(6)",
+     "text": "A person who—"
+    },
+    {
+     "ref": "(7)",
+     "text": "A person who commits an offence under subsection (6) is liable, upon conviction, to a fine not exceeding five million shillings or imprisonment for a term not exceeding three years, or to both."
+    }
+   ]
+  },
+  "29": {
+   "num": "29",
+   "title": "Refunds",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "REFUNDS",
+   "text": "(1) If excise duty has been paid by a person on excisable goods manufactured in, or imported into, Kenya, the Commissioner shall, on written application by the person, refund the excise duty paid if satisfied that—\n  (a) before being consumed or used in Kenya—\n  (i) the goods have been damaged or stolen during the voyage or transportation to Kenya;\n  (ii) the goods have been damaged or destroyed while subject to excise control;\n  (iii) the buyer has returned the goods to the seller in accordance with the contract of sale; or\n  (b) the excise duty has been paid in respect of spirits or illuminating kerosene that have subsequently been used by a licensed or registered manufacturer to manufacture unexcisable goods.\n(2) A licensed person may apply to the Commissioner for a refund of excise duty if the person has accounted for and paid excise duty on excisable goods or excisable services but has not received any payment from the purchaser for the goods or services, and the Commissioner may refund the excise duty if satisfied that payment for the goods or services has not been received.\n(3) An application for a refund under subsection (2) may be made on the earlier of—\n  (a) three years from the date of the sale of the goods or services; or\n  (b) the purchaser becoming legally insolvent.\n(4) An application for a refund under this section shall be—\n  (a) in the prescribed form; and\n  (b) lodged with the Commissioner in the prescribed manner—\n  (i) within twelve months from the date of payment of the duty, in the case of an application under subsection (1); or\n  (ii) within twelve months from the earlier date specified in subsection (3), in the case of an application under subsection (2).\n(5) The amount of a refund of excise duty payable under this section shall be made in accordance with the Tax Procedures Act (Cap. 469B)).\n(6) If excise duty has been paid on the importation of excisable goods that have been subsequently exported, section 138 of the East African Community Customs Management Act, 2004 (No. 1 of 2005) shall apply to the export.\n(7) If excise duty has been refunded under subsection (5) and the licensed person has subsequently recovered the whole or part of the excise duty from the purchaser of the goods or services, the licensed person shall repay the refunded excise duty to the Commissioner to the extent that it has been recovered within thirty days of the recovery.\n[Act No. 15 of 2017, s. 4.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If excise duty has been paid by a person on excisable goods manufactured in, or imported into, Kenya, the Commissioner shall, on written application by the person, refund the excise duty paid if satisfied that—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A licensed person may apply to the Commissioner for a refund of excise duty if the person has accounted for and paid excise duty on excisable goods or excisable services but has not received any payment from the purchaser for the goods or services, and the Commissioner may refund the excise duty if satisfied that payment for the goods or services has not been received."
+    },
+    {
+     "ref": "(3)",
+     "text": "An application for a refund under subsection (2) may be made on the earlier of—"
+    },
+    {
+     "ref": "(4)",
+     "text": "An application for a refund under this section shall be—"
+    },
+    {
+     "ref": "(5)",
+     "text": "The amount of a refund of excise duty payable under this section shall be made in accordance with the Tax Procedures Act (Cap. 469B))."
+    },
+    {
+     "ref": "(6)",
+     "text": "If excise duty has been paid on the importation of excisable goods that have been subsequently exported, section 138 of the East African Community Customs Management Act, 2004 (No. 1 of 2005) shall apply to the export."
+    },
+    {
+     "ref": "(7)",
+     "text": "If excise duty has been refunded under subsection (5) and the licensed person has subsequently recovered the whole or part of the excise duty from the purchaser of the goods or services, the licensed person shall repay the refunded excise duty to the Commissioner to the extent that it has been recovered within thirty days of the recovery."
+    }
+   ]
+  },
+  "30": {
+   "num": "30",
+   "title": "Excisable goods subject to a refund liable for excise duty on disposal or inconsistent use",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "REFUNDS",
+   "text": "(1) Subject to this Act, when excisable goods in respect of which a refund of excise duty has been paid are subsequently disposed of, or used, in a manner inconsistent with the purpose for which the refund was granted, the goods shall be liable for the excise duty that would have been payable on the goods if the refund had not been granted.\n(2) When a person who, being in possession of excisable goods in respect of which a refund of excise duty has been granted for any purpose, proposes to dispose of, or use, the goods for a purpose inconsistent with the purpose for which the refund was granted, the person shall furnish the Commissioner with the particulars of the proposed disposal or use, and shall pay the excise duty thereon.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this Act, when excisable goods in respect of which a refund of excise duty has been paid are subsequently disposed of, or used, in a manner inconsistent with the purpose for which the refund was granted, the goods shall be liable for the excise duty that would have been payable on the goods if the refund had not been granted."
+    },
+    {
+     "ref": "(2)",
+     "text": "When a person who, being in possession of excisable goods in respect of which a refund of excise duty has been granted for any purpose, proposes to dispose of, or use, the goods for a purpose inconsistent with the purpose for which the refund was granted, the person shall furnish the Commissioner with the particulars of the proposed disposal or use, and shall pay the excise duty thereon."
+    }
+   ]
+  },
+  "31": {
+   "num": "31",
+   "title": "Exempt excisable goods liable for excise duty on re-importation or purchase",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "REFUNDS",
+   "text": "(1) Subject to this Act, when excisable goods that have been exported or shipped for use as stores on an aircraft or vessel operating in international traffic are subsequently unloaded in Kenya for home use, the importer shall be liable to pay excise duty on such goods at the rate in force at the time of unloading.\n(2) Excisable goods imported or purchased free of excise duty shall be liable for excise duty on disposal or inconsistent use.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this Act, when excisable goods that have been exported or shipped for use as stores on an aircraft or vessel operating in international traffic are subsequently unloaded in Kenya for home use, the importer shall be liable to pay excise duty on such goods at the rate in force at the time of unloading."
+    },
+    {
+     "ref": "(2)",
+     "text": "Excisable goods imported or purchased free of excise duty shall be liable for excise duty on disposal or inconsistent use."
+    }
+   ]
+  },
+  "32": {
+   "num": "32",
+   "title": "Exempt excisable goods liable for excise duty on disposal or inconsistent use",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VI",
+   "part_title": "REFUNDS",
+   "text": "When a person imports or purchases excisable goods which are exempt from excise duty under the Second Schedule and the person subsequently disposes of, or uses, the goods in a manner inconsistent with the exemption, the person shall be liable to pay excise duty on the goods at the rate applicable to goods of that class or description at the time of disposal or inconsistent use:\nProvided that in the case of a motor vehicle, excise duty shall not be payable where in the case of a natural person, that person dies and the ownership of the motor vehicle is transferred by way of bequest to or inheritance by another person.",
+   "clauses": []
+  },
+  "33": {
+   "num": "33",
+   "title": "Application of Tax Procedures Act",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "EXCISE DUTY PROCEDURE",
+   "text": "The Tax Procedures Act (Cap. 469B) shall subject to this Part, apply for the purposes of the administration of this Act.",
+   "clauses": []
+  },
+  "34": {
+   "num": "34",
+   "title": "Record keeping",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "EXCISE DUTY PROCEDURE",
+   "text": "A person liable to pay excise duty under this Act shall keep such records as may be specified in this Act or the Regulations and shall retain the records for the time period, and in the manner specified in the Tax Procedures Act (Cap. 469B).",
+   "clauses": []
+  },
+  "35": {
+   "num": "35",
+   "title": "Excise duty returns",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "EXCISE DUTY PROCEDURE",
+   "text": "A licensed manufacturer or a supplier of excisable services shall submit an excise duty return, in the approved form and in the prescribed manner, for each calendar month not later than the twentieth day of the succeeding month, whether or not any excise duty is payable for that month.",
+   "clauses": []
+  },
+  "36": {
+   "num": "36",
+   "title": "Payment of excise duty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "EXCISE DUTY PROCEDURE",
+   "text": "(1) The excise duty payable by a licensed manufacturer in respect of excisable goods removed from a manufacturer's factory during a calendar month shall be paid not later than the twentieth day of the succeeding month.\n(1A) Despite subsection (1), in the case of a licensed manufacturer of alcoholic beverages, excise duty shall be payable to the Commissioner within by the fifth day of the following month upon removal of the goods from the stockroom.\n(2) The excise duty payable by a supplier of excisable services in respect of supplies of excisable services made by the supplier during a calendar month shall be paid not later than the twentieth day of the succeeding month.\n(3) The excise duty payable by an importer in respect of the importation of excisable goods into Kenya shall be paid to the Commissioner at the time of importation.\n(4) For the purpose of assessing, collecting, accounting and enforcing the payment of excise duty on the importation of goods into Kenya, the East African Community Customs Management Act, 2004 shall apply as if excise duty were customs duty:\nProvided that—\n  (a) the Tax Procedures Act (Cap. 469B), shall apply with regard to imposition of interest and penalties; and\n  (b) in cases where interest becomes payable it shall not, in aggregate, exceed the principal tax.\n(5) The Commissioner shall pay into the Sports, Arts and Social Development Fund established under the Public Finance Management Act (Cap. 412A), to support social development including universal health care sixteen percent of the excise duty paid in respect of money transfer by cellular phone service providers.\n[Act No. 10 of 2018, s. 29, Act No. 22 of 2022, s. 34, Act No. 4 of 2023, s. 44, Act No. 12 of 2024, s. 26.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The excise duty payable by a licensed manufacturer in respect of excisable goods removed from a manufacturer's factory during a calendar month shall be paid not later than the twentieth day of the succeeding month."
+    },
+    {
+     "ref": "(1A)",
+     "text": "Despite subsection (1), in the case of a licensed manufacturer of alcoholic beverages, excise duty shall be payable to the Commissioner within by the fifth day of the following month upon removal of the goods from the stockroom."
+    },
+    {
+     "ref": "(2)",
+     "text": "The excise duty payable by a supplier of excisable services in respect of supplies of excisable services made by the supplier during a calendar month shall be paid not later than the twentieth day of the succeeding month."
+    },
+    {
+     "ref": "(3)",
+     "text": "The excise duty payable by an importer in respect of the importation of excisable goods into Kenya shall be paid to the Commissioner at the time of importation."
+    },
+    {
+     "ref": "(4)",
+     "text": "For the purpose of assessing, collecting, accounting and enforcing the payment of excise duty on the importation of goods into Kenya, the East African Community Customs Management Act, 2004 shall apply as if excise duty were customs duty:"
+    },
+    {
+     "ref": "(5)",
+     "text": "The Commissioner shall pay into the Sports, Arts and Social Development Fund established under the Public Finance Management Act (Cap. 412A), to support social development including universal health care sixteen percent of the excise duty paid in respect of money transfer by cellular phone service providers."
+    }
+   ]
+  },
+  "36A": {
+   "num": "36A",
+   "title": "Payment of excise duty within twenty-four hours",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "EXCISE DUTY PROCEDURE",
+   "text": "(1) Despite the provisions of section 36, excise duty on betting and gaming, offered through a platform or other medium, shall be remitted to the Commissioner by a bookmaker within twenty-four hours from the closure of transactions of the day.\n(2) For the purposes of this section, “closure of transactions of the day” means midnight of that day.\n(3) The Commissioner may, by notice in the Gazette, require taxpayers in any sector to remit excise duty collected on certain excisable services within twenty-four hours from the closure of transactions of the day.\n[Act No. 4 of 2023, s. 45.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Despite the provisions of section 36, excise duty on betting and gaming, offered through a platform or other medium, shall be remitted to the Commissioner by a bookmaker within twenty-four hours from the closure of transactions of the day."
+    },
+    {
+     "ref": "(2)",
+     "text": "For the purposes of this section, “closure of transactions of the day” means midnight of that day."
+    },
+    {
+     "ref": "(3)",
+     "text": "The Commissioner may, by notice in the Gazette, require taxpayers in any sector to remit excise duty collected on certain excisable services within twenty-four hours from the closure of transactions of the day."
+    }
+   ]
+  },
+  "37": {
+   "num": "37",
+   "title": "Security",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VII",
+   "part_title": "EXCISE DUTY PROCEDURE",
+   "text": "(1) A licensed manufacturer shall provide such security for the payment of excise duty as the Commissioner may specify by notice in writing.\n(2) The Commissioner may require a person to give security for the due compliance with this Act and generally for the protection of the excise duty revenue, and pending the giving of security in relation to goods subject to excise control, the Commissioner may refuse to permit removal or exportation of the goods, or to process any declaration in relation thereto, or to license any person to do so.\n(3) A person required to provide security under this section shall provide the security in accordance with the Tax Procedures Act (Cap. 469B).",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A licensed manufacturer shall provide such security for the payment of excise duty as the Commissioner may specify by notice in writing."
+    },
+    {
+     "ref": "(2)",
+     "text": "The Commissioner may require a person to give security for the due compliance with this Act and generally for the protection of the excise duty revenue, and pending the giving of security in relation to goods subject to excise control, the Commissioner may refuse to permit removal or exportation of the goods, or to process any declaration in relation thereto, or to license any person to do so."
+    },
+    {
+     "ref": "(3)",
+     "text": "A person required to provide security under this section shall provide the security in accordance with the Tax Procedures Act (Cap. 469B)."
+    }
+   ]
+  },
+  "38": {
+   "num": "38",
+   "title": "Penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "OFFENCES AND PENALTIES",
+   "text": "(1) A person who undertakes an activity referred to in section 15(1)(a) or (b) without being licensed to do so shall be liable to a penalty equal to—\n  (a) double the excise duty that would have been payable if the person were licensed or five million shillings, whichever is higher in the case of a person to whom section 15(1)(a) applies; or\n  (b) double the amount of excise duty payable or five million shillings, whichever is higher in respect of the importation of excisable goods requiring an excise stamp, in the case of a person to whom section 15(1)(b) applies.\n(2) A licensed manufacturer who manufactures excisable goods in premises that are not specified on the manufacturer's licence as the factory in which the manufacturer is permitted to manufacture the goods shall be liable to a penalty equal to double the excise duty payable on those goods.\n(3) If under section 27(1) has been applied to deem a licensed manufacturer to have removed excisable goods from excise control, the manufacturer shall be liable to pay a penalty equal to double the excise duty payable on those goods.\n(4) The Tax Procedures Act (Cap. 469B) shall apply to penalties imposed under this section.[Act No. 10 of 2018, s. 30.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "A person who undertakes an activity referred to in section 15(1)(a) or (b) without being licensed to do so shall be liable to a penalty equal to—"
+    },
+    {
+     "ref": "(2)",
+     "text": "A licensed manufacturer who manufactures excisable goods in premises that are not specified on the manufacturer's licence as the factory in which the manufacturer is permitted to manufacture the goods shall be liable to a penalty equal to double the excise duty payable on those goods."
+    },
+    {
+     "ref": "(3)",
+     "text": "If under section 27(1) has been applied to deem a licensed manufacturer to have removed excisable goods from excise control, the manufacturer shall be liable to pay a penalty equal to double the excise duty payable on those goods."
+    },
+    {
+     "ref": "(4)",
+     "text": "The Tax Procedures Act (Cap. 469B) shall apply to penalties imposed under this section.[Act No. 10 of 2018, s. 30.]"
+    }
+   ]
+  },
+  "39": {
+   "num": "39",
+   "title": "Offences relating to licensing and excise control",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "OFFENCES AND PENALTIES",
+   "text": "(1) Any person who contravenes the provisions of sections 17(3), 18(4), 25(1) or 26(1) commits an offence.\n(2) A licensed manufacturer commits an offence if he manufactures excisable goods in premises that are not specified on the manufacturer's licence as the factory in which such manufacture is permitted.\n(3) A licensed person who fails to comply with section 19(1) or 19(2) commits an offence.\n(4) A person commits an offence if he or she—\n  (a) removes excisable goods from excise control in contravention of section 24 (3)(b);\n  (b) enters any place where excisable goods are stored under excise control without authorisation; or\n  (c) is involved in the unauthorised removal, alteration, or interference with excisable goods under excise control.\n(5) Any person who buys, or, without proper authority, receives or has in the person's possession, any excisable goods that have been manufactured contrary to the provisions of this Act, or which have been removed from the place where they ought to have been charged with excise duty before such duty has been charged and either paid or secured commits an offence.\n(6) Any plant or excisable goods or any materials, in respect of which an offence has been established in relation to sections 15,18,19, or 28 shall, in addition to any other penalty imposed under this Act, be forfeited to the Commissioner. [Act No. 10 of 2018, s. 31.]",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Any person who contravenes the provisions of sections 17(3), 18(4), 25(1) or 26(1) commits an offence."
+    },
+    {
+     "ref": "(2)",
+     "text": "A licensed manufacturer commits an offence if he manufactures excisable goods in premises that are not specified on the manufacturer's licence as the factory in which such manufacture is permitted."
+    },
+    {
+     "ref": "(3)",
+     "text": "A licensed person who fails to comply with section 19(1) or 19(2) commits an offence."
+    },
+    {
+     "ref": "(4)",
+     "text": "A person commits an offence if he or she—"
+    },
+    {
+     "ref": "(5)",
+     "text": "Any person who buys, or, without proper authority, receives or has in the person's possession, any excisable goods that have been manufactured contrary to the provisions of this Act, or which have been removed from the place where they ought to have been charged with excise duty before such duty has been charged and either paid or secured commits an offence."
+    },
+    {
+     "ref": "(6)",
+     "text": "Any plant or excisable goods or any materials, in respect of which an offence has been established in relation to sections 15,18,19, or 28 shall, in addition to any other penalty imposed under this Act, be forfeited to the Commissioner. [Act No. 10 of 2018, s. 31.]"
+    }
+   ]
+  },
+  "40": {
+   "num": "40",
+   "title": "Repealed",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "OFFENCES AND PENALTIES",
+   "text": "Repealed by Act No. 4 of 2023, s. 46.",
+   "clauses": []
+  },
+  "41": {
+   "num": "41",
+   "title": "Sanctions for offences",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "OFFENCES AND PENALTIES",
+   "text": "(1) Subject to subsection (2), a person convicted of an offence under sections 39 and 40, shall be liable to a fine not exceeding five million shillings or to imprisonment for a term not exceeding three years, or to both a fine and imprisonment.\n(2) Where an offence under this Part or the Tax Procedures Act has been committed in relation to excisable goods, the court may impose a fine not exceeding the higher of—\n  (a) the maximum fine specified for the offence; or (b) three times the value of the excisable goods to which the offence relates.\n(3) For the purposes of subsection (2), the value of excisable goods shall be determined in accordance with section 9.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to subsection (2), a person convicted of an offence under sections 39 and 40, shall be liable to a fine not exceeding five million shillings or to imprisonment for a term not exceeding three years, or to both a fine and imprisonment."
+    },
+    {
+     "ref": "(2)",
+     "text": "Where an offence under this Part or the Tax Procedures Act has been committed in relation to excisable goods, the court may impose a fine not exceeding the higher of— (a) the maximum fine specified for the offence; or (b) three times the value of the excisable goods to which the offence relates."
+    },
+    {
+     "ref": "(3)",
+     "text": "For the purposes of subsection (2), the value of excisable goods shall be determined in accordance with section 9."
+    }
+   ]
+  },
+  "41A": {
+   "num": "41A",
+   "title": "General penalty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "VIII",
+   "part_title": "OFFENCES AND PENALTIES",
+   "text": "A person who contravenes any provision of this Act or any regulation made thereunder for which no specific penalty is provided commits an offence and shall be liable, on conviction, to a fine not exceeding two million shillings or to imprisonment for a term not exceeding two years, or to both.\n[Act No. 23 of 2019, s. 25.]",
+   "clauses": []
+  },
+  "42": {
+   "num": "42",
+   "title": "Tax avoidance schemes",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Despite anything in this Act, if the Commissioner is satisfied that—\n  (a) a scheme has been entered into or carried out;\n  (b) a person has obtained a tax benefit in connection with the scheme; and (c) having regard to the substance of the scheme, it would be concluded that the person, or any other, who entered into or carried out the scheme did so for the sole or main purpose of enabling the person referred to in paragraph (b) to obtain the tax benefit, the Commissioner may determine the excise duty liability of the person who obtained the tax benefit as if the scheme had not been entered into or carried out. (2) If a determination is made under subsection (1), the Commissioner shall issue an assessment giving effect to the determination. (3) A determination under subsection (1) shall be made within five years from the last day of the month in which the excise duty liability arose.\n(4) In this section—\n“scheme” includes a course of action, or an agreement, arrangement, promise, plan, proposal, or undertaking, whether express or implied, and whether or not legally enforceable;\n“tax benefit” means—\n  (a) a reduction in the liability of a person to pay excise duty, including a reduction of the liability to zero;\n  (b) an entitlement to a refund of excise duty;\n  (c) a postponement of a liability for the payment of excise duty;\n  (d) any other advantage arising to the person because of a delay in payment of excise duty;\n  (e) anything that causes—\n  (i) excisable goods not to be excisable goods or excisable services not to be excisable services;\n  (ii) excisable goods or excisable services not to be subject to excise duty; or\n  (iii) excisable goods or excisable services to be subject to a lower rate of excise duty.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Despite anything in this Act, if the Commissioner is satisfied that— (a) a scheme has been entered into or carried out; (b) a person has obtained a tax benefit in connection with the scheme; and (c) having regard to the substance of the scheme, it would be concluded that the person, or any other, who entered into or carried out the scheme did so for the sole or main purpose of enabling the person referred to in paragraph (b) to obtain the tax benefit, the Commissioner may determine the excise duty liability of the person who obtained the tax benefit as if the scheme had not been entered into or carried out. (2) If a determination is made under subsection (1), the Commissioner shall issue an assessment giving effect to the determination. (3) A determination under subsection (1) shall be made within five years from the last day of the month in which the excise duty liability arose."
+    },
+    {
+     "ref": "(4)",
+     "text": "In this section—"
+    }
+   ]
+  },
+  "43": {
+   "num": "43",
+   "title": "Effect on prices of imposition, abolition, or variation of excise duty",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) If, after any agreement has been entered into by a licensed person for the sale of excisable goods or supply of excisable services at a price that is expressly or implicitly inclusive of excise duty, and any alteration takes place in the amount of duty payable in respect of the goods or services before the duty becomes due, then, in the absence of express written provisions to the contrary between the parties to the agreement and despite the provisions of any other written law, the agreement shall have effect as follows—\n  (a) in the case of the alteration being an imposition of excise duty or an increased rate of excise duty, the licensed person may, after payment of the duty, whether directly or indirectly, add the difference caused by the alteration to the agreed price;\n  (b) in the case of the alteration being the abolition of excise duty or a reduced rate of excise duty, the purchaser of the goods or services may, if the licensed person has not, directly or indirectly, paid the duty or has paid duty at a lower rate, deduct the difference caused by the alteration from the agreed price;\n  (c) any refund or payment of increased duty resulting from the alteration not being finally adopted shall be adjusted between the parties to the agreement in such manner as the case may require.\n(2) If, under any law relating to the control of prices or charges, a price is fixed, or any variation in the price is prohibited or regulated, in relation to any excisable goods or services, then, despite any provision of that law, when excise duty in relation to those goods or services is imposed or altered, the price may be varied strictly in accordance with that imposition or variation when the licensed person has, directly or indirectly, been affected by that imposition or alteration.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "If, after any agreement has been entered into by a licensed person for the sale of excisable goods or supply of excisable services at a price that is expressly or implicitly inclusive of excise duty, and any alteration takes place in the amount of duty payable in respect of the goods or services before the duty becomes due, then, in the absence of express written provisions to the contrary between the parties to the agreement and despite the provisions of any other written law, the agreement shall have effect as follows—"
+    },
+    {
+     "ref": "(2)",
+     "text": "If, under any law relating to the control of prices or charges, a price is fixed, or any variation in the price is prohibited or regulated, in relation to any excisable goods or services, then, despite any provision of that law, when excise duty in relation to those goods or services is imposed or altered, the price may be varied strictly in accordance with that imposition or variation when the licensed person has, directly or indirectly, been affected by that imposition or alteration."
+    }
+   ]
+  },
+  "44": {
+   "num": "44",
+   "title": "Application of the East African Community Customs Management Act, 2004",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "Subject to this Act, the East African Community Customs Management Act, 2004 and any rules made thereunder relating to customs generally, whether made before or after the commencement of this Act, shall have effect, with such exceptions and adaptations as may be prescribed, in relation to imported excisable goods, whether liable to any duty of customs or not, as if all such goods were liable to duties of customs and as if those duties include excise duty.",
+   "clauses": []
+  },
+  "45": {
+   "num": "45",
+   "title": "Regulations",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) The Cabinet Secretary may make Regulations generally for the better carrying out of the provisions of this Act, and, in particular—\n  (a) prescribing any fee or charge to be levied on excisable goods imported into, or manufactured in, Kenya; or\n  (b) prescribing any matter required to be prescribed for the purposes of this Act.\n(2) Regulations made under this Act may provide that any person contravening the Regulations commits an offence and shall be liable on conviction to a fine as specified in the Regulations.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "The Cabinet Secretary may make Regulations generally for the better carrying out of the provisions of this Act, and, in particular—"
+    },
+    {
+     "ref": "(2)",
+     "text": "Regulations made under this Act may provide that any person contravening the Regulations commits an offence and shall be liable on conviction to a fine as specified in the Regulations."
+    }
+   ]
+  },
+  "46": {
+   "num": "46",
+   "title": "Repeals and transitional provisions",
+   "chapter": null,
+   "chapter_title": null,
+   "part": "IX",
+   "part_title": "MISCELLANEOUS PROVISIONS",
+   "text": "(1) Subject to this section, the Customs and Excise Act is repealed.\n(2) Section 117A of the Customs and Excise Act shall continue to apply until the railway development levy imposed under that section is provided for in other legislation.\n(3) The goods listed in the Fourth Schedule to the Customs and Excise Act (now repealed), shall continue to be chargeable to export duty at the rate specified in the third column of the Schedule until the export duty is imposed in another legislation.\n(4) Despite the repeal of the Customs and Excise Act, the provisions of that Act shall remain in force for the purposes of the assessment and collection of any tax and the recovery of any penalty payable under that Act and outstanding at the date of the commencement of this Act.\n(5) Any subsidiary legislation made under the repealed Act and in force at the commencement of this Act shall remain in force, so far as it is not inconsistent with this Act, until subsidiary legislation with respect to the same matter is made under this Act.\n(6) Notwithstanding the provisions of subsection (5), regulation 38A of the Customs and Excise Regulations, shall continue to be in force until legislation on imposition of the import declaration fee is made.\n(7) Any tax due to be paid or refunded under the repealed Act which is outstanding at the commencement of this Act shall be paid or refunded as if it were tax due to be paid or refunded under this Act.\n(8) Unless a contrary intention appears, the commencement of this Act shall not—\n  (a) revive anything not in force or existing at the time at which the commencement takes effect;\n  (b) affect a penalty or punishment incurred in respect of an offence committed against the repealed Act in force at the commencement of this Act;\n  (c) affect any investigation, legal proceedings or remedy in respect of a right, privilege, obligation, liability, penalty or punishment, and any such investigation, legal proceedings or remedy may be instituted, continued, or enforced, and such penalty or punishment may be imposed, as if this Act has not been passed; or\n  (d) affect the employment or appointment of any person in the services of the Authority at the commencement of this Act.\n(9) Any person who is registered or licensed under the repealed Act shall be treated as registered or licensed under this Act unless the Commissioner provides otherwise notified in writing by the Commissioner.",
+   "clauses": [
+    {
+     "ref": "(1)",
+     "text": "Subject to this section, the Customs and Excise Act is repealed."
+    },
+    {
+     "ref": "(2)",
+     "text": "Section 117A of the Customs and Excise Act shall continue to apply until the railway development levy imposed under that section is provided for in other legislation."
+    },
+    {
+     "ref": "(3)",
+     "text": "The goods listed in the Fourth Schedule to the Customs and Excise Act (now repealed), shall continue to be chargeable to export duty at the rate specified in the third column of the Schedule until the export duty is imposed in another legislation."
+    },
+    {
+     "ref": "(4)",
+     "text": "Despite the repeal of the Customs and Excise Act, the provisions of that Act shall remain in force for the purposes of the assessment and collection of any tax and the recovery of any penalty payable under that Act and outstanding at the date of the commencement of this Act."
+    },
+    {
+     "ref": "(5)",
+     "text": "Any subsidiary legislation made under the repealed Act and in force at the commencement of this Act shall remain in force, so far as it is not inconsistent with this Act, until subsidiary legislation with respect to the same matter is made under this Act."
+    },
+    {
+     "ref": "(6)",
+     "text": "Notwithstanding the provisions of subsection (5), regulation 38A of the Customs and Excise Regulations, shall continue to be in force until legislation on imposition of the import declaration fee is made."
+    },
+    {
+     "ref": "(7)",
+     "text": "Any tax due to be paid or refunded under the repealed Act which is outstanding at the commencement of this Act shall be paid or refunded as if it were tax due to be paid or refunded under this Act."
+    },
+    {
+     "ref": "(8)",
+     "text": "Unless a contrary intention appears, the commencement of this Act shall not—"
+    },
+    {
+     "ref": "(9)",
+     "text": "Any person who is registered or licensed under the repealed Act shall be treated as registered or licensed under this Act unless the Commissioner provides otherwise notified in writing by the Commissioner."
+    }
+   ]
+  }
+ },
+ "schedules": [
+  {
+   "id": "att_1",
+   "title": "FIRST SCHEDULE [s. 5(2)] RATES OF EXCISE DUTY",
+   "subtitle": null,
+   "text": "[Act No. 38 of 2016, Act No. 11 of 2017, Sch., Act No. 15 of 2017, s. 5, Act No. 10 of 2018 s. 32, L.N. 239/2018, L.N 240/2018, Act No. 23 of 2019, s. 26, Act No. 1 of 2020, s. 41, Act No. 2 of 2020, Sch., Act No. 8 of 2020, s. 17, Act No. 8 of 2021, s. 32, L.N. 194/2020, Act No. 22 of 2022, s. 35, L.N. 176/2022, L.N. 204/2022, Act No. 4 of 2023, s. 47, Act No. 12 of 2024, s. 27, Act No. 9 of 2025, s. 46.]\nPart I – EXCISABLE GOODS 1. Subject to paragraph 2, the rates of excise duty on excisable goods are as set out in the following table:\nTariff No.\nTariff Description 2710.12.10 Motor Spirit (gasoline) regular per 1000 litres @ 20degC 2710.12.20 Motor Spirit (gasoline) premium per 1000 litres @ 20degC 2710.12.30 Aviation Spirit per 1000 litres @ 20degC 2710.12.40 Spirit type Jet Fuel per 1000 litres @ 20degC 2710.12.50 Special boiling point spirit and white spirit per 1000 litres @ 20degC 2710.12.90 Other light oils and preparations per 1000 litres @20degC 2710.19.10 Partly refined (including topped crude) per 1000 litres @ 20degC 2710.19.21 Kerosene type Jet Fuel Per 1000 litres @ 20degC 2710.19.22 Illuminating Kerosene per 1000 litres @ 20degC 2710.19.29 Other medium oils and preparations per 1000 litres @ 20degC 2710.19.31 Gas oil (automotive, light, amber for high speed engines) per 1000 litres @ 20degC 2710.19.32 Diesel oil (industrial heavy, black, for low speed marine and stationery engines) per 1000 litres @ 20degC 2710.19.39 Other gas oils per 1000 litres @ 20degC Rate (Ksh.) 21, 522.68 21,953.02 21,953.02 21,953.02 9,379.27 9,379.27 1,600.00 6,350.32 11,370.98 5,848.25 11,370.99 4,082.74 6,951.70 Tariff No.\nTariff Description 2710.19.41 Residual fuel oils (marine, furnace and similar fuel oils) of a Kinematic viscosity of 125 centistokes per 1000 litres @ 20degC 2710.19.42 Residual fuel oils (marine, furnace and similar fuel oils) of a Kinematic viscosity of 180 centistokes Per 1000 litres @ 20degC 2710.19.43 Residual fuel oils (marine, furnace and similar fuel oils) of a Kinematic viscosity of 280 centistokes per 1000 litres @ 20degC 2710.19.49 Other residual fuels oils per 1000 litres @ 20degC Rate (Ksh.) 331.03 662.07 662.07 662.07 Description Rate of Excise Duty Fruit juices (including grape must), and vegetable juice, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter Shs. 14.14 per litre Food supplements 10% Bottled or similarly packaged waters and other non-alcoholic beverages, not including fruit or vegetable juices.\nShs. 6.41 per litre Beer, Cider, Perry, Mead, Opaque beer and mixtures of fermented beverages with non-alcoholic beverages and spirituous beverages of alcoholic strength not exceeding 6% KSh. 22.50 per centilitre of pure alcohol: Provided that, Beer, cider, perry, mead, opaque beer and mixtures of fermented beverages with nonalcoholic beverages and spirituous beverages manufactured by licensed small independent brewers shall be subject to the rate of “KSh 10 per centilitre of pure alcohol;\nPowdered beer Shs. 129.53 per kg Wines including fortified wines, and other alcoholic beverages obtained by fermentation of fruits KSh. 22.50 per centilitre of pure alcohol Spirits of undenatured ethyl alcohol; spirits liqueurs and other spirituous beverages of alcoholic strength exceeding 6% KSh. 10 per centilitre of pure alcohol Description Rate of Excise Duty Cigars, cheroots, cigarillos, containing tobacco or tobacco substitutes Shs. 16,260.29 per kg Cigarette with filters (hinge lid and soft cap) KSh. 4,100 per mille Cigarettes without filters (plain cigarettes) KSh. 4,100 per mille Other manufactured tobacco and manufactured tobacco substitutes; \"homogenous\" and \"reconstituted tobacco\"; tobacco extracts and essences Shs. 11,382.48 per kg Motor vehicles of tariff heading 87.02, 87.03 and 87.04 excluding-(i) locally 20% assembled motor vehicles;(ia) locally assembled electric vehicles;(ii) school buses for use by public schools;(iii) motor vehicles of tariff no. 8703.24.90 and 8703.33.90; and(iv) imported motor vehicles of cylinder capacity exceeding 1500cc Imported motor vehicles of cylinder capacity exceeding 1500 cc of tariff heading 25% 87.02, 87.03 and 87.04 Motor vehicles of tariff no. 8703.24.90 and 8703.33.90 35% Motorcycles of tariff 87.11 other than motorcycle ambulances, locally assembled motor cycles and electric motorcycles Shs. 12,952.83 per unit 100% electric powered motor vehicles of tariff no. 8702.40.11, 8702.40.19, 10% 8702.40.21, 8702.40.22, 8702.40.29, 8702.40.91, 8702.40.99 and 87.03.80.00 Imported sugar confectionary of tariff heading 17.04;\nKSh. 85.82 per kg Imported White chocolate of heading 1704; Imported chocolate and other food preparations containing cocoa of tariff nos. 1806.31.00, 1806.32.00 and 1806.90.00;\nShs. 257.55 per kg Imported gas cylinders 35% Imported Glass bottles (excluding imported glass bottles for packaging of pharmaceutical products) Provided that it shall not apply to glass bottles imported from any of the countries within the East African Community 35% or Ksh.40 per kg whichever is higher Jewellery of tariff heading 7113 and imported jewellery of tariff heading 7117 15% Description Rate of Excise Duty Products containing nicotine or nicotine substitutes intended for inhalation without combustion or oral application but excluding medicinal products approved by the Cabinet Secretary responsible for matters relating to health and other manufactured tobacco and manufactured tobacco substitutes that have been homogenized and reconstituted tobacco, tobacco extracts and essences KSh. 2,000.00 per kg Imported Articles of plastic of tariff heading 3923.30.00 and 3923.90.90 10% Imported eggs of tariff heading 04.07 excluding fertilized eggs for incubation 25% imported by licenced incubators Imported onions of tariff heading 07.03 25% Imported potatoes, potato crisps and potato chips of tariff heading 07.01 and 25% imported potatoes of tariff numbers 0710.10.00, 2004.10.00 and 2005.20.00 Imported Articles of plastic of tariff heading 3923.30.00 10% Electronic cigarettes and other nicotine delivery devices 40% Liquid nicotine for electronic cigarettes KSh. 100 per millilitre Imported ready to use SIM cards Shs. 50 per SIM card Imported fish 10% Powdered juice Shs. 25 per kg Imported sugar excluding sugar imported by a registered pharmaceutical manufacturer and raw sugar imported for processing by a licensed sugar refinery KShs. 7.50 per kg Imported cement 10% of the value or shs. 1.50 per kg, whichever is higher Imported furniture of tariff heading 9403 excluding furniture originating from 30% East African Community Partner States that meet the East African Community Rules of Origin Imported cellular phones 10% Imported paints, varnishes and lacquers of heading 3208, 3209 and 3210 15% Description Rate of Excise Duty Imported non-virgin test liner of heading 4805.24.00 25% Imported non-virgin fluting medium of heading 4805.19.00 25% Imported cartons, boxes and cases of corrugated paper or paper board and imported folding cartons, boxes and case of non-corrugated paper or paper board and imported skillets, free-hinge lid packets of tariff heading 4819.10.00, 4819.20.10 and 4819.20.90;\n25% or KSh. 200 per kilogramme, whichever is higher Imported plates of plastic of tariff heading 3919.90.90, 3920.10.90, 3920.43.90, 3920.62.90 and 3921.19.90 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin 25% or KSh. 200 per kilogramme, whichever is higher Imported paper or paper board, labels of all kinds whether or not printed of tariff heading 4821.10.00 and 4821.90.00 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin 25% or Ksh 200 per kilogramme, whichever is higher Imported printing ink of tariff 3215.11.00 and 3215.19.00 but excluding those 15% originating from East African Community Partner States that meet the East African Community Rules of Origin Imported Ceramic sinks, wash basins, wash basin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures of tariff heading 6910 5% of custom value or KSh. 50 per kg Imported Float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked of tariff 7005 but excluding those imported by a registered processor upon the recommendation by the Cabinet Secretary responsible for matter relating to industry and those originating from East African Community Partner States that meet the East African Community Rules of Origin 35% of excisable value or Ksh 500 per square meter whichever is higher.\nImported ceramic flags and paving, hearth or wall tiles; unglazed ceramic mosaic cubes and the like, whether or not on a backing; finishing ceramics of tariff 6907 5% or Ksh 300 per square metre,whichever is higher Imported other self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls of tariff number 3919.90.90, but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin.\n25% of excisable value or Kshs. 200 per Kilogramme, whichever is higher.\nDescription Rate of Excise Duty Imported printed polymers of ethylene of other plates, sheets, film, foil and strip, of plastics, noncellular and not reinforced, laminated, supported or similarly combined with other materials of tariff number 3920.10.90, but excluding those originating from East African Community Partner States that meet the EastAfrican Community Rules of Origin.\n25% of excisable value or Kshs. 200 per Kilogramme, whicheveris higher.\nImported printed polymers of vinyl chloride containing by weight not less than 6% of other plates, sheets, film, foil and strip, of plastics, noncellular and not reinforced, laminated, supported or similarly combined with other materials of tariff number 3920.43.90, but excluding those originating from East African Community Partner States that meet the EastAfrican Community Rules of Origin.\n25% of excisable value or Kshs. 200 per Kilogramme, whicheveris higher.\nImported printed poly (ethylene terephthalate) of polycarbonates, alkyd resins, polyallylesters or other polyesters of other plates, sheets, film, foil and strip, of plastics, noncellular and not reinforced, laminated, supported or similarly of tariff number 3920.62.90, but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin.\n25% of excisable value or Ksh. 200 per Kilogramme, whichever is higher.\nImported printed cellular of other plastics of other plates, sheets, film, foil and strip of tariff number 3921.19.90, but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin.\n25% of excisable value or Kshs. 200 per Kilogramme, whichever is higher.\nPrinted self-adhesive paper of tariff number 4811.41.90, but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin.\n25% of excisable value or Ksh. 200 per Kilogramme, whichever is higher.\nGummed paper and paperboard of tariff number 4811.49.00 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin.\n25% of excisable value or Ksh. 200 per Kilogramme, whichever is higher.\nImported tea whether or not flavored.\n25% of excisable value Imported Uncoated kraft paper and paperboard, in rolls or sheets; kraftliner; unbleached of tariff number 4804.11.00 but excluding those originating from East African Community Partner States that meet the EastAfrican Community Rules of Origin 25% of excisable value or kshs.50 per kilogramme, whichever is higher.\nImported other kraft paper or paperboard weighing 150g/m2 or less, in rolls or sheets; unbleached of tariff number 4804.31.00 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin 25% of excisable value or kshs.50 per Kilogram,whichever is higher.\nDescription Rate of Excise Duty Imported other kraft paper or paperboard weighing more than 150g/m2 but less than 225g/m2, in rolls or sheets; unbleached of tariff number 4804.41.00 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin 25% of excisable value or kshs.50 per Kilogram,whichever is higher.\nImported other kraft paper or paperboard weighing 225 g/m2 or more others in rolls or sheets; unbleached of tariff number 4804.51.00 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin 25% of excisable value or kshs.50 per Kilogram,whichever is higher.\nImported Glass of heading 70.03, 70.04 or 70.05, bent, edge-worked, engraved, drilled, enamelled or otherwise worked, but not framed or fitted with other materials of Tariff Heading 70.06, but excluding those from East Africa Community Partner States that meet the East Africa Community Rules of Origin.\n35% of excisable value or Kshs. 500 per square metre, whichever is higher Imported safety glass of tariff numbers 7007.19.00 and 7007.29.00 but excluding those originating from East African Community Partner States that meet the East African Community Rules of Origin.\n35% of excisable value or Kshs. 500 per squaremetre, whichever is higher Imported Multiple-walled insulating units of glass of Tariff Heading 70.08, but excluding those from East Africa Community Partner States that meet the East Africa Community Rules of Origin 35% of excisable value or Kshs. 500 per squaremetre, whichever is higher Imported fully built and semi-built direct air capture machines 25% of excisable value Imported aluminium profiles, fabricated doors and fabricated windows of tariff numbers 76.04, 7608.20 and 7610.10 25% of excisable value or Ksh.400 per kilogramme, whichever is higher.\nNon-refillable lighters of tariff number 9613.10.00 25% of excisable value or Ksh 500 per kilogramme Spirits of undenatured extra neutral alcohol of alcoholic strength exceeding 90% purchased by licensed manufacturers of spirituous beverages.\nKsh. 500 per litre Commodity Code Raw Materials 3907.91.00 Imported Unsaturated polyster 3907.50.00 Imported Alkyd 3905.91.00 Imported Emulsion VAM Excise duty 20% 20% 20% Commodity Code Raw Materials Excise duty 3903.20.00 Imported Emulsion - styrene Acrylic 20% 3905.19.00 Imported Homopolymers 20% 3906.90.00 Imported Emulsion B.A.M 20% 3907.99.00 Imported Saturated polyester 20% 3905.21.00 Imported polymers of vinyl acetate/vinyl esters 20% 3903.90.00 Imported emulsion-styrene acrylic 20%\n[Act No. 38 of 2016, s. 24, Act No. 11 of 2017, Sch., Act No. 15 of 2017, s. 5(a) (i) & (ii), Act No. 10 of 2018, s. 32(a), Act No. 23 of 2019, s. 26, Act No. 1 of 2020, s. 41, Act No. 8 of 2020, s. 17(a), Act No. 8 of 2021, s. 32(a), Act No. 22 of 2022, s. 35, Act No. 12 of 2024, s. 27(a)(i).]\n2. (1) The specific rates of excise duty on excisable goods specified in this Schedule shall be adjusted for inflation at the beginning of every financial year in accordance with this paragraph.\n(2) Each rate of excise duty specified in the table in paragraph 1 shall be replaced by the rate of excise duty computed by reference to the following formula—\nA(1+B) where—\nA is the rate of excise duty on the day immediately before the adjustment day; and B is the adjustment factor for the adjustment day, calculated as the average rate of monthly inflation of the preceding financial year.\n[Act No. 38 of 2016, s. 24(g), Act No. 15 of 2017, s. 5(a)(iii), Act No. 10 of 2018, s. 32(a).]\nPart II – EXCISABLE SERVICES 1. Telephone and internet data services shall be charged excise duty at a rate of fifteen percent of their excisable value. [Act No. 10 of 2018, s. 32(b)(i), Act No. 8 of 2021, s. 32(b), Act No. 4 of 2023, s. 47(b)(i)]\n2. Excise duty in fees charged for money transfer services by banks, money transfer agencies and other financial service providers shall be fifteen percent of their excisable value. [Act No. 10 of 2018, s. 32 (b)(ii), Act No. 4 of 2023, s. 47(b)(ii).]\n3. Excise duty on fees charged for money transfer services by cellular phone service providers, or payment service providers licensed under the National Payment System Act (Cap. 491A), shall be fifteen percent of their excisable value. [Act No. 10 of 2018, s. 32 (b)(iii), Act No. 4 of 2023, s. 47(b)(iii)]\n4. Excise duty on other fees charged by financial institutions shall be twenty percent of their excisable value. [Act No. 10 of 2018, s. 32 (b)(iv), Act No. 22 of 2022, s. 35]\n4A. Excise duty on betting shall be five percent on the amount deposited into a customer’s betting wallet: Provided that this paragraph shall not apply to horse racing.\n[Act No. 8 of 2021, s. 32(c), Act No. 4 of 2023, s. 47(b)(iv), Act No. 12 of 2024, s. 27(b)(i), Act No. 9 of 2025, s. 46.] 4B. Excise duty on gaming shall be five per cent on the amount deposited into a customer’s gaming wallet. [Act No. 8 of 2021, s. 32(c), Act No. 4 of 2023, s. 47(b)(v), Act No. 12 of 2024, s. 27(b)(ii), Act No. 9 of 2025, s. 46.] 4C. Excise duty on prize competition shall be five per cent of the amount paid or charged to participate in a prize competition. [Act No. 8 of 2021, s. 32 (c), Act No. 4 of 2023, s. 47(b) (vi), Act No. 12 of 2024, s. 27(b)(iii), Act No. 9 of 2025, s. 46.] 4D. Excise duty on lottery (excluding charitable lotteries) shall be five per cent of the amount paid or charged to buy the lottery ticket. [Act No. 8 of 2021, s. 32 (c), Act No. 4 of 2023, s. 47(b) (vii), Act No. 12 of 2024, s. 27(b)(iv), Act No. 9 of 2025, s. 46.] 5. Deleted by Act No. 8 of 2020, s. 17(b). 6. Excise duty on fees charged by digital lenders at a rate of twenty percent.\n[Act No. 22 of 2022, s. 35] 7. Deleted by Act No. 4 of 2023, s. 47(b)(viii). 8. Excise duty on fees charged on advertisement on the internet, social media, television, print media, billboards and radio stations on alcoholic beverages, betting, gaming, lotteries and prize competitions shall be at the rate of fifteen per cent.\n[Act No. 4 of 2023, s. 47(ix), Act No. 12 of 2024, s. 27(b)(v).] 9. Excise duty on fees charged on virtual assets transactions by virtual asset providers shall be ten percent of the excisable value. [Act No. 9 of 2025, s. 46.]\nPart III – INTERPRETATION OF SCHEDULE In this Schedule— “Adjustment day” means 1st day of October of every year; “amount deposited into a customer’s betting wallet” means the amount of money transferred by a customer into the customer wallet maintained by a licensed betting and gaming operator for betting and gaming purposes; “beer” includes ale, porter, and any other description of beer and any liquor, including beer substitute, which is produced as a result of the alcoholic fermentation of an extract derived from barley, malt, a cereal grain, starch or saccharine matter and hops or hops substitute, in potable water with other substitute ingredients and which contains more than two per centum of proof spirit, but does not include—\n  (a) any beer brewed by any person for personal consumption and which is not offered for sale; or (b) any kind of beer that, by order of the Cabinet Secretary, is excluded from the provisions of this Act; “cigar” means a cigar, cheroot or cigarillo prepared from tobacco or tobacco substitutes; “cigarette” means—\n  (a) rolls of tobacco capable of being smoked as they are and which are not cigars or cigarillos;\n  (b) rolls of tobacco which, by simple non-industrial handling, are inserted into cigarette-paper tubes; or\n  (c) rolls of tobacco that, by simple non-industrial handling, are wrapped in cigarette paper;\n“cigarillos” means—\n  (a) rolls of tobacco made entirely of natural tobacco; or\n  (b) rolls of tobacco with an outer wrapper of natural tobacco;\n“electronic cigarettes” means electronic nicotine delivery system whether or not containing tobacco or tobacco substitutes and includes electronic cigarette cartridges;\n“fees charged by digital lenders” includes any fees, charges or commissions charged by digital lenders relating to their licensed activities but does not include interest, pre-loan interest, post-loan interest, return on loan or any share of profit or an insurance premium or premium based or related commissions specified in the insurance Act or regulations made thereunder;\n“financial institution” means—\n  (a) a person licensed under—\n  (i) the Banking Act (Cap. 488);\n  (ii) the Insurance Act (Cap. 487);\n  (iii) the Central Bank of Kenya Act (Cap. 491); or\n  (iv) the Micro Finance Act (Cap. 493C);\n  (b) a Sacco society registered under the Sacco Societies Act (Cap. 490B); or\n  (c) the Kenya Post Office Savings Bank established the Kenya Post Office Savings Bank Act (Cap. 493A);\n“financial year” means the period of twelve months ending on the 30th June of every year;\n“inflation” means the average annual inflation rate in a financial year;\n“money transfer services” includes services of sending and withdrawal of money;\n“other fees” includes any fees, charges or commissions charged by financial institutions relating to their licensed activities, but does not include interest on loan or return on loan or any share of profit or an insurance premium or premium based or related commissions specified in the Insurance Act or regulations made thereunder;\n\"powdered beer\" means any powder, crystals or any other dry substance which, after being mixed with water or any other nonalcoholic beverage, ferments to, or otherwise becomes an alcoholic beverage;\n“proof” means a standard of strength of distilled alcoholic liquors (or of vinegar);\n“proof spirit” means spirit that at a temperature of 10.55 degrees Centigrade weighs 12/13th of an equal volume of distilled water at the same temperature;\n“rate of monthly inflation in each month” means the movement in the consumer price index number published by the Kenya National Bureau of Statistics for that month when compared to the same month in the preceding year;\n“small independent brewer” means manufacturers of beer, cider, perry, mead, opaque beer, wine and fortified wines and mixtures of fermented beverages with non-alcoholic beverages manufactured whose production volume does not exceed 150,000 litres per month;\n“wine” means a liquor of a strength not exceeding 50 degrees of proof that is made from fruit and sugar or from fruit and sugar mixed with any other material and which has undergone a process of fermentation and includes mead.\n[Act No. 11 of 2017, Sch., Act No. 23 of 2019, s. 26, Act No. 2 of 2020, Sch, Act No. 8 of 2021, s. 32(d), Act No. 4 of 2023, s. 47(c), Act No. 9 of 2025, s. 46.]"
+  },
+  {
+   "id": "att_2",
+   "title": "SECOND SCHEDULE [s. 7(1)(a)]",
+   "subtitle": "EXEMPT EXCISABLE GOODS AND SERVICES",
+   "text": "[ Act No. 38 of 2016, Act No. 15 of 2017, Act No. 10 of 2018, s. 33, Act No. 2 of 2020, Sch, Act No. 8 of 2021, s. 33, Act No. 22 of 2022, s. 36, Act No. 9 of 2025, s. 47.]\nPART A — EXEMPT EXCISABLE GOODS The following excisable goods shall be exempt from excise duty when purchased before clearance through Customs or removal from excise control—\n1. Excisable goods that are bona fide stores for a ship or aircraft, being goods for use or consumption by passengers or crew of the ship or aircraft while on board and while the ship is in international traffic, and in such quantities as approved by the Commissioner.\n2. Excisable goods imported into Kenya or purchased in Kenya by a diplomatic or consular mission, or by a diplomat or consul, or a member of the diplomat or consul's family forming part of the diplomat or consul's household in Kenya to the extent provided for under the Privileges and Immunities Act (Cap. 179).\n3. Excisable goods imported into Kenya or purchased in Kenya by a foreign government, international organisation, or aid agency to the extent provided for under an international agreement or the Privileges and Immunities Act (Cap. 179).\n4. One motor vehicle for use by persons with disability:\nProvided that exemption under this paragraph shall only apply once in every four years and upon payment of taxes on the previous vehicle.\n5. Excisable Goods imported or Purchased locally by the Kenya Red Cross or St John Ambulance for official use in the provision of relief services in Kenya.\n[Act No. 15 of 2017, s. 6(a).]\n6. Excisable goods imported by a person changing residence or a returning resident subject to limitations provided for under the fifth schedule to the East African Community Management Act:\nProvided that where the returning resident has owned and used a left hand drive vehicle for at least twelve months the person may sell the vehicle and import a right hand drive vehicle whose current retail selling price shall not exceed that of the previously owned left-hand drive vehicle, subject to the following—\n  (a) proof of ownership and use of the previously owned left hand drive vehicle in the country of former residence for a period of at least one year prior to the return;\n  (b) proof of disposal (transfer of ownership) of the previously owned left hand drive vehicle before changing residence.\n  (c) deleted by Act No. 15 of 2017, s. 6(b)(ii);\n  (d) This proviso shall only apply to residents returning from countries that operate left hand drive motor vehicles.\n[Act No. 15 of 2017, s. 6(b).]\n7. Excisable goods imported by, and in the possession of a passenger subject to limitations provided for under the fifth schedule to the East African Community Management Act.\n8. One motor vehicle previously owned and used by a deceased person outside Kenya subject to the conditions as the Commissioner may specify.\nIn this Part, \"international agreement\" means an agreement between the Government of Kenya and a foreign government, international organization, or aid agency for the provision of financial, technical, humanitarian, or administrative assistance to the Government of Kenya.\n9. Excisable goods imported or purchased locally for direct and exclusive use in the implementation of an Official Aid-Funded Project, to the extent provided for under the financing agreement.\n[Act No. 38 of 2016, s. 25.]\n10. Excisable goods imported or purchased locally for direct use in the manufacture of sanitary towels.\n[Act No. 38 of 2016, s. 25, Act No. 15 of 2017, s. 6(c).]\n11. All goods including materials supplies, equipment, machinery and motor vehicles for the official use by the Kenya Defence Forces, the Defence Forces Welfare Services and the National Police Service.\n[Act No. 38 of 2016, s. 25, Act No. 9 of 2025, s. 47.]\n12. All goods imported or purchased locally by the Defence Forces Welfare Services.\n[Act No. 10 of 2018, s. 33, Act No. 9 of 2025, s. 47.]\n13. Illuminating kerosene supplies to licenced or registered manufacturers of paint, resin or shoe polish in such quantities as the Commissioner may approve.\n[Act No. 2 of 2020, Sch., Act No. 8 of 2021, s. 33 (a).]\n14. Deleted by Act No. 2 of 2020, Sch.\n15. Neutral spirit imported or purchased locally by registered pharmaceutical manuf acturers upon approval by the Commissioner\n[Act No. 22 of 2022, s. 36]\n16. Locally manufactured passenger motor vehicles:\nProvided that in this paragraph,\n\"locally manufactured passenger motor vehicle” means a motor vehicle for the transportation of passengers which is manufactured in Kenya and whose ex-factory value comprises at least thirty percent of local content;\n\"local content” means parts designed and manufactured in Kenya by an original equipment manufacturer operating in Kenya.\n[Act No. 22 of 2022, s. 36]\n17. Disassembled or unassembled kits for local assembly or manufacture mobile phones.\n[Act No. 4 of 2023, s. 48.]\nPART B — EXEMPT EXCISABLE SERVICES 1. The following excisable services shall be exempt from excise duty—\n  (a) Excisable services supplied in Kenya to a diplomatic or consular mission or to a diplomat or consul, or a member of the diplomat or consul's family forming part of the diplomat or consul's household in Kenya to the extent provided for under the Privileges and Immunities Act (Cap. 179).\n  (b) Excisable services supplied in Kenya to a foreign government, international organisation, or aid agency to the extent provided for under an international agreement or the Privileges and Immunities Act (Cap. 179).\n  (c) Excisable services supplied to or by the Kenya Defence Forces Welfare Services;\n[Act No. 9 of 2025, s. 47.]\n2. In this Part, \"international agreement\" means an agreement between the Government of Kenya and a foreign government, international organization, or aid agency for the provision of financial, technical, humanitarian, or administrative assistance to the Government of Kenya.\n3. Excisable services supplied in Kenya by a mobile telecommunication service provider on the sale of a ring back tune to a subscriber.\n[Act No. 8 of 2021, s. 33(b).]"
+  }
+ ],
+ "spent": {}
+}
